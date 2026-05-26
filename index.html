@@ -1,0 +1,524 @@
+<!DOCTYPE html>
+<html lang="zh-TW">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Silicon Watch · 半導體資訊中樞</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link href="https://fonts.googleapis.com/css2?family=Noto+Serif+TC:wght@400;600;700&family=JetBrains+Mono:wght@400;500&family=Inter:wght@300;400;500&display=swap" rel="stylesheet">
+<style>
+*,*::before,*::after{box-sizing:border-box;margin:0;padding:0}
+:root{
+  --bg:#0a0e14;--bg2:#0f141c;--bg3:#141a24;--bg4:#1a2030;
+  --border:rgba(100,180,255,.12);--border2:rgba(100,180,255,.22);
+  --accent:#00c8ff;--gold:#f0a500;
+  --text:#c8d8e8;--text2:#8899aa;--text3:#556677;
+  --green:#00e5aa;--red:#ff5566;--purple:#a080ff;
+  --font-d:'Noto Serif TC',serif;--font-b:'Inter',sans-serif;--font-m:'JetBrains Mono',monospace;
+}
+html{scroll-behavior:smooth}
+body{background:var(--bg);color:var(--text);font-family:var(--font-b);font-size:14px;line-height:1.6;min-height:100vh}
+body::before{content:'';position:fixed;inset:0;background-image:linear-gradient(rgba(0,200,255,.03) 1px,transparent 1px),linear-gradient(90deg,rgba(0,200,255,.03) 1px,transparent 1px);background-size:40px 40px;pointer-events:none;z-index:0}
+
+header{position:sticky;top:0;z-index:100;background:rgba(10,14,20,.93);backdrop-filter:blur(12px);border-bottom:1px solid var(--border);padding:0 2rem;height:56px;display:flex;align-items:center;justify-content:space-between}
+.logo{display:flex;align-items:center;gap:10px}
+.logo-hex{width:28px;height:28px;background:var(--accent);clip-path:polygon(50% 0%,100% 25%,100% 75%,50% 100%,0% 75%,0% 25%);animation:pulse-hex 3s ease-in-out infinite}
+@keyframes pulse-hex{0%,100%{box-shadow:0 0 0 0 rgba(0,200,255,.4)}50%{box-shadow:0 0 0 8px rgba(0,200,255,0)}}
+.logo-text{font-family:var(--font-m);font-size:15px;font-weight:500;color:#fff;letter-spacing:.05em}
+.logo-sub{font-family:var(--font-m);font-size:10px;color:var(--accent);letter-spacing:.15em;text-transform:uppercase}
+.header-r{display:flex;align-items:center;gap:1.5rem}
+.live-badge{display:flex;align-items:center;gap:6px;font-family:var(--font-m);font-size:11px;color:var(--green);letter-spacing:.1em}
+.live-dot{width:6px;height:6px;border-radius:50%;background:var(--green);animation:blink 1.5s ease-in-out infinite}
+@keyframes blink{0%,100%{opacity:1}50%{opacity:.2}}
+#clock{font-family:var(--font-m);font-size:11px;color:var(--text3)}
+
+/* Ticker */
+.ticker-bar{grid-column:1/-1;background:var(--bg3);border:1px solid var(--border);border-radius:6px;overflow:hidden;display:flex;align-items:center;height:38px}
+.ticker-label{flex-shrink:0;background:var(--accent);color:#000;font-family:var(--font-m);font-size:10px;font-weight:500;letter-spacing:.12em;padding:0 12px;height:100%;display:flex;align-items:center;text-transform:uppercase;white-space:nowrap}
+.ticker-content{flex:1;overflow:hidden;padding:0 12px}
+.ticker-scroll{display:flex;gap:3rem;animation:scroll-left 60s linear infinite;white-space:nowrap}
+.ticker-scroll:hover{animation-play-state:paused}
+@keyframes scroll-left{from{transform:translateX(0)}to{transform:translateX(-50%)}}
+.ticker-item{display:inline-flex;align-items:center;gap:8px;font-size:12px;color:var(--text);cursor:pointer}
+.ticker-item:hover{color:var(--accent)}
+.t-tag{font-family:var(--font-m);font-size:9px;background:rgba(0,200,255,.1);color:var(--accent);padding:1px 5px;border-radius:3px;border:1px solid rgba(0,200,255,.2);white-space:nowrap}
+
+/* Layout */
+main{position:relative;z-index:1;max-width:1400px;margin:0 auto;padding:1.5rem 2rem;display:grid;grid-template-columns:270px 1fr 290px;gap:1.5rem}
+.span-all{grid-column:1/-1}
+
+/* Filters */
+.sec-hdr{display:flex;align-items:center;gap:1rem;flex-wrap:wrap;margin-bottom:.5rem}
+.sec-title{font-family:var(--font-m);font-size:10px;color:var(--text3);letter-spacing:.18em;text-transform:uppercase}
+.filter-tabs{display:flex;gap:6px;flex-wrap:wrap}
+.ftab{font-family:var(--font-m);font-size:11px;padding:4px 10px;border-radius:4px;border:1px solid var(--border);background:transparent;color:var(--text2);cursor:pointer;transition:all .2s;letter-spacing:.05em}
+.ftab:hover,.ftab.active{border-color:var(--accent);color:var(--accent);background:rgba(0,200,255,.08)}
+
+/* Panel */
+.panel{background:var(--bg2);border:1px solid var(--border);border-radius:8px;overflow:hidden;margin-bottom:1rem}
+.panel-hdr{padding:9px 14px;border-bottom:1px solid var(--border);display:flex;align-items:center;justify-content:space-between}
+.panel-title{font-family:var(--font-m);font-size:10px;color:var(--text3);letter-spacing:.15em;text-transform:uppercase}
+.panel-count{font-family:var(--font-m);font-size:10px;color:var(--accent)}
+
+/* Skeleton */
+@keyframes shimmer{0%{background-position:200% 0}100%{background-position:-200% 0}}
+.skel{background:linear-gradient(90deg,var(--bg3) 25%,var(--bg4) 50%,var(--bg3) 75%);background-size:200% 100%;animation:shimmer 1.4s infinite;border-radius:4px}
+.card-skel{background:var(--bg2);border:1px solid var(--border);border-radius:8px;padding:15px 17px;margin-bottom:1rem}
+.skel-line{height:12px;margin-bottom:8px}.skel-line.t{height:16px;width:85%}.skel-line.m{height:10px;width:40%}.skel-line.b{width:100%}.skel-line.b2{width:70%}
+
+/* Sources */
+.src-item{display:flex;align-items:center;justify-content:space-between;padding:8px 14px;text-decoration:none;transition:background .15s}
+.src-item:hover{background:var(--bg4)}
+.src-dot{width:8px;height:8px;border-radius:50%;flex-shrink:0;margin-right:8px}
+.src-name{font-size:13px;color:var(--text)}
+.src-cnt{font-family:var(--font-m);font-size:10px;background:var(--bg4);color:var(--text3);padding:1px 6px;border-radius:10px}
+
+/* Tech bars */
+.tech-items{padding:8px 14px 12px}
+.tech-item{display:flex;align-items:center;justify-content:space-between;padding:5px 0;border-bottom:1px solid var(--border)}
+.tech-item:last-child{border-bottom:none}
+.tech-name{font-size:12px;color:var(--text)}
+.tech-bw{display:flex;align-items:center;gap:6px}
+.tech-bar{width:60px;height:3px;background:var(--bg4);border-radius:2px;overflow:hidden}
+.tech-fill{height:100%;border-radius:2px;background:var(--accent);transition:width .8s ease}
+.tech-pct{font-family:var(--font-m);font-size:10px;color:var(--text3);width:28px;text-align:right}
+
+/* Search */
+.search-wrap{position:relative;margin-bottom:1rem}
+.search-input{width:100%;background:var(--bg2);border:1px solid var(--border);color:var(--text);font-family:var(--font-m);font-size:12px;padding:9px 12px 9px 34px;border-radius:6px;outline:none;transition:border-color .2s}
+.search-input:focus{border-color:var(--accent)}
+.search-input::placeholder{color:var(--text3)}
+.search-ico{position:absolute;left:10px;top:50%;transform:translateY(-50%);color:var(--text3);font-size:15px;pointer-events:none}
+
+/* News cards */
+.news-grid{display:grid;gap:1rem}
+.news-card{background:var(--bg2);border:1px solid var(--border);border-radius:8px;padding:15px 17px;cursor:pointer;transition:all .2s;text-decoration:none;display:block;animation:fade-up .35s ease both}
+.news-card:hover{border-color:var(--border2);background:var(--bg3);transform:translateX(3px)}
+.news-card.featured{border-color:rgba(0,200,255,.3);background:linear-gradient(135deg,var(--bg2) 0%,rgba(0,200,255,.04) 100%)}
+.news-card.featured:hover{border-color:var(--accent)}
+@keyframes fade-up{from{opacity:0;transform:translateY(10px)}to{opacity:1;transform:translateY(0)}}
+.card-meta{display:flex;align-items:center;gap:7px;margin-bottom:7px;flex-wrap:wrap}
+.src-badge{font-family:var(--font-m);font-size:9px;letter-spacing:.1em;padding:2px 7px;border-radius:3px;font-weight:500;text-transform:uppercase;white-space:nowrap}
+.badge-technews{background:rgba(240,165,0,.15);color:#f0c060;border:1px solid rgba(240,165,0,.25)}
+.badge-digitimes{background:rgba(0,136,204,.2);color:#5dc8ff;border:1px solid rgba(0,136,204,.3)}
+.badge-liberty{background:rgba(0,229,170,.12);color:#00e5aa;border:1px solid rgba(0,229,170,.2)}
+.badge-ctimes{background:rgba(160,128,255,.15);color:#c0a8ff;border:1px solid rgba(160,128,255,.25)}
+.badge-tsmc{background:rgba(255,85,102,.15);color:#ff8899;border:1px solid rgba(255,85,102,.25)}
+.badge-anand{background:rgba(136,136,136,.15);color:#aaa;border:1px solid rgba(136,136,136,.25)}
+.card-time{font-family:var(--font-m);font-size:10px;color:var(--text3);margin-left:auto;white-space:nowrap}
+.card-title{font-family:var(--font-d);font-size:14px;font-weight:600;color:#e8f0f8;line-height:1.5;margin-bottom:5px}
+.news-card:hover .card-title{color:#fff}
+.card-summary{font-size:12px;color:var(--text2);line-height:1.6;display:-webkit-box;-webkit-line-clamp:2;-webkit-box-orient:vertical;overflow:hidden}
+.card-footer{display:flex;align-items:center;gap:8px;margin-top:9px;padding-top:9px;border-top:1px solid var(--border)}
+.card-tags{display:flex;gap:5px;flex-wrap:wrap;flex:1}
+.card-tag{font-size:10px;color:var(--text3);background:var(--bg4);padding:1px 6px;border-radius:3px;border:1px solid var(--border)}
+.card-link{font-family:var(--font-m);font-size:10px;color:var(--accent);text-decoration:none;white-space:nowrap;opacity:0;transition:opacity .2s}
+.news-card:hover .card-link{opacity:1}
+.empty-state{padding:2rem;text-align:center;color:var(--text3);font-size:12px;font-family:var(--font-m)}
+.error-banner{padding:1rem;background:rgba(255,85,102,.08);border:1px solid rgba(255,85,102,.25);border-radius:6px;color:var(--red);font-family:var(--font-m);font-size:11px;text-align:center;margin-bottom:1rem}
+
+/* Updated badge */
+.updated-chip{font-family:var(--font-m);font-size:10px;color:var(--text3);padding:4px 10px;background:var(--bg3);border:1px solid var(--border);border-radius:4px;white-space:nowrap}
+
+/* Pagination */
+.pagination{display:flex;justify-content:center;align-items:center;gap:8px;padding:1rem 0}
+.page-btn{font-family:var(--font-m);font-size:11px;padding:5px 12px;background:transparent;border:1px solid var(--border);color:var(--text2);border-radius:4px;cursor:pointer;transition:all .2s}
+.page-btn:hover,.page-btn.active{border-color:var(--accent);color:var(--accent);background:rgba(0,200,255,.08)}
+.page-btn:disabled{opacity:.3;cursor:not-allowed}
+#page-info{font-family:var(--font-m);font-size:11px;color:var(--text3)}
+
+/* Stats */
+.stat-grid{display:grid;grid-template-columns:1fr 1fr;gap:1px;background:var(--border)}
+.stat-cell{background:var(--bg2);padding:12px 14px}
+.stat-lbl{font-family:var(--font-m);font-size:9px;color:var(--text3);letter-spacing:.1em;text-transform:uppercase;margin-bottom:4px}
+.stat-val{font-family:var(--font-m);font-size:20px;font-weight:500;color:#fff;letter-spacing:-.02em}
+.stat-delta{font-family:var(--font-m);font-size:10px;margin-top:2px;color:var(--green)}
+
+/* Events */
+.event-item{padding:10px 14px;border-bottom:1px solid var(--border);text-decoration:none;display:block;transition:background .15s}
+.event-item:hover{background:var(--bg4)}
+.event-item:last-child{border-bottom:none}
+.event-date{font-family:var(--font-m);font-size:9px;color:var(--red);letter-spacing:.1em;margin-bottom:3px}
+.event-title{font-size:12px;color:var(--text);line-height:1.4}
+.event-item:hover .event-title{color:#fff}
+.event-type{display:inline-block;font-family:var(--font-m);font-size:9px;color:var(--gold);border:1px solid rgba(240,165,0,.3);padding:1px 5px;border-radius:3px;margin-top:4px}
+
+/* Highlights */
+.hl-item{padding:10px 14px;border-bottom:1px solid var(--border);display:block;text-decoration:none;transition:background .15s;cursor:default}
+.hl-item:last-child{border-bottom:none}
+.hl-num{font-family:var(--font-m);font-size:18px;font-weight:500;color:var(--bg4);float:left;margin-right:10px;line-height:1.3}
+.hl-title{font-size:12px;color:var(--text);line-height:1.5}
+.hl-src{font-family:var(--font-m);font-size:10px;color:var(--text3);margin-top:3px;clear:both;padding-top:2px}
+
+/* Footer */
+footer{position:relative;z-index:1;border-top:1px solid var(--border);padding:1.5rem 2rem;display:flex;align-items:center;justify-content:space-between;max-width:1400px;margin:0 auto;flex-wrap:wrap;gap:1rem}
+.footer-text{font-family:var(--font-m);font-size:10px;color:var(--text3);letter-spacing:.08em}
+.footer-links{display:flex;gap:1.5rem;flex-wrap:wrap}
+.footer-link{font-family:var(--font-m);font-size:10px;color:var(--text3);text-decoration:none;transition:color .15s}
+.footer-link:hover{color:var(--accent)}
+
+@media(max-width:1100px){main{grid-template-columns:240px 1fr}.col-right{grid-column:1/-1;display:grid;grid-template-columns:repeat(auto-fit,minmax(260px,1fr));gap:1rem}.col-right .panel{margin-bottom:0}}
+@media(max-width:720px){main{grid-template-columns:1fr;padding:1rem}.col-left{display:none}header{padding:0 1rem}.span-all{grid-column:1}}
+</style>
+</head>
+<body>
+
+<header>
+  <div class="logo">
+    <div class="logo-hex"></div>
+    <div>
+      <div class="logo-text">Silicon Watch</div>
+      <div class="logo-sub">半導體資訊中樞</div>
+    </div>
+  </div>
+  <div class="header-r">
+    <div class="live-badge"><div class="live-dot"></div><span>LIVE</span></div>
+    <div id="clock"></div>
+    <div class="updated-chip" id="updated-chip">載入中…</div>
+  </div>
+</header>
+
+<main>
+  <!-- Ticker -->
+  <div class="ticker-bar span-all">
+    <div class="ticker-label">速報</div>
+    <div class="ticker-content">
+      <div class="ticker-scroll" id="ticker-scroll">
+        <span class="ticker-item"><span class="t-tag">載入中</span>正在讀取最新半導體新聞…</span>
+      </div>
+    </div>
+  </div>
+
+  <!-- Filters -->
+  <div class="sec-hdr span-all">
+    <div class="sec-title">新聞彙整</div>
+    <div class="filter-tabs">
+      <button class="ftab active" onclick="setFilter('all',this)">全部</button>
+      <button class="ftab" onclick="setFilter('process',this)">製程技術</button>
+      <button class="ftab" onclick="setFilter('material',this)">材料</button>
+      <button class="ftab" onclick="setFilter('packaging',this)">先進封裝</button>
+      <button class="ftab" onclick="setFilter('equipment',this)">設備</button>
+      <button class="ftab" onclick="setFilter('market',this)">市場動態</button>
+      <button class="ftab" onclick="setFilter('tsmc',this)">台積電</button>
+      <button class="ftab" onclick="setFilter('research',this)">學術研究</button>
+    </div>
+  </div>
+
+  <!-- Left column -->
+  <div class="col-left">
+    <div class="panel">
+      <div class="panel-hdr">
+        <span class="panel-title">資料來源</span>
+        <span class="panel-count" id="total-count">—</span>
+      </div>
+      <div id="source-list">
+        <div style="padding:8px 14px"><div class="skel skel-line b" style="height:14px;margin:6px 0"></div><div class="skel skel-line b" style="height:14px;margin:6px 0;width:70%"></div><div class="skel skel-line b" style="height:14px;margin:6px 0;width:80%"></div></div>
+      </div>
+    </div>
+    <div class="panel">
+      <div class="panel-hdr"><span class="panel-title">製程技術熱度</span></div>
+      <div class="tech-items" id="tech-bars">
+        <div class="skel skel-line b" style="height:12px;margin:8px 0"></div>
+        <div class="skel skel-line b" style="height:12px;margin:8px 0;width:75%"></div>
+        <div class="skel skel-line b" style="height:12px;margin:8px 0;width:85%"></div>
+      </div>
+    </div>
+    <div class="panel">
+      <div class="panel-hdr"><span class="panel-title">關鍵字追蹤</span></div>
+      <div class="tech-items" id="keyword-bars">
+        <div class="skel skel-line b" style="height:12px;margin:8px 0;width:60%"></div>
+        <div class="skel skel-line b" style="height:12px;margin:8px 0;width:70%"></div>
+      </div>
+    </div>
+  </div>
+
+  <!-- Center column -->
+  <div class="col-center">
+    <div class="search-wrap">
+      <span class="search-ico">⌕</span>
+      <input class="search-input" type="text" placeholder="搜尋新聞、技術、公司…" oninput="onSearch(this.value)">
+    </div>
+    <div id="error-banner" style="display:none" class="error-banner"></div>
+    <div id="news-feed">
+      <div class="card-skel"><div class="skel skel-line m"></div><div class="skel skel-line t"></div><div class="skel skel-line b"></div><div class="skel skel-line b2"></div></div>
+      <div class="card-skel"><div class="skel skel-line m"></div><div class="skel skel-line t"></div><div class="skel skel-line b"></div><div class="skel skel-line b2"></div></div>
+      <div class="card-skel"><div class="skel skel-line m"></div><div class="skel skel-line t"></div><div class="skel skel-line b"></div><div class="skel skel-line b2"></div></div>
+    </div>
+    <div class="pagination" id="pagination"></div>
+  </div>
+
+  <!-- Right column -->
+  <div class="col-right">
+    <div class="panel">
+      <div class="panel-hdr"><span class="panel-title">今日關鍵數據</span></div>
+      <div class="stat-grid">
+        <div class="stat-cell"><div class="stat-lbl">新聞總量</div><div class="stat-val" id="s-total">—</div><div class="stat-delta" id="s-today">—</div></div>
+        <div class="stat-cell"><div class="stat-lbl">來源數</div><div class="stat-val" id="s-sources">—</div><div class="stat-delta">持續擴充中</div></div>
+        <div class="stat-cell"><div class="stat-lbl">最近更新</div><div class="stat-val" style="font-size:13px" id="s-updated">—</div><div class="stat-delta">GitHub Actions</div></div>
+        <div class="stat-cell"><div class="stat-lbl">下次更新</div><div class="stat-val" style="font-size:13px" id="s-next">—</div><div class="stat-delta">每 2 小時自動</div></div>
+      </div>
+    </div>
+    <div class="panel">
+      <div class="panel-hdr"><span class="panel-title">台積電技術論壇 &amp; 活動</span></div>
+      <a href="https://pr.tsmc.com/" target="_blank" rel="noopener" class="event-item"><div class="event-date">2025.12.04–05</div><div class="event-title">TSMC Technology Symposium North America 2025</div><span class="event-type">技術論壇</span></a>
+      <a href="https://pr.tsmc.com/" target="_blank" rel="noopener" class="event-item"><div class="event-date">2025.11.18</div><div class="event-title">TSMC Open Innovation Platform® Ecosystem Forum</div><span class="event-type">生態系論壇</span></a>
+      <a href="https://ieeexplore.ieee.org/" target="_blank" rel="noopener" class="event-item"><div class="event-date">2025.10.22</div><div class="event-title">IEEE IEDM 2025 — TSMC 技術論文發表</div><span class="event-type">學術發表</span></a>
+    </div>
+    <div class="panel">
+      <div class="panel-hdr"><span class="panel-title">熱門關鍵字 Top 5</span></div>
+      <div id="top-keywords">
+        <div style="padding:8px 14px"><div class="skel skel-line b" style="height:12px;margin:8px 0;width:60%"></div><div class="skel skel-line b" style="height:12px;margin:8px 0;width:75%"></div></div>
+      </div>
+    </div>
+  </div>
+</main>
+
+<footer>
+  <div class="footer-text">Silicon Watch · 半導體資訊中樞 · GitHub Actions 每 2 小時自動更新</div>
+  <div class="footer-links">
+    <a href="https://technews.tw/" target="_blank" rel="noopener" class="footer-link">科技新報</a>
+    <a href="https://www.digitimes.com.tw/" target="_blank" rel="noopener" class="footer-link">Digitimes</a>
+    <a href="https://ec.ltn.com.tw/" target="_blank" rel="noopener" class="footer-link">自由時報</a>
+    <a href="https://www.ctee.com.tw/" target="_blank" rel="noopener" class="footer-link">工商時報</a>
+    <a href="https://pr.tsmc.com/" target="_blank" rel="noopener" class="footer-link">台積電</a>
+    <a href="https://www.eetimes.com/" target="_blank" rel="noopener" class="footer-link">EE Times</a>
+  </div>
+</footer>
+
+<script>
+// ── Constants ──────────────────────────────────────────────────────────────
+const PAGE_SIZE = 8;
+
+// ── State ──────────────────────────────────────────────────────────────────
+let allArticles      = [];
+let filteredArticles = [];
+let sourceMeta       = [];
+let currentFilter    = 'all';
+let currentSearch    = '';
+let currentPage      = 1;
+let dataUpdated      = null;
+
+// ── Clock ──────────────────────────────────────────────────────────────────
+setInterval(() => {
+  const n = new Date();
+  document.getElementById('clock').textContent =
+    [n.getHours(),n.getMinutes(),n.getSeconds()].map(x=>String(x).padStart(2,'0')).join(':');
+}, 1000);
+
+// ── Helpers ────────────────────────────────────────────────────────────────
+function relTime(iso) {
+  if (!iso) return '';
+  const s = (Date.now() - new Date(iso)) / 1000;
+  if (isNaN(s)) return '';
+  if (s < 60)    return '剛剛';
+  if (s < 3600)  return Math.floor(s/60) + '分鐘前';
+  if (s < 86400) return Math.floor(s/3600) + '小時前';
+  return Math.floor(s/86400) + '天前';
+}
+
+const TECH_KW = {
+  'N2 / 2nm':           ['n2','2nm','2 nm','2奈米'],
+  'N3 / 3nm':           ['n3','n3e','3nm','3奈米'],
+  'CoWoS / SoIC':       ['cowos','soic','先進封裝'],
+  'GAA / NSFET':        ['gaa','nsfet','gaafet','全環繞'],
+  'EUV / High-NA':      ['euv','high-na','極紫外光'],
+  'HBM / 記憶體':       ['hbm','hbm3','high bandwidth'],
+  'Chiplet / 異質整合': ['chiplet','異質整合','3d ic'],
+};
+const TOP_KW = ['台積電','AI 晶片','先進封裝','EUV','2nm','CoWoS','HBM','GAA'];
+
+function scoreTech(arts) {
+  const c={};
+  for(const[l,kws] of Object.entries(TECH_KW))
+    c[l]=arts.filter(a=>kws.some(k=>(a.title+a.summary).toLowerCase().includes(k))).length;
+  return c;
+}
+function scoreKw(arts) {
+  const c={};
+  for(const kw of TOP_KW)
+    c[kw]=arts.filter(a=>(a.title+a.summary).toLowerCase().includes(kw.toLowerCase())).length;
+  return c;
+}
+
+// ── Category detection ─────────────────────────────────────────────────────
+function detectCats(a) {
+  const t=(a.title+' '+a.summary).toLowerCase();
+  const cats=[...(a.cats||[])];
+  if(['製程','nm ','n2','n3','n4','n5','n7','gaafet','nsfet','finfet','euv'].some(k=>t.includes(k))) cats.push('process');
+  if(['材料','介電','high-k','low-k','氧化','氮化','hafnium','mos2','wse'].some(k=>t.includes(k))) cats.push('material');
+  if(['封裝','cowos','soic','chiplet','異質','3d ic','hbm'].some(k=>t.includes(k))) cats.push('packaging');
+  if(['設備','asml','euv','機台','kla','applied materials','lam research'].some(k=>t.includes(k))) cats.push('equipment');
+  if(['市場','訂單','出貨','需求','客戶','營收'].some(k=>t.includes(k))) cats.push('market');
+  if(['台積電','tsmc'].some(k=>t.includes(k))) cats.push('tsmc');
+  if(['ieee','iedm','論文','research','university','大學','mit'].some(k=>t.includes(k))) cats.push('research');
+  return [...new Set(cats)];
+}
+function extractTags(a) {
+  const t=(a.title+' '+a.summary).toLowerCase();
+  const map={'N2':'n2','N3E':'n3e','CoWoS':'cowos','HBM':'hbm','GAA':'gaafet','EUV':'euv','High-NA':'high-na','AI 晶片':'ai','台積電':'台積電','先進封裝':'先進封裝'};
+  return Object.entries(map).filter(([,k])=>t.includes(k)).map(([l])=>l).slice(0,4);
+}
+
+// ── Render ─────────────────────────────────────────────────────────────────
+function applyFilters() {
+  filteredArticles = allArticles.filter(a => {
+    const cats = detectCats(a);
+    const catOk = currentFilter==='all' || cats.includes(currentFilter);
+    const q = currentSearch.toLowerCase();
+    const searchOk = !q || (a.title+a.summary).toLowerCase().includes(q);
+    return catOk && searchOk;
+  });
+  const maxPage = Math.max(1, Math.ceil(filteredArticles.length/PAGE_SIZE));
+  if(currentPage>maxPage) currentPage=1;
+  renderFeed();
+  renderPagination();
+}
+
+function renderFeed() {
+  const feed = document.getElementById('news-feed');
+  if(!filteredArticles.length){
+    feed.innerHTML=`<div class="empty-state">找不到符合條件的新聞</div>`;
+    return;
+  }
+  const srcMap = sourceMeta.reduce((m,s)=>{m[s.id]=s;return m;},{});
+  const page = filteredArticles.slice((currentPage-1)*PAGE_SIZE, currentPage*PAGE_SIZE);
+  feed.innerHTML = page.map((a,i)=>{
+    const src=srcMap[a.sourceId]||{name:a.sourceId,badge:'badge-anand'};
+    const tags=extractTags(a);
+    const featured=i===0&&currentPage===1?'featured':'';
+    return `<a href="${a.link}" target="_blank" rel="noopener" class="news-card ${featured}" style="animation-delay:${i*.04}s">
+      <div class="card-meta">
+        <span class="src-badge ${src.badge}">${src.name}</span>
+        <span class="card-time">${relTime(a.date)}</span>
+      </div>
+      <div class="card-title">${a.title}</div>
+      ${a.summary?`<div class="card-summary">${a.summary}</div>`:''}
+      <div class="card-footer">
+        <div class="card-tags">${tags.map(t=>`<span class="card-tag">${t}</span>`).join('')}</div>
+        <span class="card-link">前往來源 →</span>
+      </div>
+    </a>`;
+  }).join('');
+}
+
+function renderPagination() {
+  const total=Math.ceil(filteredArticles.length/PAGE_SIZE);
+  const el=document.getElementById('pagination');
+  if(total<=1){el.innerHTML='';return;}
+  el.innerHTML=`<button class="page-btn" onclick="goPage(${currentPage-1})" ${currentPage<=1?'disabled':''}>‹</button>
+    <span id="page-info">${currentPage} / ${total}</span>
+    <button class="page-btn" onclick="goPage(${currentPage+1})" ${currentPage>=total?'disabled':''}>›</button>`;
+}
+
+function goPage(p){
+  const total=Math.ceil(filteredArticles.length/PAGE_SIZE);
+  currentPage=Math.max(1,Math.min(p,total));
+  renderFeed();renderPagination();
+  document.querySelector('.col-center').scrollIntoView({behavior:'smooth',block:'start'});
+}
+
+function renderSidebar() {
+  // Source list
+  const counts = sourceMeta.reduce((m,s)=>{m[s.id]=allArticles.filter(a=>a.sourceId===s.id).length;return m;},{});
+  document.getElementById('total-count').textContent = allArticles.length+' 則';
+  document.getElementById('source-list').innerHTML = sourceMeta.map(s=>
+    `<a href="${s.url}" target="_blank" rel="noopener" class="src-item">
+       <div style="display:flex;align-items:center"><div class="src-dot" style="background:${s.color}"></div><span class="src-name">${s.name}</span></div>
+       <span class="src-cnt">${counts[s.id]||0}</span>
+     </a>`
+  ).join('');
+
+  // Tech bars
+  const scores=scoreTech(allArticles), max=Math.max(...Object.values(scores),1);
+  const colors=['var(--accent)','var(--gold)','var(--purple)','var(--green)','#ff8899','#5dc8ff','var(--red)'];
+  document.getElementById('tech-bars').innerHTML=Object.entries(scores).sort((a,b)=>b[1]-a[1])
+    .map(([l,c],i)=>`<div class="tech-item"><span class="tech-name">${l}</span><div class="tech-bw"><div class="tech-bar"><div class="tech-fill" style="width:${Math.round(c/max*100)}%;background:${colors[i%colors.length]}"></div></div><span class="tech-pct">${c}</span></div></div>`).join('');
+
+  const ks=scoreKw(allArticles), km=Math.max(...Object.values(ks),1);
+  document.getElementById('keyword-bars').innerHTML=Object.entries(ks).sort((a,b)=>b[1]-a[1]).slice(0,6)
+    .map(([k,c],i)=>`<div class="tech-item"><span class="tech-name">${k}</span><div class="tech-bw"><div class="tech-bar"><div class="tech-fill" style="width:${Math.round(c/km*100)}%;background:${colors[i%colors.length]}"></div></div><span class="tech-pct">${c}</span></div></div>`).join('');
+
+  document.getElementById('top-keywords').innerHTML=Object.entries(ks).sort((a,b)=>b[1]-a[1]).slice(0,5)
+    .map(([k,c],i)=>`<div class="hl-item"><div class="hl-num">0${i+1}</div><div class="hl-title">${k}</div><div class="hl-src">提及 ${c} 次</div></div>`).join('');
+}
+
+function renderStats() {
+  const d = dataUpdated ? new Date(dataUpdated) : null;
+  document.getElementById('s-total').textContent = allArticles.length;
+  document.getElementById('s-sources').textContent = sourceMeta.length;
+  document.getElementById('s-updated').textContent = d
+    ? d.toLocaleTimeString('zh-TW',{hour:'2-digit',minute:'2-digit'}) : '—';
+  document.getElementById('s-today').textContent = '↑ ' + allArticles.filter(a=>{
+    const dd=new Date(a.date); return !isNaN(dd)&&(Date.now()-dd)<86400000;
+  }).length + ' 今日新增';
+
+  // Next update: round up to next even hour
+  if(d){
+    const next=new Date(d);
+    next.setHours(next.getHours()+2, 0, 0, 0);
+    document.getElementById('s-next').textContent = next.toLocaleTimeString('zh-TW',{hour:'2-digit',minute:'2-digit'});
+  }
+
+  // Header chip
+  document.getElementById('updated-chip').textContent = d ? '更新於 ' + relTime(dataUpdated) : '已載入';
+}
+
+function renderTicker() {
+  const items=allArticles.slice(0,12);
+  if(!items.length) return;
+  const sm=sourceMeta.reduce((m,s)=>{m[s.id]=s;return m;},{});
+  const html=[...items,...items].map(a=>
+    `<span class="ticker-item" onclick="window.open('${a.link}','_blank')">
+       <span class="t-tag">${sm[a.sourceId]?.name||a.sourceId}</span>${a.title.slice(0,44)}${a.title.length>44?'…':''}
+     </span>`).join('');
+  document.getElementById('ticker-scroll').innerHTML=html;
+}
+
+// ── Controls ───────────────────────────────────────────────────────────────
+function setFilter(cat, btn) {
+  document.querySelectorAll('.ftab').forEach(t=>t.classList.remove('active'));
+  btn.classList.add('active');
+  currentFilter=cat; currentPage=1; applyFilters();
+}
+function onSearch(q) { currentSearch=q; currentPage=1; applyFilters(); }
+
+// ── Load news.json ─────────────────────────────────────────────────────────
+async function loadNews() {
+  try {
+    // Cache-bust every 5 min so browser doesn't serve stale file
+    const bust = Math.floor(Date.now() / 300000);
+    const resp = await fetch(`news.json?v=${bust}`);
+    if (!resp.ok) throw new Error('HTTP ' + resp.status);
+    const data = await resp.json();
+
+    allArticles  = data.articles || [];
+    sourceMeta   = data.sources  || [];
+    dataUpdated  = data.updated  || null;
+
+    // Hide error banner
+    document.getElementById('error-banner').style.display = 'none';
+
+    applyFilters();
+    renderTicker();
+    renderSidebar();
+    renderStats();
+
+  } catch (err) {
+    // Show helpful error
+    const banner = document.getElementById('error-banner');
+    banner.style.display = 'block';
+    if (err.message.includes('404') || err.message.includes('Failed to fetch')) {
+      banner.innerHTML = `⚠ news.json 尚未產生。請到 GitHub → Actions → 手動觸發 <b>Fetch RSS & Deploy</b> 工作流程，約 1 分鐘後重新整理頁面。`;
+    } else {
+      banner.textContent = '⚠ 無法載入新聞資料：' + err.message;
+    }
+    document.getElementById('news-feed').innerHTML =
+      `<div class="empty-state">等待 GitHub Actions 產生 news.json…</div>`;
+    document.getElementById('updated-chip').textContent = '尚無資料';
+  }
+}
+
+loadNews();
+</script>
+</body>
+</html>
