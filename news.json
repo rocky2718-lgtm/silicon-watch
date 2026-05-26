@@ -1,6 +1,6 @@
 {
-  "updated": "2026-05-26T14:15:38.980969+00:00",
-  "count": 23,
+  "updated": "2026-05-26T22:00:40.884930+00:00",
+  "count": 24,
   "sources": [
     {
       "id": "technews",
@@ -60,6 +60,19 @@
     }
   ],
   "articles": [
+    {
+      "id": "e22d42769f4b",
+      "title": "瑞銀調升美光三倍目標價引爆股價大漲近 20%，市值破兆預期台股將受激勵",
+      "link": "https://finance.technews.tw/2026/05/27/a-foreign-investment-report-raising-microns-target-price-by-3-times-triggered-a-surge-in-its-stock-price-of-over-20/",
+      "summary": "受惠於人工智慧（AI）對記憶體晶片的無盡需求，美國記憶體大廠美光科技（Micron）股價單日一度飆漲超過21% [&#8230;]",
+      "date": "2026-05-26T22:00:05+00:00",
+      "sourceId": "technews",
+      "cats": [
+        "market",
+        "process",
+        "material"
+      ]
+    },
     {
       "id": "c16da2556c6e",
       "title": "GUC Showcases VSORA’s Jotunn8 AI inference Processor at the TSMC Europe Technology Symposium",
