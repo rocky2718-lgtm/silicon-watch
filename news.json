@@ -1,6 +1,6 @@
 {
-  "updated": "2026-05-26T03:26:21.494077+00:00",
-  "count": 17,
+  "updated": "2026-05-26T14:15:38.980969+00:00",
+  "count": 23,
   "sources": [
     {
       "id": "technews",
@@ -61,11 +61,37 @@
   ],
   "articles": [
     {
-      "id": "7bfbb865ec73",
-      "title": "不滿「AI 紅利分配不均」  三星非晶片工會告上法院",
-      "link": "https://technews.tw/2026/05/26/samsung-non-chip-union-lawsuit-unequal-ai-benefits-distribution/",
-      "summary": "韓國科技巨頭三星電子（Samsung Electronics）罷工危機持續延燒。據韓媒報導，三星旗下非半導體部 [&#8230;]",
-      "date": "2026-05-26T03:10:26+00:00",
+      "id": "c16da2556c6e",
+      "title": "GUC Showcases VSORA’s Jotunn8 AI inference Processor at the TSMC Europe Technology Symposium",
+      "link": "https://www.eetimes.com/guc-showcases-vsoras-jotunn8-ai-inference-processor-at-the-tsmc-europe-technology-symposium/",
+      "summary": "Global Unichip Corp. (GUC), the Advanced ASIC Leader, will showcase Jotunn8, a next-generation data center AI inference processor developed by VSORA, at the TSMC Europe Technology Symposium. The post GUC Showcases VSORA’s Jotunn8 AI inference Processor at the TSMC Europe Technology Symposium appeare",
+      "date": "2026-05-26T13:00:00+00:00",
+      "sourceId": "eetimes",
+      "cats": [
+        "process",
+        "material",
+        "equipment"
+      ]
+    },
+    {
+      "id": "c151195e1496",
+      "title": "From Shrinking Transistors to Compressing Time: Deciphering Huawei’s τ Law",
+      "link": "https://www.eetimes.com/from-shrinking-transistors-to-compressing-time-deciphering-huaweis-%cf%84-law/",
+      "summary": "Huawei's answer to Moore's Law without EUV promises 14A performance by 2031. The post From Shrinking Transistors to Compressing Time: Deciphering Huawei&#8217;s τ Law appeared first on EE Times.",
+      "date": "2026-05-26T12:52:18+00:00",
+      "sourceId": "eetimes",
+      "cats": [
+        "process",
+        "material",
+        "equipment"
+      ]
+    },
+    {
+      "id": "e043fe9c1687",
+      "title": "賴清德出席歐洲日晚宴，半導體、AI 與能源成台歐合作焦點",
+      "link": "https://technews.tw/2026/05/26/taiwan-eccc-ai-energy/",
+      "summary": "歐洲在臺商務協會舉辦年度「歐洲日晚宴」，總統賴清德出席致詞時表示，半導體、AI 與能源已成為全球繁榮與安全的重 [&#8230;]",
+      "date": "2026-05-26T12:28:58+00:00",
       "sourceId": "technews",
       "cats": [
         "market",
@@ -74,11 +100,11 @@
       ]
     },
     {
-      "id": "f103511a1d60",
-      "title": "聯發科 2 奈米 TPU 表現強勁，大摩力挺目標價達 5,088 元",
-      "link": "https://finance.technews.tw/2026/05/26/mediateks-2nm-tpu-design-services-demonstrate-strong-performance/",
-      "summary": "外資大摩 (Morgan Stanley，摩根士丹利）最新投資研究報告指出，IC 設計龍頭聯發科目標價從新台幣 [&#8230;]",
-      "date": "2026-05-26T02:30:58+00:00",
+      "id": "283c950b8194",
+      "title": "全球電子協會成立政策委員會，台積電、Jabil 等為創始會員",
+      "link": "https://finance.technews.tw/2026/05/26/global-electronics-association-gepc/",
+      "summary": "全球電子協會（Global Electronics Association）宣布成立「政策委員會」（Globa [&#8230;]",
+      "date": "2026-05-26T09:56:47+00:00",
       "sourceId": "technews",
       "cats": [
         "market",
@@ -87,11 +113,11 @@
       ]
     },
     {
-      "id": "42f4844e66ab",
-      "title": "英特爾加速玻璃基板布局！新墨西哥廠瞄準全球首座量產基地",
-      "link": "https://technews.tw/2026/05/26/intel-foundry-rio-rancho-facility-next-gen-glass-substrates/",
-      "summary": "英特爾晶圓代工廠（Intel Foundry）位於美國新墨西哥州里奧蘭喬（Rio Rancho），正朝著次世代 [&#8230;]",
-      "date": "2026-05-26T01:13:50+00:00",
+      "id": "f9d4c56efa43",
+      "title": "00631L 曝台積電權重落差！決議增持權值股現貨「貼近指數兩倍報酬」",
+      "link": "https://finance.technews.tw/2026/05/26/weight-gap/",
+      "summary": "元大台灣 50 正 2（00631L） 今日宣布，為持續貼近臺灣 50 指數單日正向 2 倍報酬目標，針對台積 [&#8230;]",
+      "date": "2026-05-26T08:26:23+00:00",
       "sourceId": "technews",
       "cats": [
         "market",
@@ -100,11 +126,11 @@
       ]
     },
     {
-      "id": "4a8b354f3d55",
-      "title": "美光親證：HBM / NAND / DRAM 狂缺  今年過後也難解",
-      "link": "https://technews.tw/2026/05/26/micron-warns-memory-crunch-will-outlast-2026-as-ai-demand-outpaces-what-hbm-dram-and-nand-can-supply/",
-      "summary": "美國記憶體大廠美光（Micron Technology, Inc.）相信，高頻寬記憶體（HBM）、NAND 快 [&#8230;]",
-      "date": "2026-05-26T01:10:33+00:00",
+      "id": "883e9be4f0a9",
+      "title": "三星半導體員工天上掉餡餅，還有韓國半導體廊道地產業者被砸到",
+      "link": "https://finance.technews.tw/2026/05/26/samsung-semiconductor-employees-get-a-windfall/",
+      "summary": "韓國媒體報導，三星電子（Samsung Electronics）為半導體部門員工推出全新的薪酬與福利方案，龐大 [&#8230;]",
+      "date": "2026-05-26T08:15:32+00:00",
       "sourceId": "technews",
       "cats": [
         "market",
@@ -113,11 +139,11 @@
       ]
     },
     {
-      "id": "70a39e192c04",
-      "title": "美光 HBM4 擴產進度順利，2027 年將量產 HBM4E 基礎晶片採用台積電製程",
-      "link": "https://technews.tw/2026/05/26/microns-hbm4-capacity-expansion-is-progressing-smoothly/",
-      "summary": "美商記憶體大廠美光（Micron）在第六代高頻寬記憶體（HBM4）的擴產目前進展相當順利，該公司並計劃於 20 [&#8230;]",
-      "date": "2026-05-26T01:00:10+00:00",
+      "id": "dd9030dbf4f8",
+      "title": "美光 Fab 6 投產 LPDDR4 / DDR4，不影響 DDR4 供給短缺格局",
+      "link": "https://finance.technews.tw/2026/05/26/micron-fab-6-begins-production-of-1%ce%b1-nm-lpddr4-and-ddr4/",
+      "summary": "美光近日宣布美國維吉尼亞州 Fab 6 開始投產 1α 奈米 LPDDR4 和 DDR4，主要供應汽車、國防航 [&#8230;]",
+      "date": "2026-05-26T08:05:53+00:00",
       "sourceId": "technews",
       "cats": [
         "market",
@@ -126,11 +152,11 @@
       ]
     },
     {
-      "id": "394579c40d3e",
-      "title": "力積電 COMPUTEX 攜手愛普、晶豪科等，大秀 3D AI Foundry 布局",
-      "link": "https://technews.tw/2026/05/26/psmc-computex-3d-ai-foundry/",
-      "summary": "力積電今年 COMPUTEX 展會中以「3D AI Foundry」為主題，展示涵蓋 3D WoW DRAM [&#8230;]",
-      "date": "2026-05-26T00:40:17+00:00",
+      "id": "03568ffda688",
+      "title": "威鋒電子發表首款多串流傳輸晶片，搶攻多螢幕 USB-C 擴充底座市場",
+      "link": "https://technews.tw/2026/05/26/via-labs-unveils-its-first-multi-streaming-chip/",
+      "summary": "威盛集團旗下 USB4、SuperSpeed USB、USB PD 和顯示器控制晶片廠商威鋒電子（VIA La [&#8230;]",
+      "date": "2026-05-26T07:45:15+00:00",
       "sourceId": "technews",
       "cats": [
         "market",
@@ -139,11 +165,89 @@
       ]
     },
     {
-      "id": "ae6d132750fc",
-      "title": "力積電推出 3D WoW 晶圓堆疊，突破 AI 記憶體存取瓶頸",
-      "link": "https://technews.tw/2026/05/26/powerchip-technology-launches-3d-wow-wafer-stacking-technology/",
-      "summary": "隨著生成式人工智慧（AI）與高效能運算（HPC）應用的快速發展，當前的硬體架構正面臨功耗與記憶體頻寬的雙重重大 [&#8230;]",
-      "date": "2026-05-26T00:15:17+00:00",
+      "id": "e454201df643",
+      "title": "AMD Zen 7 傳採台積電 A14，AI 時代 CPU 要跟 GPU 搶主角？",
+      "link": "https://technews.tw/2026/05/26/amd-zen-7-tsmc-a14%ef%bc%8cai-cpu/",
+      "summary": "當市場焦點仍集中在輝達 GPU 與 AI 加速器時，AMD 下一代 Zen 7 架構卻透露出另一個方向：AI [&#8230;]",
+      "date": "2026-05-26T07:41:38+00:00",
+      "sourceId": "technews",
+      "cats": [
+        "market",
+        "process",
+        "material"
+      ]
+    },
+    {
+      "id": "abda6846620c",
+      "title": "元太攜聯發科 GAI SoC 開拓裝置端 AI 應用，搶攻閱讀器和教育市場",
+      "link": "https://technews.tw/2026/05/26/e-ink-and-mediatek-deepen-their-partnership/",
+      "summary": "元太與聯發科深化合作，以聯發科全球首款專為生成式 AI 電子閱讀器打造的系統單晶片（SoC）與內建硬體時序控制 [&#8230;]",
+      "date": "2026-05-26T07:24:10+00:00",
+      "sourceId": "technews",
+      "cats": [
+        "market",
+        "process",
+        "material"
+      ]
+    },
+    {
+      "id": "e88ff34ebcb1",
+      "title": "黃仁勳指沒能源沒經濟成長，經部：AI 用電已超前部署",
+      "link": "https://technews.tw/2026/05/26/taiwan-ai-power-demand-already-prioritized-for-deployment/",
+      "summary": "輝達（NVIDIA）執行長黃仁勳日前提到「沒有能源就沒有經濟成長」，經濟部今天表示，台灣 AI 用電需求早已優 [&#8230;]",
+      "date": "2026-05-26T07:00:00+00:00",
+      "sourceId": "technews",
+      "cats": [
+        "market",
+        "process",
+        "material"
+      ]
+    },
+    {
+      "id": "83064838a2ab",
+      "title": "穎崴受惠 AI 需求第一季獲利創高，擴建產能布局次世代測試平台",
+      "link": "https://finance.technews.tw/2026/05/26/yingwei-benefits-from-ai-demand-achieving-record-profits-in-the-first-quarter/",
+      "summary": "半導體測試介面大廠穎崴科技舉辦法說會，受惠於全球AI需求強勁，2026 年營運繳出亮眼成績單。在 AI 推波助 [&#8230;]",
+      "date": "2026-05-26T06:40:30+00:00",
+      "sourceId": "technews",
+      "cats": [
+        "market",
+        "process",
+        "material"
+      ]
+    },
+    {
+      "id": "d392e162212e",
+      "title": "Analog Devices 擬收購 Empower Semiconductor，拓展因應 AI 時代的新一代高密度電源產品組合",
+      "link": "https://technews.tw/2026/05/26/analog-devices-plans-to-acquire-empower-semiconductor/",
+      "summary": "Analog Devices, Inc.（NASDAQ: ADI）與 Empower Semiconducto [&#8230;]",
+      "date": "2026-05-26T06:00:02+00:00",
+      "sourceId": "technews",
+      "cats": [
+        "market",
+        "process",
+        "material"
+      ]
+    },
+    {
+      "id": "9533623b2292",
+      "title": "木頭姊積極加碼 AI 新創 Cerebras  砍 RKLB、AMD",
+      "link": "https://finance.technews.tw/2026/05/26/cathie-wood-increases-stake-in-cerebras-cuts-rklb-and-amd/",
+      "summary": "明星基金經理人凱薩琳伍德（Cathie Wood、台灣稱木頭姊）掌管的方舟投資（Ark Invest）上週對投 [&#8230;]",
+      "date": "2026-05-26T05:50:47+00:00",
+      "sourceId": "technews",
+      "cats": [
+        "market",
+        "process",
+        "material"
+      ]
+    },
+    {
+      "id": "f85beacde797",
+      "title": "日本晶片設備銷售超旺  首破「5 千億」、刷新史高",
+      "link": "https://technews.tw/2026/05/26/japan-chip-equipment-sales-first-time-500-billion-new-record/",
+      "summary": "日本半導體（晶片）製造設備銷售超旺，4 月份銷售額史上首度衝破 5,000 億日圓大關、刷新歷史新高紀錄。 日 [&#8230;]",
+      "date": "2026-05-26T04:30:54+00:00",
       "sourceId": "technews",
       "cats": [
         "market",
@@ -157,32 +261,6 @@
       "link": "https://www.eetimes.com/you-may-not-know-actions-technology-but-youve-definitely-heard-it-the-evolution-of-an-audio-chip-specialist/",
       "summary": "Action Technology, an IC design company, provides core technological support for hundreds of millions of consumer audio devices worldwide. The post You May Not Know Actions Technology, But You’ve Definitely &#8220;Heard&#8221; It appeared first on EE Times.",
       "date": "2026-05-25T13:00:00+00:00",
-      "sourceId": "eetimes",
-      "cats": [
-        "process",
-        "material",
-        "equipment"
-      ]
-    },
-    {
-      "id": "691439c3baa3",
-      "title": "AMD Plans $10B Investment in Taiwan to Boost AI Infrastructure",
-      "link": "https://www.eetimes.com/amd-plans-10b-investment-in-taiwan-to-boost-ai-infrastructure/",
-      "summary": "AMD to invest more than $10 billion in Taiwan ecosystem, ramping HPC chips on TSMC’s 2-nm process amid AI buildout. The post AMD Plans $10B Investment in Taiwan to Boost AI Infrastructure appeared first on EE Times.",
-      "date": "2026-05-21T16:34:18+00:00",
-      "sourceId": "eetimes",
-      "cats": [
-        "process",
-        "material",
-        "equipment"
-      ]
-    },
-    {
-      "id": "1b3074dd81f3",
-      "title": "Scaling the Next Generation of Multi-Die Systems",
-      "link": "https://www.eetimes.com/scaling-the-next-generation-of-multi-die-systems/",
-      "summary": "This year’s EE Times Chiplets event will address challenges in the design flow and chiplet technologies to enable straightforward scaling. The post Scaling the Next Generation of Multi-Die Systems appeared first on EE Times.",
-      "date": "2026-05-21T06:46:01+00:00",
       "sourceId": "eetimes",
       "cats": [
         "process",
