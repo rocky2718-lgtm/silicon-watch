@@ -1,6 +1,6 @@
 {
-  "updated": "2026-05-26T03:17:56.708118+00:00",
-  "count": 18,
+  "updated": "2026-05-26T03:26:21.494077+00:00",
+  "count": 17,
   "sources": [
     {
       "id": "technews",
@@ -144,19 +144,6 @@
       "link": "https://technews.tw/2026/05/26/powerchip-technology-launches-3d-wow-wafer-stacking-technology/",
       "summary": "隨著生成式人工智慧（AI）與高效能運算（HPC）應用的快速發展，當前的硬體架構正面臨功耗與記憶體頻寬的雙重重大 [&#8230;]",
       "date": "2026-05-26T00:15:17+00:00",
-      "sourceId": "technews",
-      "cats": [
-        "market",
-        "process",
-        "material"
-      ]
-    },
-    {
-      "id": "91a0616ca0f0",
-      "title": "從低頭到抬頭：「實體 AI」智慧眼鏡的裝置革命？",
-      "link": "https://technews.tw/2026/05/26/embodied-ai-smart-glasses-device-revolution/",
-      "summary": "過去兩年，生成式 AI 爆發讓資料中心成為算力戰場，台積電全球業務資深副總張曉強日前表示，AI 由生成式 AI [&#8230;]",
-      "date": "2026-05-26T00:00:41+00:00",
       "sourceId": "technews",
       "cats": [
         "market",
