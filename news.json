@@ -1,6 +1,6 @@
 {
-  "updated": "2026-05-26T22:00:40.884930+00:00",
-  "count": 24,
+  "updated": "2026-05-27T12:39:22.921136+00:00",
+  "count": 21,
   "sources": [
     {
       "id": "technews",
@@ -61,11 +61,141 @@
   ],
   "articles": [
     {
-      "id": "e22d42769f4b",
-      "title": "瑞銀調升美光三倍目標價引爆股價大漲近 20%，市值破兆預期台股將受激勵",
-      "link": "https://finance.technews.tw/2026/05/27/a-foreign-investment-report-raising-microns-target-price-by-3-times-triggered-a-surge-in-its-stock-price-of-over-20/",
-      "summary": "受惠於人工智慧（AI）對記憶體晶片的無盡需求，美國記憶體大廠美光科技（Micron）股價單日一度飆漲超過21% [&#8230;]",
-      "date": "2026-05-26T22:00:05+00:00",
+      "id": "6ef43e90c8ad",
+      "title": "日月光推面板級封裝自動化產線，拚明年上半量產",
+      "link": "https://technews.tw/2026/05/27/ase-panel-level-packaging-line-27h1/",
+      "summary": "封測大廠日月光半導體今天宣布，開發出 310×310mm 面板級封裝（Panel-Level Packagin [&#8230;]",
+      "date": "2026-05-27T10:00:31+00:00",
+      "sourceId": "technews",
+      "cats": [
+        "market",
+        "process",
+        "material"
+      ]
+    },
+    {
+      "id": "d52c646dfbcd",
+      "title": "台股市值全球第五，大摩估 2027 年 AI 半導體市場增 60%",
+      "link": "https://finance.technews.tw/2026/05/27/taiwan-stock-market-value-5th-globally-morgan-stanley-estimates-ai-semi-market-grow-60-by-2027/",
+      "summary": "台股市值超越印度升至全球第五大，但市場擔憂人工智慧（AI）發展過快恐導致泡沫化風險。外資摩根士丹利（Morga [&#8230;]",
+      "date": "2026-05-27T09:50:00+00:00",
+      "sourceId": "technews",
+      "cats": [
+        "market",
+        "process",
+        "material"
+      ]
+    },
+    {
+      "id": "674b38995e94",
+      "title": "彭博：三台人經日本走私輝達 AI 晶片銷往中國，至少一批闖關成功",
+      "link": "https://technews.tw/2026/05/27/nvidia-ai-chip-server-smuggling-case-used-japan-as-transit-hub/",
+      "summary": "檢方查獲 3 人涉違法將搭載輝達高階 AI 晶片的伺服器銷往中國。外媒稱，犯嫌先將伺服器運至日本再運往中國，至 [&#8230;]",
+      "date": "2026-05-27T09:00:35+00:00",
+      "sourceId": "technews",
+      "cats": [
+        "market",
+        "process",
+        "material"
+      ]
+    },
+    {
+      "id": "0325cc01bb5d",
+      "title": "Rambus 推完整 DDR5 9600 Client 晶片組，瞄準 AI PC 高頻寬需求",
+      "link": "https://technews.tw/2026/05/27/rambus-ddr5-9600-client-chipset/",
+      "summary": "隨著代理 AI 興起，現代 PC 能即時規劃、執行並調整工作流程，這類工作負載需要持續性的上下文記憶、並行處理 [&#8230;]",
+      "date": "2026-05-27T08:59:55+00:00",
+      "sourceId": "technews",
+      "cats": [
+        "market",
+        "process",
+        "material"
+      ]
+    },
+    {
+      "id": "998d2a606841",
+      "title": "黃仁勳喊話台灣需要更多電，經長：至 2034 年供電無虞",
+      "link": "https://technews.tw/2026/05/27/ai-power-demand-assessed-through-2034-supply-seen-as-sufficient/",
+      "summary": "輝達（NVIDIA）執行長黃仁勳今天提及台灣需要更多電力。對此，經濟部長龔明鑫今天表示，目前已盤點至 2034 [&#8230;]",
+      "date": "2026-05-27T08:30:56+00:00",
+      "sourceId": "technews",
+      "cats": [
+        "market",
+        "process",
+        "material"
+      ]
+    },
+    {
+      "id": "e6af045f079a",
+      "title": "Necessity is the Mother of Invention: Huawei Replaces Moore’s Law With Her’s Law",
+      "link": "https://www.eetimes.com/necessity-is-the-mother-of-invention-huawei-replaces-moores-law-with-hers-law/",
+      "summary": "We now know what China’s been working on to counter U.S. sanctions on EUV technology. The post Necessity is the Mother of Invention: Huawei Replaces Moore’s Law With Her’s Law appeared first on EE Times.",
+      "date": "2026-05-27T07:32:11+00:00",
+      "sourceId": "eetimes",
+      "cats": [
+        "process",
+        "material",
+        "equipment"
+      ]
+    },
+    {
+      "id": "aca937edaa97",
+      "title": "輝達 Vera CPU 首測曝光，效能超車 AMD 英特爾",
+      "link": "https://technews.tw/2026/05/27/nvidia-vera-cpu-amd-intel/",
+      "summary": "根據 Phoronix 報導，輝達首批 Vera CPU 基準測試結果正式曝光，不僅性能大幅超越前代 Grac [&#8230;]",
+      "date": "2026-05-27T07:18:29+00:00",
+      "sourceId": "technews",
+      "cats": [
+        "market",
+        "process",
+        "material"
+      ]
+    },
+    {
+      "id": "19113491be22",
+      "title": "黃仁勳示警沒有能源就沒有經濟成長！全球缺電危機帶動能源 ETF 狂飆 14%",
+      "link": "https://finance.technews.tw/2026/05/27/no-economic-growth/",
+      "summary": "輝達（NVIDIA）執行長黃仁勳近日再度造訪台灣，一句「如果沒有能源，就無法實現經濟成長」，再度引爆各界對 A [&#8230;]",
+      "date": "2026-05-27T07:11:59+00:00",
+      "sourceId": "technews",
+      "cats": [
+        "market",
+        "process",
+        "material"
+      ]
+    },
+    {
+      "id": "cab546c0d6cd",
+      "title": "券商喊「加碼」 矽晶圓廠信越化學今年來漲逾 50%",
+      "link": "https://finance.technews.tw/2026/05/27/analysts-raise-target-price-for-shin-etsu-chemical/",
+      "summary": "券商看旺，調升目標價且給予最高等級投資評等「加碼」，全球 PVC（聚氯乙烯）暨矽晶圓龍頭廠信越化學（Shin- [&#8230;]",
+      "date": "2026-05-27T06:20:14+00:00",
+      "sourceId": "technews",
+      "cats": [
+        "market",
+        "process",
+        "material"
+      ]
+    },
+    {
+      "id": "ab97e28c5c94",
+      "title": "魏哲家：今年員工分紅金額多 30%，鼓勵可買自家股票保證生活無虞",
+      "link": "https://finance.technews.tw/2026/05/27/this-year-employee-bonuses-will-increase-by-30/",
+      "summary": "晶圓代工龍頭台積電傳出因為要調整員工分红比例，引發部分員工反彈，並揚言罷工、組工會一事，董事長暨總裁魏哲家特地 [&#8230;]",
+      "date": "2026-05-27T06:15:50+00:00",
+      "sourceId": "technews",
+      "cats": [
+        "market",
+        "process",
+        "material"
+      ]
+    },
+    {
+      "id": "bce4e30a0af3",
+      "title": "三星獎金方案鬧內訌！記憶體部門最高爽領 40 萬美元，DX 部門僅獲 4,000 美元",
+      "link": "https://finance.technews.tw/2026/05/27/samsung-wage-vote/",
+      "summary": "韓國法院 26 日駁回三星電子消費性電子部門員工提出的申請，該申請主要是阻止公司 AI 獎金方案表決。根據韓媒 [&#8230;]",
+      "date": "2026-05-27T06:14:13+00:00",
       "sourceId": "technews",
       "cats": [
         "market",
@@ -97,175 +227,6 @@
         "process",
         "material",
         "equipment"
-      ]
-    },
-    {
-      "id": "e043fe9c1687",
-      "title": "賴清德出席歐洲日晚宴，半導體、AI 與能源成台歐合作焦點",
-      "link": "https://technews.tw/2026/05/26/taiwan-eccc-ai-energy/",
-      "summary": "歐洲在臺商務協會舉辦年度「歐洲日晚宴」，總統賴清德出席致詞時表示，半導體、AI 與能源已成為全球繁榮與安全的重 [&#8230;]",
-      "date": "2026-05-26T12:28:58+00:00",
-      "sourceId": "technews",
-      "cats": [
-        "market",
-        "process",
-        "material"
-      ]
-    },
-    {
-      "id": "283c950b8194",
-      "title": "全球電子協會成立政策委員會，台積電、Jabil 等為創始會員",
-      "link": "https://finance.technews.tw/2026/05/26/global-electronics-association-gepc/",
-      "summary": "全球電子協會（Global Electronics Association）宣布成立「政策委員會」（Globa [&#8230;]",
-      "date": "2026-05-26T09:56:47+00:00",
-      "sourceId": "technews",
-      "cats": [
-        "market",
-        "process",
-        "material"
-      ]
-    },
-    {
-      "id": "f9d4c56efa43",
-      "title": "00631L 曝台積電權重落差！決議增持權值股現貨「貼近指數兩倍報酬」",
-      "link": "https://finance.technews.tw/2026/05/26/weight-gap/",
-      "summary": "元大台灣 50 正 2（00631L） 今日宣布，為持續貼近臺灣 50 指數單日正向 2 倍報酬目標，針對台積 [&#8230;]",
-      "date": "2026-05-26T08:26:23+00:00",
-      "sourceId": "technews",
-      "cats": [
-        "market",
-        "process",
-        "material"
-      ]
-    },
-    {
-      "id": "883e9be4f0a9",
-      "title": "三星半導體員工天上掉餡餅，還有韓國半導體廊道地產業者被砸到",
-      "link": "https://finance.technews.tw/2026/05/26/samsung-semiconductor-employees-get-a-windfall/",
-      "summary": "韓國媒體報導，三星電子（Samsung Electronics）為半導體部門員工推出全新的薪酬與福利方案，龐大 [&#8230;]",
-      "date": "2026-05-26T08:15:32+00:00",
-      "sourceId": "technews",
-      "cats": [
-        "market",
-        "process",
-        "material"
-      ]
-    },
-    {
-      "id": "dd9030dbf4f8",
-      "title": "美光 Fab 6 投產 LPDDR4 / DDR4，不影響 DDR4 供給短缺格局",
-      "link": "https://finance.technews.tw/2026/05/26/micron-fab-6-begins-production-of-1%ce%b1-nm-lpddr4-and-ddr4/",
-      "summary": "美光近日宣布美國維吉尼亞州 Fab 6 開始投產 1α 奈米 LPDDR4 和 DDR4，主要供應汽車、國防航 [&#8230;]",
-      "date": "2026-05-26T08:05:53+00:00",
-      "sourceId": "technews",
-      "cats": [
-        "market",
-        "process",
-        "material"
-      ]
-    },
-    {
-      "id": "03568ffda688",
-      "title": "威鋒電子發表首款多串流傳輸晶片，搶攻多螢幕 USB-C 擴充底座市場",
-      "link": "https://technews.tw/2026/05/26/via-labs-unveils-its-first-multi-streaming-chip/",
-      "summary": "威盛集團旗下 USB4、SuperSpeed USB、USB PD 和顯示器控制晶片廠商威鋒電子（VIA La [&#8230;]",
-      "date": "2026-05-26T07:45:15+00:00",
-      "sourceId": "technews",
-      "cats": [
-        "market",
-        "process",
-        "material"
-      ]
-    },
-    {
-      "id": "e454201df643",
-      "title": "AMD Zen 7 傳採台積電 A14，AI 時代 CPU 要跟 GPU 搶主角？",
-      "link": "https://technews.tw/2026/05/26/amd-zen-7-tsmc-a14%ef%bc%8cai-cpu/",
-      "summary": "當市場焦點仍集中在輝達 GPU 與 AI 加速器時，AMD 下一代 Zen 7 架構卻透露出另一個方向：AI [&#8230;]",
-      "date": "2026-05-26T07:41:38+00:00",
-      "sourceId": "technews",
-      "cats": [
-        "market",
-        "process",
-        "material"
-      ]
-    },
-    {
-      "id": "abda6846620c",
-      "title": "元太攜聯發科 GAI SoC 開拓裝置端 AI 應用，搶攻閱讀器和教育市場",
-      "link": "https://technews.tw/2026/05/26/e-ink-and-mediatek-deepen-their-partnership/",
-      "summary": "元太與聯發科深化合作，以聯發科全球首款專為生成式 AI 電子閱讀器打造的系統單晶片（SoC）與內建硬體時序控制 [&#8230;]",
-      "date": "2026-05-26T07:24:10+00:00",
-      "sourceId": "technews",
-      "cats": [
-        "market",
-        "process",
-        "material"
-      ]
-    },
-    {
-      "id": "e88ff34ebcb1",
-      "title": "黃仁勳指沒能源沒經濟成長，經部：AI 用電已超前部署",
-      "link": "https://technews.tw/2026/05/26/taiwan-ai-power-demand-already-prioritized-for-deployment/",
-      "summary": "輝達（NVIDIA）執行長黃仁勳日前提到「沒有能源就沒有經濟成長」，經濟部今天表示，台灣 AI 用電需求早已優 [&#8230;]",
-      "date": "2026-05-26T07:00:00+00:00",
-      "sourceId": "technews",
-      "cats": [
-        "market",
-        "process",
-        "material"
-      ]
-    },
-    {
-      "id": "83064838a2ab",
-      "title": "穎崴受惠 AI 需求第一季獲利創高，擴建產能布局次世代測試平台",
-      "link": "https://finance.technews.tw/2026/05/26/yingwei-benefits-from-ai-demand-achieving-record-profits-in-the-first-quarter/",
-      "summary": "半導體測試介面大廠穎崴科技舉辦法說會，受惠於全球AI需求強勁，2026 年營運繳出亮眼成績單。在 AI 推波助 [&#8230;]",
-      "date": "2026-05-26T06:40:30+00:00",
-      "sourceId": "technews",
-      "cats": [
-        "market",
-        "process",
-        "material"
-      ]
-    },
-    {
-      "id": "d392e162212e",
-      "title": "Analog Devices 擬收購 Empower Semiconductor，拓展因應 AI 時代的新一代高密度電源產品組合",
-      "link": "https://technews.tw/2026/05/26/analog-devices-plans-to-acquire-empower-semiconductor/",
-      "summary": "Analog Devices, Inc.（NASDAQ: ADI）與 Empower Semiconducto [&#8230;]",
-      "date": "2026-05-26T06:00:02+00:00",
-      "sourceId": "technews",
-      "cats": [
-        "market",
-        "process",
-        "material"
-      ]
-    },
-    {
-      "id": "9533623b2292",
-      "title": "木頭姊積極加碼 AI 新創 Cerebras  砍 RKLB、AMD",
-      "link": "https://finance.technews.tw/2026/05/26/cathie-wood-increases-stake-in-cerebras-cuts-rklb-and-amd/",
-      "summary": "明星基金經理人凱薩琳伍德（Cathie Wood、台灣稱木頭姊）掌管的方舟投資（Ark Invest）上週對投 [&#8230;]",
-      "date": "2026-05-26T05:50:47+00:00",
-      "sourceId": "technews",
-      "cats": [
-        "market",
-        "process",
-        "material"
-      ]
-    },
-    {
-      "id": "f85beacde797",
-      "title": "日本晶片設備銷售超旺  首破「5 千億」、刷新史高",
-      "link": "https://technews.tw/2026/05/26/japan-chip-equipment-sales-first-time-500-billion-new-record/",
-      "summary": "日本半導體（晶片）製造設備銷售超旺，4 月份銷售額史上首度衝破 5,000 億日圓大關、刷新歷史新高紀錄。 日 [&#8230;]",
-      "date": "2026-05-26T04:30:54+00:00",
-      "sourceId": "technews",
-      "cats": [
-        "market",
-        "process",
-        "material"
       ]
     },
     {
