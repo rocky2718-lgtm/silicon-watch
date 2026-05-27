@@ -1,6 +1,6 @@
 {
-  "updated": "2026-05-27T12:39:22.921136+00:00",
-  "count": 21,
+  "updated": "2026-05-27T21:18:19.843267+00:00",
+  "count": 22,
   "sources": [
     {
       "id": "technews",
@@ -60,6 +60,19 @@
     }
   ],
   "articles": [
+    {
+      "id": "845bd068dd8a",
+      "title": "Intelligent, Configurable I/O: Edge Autonomy, Thermal Efficiency, and Higher Uptime in Industrial Control Systems",
+      "link": "https://www.eetimes.com/intelligent-configurable-i-o-edge-autonomy-thermal-efficiency-and-higher-uptime-in-industrial-control-systems/",
+      "summary": "This paper explores how configurable and intelligent I/O technologies are transforming industrial control systems by enabling greater flexibility, improved thermal performance, and higher system uptime. Traditional fixed-function I/O architectures, while effective in stable environments, create inef",
+      "date": "2026-05-27T14:00:00+00:00",
+      "sourceId": "eetimes",
+      "cats": [
+        "process",
+        "material",
+        "equipment"
+      ]
+    },
     {
       "id": "6ef43e90c8ad",
       "title": "日月光推面板級封裝自動化產線，拚明年上半量產",
