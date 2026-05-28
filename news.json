@@ -1,6 +1,6 @@
 {
-  "updated": "2026-05-27T21:18:19.843267+00:00",
-  "count": 22,
+  "updated": "2026-05-28T11:53:39.001922+00:00",
+  "count": 17,
   "sources": [
     {
       "id": "technews",
@@ -61,6 +61,84 @@
   ],
   "articles": [
     {
+      "id": "efe40f47f9f9",
+      "title": "黃仁勳兆元宴大咖雲集，台 AI 供應鏈重量級掌門人齊聚",
+      "link": "https://finance.technews.tw/2026/05/28/jensen-ai-supply-chain/",
+      "summary": "Nvidia 執行長黃仁勳在台行程今日來到萬眾注目的兆元宴，一如以往，今天的宴請供應鏈名單從晶圓代工、電子代工 [&#8230;]",
+      "date": "2026-05-28T10:48:04+00:00",
+      "sourceId": "technews",
+      "cats": [
+        "market",
+        "process",
+        "material"
+      ]
+    },
+    {
+      "id": "a4118e5c95af",
+      "title": "AI 時代的煉金術師！衛司特切進 CoWoS、HDI 板金屬回收市場",
+      "link": "https://technews.tw/2026/05/28/ai-metal-recycle-industry/",
+      "summary": "AI 伺服器帶動高階 PCB、HDI 高密度連接板與 CoWoS 先進封裝需求升溫，也讓 ESG 與電子廢液循 [&#8230;]",
+      "date": "2026-05-28T09:18:22+00:00",
+      "sourceId": "technews",
+      "cats": [
+        "market",
+        "process",
+        "material"
+      ]
+    },
+    {
+      "id": "141ead5c1b4e",
+      "title": "Chiplets, Ecosystems, and Europe’s Post-Fab Semiconductor Strategy",
+      "link": "https://www.eetimes.com/chiplets-ecosystems-and-europes-post-fab-semiconductor-strategy/",
+      "summary": "“Can Europe realistically compete on leading-edge fabs alone?” Maria Marced said. “No.” The post Chiplets, Ecosystems, and Europe’s Post-Fab Semiconductor Strategy appeared first on EE Times.",
+      "date": "2026-05-28T08:38:29+00:00",
+      "sourceId": "eetimes",
+      "cats": [
+        "process",
+        "material",
+        "equipment"
+      ]
+    },
+    {
+      "id": "de436251662b",
+      "title": "新思調高年度財測  CEO：自研資料中心晶片成趨勢",
+      "link": "https://finance.technews.tw/2026/05/28/synopsys-posts-financial-results-for-second-quarter-fiscal-year-2026/",
+      "summary": "美國電子設計自動化（EDA）軟體商新思科技（Synopsys）決定調高年度財測，暗示爭相開發 AI 晶片與基礎 [&#8230;]",
+      "date": "2026-05-28T07:10:14+00:00",
+      "sourceId": "technews",
+      "cats": [
+        "market",
+        "process",
+        "material"
+      ]
+    },
+    {
+      "id": "0dab2d8b8400",
+      "title": "AI 資料中心掀電力建設潮，安葆在手訂單破 120 億元",
+      "link": "https://finance.technews.tw/2026/05/28/ai-ampower-electricity-infrasture/",
+      "summary": "安葆受惠半導體、AI 資料中心等關鍵基礎設施建置需求持續升溫，公司內部統計，截至 2026 年第一季，在手訂單 [&#8230;]",
+      "date": "2026-05-28T06:52:09+00:00",
+      "sourceId": "technews",
+      "cats": [
+        "market",
+        "process",
+        "material"
+      ]
+    },
+    {
+      "id": "d99ca04470d5",
+      "title": "英特爾發表先進封裝 EMIB-T，直供電助力大型 AI 處理器",
+      "link": "https://technews.tw/2026/05/28/intel-announces-latest-emib-t-packaging-technology/",
+      "summary": "半導體大廠英特爾 (Intel) 旗下的晶圓代工 （Foundry） 業務近日正式公開其最新一代的嵌入式多晶片 [&#8230;]",
+      "date": "2026-05-28T05:50:57+00:00",
+      "sourceId": "technews",
+      "cats": [
+        "market",
+        "process",
+        "material"
+      ]
+    },
+    {
       "id": "845bd068dd8a",
       "title": "Intelligent, Configurable I/O: Edge Autonomy, Thermal Efficiency, and Higher Uptime in Industrial Control Systems",
       "link": "https://www.eetimes.com/intelligent-configurable-i-o-edge-autonomy-thermal-efficiency-and-higher-uptime-in-industrial-control-systems/",
@@ -74,71 +152,6 @@
       ]
     },
     {
-      "id": "6ef43e90c8ad",
-      "title": "日月光推面板級封裝自動化產線，拚明年上半量產",
-      "link": "https://technews.tw/2026/05/27/ase-panel-level-packaging-line-27h1/",
-      "summary": "封測大廠日月光半導體今天宣布，開發出 310×310mm 面板級封裝（Panel-Level Packagin [&#8230;]",
-      "date": "2026-05-27T10:00:31+00:00",
-      "sourceId": "technews",
-      "cats": [
-        "market",
-        "process",
-        "material"
-      ]
-    },
-    {
-      "id": "d52c646dfbcd",
-      "title": "台股市值全球第五，大摩估 2027 年 AI 半導體市場增 60%",
-      "link": "https://finance.technews.tw/2026/05/27/taiwan-stock-market-value-5th-globally-morgan-stanley-estimates-ai-semi-market-grow-60-by-2027/",
-      "summary": "台股市值超越印度升至全球第五大，但市場擔憂人工智慧（AI）發展過快恐導致泡沫化風險。外資摩根士丹利（Morga [&#8230;]",
-      "date": "2026-05-27T09:50:00+00:00",
-      "sourceId": "technews",
-      "cats": [
-        "market",
-        "process",
-        "material"
-      ]
-    },
-    {
-      "id": "674b38995e94",
-      "title": "彭博：三台人經日本走私輝達 AI 晶片銷往中國，至少一批闖關成功",
-      "link": "https://technews.tw/2026/05/27/nvidia-ai-chip-server-smuggling-case-used-japan-as-transit-hub/",
-      "summary": "檢方查獲 3 人涉違法將搭載輝達高階 AI 晶片的伺服器銷往中國。外媒稱，犯嫌先將伺服器運至日本再運往中國，至 [&#8230;]",
-      "date": "2026-05-27T09:00:35+00:00",
-      "sourceId": "technews",
-      "cats": [
-        "market",
-        "process",
-        "material"
-      ]
-    },
-    {
-      "id": "0325cc01bb5d",
-      "title": "Rambus 推完整 DDR5 9600 Client 晶片組，瞄準 AI PC 高頻寬需求",
-      "link": "https://technews.tw/2026/05/27/rambus-ddr5-9600-client-chipset/",
-      "summary": "隨著代理 AI 興起，現代 PC 能即時規劃、執行並調整工作流程，這類工作負載需要持續性的上下文記憶、並行處理 [&#8230;]",
-      "date": "2026-05-27T08:59:55+00:00",
-      "sourceId": "technews",
-      "cats": [
-        "market",
-        "process",
-        "material"
-      ]
-    },
-    {
-      "id": "998d2a606841",
-      "title": "黃仁勳喊話台灣需要更多電，經長：至 2034 年供電無虞",
-      "link": "https://technews.tw/2026/05/27/ai-power-demand-assessed-through-2034-supply-seen-as-sufficient/",
-      "summary": "輝達（NVIDIA）執行長黃仁勳今天提及台灣需要更多電力。對此，經濟部長龔明鑫今天表示，目前已盤點至 2034 [&#8230;]",
-      "date": "2026-05-27T08:30:56+00:00",
-      "sourceId": "technews",
-      "cats": [
-        "market",
-        "process",
-        "material"
-      ]
-    },
-    {
       "id": "e6af045f079a",
       "title": "Necessity is the Mother of Invention: Huawei Replaces Moore’s Law With Her’s Law",
       "link": "https://www.eetimes.com/necessity-is-the-mother-of-invention-huawei-replaces-moores-law-with-hers-law/",
@@ -149,71 +162,6 @@
         "process",
         "material",
         "equipment"
-      ]
-    },
-    {
-      "id": "aca937edaa97",
-      "title": "輝達 Vera CPU 首測曝光，效能超車 AMD 英特爾",
-      "link": "https://technews.tw/2026/05/27/nvidia-vera-cpu-amd-intel/",
-      "summary": "根據 Phoronix 報導，輝達首批 Vera CPU 基準測試結果正式曝光，不僅性能大幅超越前代 Grac [&#8230;]",
-      "date": "2026-05-27T07:18:29+00:00",
-      "sourceId": "technews",
-      "cats": [
-        "market",
-        "process",
-        "material"
-      ]
-    },
-    {
-      "id": "19113491be22",
-      "title": "黃仁勳示警沒有能源就沒有經濟成長！全球缺電危機帶動能源 ETF 狂飆 14%",
-      "link": "https://finance.technews.tw/2026/05/27/no-economic-growth/",
-      "summary": "輝達（NVIDIA）執行長黃仁勳近日再度造訪台灣，一句「如果沒有能源，就無法實現經濟成長」，再度引爆各界對 A [&#8230;]",
-      "date": "2026-05-27T07:11:59+00:00",
-      "sourceId": "technews",
-      "cats": [
-        "market",
-        "process",
-        "material"
-      ]
-    },
-    {
-      "id": "cab546c0d6cd",
-      "title": "券商喊「加碼」 矽晶圓廠信越化學今年來漲逾 50%",
-      "link": "https://finance.technews.tw/2026/05/27/analysts-raise-target-price-for-shin-etsu-chemical/",
-      "summary": "券商看旺，調升目標價且給予最高等級投資評等「加碼」，全球 PVC（聚氯乙烯）暨矽晶圓龍頭廠信越化學（Shin- [&#8230;]",
-      "date": "2026-05-27T06:20:14+00:00",
-      "sourceId": "technews",
-      "cats": [
-        "market",
-        "process",
-        "material"
-      ]
-    },
-    {
-      "id": "ab97e28c5c94",
-      "title": "魏哲家：今年員工分紅金額多 30%，鼓勵可買自家股票保證生活無虞",
-      "link": "https://finance.technews.tw/2026/05/27/this-year-employee-bonuses-will-increase-by-30/",
-      "summary": "晶圓代工龍頭台積電傳出因為要調整員工分红比例，引發部分員工反彈，並揚言罷工、組工會一事，董事長暨總裁魏哲家特地 [&#8230;]",
-      "date": "2026-05-27T06:15:50+00:00",
-      "sourceId": "technews",
-      "cats": [
-        "market",
-        "process",
-        "material"
-      ]
-    },
-    {
-      "id": "bce4e30a0af3",
-      "title": "三星獎金方案鬧內訌！記憶體部門最高爽領 40 萬美元，DX 部門僅獲 4,000 美元",
-      "link": "https://finance.technews.tw/2026/05/27/samsung-wage-vote/",
-      "summary": "韓國法院 26 日駁回三星電子消費性電子部門員工提出的申請，該申請主要是阻止公司 AI 獎金方案表決。根據韓媒 [&#8230;]",
-      "date": "2026-05-27T06:14:13+00:00",
-      "sourceId": "technews",
-      "cats": [
-        "market",
-        "process",
-        "material"
       ]
     },
     {
@@ -235,19 +183,6 @@
       "link": "https://www.eetimes.com/from-shrinking-transistors-to-compressing-time-deciphering-huaweis-%cf%84-law/",
       "summary": "Huawei's answer to Moore's Law without EUV promises 14A performance by 2031. The post From Shrinking Transistors to Compressing Time: Deciphering Huawei&#8217;s τ Law appeared first on EE Times.",
       "date": "2026-05-26T12:52:18+00:00",
-      "sourceId": "eetimes",
-      "cats": [
-        "process",
-        "material",
-        "equipment"
-      ]
-    },
-    {
-      "id": "e33f7fa45f12",
-      "title": "You May Not Know Actions Technology, But You’ve Definitely “Heard” It",
-      "link": "https://www.eetimes.com/you-may-not-know-actions-technology-but-youve-definitely-heard-it-the-evolution-of-an-audio-chip-specialist/",
-      "summary": "Action Technology, an IC design company, provides core technological support for hundreds of millions of consumer audio devices worldwide. The post You May Not Know Actions Technology, But You’ve Definitely &#8220;Heard&#8221; It appeared first on EE Times.",
-      "date": "2026-05-25T13:00:00+00:00",
       "sourceId": "eetimes",
       "cats": [
         "process",
