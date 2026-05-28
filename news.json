@@ -1,6 +1,6 @@
 {
-  "updated": "2026-05-28T11:53:39.001922+00:00",
-  "count": 17,
+  "updated": "2026-05-28T20:41:23.502900+00:00",
+  "count": 19,
   "sources": [
     {
       "id": "technews",
@@ -61,6 +61,45 @@
   ],
   "articles": [
     {
+      "id": "28f3e4f98d97",
+      "title": "黃仁勳示警台灣 AI 下一關卡，不是晶片、是電力",
+      "link": "https://finance.technews.tw/2026/05/28/jensen-huang-talk-about-taiwan-ai/",
+      "summary": "AI 熱潮持續推升全球半導體與資料中心需求，不過 NVIDIA 執行長黃仁勳認為，卻將焦點指向另一項更關鍵的基 [&#8230;]",
+      "date": "2026-05-28T14:02:38+00:00",
+      "sourceId": "technews",
+      "cats": [
+        "market",
+        "process",
+        "material"
+      ]
+    },
+    {
+      "id": "f7b43cb2ee6b",
+      "title": "談華為「韜定律」，黃仁勳：是突破非威脅、台積電領先十年",
+      "link": "https://finance.technews.tw/2026/05/28/jensen-h-hauwei-tao/",
+      "summary": "NVIDIA 執行長黃仁勳今日舉辦兆元宴，他在受訪時首度回應華為提出的半導體新定律「韜」（Tao），直言這對華 [&#8230;]",
+      "date": "2026-05-28T13:48:08+00:00",
+      "sourceId": "technews",
+      "cats": [
+        "market",
+        "process",
+        "material"
+      ]
+    },
+    {
+      "id": "7059bbfda1fe",
+      "title": "全新可插拔架構！合聖科技 COMPUTEX 2026 大秀次世代矽光子實力",
+      "link": "https://technews.tw/2026/05/28/authenx-computex-2026/",
+      "summary": "高速光學互連解決方案領導廠商合聖科技（AuthenX）將在 COMPUTEX 2026 展示一系列尖端光學互連 [&#8230;]",
+      "date": "2026-05-28T12:31:46+00:00",
+      "sourceId": "technews",
+      "cats": [
+        "market",
+        "process",
+        "material"
+      ]
+    },
+    {
       "id": "efe40f47f9f9",
       "title": "黃仁勳兆元宴大咖雲集，台 AI 供應鏈重量級掌門人齊聚",
       "link": "https://finance.technews.tw/2026/05/28/jensen-ai-supply-chain/",
@@ -118,19 +157,6 @@
       "link": "https://finance.technews.tw/2026/05/28/ai-ampower-electricity-infrasture/",
       "summary": "安葆受惠半導體、AI 資料中心等關鍵基礎設施建置需求持續升溫，公司內部統計，截至 2026 年第一季，在手訂單 [&#8230;]",
       "date": "2026-05-28T06:52:09+00:00",
-      "sourceId": "technews",
-      "cats": [
-        "market",
-        "process",
-        "material"
-      ]
-    },
-    {
-      "id": "d99ca04470d5",
-      "title": "英特爾發表先進封裝 EMIB-T，直供電助力大型 AI 處理器",
-      "link": "https://technews.tw/2026/05/28/intel-announces-latest-emib-t-packaging-technology/",
-      "summary": "半導體大廠英特爾 (Intel) 旗下的晶圓代工 （Foundry） 業務近日正式公開其最新一代的嵌入式多晶片 [&#8230;]",
-      "date": "2026-05-28T05:50:57+00:00",
       "sourceId": "technews",
       "cats": [
         "market",
