@@ -1,6 +1,6 @@
 {
-  "updated": "2026-05-29T10:58:16.507264+00:00",
-  "count": 18,
+  "updated": "2026-05-29T20:41:14.570827+00:00",
+  "count": 17,
   "sources": [
     {
       "id": "technews",
@@ -131,19 +131,6 @@
       "link": "https://finance.technews.tw/2026/05/29/huang-renxun-plays-the-role-of-the-multi-headed-general-at-zhao-yuanyan/",
       "summary": "輝達（NVIDIA）執行長黃仁勳 28 日晚間舉行備受矚目的「兆元宴」，陣容空前，齊聚超過 30 位台灣全球頂 [&#8230;]",
       "date": "2026-05-29T06:15:39+00:00",
-      "sourceId": "technews",
-      "cats": [
-        "market",
-        "process",
-        "material"
-      ]
-    },
-    {
-      "id": "169c165a0d87",
-      "title": "Mistral AI：自研晶片勢在必行、但目前仍靠輝達",
-      "link": "https://technews.tw/2026/05/29/mistral-to-explore-designing-own-chips/",
-      "summary": "法國開源 AI 新創獨角獸 Mistral AI 執行長 Arthur Mensch 透露，公司正在評估自行設 [&#8230;]",
-      "date": "2026-05-29T05:20:57+00:00",
       "sourceId": "technews",
       "cats": [
         "market",
