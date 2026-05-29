@@ -1,6 +1,6 @@
 {
-  "updated": "2026-05-28T20:41:23.502900+00:00",
-  "count": 19,
+  "updated": "2026-05-29T10:58:16.507264+00:00",
+  "count": 18,
   "sources": [
     {
       "id": "technews",
@@ -61,11 +61,11 @@
   ],
   "articles": [
     {
-      "id": "28f3e4f98d97",
-      "title": "黃仁勳示警台灣 AI 下一關卡，不是晶片、是電力",
-      "link": "https://finance.technews.tw/2026/05/28/jensen-huang-talk-about-taiwan-ai/",
-      "summary": "AI 熱潮持續推升全球半導體與資料中心需求，不過 NVIDIA 執行長黃仁勳認為，卻將焦點指向另一項更關鍵的基 [&#8230;]",
-      "date": "2026-05-28T14:02:38+00:00",
+      "id": "dadf851c6244",
+      "title": "比亞迪量產自研 4 奈米自駕晶片，但市場反應平平",
+      "link": "https://technews.tw/2026/05/29/byds-new-4-nm-self-driving-chip-fails-to-dispel-investors-growth-concerns/",
+      "summary": "綜合港媒消息，電動車大廠比亞迪近日宣布自製自動駕駛 4 奈米晶片，市場初步反應平淡。此舉被外界視為比亞迪希望自 [&#8230;]",
+      "date": "2026-05-29T10:15:36+00:00",
       "sourceId": "technews",
       "cats": [
         "market",
@@ -74,11 +74,11 @@
       ]
     },
     {
-      "id": "f7b43cb2ee6b",
-      "title": "談華為「韜定律」，黃仁勳：是突破非威脅、台積電領先十年",
-      "link": "https://finance.technews.tw/2026/05/28/jensen-h-hauwei-tao/",
-      "summary": "NVIDIA 執行長黃仁勳今日舉辦兆元宴，他在受訪時首度回應華為提出的半導體新定律「韜」（Tao），直言這對華 [&#8230;]",
-      "date": "2026-05-28T13:48:08+00:00",
+      "id": "0994ce1cd924",
+      "title": "Agent AI 新時代聯發科結合 NVIDIA 與英特爾，搶攻邊緣運算龐大商機",
+      "link": "https://finance.technews.tw/2026/05/29/mediatek-joins-forces-with-nvidia-and-intel-in-the-new-era-of-agent-ai/",
+      "summary": "聯發科在 29 日舉行 Computex Taipei 展前媒體說明會，總經理陳冠州與財務長顧大在會後接受媒體 [&#8230;]",
+      "date": "2026-05-29T09:45:22+00:00",
       "sourceId": "technews",
       "cats": [
         "market",
@@ -87,11 +87,11 @@
       ]
     },
     {
-      "id": "7059bbfda1fe",
-      "title": "全新可插拔架構！合聖科技 COMPUTEX 2026 大秀次世代矽光子實力",
-      "link": "https://technews.tw/2026/05/28/authenx-computex-2026/",
-      "summary": "高速光學互連解決方案領導廠商合聖科技（AuthenX）將在 COMPUTEX 2026 展示一系列尖端光學互連 [&#8230;]",
-      "date": "2026-05-28T12:31:46+00:00",
+      "id": "f4c2c45f3b8b",
+      "title": "格棋、普渡大學簽署 SiC 技術合作協議，布局下一代材料與高功率應用",
+      "link": "https://technews.tw/2026/05/29/gccs-purdue-university-sic/",
+      "summary": "格棋化合物半導體（GCCS）今（29 日）宣布與美國普渡大學（Purdue University）簽署合作備忘 [&#8230;]",
+      "date": "2026-05-29T09:20:42+00:00",
       "sourceId": "technews",
       "cats": [
         "market",
@@ -100,11 +100,11 @@
       ]
     },
     {
-      "id": "efe40f47f9f9",
-      "title": "黃仁勳兆元宴大咖雲集，台 AI 供應鏈重量級掌門人齊聚",
-      "link": "https://finance.technews.tw/2026/05/28/jensen-ai-supply-chain/",
-      "summary": "Nvidia 執行長黃仁勳在台行程今日來到萬眾注目的兆元宴，一如以往，今天的宴請供應鏈名單從晶圓代工、電子代工 [&#8230;]",
-      "date": "2026-05-28T10:48:04+00:00",
+      "id": "5fa59faee1e1",
+      "title": "英特爾推 Arc G3 掌機平台，望挑戰 AMD Ryzen Z 系列",
+      "link": "https://ccc.technews.tw/2026/05/29/intel-arc-g3-amd-ryzen-z-pc-play/",
+      "summary": "根據 Tom&#8217;s Hardware 報導，Intel 正式發表專為掌上型遊戲裝置打造的 Arc G [&#8230;]",
+      "date": "2026-05-29T07:57:32+00:00",
       "sourceId": "technews",
       "cats": [
         "market",
@@ -113,16 +113,55 @@
       ]
     },
     {
-      "id": "a4118e5c95af",
-      "title": "AI 時代的煉金術師！衛司特切進 CoWoS、HDI 板金屬回收市場",
-      "link": "https://technews.tw/2026/05/28/ai-metal-recycle-industry/",
-      "summary": "AI 伺服器帶動高階 PCB、HDI 高密度連接板與 CoWoS 先進封裝需求升溫，也讓 ESG 與電子廢液循 [&#8230;]",
-      "date": "2026-05-28T09:18:22+00:00",
+      "id": "0745d65af23e",
+      "title": "代理性 AI 刺激記憶體需求擴張，2027 年全球記憶體產值估擴大至 1.28 兆美元",
+      "link": "https://technews.tw/2026/05/29/agentic-ai-drives-memory-demand-growth-global-memory-market-value-estimated-to-expand-to-1-28-trillion-by-2027/",
+      "summary": "TrendForce 最新記憶體產業研究，AI 發展從大型模型訓練轉向以推理為核心的代理性 AI（Agenti [&#8230;]",
+      "date": "2026-05-29T06:20:56+00:00",
       "sourceId": "technews",
       "cats": [
         "market",
         "process",
         "material"
+      ]
+    },
+    {
+      "id": "0153998a8607",
+      "title": "黃仁勳兆元宴扮演多頭大將軍，多家參與企業股價亮燈漲停",
+      "link": "https://finance.technews.tw/2026/05/29/huang-renxun-plays-the-role-of-the-multi-headed-general-at-zhao-yuanyan/",
+      "summary": "輝達（NVIDIA）執行長黃仁勳 28 日晚間舉行備受矚目的「兆元宴」，陣容空前，齊聚超過 30 位台灣全球頂 [&#8230;]",
+      "date": "2026-05-29T06:15:39+00:00",
+      "sourceId": "technews",
+      "cats": [
+        "market",
+        "process",
+        "material"
+      ]
+    },
+    {
+      "id": "169c165a0d87",
+      "title": "Mistral AI：自研晶片勢在必行、但目前仍靠輝達",
+      "link": "https://technews.tw/2026/05/29/mistral-to-explore-designing-own-chips/",
+      "summary": "法國開源 AI 新創獨角獸 Mistral AI 執行長 Arthur Mensch 透露，公司正在評估自行設 [&#8230;]",
+      "date": "2026-05-29T05:20:57+00:00",
+      "sourceId": "technews",
+      "cats": [
+        "market",
+        "process",
+        "material"
+      ]
+    },
+    {
+      "id": "4edd27134f5b",
+      "title": "Majestic Labs Raises $100M for Memory Pooling AI Server",
+      "link": "https://www.eetimes.com/majestic-labs-raises-100m-for-memory-pooling-ai-server/",
+      "summary": "Server architecture will offer up to 100 TB of DRAM per accelerator. The post Majestic Labs Raises $100M for Memory Pooling AI Server appeared first on EE Times.",
+      "date": "2026-05-28T22:00:00+00:00",
+      "sourceId": "eetimes",
+      "cats": [
+        "process",
+        "material",
+        "equipment"
       ]
     },
     {
@@ -136,32 +175,6 @@
         "process",
         "material",
         "equipment"
-      ]
-    },
-    {
-      "id": "de436251662b",
-      "title": "新思調高年度財測  CEO：自研資料中心晶片成趨勢",
-      "link": "https://finance.technews.tw/2026/05/28/synopsys-posts-financial-results-for-second-quarter-fiscal-year-2026/",
-      "summary": "美國電子設計自動化（EDA）軟體商新思科技（Synopsys）決定調高年度財測，暗示爭相開發 AI 晶片與基礎 [&#8230;]",
-      "date": "2026-05-28T07:10:14+00:00",
-      "sourceId": "technews",
-      "cats": [
-        "market",
-        "process",
-        "material"
-      ]
-    },
-    {
-      "id": "0dab2d8b8400",
-      "title": "AI 資料中心掀電力建設潮，安葆在手訂單破 120 億元",
-      "link": "https://finance.technews.tw/2026/05/28/ai-ampower-electricity-infrasture/",
-      "summary": "安葆受惠半導體、AI 資料中心等關鍵基礎設施建置需求持續升溫，公司內部統計，截至 2026 年第一季，在手訂單 [&#8230;]",
-      "date": "2026-05-28T06:52:09+00:00",
-      "sourceId": "technews",
-      "cats": [
-        "market",
-        "process",
-        "material"
       ]
     },
     {
@@ -183,32 +196,6 @@
       "link": "https://www.eetimes.com/necessity-is-the-mother-of-invention-huawei-replaces-moores-law-with-hers-law/",
       "summary": "We now know what China’s been working on to counter U.S. sanctions on EUV technology. The post Necessity is the Mother of Invention: Huawei Replaces Moore’s Law With Her’s Law appeared first on EE Times.",
       "date": "2026-05-27T07:32:11+00:00",
-      "sourceId": "eetimes",
-      "cats": [
-        "process",
-        "material",
-        "equipment"
-      ]
-    },
-    {
-      "id": "c16da2556c6e",
-      "title": "GUC Showcases VSORA’s Jotunn8 AI inference Processor at the TSMC Europe Technology Symposium",
-      "link": "https://www.eetimes.com/guc-showcases-vsoras-jotunn8-ai-inference-processor-at-the-tsmc-europe-technology-symposium/",
-      "summary": "Global Unichip Corp. (GUC), the Advanced ASIC Leader, will showcase Jotunn8, a next-generation data center AI inference processor developed by VSORA, at the TSMC Europe Technology Symposium. The post GUC Showcases VSORA’s Jotunn8 AI inference Processor at the TSMC Europe Technology Symposium appeare",
-      "date": "2026-05-26T13:00:00+00:00",
-      "sourceId": "eetimes",
-      "cats": [
-        "process",
-        "material",
-        "equipment"
-      ]
-    },
-    {
-      "id": "c151195e1496",
-      "title": "From Shrinking Transistors to Compressing Time: Deciphering Huawei’s τ Law",
-      "link": "https://www.eetimes.com/from-shrinking-transistors-to-compressing-time-deciphering-huaweis-%cf%84-law/",
-      "summary": "Huawei's answer to Moore's Law without EUV promises 14A performance by 2031. The post From Shrinking Transistors to Compressing Time: Deciphering Huawei&#8217;s τ Law appeared first on EE Times.",
-      "date": "2026-05-26T12:52:18+00:00",
       "sourceId": "eetimes",
       "cats": [
         "process",
