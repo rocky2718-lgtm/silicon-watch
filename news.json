@@ -1,6 +1,6 @@
 {
-  "updated": "2026-05-29T20:41:14.570827+00:00",
-  "count": 17,
+  "updated": "2026-05-30T08:01:06.322068+00:00",
+  "count": 22,
   "sources": [
     {
       "id": "technews",
@@ -61,6 +61,110 @@
   ],
   "articles": [
     {
+      "id": "3bdc05fd0a11",
+      "title": "NVIDIA 神祕數字宣傳 GTC Taipei，Arm、微軟助陣可望揭曉新款 PC",
+      "link": "https://technews.tw/2026/05/30/nvidia-teases-major-announcement-experts-predict-is-the-fabled-n1x-chip/",
+      "summary": "NVIDIA 一系列官方帳號以及 Arm、微軟 Windows 和 Surface、華碩、微星等貼文都在宣傳一 [&#8230;]",
+      "date": "2026-05-30T07:34:28+00:00",
+      "sourceId": "technews",
+      "cats": [
+        "market",
+        "process",
+        "material"
+      ]
+    },
+    {
+      "id": "cb8c53e23a37",
+      "title": "仁寶電腦與 GMI Cloud 宣布攜手合作，推動 AI 基礎架構發展",
+      "link": "https://technews.tw/2026/05/30/compal-electronics-gmi-cloud-announce-partnership-advance-ai-infrastructure-development/",
+      "summary": "仁寶電腦 28 日宣布，與美國矽谷 AI 基礎架構服務商 GMI Cloud 展開合作，共同加速新世代 AI [&#8230;]",
+      "date": "2026-05-30T06:00:30+00:00",
+      "sourceId": "technews",
+      "cats": [
+        "market",
+        "process",
+        "material"
+      ]
+    },
+    {
+      "id": "df7311797f06",
+      "title": "記憶體缺貨短期難解，華邦電規劃第二個潔淨室擴產、明年展開建設",
+      "link": "https://finance.technews.tw/2026/05/30/winbond-held-the-2026-shareholder-meeting/",
+      "summary": "目前記憶體市場缺貨從 DRAM 擴大至 NAND Flash、NOR Flash，供給吃緊情況到下半年也難以改 [&#8230;]",
+      "date": "2026-05-30T03:29:15+00:00",
+      "sourceId": "technews",
+      "cats": [
+        "market",
+        "process",
+        "material"
+      ]
+    },
+    {
+      "id": "adae3daee7b2",
+      "title": "從餐桌調味料到壟斷 95% AI 晶片材料，百年味之素跨界稱霸的關鍵祕辛",
+      "link": "https://finance.technews.tw/2026/05/30/from-table-seasoning-to-monopolizing-95-ai-chip-materials-key-secrets-centennial-ajinomotos-cross-industry-dominance/",
+      "summary": "全球科技業爭相布局 AI 算力，輝達、台積電等大型企業，幾乎占據了所有目光，但在這條產業鏈的更上游，一家創立逾 [&#8230;]",
+      "date": "2026-05-30T03:00:03+00:00",
+      "sourceId": "technews",
+      "cats": [
+        "market",
+        "process",
+        "material"
+      ]
+    },
+    {
+      "id": "2e1fae0deeb4",
+      "title": "打破宿敵藩籬，黃仁勳：與英特爾是很棒的合作夥伴",
+      "link": "https://technews.tw/2026/05/30/jensen-huang-says-nvidia-and-intel-have-a-great-partnership/",
+      "summary": "在人工智慧（AI）浪潮下，全球科技巨頭的競合關係正迎來質變。AI 晶片大廠輝達（NVIDIA）執行長黃仁勳今天 [&#8230;]",
+      "date": "2026-05-30T01:45:53+00:00",
+      "sourceId": "technews",
+      "cats": [
+        "market",
+        "process",
+        "material"
+      ]
+    },
+    {
+      "id": "048c674669ab",
+      "title": "迎接 Vera Rubin，黃仁勳：在台 AI 超級電腦產能倍增",
+      "link": "https://technews.tw/2026/05/30/nvidia-ceo-gathered-with-mgx-ecosystem-partners-to-celebrate-the-companies-helping-build-the-ai-factories-that-drive-innovation-across-industries/",
+      "summary": "輝達（NVIDIA）執行長黃仁勳今天（29 日）表示，為了迎接下一代 Vera Rubin 架構，輝達今年在台 [&#8230;]",
+      "date": "2026-05-30T01:30:15+00:00",
+      "sourceId": "technews",
+      "cats": [
+        "market",
+        "process",
+        "material"
+      ]
+    },
+    {
+      "id": "ccc8ad11c148",
+      "title": "財務長親揭聯電三大成長動能：報價重塑、卡位先進封裝，2027 迎英特爾 12 奈米量產收割期",
+      "link": "https://finance.technews.tw/2026/05/30/new-umc/",
+      "summary": "聯電（UMC）27 日股價強勢上攻，盤中觸及 143.5 元漲停價位，市場看好晶圓代工景氣回溫與新成長動能。股 [&#8230;]",
+      "date": "2026-05-30T01:00:35+00:00",
+      "sourceId": "technews",
+      "cats": [
+        "market",
+        "process",
+        "material"
+      ]
+    },
+    {
+      "id": "75e662535234",
+      "title": "曾安撫張忠謀、斡旋台積電世紀和解！「喬王」陳立武掌舵 400 天，英特爾上演 5 千億美元絕地大反攻",
+      "link": "https://finance.technews.tw/2026/05/30/intel-ceo-pat-gelsinger-400-days-stock-5-5x-morris-chang-placated-tech-negotiator/",
+      "summary": "「把你們最重要的產品交給我，分給我 5％、10％ 的訂單，讓我去爭取、去贏得你們的信任。」這般近乎懇求的低姿態 [&#8230;]",
+      "date": "2026-05-30T00:00:44+00:00",
+      "sourceId": "technews",
+      "cats": [
+        "market",
+        "process",
+        "material"
+      ]
+    },
+    {
       "id": "dadf851c6244",
       "title": "比亞迪量產自研 4 奈米自駕晶片，但市場反應平平",
       "link": "https://technews.tw/2026/05/29/byds-new-4-nm-self-driving-chip-fails-to-dispel-investors-growth-concerns/",
@@ -77,7 +181,7 @@
       "id": "0994ce1cd924",
       "title": "Agent AI 新時代聯發科結合 NVIDIA 與英特爾，搶攻邊緣運算龐大商機",
       "link": "https://finance.technews.tw/2026/05/29/mediatek-joins-forces-with-nvidia-and-intel-in-the-new-era-of-agent-ai/",
-      "summary": "聯發科在 29 日舉行 Computex Taipei 展前媒體說明會，總經理陳冠州與財務長顧大在會後接受媒體 [&#8230;]",
+      "summary": "聯發科在 29 日舉行 Computex Taipei 展前媒體說明會，總經理陳冠州與財務長顧大為在會後接受媒 [&#8230;]",
       "date": "2026-05-29T09:45:22+00:00",
       "sourceId": "technews",
       "cats": [
@@ -105,32 +209,6 @@
       "link": "https://ccc.technews.tw/2026/05/29/intel-arc-g3-amd-ryzen-z-pc-play/",
       "summary": "根據 Tom&#8217;s Hardware 報導，Intel 正式發表專為掌上型遊戲裝置打造的 Arc G [&#8230;]",
       "date": "2026-05-29T07:57:32+00:00",
-      "sourceId": "technews",
-      "cats": [
-        "market",
-        "process",
-        "material"
-      ]
-    },
-    {
-      "id": "0745d65af23e",
-      "title": "代理性 AI 刺激記憶體需求擴張，2027 年全球記憶體產值估擴大至 1.28 兆美元",
-      "link": "https://technews.tw/2026/05/29/agentic-ai-drives-memory-demand-growth-global-memory-market-value-estimated-to-expand-to-1-28-trillion-by-2027/",
-      "summary": "TrendForce 最新記憶體產業研究，AI 發展從大型模型訓練轉向以推理為核心的代理性 AI（Agenti [&#8230;]",
-      "date": "2026-05-29T06:20:56+00:00",
-      "sourceId": "technews",
-      "cats": [
-        "market",
-        "process",
-        "material"
-      ]
-    },
-    {
-      "id": "0153998a8607",
-      "title": "黃仁勳兆元宴扮演多頭大將軍，多家參與企業股價亮燈漲停",
-      "link": "https://finance.technews.tw/2026/05/29/huang-renxun-plays-the-role-of-the-multi-headed-general-at-zhao-yuanyan/",
-      "summary": "輝達（NVIDIA）執行長黃仁勳 28 日晚間舉行備受矚目的「兆元宴」，陣容空前，齊聚超過 30 位台灣全球頂 [&#8230;]",
-      "date": "2026-05-29T06:15:39+00:00",
       "sourceId": "technews",
       "cats": [
         "market",
@@ -170,19 +248,6 @@
       "link": "https://www.eetimes.com/intelligent-configurable-i-o-edge-autonomy-thermal-efficiency-and-higher-uptime-in-industrial-control-systems/",
       "summary": "This paper explores how configurable and intelligent I/O technologies are transforming industrial control systems by enabling greater flexibility, improved thermal performance, and higher system uptime. Traditional fixed-function I/O architectures, while effective in stable environments, create inef",
       "date": "2026-05-27T14:00:00+00:00",
-      "sourceId": "eetimes",
-      "cats": [
-        "process",
-        "material",
-        "equipment"
-      ]
-    },
-    {
-      "id": "e6af045f079a",
-      "title": "Necessity is the Mother of Invention: Huawei Replaces Moore’s Law With Her’s Law",
-      "link": "https://www.eetimes.com/necessity-is-the-mother-of-invention-huawei-replaces-moores-law-with-hers-law/",
-      "summary": "We now know what China’s been working on to counter U.S. sanctions on EUV technology. The post Necessity is the Mother of Invention: Huawei Replaces Moore’s Law With Her’s Law appeared first on EE Times.",
-      "date": "2026-05-27T07:32:11+00:00",
       "sourceId": "eetimes",
       "cats": [
         "process",
