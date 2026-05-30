@@ -1,5 +1,5 @@
 {
-  "updated": "2026-05-30T08:01:06.322068+00:00",
+  "updated": "2026-05-30T14:53:49.282216+00:00",
   "count": 22,
   "sources": [
     {
@@ -60,6 +60,19 @@
     }
   ],
   "articles": [
+    {
+      "id": "f298ad66e5c7",
+      "title": "親民價格出擊，宏碁搶推 Snapdragon C 新筆電",
+      "link": "https://ccc.technews.tw/2026/05/30/acer-broadens-portfolio-with-two-new-laptops-powered-by-the-latest-snapdragon-processors/",
+      "summary": "隨著高通（Qualcomm）近日發表 Snapdragon C 入門級處理器，瞄準學生和家庭用戶以及小型企業， [&#8230;]",
+      "date": "2026-05-30T09:34:35+00:00",
+      "sourceId": "technews",
+      "cats": [
+        "market",
+        "process",
+        "material"
+      ]
+    },
     {
       "id": "3bdc05fd0a11",
       "title": "NVIDIA 神祕數字宣傳 GTC Taipei，Arm、微軟助陣可望揭曉新款 PC",
@@ -196,19 +209,6 @@
       "link": "https://technews.tw/2026/05/29/gccs-purdue-university-sic/",
       "summary": "格棋化合物半導體（GCCS）今（29 日）宣布與美國普渡大學（Purdue University）簽署合作備忘 [&#8230;]",
       "date": "2026-05-29T09:20:42+00:00",
-      "sourceId": "technews",
-      "cats": [
-        "market",
-        "process",
-        "material"
-      ]
-    },
-    {
-      "id": "5fa59faee1e1",
-      "title": "英特爾推 Arc G3 掌機平台，望挑戰 AMD Ryzen Z 系列",
-      "link": "https://ccc.technews.tw/2026/05/29/intel-arc-g3-amd-ryzen-z-pc-play/",
-      "summary": "根據 Tom&#8217;s Hardware 報導，Intel 正式發表專為掌上型遊戲裝置打造的 Arc G [&#8230;]",
-      "date": "2026-05-29T07:57:32+00:00",
       "sourceId": "technews",
       "cats": [
         "market",
