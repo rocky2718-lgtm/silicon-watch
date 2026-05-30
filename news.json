@@ -1,6 +1,6 @@
 {
-  "updated": "2026-05-30T14:53:49.282216+00:00",
-  "count": 22,
+  "updated": "2026-05-30T20:15:37.665848+00:00",
+  "count": 23,
   "sources": [
     {
       "id": "technews",
@@ -60,6 +60,19 @@
     }
   ],
   "articles": [
+    {
+      "id": "ae73014757fc",
+      "title": "可能早已瀰漫空氣的矽污染物，比 PFAS 更無所不在？",
+      "link": "https://technews.tw/2026/05/31/scientists-discover-a-mysterious-silicone-pollutant-that-may-be-everywhere/",
+      "summary": "談到環境污染，可能會想到塑膠微粒或俗稱「永久化學物質」的 PFAS（全氟／多氟烷基物）。但最近荷蘭又發現過去幾 [&#8230;]",
+      "date": "2026-05-30T16:00:38+00:00",
+      "sourceId": "technews",
+      "cats": [
+        "market",
+        "process",
+        "material"
+      ]
+    },
     {
       "id": "f298ad66e5c7",
       "title": "親民價格出擊，宏碁搶推 Snapdragon C 新筆電",
