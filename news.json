@@ -1,6 +1,6 @@
 {
-  "updated": "2026-05-30T20:15:37.665848+00:00",
-  "count": 23,
+  "updated": "2026-05-31T08:30:17.494368+00:00",
+  "count": 24,
   "sources": [
     {
       "id": "technews",
@@ -60,6 +60,84 @@
     }
   ],
   "articles": [
+    {
+      "id": "810b0ff4dc5a",
+      "title": "博通端多款 Wi-Fi 8 新品，推業界首款端到端 50G PON 邊緣 AI 產品組合",
+      "link": "https://technews.tw/2026/05/31/broadcom-delivers-industrys-first-integrated-wi-fi-8-socs/",
+      "summary": "博通本週發布三款全新高度整合的系統單晶片（SoC），分別為 BCM6772、BCM6774 與 BCM6776 [&#8230;]",
+      "date": "2026-05-31T06:56:22+00:00",
+      "sourceId": "technews",
+      "cats": [
+        "market",
+        "process",
+        "material"
+      ]
+    },
+    {
+      "id": "2bf7ac12b2f5",
+      "title": "加速擺脫對美依賴，傳字節跳動擬自研 CPU 晶片",
+      "link": "https://technews.tw/2026/05/31/bytedance-agentic-ai-and-ai-chip/",
+      "summary": "據路透社報導，隨著以推論為主的代理 AI（agentic AI）迅速成為新常態，字節跳動新晶片設計靈感來自 G [&#8230;]",
+      "date": "2026-05-31T06:17:07+00:00",
+      "sourceId": "technews",
+      "cats": [
+        "market",
+        "process",
+        "material"
+      ]
+    },
+    {
+      "id": "9555d1ec14f0",
+      "title": "出口制裁反助重生！華為：感謝美國促成我們晶片技術成長",
+      "link": "https://technews.tw/2026/05/31/huawei-chairman-thanks-us-for-export-restrictions-on-chips/",
+      "summary": "華為輪值董事長徐直軍近日針對「韜（τ）定律」（Tau Scaling Law）相關技術發表看法，表示公司其實相 [&#8230;]",
+      "date": "2026-05-31T05:59:39+00:00",
+      "sourceId": "technews",
+      "cats": [
+        "market",
+        "process",
+        "material"
+      ]
+    },
+    {
+      "id": "b3de48880fd8",
+      "title": "尼康擬以低價策略打破 ASML 壟斷地位！力拚重返半導體設備市場",
+      "link": "https://technews.tw/2026/05/31/nikon-lower-prices-asml/",
+      "summary": "日本光學與半導體裝置大廠尼康（Nikon）新任社長大村康弘（Yasuhiro Ohmura）表示，公司提供比 [&#8230;]",
+      "date": "2026-05-31T05:36:29+00:00",
+      "sourceId": "technews",
+      "cats": [
+        "market",
+        "process",
+        "material"
+      ]
+    },
+    {
+      "id": "6c07ae9267ac",
+      "title": "穎崴董座自嘲「昨天該給的貨都來不及交」！AI 測試訂單罕見看半年，下半年拚月營收衝 10 億",
+      "link": "https://technews.tw/2026/05/31/winway-capacity-fully-booked-for-the-next-six-months/",
+      "summary": "全球 AI 先進製程與封裝產能進入全面引爆期，不僅晶圓代工龍頭與封測大廠正瘋狂擴產，這股 AI 浪潮也正全面衝 [&#8230;]",
+      "date": "2026-05-31T01:00:49+00:00",
+      "sourceId": "technews",
+      "cats": [
+        "market",
+        "process",
+        "material"
+      ]
+    },
+    {
+      "id": "3129c6179c13",
+      "title": "台積電先進製程不能沒有它！山林水如何掌握全台四成五再生水，成為半導體不可替代的後盾",
+      "link": "https://technews.tw/2026/05/31/outsider-shan-lin-shui-loss-to-5-billion-revenue-4-years-3-reforms-tsmc-critical-water-supply-no-error/",
+      "summary": "國內水資源處理大廠山林水，4 年前面臨虧損，卻在去年開創 50 億元營收新頁。董座郭又綺如何讓員工重拾信心，帶 [&#8230;]",
+      "date": "2026-05-31T00:00:53+00:00",
+      "sourceId": "technews",
+      "cats": [
+        "market",
+        "process",
+        "material"
+      ]
+    },
     {
       "id": "ae73014757fc",
       "title": "可能早已瀰漫空氣的矽污染物，比 PFAS 更無所不在？",
@@ -157,71 +235,6 @@
       "link": "https://technews.tw/2026/05/30/nvidia-ceo-gathered-with-mgx-ecosystem-partners-to-celebrate-the-companies-helping-build-the-ai-factories-that-drive-innovation-across-industries/",
       "summary": "輝達（NVIDIA）執行長黃仁勳今天（29 日）表示，為了迎接下一代 Vera Rubin 架構，輝達今年在台 [&#8230;]",
       "date": "2026-05-30T01:30:15+00:00",
-      "sourceId": "technews",
-      "cats": [
-        "market",
-        "process",
-        "material"
-      ]
-    },
-    {
-      "id": "ccc8ad11c148",
-      "title": "財務長親揭聯電三大成長動能：報價重塑、卡位先進封裝，2027 迎英特爾 12 奈米量產收割期",
-      "link": "https://finance.technews.tw/2026/05/30/new-umc/",
-      "summary": "聯電（UMC）27 日股價強勢上攻，盤中觸及 143.5 元漲停價位，市場看好晶圓代工景氣回溫與新成長動能。股 [&#8230;]",
-      "date": "2026-05-30T01:00:35+00:00",
-      "sourceId": "technews",
-      "cats": [
-        "market",
-        "process",
-        "material"
-      ]
-    },
-    {
-      "id": "75e662535234",
-      "title": "曾安撫張忠謀、斡旋台積電世紀和解！「喬王」陳立武掌舵 400 天，英特爾上演 5 千億美元絕地大反攻",
-      "link": "https://finance.technews.tw/2026/05/30/intel-ceo-pat-gelsinger-400-days-stock-5-5x-morris-chang-placated-tech-negotiator/",
-      "summary": "「把你們最重要的產品交給我，分給我 5％、10％ 的訂單，讓我去爭取、去贏得你們的信任。」這般近乎懇求的低姿態 [&#8230;]",
-      "date": "2026-05-30T00:00:44+00:00",
-      "sourceId": "technews",
-      "cats": [
-        "market",
-        "process",
-        "material"
-      ]
-    },
-    {
-      "id": "dadf851c6244",
-      "title": "比亞迪量產自研 4 奈米自駕晶片，但市場反應平平",
-      "link": "https://technews.tw/2026/05/29/byds-new-4-nm-self-driving-chip-fails-to-dispel-investors-growth-concerns/",
-      "summary": "綜合港媒消息，電動車大廠比亞迪近日宣布自製自動駕駛 4 奈米晶片，市場初步反應平淡。此舉被外界視為比亞迪希望自 [&#8230;]",
-      "date": "2026-05-29T10:15:36+00:00",
-      "sourceId": "technews",
-      "cats": [
-        "market",
-        "process",
-        "material"
-      ]
-    },
-    {
-      "id": "0994ce1cd924",
-      "title": "Agent AI 新時代聯發科結合 NVIDIA 與英特爾，搶攻邊緣運算龐大商機",
-      "link": "https://finance.technews.tw/2026/05/29/mediatek-joins-forces-with-nvidia-and-intel-in-the-new-era-of-agent-ai/",
-      "summary": "聯發科在 29 日舉行 Computex Taipei 展前媒體說明會，總經理陳冠州與財務長顧大為在會後接受媒 [&#8230;]",
-      "date": "2026-05-29T09:45:22+00:00",
-      "sourceId": "technews",
-      "cats": [
-        "market",
-        "process",
-        "material"
-      ]
-    },
-    {
-      "id": "f4c2c45f3b8b",
-      "title": "格棋、普渡大學簽署 SiC 技術合作協議，布局下一代材料與高功率應用",
-      "link": "https://technews.tw/2026/05/29/gccs-purdue-university-sic/",
-      "summary": "格棋化合物半導體（GCCS）今（29 日）宣布與美國普渡大學（Purdue University）簽署合作備忘 [&#8230;]",
-      "date": "2026-05-29T09:20:42+00:00",
       "sourceId": "technews",
       "cats": [
         "market",
