@@ -1,6 +1,6 @@
 {
-  "updated": "2026-05-31T19:59:50.414184+00:00",
-  "count": 24,
+  "updated": "2026-05-31T23:47:55.488044+00:00",
+  "count": 21,
   "sources": [
     {
       "id": "technews",
@@ -196,45 +196,6 @@
       "link": "https://finance.technews.tw/2026/05/30/winbond-held-the-2026-shareholder-meeting/",
       "summary": "目前記憶體市場缺貨從 DRAM 擴大至 NAND Flash、NOR Flash，供給吃緊情況到下半年也難以改 [&#8230;]",
       "date": "2026-05-30T03:29:15+00:00",
-      "sourceId": "technews",
-      "cats": [
-        "market",
-        "process",
-        "material"
-      ]
-    },
-    {
-      "id": "adae3daee7b2",
-      "title": "從餐桌調味料到壟斷 95% AI 晶片材料，百年味之素跨界稱霸的關鍵祕辛",
-      "link": "https://finance.technews.tw/2026/05/30/from-table-seasoning-to-monopolizing-95-ai-chip-materials-key-secrets-centennial-ajinomotos-cross-industry-dominance/",
-      "summary": "全球科技業爭相布局 AI 算力，輝達、台積電等大型企業，幾乎占據了所有目光，但在這條產業鏈的更上游，一家創立逾 [&#8230;]",
-      "date": "2026-05-30T03:00:03+00:00",
-      "sourceId": "technews",
-      "cats": [
-        "market",
-        "process",
-        "material"
-      ]
-    },
-    {
-      "id": "2e1fae0deeb4",
-      "title": "打破宿敵藩籬，黃仁勳：與英特爾是很棒的合作夥伴",
-      "link": "https://technews.tw/2026/05/30/jensen-huang-says-nvidia-and-intel-have-a-great-partnership/",
-      "summary": "在人工智慧（AI）浪潮下，全球科技巨頭的競合關係正迎來質變。AI 晶片大廠輝達（NVIDIA）執行長黃仁勳今天 [&#8230;]",
-      "date": "2026-05-30T01:45:53+00:00",
-      "sourceId": "technews",
-      "cats": [
-        "market",
-        "process",
-        "material"
-      ]
-    },
-    {
-      "id": "048c674669ab",
-      "title": "迎接 Vera Rubin，黃仁勳：在台 AI 超級電腦產能倍增",
-      "link": "https://technews.tw/2026/05/30/nvidia-ceo-gathered-with-mgx-ecosystem-partners-to-celebrate-the-companies-helping-build-the-ai-factories-that-drive-innovation-across-industries/",
-      "summary": "輝達（NVIDIA）執行長黃仁勳今天（29 日）表示，為了迎接下一代 Vera Rubin 架構，輝達今年在台 [&#8230;]",
-      "date": "2026-05-30T01:30:15+00:00",
       "sourceId": "technews",
       "cats": [
         "market",
