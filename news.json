@@ -1,6 +1,6 @@
 {
-  "updated": "2026-05-31T23:47:55.488044+00:00",
-  "count": 21,
+  "updated": "2026-06-01T19:31:26.350397+00:00",
+  "count": 20,
   "sources": [
     {
       "id": "technews",
@@ -61,154 +61,11 @@
   ],
   "articles": [
     {
-      "id": "810b0ff4dc5a",
-      "title": "博通端多款 Wi-Fi 8 新品，推業界首款端到端 50G PON 邊緣 AI 產品組合",
-      "link": "https://technews.tw/2026/05/31/broadcom-delivers-industrys-first-integrated-wi-fi-8-socs/",
-      "summary": "博通本週發布三款全新高度整合的系統單晶片（SoC），分別為 BCM6772、BCM6774 與 BCM6776 [&#8230;]",
-      "date": "2026-05-31T06:56:22+00:00",
-      "sourceId": "technews",
-      "cats": [
-        "market",
-        "process",
-        "material"
-      ]
-    },
-    {
-      "id": "2bf7ac12b2f5",
-      "title": "加速擺脫對美依賴，傳字節跳動擬自研 CPU 晶片",
-      "link": "https://technews.tw/2026/05/31/bytedance-agentic-ai-and-ai-chip/",
-      "summary": "據路透社報導，隨著以推論為主的代理 AI（agentic AI）迅速成為新常態，字節跳動新晶片設計靈感來自 G [&#8230;]",
-      "date": "2026-05-31T06:17:07+00:00",
-      "sourceId": "technews",
-      "cats": [
-        "market",
-        "process",
-        "material"
-      ]
-    },
-    {
-      "id": "9555d1ec14f0",
-      "title": "出口制裁反助重生！華為：感謝美國促成我們晶片技術成長",
-      "link": "https://technews.tw/2026/05/31/huawei-chairman-thanks-us-for-export-restrictions-on-chips/",
-      "summary": "華為輪值董事長徐直軍近日針對「韜（τ）定律」（Tau Scaling Law）相關技術發表看法，表示公司其實相 [&#8230;]",
-      "date": "2026-05-31T05:59:39+00:00",
-      "sourceId": "technews",
-      "cats": [
-        "market",
-        "process",
-        "material"
-      ]
-    },
-    {
-      "id": "b3de48880fd8",
-      "title": "尼康擬以低價策略打破 ASML 壟斷地位！力拚重返半導體設備市場",
-      "link": "https://technews.tw/2026/05/31/nikon-lower-prices-asml/",
-      "summary": "日本光學與半導體裝置大廠尼康（Nikon）新任社長大村康弘（Yasuhiro Ohmura）表示，公司提供比 [&#8230;]",
-      "date": "2026-05-31T05:36:29+00:00",
-      "sourceId": "technews",
-      "cats": [
-        "market",
-        "process",
-        "material"
-      ]
-    },
-    {
-      "id": "6c07ae9267ac",
-      "title": "穎崴董座自嘲「昨天該給的貨都來不及交」！AI 測試訂單罕見看半年，下半年拚月營收衝 10 億",
-      "link": "https://technews.tw/2026/05/31/winway-capacity-fully-booked-for-the-next-six-months/",
-      "summary": "全球 AI 先進製程與封裝產能進入全面引爆期，不僅晶圓代工龍頭與封測大廠正瘋狂擴產，這股 AI 浪潮也正全面衝 [&#8230;]",
-      "date": "2026-05-31T01:00:49+00:00",
-      "sourceId": "technews",
-      "cats": [
-        "market",
-        "process",
-        "material"
-      ]
-    },
-    {
-      "id": "3129c6179c13",
-      "title": "台積電先進製程不能沒有它！山林水如何掌握全台四成五再生水，成為半導體不可替代的後盾",
-      "link": "https://technews.tw/2026/05/31/outsider-shan-lin-shui-loss-to-5-billion-revenue-4-years-3-reforms-tsmc-critical-water-supply-no-error/",
-      "summary": "國內水資源處理大廠山林水，4 年前面臨虧損，卻在去年開創 50 億元營收新頁。董座郭又綺如何讓員工重拾信心，帶 [&#8230;]",
-      "date": "2026-05-31T00:00:53+00:00",
-      "sourceId": "technews",
-      "cats": [
-        "market",
-        "process",
-        "material"
-      ]
-    },
-    {
-      "id": "ae73014757fc",
-      "title": "可能早已瀰漫空氣的矽污染物，比 PFAS 更無所不在？",
-      "link": "https://technews.tw/2026/05/31/scientists-discover-a-mysterious-silicone-pollutant-that-may-be-everywhere/",
-      "summary": "談到環境污染，可能會想到塑膠微粒或俗稱「永久化學物質」的 PFAS（全氟／多氟烷基物）。但最近荷蘭又發現過去幾 [&#8230;]",
-      "date": "2026-05-30T16:00:38+00:00",
-      "sourceId": "technews",
-      "cats": [
-        "market",
-        "process",
-        "material"
-      ]
-    },
-    {
-      "id": "f298ad66e5c7",
-      "title": "親民價格出擊，宏碁搶推 Snapdragon C 新筆電",
-      "link": "https://ccc.technews.tw/2026/05/30/acer-broadens-portfolio-with-two-new-laptops-powered-by-the-latest-snapdragon-processors/",
-      "summary": "隨著高通（Qualcomm）近日發表 Snapdragon C 入門級處理器，瞄準學生和家庭用戶以及小型企業， [&#8230;]",
-      "date": "2026-05-30T09:34:35+00:00",
-      "sourceId": "technews",
-      "cats": [
-        "market",
-        "process",
-        "material"
-      ]
-    },
-    {
-      "id": "3bdc05fd0a11",
-      "title": "NVIDIA 神祕數字宣傳 GTC Taipei，Arm、微軟助陣可望揭曉新款 PC",
-      "link": "https://technews.tw/2026/05/30/nvidia-teases-major-announcement-experts-predict-is-the-fabled-n1x-chip/",
-      "summary": "NVIDIA 一系列官方帳號以及 Arm、微軟 Windows 和 Surface、華碩、微星等貼文都在宣傳一 [&#8230;]",
-      "date": "2026-05-30T07:34:28+00:00",
-      "sourceId": "technews",
-      "cats": [
-        "market",
-        "process",
-        "material"
-      ]
-    },
-    {
-      "id": "cb8c53e23a37",
-      "title": "仁寶電腦與 GMI Cloud 宣布攜手合作，推動 AI 基礎架構發展",
-      "link": "https://technews.tw/2026/05/30/compal-electronics-gmi-cloud-announce-partnership-advance-ai-infrastructure-development/",
-      "summary": "仁寶電腦 28 日宣布，與美國矽谷 AI 基礎架構服務商 GMI Cloud 展開合作，共同加速新世代 AI [&#8230;]",
-      "date": "2026-05-30T06:00:30+00:00",
-      "sourceId": "technews",
-      "cats": [
-        "market",
-        "process",
-        "material"
-      ]
-    },
-    {
-      "id": "df7311797f06",
-      "title": "記憶體缺貨短期難解，華邦電規劃第二個潔淨室擴產、明年展開建設",
-      "link": "https://finance.technews.tw/2026/05/30/winbond-held-the-2026-shareholder-meeting/",
-      "summary": "目前記憶體市場缺貨從 DRAM 擴大至 NAND Flash、NOR Flash，供給吃緊情況到下半年也難以改 [&#8230;]",
-      "date": "2026-05-30T03:29:15+00:00",
-      "sourceId": "technews",
-      "cats": [
-        "market",
-        "process",
-        "material"
-      ]
-    },
-    {
-      "id": "4edd27134f5b",
-      "title": "Majestic Labs Raises $100M for Memory Pooling AI Server",
-      "link": "https://www.eetimes.com/majestic-labs-raises-100m-for-memory-pooling-ai-server/",
-      "summary": "Server architecture will offer up to 100 TB of DRAM per accelerator. The post Majestic Labs Raises $100M for Memory Pooling AI Server appeared first on EE Times.",
-      "date": "2026-05-28T22:00:00+00:00",
+      "id": "2a07b0cf74f0",
+      "title": "TSMC Defends Transistor Scaling Amid Huawei’s ‘Her’s Law’ Proposal",
+      "link": "https://www.eetimes.com/tsmc-defends-transistor-scaling-amid-huaweis-hers-law-proposal/",
+      "summary": "Kevin Zhang said 3D integration is important, but transistor scaling remains the semiconductor industry's primary driver of performance and energy-efficiency gains. The post TSMC Defends Transistor Scaling Amid Huawei&#8217;s ‘Her’s Law’ Proposal appeared first on EE Times.",
+      "date": "2026-06-01T18:12:48+00:00",
       "sourceId": "eetimes",
       "cats": [
         "process",
@@ -217,11 +74,11 @@
       ]
     },
     {
-      "id": "141ead5c1b4e",
-      "title": "Chiplets, Ecosystems, and Europe’s Post-Fab Semiconductor Strategy",
-      "link": "https://www.eetimes.com/chiplets-ecosystems-and-europes-post-fab-semiconductor-strategy/",
-      "summary": "“Can Europe realistically compete on leading-edge fabs alone?” Maria Marced said. “No.” The post Chiplets, Ecosystems, and Europe’s Post-Fab Semiconductor Strategy appeared first on EE Times.",
-      "date": "2026-05-28T08:38:29+00:00",
+      "id": "34c72e4506ab",
+      "title": "Early Memory Contention Checks Reduce IC Design Risks",
+      "link": "https://www.eetimes.com/early-memory-contention-checks-reduce-ic-design-risks/",
+      "summary": "Automated schematic-level contention analysis detects memory bottlenecks early, improving SoC reliability, predictability, and silicon quality. The post Early Memory Contention Checks Reduce IC Design Risks appeared first on EE Times.",
+      "date": "2026-06-01T14:00:00+00:00",
       "sourceId": "eetimes",
       "cats": [
         "process",
@@ -230,16 +87,146 @@
       ]
     },
     {
-      "id": "845bd068dd8a",
-      "title": "Intelligent, Configurable I/O: Edge Autonomy, Thermal Efficiency, and Higher Uptime in Industrial Control Systems",
-      "link": "https://www.eetimes.com/intelligent-configurable-i-o-edge-autonomy-thermal-efficiency-and-higher-uptime-in-industrial-control-systems/",
-      "summary": "This paper explores how configurable and intelligent I/O technologies are transforming industrial control systems by enabling greater flexibility, improved thermal performance, and higher system uptime. Traditional fixed-function I/O architectures, while effective in stable environments, create inef",
-      "date": "2026-05-27T14:00:00+00:00",
+      "id": "f9adab4b3764",
+      "title": "Nikon Leveraging ArF Scanner Price to Challenge ASML",
+      "link": "https://www.eetimes.com/nikon-leveraging-arf-scanner-price-to-challenge-asml/",
+      "summary": "The Japanese litho firm is lowering the price of its ArF tools while also launching a brand-new immersion platform by 2028. The post Nikon Leveraging ArF Scanner Price to Challenge ASML appeared first on EE Times.",
+      "date": "2026-06-01T11:57:55+00:00",
       "sourceId": "eetimes",
       "cats": [
         "process",
         "material",
         "equipment"
+      ]
+    },
+    {
+      "id": "3228816fc2c6",
+      "title": "能率領投 AI 城市大腦，鑫蘊林科入列輝達 GTC 背板",
+      "link": "https://technews.tw/2026/06/01/nvidia-rtx-spark-vs-qualcomm/",
+      "summary": "能率集團領投、輝達（NVIDIA）入股的 AI 軟體平台廠商鑫蘊林科（Linker Vision）登上輝達 G [&#8230;]",
+      "date": "2026-06-01T11:00:28+00:00",
+      "sourceId": "technews",
+      "cats": [
+        "market",
+        "process",
+        "material"
+      ]
+    },
+    {
+      "id": "850696635eab",
+      "title": "黃仁勳 GTC 宣告啟動 AI 代理新時代，感謝台灣供應鏈",
+      "link": "https://technews.tw/2026/06/01/jensen-huang-gtc-announces-launch-new-era-ai-agents-thanks-taiwan-supply-chain/",
+      "summary": "輝達（NVIDIA）執行長黃仁勳今天發表 GTC Taipei 大會主題演講，擘劃人工智慧（AI）產業的嶄新藍 [&#8230;]",
+      "date": "2026-06-01T10:40:08+00:00",
+      "sourceId": "technews",
+      "cats": [
+        "market",
+        "process",
+        "material"
+      ]
+    },
+    {
+      "id": "8d904ab932d9",
+      "title": "住友電木推出 230°C 高耐熱材料，突破封裝溫度瓶頸",
+      "link": "https://technews.tw/2026/06/01/high-tg-epoxy-molding-compounds/",
+      "summary": "隨著 AI 資料中心、800V 電動車平台以及高壓直流配電（HVDC）技術發展，電子設備的功率密度持續提升，也 [&#8230;]",
+      "date": "2026-06-01T09:26:07+00:00",
+      "sourceId": "technews",
+      "cats": [
+        "market",
+        "process",
+        "material"
+      ]
+    },
+    {
+      "id": "b973598f352a",
+      "title": "美超微布局 SMR 核能供電！梁見後：AI 發展不能以犧牲環境為代價",
+      "link": "https://technews.tw/2026/06/01/sumpermicro-computex-2026/",
+      "summary": "伺服器大廠美超微（Supermicro）舉辦媒體記者會，談到近期記憶體短缺議題，執行長梁見後表示，這是業界共同 [&#8230;]",
+      "date": "2026-06-01T09:05:45+00:00",
+      "sourceId": "technews",
+      "cats": [
+        "market",
+        "process",
+        "material"
+      ]
+    },
+    {
+      "id": "0a80e4229723",
+      "title": "台積電導入輝達 CUDA-X 服務與 AI 技術，加速新世代 AI 晶片開發製造",
+      "link": "https://finance.technews.tw/2026/06/01/tsmc-is-adopting-nvidias-cuda-x-services-and-ai-technology/",
+      "summary": "外媒報導，全球半導體代工龍頭台積電不僅為GPU大廠輝達（NVIDIA）代工生產全球最先進的AI平台晶片，如今更 [&#8230;]",
+      "date": "2026-06-01T08:50:52+00:00",
+      "sourceId": "technews",
+      "cats": [
+        "market",
+        "process",
+        "material"
+      ]
+    },
+    {
+      "id": "bf793423f1c5",
+      "title": "鴻華先進攜手聯發科，以 NVIDIA GPU 發展先進 AI 智慧行車體驗",
+      "link": "https://technews.tw/2026/06/01/hon-hua-advanced-technology-in-partnership-with-mediatek-is-developing-advanced-ai-powered-smart-driving-experiences-using-nvidia-gpu-technology/",
+      "summary": "IC 設計龍頭聯發科宣布與鴻海集團旗下的鴻華先進（FOXTRON）策略合作，攜手加速 AI 賦能智慧汽車的創新 [&#8230;]",
+      "date": "2026-06-01T08:15:52+00:00",
+      "sourceId": "technews",
+      "cats": [
+        "market",
+        "process",
+        "material"
+      ]
+    },
+    {
+      "id": "9dae68186ffe",
+      "title": "SK 海力士清州工廠火警致有毒氣體外洩，6 人受傷引關注",
+      "link": "https://technews.tw/2026/06/01/fire-at-sk-hynixs-cheongju-factory-causes-toxic-gas-leak/",
+      "summary": "韓國記憶體大廠 SK 海力士（SK Hynix）位於韓國清州市的晶片製造工廠，於 1 日驚傳發生火災意外，並引 [&#8230;]",
+      "date": "2026-06-01T08:10:54+00:00",
+      "sourceId": "technews",
+      "cats": [
+        "market",
+        "process",
+        "material"
+      ]
+    },
+    {
+      "id": "e94fe62f77f6",
+      "title": "合約價快速上漲，1Q26 DRAM 產業營收季增 81%",
+      "link": "https://technews.tw/2026/06/01/1q26-dram-revenue-81-qoq-contract-price-surge/",
+      "summary": "TrendForce 最新記憶體產業調查，2026 年第一季因一般型 DRAM（conventional DR [&#8230;]",
+      "date": "2026-06-01T07:50:47+00:00",
+      "sourceId": "technews",
+      "cats": [
+        "market",
+        "process",
+        "material"
+      ]
+    },
+    {
+      "id": "51a7f2f58824",
+      "title": "券商看旺、喊「買進」  NAND Flash 廠鎧俠飆史高",
+      "link": "https://finance.technews.tw/2026/06/01/kioxia-nand-flash-soars-all-time-high-brokers-bullish-buy-calls/",
+      "summary": "券商看旺，給予最高等級投資評等「買進」、且大幅調高目標價，日本 NAND Flash 大廠鎧俠（Kioxia） [&#8230;]",
+      "date": "2026-06-01T06:10:45+00:00",
+      "sourceId": "technews",
+      "cats": [
+        "market",
+        "process",
+        "material"
+      ]
+    },
+    {
+      "id": "d586411d1a21",
+      "title": "黃仁勳發表 RTX Spark 超級晶片！攜聯發科正式進軍 PC 市場",
+      "link": "https://technews.tw/2026/06/01/nvidia-computex-2026-rtx-spark/",
+      "summary": "輝達（NVIDIA）今（1 日）在 2026 年台北國際電腦展（Computex 2026）上發表全新 RTX [&#8230;]",
+      "date": "2026-06-01T05:48:51+00:00",
+      "sourceId": "technews",
+      "cats": [
+        "market",
+        "process",
+        "material"
       ]
     },
     {
