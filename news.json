@@ -1,6 +1,6 @@
 {
-  "updated": "2026-06-01T19:31:26.350397+00:00",
-  "count": 20,
+  "updated": "2026-06-02T11:54:30.816488+00:00",
+  "count": 22,
   "sources": [
     {
       "id": "technews",
@@ -61,6 +61,162 @@
   ],
   "articles": [
     {
+      "id": "47a35dc2e15c",
+      "title": "Naver Cloud 攜手 Nvidia 推動全球 AI Factory：涵蓋基礎設施、模型與物理 AI",
+      "link": "https://technews.tw/2026/06/02/naver-cloud-nvidia-expand-alliance-for-global-ai-factory-push/",
+      "summary": "韓國雲端業者 Naver Cloud 宣布，將與 Nvidia 擴大合作，攜手推動全球 AI Factory（ [&#8230;]",
+      "date": "2026-06-02T10:30:48+00:00",
+      "sourceId": "technews",
+      "cats": [
+        "market",
+        "process",
+        "material"
+      ]
+    },
+    {
+      "id": "562942aa0194",
+      "title": "AI 造假時代！思偉達聯手日本影像晶片大廠 COMPUTEX 秀影像防偽",
+      "link": "https://infosecu.technews.tw/2026/06/02/digital-media-professionals/",
+      "summary": "思偉達（STARBIT）今日宣布攜手日本影像晶片大廠 Digital Media Professionals（ [&#8230;]",
+      "date": "2026-06-02T10:18:35+00:00",
+      "sourceId": "technews",
+      "cats": [
+        "market",
+        "process",
+        "material"
+      ]
+    },
+    {
+      "id": "18a40d38cd6f",
+      "title": "國科會：半導體優勢吸引全球新創落地，挹注 AI 應用",
+      "link": "https://technews.tw/2026/06/02/ic-taiwan-grand-challenge-4th/",
+      "summary": "國家科學及技術委員今天在台北國際電腦展（COMPUTEX 2026）旗下新創展會 InnoVEX，舉行 IC [&#8230;]",
+      "date": "2026-06-02T09:35:55+00:00",
+      "sourceId": "technews",
+      "cats": [
+        "market",
+        "process",
+        "material"
+      ]
+    },
+    {
+      "id": "0d5b92a2d74b",
+      "title": "Arm 談「AI 兩大瓶頸」：記憶體供需緊張恐仍持續一段時間",
+      "link": "https://technews.tw/2026/06/02/arm-computex-2026-qa/",
+      "summary": "隨著 COMPUTEX 2026 正式揭幕，Arm 執行長 Rene Haas 於今（2 日）發表主題演講，會 [&#8230;]",
+      "date": "2026-06-02T09:30:39+00:00",
+      "sourceId": "technews",
+      "cats": [
+        "market",
+        "process",
+        "material"
+      ]
+    },
+    {
+      "id": "ec1a07cf6c37",
+      "title": "AI 機櫃功率直逼 MW 等級，台達電加強「從電網到晶片」架構",
+      "link": "https://technews.tw/2026/06/02/ai-power-shelf-1mw/",
+      "summary": "全球 AI 軍備競賽持續升溫，市場焦點正從 GPU、HBM 與先進封裝，逐步延伸至電力供應與能源管理。台達電董 [&#8230;]",
+      "date": "2026-06-02T09:12:36+00:00",
+      "sourceId": "technews",
+      "cats": [
+        "market",
+        "process",
+        "material"
+      ]
+    },
+    {
+      "id": "fece726fb203",
+      "title": "陳立武揭露英特爾代工與客製化晶片雙軌策略，彈性製造與擴大生態系合作成重心",
+      "link": "https://finance.technews.tw/2026/06/02/intels-dual-track-strategy-of-foundry-and-custom-chip-manufacturing/",
+      "summary": "英特爾（Intel）與媒體對話更進一步，執行長陳立武與公司高層都闡述晶圓代工（Intel Foundry）與客 [&#8230;]",
+      "date": "2026-06-02T08:45:47+00:00",
+      "sourceId": "technews",
+      "cats": [
+        "market",
+        "process",
+        "material"
+      ]
+    },
+    {
+      "id": "2ae72c5a3d69",
+      "title": "陳立武：英特爾三階段改革已初步完成，許多產品仍高度依賴台積電產能",
+      "link": "https://technews.tw/2026/06/02/many-intel-products-still-heavily-rely-on-tsmcs-production-capacity/",
+      "summary": "英特爾（Intel）執行長陳立武 COMPUTEX 主題演講後的全球媒體問答環節，公司轉型方向、製程進展與台積 [&#8230;]",
+      "date": "2026-06-02T08:15:16+00:00",
+      "sourceId": "technews",
+      "cats": [
+        "market",
+        "process",
+        "material"
+      ]
+    },
+    {
+      "id": "ab2f8c92a038",
+      "title": "看好台 AI 生態系！SK 會長崔泰源：目標晶圓產能翻倍，深化與台積電等台廠合作",
+      "link": "https://technews.tw/2026/06/02/sk-hynix-chey-tae-won-computex-2026/",
+      "summary": "SK 集團會長崔泰源今（2 日）快閃 SK 海力士攤位並接受媒體訪問。在被問到產能規劃和記憶體後市，崔泰源表示 [&#8230;]",
+      "date": "2026-06-02T08:02:58+00:00",
+      "sourceId": "technews",
+      "cats": [
+        "market",
+        "process",
+        "material"
+      ]
+    },
+    {
+      "id": "69e937dafe62",
+      "title": "AI 迎來「渦輪增壓」時代！輝達黃仁勳喊話廣達以光速生產 Vera Rubin",
+      "link": "https://finance.technews.tw/2026/06/02/vera-rubin/",
+      "summary": "輝達（NVIDIA）執行長黃仁勳今日下午在 2026 台北國際電腦展（COMPUTEX 2026）繞場，首站來 [&#8230;]",
+      "date": "2026-06-02T07:40:51+00:00",
+      "sourceId": "technews",
+      "cats": [
+        "market",
+        "process",
+        "material"
+      ]
+    },
+    {
+      "id": "bf8571bc68c6",
+      "title": "DRAM 持續供不應求使供應商握 HBM 定價主導權，2027 年 HBM 合約價估倍數上漲",
+      "link": "https://technews.tw/2026/06/02/hbm-contract-prices-expected-to-rise-multiplefold-by-2027/",
+      "summary": "根據 TrendForce 最新研究指出，2H25 以來在一般型 DRAM（conventional DRAM [&#8230;]",
+      "date": "2026-06-02T07:20:33+00:00",
+      "sourceId": "technews",
+      "cats": [
+        "market",
+        "process",
+        "material"
+      ]
+    },
+    {
+      "id": "853e4ab1aede",
+      "title": "黃仁勳訪韓國將登劉 QUIZ，首度出演綜藝節目受矚",
+      "link": "https://technews.tw/2026/06/02/you-quiz-on-the-block_jensen-huang/",
+      "summary": "即將訪韓國的輝達（NVIDIA）執行長黃仁勳，將在訪韓期間出演國民主持人劉在錫的談話性綜藝節目「劉 QUIZ [&#8230;]",
+      "date": "2026-06-02T06:50:01+00:00",
+      "sourceId": "technews",
+      "cats": [
+        "market",
+        "process",
+        "material"
+      ]
+    },
+    {
+      "id": "7ff5b8557566",
+      "title": "英特爾陳立武也感謝台灣，回顧 40 年前應李國鼎之邀參與矽島繁榮發展",
+      "link": "https://technews.tw/2026/06/02/intels-chen-liwu-also-thanked-taiwan/",
+      "summary": "本屆 COMPUTEX Taipei 的有趣現象是：各家科技大廠高層的演講，從輝達執行長黃仁勳、高通執行長 C [&#8230;]",
+      "date": "2026-06-02T06:31:05+00:00",
+      "sourceId": "technews",
+      "cats": [
+        "market",
+        "process",
+        "material"
+      ]
+    },
+    {
       "id": "2a07b0cf74f0",
       "title": "TSMC Defends Transistor Scaling Amid Huawei’s ‘Her’s Law’ Proposal",
       "link": "https://www.eetimes.com/tsmc-defends-transistor-scaling-amid-huaweis-hers-law-proposal/",
@@ -97,136 +253,6 @@
         "process",
         "material",
         "equipment"
-      ]
-    },
-    {
-      "id": "3228816fc2c6",
-      "title": "能率領投 AI 城市大腦，鑫蘊林科入列輝達 GTC 背板",
-      "link": "https://technews.tw/2026/06/01/nvidia-rtx-spark-vs-qualcomm/",
-      "summary": "能率集團領投、輝達（NVIDIA）入股的 AI 軟體平台廠商鑫蘊林科（Linker Vision）登上輝達 G [&#8230;]",
-      "date": "2026-06-01T11:00:28+00:00",
-      "sourceId": "technews",
-      "cats": [
-        "market",
-        "process",
-        "material"
-      ]
-    },
-    {
-      "id": "850696635eab",
-      "title": "黃仁勳 GTC 宣告啟動 AI 代理新時代，感謝台灣供應鏈",
-      "link": "https://technews.tw/2026/06/01/jensen-huang-gtc-announces-launch-new-era-ai-agents-thanks-taiwan-supply-chain/",
-      "summary": "輝達（NVIDIA）執行長黃仁勳今天發表 GTC Taipei 大會主題演講，擘劃人工智慧（AI）產業的嶄新藍 [&#8230;]",
-      "date": "2026-06-01T10:40:08+00:00",
-      "sourceId": "technews",
-      "cats": [
-        "market",
-        "process",
-        "material"
-      ]
-    },
-    {
-      "id": "8d904ab932d9",
-      "title": "住友電木推出 230°C 高耐熱材料，突破封裝溫度瓶頸",
-      "link": "https://technews.tw/2026/06/01/high-tg-epoxy-molding-compounds/",
-      "summary": "隨著 AI 資料中心、800V 電動車平台以及高壓直流配電（HVDC）技術發展，電子設備的功率密度持續提升，也 [&#8230;]",
-      "date": "2026-06-01T09:26:07+00:00",
-      "sourceId": "technews",
-      "cats": [
-        "market",
-        "process",
-        "material"
-      ]
-    },
-    {
-      "id": "b973598f352a",
-      "title": "美超微布局 SMR 核能供電！梁見後：AI 發展不能以犧牲環境為代價",
-      "link": "https://technews.tw/2026/06/01/sumpermicro-computex-2026/",
-      "summary": "伺服器大廠美超微（Supermicro）舉辦媒體記者會，談到近期記憶體短缺議題，執行長梁見後表示，這是業界共同 [&#8230;]",
-      "date": "2026-06-01T09:05:45+00:00",
-      "sourceId": "technews",
-      "cats": [
-        "market",
-        "process",
-        "material"
-      ]
-    },
-    {
-      "id": "0a80e4229723",
-      "title": "台積電導入輝達 CUDA-X 服務與 AI 技術，加速新世代 AI 晶片開發製造",
-      "link": "https://finance.technews.tw/2026/06/01/tsmc-is-adopting-nvidias-cuda-x-services-and-ai-technology/",
-      "summary": "外媒報導，全球半導體代工龍頭台積電不僅為GPU大廠輝達（NVIDIA）代工生產全球最先進的AI平台晶片，如今更 [&#8230;]",
-      "date": "2026-06-01T08:50:52+00:00",
-      "sourceId": "technews",
-      "cats": [
-        "market",
-        "process",
-        "material"
-      ]
-    },
-    {
-      "id": "bf793423f1c5",
-      "title": "鴻華先進攜手聯發科，以 NVIDIA GPU 發展先進 AI 智慧行車體驗",
-      "link": "https://technews.tw/2026/06/01/hon-hua-advanced-technology-in-partnership-with-mediatek-is-developing-advanced-ai-powered-smart-driving-experiences-using-nvidia-gpu-technology/",
-      "summary": "IC 設計龍頭聯發科宣布與鴻海集團旗下的鴻華先進（FOXTRON）策略合作，攜手加速 AI 賦能智慧汽車的創新 [&#8230;]",
-      "date": "2026-06-01T08:15:52+00:00",
-      "sourceId": "technews",
-      "cats": [
-        "market",
-        "process",
-        "material"
-      ]
-    },
-    {
-      "id": "9dae68186ffe",
-      "title": "SK 海力士清州工廠火警致有毒氣體外洩，6 人受傷引關注",
-      "link": "https://technews.tw/2026/06/01/fire-at-sk-hynixs-cheongju-factory-causes-toxic-gas-leak/",
-      "summary": "韓國記憶體大廠 SK 海力士（SK Hynix）位於韓國清州市的晶片製造工廠，於 1 日驚傳發生火災意外，並引 [&#8230;]",
-      "date": "2026-06-01T08:10:54+00:00",
-      "sourceId": "technews",
-      "cats": [
-        "market",
-        "process",
-        "material"
-      ]
-    },
-    {
-      "id": "e94fe62f77f6",
-      "title": "合約價快速上漲，1Q26 DRAM 產業營收季增 81%",
-      "link": "https://technews.tw/2026/06/01/1q26-dram-revenue-81-qoq-contract-price-surge/",
-      "summary": "TrendForce 最新記憶體產業調查，2026 年第一季因一般型 DRAM（conventional DR [&#8230;]",
-      "date": "2026-06-01T07:50:47+00:00",
-      "sourceId": "technews",
-      "cats": [
-        "market",
-        "process",
-        "material"
-      ]
-    },
-    {
-      "id": "51a7f2f58824",
-      "title": "券商看旺、喊「買進」  NAND Flash 廠鎧俠飆史高",
-      "link": "https://finance.technews.tw/2026/06/01/kioxia-nand-flash-soars-all-time-high-brokers-bullish-buy-calls/",
-      "summary": "券商看旺，給予最高等級投資評等「買進」、且大幅調高目標價，日本 NAND Flash 大廠鎧俠（Kioxia） [&#8230;]",
-      "date": "2026-06-01T06:10:45+00:00",
-      "sourceId": "technews",
-      "cats": [
-        "market",
-        "process",
-        "material"
-      ]
-    },
-    {
-      "id": "d586411d1a21",
-      "title": "黃仁勳發表 RTX Spark 超級晶片！攜聯發科正式進軍 PC 市場",
-      "link": "https://technews.tw/2026/06/01/nvidia-computex-2026-rtx-spark/",
-      "summary": "輝達（NVIDIA）今（1 日）在 2026 年台北國際電腦展（Computex 2026）上發表全新 RTX [&#8230;]",
-      "date": "2026-06-01T05:48:51+00:00",
-      "sourceId": "technews",
-      "cats": [
-        "market",
-        "process",
-        "material"
       ]
     },
     {
