@@ -1,6 +1,6 @@
 {
-  "updated": "2026-06-02T11:54:30.816488+00:00",
-  "count": 22,
+  "updated": "2026-06-02T22:07:56.024499+00:00",
+  "count": 21,
   "sources": [
     {
       "id": "technews",
@@ -60,6 +60,32 @@
     }
   ],
   "articles": [
+    {
+      "id": "0011ca1e6e27",
+      "title": "Physical AI Pushes Chipmakers Up the Value Chain",
+      "link": "https://www.eetimes.com/physical-ai-pushes-chipmakers-up-the-value-chain/",
+      "summary": "At the TSMC European Symposium, European semiconductor CEOs spoke about how AI in influencing business. The post Physical AI Pushes Chipmakers Up the Value Chain appeared first on EE Times.",
+      "date": "2026-06-02T14:00:00+00:00",
+      "sourceId": "eetimes",
+      "cats": [
+        "process",
+        "material",
+        "equipment"
+      ]
+    },
+    {
+      "id": "cfd4daec0d69",
+      "title": "三星 COMPUTEX 大秀新品！首公開 HBM5 關鍵 HPB 架構、HBM4E 晶圓",
+      "link": "https://technews.tw/2026/06/02/samsung-computex-2026/",
+      "summary": "三星半導體今（2 日）表示，於 COMPUTEX 上展示橫跨記憶體、晶圓代工、邏輯晶片與先進封裝的全球唯一ID [&#8230;]",
+      "date": "2026-06-02T12:41:03+00:00",
+      "sourceId": "technews",
+      "cats": [
+        "market",
+        "process",
+        "material"
+      ]
+    },
     {
       "id": "47a35dc2e15c",
       "title": "Naver Cloud 攜手 Nvidia 推動全球 AI Factory：涵蓋基礎設施、模型與物理 AI",
@@ -170,45 +196,6 @@
       "link": "https://finance.technews.tw/2026/06/02/vera-rubin/",
       "summary": "輝達（NVIDIA）執行長黃仁勳今日下午在 2026 台北國際電腦展（COMPUTEX 2026）繞場，首站來 [&#8230;]",
       "date": "2026-06-02T07:40:51+00:00",
-      "sourceId": "technews",
-      "cats": [
-        "market",
-        "process",
-        "material"
-      ]
-    },
-    {
-      "id": "bf8571bc68c6",
-      "title": "DRAM 持續供不應求使供應商握 HBM 定價主導權，2027 年 HBM 合約價估倍數上漲",
-      "link": "https://technews.tw/2026/06/02/hbm-contract-prices-expected-to-rise-multiplefold-by-2027/",
-      "summary": "根據 TrendForce 最新研究指出，2H25 以來在一般型 DRAM（conventional DRAM [&#8230;]",
-      "date": "2026-06-02T07:20:33+00:00",
-      "sourceId": "technews",
-      "cats": [
-        "market",
-        "process",
-        "material"
-      ]
-    },
-    {
-      "id": "853e4ab1aede",
-      "title": "黃仁勳訪韓國將登劉 QUIZ，首度出演綜藝節目受矚",
-      "link": "https://technews.tw/2026/06/02/you-quiz-on-the-block_jensen-huang/",
-      "summary": "即將訪韓國的輝達（NVIDIA）執行長黃仁勳，將在訪韓期間出演國民主持人劉在錫的談話性綜藝節目「劉 QUIZ [&#8230;]",
-      "date": "2026-06-02T06:50:01+00:00",
-      "sourceId": "technews",
-      "cats": [
-        "market",
-        "process",
-        "material"
-      ]
-    },
-    {
-      "id": "7ff5b8557566",
-      "title": "英特爾陳立武也感謝台灣，回顧 40 年前應李國鼎之邀參與矽島繁榮發展",
-      "link": "https://technews.tw/2026/06/02/intels-chen-liwu-also-thanked-taiwan/",
-      "summary": "本屆 COMPUTEX Taipei 的有趣現象是：各家科技大廠高層的演講，從輝達執行長黃仁勳、高通執行長 C [&#8230;]",
-      "date": "2026-06-02T06:31:05+00:00",
       "sourceId": "technews",
       "cats": [
         "market",
