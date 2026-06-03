@@ -1,6 +1,6 @@
 {
-  "updated": "2026-06-02T22:07:56.024499+00:00",
-  "count": 21,
+  "updated": "2026-06-03T18:10:25.711759+00:00",
+  "count": 19,
   "sources": [
     {
       "id": "technews",
@@ -61,6 +61,123 @@
   ],
   "articles": [
     {
+      "id": "b95c10389f1e",
+      "title": "韓媒點名黃仁勳蘇姿丰張忠謀，讚台灣半導體巨擘重塑全球科技業",
+      "link": "https://technews.tw/2026/06/03/korean-media-jensen-huang-lisa-su-morris-chang-taiwan-semiconductor-giants-reshape-global-tech/",
+      "summary": "輝達執行長黃仁勳預計訪問韓國前夕，《首爾經濟日報》聚焦他與超微執行長蘇姿丰、台積電創辦人張忠謀，指出來自台灣的 [&#8230;]",
+      "date": "2026-06-03T10:10:50+00:00",
+      "sourceId": "technews",
+      "cats": [
+        "market",
+        "process",
+        "material"
+      ]
+    },
+    {
+      "id": "487931186466",
+      "title": "全球 AI 算力短缺，輝達：仰賴台灣生態系擴增產能",
+      "link": "https://technews.tw/2026/06/03/global-ai-compute-power-shortage-nvidia-taiwan-ecosystem-expands-production/",
+      "summary": "人工智慧（AI）晶片大廠輝達（NVIDIA）新架構 Vera Rubin 全面量產，輝達 AI 與資料中心 G [&#8230;]",
+      "date": "2026-06-03T10:00:16+00:00",
+      "sourceId": "technews",
+      "cats": [
+        "market",
+        "process",
+        "material"
+      ]
+    },
+    {
+      "id": "82e9940afa52",
+      "title": "AI 工廠掀電力革命，台達電 HVDC 方案第三季出貨",
+      "link": "https://technews.tw/2026/06/03/ai-dc-delta-hvdc-third-quarter/",
+      "summary": "AI 運算競賽正從晶片延伸至電力基礎設施。市場傳出，台達電布局多年的 ±400V 及 800V 高壓直流供電（ [&#8230;]",
+      "date": "2026-06-03T09:55:30+00:00",
+      "sourceId": "technews",
+      "cats": [
+        "market",
+        "process",
+        "material"
+      ]
+    },
+    {
+      "id": "65ce2f0f2c47",
+      "title": "輝達結盟台積電布局 CPO 交換器，下半年產能點火",
+      "link": "https://technews.tw/2026/06/03/nvidia-wz-tsmc-cpo/",
+      "summary": "AI 晶片大廠輝達（NVIDIA）不僅在算力市場攻城掠地，更將資料傳輸視為下一個技術戰場。輝達網路資深副總裁謝 [&#8230;]",
+      "date": "2026-06-03T09:35:26+00:00",
+      "sourceId": "technews",
+      "cats": [
+        "market",
+        "process",
+        "material"
+      ]
+    },
+    {
+      "id": "1ab4c59def57",
+      "title": "林鴻明：信驊營運逐季攀升，高股價讓整體台股更具吸引力",
+      "link": "https://finance.technews.tw/2026/06/03/hsin-huas-operations-climbed-quarter-by-quarter/",
+      "summary": "台股股王的伺服器遠端管理晶片（BMC）大廠信驊科技董事長林鴻明表示，受惠於 AI 伺服器需求強勁，目前訂單能見 [&#8230;]",
+      "date": "2026-06-03T09:24:11+00:00",
+      "sourceId": "technews",
+      "cats": [
+        "market",
+        "process",
+        "material"
+      ]
+    },
+    {
+      "id": "af5f804e2df4",
+      "title": "蔡司以晶片到機櫃 Chip-to-Rack 全鏈品質方案，建構 AI 時代品質關鍵競爭力",
+      "link": "https://finance.technews.tw/2026/06/03/zeiss-provides-a-chip-to-rack-end-to-end-quality-solution/",
+      "summary": "國際光學大廠蔡司集團首次登上Computex Taipei，以AI晶片到機櫃（Chip-to-Rack）全價值 [&#8230;]",
+      "date": "2026-06-03T08:50:31+00:00",
+      "sourceId": "technews",
+      "cats": [
+        "market",
+        "process",
+        "material"
+      ]
+    },
+    {
+      "id": "7cdc8d24efaf",
+      "title": "黃仁勳站台！研華 COMPUTEX 以 WEDA 串聯 AI Agent 跨產業應用",
+      "link": "https://finance.technews.tw/2026/06/03/weda/",
+      "summary": "輝達（NVIDIA）執行長黃仁勳今日繞場 2026 台北國際電腦展（COMPUTEX 2026），下午馬不停蹄 [&#8230;]",
+      "date": "2026-06-03T08:36:23+00:00",
+      "sourceId": "technews",
+      "cats": [
+        "market",
+        "process",
+        "material"
+      ]
+    },
+    {
+      "id": "12ed9f648a7a",
+      "title": "博帝科技於 COMPUTEX 2026 發表全新 AI 記憶體與儲存基礎架構",
+      "link": "https://technews.tw/2026/06/03/patriot-memorycomputex2026aimemory/",
+      "summary": "博帝科技 (Patriot Memory) 今日公布 COMPUTEX 2026 展出陣容，以「Buildin [&#8230;]",
+      "date": "2026-06-03T07:31:35+00:00",
+      "sourceId": "technews",
+      "cats": [
+        "market",
+        "process",
+        "material"
+      ]
+    },
+    {
+      "id": "49507397b830",
+      "title": "Q1 全球 NAND 快閃記憶體營收年增 3.5 倍，三星續領跑",
+      "link": "https://technews.tw/2026/06/03/global-nand-memory-market-surges-to-a-record-46b-in-q1-2026/",
+      "summary": "中媒 IT 之家報導，據 CounterPoint Research 發布報告並指出，在 AI 基礎設施需求增 [&#8230;]",
+      "date": "2026-06-03T07:20:39+00:00",
+      "sourceId": "technews",
+      "cats": [
+        "market",
+        "process",
+        "material"
+      ]
+    },
+    {
       "id": "0011ca1e6e27",
       "title": "Physical AI Pushes Chipmakers Up the Value Chain",
       "link": "https://www.eetimes.com/physical-ai-pushes-chipmakers-up-the-value-chain/",
@@ -71,136 +188,6 @@
         "process",
         "material",
         "equipment"
-      ]
-    },
-    {
-      "id": "cfd4daec0d69",
-      "title": "三星 COMPUTEX 大秀新品！首公開 HBM5 關鍵 HPB 架構、HBM4E 晶圓",
-      "link": "https://technews.tw/2026/06/02/samsung-computex-2026/",
-      "summary": "三星半導體今（2 日）表示，於 COMPUTEX 上展示橫跨記憶體、晶圓代工、邏輯晶片與先進封裝的全球唯一ID [&#8230;]",
-      "date": "2026-06-02T12:41:03+00:00",
-      "sourceId": "technews",
-      "cats": [
-        "market",
-        "process",
-        "material"
-      ]
-    },
-    {
-      "id": "47a35dc2e15c",
-      "title": "Naver Cloud 攜手 Nvidia 推動全球 AI Factory：涵蓋基礎設施、模型與物理 AI",
-      "link": "https://technews.tw/2026/06/02/naver-cloud-nvidia-expand-alliance-for-global-ai-factory-push/",
-      "summary": "韓國雲端業者 Naver Cloud 宣布，將與 Nvidia 擴大合作，攜手推動全球 AI Factory（ [&#8230;]",
-      "date": "2026-06-02T10:30:48+00:00",
-      "sourceId": "technews",
-      "cats": [
-        "market",
-        "process",
-        "material"
-      ]
-    },
-    {
-      "id": "562942aa0194",
-      "title": "AI 造假時代！思偉達聯手日本影像晶片大廠 COMPUTEX 秀影像防偽",
-      "link": "https://infosecu.technews.tw/2026/06/02/digital-media-professionals/",
-      "summary": "思偉達（STARBIT）今日宣布攜手日本影像晶片大廠 Digital Media Professionals（ [&#8230;]",
-      "date": "2026-06-02T10:18:35+00:00",
-      "sourceId": "technews",
-      "cats": [
-        "market",
-        "process",
-        "material"
-      ]
-    },
-    {
-      "id": "18a40d38cd6f",
-      "title": "國科會：半導體優勢吸引全球新創落地，挹注 AI 應用",
-      "link": "https://technews.tw/2026/06/02/ic-taiwan-grand-challenge-4th/",
-      "summary": "國家科學及技術委員今天在台北國際電腦展（COMPUTEX 2026）旗下新創展會 InnoVEX，舉行 IC [&#8230;]",
-      "date": "2026-06-02T09:35:55+00:00",
-      "sourceId": "technews",
-      "cats": [
-        "market",
-        "process",
-        "material"
-      ]
-    },
-    {
-      "id": "0d5b92a2d74b",
-      "title": "Arm 談「AI 兩大瓶頸」：記憶體供需緊張恐仍持續一段時間",
-      "link": "https://technews.tw/2026/06/02/arm-computex-2026-qa/",
-      "summary": "隨著 COMPUTEX 2026 正式揭幕，Arm 執行長 Rene Haas 於今（2 日）發表主題演講，會 [&#8230;]",
-      "date": "2026-06-02T09:30:39+00:00",
-      "sourceId": "technews",
-      "cats": [
-        "market",
-        "process",
-        "material"
-      ]
-    },
-    {
-      "id": "ec1a07cf6c37",
-      "title": "AI 機櫃功率直逼 MW 等級，台達電加強「從電網到晶片」架構",
-      "link": "https://technews.tw/2026/06/02/ai-power-shelf-1mw/",
-      "summary": "全球 AI 軍備競賽持續升溫，市場焦點正從 GPU、HBM 與先進封裝，逐步延伸至電力供應與能源管理。台達電董 [&#8230;]",
-      "date": "2026-06-02T09:12:36+00:00",
-      "sourceId": "technews",
-      "cats": [
-        "market",
-        "process",
-        "material"
-      ]
-    },
-    {
-      "id": "fece726fb203",
-      "title": "陳立武揭露英特爾代工與客製化晶片雙軌策略，彈性製造與擴大生態系合作成重心",
-      "link": "https://finance.technews.tw/2026/06/02/intels-dual-track-strategy-of-foundry-and-custom-chip-manufacturing/",
-      "summary": "英特爾（Intel）與媒體對話更進一步，執行長陳立武與公司高層都闡述晶圓代工（Intel Foundry）與客 [&#8230;]",
-      "date": "2026-06-02T08:45:47+00:00",
-      "sourceId": "technews",
-      "cats": [
-        "market",
-        "process",
-        "material"
-      ]
-    },
-    {
-      "id": "2ae72c5a3d69",
-      "title": "陳立武：英特爾三階段改革已初步完成，許多產品仍高度依賴台積電產能",
-      "link": "https://technews.tw/2026/06/02/many-intel-products-still-heavily-rely-on-tsmcs-production-capacity/",
-      "summary": "英特爾（Intel）執行長陳立武 COMPUTEX 主題演講後的全球媒體問答環節，公司轉型方向、製程進展與台積 [&#8230;]",
-      "date": "2026-06-02T08:15:16+00:00",
-      "sourceId": "technews",
-      "cats": [
-        "market",
-        "process",
-        "material"
-      ]
-    },
-    {
-      "id": "ab2f8c92a038",
-      "title": "看好台 AI 生態系！SK 會長崔泰源：目標晶圓產能翻倍，深化與台積電等台廠合作",
-      "link": "https://technews.tw/2026/06/02/sk-hynix-chey-tae-won-computex-2026/",
-      "summary": "SK 集團會長崔泰源今（2 日）快閃 SK 海力士攤位並接受媒體訪問。在被問到產能規劃和記憶體後市，崔泰源表示 [&#8230;]",
-      "date": "2026-06-02T08:02:58+00:00",
-      "sourceId": "technews",
-      "cats": [
-        "market",
-        "process",
-        "material"
-      ]
-    },
-    {
-      "id": "69e937dafe62",
-      "title": "AI 迎來「渦輪增壓」時代！輝達黃仁勳喊話廣達以光速生產 Vera Rubin",
-      "link": "https://finance.technews.tw/2026/06/02/vera-rubin/",
-      "summary": "輝達（NVIDIA）執行長黃仁勳今日下午在 2026 台北國際電腦展（COMPUTEX 2026）繞場，首站來 [&#8230;]",
-      "date": "2026-06-02T07:40:51+00:00",
-      "sourceId": "technews",
-      "cats": [
-        "market",
-        "process",
-        "material"
       ]
     },
     {
@@ -222,19 +209,6 @@
       "link": "https://www.eetimes.com/early-memory-contention-checks-reduce-ic-design-risks/",
       "summary": "Automated schematic-level contention analysis detects memory bottlenecks early, improving SoC reliability, predictability, and silicon quality. The post Early Memory Contention Checks Reduce IC Design Risks appeared first on EE Times.",
       "date": "2026-06-01T14:00:00+00:00",
-      "sourceId": "eetimes",
-      "cats": [
-        "process",
-        "material",
-        "equipment"
-      ]
-    },
-    {
-      "id": "f9adab4b3764",
-      "title": "Nikon Leveraging ArF Scanner Price to Challenge ASML",
-      "link": "https://www.eetimes.com/nikon-leveraging-arf-scanner-price-to-challenge-asml/",
-      "summary": "The Japanese litho firm is lowering the price of its ArF tools while also launching a brand-new immersion platform by 2028. The post Nikon Leveraging ArF Scanner Price to Challenge ASML appeared first on EE Times.",
-      "date": "2026-06-01T11:57:55+00:00",
       "sourceId": "eetimes",
       "cats": [
         "process",
