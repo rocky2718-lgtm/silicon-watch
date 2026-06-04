@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-03T18:10:25.711759+00:00",
+  "updated": "2026-06-04T10:28:50.321653+00:00",
   "count": 19,
   "sources": [
     {
@@ -61,11 +61,11 @@
   ],
   "articles": [
     {
-      "id": "b95c10389f1e",
-      "title": "韓媒點名黃仁勳蘇姿丰張忠謀，讚台灣半導體巨擘重塑全球科技業",
-      "link": "https://technews.tw/2026/06/03/korean-media-jensen-huang-lisa-su-morris-chang-taiwan-semiconductor-giants-reshape-global-tech/",
-      "summary": "輝達執行長黃仁勳預計訪問韓國前夕，《首爾經濟日報》聚焦他與超微執行長蘇姿丰、台積電創辦人張忠謀，指出來自台灣的 [&#8230;]",
-      "date": "2026-06-03T10:10:50+00:00",
+      "id": "1e20fe66f392",
+      "title": "AI 時代從設備到記憶體皆面臨產能挑戰，魏哲家：台積電努力不當瓶頸",
+      "link": "https://finance.technews.tw/2026/06/04/the-ai-%e2%80%8b%e2%80%8bera-presents-production-capacity-challenges-for-everything-from-devices-to-memory/",
+      "summary": "在全球人工智慧（AI）浪潮席捲之下，半導體產業的產能與佈局成為全球焦點。台積電董事長魏哲家近日在面對外界提問時 [&#8230;]",
+      "date": "2026-06-04T09:55:17+00:00",
       "sourceId": "technews",
       "cats": [
         "market",
@@ -74,11 +74,11 @@
       ]
     },
     {
-      "id": "487931186466",
-      "title": "全球 AI 算力短缺，輝達：仰賴台灣生態系擴增產能",
-      "link": "https://technews.tw/2026/06/03/global-ai-compute-power-shortage-nvidia-taiwan-ecosystem-expands-production/",
-      "summary": "人工智慧（AI）晶片大廠輝達（NVIDIA）新架構 Vera Rubin 全面量產，輝達 AI 與資料中心 G [&#8230;]",
-      "date": "2026-06-03T10:00:16+00:00",
+      "id": "b20a916d963e",
+      "title": "魏哲家：台灣除了台積電還有生態系，不是韓國可複製",
+      "link": "https://technews.tw/2026/06/04/cc-wei-taiwan-ecosystem-beyond-tsmc-not-replicable-by-korea/",
+      "summary": "輝達（NVIDIA）執行長黃仁勳將訪韓國，傳與三星、SK 海力士等企業高層會面。台積電董事長暨總裁魏哲家對台灣 [&#8230;]",
+      "date": "2026-06-04T09:20:43+00:00",
       "sourceId": "technews",
       "cats": [
         "market",
@@ -87,11 +87,11 @@
       ]
     },
     {
-      "id": "82e9940afa52",
-      "title": "AI 工廠掀電力革命，台達電 HVDC 方案第三季出貨",
-      "link": "https://technews.tw/2026/06/03/ai-dc-delta-hvdc-third-quarter/",
-      "summary": "AI 運算競賽正從晶片延伸至電力基礎設施。市場傳出，台達電布局多年的 ±400V 及 800V 高壓直流供電（ [&#8230;]",
-      "date": "2026-06-03T09:55:30+00:00",
+      "id": "2a4b1f2baffe",
+      "title": "談低生育率隱憂，魏哲家：很怕以後工程師、技術員不夠",
+      "link": "https://technews.tw/2026/06/04/c-c-wei-discusses-concerns-over-low-birth-rates/",
+      "summary": "晶圓代工廠台積電董事長暨總裁魏哲家今天表示，台灣生育率太低，很怕長此以往工程師、技術員會不夠。 台積電今天召開 [&#8230;]",
+      "date": "2026-06-04T08:45:24+00:00",
       "sourceId": "technews",
       "cats": [
         "market",
@@ -100,11 +100,11 @@
       ]
     },
     {
-      "id": "65ce2f0f2c47",
-      "title": "輝達結盟台積電布局 CPO 交換器，下半年產能點火",
-      "link": "https://technews.tw/2026/06/03/nvidia-wz-tsmc-cpo/",
-      "summary": "AI 晶片大廠輝達（NVIDIA）不僅在算力市場攻城掠地，更將資料傳輸視為下一個技術戰場。輝達網路資深副總裁謝 [&#8230;]",
-      "date": "2026-06-03T09:35:26+00:00",
+      "id": "389d30072bf3",
+      "title": "Nvidia 加入 Windows on Arm 陣營，推升 Arm 架構 AI 筆電 2029 年滲透率達 34.2%",
+      "link": "https://technews.tw/2026/06/04/nvidia-windows-on-arm-arm-ai-laptop-penetration-34-2-2029/",
+      "summary": "根據 TrendForce 最新研究指出， 目前 AI 筆電主要由 Intel、AMD、 Apple 與 Qu [&#8230;]",
+      "date": "2026-06-04T08:00:11+00:00",
       "sourceId": "technews",
       "cats": [
         "market",
@@ -113,11 +113,11 @@
       ]
     },
     {
-      "id": "1ab4c59def57",
-      "title": "林鴻明：信驊營運逐季攀升，高股價讓整體台股更具吸引力",
-      "link": "https://finance.technews.tw/2026/06/03/hsin-huas-operations-climbed-quarter-by-quarter/",
-      "summary": "台股股王的伺服器遠端管理晶片（BMC）大廠信驊科技董事長林鴻明表示，受惠於 AI 伺服器需求強勁，目前訂單能見 [&#8230;]",
-      "date": "2026-06-03T09:24:11+00:00",
+      "id": "9d3f2a42bf28",
+      "title": "AI TV 普及元年  三星電視全球市占率再攀高峰",
+      "link": "https://technews.tw/2026/06/04/samsung-ai-tv-market-share-reaches-new-highs/",
+      "summary": "AI 功能已成為電視產業競爭的新戰場。根據市調機構 Omdia 最新統計，今年第一季，三星電子（Samsung [&#8230;]",
+      "date": "2026-06-04T07:55:27+00:00",
       "sourceId": "technews",
       "cats": [
         "market",
@@ -126,11 +126,11 @@
       ]
     },
     {
-      "id": "af5f804e2df4",
-      "title": "蔡司以晶片到機櫃 Chip-to-Rack 全鏈品質方案，建構 AI 時代品質關鍵競爭力",
-      "link": "https://finance.technews.tw/2026/06/03/zeiss-provides-a-chip-to-rack-end-to-end-quality-solution/",
-      "summary": "國際光學大廠蔡司集團首次登上Computex Taipei，以AI晶片到機櫃（Chip-to-Rack）全價值 [&#8230;]",
-      "date": "2026-06-03T08:50:31+00:00",
+      "id": "9bc2762a5b03",
+      "title": "魏哲家談台積電分紅爭議，強調照顧員工更要兼顧股東與社會責任",
+      "link": "https://technews.tw/2026/06/04/cc-wei-discusses-the-tsmc-dividend-controversy/",
+      "summary": "針對近期引發討論的員工薪資與分紅議題，台積電董事長魏哲家親自出面說明，澄清公司與員工之間的「小誤會」，並強調台 [&#8230;]",
+      "date": "2026-06-04T07:00:45+00:00",
       "sourceId": "technews",
       "cats": [
         "market",
@@ -139,11 +139,11 @@
       ]
     },
     {
-      "id": "7cdc8d24efaf",
-      "title": "黃仁勳站台！研華 COMPUTEX 以 WEDA 串聯 AI Agent 跨產業應用",
-      "link": "https://finance.technews.tw/2026/06/03/weda/",
-      "summary": "輝達（NVIDIA）執行長黃仁勳今日繞場 2026 台北國際電腦展（COMPUTEX 2026），下午馬不停蹄 [&#8230;]",
-      "date": "2026-06-03T08:36:23+00:00",
+      "id": "fb66b9a48e74",
+      "title": "英特爾又有新招？鴻海宣布策略合作，切入 AI Rack、Edge AI 新戰場",
+      "link": "https://technews.tw/2026/06/04/foxconn-intel/",
+      "summary": "鴻海稍早宣布與英特爾將進行策略合作，結合英特爾在處理器、矽光子技術與軟體生態系的優勢，及鴻海在全球製造、系統整 [&#8230;]",
+      "date": "2026-06-04T06:51:25+00:00",
       "sourceId": "technews",
       "cats": [
         "market",
@@ -152,11 +152,11 @@
       ]
     },
     {
-      "id": "12ed9f648a7a",
-      "title": "博帝科技於 COMPUTEX 2026 發表全新 AI 記憶體與儲存基礎架構",
-      "link": "https://technews.tw/2026/06/03/patriot-memorycomputex2026aimemory/",
-      "summary": "博帝科技 (Patriot Memory) 今日公布 COMPUTEX 2026 展出陣容，以「Buildin [&#8230;]",
-      "date": "2026-06-03T07:31:35+00:00",
+      "id": "dc3c8988261a",
+      "title": "黃袍加身  Navitas 攜手輝達 MGX 平台、股價飆",
+      "link": "https://technews.tw/2026/06/04/navitas-collaborates-with-nvidia-mgx-ecosystem-to-accelerate-800-vdc-ai-infrastructure/",
+      "summary": "第三代半導體氮化鎵（GaN）功率 IC 領導大廠納微半導體（Navitas Semiconductor）高調展 [&#8230;]",
+      "date": "2026-06-04T06:20:27+00:00",
       "sourceId": "technews",
       "cats": [
         "market",
@@ -165,16 +165,16 @@
       ]
     },
     {
-      "id": "49507397b830",
-      "title": "Q1 全球 NAND 快閃記憶體營收年增 3.5 倍，三星續領跑",
-      "link": "https://technews.tw/2026/06/03/global-nand-memory-market-surges-to-a-record-46b-in-q1-2026/",
-      "summary": "中媒 IT 之家報導，據 CounterPoint Research 發布報告並指出，在 AI 基礎設施需求增 [&#8230;]",
-      "date": "2026-06-03T07:20:39+00:00",
-      "sourceId": "technews",
+      "id": "03d98d25c4dd",
+      "title": "InchFab Sells $10M Mini Fabs to Democratize Chipmaking",
+      "link": "https://www.eetimes.com/inchfab-sells-10m-mini-fabs-to-democratize-chipmaking/",
+      "summary": "InchFab's mini fabs are cost-competitive with larger 8-inch wafer fabs at the half-micron and larger nodes. The post InchFab Sells $10M Mini Fabs to Democratize Chipmaking appeared first on EE Times.",
+      "date": "2026-06-03T22:00:00+00:00",
+      "sourceId": "eetimes",
       "cats": [
-        "market",
         "process",
-        "material"
+        "material",
+        "equipment"
       ]
     },
     {
