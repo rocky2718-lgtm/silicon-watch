@@ -1,6 +1,6 @@
 {
-  "updated": "2026-06-04T10:28:50.321653+00:00",
-  "count": 19,
+  "updated": "2026-06-04T19:49:31.401104+00:00",
+  "count": 16,
   "sources": [
     {
       "id": "technews",
@@ -61,6 +61,32 @@
   ],
   "articles": [
     {
+      "id": "b8d23660181c",
+      "title": "矽格5月營收月增1.6%",
+      "link": "https://finance.technews.tw/2026/06/05/sigurd-6257-202605-financial-report/",
+      "summary": "矽格（6257）公布 5 月合併營收 19.76 億元，較上（4）月成長 1.6%，與去年同期相比為年增 23 [&#8230;]",
+      "date": "2026-06-04T16:20:09+00:00",
+      "sourceId": "technews",
+      "cats": [
+        "market",
+        "process",
+        "material"
+      ]
+    },
+    {
+      "id": "73c7a91e2473",
+      "title": "Computex 2026: Are We Heading for the Agentic PC Era Yet?",
+      "link": "https://www.eetimes.com/computex-2026-are-we-heading-for-the-agentic-pc-era-yet/",
+      "summary": "In this video interview, explore whether agentic PCs are truly here as Nvidia and Microsoft unveil new tech at Computex 2026. The post Computex 2026: Are We Heading for the Agentic PC Era Yet? appeared first on EE Times.",
+      "date": "2026-06-04T13:59:22+00:00",
+      "sourceId": "eetimes",
+      "cats": [
+        "process",
+        "material",
+        "equipment"
+      ]
+    },
+    {
       "id": "1e20fe66f392",
       "title": "AI 時代從設備到記憶體皆面臨產能挑戰，魏哲家：台積電努力不當瓶頸",
       "link": "https://finance.technews.tw/2026/06/04/the-ai-%e2%80%8b%e2%80%8bera-presents-production-capacity-challenges-for-everything-from-devices-to-memory/",
@@ -113,58 +139,6 @@
       ]
     },
     {
-      "id": "9d3f2a42bf28",
-      "title": "AI TV 普及元年  三星電視全球市占率再攀高峰",
-      "link": "https://technews.tw/2026/06/04/samsung-ai-tv-market-share-reaches-new-highs/",
-      "summary": "AI 功能已成為電視產業競爭的新戰場。根據市調機構 Omdia 最新統計，今年第一季，三星電子（Samsung [&#8230;]",
-      "date": "2026-06-04T07:55:27+00:00",
-      "sourceId": "technews",
-      "cats": [
-        "market",
-        "process",
-        "material"
-      ]
-    },
-    {
-      "id": "9bc2762a5b03",
-      "title": "魏哲家談台積電分紅爭議，強調照顧員工更要兼顧股東與社會責任",
-      "link": "https://technews.tw/2026/06/04/cc-wei-discusses-the-tsmc-dividend-controversy/",
-      "summary": "針對近期引發討論的員工薪資與分紅議題，台積電董事長魏哲家親自出面說明，澄清公司與員工之間的「小誤會」，並強調台 [&#8230;]",
-      "date": "2026-06-04T07:00:45+00:00",
-      "sourceId": "technews",
-      "cats": [
-        "market",
-        "process",
-        "material"
-      ]
-    },
-    {
-      "id": "fb66b9a48e74",
-      "title": "英特爾又有新招？鴻海宣布策略合作，切入 AI Rack、Edge AI 新戰場",
-      "link": "https://technews.tw/2026/06/04/foxconn-intel/",
-      "summary": "鴻海稍早宣布與英特爾將進行策略合作，結合英特爾在處理器、矽光子技術與軟體生態系的優勢，及鴻海在全球製造、系統整 [&#8230;]",
-      "date": "2026-06-04T06:51:25+00:00",
-      "sourceId": "technews",
-      "cats": [
-        "market",
-        "process",
-        "material"
-      ]
-    },
-    {
-      "id": "dc3c8988261a",
-      "title": "黃袍加身  Navitas 攜手輝達 MGX 平台、股價飆",
-      "link": "https://technews.tw/2026/06/04/navitas-collaborates-with-nvidia-mgx-ecosystem-to-accelerate-800-vdc-ai-infrastructure/",
-      "summary": "第三代半導體氮化鎵（GaN）功率 IC 領導大廠納微半導體（Navitas Semiconductor）高調展 [&#8230;]",
-      "date": "2026-06-04T06:20:27+00:00",
-      "sourceId": "technews",
-      "cats": [
-        "market",
-        "process",
-        "material"
-      ]
-    },
-    {
       "id": "03d98d25c4dd",
       "title": "InchFab Sells $10M Mini Fabs to Democratize Chipmaking",
       "link": "https://www.eetimes.com/inchfab-sells-10m-mini-fabs-to-democratize-chipmaking/",
@@ -196,19 +170,6 @@
       "link": "https://www.eetimes.com/tsmc-defends-transistor-scaling-amid-huaweis-hers-law-proposal/",
       "summary": "Kevin Zhang said 3D integration is important, but transistor scaling remains the semiconductor industry's primary driver of performance and energy-efficiency gains. The post TSMC Defends Transistor Scaling Amid Huawei&#8217;s ‘Her’s Law’ Proposal appeared first on EE Times.",
       "date": "2026-06-01T18:12:48+00:00",
-      "sourceId": "eetimes",
-      "cats": [
-        "process",
-        "material",
-        "equipment"
-      ]
-    },
-    {
-      "id": "34c72e4506ab",
-      "title": "Early Memory Contention Checks Reduce IC Design Risks",
-      "link": "https://www.eetimes.com/early-memory-contention-checks-reduce-ic-design-risks/",
-      "summary": "Automated schematic-level contention analysis detects memory bottlenecks early, improving SoC reliability, predictability, and silicon quality. The post Early Memory Contention Checks Reduce IC Design Risks appeared first on EE Times.",
-      "date": "2026-06-01T14:00:00+00:00",
       "sourceId": "eetimes",
       "cats": [
         "process",
