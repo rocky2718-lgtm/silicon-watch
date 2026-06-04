@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-04T19:49:31.401104+00:00",
+  "updated": "2026-06-04T23:57:30.452028+00:00",
   "count": 16,
   "sources": [
     {
@@ -61,6 +61,32 @@
   ],
   "articles": [
     {
+      "id": "75a96e0352e2",
+      "title": "COMPUTEX 2026：NVIDIA RTX Spark 亮相，攜聯發科切入 AI PC",
+      "link": "https://technews.tw/2026/06/05/computex-2026-nvidia-rtx-spark-debut-mediatek-ai-pc-entry/",
+      "summary": "NVIDIA 6 月 1 日發表 RTX Spark 超級晶片，將 Blackwell RTX GPU、Gra [&#8230;]",
+      "date": "2026-06-04T23:00:40+00:00",
+      "sourceId": "technews",
+      "cats": [
+        "market",
+        "process",
+        "material"
+      ]
+    },
+    {
+      "id": "b73b8a30fa3b",
+      "title": "Netrasemi Brings Up A2000 AI Chip, Begins Customer Evaluation Phase",
+      "link": "https://www.eetimes.com/netrasemi-brings-up-a2000-ai-chip-begins-customer-evaluation-phase/",
+      "summary": "Indian startup Netrasemi launched the A2000 AI chip built on a 12-nm technology node. The post Netrasemi Brings Up A2000 AI Chip, Begins Customer Evaluation Phase appeared first on EE Times.",
+      "date": "2026-06-04T22:00:00+00:00",
+      "sourceId": "eetimes",
+      "cats": [
+        "process",
+        "material",
+        "equipment"
+      ]
+    },
+    {
       "id": "b8d23660181c",
       "title": "矽格5月營收月增1.6%",
       "link": "https://finance.technews.tw/2026/06/05/sigurd-6257-202605-financial-report/",
@@ -87,10 +113,10 @@
       ]
     },
     {
-      "id": "1e20fe66f392",
+      "id": "65f05b701a88",
       "title": "AI 時代從設備到記憶體皆面臨產能挑戰，魏哲家：台積電努力不當瓶頸",
-      "link": "https://finance.technews.tw/2026/06/04/the-ai-%e2%80%8b%e2%80%8bera-presents-production-capacity-challenges-for-everything-from-devices-to-memory/",
-      "summary": "在全球人工智慧（AI）浪潮席捲之下，半導體產業的產能與佈局成為全球焦點。台積電董事長魏哲家近日在面對外界提問時 [&#8230;]",
+      "link": "https://technews.tw/2026/06/04/the-ai-%e2%80%8b%e2%80%8bera-presents-production-capacity-challenges-for-everything-from-devices-to-memory/",
+      "summary": "在全球人工智慧（AI）浪潮席捲之下，半導體產業的產能與布局成為全球焦點。台積電董事長魏哲家近日在面對外界提問時 [&#8230;]",
       "date": "2026-06-04T09:55:17+00:00",
       "sourceId": "technews",
       "cats": [
@@ -126,19 +152,6 @@
       ]
     },
     {
-      "id": "389d30072bf3",
-      "title": "Nvidia 加入 Windows on Arm 陣營，推升 Arm 架構 AI 筆電 2029 年滲透率達 34.2%",
-      "link": "https://technews.tw/2026/06/04/nvidia-windows-on-arm-arm-ai-laptop-penetration-34-2-2029/",
-      "summary": "根據 TrendForce 最新研究指出， 目前 AI 筆電主要由 Intel、AMD、 Apple 與 Qu [&#8230;]",
-      "date": "2026-06-04T08:00:11+00:00",
-      "sourceId": "technews",
-      "cats": [
-        "market",
-        "process",
-        "material"
-      ]
-    },
-    {
       "id": "03d98d25c4dd",
       "title": "InchFab Sells $10M Mini Fabs to Democratize Chipmaking",
       "link": "https://www.eetimes.com/inchfab-sells-10m-mini-fabs-to-democratize-chipmaking/",
@@ -157,19 +170,6 @@
       "link": "https://www.eetimes.com/physical-ai-pushes-chipmakers-up-the-value-chain/",
       "summary": "At the TSMC European Symposium, European semiconductor CEOs spoke about how AI in influencing business. The post Physical AI Pushes Chipmakers Up the Value Chain appeared first on EE Times.",
       "date": "2026-06-02T14:00:00+00:00",
-      "sourceId": "eetimes",
-      "cats": [
-        "process",
-        "material",
-        "equipment"
-      ]
-    },
-    {
-      "id": "2a07b0cf74f0",
-      "title": "TSMC Defends Transistor Scaling Amid Huawei’s ‘Her’s Law’ Proposal",
-      "link": "https://www.eetimes.com/tsmc-defends-transistor-scaling-amid-huaweis-hers-law-proposal/",
-      "summary": "Kevin Zhang said 3D integration is important, but transistor scaling remains the semiconductor industry's primary driver of performance and energy-efficiency gains. The post TSMC Defends Transistor Scaling Amid Huawei&#8217;s ‘Her’s Law’ Proposal appeared first on EE Times.",
-      "date": "2026-06-01T18:12:48+00:00",
       "sourceId": "eetimes",
       "cats": [
         "process",
