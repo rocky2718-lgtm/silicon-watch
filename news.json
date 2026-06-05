@@ -1,6 +1,6 @@
 {
-  "updated": "2026-06-05T11:53:09.013210+00:00",
-  "count": 15,
+  "updated": "2026-06-05T18:31:35.445264+00:00",
+  "count": 13,
   "sources": [
     {
       "id": "technews",
@@ -87,19 +87,6 @@
       ]
     },
     {
-      "id": "9f24c9cb32bc",
-      "title": "Rapidus 拚量產晶片，日本政府加碼投資",
-      "link": "https://technews.tw/2026/06/05/rapidus-chip-mass-production-japanese-government-investment/",
-      "summary": "日本經濟產業省（相當於經濟部）今天宣布，已加碼投資 1,500 億日圓給力拚量產最先進晶片的 Rapidus。 [&#8230;]",
-      "date": "2026-06-05T08:40:21+00:00",
-      "sourceId": "technews",
-      "cats": [
-        "market",
-        "process",
-        "material"
-      ]
-    },
-    {
       "id": "64efa97c125f",
       "title": "Chips Act 2.0 Puts Demand at Center of Europe’s Semiconductor Strategy",
       "link": "https://www.eetimes.com/chips-act-2-0-puts-demand-at-center-of-europes-semiconductor-strategy/",
@@ -144,19 +131,6 @@
       "link": "https://www.eetimes.com/inchfab-sells-10m-mini-fabs-to-democratize-chipmaking/",
       "summary": "InchFab's mini fabs are cost-competitive with larger 8-inch wafer fabs at the half-micron and larger nodes. The post InchFab Sells $10M Mini Fabs to Democratize Chipmaking appeared first on EE Times.",
       "date": "2026-06-03T22:00:00+00:00",
-      "sourceId": "eetimes",
-      "cats": [
-        "process",
-        "material",
-        "equipment"
-      ]
-    },
-    {
-      "id": "0011ca1e6e27",
-      "title": "Physical AI Pushes Chipmakers Up the Value Chain",
-      "link": "https://www.eetimes.com/physical-ai-pushes-chipmakers-up-the-value-chain/",
-      "summary": "At the TSMC European Symposium, European semiconductor CEOs spoke about how AI in influencing business. The post Physical AI Pushes Chipmakers Up the Value Chain appeared first on EE Times.",
-      "date": "2026-06-02T14:00:00+00:00",
       "sourceId": "eetimes",
       "cats": [
         "process",
