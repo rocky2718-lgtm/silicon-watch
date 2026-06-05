@@ -1,6 +1,6 @@
 {
-  "updated": "2026-06-05T18:31:35.445264+00:00",
-  "count": 13,
+  "updated": "2026-06-05T23:54:30.817534+00:00",
+  "count": 14,
   "sources": [
     {
       "id": "technews",
@@ -60,6 +60,19 @@
     }
   ],
   "articles": [
+    {
+      "id": "a1fc91477a9a",
+      "title": "力積電 5月營收達 57.7 億元，連續兩個月站上 50 億元大關",
+      "link": "https://finance.technews.tw/2026/06/06/powerchip-technologys-revenue-reached-nt5-77-billion-in-may/",
+      "summary": "晶圓代工廠力積電公布最新營收數據，受惠於記憶體與邏輯代工報價調漲效益，5月合併營收達57.7億元，使得營收金額 [&#8230;]",
+      "date": "2026-06-05T22:00:13+00:00",
+      "sourceId": "technews",
+      "cats": [
+        "market",
+        "process",
+        "material"
+      ]
+    },
     {
       "id": "d4c48f3911c2",
       "title": "昇陽半導體5月營收4.79 億元",
