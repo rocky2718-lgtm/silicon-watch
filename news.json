@@ -1,6 +1,6 @@
 {
-  "updated": "2026-06-04T23:57:30.452028+00:00",
-  "count": 16,
+  "updated": "2026-06-05T11:53:09.013210+00:00",
+  "count": 15,
   "sources": [
     {
       "id": "technews",
@@ -61,16 +61,55 @@
   ],
   "articles": [
     {
-      "id": "75a96e0352e2",
-      "title": "COMPUTEX 2026：NVIDIA RTX Spark 亮相，攜聯發科切入 AI PC",
-      "link": "https://technews.tw/2026/06/05/computex-2026-nvidia-rtx-spark-debut-mediatek-ai-pc-entry/",
-      "summary": "NVIDIA 6 月 1 日發表 RTX Spark 超級晶片，將 Blackwell RTX GPU、Gra [&#8230;]",
-      "date": "2026-06-04T23:00:40+00:00",
+      "id": "d4c48f3911c2",
+      "title": "昇陽半導體5月營收4.79 億元",
+      "link": "https://finance.technews.tw/2026/06/05/psi-8028-202605-financial-report/",
+      "summary": "昇陽半導體（8028）今（5）日公布 5 月營收，達 4.79 億元，較 4 月成長 2.9%，較去年同期成長 [&#8230;]",
+      "date": "2026-06-05T10:30:09+00:00",
       "sourceId": "technews",
       "cats": [
         "market",
         "process",
         "material"
+      ]
+    },
+    {
+      "id": "92b4361f57e4",
+      "title": "輝達 GTC 台北重返 PC 戰場，黃仁勳四大科技密碼一次看",
+      "link": "https://technews.tw/2026/06/05/nvidia-gtc-taipei-return-pc-battlefield-jensen-huang-four-tech-codes/",
+      "summary": "輝達（NVIDIA）執行長黃仁勳今天結束為期 1 4天訪台行程，轉往韓國訪問。這場掀起全台人工智慧（AI）旋風 [&#8230;]",
+      "date": "2026-06-05T09:40:15+00:00",
+      "sourceId": "technews",
+      "cats": [
+        "market",
+        "process",
+        "material"
+      ]
+    },
+    {
+      "id": "9f24c9cb32bc",
+      "title": "Rapidus 拚量產晶片，日本政府加碼投資",
+      "link": "https://technews.tw/2026/06/05/rapidus-chip-mass-production-japanese-government-investment/",
+      "summary": "日本經濟產業省（相當於經濟部）今天宣布，已加碼投資 1,500 億日圓給力拚量產最先進晶片的 Rapidus。 [&#8230;]",
+      "date": "2026-06-05T08:40:21+00:00",
+      "sourceId": "technews",
+      "cats": [
+        "market",
+        "process",
+        "material"
+      ]
+    },
+    {
+      "id": "64efa97c125f",
+      "title": "Chips Act 2.0 Puts Demand at Center of Europe’s Semiconductor Strategy",
+      "link": "https://www.eetimes.com/chips-act-2-0-puts-demand-at-center-of-europes-semiconductor-strategy/",
+      "summary": "Chips Act 2.0 shifts EU focus from factory subsidies to chip design and demand. The post Chips Act 2.0 Puts Demand at Center of Europe’s Semiconductor Strategy appeared first on EE Times.",
+      "date": "2026-06-05T07:00:00+00:00",
+      "sourceId": "eetimes",
+      "cats": [
+        "process",
+        "material",
+        "equipment"
       ]
     },
     {
@@ -87,19 +126,6 @@
       ]
     },
     {
-      "id": "b8d23660181c",
-      "title": "矽格5月營收月增1.6%",
-      "link": "https://finance.technews.tw/2026/06/05/sigurd-6257-202605-financial-report/",
-      "summary": "矽格（6257）公布 5 月合併營收 19.76 億元，較上（4）月成長 1.6%，與去年同期相比為年增 23 [&#8230;]",
-      "date": "2026-06-04T16:20:09+00:00",
-      "sourceId": "technews",
-      "cats": [
-        "market",
-        "process",
-        "material"
-      ]
-    },
-    {
       "id": "73c7a91e2473",
       "title": "Computex 2026: Are We Heading for the Agentic PC Era Yet?",
       "link": "https://www.eetimes.com/computex-2026-are-we-heading-for-the-agentic-pc-era-yet/",
@@ -110,45 +136,6 @@
         "process",
         "material",
         "equipment"
-      ]
-    },
-    {
-      "id": "65f05b701a88",
-      "title": "AI 時代從設備到記憶體皆面臨產能挑戰，魏哲家：台積電努力不當瓶頸",
-      "link": "https://technews.tw/2026/06/04/the-ai-%e2%80%8b%e2%80%8bera-presents-production-capacity-challenges-for-everything-from-devices-to-memory/",
-      "summary": "在全球人工智慧（AI）浪潮席捲之下，半導體產業的產能與布局成為全球焦點。台積電董事長魏哲家近日在面對外界提問時 [&#8230;]",
-      "date": "2026-06-04T09:55:17+00:00",
-      "sourceId": "technews",
-      "cats": [
-        "market",
-        "process",
-        "material"
-      ]
-    },
-    {
-      "id": "b20a916d963e",
-      "title": "魏哲家：台灣除了台積電還有生態系，不是韓國可複製",
-      "link": "https://technews.tw/2026/06/04/cc-wei-taiwan-ecosystem-beyond-tsmc-not-replicable-by-korea/",
-      "summary": "輝達（NVIDIA）執行長黃仁勳將訪韓國，傳與三星、SK 海力士等企業高層會面。台積電董事長暨總裁魏哲家對台灣 [&#8230;]",
-      "date": "2026-06-04T09:20:43+00:00",
-      "sourceId": "technews",
-      "cats": [
-        "market",
-        "process",
-        "material"
-      ]
-    },
-    {
-      "id": "2a4b1f2baffe",
-      "title": "談低生育率隱憂，魏哲家：很怕以後工程師、技術員不夠",
-      "link": "https://technews.tw/2026/06/04/c-c-wei-discusses-concerns-over-low-birth-rates/",
-      "summary": "晶圓代工廠台積電董事長暨總裁魏哲家今天表示，台灣生育率太低，很怕長此以往工程師、技術員會不夠。 台積電今天召開 [&#8230;]",
-      "date": "2026-06-04T08:45:24+00:00",
-      "sourceId": "technews",
-      "cats": [
-        "market",
-        "process",
-        "material"
       ]
     },
     {
