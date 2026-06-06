@@ -1,6 +1,6 @@
 {
-  "updated": "2026-06-06T09:14:42.876379+00:00",
-  "count": 19,
+  "updated": "2026-06-06T15:01:01.737101+00:00",
+  "count": 18,
   "sources": [
     {
       "id": "technews",
@@ -144,19 +144,6 @@
       "link": "https://finance.technews.tw/2026/06/05/psi-8028-202605-financial-report/",
       "summary": "昇陽半導體（8028）今（5）日公布 5 月營收，達 4.79 億元，較 4 月成長 2.9%，較去年同期成長 [&#8230;]",
       "date": "2026-06-05T10:30:09+00:00",
-      "sourceId": "technews",
-      "cats": [
-        "market",
-        "process",
-        "material"
-      ]
-    },
-    {
-      "id": "92b4361f57e4",
-      "title": "輝達 GTC 台北重返 PC 戰場，黃仁勳四大科技密碼一次看",
-      "link": "https://technews.tw/2026/06/05/nvidia-gtc-taipei-return-pc-battlefield-jensen-huang-four-tech-codes/",
-      "summary": "輝達（NVIDIA）執行長黃仁勳今天結束為期 1 4天訪台行程，轉往韓國訪問。這場掀起全台人工智慧（AI）旋風 [&#8230;]",
-      "date": "2026-06-05T09:40:15+00:00",
       "sourceId": "technews",
       "cats": [
         "market",
