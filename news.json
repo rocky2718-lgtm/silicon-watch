@@ -1,6 +1,6 @@
 {
-  "updated": "2026-06-07T09:52:33.030982+00:00",
-  "count": 20,
+  "updated": "2026-06-07T15:15:00.421797+00:00",
+  "count": 19,
   "sources": [
     {
       "id": "technews",
@@ -157,19 +157,6 @@
       "link": "https://technews.tw/2026/06/06/nvidia-mediatek-qualcomm-vie-laptop-chips-pc-market-saturation-giants-compete/",
       "summary": "PC 市場低迷已久，換機潮沒來，出貨量還在跌；但 COMPUTEX 期間，輝達、聯發科、高通等巨頭接連宣布殺入 [&#8230;]",
       "date": "2026-06-06T00:00:35+00:00",
-      "sourceId": "technews",
-      "cats": [
-        "market",
-        "process",
-        "material"
-      ]
-    },
-    {
-      "id": "a1fc91477a9a",
-      "title": "力積電 5 月營收達 57.7 億元，連續兩個月站上 50 億元大關",
-      "link": "https://finance.technews.tw/2026/06/06/powerchip-technologys-revenue-reached-nt5-77-billion-in-may/",
-      "summary": "晶圓代工廠力積電公布最新營收數據，受惠於記憶體與邏輯代工報價調漲效益，5月合併營收達57.7億元，使得營收金額 [&#8230;]",
-      "date": "2026-06-05T22:00:13+00:00",
       "sourceId": "technews",
       "cats": [
         "market",
