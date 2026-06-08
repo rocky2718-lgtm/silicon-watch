@@ -1,6 +1,6 @@
 {
-  "updated": "2026-06-07T20:46:46.367272+00:00",
-  "count": 19,
+  "updated": "2026-06-08T13:55:39.799136+00:00",
+  "count": 13,
   "sources": [
     {
       "id": "technews",
@@ -61,11 +61,11 @@
   ],
   "articles": [
     {
-      "id": "19858a6e3e16",
-      "title": "台股面臨多重賣壓形成「恐懼的總和」，法人：落底看 4 大指標",
-      "link": "https://finance.technews.tw/2026/06/07/wall-street-ends-sharply-lower/",
-      "summary": "美股上週五暴跌，與台股連結最深的費城半導體指數重挫 10.26%，引爆 5 日台指期盤後暴跌 3006 點或 [&#8230;]",
-      "date": "2026-06-07T07:00:15+00:00",
+      "id": "77464ca75c6a",
+      "title": "旺矽5月營收19.07 億元",
+      "link": "https://finance.technews.tw/2026/06/08/mpi-6223-202605-financial-report/",
+      "summary": "旺矽（6223）今（8）日公布 5 月營收，達 19.07 億元，較 4 月成長 28.4%，較去年同期成長 [&#8230;]",
+      "date": "2026-06-08T10:20:19+00:00",
       "sourceId": "technews",
       "cats": [
         "market",
@@ -74,89 +74,11 @@
       ]
     },
     {
-      "id": "ea92ee40cf45",
-      "title": "AMD 百億美元布局台灣 AI 生態系，AIC 於 COMPUTEX 展示 Helios 機架平台",
-      "link": "https://technews.tw/2026/06/07/aic-amd-helios-computex-2026/",
-      "summary": "隨著 AI 基礎設施需求高速成長，AMD 宣布將加碼投資台灣 AI 生態系，總規模上看百億美元，進一步深化與台 [&#8230;]",
-      "date": "2026-06-07T06:00:56+00:00",
-      "sourceId": "technews",
-      "cats": [
-        "market",
-        "process",
-        "material"
-      ]
-    },
-    {
-      "id": "503203a9fac6",
-      "title": "AI 股漲翻天還能買誰？Barron′s：輝達等五檔仍算便宜，就算退潮也是留到最後那批",
-      "link": "https://finance.technews.tw/2026/06/07/chip-stocks-2026-identifying-the-semiconductor-winners-vs-ai-hype/",
-      "summary": "如果你今年投資也搭上這波晶片熱潮，現在或許該停下來問一句：手上的股票，是真材實料，還是隨浪起舞？ 漲勢「不分好 [&#8230;]",
-      "date": "2026-06-07T02:00:36+00:00",
-      "sourceId": "technews",
-      "cats": [
-        "market",
-        "process",
-        "material"
-      ]
-    },
-    {
-      "id": "e1ca8a12ffc5",
-      "title": "AMD 不急推 AM6，AM5 平台將一路支援至 2029 年",
-      "link": "https://technews.tw/2026/06/06/amd-am6-am5-is-going-till-2029/",
-      "summary": "根據 Wccftech 報導，AMD 表示將持續延長 AM5 平台生命周期至 2029 年，未來除了 Zen [&#8230;]",
-      "date": "2026-06-06T06:28:45+00:00",
-      "sourceId": "technews",
-      "cats": [
-        "market",
-        "process",
-        "material"
-      ]
-    },
-    {
-      "id": "f69b1b57d2ee",
-      "title": "博帝科技 COMPUTEX 2026 發表全新 AI 記憶體與儲存基礎架構",
-      "link": "https://technews.tw/2026/06/06/patriot-memory-computex-2026/",
-      "summary": "博帝科技（Patriot Memory）6 月 1 日公布 COMPUTEX 2026 展出陣容，以「Buil [&#8230;]",
-      "date": "2026-06-06T06:00:38+00:00",
-      "sourceId": "technews",
-      "cats": [
-        "market",
-        "process",
-        "material"
-      ]
-    },
-    {
-      "id": "e238e410ad0f",
-      "title": "護國神山還在長高、造就千萬年薪族，台灣消費信心為何停滯不前？",
-      "link": "https://finance.technews.tw/2026/06/06/japan-south-korea-and-taiwan-are-suffering-industrial-rot/",
-      "summary": "英國《經濟學人》指出，AI 浪潮與台積電帶動台灣出口與 GDP 飆升，但傳統產業衰退、薪資差距擴大、青年低薪、 [&#8230;]",
-      "date": "2026-06-06T05:30:01+00:00",
-      "sourceId": "technews",
-      "cats": [
-        "market",
-        "process",
-        "material"
-      ]
-    },
-    {
-      "id": "3f73658b78aa",
-      "title": "直擊 AI 電力痛點！台達電鄭平領軍，強打「從電網到晶片」一站式解方",
-      "link": "https://technews.tw/2026/06/06/computex-ping-cheng-power-shortage-ai-biggest-challenge-delta-electronics-one-stop-vertical-integration-grid-chip/",
-      "summary": "COMPUTEX 2026 盛大開幕，台達電子由董事長鄭平（首圖左二）親自坐鎮，帶領一級主管對外展現其在 AI [&#8230;]",
-      "date": "2026-06-06T01:00:04+00:00",
-      "sourceId": "technews",
-      "cats": [
-        "market",
-        "process",
-        "material"
-      ]
-    },
-    {
-      "id": "2ced7714cb2b",
-      "title": "輝達、聯發科、高通搶攻筆電晶片！PC 市場飽和論紛飛，巨頭仍參戰",
-      "link": "https://technews.tw/2026/06/06/nvidia-mediatek-qualcomm-vie-laptop-chips-pc-market-saturation-giants-compete/",
-      "summary": "PC 市場低迷已久，換機潮沒來，出貨量還在跌；但 COMPUTEX 期間，輝達、聯發科、高通等巨頭接連宣布殺入 [&#8230;]",
-      "date": "2026-06-06T00:00:35+00:00",
+      "id": "775f0a5a5cac",
+      "title": "迎向光與電革命！義隆電布局 Agent AI PC、無人機與光通訊三大動能",
+      "link": "https://finance.technews.tw/2026/06/08/agent-ai-pc/",
+      "summary": "義隆電今日宣布攜手美商 PETA Optronics，共同進軍光通訊晶片市場，董事長葉儀晧表示，這是一場結合光 [&#8230;]",
+      "date": "2026-06-08T09:30:57+00:00",
       "sourceId": "technews",
       "cats": [
         "market",
