@@ -1,6 +1,6 @@
 {
-  "updated": "2026-06-08T13:55:39.799136+00:00",
-  "count": 13,
+  "updated": "2026-06-08T21:20:46.313628+00:00",
+  "count": 12,
   "sources": [
     {
       "id": "technews",
@@ -118,19 +118,6 @@
       "link": "https://www.eetimes.com/computex-2026-are-we-heading-for-the-agentic-pc-era-yet/",
       "summary": "In this video interview, explore whether agentic PCs are truly here as Nvidia and Microsoft unveil new tech at Computex 2026. The post Computex 2026: Are We Heading for the Agentic PC Era Yet? appeared first on EE Times.",
       "date": "2026-06-04T13:59:22+00:00",
-      "sourceId": "eetimes",
-      "cats": [
-        "process",
-        "material",
-        "equipment"
-      ]
-    },
-    {
-      "id": "03d98d25c4dd",
-      "title": "InchFab Sells $10M Mini Fabs to Democratize Chipmaking",
-      "link": "https://www.eetimes.com/inchfab-sells-10m-mini-fabs-to-democratize-chipmaking/",
-      "summary": "InchFab's mini fabs are cost-competitive with larger 8-inch wafer fabs at the half-micron and larger nodes. The post InchFab Sells $10M Mini Fabs to Democratize Chipmaking appeared first on EE Times.",
-      "date": "2026-06-03T22:00:00+00:00",
       "sourceId": "eetimes",
       "cats": [
         "process",
