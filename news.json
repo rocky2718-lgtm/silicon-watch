@@ -1,6 +1,6 @@
 {
-  "updated": "2026-06-08T21:20:46.313628+00:00",
-  "count": 12,
+  "updated": "2026-06-09T10:46:13.148782+00:00",
+  "count": 11,
   "sources": [
     {
       "id": "technews",
@@ -61,24 +61,11 @@
   ],
   "articles": [
     {
-      "id": "77464ca75c6a",
-      "title": "旺矽5月營收19.07 億元",
-      "link": "https://finance.technews.tw/2026/06/08/mpi-6223-202605-financial-report/",
-      "summary": "旺矽（6223）今（8）日公布 5 月營收，達 19.07 億元，較 4 月成長 28.4%，較去年同期成長 [&#8230;]",
-      "date": "2026-06-08T10:20:19+00:00",
-      "sourceId": "technews",
-      "cats": [
-        "market",
-        "process",
-        "material"
-      ]
-    },
-    {
-      "id": "775f0a5a5cac",
-      "title": "迎向光與電革命！義隆電布局 Agent AI PC、無人機與光通訊三大動能",
-      "link": "https://finance.technews.tw/2026/06/08/agent-ai-pc/",
-      "summary": "義隆電今日宣布攜手美商 PETA Optronics，共同進軍光通訊晶片市場，董事長葉儀晧表示，這是一場結合光 [&#8230;]",
-      "date": "2026-06-08T09:30:57+00:00",
+      "id": "df6fd30eb7e4",
+      "title": "大立光 CPO 試產線 9 月量產，相關製程精度已達 0.3 微米等級",
+      "link": "https://technews.tw/2026/06/09/largan-2026-0609-shareholders-meeting/",
+      "summary": "鏡頭大廠大立光今（9 日）召開股東會，今年將配發每股 80 元的現金股利，市場也相當關注大立光在 CPO 和 [&#8230;]",
+      "date": "2026-06-09T10:14:17+00:00",
       "sourceId": "technews",
       "cats": [
         "market",
