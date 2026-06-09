@@ -1,6 +1,6 @@
 {
-  "updated": "2026-06-09T10:46:13.148782+00:00",
-  "count": 11,
+  "updated": "2026-06-09T19:35:48.701915+00:00",
+  "count": 8,
   "sources": [
     {
       "id": "technews",
@@ -71,45 +71,6 @@
         "market",
         "process",
         "material"
-      ]
-    },
-    {
-      "id": "64efa97c125f",
-      "title": "Chips Act 2.0 Puts Demand at Center of Europe’s Semiconductor Strategy",
-      "link": "https://www.eetimes.com/chips-act-2-0-puts-demand-at-center-of-europes-semiconductor-strategy/",
-      "summary": "Chips Act 2.0 shifts EU focus from factory subsidies to chip design and demand. The post Chips Act 2.0 Puts Demand at Center of Europe’s Semiconductor Strategy appeared first on EE Times.",
-      "date": "2026-06-05T07:00:00+00:00",
-      "sourceId": "eetimes",
-      "cats": [
-        "process",
-        "material",
-        "equipment"
-      ]
-    },
-    {
-      "id": "b73b8a30fa3b",
-      "title": "Netrasemi Brings Up A2000 AI Chip, Begins Customer Evaluation Phase",
-      "link": "https://www.eetimes.com/netrasemi-brings-up-a2000-ai-chip-begins-customer-evaluation-phase/",
-      "summary": "Indian startup Netrasemi has launched the A2000 AI chip built on a 12-nm technology node. The post Netrasemi Brings Up A2000 AI Chip, Begins Customer Evaluation Phase appeared first on EE Times.",
-      "date": "2026-06-04T22:00:00+00:00",
-      "sourceId": "eetimes",
-      "cats": [
-        "process",
-        "material",
-        "equipment"
-      ]
-    },
-    {
-      "id": "73c7a91e2473",
-      "title": "Computex 2026: Are We Heading for the Agentic PC Era Yet?",
-      "link": "https://www.eetimes.com/computex-2026-are-we-heading-for-the-agentic-pc-era-yet/",
-      "summary": "In this video interview, explore whether agentic PCs are truly here as Nvidia and Microsoft unveil new tech at Computex 2026. The post Computex 2026: Are We Heading for the Agentic PC Era Yet? appeared first on EE Times.",
-      "date": "2026-06-04T13:59:22+00:00",
-      "sourceId": "eetimes",
-      "cats": [
-        "process",
-        "material",
-        "equipment"
       ]
     },
     {
