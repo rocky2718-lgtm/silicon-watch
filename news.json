@@ -1,6 +1,6 @@
 {
-  "updated": "2026-06-10T21:24:47.517227+00:00",
-  "count": 10,
+  "updated": "2026-06-11T12:33:26.169504+00:00",
+  "count": 13,
   "sources": [
     {
       "id": "technews",
@@ -61,11 +61,11 @@
   ],
   "articles": [
     {
-      "id": "7fca618898a2",
-      "title": "台灣光罩處分六廠獲利 18.24 億元！落實活化資產以聚焦本業核心製程",
-      "link": "https://finance.technews.tw/2026/06/10/asset-revitalization/",
-      "summary": "台灣光罩今日召開董事會，通過處分旗下位於竹南的六廠廠房資產，此為台灣光罩落實資產活化與聚焦本業的戰略舉措，並提 [&#8230;]",
-      "date": "2026-06-10T10:10:31+00:00",
+      "id": "1ae74041e6a8",
+      "title": "Raccoon AI 攜手 OpenAI 推新解方！併矽谷 WorkDuo 攻 53% 下班商機",
+      "link": "https://finance.technews.tw/2026/06/11/workduo/",
+      "summary": "隨著消費者習慣逐漸轉向即時互動，企業客服正面臨前所未有的挑戰，Raccoon AI 日前舉辦「2026 Rac [&#8230;]",
+      "date": "2026-06-11T09:58:41+00:00",
       "sourceId": "technews",
       "cats": [
         "market",
@@ -74,11 +74,11 @@
       ]
     },
     {
-      "id": "e3128b83916d",
-      "title": "應材擴大新加坡製造布局，支援 AI 晶片需求",
-      "link": "https://technews.tw/2026/06/10/applied-materials-tampines-campus/",
-      "summary": "應用材料宣布已擴大其於新加坡的製造與研發營運布局，以支援全球 AI 基礎設施持續擴展的需求。全新的淡濱尼園區（ [&#8230;]",
-      "date": "2026-06-10T10:07:55+00:00",
+      "id": "e884eba09c26",
+      "title": "SEMI：2026 Q1 全球半導體製造設備銷售額年增 14%，創單季新高",
+      "link": "https://technews.tw/2026/06/11/semi-2026-q1-wwsems/",
+      "summary": "國際半導體產業協會（SEMI）日前公布最新「全球半導體設備市場報告」（WWSEMS），指出 2026 年第一季 [&#8230;]",
+      "date": "2026-06-11T08:42:19+00:00",
       "sourceId": "technews",
       "cats": [
         "market",
@@ -87,11 +87,50 @@
       ]
     },
     {
-      "id": "306338fef196",
-      "title": "聯發科5月營收474.34 億元",
-      "link": "https://finance.technews.tw/2026/06/10/mtk-2454-202605-financial-report/",
-      "summary": "聯發科（2454）今（10）日公布 5 月營收，達 474.34 億元，較 4 月成長 1.5%，較去年同期成 [&#8230;]",
-      "date": "2026-06-10T09:10:05+00:00",
+      "id": "342bef9d0723",
+      "title": "研調：Q1 智慧手機 SoC 出貨量年減 8%；聯發科續居冠",
+      "link": "https://technews.tw/2026/06/11/report-q1-smartphone-soc-shipments-down-8-yoy-mediatek-retains-lead/",
+      "summary": "中媒 IT 之家報導，據 Counterpoint 公布今年第一季全球智慧手機 AP-SoC 市占率數據報告。 [&#8230;]",
+      "date": "2026-06-11T07:50:31+00:00",
+      "sourceId": "technews",
+      "cats": [
+        "market",
+        "process",
+        "material"
+      ]
+    },
+    {
+      "id": "1dc7aa0f0db0",
+      "title": "SK 海力士今年底量產 375 層 NAND，首導入「鉬材料」提升堆疊密度",
+      "link": "https://technews.tw/2026/06/11/sk-hynix-mass-produce-375-layer-nand/",
+      "summary": "SK 海力士計劃今年底開始量產下一代 375 層 3D NAND 快閃記憶體，並首度在高層數 NAND 製程中 [&#8230;]",
+      "date": "2026-06-11T07:23:34+00:00",
+      "sourceId": "technews",
+      "cats": [
+        "market",
+        "process",
+        "material"
+      ]
+    },
+    {
+      "id": "5c263b8ca1d4",
+      "title": "SK 海力士加速擴產！崔泰源：計劃 2034 年將晶圓產能提高三倍",
+      "link": "https://technews.tw/2026/06/11/sk-hynix-chairman-chey-tae-won-talk-stock/",
+      "summary": "韓國 SK 集團董事長崔泰源近日接受日經採訪時表示，為滿足人工智慧（AI）運算對記憶體晶片日益增長的需求，SK [&#8230;]",
+      "date": "2026-06-11T07:02:22+00:00",
+      "sourceId": "technews",
+      "cats": [
+        "market",
+        "process",
+        "material"
+      ]
+    },
+    {
+      "id": "4e859f334bcd",
+      "title": "台積電捲美國專利爭議！共和黨議員批不應享特殊豁免，經濟部回應了",
+      "link": "https://technews.tw/2026/06/11/us-republican-lawmakers-tsmc/",
+      "summary": "隨著美國對先進半導體與 AI 供應鏈的依賴日益加深，全球晶圓代工龍頭台積電在美國的特殊地位正面臨考驗。根據外媒 [&#8230;]",
+      "date": "2026-06-11T06:51:19+00:00",
       "sourceId": "technews",
       "cats": [
         "market",
