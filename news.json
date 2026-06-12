@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-12T11:55:08.240051+00:00",
+  "updated": "2026-06-12T19:32:27.685403+00:00",
   "count": 20,
   "sources": [
     {
@@ -60,6 +60,19 @@
     }
   ],
   "articles": [
+    {
+      "id": "7b11a30c1629",
+      "title": "UCLA’s $125M Semiconductor Hub: “We Want High Impact, Not Incremental Research”",
+      "link": "https://www.eetimes.com/uclas-125m-semiconductor-hub-we-want-high-impact-not-incremental-research/",
+      "summary": "UCLA launches a $125M semiconductor hub to smash chip bottlenecks with AI research. The post UCLA’s $125M Semiconductor Hub: “We Want High Impact, Not Incremental Research” appeared first on EE Times.",
+      "date": "2026-06-12T19:00:00+00:00",
+      "sourceId": "eetimes",
+      "cats": [
+        "process",
+        "material",
+        "equipment"
+      ]
+    },
     {
       "id": "95bb24b00ded",
       "title": "韓國混凝土運輸駕駛罷工，恐影響三星 SK 海力士擴廠進度",
@@ -196,19 +209,6 @@
       "link": "https://technews.tw/2026/06/12/consumer-memory-supply-visibility-limited-to-one-month/",
       "summary": "PC 售價調漲、消費者是否買單？將在第三季見分曉。微星董事長徐祥指出，記憶體漲價使第二、三季 DIY 市場狀況 [&#8230;]",
       "date": "2026-06-12T06:23:19+00:00",
-      "sourceId": "technews",
-      "cats": [
-        "market",
-        "process",
-        "material"
-      ]
-    },
-    {
-      "id": "01f151a695f4",
-      "title": "Prismark：AI 推升 PCB 市場成長 16.7%，台廠占全球近三成產值",
-      "link": "https://technews.tw/2026/06/12/pcb-prismark-report-2025/",
-      "summary": "隨著 AI 資料中心、高速網路與先進封裝需求持續升溫，全球 PCB 產業迎來新一波成長循環。根據研究機構 Pr [&#8230;]",
-      "date": "2026-06-12T06:00:18+00:00",
       "sourceId": "technews",
       "cats": [
         "market",
