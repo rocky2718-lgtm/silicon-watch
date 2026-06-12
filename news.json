@@ -1,6 +1,6 @@
 {
-  "updated": "2026-06-11T21:36:31.118722+00:00",
-  "count": 13,
+  "updated": "2026-06-12T11:55:08.240051+00:00",
+  "count": 20,
   "sources": [
     {
       "id": "technews",
@@ -61,11 +61,11 @@
   ],
   "articles": [
     {
-      "id": "1ae74041e6a8",
-      "title": "Raccoon AI 攜手 OpenAI 推新解方！併矽谷 WorkDuo 攻 53% 下班商機",
-      "link": "https://finance.technews.tw/2026/06/11/workduo/",
-      "summary": "隨著消費者習慣逐漸轉向即時互動，企業客服正面臨前所未有的挑戰，Raccoon AI 日前舉辦「2026 Rac [&#8230;]",
-      "date": "2026-06-11T09:58:41+00:00",
+      "id": "95bb24b00ded",
+      "title": "韓國混凝土運輸駕駛罷工，恐影響三星 SK 海力士擴廠進度",
+      "link": "https://technews.tw/2026/06/12/south-korean-concrete-transport-drivers-strike-threatens-samsung-sk-hynix-expansion-plans/",
+      "summary": "韓國媒體今天報導，由於韓國混凝土運輸駕駛正在進行大規模罷工，令人擔憂韓國半導體業兩巨頭三星電子和 SK 海力士 [&#8230;]",
+      "date": "2026-06-12T10:00:37+00:00",
       "sourceId": "technews",
       "cats": [
         "market",
@@ -74,11 +74,11 @@
       ]
     },
     {
-      "id": "e884eba09c26",
-      "title": "SEMI：2026 Q1 全球半導體製造設備銷售額年增 14%，創單季新高",
-      "link": "https://technews.tw/2026/06/11/semi-2026-q1-wwsems/",
-      "summary": "國際半導體產業協會（SEMI）日前公布最新「全球半導體設備市場報告」（WWSEMS），指出 2026 年第一季 [&#8230;]",
-      "date": "2026-06-11T08:42:19+00:00",
+      "id": "9f53a4f46654",
+      "title": "「大南方 AI 智慧健康展」盛大登場 串聯產官學研合作，打造臺灣智慧健康新聚落",
+      "link": "https://technews.tw/2026/06/12/south-ai-smart-health/",
+      "summary": "為落實賴清德總統「健康臺灣」與「人工智慧之島」政策願景，並推動「大南方新矽谷推動方案」，國家科學及技術委員會攜 [&#8230;]",
+      "date": "2026-06-12T09:57:06+00:00",
       "sourceId": "technews",
       "cats": [
         "market",
@@ -87,11 +87,11 @@
       ]
     },
     {
-      "id": "342bef9d0723",
-      "title": "研調：Q1 智慧手機 SoC 出貨量年減 8%；聯發科續居冠",
-      "link": "https://technews.tw/2026/06/11/report-q1-smartphone-soc-shipments-down-8-yoy-mediatek-retains-lead/",
-      "summary": "中媒 IT 之家報導，據 Counterpoint 公布今年第一季全球智慧手機 AP-SoC 市占率數據報告。 [&#8230;]",
-      "date": "2026-06-11T07:50:31+00:00",
+      "id": "d24643610a84",
+      "title": "馬斯克以視訊參與 ASML 技術大會，外界解讀為加速晶片製造步伐",
+      "link": "https://technews.tw/2026/06/12/elon-musk-asml/",
+      "summary": "特斯拉執行長馬斯克（Elon Musk）近日以視訊方式參與 ASML 年度技術大會，並向 ASML 員工發表談 [&#8230;]",
+      "date": "2026-06-12T08:28:08+00:00",
       "sourceId": "technews",
       "cats": [
         "market",
@@ -100,11 +100,11 @@
       ]
     },
     {
-      "id": "1dc7aa0f0db0",
-      "title": "SK 海力士今年底量產 375 層 NAND，首導入「鉬材料」提升堆疊密度",
-      "link": "https://technews.tw/2026/06/11/sk-hynix-mass-produce-375-layer-nand/",
-      "summary": "SK 海力士計劃今年底開始量產下一代 375 層 3D NAND 快閃記憶體，並首度在高層數 NAND 製程中 [&#8230;]",
-      "date": "2026-06-11T07:23:34+00:00",
+      "id": "cf80775299b9",
+      "title": "輝達向中國客戶推銷 Vera CPU，現在下訂最快 8 月就交貨",
+      "link": "https://technews.tw/2026/06/12/nvidia-promotes-vera-cpus-to-chinese-customers/",
+      "summary": "根據路透社引用消息人士的說法透露，輝達（Nvidia）正積極向中國客戶推銷其專為 AI 資料中心打造的全新 V [&#8230;]",
+      "date": "2026-06-12T08:15:43+00:00",
       "sourceId": "technews",
       "cats": [
         "market",
@@ -113,11 +113,24 @@
       ]
     },
     {
-      "id": "5c263b8ca1d4",
-      "title": "SK 海力士加速擴產！崔泰源：計劃 2034 年將晶圓產能提高三倍",
-      "link": "https://technews.tw/2026/06/11/sk-hynix-chairman-chey-tae-won-talk-stock/",
-      "summary": "韓國 SK 集團董事長崔泰源近日接受日經採訪時表示，為滿足人工智慧（AI）運算對記憶體晶片日益增長的需求，SK [&#8230;]",
-      "date": "2026-06-11T07:02:22+00:00",
+      "id": "073dbb96b2d6",
+      "title": "Indian Firm Scales Single-Walled Carbon Nanotube Production for Batteries and Chips",
+      "link": "https://www.eetimes.com/indian-firm-scales-single-walled-carbon-nanotube-production-for-batteries-and-chips/",
+      "summary": "NoPo scales HiPco single-walled carbon nanotube output for sub-2-nm chips and anodes. The post Indian Firm Scales Single-Walled Carbon Nanotube Production for Batteries and Chips appeared first on EE Times.",
+      "date": "2026-06-12T08:04:16+00:00",
+      "sourceId": "eetimes",
+      "cats": [
+        "process",
+        "material",
+        "equipment"
+      ]
+    },
+    {
+      "id": "df9594a77a34",
+      "title": "屏東科學園區半導體供應鏈專區動土，盼帶動大南方科技產業",
+      "link": "https://technews.tw/2026/06/12/another-fire-reported-at-sk-hynixs-cheongju-plant-2/",
+      "summary": "根據國科會表示，晶圓代工龍頭台積電與其供應鏈包括帆宣系統、華懋科技、捨得企業、安葆國際、兆聯實業、和淞科技與矽 [&#8230;]",
+      "date": "2026-06-12T07:45:43+00:00",
       "sourceId": "technews",
       "cats": [
         "market",
@@ -126,16 +139,94 @@
       ]
     },
     {
-      "id": "4e859f334bcd",
-      "title": "台積電捲美國專利爭議！共和黨議員批不應享特殊豁免，經濟部回應了",
-      "link": "https://technews.tw/2026/06/11/us-republican-lawmakers-tsmc/",
-      "summary": "隨著美國對先進半導體與 AI 供應鏈的依賴日益加深，全球晶圓代工龍頭台積電在美國的特殊地位正面臨考驗。根據外媒 [&#8230;]",
-      "date": "2026-06-11T06:51:19+00:00",
+      "id": "d95be2a94b2d",
+      "title": "SK 海力士清州廠再傳火警，本月已第二起工安事件引外界擔憂",
+      "link": "https://technews.tw/2026/06/12/another-fire-reported-at-sk-hynixs-cheongju-plant/",
+      "summary": "根據韓國媒體報導，韓國半導體大廠 SK 海力士（SK Hynix）位於清州的第四園區近期工安意外頻傳。12 日 [&#8230;]",
+      "date": "2026-06-12T07:30:16+00:00",
       "sourceId": "technews",
       "cats": [
         "market",
         "process",
         "material"
+      ]
+    },
+    {
+      "id": "510bdbf08769",
+      "title": "AI 續強、消費供應鏈提前備貨發酵，第一季全球十大晶圓代工營收季增 3.7%",
+      "link": "https://technews.tw/2026/06/12/foundry-top10-26q1/",
+      "summary": "TrendForce 最新晶圓代工產業研究，除了 AI HPC 與相關周邊訂單仍如火如荼出貨，第一季基於 TV [&#8230;]",
+      "date": "2026-06-12T07:11:07+00:00",
+      "sourceId": "technews",
+      "cats": [
+        "market",
+        "process",
+        "material"
+      ]
+    },
+    {
+      "id": "9c32bd835e18",
+      "title": "記憶體還有好幾季榮景？分析：無塵室成擴產瓶頸",
+      "link": "https://technews.tw/2026/06/12/memory-market-boom-several-quarters-analysis-cleanroom-expansion-bottleneck/",
+      "summary": "市場近來高度擔憂記憶體景氣循環是否已經步入高點，但華爾街投行摩根士丹利（Morgan Stanley，通稱大摩 [&#8230;]",
+      "date": "2026-06-12T06:50:35+00:00",
+      "sourceId": "technews",
+      "cats": [
+        "market",
+        "process",
+        "material"
+      ]
+    },
+    {
+      "id": "27a2f77de4f6",
+      "title": "少數兼具天線與高階被動研發力！佳邦攻新世代通訊迎下半年曙光",
+      "link": "https://finance.technews.tw/2026/06/12/high-level-passive/",
+      "summary": "佳邦今日召開股東常會，由於佳邦為少數同時具備天線與高階被動元件自主開發能力的廠商，今年第一季雖然受到記憶體供需 [&#8230;]",
+      "date": "2026-06-12T06:42:08+00:00",
+      "sourceId": "technews",
+      "cats": [
+        "market",
+        "process",
+        "material"
+      ]
+    },
+    {
+      "id": "08bdb63fcaf9",
+      "title": "微星徐祥：記憶體供貨能見度僅一個月，PC 漲價效應第三季見真章",
+      "link": "https://technews.tw/2026/06/12/consumer-memory-supply-visibility-limited-to-one-month/",
+      "summary": "PC 售價調漲、消費者是否買單？將在第三季見分曉。微星董事長徐祥指出，記憶體漲價使第二、三季 DIY 市場狀況 [&#8230;]",
+      "date": "2026-06-12T06:23:19+00:00",
+      "sourceId": "technews",
+      "cats": [
+        "market",
+        "process",
+        "material"
+      ]
+    },
+    {
+      "id": "01f151a695f4",
+      "title": "Prismark：AI 推升 PCB 市場成長 16.7%，台廠占全球近三成產值",
+      "link": "https://technews.tw/2026/06/12/pcb-prismark-report-2025/",
+      "summary": "隨著 AI 資料中心、高速網路與先進封裝需求持續升溫，全球 PCB 產業迎來新一波成長循環。根據研究機構 Pr [&#8230;]",
+      "date": "2026-06-12T06:00:18+00:00",
+      "sourceId": "technews",
+      "cats": [
+        "market",
+        "process",
+        "material"
+      ]
+    },
+    {
+      "id": "e19ef79b5404",
+      "title": "Rebellions Bets on Memory-Centric Architecture as It Weighs IPO Options",
+      "link": "https://www.eetimes.com/rebellions-bets-on-memory-centric-architecture-as-it-weighs-ipo-options/",
+      "summary": "Rebellions leverages memory-centric AI chip designs with SK Hynix and Samsung to fuel IPO ambitions. The post Rebellions Bets on Memory-Centric Architecture as It Weighs IPO Options appeared first on EE Times.",
+      "date": "2026-06-11T22:00:00+00:00",
+      "sourceId": "eetimes",
+      "cats": [
+        "process",
+        "material",
+        "equipment"
       ]
     },
     {
