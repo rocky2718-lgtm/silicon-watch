@@ -1,6 +1,6 @@
 {
-  "updated": "2026-06-13T15:52:05.694990+00:00",
-  "count": 19,
+  "updated": "2026-06-13T20:50:19.154665+00:00",
+  "count": 18,
   "sources": [
     {
       "id": "technews",
@@ -183,19 +183,6 @@
       "link": "https://technews.tw/2026/06/12/another-fire-reported-at-sk-hynixs-cheongju-plant-2/",
       "summary": "根據國科會表示，晶圓代工龍頭台積電與其供應鏈包括帆宣系統、華懋科技、捨得企業、安葆國際、兆聯實業、和淞科技與矽 [&#8230;]",
       "date": "2026-06-12T07:45:43+00:00",
-      "sourceId": "technews",
-      "cats": [
-        "market",
-        "process",
-        "material"
-      ]
-    },
-    {
-      "id": "d95be2a94b2d",
-      "title": "SK 海力士清州廠再傳火警，本月已第二起工安事件引外界擔憂",
-      "link": "https://technews.tw/2026/06/12/another-fire-reported-at-sk-hynixs-cheongju-plant/",
-      "summary": "根據韓國媒體報導，韓國半導體大廠 SK 海力士（SK Hynix）位於清州的第四園區近期工安意外頻傳。12 日 [&#8230;]",
-      "date": "2026-06-12T07:30:16+00:00",
       "sourceId": "technews",
       "cats": [
         "market",
