@@ -1,6 +1,6 @@
 {
-  "updated": "2026-06-12T19:32:27.685403+00:00",
-  "count": 20,
+  "updated": "2026-06-13T08:33:34.306730+00:00",
+  "count": 19,
   "sources": [
     {
       "id": "technews",
@@ -60,6 +60,45 @@
     }
   ],
   "articles": [
+    {
+      "id": "6c22538581d5",
+      "title": "AI 連手機密碼也能代理！Apple Intelligence 能自動更改不安全的密碼",
+      "link": "https://infosecu.technews.tw/2026/06/13/apple-intelligence-can-change-your-passwords-for-you-when-you-get-hacked/",
+      "summary": "能自主完成從目標設定到達標等完整流程的 AI 代理（AI Agent），正在襲捲、變革我們的日常生活與工作，如 [&#8230;]",
+      "date": "2026-06-13T06:30:51+00:00",
+      "sourceId": "technews",
+      "cats": [
+        "market",
+        "process",
+        "material"
+      ]
+    },
+    {
+      "id": "9af5251da9a9",
+      "title": "華爾街對 AI 晶片股的殘酷校準，從博通重摔看市場新考題",
+      "link": "https://finance.technews.tw/2026/06/13/wall-street-harsh-recalibration-ai-chip-stocks-broadcom-plunge-reveals-new-market-challenges/",
+      "summary": "截至 6 月 4 日週四美東時間上午 10 點 15 分，晶片股普遍下跌。罪魁禍首是前一日博通的財報。博通開盤 [&#8230;]",
+      "date": "2026-06-13T02:00:01+00:00",
+      "sourceId": "technews",
+      "cats": [
+        "market",
+        "process",
+        "material"
+      ]
+    },
+    {
+      "id": "009f2588873f",
+      "title": "林恩平：哪來 4 萬人？大立光靠全自動化機台，9 月亮相 CPO 試產線",
+      "link": "https://technews.tw/2026/06/13/largan-fa-automated-production-line-to-be-completed-in-sep/",
+      "summary": "大立光 9 日舉行股東會，由董事長林恩平主持。針對外界傳出大立光為了搶攻共同封裝光學（CPO）新事業，恐需招募 [&#8230;]",
+      "date": "2026-06-13T01:00:40+00:00",
+      "sourceId": "technews",
+      "cats": [
+        "market",
+        "process",
+        "material"
+      ]
+    },
     {
       "id": "7b11a30c1629",
       "title": "UCLA’s $125M Semiconductor Hub: “We Want High Impact, Not Incremental Research”",
@@ -157,58 +196,6 @@
       "link": "https://technews.tw/2026/06/12/another-fire-reported-at-sk-hynixs-cheongju-plant/",
       "summary": "根據韓國媒體報導，韓國半導體大廠 SK 海力士（SK Hynix）位於清州的第四園區近期工安意外頻傳。12 日 [&#8230;]",
       "date": "2026-06-12T07:30:16+00:00",
-      "sourceId": "technews",
-      "cats": [
-        "market",
-        "process",
-        "material"
-      ]
-    },
-    {
-      "id": "510bdbf08769",
-      "title": "AI 續強、消費供應鏈提前備貨發酵，第一季全球十大晶圓代工營收季增 3.7%",
-      "link": "https://technews.tw/2026/06/12/foundry-top10-26q1/",
-      "summary": "TrendForce 最新晶圓代工產業研究，除了 AI HPC 與相關周邊訂單仍如火如荼出貨，第一季基於 TV [&#8230;]",
-      "date": "2026-06-12T07:11:07+00:00",
-      "sourceId": "technews",
-      "cats": [
-        "market",
-        "process",
-        "material"
-      ]
-    },
-    {
-      "id": "9c32bd835e18",
-      "title": "記憶體還有好幾季榮景？分析：無塵室成擴產瓶頸",
-      "link": "https://technews.tw/2026/06/12/memory-market-boom-several-quarters-analysis-cleanroom-expansion-bottleneck/",
-      "summary": "市場近來高度擔憂記憶體景氣循環是否已經步入高點，但華爾街投行摩根士丹利（Morgan Stanley，通稱大摩 [&#8230;]",
-      "date": "2026-06-12T06:50:35+00:00",
-      "sourceId": "technews",
-      "cats": [
-        "market",
-        "process",
-        "material"
-      ]
-    },
-    {
-      "id": "27a2f77de4f6",
-      "title": "少數兼具天線與高階被動研發力！佳邦攻新世代通訊迎下半年曙光",
-      "link": "https://finance.technews.tw/2026/06/12/high-level-passive/",
-      "summary": "佳邦今日召開股東常會，由於佳邦為少數同時具備天線與高階被動元件自主開發能力的廠商，今年第一季雖然受到記憶體供需 [&#8230;]",
-      "date": "2026-06-12T06:42:08+00:00",
-      "sourceId": "technews",
-      "cats": [
-        "market",
-        "process",
-        "material"
-      ]
-    },
-    {
-      "id": "08bdb63fcaf9",
-      "title": "微星徐祥：記憶體供貨能見度僅一個月，PC 漲價效應第三季見真章",
-      "link": "https://technews.tw/2026/06/12/consumer-memory-supply-visibility-limited-to-one-month/",
-      "summary": "PC 售價調漲、消費者是否買單？將在第三季見分曉。微星董事長徐祥指出，記憶體漲價使第二、三季 DIY 市場狀況 [&#8230;]",
-      "date": "2026-06-12T06:23:19+00:00",
       "sourceId": "technews",
       "cats": [
         "market",
