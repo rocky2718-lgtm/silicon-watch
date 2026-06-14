@@ -1,6 +1,6 @@
 {
-  "updated": "2026-06-13T20:50:19.154665+00:00",
-  "count": 18,
+  "updated": "2026-06-14T10:33:37.444402+00:00",
+  "count": 15,
   "sources": [
     {
       "id": "technews",
@@ -61,6 +61,32 @@
   ],
   "articles": [
     {
+      "id": "fd8c8a8dcd40",
+      "title": "Anthropic 被政府命令九十分鐘內下架最新 AI 模型，背後到底發生什麼事？",
+      "link": "https://technews.tw/2026/06/14/trump-administration-only-gave-anthropic-90-minutes-to-de-deploy-its-new-ai-model/",
+      "summary": "在生成式 AI 發展的戰場上，一場突如其來的「國安危機」正引爆華府與矽谷的劇烈摩擦。 《AXIOS》引述 An [&#8230;]",
+      "date": "2026-06-14T03:38:03+00:00",
+      "sourceId": "technews",
+      "cats": [
+        "market",
+        "process",
+        "material"
+      ]
+    },
+    {
+      "id": "4123c5d0edd3",
+      "title": "蘋果晶片版 Mac 故障率只有英特爾版一半，散熱佳、低功耗但維修難度仍高",
+      "link": "https://technews.tw/2026/06/14/apple-silicon-cuts-mac-failures-in-half-says-refurb-firm/",
+      "summary": "英國維修商 Hoxton Macs 數據顯示，搭載 Apple Silicon 的 Mac 硬體穩定性明顯優於 [&#8230;]",
+      "date": "2026-06-14T02:30:37+00:00",
+      "sourceId": "technews",
+      "cats": [
+        "market",
+        "process",
+        "material"
+      ]
+    },
+    {
       "id": "6c22538581d5",
       "title": "AI 連手機密碼也能代理！Apple Intelligence 能自動更改不安全的密碼",
       "link": "https://infosecu.technews.tw/2026/06/13/apple-intelligence-can-change-your-passwords-for-you-when-you-get-hacked/",
@@ -113,58 +139,6 @@
       ]
     },
     {
-      "id": "95bb24b00ded",
-      "title": "韓國混凝土運輸駕駛罷工，恐影響三星 SK 海力士擴廠進度",
-      "link": "https://technews.tw/2026/06/12/south-korean-concrete-transport-drivers-strike-threatens-samsung-sk-hynix-expansion-plans/",
-      "summary": "韓國媒體今天報導，由於韓國混凝土運輸駕駛正在進行大規模罷工，令人擔憂韓國半導體業兩巨頭三星電子和 SK 海力士 [&#8230;]",
-      "date": "2026-06-12T10:00:37+00:00",
-      "sourceId": "technews",
-      "cats": [
-        "market",
-        "process",
-        "material"
-      ]
-    },
-    {
-      "id": "9f53a4f46654",
-      "title": "「大南方 AI 智慧健康展」盛大登場 串聯產官學研合作，打造臺灣智慧健康新聚落",
-      "link": "https://technews.tw/2026/06/12/south-ai-smart-health/",
-      "summary": "為落實賴清德總統「健康臺灣」與「人工智慧之島」政策願景，並推動「大南方新矽谷推動方案」，國家科學及技術委員會攜 [&#8230;]",
-      "date": "2026-06-12T09:57:06+00:00",
-      "sourceId": "technews",
-      "cats": [
-        "market",
-        "process",
-        "material"
-      ]
-    },
-    {
-      "id": "d24643610a84",
-      "title": "馬斯克以視訊參與 ASML 技術大會，外界解讀為加速晶片製造步伐",
-      "link": "https://technews.tw/2026/06/12/elon-musk-asml/",
-      "summary": "特斯拉執行長馬斯克（Elon Musk）近日以視訊方式參與 ASML 年度技術大會，並向 ASML 員工發表談 [&#8230;]",
-      "date": "2026-06-12T08:28:08+00:00",
-      "sourceId": "technews",
-      "cats": [
-        "market",
-        "process",
-        "material"
-      ]
-    },
-    {
-      "id": "cf80775299b9",
-      "title": "輝達向中國客戶推銷 Vera CPU，現在下訂最快 8 月就交貨",
-      "link": "https://technews.tw/2026/06/12/nvidia-promotes-vera-cpus-to-chinese-customers/",
-      "summary": "根據路透社引用消息人士的說法透露，輝達（Nvidia）正積極向中國客戶推銷其專為 AI 資料中心打造的全新 V [&#8230;]",
-      "date": "2026-06-12T08:15:43+00:00",
-      "sourceId": "technews",
-      "cats": [
-        "market",
-        "process",
-        "material"
-      ]
-    },
-    {
       "id": "073dbb96b2d6",
       "title": "Indian Firm Scales Single-Walled Carbon Nanotube Production for Batteries and Chips",
       "link": "https://www.eetimes.com/indian-firm-scales-single-walled-carbon-nanotube-production-for-batteries-and-chips/",
@@ -175,19 +149,6 @@
         "process",
         "material",
         "equipment"
-      ]
-    },
-    {
-      "id": "df9594a77a34",
-      "title": "屏東科學園區半導體供應鏈專區動土，盼帶動大南方科技產業",
-      "link": "https://technews.tw/2026/06/12/another-fire-reported-at-sk-hynixs-cheongju-plant-2/",
-      "summary": "根據國科會表示，晶圓代工龍頭台積電與其供應鏈包括帆宣系統、華懋科技、捨得企業、安葆國際、兆聯實業、和淞科技與矽 [&#8230;]",
-      "date": "2026-06-12T07:45:43+00:00",
-      "sourceId": "technews",
-      "cats": [
-        "market",
-        "process",
-        "material"
       ]
     },
     {
