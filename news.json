@@ -1,6 +1,6 @@
 {
-  "updated": "2026-06-14T22:21:17.834023+00:00",
-  "count": 15,
+  "updated": "2026-06-15T18:11:10.873836+00:00",
+  "count": 16,
   "sources": [
     {
       "id": "technews",
@@ -61,11 +61,24 @@
   ],
   "articles": [
     {
-      "id": "fd8c8a8dcd40",
-      "title": "Anthropic 被政府命令 90 分鐘內下架最新 AI 模型，背後到底發生什麼事？",
-      "link": "https://technews.tw/2026/06/14/trump-administration-only-gave-anthropic-90-minutes-to-de-deploy-its-new-ai-model/",
-      "summary": "在生成式 AI 發展的戰場上，一場突如其來的「國安危機」正引爆華府與矽谷的劇烈摩擦。 《AXIOS》引述 An [&#8230;]",
-      "date": "2026-06-14T03:38:03+00:00",
+      "id": "d7ae6b570293",
+      "title": "Andy McLean: Rapidus MoU Will Help British Innovators Access 2-nm Technology",
+      "link": "https://www.eetimes.com/andy-mclean-rapidus-mou-will-help-british-innovators-access-2-nm-technology/",
+      "summary": "As the UK Semiconductor Centre signs an MoU with Rapidus, EE Times speaks exclusively with its new CEO, Andy McLean. The post Andy McLean: Rapidus MoU Will Help British Innovators Access 2-nm Technology appeared first on EE Times.",
+      "date": "2026-06-15T13:10:12+00:00",
+      "sourceId": "eetimes",
+      "cats": [
+        "process",
+        "material",
+        "equipment"
+      ]
+    },
+    {
+      "id": "fe9e9c777ce3",
+      "title": "800V HVDC 架構興起，第三代半導體需求升溫",
+      "link": "https://technews.tw/2026/06/15/ai-data-center-800v-hvdc-third-semiconductor/",
+      "summary": "隨著 AI 資料中心規模持續擴大，產業競爭已不再只是 GPU 數量與算力高低，更逐漸演變成「每一度電能產生多少 [&#8230;]",
+      "date": "2026-06-15T08:28:23+00:00",
       "sourceId": "technews",
       "cats": [
         "market",
@@ -74,11 +87,24 @@
       ]
     },
     {
-      "id": "4123c5d0edd3",
-      "title": "蘋果晶片版 Mac 故障率只有英特爾版一半，散熱佳、低功耗但維修難度仍高",
-      "link": "https://technews.tw/2026/06/14/apple-silicon-cuts-mac-failures-in-half-says-refurb-firm/",
-      "summary": "英國維修商 Hoxton Macs 數據顯示，搭載 Apple Silicon 的 Mac 硬體穩定性明顯優於 [&#8230;]",
-      "date": "2026-06-14T02:30:37+00:00",
+      "id": "5499d65e5738",
+      "title": "Imec Pushes Quantum Toward Manufacturable Silicon Systems",
+      "link": "https://www.eetimes.com/imec-pushes-quantum-toward-manufacturable-silicon-systems/",
+      "summary": "Imec says advanced lithography and semiconductor integration techniques may help scale silicon spin qubits toward manufacturable quantum systems. The post Imec Pushes Quantum Toward Manufacturable Silicon Systems appeared first on EE Times.",
+      "date": "2026-06-15T08:13:05+00:00",
+      "sourceId": "eetimes",
+      "cats": [
+        "process",
+        "material",
+        "equipment"
+      ]
+    },
+    {
+      "id": "218681c743f6",
+      "title": "告別低毛利！匯鑽科以獨家「鍍鎳金銦」搶攻 AI 液冷與 CPO 光通訊領域",
+      "link": "https://finance.technews.tw/2026/06/15/nickel-gold/",
+      "summary": "面對全球 AI 與半導體技術的爆發式成長，表面處理大廠匯鑽科積極啟動跨國戰略布局，董事長花鐳哲表示，隨著美系消 [&#8230;]",
+      "date": "2026-06-15T07:42:33+00:00",
       "sourceId": "technews",
       "cats": [
         "market",
@@ -87,11 +113,11 @@
       ]
     },
     {
-      "id": "6c22538581d5",
-      "title": "AI 連手機密碼也能代理！Apple Intelligence 能自動更改不安全的密碼",
-      "link": "https://infosecu.technews.tw/2026/06/13/apple-intelligence-can-change-your-passwords-for-you-when-you-get-hacked/",
-      "summary": "能自主完成從目標設定到達標等完整流程的 AI 代理（AI Agent），正在襲捲、變革我們的日常生活與工作，如 [&#8230;]",
-      "date": "2026-06-13T06:30:51+00:00",
+      "id": "c5df546cccb8",
+      "title": "光互連成 AI Factory 擴張關鍵，2030 年 CPO / NPO 市場規模估破 390 億美元",
+      "link": "https://technews.tw/2026/06/15/optical-interconnects-crucial-ai-factory-expansion-cpo-npo-market-surpass-39-billion-2030/",
+      "summary": "根據 TrendForce 最新矽光子產業研究，隨著 AI 訓練與推論需求快速擴張，AI 資料中心正朝更高功耗 [&#8230;]",
+      "date": "2026-06-15T07:40:32+00:00",
       "sourceId": "technews",
       "cats": [
         "market",
@@ -100,24 +126,11 @@
       ]
     },
     {
-      "id": "9af5251da9a9",
-      "title": "華爾街對 AI 晶片股的殘酷校準，從博通重摔看市場新考題",
-      "link": "https://finance.technews.tw/2026/06/13/wall-street-harsh-recalibration-ai-chip-stocks-broadcom-plunge-reveals-new-market-challenges/",
-      "summary": "截至 6 月 4 日週四美東時間上午 10 點 15 分，晶片股普遍下跌。罪魁禍首是前一日博通的財報。博通開盤 [&#8230;]",
-      "date": "2026-06-13T02:00:01+00:00",
-      "sourceId": "technews",
-      "cats": [
-        "market",
-        "process",
-        "material"
-      ]
-    },
-    {
-      "id": "009f2588873f",
-      "title": "林恩平：哪來 4 萬人？大立光靠全自動化機台，9 月亮相 CPO 試產線",
-      "link": "https://technews.tw/2026/06/13/largan-fa-automated-production-line-to-be-completed-in-sep/",
-      "summary": "大立光 9 日舉行股東會，由董事長林恩平主持。針對外界傳出大立光為了搶攻共同封裝光學（CPO）新事業，恐需招募 [&#8230;]",
-      "date": "2026-06-13T01:00:40+00:00",
+      "id": "d5150e9af557",
+      "title": "專訪》從電源到發電，SOFC 開啟台達電氫能第一步",
+      "link": "https://technews.tw/2026/06/15/ai-power-new-product-sofc-delta/",
+      "summary": "AI 算力競賽正從晶片延伸到電力，如何快速取得穩定且相對低碳的電力，已成為科技產業新課題。台達電氫能源應用新事 [&#8230;]",
+      "date": "2026-06-15T06:00:55+00:00",
       "sourceId": "technews",
       "cats": [
         "market",
