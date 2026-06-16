@@ -1,6 +1,6 @@
 {
-  "updated": "2026-06-15T18:11:10.873836+00:00",
-  "count": 16,
+  "updated": "2026-06-16T15:29:22.653086+00:00",
+  "count": 18,
   "sources": [
     {
       "id": "technews",
@@ -61,6 +61,110 @@
   ],
   "articles": [
     {
+      "id": "21d416176df8",
+      "title": "AMD Snaps MEXT to Break the Memory Wall",
+      "link": "https://www.eetimes.com/amd-snaps-mext-to-break-the-memory-wall/",
+      "summary": "AMD acquires MEXT to slash AI memory costs and break the memory wall. The post AMD Snaps MEXT to Break the Memory Wall appeared first on EE Times.",
+      "date": "2026-06-16T13:50:23+00:00",
+      "sourceId": "eetimes",
+      "cats": [
+        "process",
+        "material",
+        "equipment"
+      ]
+    },
+    {
+      "id": "ee950df1ec24",
+      "title": "回顧 20 年攜手與兩次歷史性架構轉換，蘋果 Intel Mac 時代今年走到最終章",
+      "link": "https://technews.tw/2026/06/16/the-era-of-apple-and-intel-macs-is-coming-to-an-end-this-year/",
+      "summary": "隨著 2026 年秋季 macOS 27 的發布，蘋果 （Apple） 的 Intel Mac 時代即將正式畫 [&#8230;]",
+      "date": "2026-06-16T09:15:17+00:00",
+      "sourceId": "technews",
+      "cats": [
+        "market",
+        "process",
+        "material"
+      ]
+    },
+    {
+      "id": "3a650c03c217",
+      "title": "imec 攜手台積電和 ASML，推進 2D 材料電晶體開發",
+      "link": "https://technews.tw/2026/06/16/imec-tsmc-and-asml-advance-2d-transistor-development/",
+      "summary": "比利時微電子研究中心（imec）16 日宣布，與台積電和艾司摩爾（ASML）在 IEEE JSAP 超大規模積 [&#8230;]",
+      "date": "2026-06-16T08:50:16+00:00",
+      "sourceId": "technews",
+      "cats": [
+        "market",
+        "process",
+        "material"
+      ]
+    },
+    {
+      "id": "ef00420bd07d",
+      "title": "泰國拚 2050 自製晶片，藍夏禮：台泰合作潛力高",
+      "link": "https://technews.tw/2026/06/16/thailand-2050-chip-self-sufficiency-taiwan-thailand-cooperation-latchamon-thavorn/",
+      "summary": "泰國總理阿努廷宣布，將成立相關單位推動半導體和 AI 等產業，目標為 2050 年前實現「泰國製造」半導體。駐 [&#8230;]",
+      "date": "2026-06-16T08:40:11+00:00",
+      "sourceId": "technews",
+      "cats": [
+        "market",
+        "process",
+        "material"
+      ]
+    },
+    {
+      "id": "94992f27e408",
+      "title": "建碁攜手三星於美國推動 AI 智慧教室創新應用",
+      "link": "https://technews.tw/2026/06/16/aopen-samsung-edge-ai/",
+      "summary": "宏碁集團旗下建碁宣布其子公司 AOPEN America 與 Samsung Electronics Amer [&#8230;]",
+      "date": "2026-06-16T08:34:03+00:00",
+      "sourceId": "technews",
+      "cats": [
+        "market",
+        "process",
+        "material"
+      ]
+    },
+    {
+      "id": "52481277d6b9",
+      "title": "超過 40 款 AI 新裝置研發中，高通 CEO：AI 代理將大爆發，顛覆數位生活",
+      "link": "https://technews.tw/2026/06/16/qualcomm-working-on-40-new-ai-devices-to-power-agents/",
+      "summary": "高通（Qualcomm）執行長克里斯蒂亞諾·艾蒙（Cristiano Amon）在接受 CNBC 採訪時表示， [&#8230;]",
+      "date": "2026-06-16T07:30:46+00:00",
+      "sourceId": "technews",
+      "cats": [
+        "market",
+        "process",
+        "material"
+      ]
+    },
+    {
+      "id": "4a4ffd06b500",
+      "title": "SpaceX 超車，台積電 ADR 市值落居全球第七",
+      "link": "https://finance.technews.tw/2026/06/16/spacex-ranks-sixth-in-market-value-tsmc-seventh/",
+      "summary": "太空探索科技公司（SpaceX）15 日股價持續走高，達到 192.5 美元，上漲 31.55 美元，漲幅 1 [&#8230;]",
+      "date": "2026-06-16T06:45:38+00:00",
+      "sourceId": "technews",
+      "cats": [
+        "market",
+        "process",
+        "material"
+      ]
+    },
+    {
+      "id": "0d9f720d33c6",
+      "title": "上半年合約價漲幅皆破 100%，2H26 結構性缺貨帶動 NOR Flash、SLC NAND 價格持續上漲",
+      "link": "https://finance.technews.tw/2026/06/16/2h26-nor-flash-slc-nand/",
+      "summary": "TrendForce 最新記憶體產業研究，由於記憶體大廠產能規劃持續傾向 HBM、高層數 3D NAND 等高 [&#8230;]",
+      "date": "2026-06-16T06:23:28+00:00",
+      "sourceId": "technews",
+      "cats": [
+        "market",
+        "process",
+        "material"
+      ]
+    },
+    {
       "id": "d7ae6b570293",
       "title": "Andy McLean: Rapidus MoU Will Help British Innovators Access 2-nm Technology",
       "link": "https://www.eetimes.com/andy-mclean-rapidus-mou-will-help-british-innovators-access-2-nm-technology/",
@@ -71,19 +175,6 @@
         "process",
         "material",
         "equipment"
-      ]
-    },
-    {
-      "id": "fe9e9c777ce3",
-      "title": "800V HVDC 架構興起，第三代半導體需求升溫",
-      "link": "https://technews.tw/2026/06/15/ai-data-center-800v-hvdc-third-semiconductor/",
-      "summary": "隨著 AI 資料中心規模持續擴大，產業競爭已不再只是 GPU 數量與算力高低，更逐漸演變成「每一度電能產生多少 [&#8230;]",
-      "date": "2026-06-15T08:28:23+00:00",
-      "sourceId": "technews",
-      "cats": [
-        "market",
-        "process",
-        "material"
       ]
     },
     {
@@ -100,76 +191,11 @@
       ]
     },
     {
-      "id": "218681c743f6",
-      "title": "告別低毛利！匯鑽科以獨家「鍍鎳金銦」搶攻 AI 液冷與 CPO 光通訊領域",
-      "link": "https://finance.technews.tw/2026/06/15/nickel-gold/",
-      "summary": "面對全球 AI 與半導體技術的爆發式成長，表面處理大廠匯鑽科積極啟動跨國戰略布局，董事長花鐳哲表示，隨著美系消 [&#8230;]",
-      "date": "2026-06-15T07:42:33+00:00",
-      "sourceId": "technews",
-      "cats": [
-        "market",
-        "process",
-        "material"
-      ]
-    },
-    {
-      "id": "c5df546cccb8",
-      "title": "光互連成 AI Factory 擴張關鍵，2030 年 CPO / NPO 市場規模估破 390 億美元",
-      "link": "https://technews.tw/2026/06/15/optical-interconnects-crucial-ai-factory-expansion-cpo-npo-market-surpass-39-billion-2030/",
-      "summary": "根據 TrendForce 最新矽光子產業研究，隨著 AI 訓練與推論需求快速擴張，AI 資料中心正朝更高功耗 [&#8230;]",
-      "date": "2026-06-15T07:40:32+00:00",
-      "sourceId": "technews",
-      "cats": [
-        "market",
-        "process",
-        "material"
-      ]
-    },
-    {
-      "id": "d5150e9af557",
-      "title": "專訪》從電源到發電，SOFC 開啟台達電氫能第一步",
-      "link": "https://technews.tw/2026/06/15/ai-power-new-product-sofc-delta/",
-      "summary": "AI 算力競賽正從晶片延伸到電力，如何快速取得穩定且相對低碳的電力，已成為科技產業新課題。台達電氫能源應用新事 [&#8230;]",
-      "date": "2026-06-15T06:00:55+00:00",
-      "sourceId": "technews",
-      "cats": [
-        "market",
-        "process",
-        "material"
-      ]
-    },
-    {
       "id": "7b11a30c1629",
       "title": "UCLA’s $125M Semiconductor Hub: “We Want High Impact, Not Incremental Research”",
       "link": "https://www.eetimes.com/uclas-125m-semiconductor-hub-we-want-high-impact-not-incremental-research/",
       "summary": "UCLA launches a $125M semiconductor hub to smash chip bottlenecks with AI research. The post UCLA’s $125M Semiconductor Hub: “We Want High Impact, Not Incremental Research” appeared first on EE Times.",
       "date": "2026-06-12T19:00:00+00:00",
-      "sourceId": "eetimes",
-      "cats": [
-        "process",
-        "material",
-        "equipment"
-      ]
-    },
-    {
-      "id": "073dbb96b2d6",
-      "title": "Indian Firm Scales Single-Walled Carbon Nanotube Production for Batteries and Chips",
-      "link": "https://www.eetimes.com/indian-firm-scales-single-walled-carbon-nanotube-production-for-batteries-and-chips/",
-      "summary": "NoPo scales HiPco single-walled carbon nanotube output for sub-2-nm chips and anodes. The post Indian Firm Scales Single-Walled Carbon Nanotube Production for Batteries and Chips appeared first on EE Times.",
-      "date": "2026-06-12T08:04:16+00:00",
-      "sourceId": "eetimes",
-      "cats": [
-        "process",
-        "material",
-        "equipment"
-      ]
-    },
-    {
-      "id": "e19ef79b5404",
-      "title": "Rebellions Bets on Memory-Centric Architecture as It Weighs IPO Options",
-      "link": "https://www.eetimes.com/rebellions-bets-on-memory-centric-architecture-as-it-weighs-ipo-options/",
-      "summary": "Rebellions leverages memory-centric AI chip designs with SK Hynix and Samsung to fuel IPO ambitions. The post Rebellions Bets on Memory-Centric Architecture as It Weighs IPO Options appeared first on EE Times.",
-      "date": "2026-06-11T22:00:00+00:00",
       "sourceId": "eetimes",
       "cats": [
         "process",
