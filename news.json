@@ -1,6 +1,6 @@
 {
-  "updated": "2026-06-16T15:29:22.653086+00:00",
-  "count": 18,
+  "updated": "2026-06-16T22:57:03.920203+00:00",
+  "count": 17,
   "sources": [
     {
       "id": "technews",
@@ -183,19 +183,6 @@
       "link": "https://www.eetimes.com/imec-pushes-quantum-toward-manufacturable-silicon-systems/",
       "summary": "Imec says advanced lithography and semiconductor integration techniques may help scale silicon spin qubits toward manufacturable quantum systems. The post Imec Pushes Quantum Toward Manufacturable Silicon Systems appeared first on EE Times.",
       "date": "2026-06-15T08:13:05+00:00",
-      "sourceId": "eetimes",
-      "cats": [
-        "process",
-        "material",
-        "equipment"
-      ]
-    },
-    {
-      "id": "7b11a30c1629",
-      "title": "UCLA’s $125M Semiconductor Hub: “We Want High Impact, Not Incremental Research”",
-      "link": "https://www.eetimes.com/uclas-125m-semiconductor-hub-we-want-high-impact-not-incremental-research/",
-      "summary": "UCLA launches a $125M semiconductor hub to smash chip bottlenecks with AI research. The post UCLA’s $125M Semiconductor Hub: “We Want High Impact, Not Incremental Research” appeared first on EE Times.",
-      "date": "2026-06-12T19:00:00+00:00",
       "sourceId": "eetimes",
       "cats": [
         "process",
