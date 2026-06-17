@@ -1,6 +1,6 @@
 {
-  "updated": "2026-06-16T22:57:03.920203+00:00",
-  "count": 17,
+  "updated": "2026-06-17T13:03:16.826501+00:00",
+  "count": 18,
   "sources": [
     {
       "id": "technews",
@@ -61,128 +61,141 @@
   ],
   "articles": [
     {
+      "id": "b7d256b1a194",
+      "title": "Built-In Memory. Built-In Confidence.",
+      "link": "https://www.eetimes.com/built-in-memory-built-in-confidence/",
+      "summary": "Memory shortages put edge AI at risk. NVIDIA Jetson™ integrates validated LPDDR5 DRAM on-module—giving teams a faster, confident path to production. The post Built-In Memory. Built-In Confidence. appeared first on EE Times.",
+      "date": "2026-06-17T13:00:00+00:00",
+      "sourceId": "eetimes",
+      "cats": [
+        "process",
+        "material",
+        "equipment"
+      ]
+    },
+    {
+      "id": "09062369f409",
+      "title": "Beyond Chiplets, CMOS 2.0 Moves Scaling into the Circuit",
+      "link": "https://www.eetimes.com/beyond-chiplets-cmos-2-0-moves-scaling-into-the-circuit/",
+      "summary": "Imec’s Zsolt Tokei and Arm’s Mohamed Awad explain why CMOS 2.0 could redefine semiconductor scaling beyond chiplets. The post Beyond Chiplets, CMOS 2.0 Moves Scaling into the Circuit appeared first on EE Times.",
+      "date": "2026-06-17T12:47:44+00:00",
+      "sourceId": "eetimes",
+      "cats": [
+        "process",
+        "material",
+        "equipment"
+      ]
+    },
+    {
+      "id": "f8ab027cffca",
+      "title": "台積電蟬聯營所稅繳稅王，貢獻國庫近 2 千億元",
+      "link": "https://finance.technews.tw/2026/06/17/tsmc-is-king-of-business-income-tax/",
+      "summary": "報稅季落幕，據財政部營所稅結算申報概況，北區國稅局轄內企業結算申報自繳稅額逾新台幣 3,685.9 億元，續居 [&#8230;]",
+      "date": "2026-06-17T10:10:37+00:00",
+      "sourceId": "technews",
+      "cats": [
+        "market",
+        "process",
+        "material"
+      ]
+    },
+    {
+      "id": "e9ca2aafef99",
+      "title": "台股下半年衝 5 萬 3！群益投顧：台積電 2 奈米量產擁有強大訂價權",
+      "link": "https://finance.technews.tw/2026/06/17/greensban/",
+      "summary": "群益金融集團今日舉辦「2026 年第三季投資展望說明會」，群益投顧總經理范振鴻表示，台積電營運處於巔峰，下半年 [&#8230;]",
+      "date": "2026-06-17T08:38:40+00:00",
+      "sourceId": "technews",
+      "cats": [
+        "market",
+        "process",
+        "material"
+      ]
+    },
+    {
+      "id": "27989453962d",
+      "title": "全球最小 CFET 架構！三星首次實現 42 奈米 3D 堆疊電晶體技術",
+      "link": "https://technews.tw/2026/06/17/samsung-3d-stacked-fet/",
+      "summary": "根據韓媒 Business Korea 報導，三星今（17 日）宣布，其半導體研發中心研究人員首次在全球實現閘 [&#8230;]",
+      "date": "2026-06-17T07:38:42+00:00",
+      "sourceId": "technews",
+      "cats": [
+        "market",
+        "process",
+        "material"
+      ]
+    },
+    {
+      "id": "41771bc0253d",
+      "title": "晶片股高處不勝寒？8 成基金經理人：最擁擠交易",
+      "link": "https://finance.technews.tw/2026/06/17/chip-stocks-overheated-80-fund-managers-most-crowded-trade/",
+      "summary": "隨著市場掀起 AI 晶片股投資熱潮，費城半導體指數今年已暴衝超過 87%。然而，經理人開始發出警告，直指晶片股 [&#8230;]",
+      "date": "2026-06-17T07:30:52+00:00",
+      "sourceId": "technews",
+      "cats": [
+        "market",
+        "process",
+        "material"
+      ]
+    },
+    {
+      "id": "5cc92a06bde0",
+      "title": "台積電加速布局 CoPoS，台灣面板廠及相關材料、設備商藉 FOPLP 卡位玻璃基板先機",
+      "link": "https://technews.tw/2026/06/17/tsmc-copos-foplp-glass-core-substrate/",
+      "summary": "AI 半導體需求爆發驅動先進封裝快速演進，面板級封裝（FOPLP）成各方角力的新戰場。TrendForce 分 [&#8230;]",
+      "date": "2026-06-17T07:00:17+00:00",
+      "sourceId": "technews",
+      "cats": [
+        "market",
+        "process",
+        "material"
+      ]
+    },
+    {
+      "id": "dd6eeb672994",
+      "title": "AI 晶片輸中管制加嚴，經長：已著手修法會盡快處理",
+      "link": "https://technews.tw/2026/06/17/ai-chip-controls-china-tightened-economic-minister-amendments-underway-promptly/",
+      "summary": "美超微疑涉非法轉移輝達人工智慧（AI）晶片至中國，立委呼籲台灣應該加嚴管制 AI 晶片輸中。經濟部長龔明鑫今天 [&#8230;]",
+      "date": "2026-06-17T06:20:01+00:00",
+      "sourceId": "technews",
+      "cats": [
+        "market",
+        "process",
+        "material"
+      ]
+    },
+    {
+      "id": "81ed6e6a440d",
+      "title": "台積產能太缺  日經：三星良率遜但 Google 考慮下單",
+      "link": "https://technews.tw/2026/06/17/samsung-sees-rising-chip-production-requests-from-byd-google-amd/",
+      "summary": "市場謠傳，由於台積電的先進製程產能太過吃緊，比亞迪（BYD）、Google、超微（AMD）、特斯拉（Tesla [&#8230;]",
+      "date": "2026-06-17T06:00:52+00:00",
+      "sourceId": "technews",
+      "cats": [
+        "market",
+        "process",
+        "material"
+      ]
+    },
+    {
+      "id": "c7d8f0f9465d",
+      "title": "Supermicro 憑藉 AMD Helios 平台，擴展其機架級 AI 領導優勢，加速部署及營運效率",
+      "link": "https://technews.tw/2026/06/17/supermicro-computex-2026-new-amd-helios/",
+      "summary": "Super Micro Computer 作為專注於數據中心模組化方案（DCBBS）的人工智慧（AI）、企業、 [&#8230;]",
+      "date": "2026-06-17T06:00:46+00:00",
+      "sourceId": "technews",
+      "cats": [
+        "market",
+        "process",
+        "material"
+      ]
+    },
+    {
       "id": "21d416176df8",
       "title": "AMD Snaps MEXT to Break the Memory Wall",
       "link": "https://www.eetimes.com/amd-snaps-mext-to-break-the-memory-wall/",
       "summary": "AMD acquires MEXT to slash AI memory costs and break the memory wall. The post AMD Snaps MEXT to Break the Memory Wall appeared first on EE Times.",
       "date": "2026-06-16T13:50:23+00:00",
-      "sourceId": "eetimes",
-      "cats": [
-        "process",
-        "material",
-        "equipment"
-      ]
-    },
-    {
-      "id": "ee950df1ec24",
-      "title": "回顧 20 年攜手與兩次歷史性架構轉換，蘋果 Intel Mac 時代今年走到最終章",
-      "link": "https://technews.tw/2026/06/16/the-era-of-apple-and-intel-macs-is-coming-to-an-end-this-year/",
-      "summary": "隨著 2026 年秋季 macOS 27 的發布，蘋果 （Apple） 的 Intel Mac 時代即將正式畫 [&#8230;]",
-      "date": "2026-06-16T09:15:17+00:00",
-      "sourceId": "technews",
-      "cats": [
-        "market",
-        "process",
-        "material"
-      ]
-    },
-    {
-      "id": "3a650c03c217",
-      "title": "imec 攜手台積電和 ASML，推進 2D 材料電晶體開發",
-      "link": "https://technews.tw/2026/06/16/imec-tsmc-and-asml-advance-2d-transistor-development/",
-      "summary": "比利時微電子研究中心（imec）16 日宣布，與台積電和艾司摩爾（ASML）在 IEEE JSAP 超大規模積 [&#8230;]",
-      "date": "2026-06-16T08:50:16+00:00",
-      "sourceId": "technews",
-      "cats": [
-        "market",
-        "process",
-        "material"
-      ]
-    },
-    {
-      "id": "ef00420bd07d",
-      "title": "泰國拚 2050 自製晶片，藍夏禮：台泰合作潛力高",
-      "link": "https://technews.tw/2026/06/16/thailand-2050-chip-self-sufficiency-taiwan-thailand-cooperation-latchamon-thavorn/",
-      "summary": "泰國總理阿努廷宣布，將成立相關單位推動半導體和 AI 等產業，目標為 2050 年前實現「泰國製造」半導體。駐 [&#8230;]",
-      "date": "2026-06-16T08:40:11+00:00",
-      "sourceId": "technews",
-      "cats": [
-        "market",
-        "process",
-        "material"
-      ]
-    },
-    {
-      "id": "94992f27e408",
-      "title": "建碁攜手三星於美國推動 AI 智慧教室創新應用",
-      "link": "https://technews.tw/2026/06/16/aopen-samsung-edge-ai/",
-      "summary": "宏碁集團旗下建碁宣布其子公司 AOPEN America 與 Samsung Electronics Amer [&#8230;]",
-      "date": "2026-06-16T08:34:03+00:00",
-      "sourceId": "technews",
-      "cats": [
-        "market",
-        "process",
-        "material"
-      ]
-    },
-    {
-      "id": "52481277d6b9",
-      "title": "超過 40 款 AI 新裝置研發中，高通 CEO：AI 代理將大爆發，顛覆數位生活",
-      "link": "https://technews.tw/2026/06/16/qualcomm-working-on-40-new-ai-devices-to-power-agents/",
-      "summary": "高通（Qualcomm）執行長克里斯蒂亞諾·艾蒙（Cristiano Amon）在接受 CNBC 採訪時表示， [&#8230;]",
-      "date": "2026-06-16T07:30:46+00:00",
-      "sourceId": "technews",
-      "cats": [
-        "market",
-        "process",
-        "material"
-      ]
-    },
-    {
-      "id": "4a4ffd06b500",
-      "title": "SpaceX 超車，台積電 ADR 市值落居全球第七",
-      "link": "https://finance.technews.tw/2026/06/16/spacex-ranks-sixth-in-market-value-tsmc-seventh/",
-      "summary": "太空探索科技公司（SpaceX）15 日股價持續走高，達到 192.5 美元，上漲 31.55 美元，漲幅 1 [&#8230;]",
-      "date": "2026-06-16T06:45:38+00:00",
-      "sourceId": "technews",
-      "cats": [
-        "market",
-        "process",
-        "material"
-      ]
-    },
-    {
-      "id": "0d9f720d33c6",
-      "title": "上半年合約價漲幅皆破 100%，2H26 結構性缺貨帶動 NOR Flash、SLC NAND 價格持續上漲",
-      "link": "https://finance.technews.tw/2026/06/16/2h26-nor-flash-slc-nand/",
-      "summary": "TrendForce 最新記憶體產業研究，由於記憶體大廠產能規劃持續傾向 HBM、高層數 3D NAND 等高 [&#8230;]",
-      "date": "2026-06-16T06:23:28+00:00",
-      "sourceId": "technews",
-      "cats": [
-        "market",
-        "process",
-        "material"
-      ]
-    },
-    {
-      "id": "d7ae6b570293",
-      "title": "Andy McLean: Rapidus MoU Will Help British Innovators Access 2-nm Technology",
-      "link": "https://www.eetimes.com/andy-mclean-rapidus-mou-will-help-british-innovators-access-2-nm-technology/",
-      "summary": "As the UK Semiconductor Centre signs an MoU with Rapidus, EE Times speaks exclusively with its new CEO, Andy McLean. The post Andy McLean: Rapidus MoU Will Help British Innovators Access 2-nm Technology appeared first on EE Times.",
-      "date": "2026-06-15T13:10:12+00:00",
-      "sourceId": "eetimes",
-      "cats": [
-        "process",
-        "material",
-        "equipment"
-      ]
-    },
-    {
-      "id": "5499d65e5738",
-      "title": "Imec Pushes Quantum Toward Manufacturable Silicon Systems",
-      "link": "https://www.eetimes.com/imec-pushes-quantum-toward-manufacturable-silicon-systems/",
-      "summary": "Imec says advanced lithography and semiconductor integration techniques may help scale silicon spin qubits toward manufacturable quantum systems. The post Imec Pushes Quantum Toward Manufacturable Silicon Systems appeared first on EE Times.",
-      "date": "2026-06-15T08:13:05+00:00",
       "sourceId": "eetimes",
       "cats": [
         "process",
