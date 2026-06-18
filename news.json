@@ -1,6 +1,6 @@
 {
-  "updated": "2026-06-18T12:00:39.268320+00:00",
-  "count": 21,
+  "updated": "2026-06-18T21:35:14.548132+00:00",
+  "count": 22,
   "sources": [
     {
       "id": "technews",
@@ -60,6 +60,19 @@
     }
   ],
   "articles": [
+    {
+      "id": "04b1f0456a68",
+      "title": "Intelligent Power Solutions for Next-Gen Robotics Compute Platforms",
+      "link": "https://www.eetimes.com/intelligent-power-solutions-for-next-gen-robotics-compute-platforms/",
+      "summary": "Date: Tuesday, July 21, 2026 Time: 9:00am PDT &#124; 12:00pm EDT Not your time zone? Please join us on Tuesday, July 28th @ 15:00 CEST Register Here! Rapid advances in humanoid robotics are being driven by breakthroughs in compute power. As AI workloads continue to scale, most of the elements that p",
+      "date": "2026-06-18T13:07:18+00:00",
+      "sourceId": "eetimes",
+      "cats": [
+        "process",
+        "material",
+        "equipment"
+      ]
+    },
     {
       "id": "424e34aa65ac",
       "title": "川普證實蘋果下單英特爾代工晶片，陸行之指關鍵在執行力與產能否跟上",
