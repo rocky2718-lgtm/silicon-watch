@@ -1,6 +1,6 @@
 {
-  "updated": "2026-06-17T21:31:12.160585+00:00",
-  "count": 18,
+  "updated": "2026-06-18T12:00:39.268320+00:00",
+  "count": 21,
   "sources": [
     {
       "id": "technews",
@@ -61,6 +61,162 @@
   ],
   "articles": [
     {
+      "id": "424e34aa65ac",
+      "title": "川普證實蘋果下單英特爾代工晶片，陸行之指關鍵在執行力與產能否跟上",
+      "link": "https://technews.tw/2026/06/18/trump-confirms-apple-has-placed-an-order-with-intel-to-manufacture-chips/",
+      "summary": "針對美國總統川普近日在社群媒體上透露，蘋果公司（Apple）將向英特爾（Intel）下單代工晶片，此消息激勵英 [&#8230;]",
+      "date": "2026-06-18T10:30:44+00:00",
+      "sourceId": "technews",
+      "cats": [
+        "market",
+        "process",
+        "material"
+      ]
+    },
+    {
+      "id": "98dca6f11721",
+      "title": "汎銓指光損定位成矽光子、CPO 良率關鍵，籲請同業尊重智慧財產權",
+      "link": "https://finance.technews.tw/2026/06/18/panquan-refers-to-the-key-to-optical-loss-localization-in-silicon-photonics-and-cpo-yield/",
+      "summary": "先進製程材料分析與矽光子檢測服務廠汎銓科技18日針對同業公開說明將積極布局矽光子檢測市場，並有市場消息指出此同 [&#8230;]",
+      "date": "2026-06-18T10:15:28+00:00",
+      "sourceId": "technews",
+      "cats": [
+        "market",
+        "process",
+        "material"
+      ]
+    },
+    {
+      "id": "cea0a433688c",
+      "title": "中俄藉資料中心規避制裁，芬蘭情報局示警國安漏洞",
+      "link": "https://finance.technews.tw/2026/06/18/finnish-intelligence-agency-warns-national-security-vulnerabilities-china-russia-data-centers-evade-sanctions/",
+      "summary": "芬蘭安全情報局（Supo）警告，俄羅斯與中國可能透過在芬蘭設立資料中心，繞過管制使用先進晶片算力；芬蘭現行法規 [&#8230;]",
+      "date": "2026-06-18T10:10:11+00:00",
+      "sourceId": "technews",
+      "cats": [
+        "market",
+        "process",
+        "material"
+      ]
+    },
+    {
+      "id": "286f4cc58621",
+      "title": "經部估 AIDC 帶動用電，十年內電力需求年增 2.5%",
+      "link": "https://technews.tw/2026/06/18/moea-estimates-ai-idc-drive-2-5-annual-power-demand-increase-ten-years/",
+      "summary": "經濟部今天公布最新全國電力資源供需報告，半導體產業擴廠、人工智慧資料中心（AIDC）用電、氣溫影響等因素下，十 [&#8230;]",
+      "date": "2026-06-18T10:00:47+00:00",
+      "sourceId": "technews",
+      "cats": [
+        "market",
+        "process",
+        "material"
+      ]
+    },
+    {
+      "id": "6dfa55ab9909",
+      "title": "威盛股東會陳文琦釋展望，佈局 AI 與光通訊搶攻先進製程與矽光子商機",
+      "link": "https://finance.technews.tw/2026/06/18/via-technologies-is-expanding-its-ai-and-optical-communications-business/",
+      "summary": "威盛電子18日召開115年股東常會，並且公布2026年1至5月累計合併營收達新台幣43.59億元，較2025年 [&#8230;]",
+      "date": "2026-06-18T10:00:34+00:00",
+      "sourceId": "technews",
+      "cats": [
+        "market",
+        "process",
+        "material"
+      ]
+    },
+    {
+      "id": "473d262cd400",
+      "title": "搶攻 CPO 市場，IET-KY 布局 InP、QD 雷射磊晶商機",
+      "link": "https://technews.tw/2026/06/18/iet-cpo-inp-els-qd-laser/",
+      "summary": "隨著未來 AI 基礎設施將逐步從電訊號互連走向光訊號互連，近期網路掀起有關台積電、英特爾先進封裝路線與技術的論 [&#8230;]",
+      "date": "2026-06-18T09:56:41+00:00",
+      "sourceId": "technews",
+      "cats": [
+        "market",
+        "process",
+        "material"
+      ]
+    },
+    {
+      "id": "29bdb2727e56",
+      "title": "市場消息指 Google 為了下代 TPU，將採購中國長鑫存儲記憶體產品",
+      "link": "https://technews.tw/2026/06/18/google-will-source-memory-from-chinas-changxin-memory-for-its-next-generation-tpus/",
+      "summary": "近期，記憶體市場的短缺情況日益嚴重，甚至已在業界引發一定程度的焦慮情緒。在這樣的背景下，市場傳出震撼消息，就是 [&#8230;]",
+      "date": "2026-06-18T09:40:21+00:00",
+      "sourceId": "technews",
+      "cats": [
+        "market",
+        "process",
+        "material"
+      ]
+    },
+    {
+      "id": "e8f838ebc7b6",
+      "title": "台積電結合台日供應鏈發表玻璃基板封裝成果，給韓國對手強大威脅",
+      "link": "https://technews.tw/2026/06/18/tsmc-in-collaboration-with-its-taiwanese-and-japanese-supply-chains-announced-its-glass-substrate-packaging-verification-results/",
+      "summary": "晶圓代工龍頭台積電近日公開以台灣與日本為中心的生態系所開發的「玻璃基板」半導體封裝商業化驗證成果。這項技術突破 [&#8230;]",
+      "date": "2026-06-18T09:30:15+00:00",
+      "sourceId": "technews",
+      "cats": [
+        "market",
+        "process",
+        "material"
+      ]
+    },
+    {
+      "id": "aed7d6becf01",
+      "title": "SK 海力士徵才取消「大學畢業」限制，能力與潛力成評估標準",
+      "link": "https://technews.tw/2026/06/18/sk-hynix-removes-degree-requirements-for-new-hire-recruitment/",
+      "summary": "韓國記憶體大廠 SK 海力士（SK hynix）6 月 17 日宣布，將在新進與經驗職位的常態招募中全面取消學 [&#8230;]",
+      "date": "2026-06-18T08:20:29+00:00",
+      "sourceId": "technews",
+      "cats": [
+        "market",
+        "process",
+        "material"
+      ]
+    },
+    {
+      "id": "1dfce9b5f483",
+      "title": "川普：蘋果同意與英特爾合作，美國設計生產晶片",
+      "link": "https://technews.tw/2026/06/18/apple-and-intel-to-design-and-manufacture-chips-in-the-us/",
+      "summary": "美國總統川普（Donald Trump）18 日在真實社群（Truth Social）上表示，蘋果公司（App [&#8230;]",
+      "date": "2026-06-18T08:10:48+00:00",
+      "sourceId": "technews",
+      "cats": [
+        "market",
+        "process",
+        "material"
+      ]
+    },
+    {
+      "id": "8c4d1596d441",
+      "title": "Can Catalonia’s Distributed Semiconductor Network Deliver?",
+      "link": "https://www.eetimes.com/can-catalonia-deliver-on-its-distributed-semiconductor-network/",
+      "summary": "Catalonia is unifying its fragmented tech ecosystem into a coordinated semiconductor cluster spanning photonics, packaging, AI, and chip research. The post Can Catalonia’s Distributed Semiconductor Network Deliver? appeared first on EE Times.",
+      "date": "2026-06-18T07:15:00+00:00",
+      "sourceId": "eetimes",
+      "cats": [
+        "process",
+        "material",
+        "equipment"
+      ]
+    },
+    {
+      "id": "b1ce43e178a3",
+      "title": "Paradromics 完成首例 Connexus 晶片植入手術，助失語患者重新與外界溝通",
+      "link": "https://technews.tw/2026/06/18/university-of-michigan-implants-first-in-human-paradromics-wireless-brain-computer-interface-designed-to-restore-communication/",
+      "summary": "總部位於奧斯汀的腦機介面新創 Paradromics 17 日宣布，完成首次植入 Connexus 晶片手術， [&#8230;]",
+      "date": "2026-06-18T07:10:56+00:00",
+      "sourceId": "technews",
+      "cats": [
+        "market",
+        "process",
+        "material"
+      ]
+    },
+    {
       "id": "b7d256b1a194",
       "title": "Built-In Memory. Built-In Confidence.",
       "link": "https://www.eetimes.com/built-in-memory-built-in-confidence/",
@@ -79,123 +235,6 @@
       "link": "https://www.eetimes.com/beyond-chiplets-cmos-2-0-moves-scaling-into-the-circuit/",
       "summary": "Imec’s Zsolt Tokei and Arm’s Mohamed Awad explain why CMOS 2.0 could redefine semiconductor scaling beyond chiplets. The post Beyond Chiplets, CMOS 2.0 Moves Scaling into the Circuit appeared first on EE Times.",
       "date": "2026-06-17T12:47:44+00:00",
-      "sourceId": "eetimes",
-      "cats": [
-        "process",
-        "material",
-        "equipment"
-      ]
-    },
-    {
-      "id": "f8ab027cffca",
-      "title": "台積電蟬聯營所稅繳稅王，貢獻國庫近 2 千億元",
-      "link": "https://finance.technews.tw/2026/06/17/tsmc-is-king-of-business-income-tax/",
-      "summary": "報稅季落幕，據財政部營所稅結算申報概況，北區國稅局轄內企業結算申報自繳稅額逾新台幣 3,685.9 億元，續居 [&#8230;]",
-      "date": "2026-06-17T10:10:37+00:00",
-      "sourceId": "technews",
-      "cats": [
-        "market",
-        "process",
-        "material"
-      ]
-    },
-    {
-      "id": "e9ca2aafef99",
-      "title": "台股下半年衝 5 萬 3！群益投顧：台積電 2 奈米量產擁有強大訂價權",
-      "link": "https://finance.technews.tw/2026/06/17/greensban/",
-      "summary": "群益金融集團今日舉辦「2026 年第三季投資展望說明會」，群益投顧總經理范振鴻表示，台積電營運處於巔峰，下半年 [&#8230;]",
-      "date": "2026-06-17T08:38:40+00:00",
-      "sourceId": "technews",
-      "cats": [
-        "market",
-        "process",
-        "material"
-      ]
-    },
-    {
-      "id": "27989453962d",
-      "title": "全球最小 CFET 架構！三星首次實現 42 奈米 3D 堆疊電晶體技術",
-      "link": "https://technews.tw/2026/06/17/samsung-3d-stacked-fet/",
-      "summary": "根據韓媒 Business Korea 報導，三星今（17 日）宣布，其半導體研發中心研究人員首次在全球實現閘 [&#8230;]",
-      "date": "2026-06-17T07:38:42+00:00",
-      "sourceId": "technews",
-      "cats": [
-        "market",
-        "process",
-        "material"
-      ]
-    },
-    {
-      "id": "41771bc0253d",
-      "title": "晶片股高處不勝寒？8 成基金經理人：最擁擠交易",
-      "link": "https://finance.technews.tw/2026/06/17/chip-stocks-overheated-80-fund-managers-most-crowded-trade/",
-      "summary": "隨著市場掀起 AI 晶片股投資熱潮，費城半導體指數今年已暴衝超過 87%。然而，經理人開始發出警告，直指晶片股 [&#8230;]",
-      "date": "2026-06-17T07:30:52+00:00",
-      "sourceId": "technews",
-      "cats": [
-        "market",
-        "process",
-        "material"
-      ]
-    },
-    {
-      "id": "5cc92a06bde0",
-      "title": "台積電加速布局 CoPoS，台灣面板廠及相關材料、設備商藉 FOPLP 卡位玻璃基板先機",
-      "link": "https://technews.tw/2026/06/17/tsmc-copos-foplp-glass-core-substrate/",
-      "summary": "AI 半導體需求爆發驅動先進封裝快速演進，面板級封裝（FOPLP）成各方角力的新戰場。TrendForce 分 [&#8230;]",
-      "date": "2026-06-17T07:00:17+00:00",
-      "sourceId": "technews",
-      "cats": [
-        "market",
-        "process",
-        "material"
-      ]
-    },
-    {
-      "id": "dd6eeb672994",
-      "title": "AI 晶片輸中管制加嚴，經長：已著手修法會盡快處理",
-      "link": "https://technews.tw/2026/06/17/ai-chip-controls-china-tightened-economic-minister-amendments-underway-promptly/",
-      "summary": "美超微疑涉非法轉移輝達人工智慧（AI）晶片至中國，立委呼籲台灣應該加嚴管制 AI 晶片輸中。經濟部長龔明鑫今天 [&#8230;]",
-      "date": "2026-06-17T06:20:01+00:00",
-      "sourceId": "technews",
-      "cats": [
-        "market",
-        "process",
-        "material"
-      ]
-    },
-    {
-      "id": "81ed6e6a440d",
-      "title": "台積產能太缺  日經：三星良率遜但 Google 考慮下單",
-      "link": "https://technews.tw/2026/06/17/samsung-sees-rising-chip-production-requests-from-byd-google-amd/",
-      "summary": "市場謠傳，由於台積電的先進製程產能太過吃緊，比亞迪（BYD）、Google、超微（AMD）、特斯拉（Tesla [&#8230;]",
-      "date": "2026-06-17T06:00:52+00:00",
-      "sourceId": "technews",
-      "cats": [
-        "market",
-        "process",
-        "material"
-      ]
-    },
-    {
-      "id": "c7d8f0f9465d",
-      "title": "Supermicro 憑藉 AMD Helios 平台，擴展其機架級 AI 領導優勢，加速部署及營運效率",
-      "link": "https://technews.tw/2026/06/17/supermicro-computex-2026-new-amd-helios/",
-      "summary": "Super Micro Computer 作為專注於數據中心模組化方案（DCBBS）的人工智慧（AI）、企業、 [&#8230;]",
-      "date": "2026-06-17T06:00:46+00:00",
-      "sourceId": "technews",
-      "cats": [
-        "market",
-        "process",
-        "material"
-      ]
-    },
-    {
-      "id": "21d416176df8",
-      "title": "AMD Snaps MEXT to Break the Memory Wall",
-      "link": "https://www.eetimes.com/amd-snaps-mext-to-break-the-memory-wall/",
-      "summary": "AMD acquires MEXT to slash AI memory costs and break the memory wall. The post AMD Snaps MEXT to Break the Memory Wall appeared first on EE Times.",
-      "date": "2026-06-16T13:50:23+00:00",
       "sourceId": "eetimes",
       "cats": [
         "process",
