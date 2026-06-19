@@ -1,6 +1,6 @@
 {
-  "updated": "2026-06-18T21:35:14.548132+00:00",
-  "count": 22,
+  "updated": "2026-06-19T12:37:38.048685+00:00",
+  "count": 24,
   "sources": [
     {
       "id": "technews",
@@ -60,6 +60,110 @@
     }
   ],
   "articles": [
+    {
+      "id": "1626efebf430",
+      "title": "Amazon’s Newest Gambit: Selling AI Chips",
+      "link": "https://www.eetimes.com/amazon-newest-gambit-selling-ai-chips/",
+      "summary": "The world’s largest hyperscaler wants to seize the semiconductor moment by selling AI accelerators at scale. The post Amazon’s Newest Gambit: Selling AI Chips appeared first on EE Times.",
+      "date": "2026-06-19T12:19:36+00:00",
+      "sourceId": "eetimes",
+      "cats": [
+        "process",
+        "material",
+        "equipment"
+      ]
+    },
+    {
+      "id": "52dacfb41f1d",
+      "title": "中方手上真的有 EUV？美方緊盯 ASML，半導體設備戰升溫",
+      "link": "https://technews.tw/2026/06/19/china-euv-us-asml/",
+      "summary": "美中半導體戰再度燒向全球最關鍵設備商 ASML。據《彭博社》報導，美國商務部長盧特尼克近期在一連串會議中，向荷 [&#8230;]",
+      "date": "2026-06-19T09:18:44+00:00",
+      "sourceId": "technews",
+      "cats": [
+        "market",
+        "process",
+        "material"
+      ]
+    },
+    {
+      "id": "f17375c23e25",
+      "title": "All Semiconductor Roads Lead to Taiwan",
+      "link": "https://www.eetimes.com/all-semiconductor-roads-lead-to-taiwan/",
+      "summary": "Small in size but outsized in influence, Taiwan has become a linchpin of the global semiconductor supply chain. The post All Semiconductor Roads Lead to Taiwan appeared first on EE Times.",
+      "date": "2026-06-19T07:45:00+00:00",
+      "sourceId": "eetimes",
+      "cats": [
+        "process",
+        "material",
+        "equipment"
+      ]
+    },
+    {
+      "id": "98930bf31465",
+      "title": "川普一句話讓英特爾股價飆 10%，再點名台灣偷走晶片工廠",
+      "link": "https://finance.technews.tw/2026/06/19/trump-intel/",
+      "summary": "美國總統川普再度把半導體供應鏈搬上政治舞台。據《CNBC》報導，川普週四在 Truth Social 發文表示 [&#8230;]",
+      "date": "2026-06-19T03:47:01+00:00",
+      "sourceId": "technews",
+      "cats": [
+        "market",
+        "process",
+        "material"
+      ]
+    },
+    {
+      "id": "b2aee73b975b",
+      "title": "AMD 重申 FP64 不退位，混合精準度成 HPC 未來核心策略",
+      "link": "https://technews.tw/2026/06/19/covering-the-fastest-computers-in-the-world-and-the-people-who-run-them-4/",
+      "summary": "高效能運算（HPC）精準度路線立場再次確定。外界近期熱議「FP8 搭配 Ozaki 模擬是否足以取代 FP64 [&#8230;]",
+      "date": "2026-06-19T02:30:01+00:00",
+      "sourceId": "technews",
+      "cats": [
+        "market",
+        "process",
+        "material"
+      ]
+    },
+    {
+      "id": "ca30b7d8de75",
+      "title": "調研：Q126 全球智慧手錶出貨量年增 4%",
+      "link": "https://technews.tw/2026/06/19/q126-global-smartwatch/",
+      "summary": "隨著記憶體價格不斷上漲，包括智慧型手機在內的消費性電子產品受到不小的衝擊；然而像是智慧手錶這一類相對較低物料成 [&#8230;]",
+      "date": "2026-06-19T01:26:51+00:00",
+      "sourceId": "technews",
+      "cats": [
+        "market",
+        "process",
+        "material"
+      ]
+    },
+    {
+      "id": "1e17b6c2de82",
+      "title": "不能只靠台積電！川普稱蘋果將與英特爾合作、在美設計與生產晶片",
+      "link": "https://technews.tw/2026/06/19/trump-apple-intel/",
+      "summary": "美國總統川普週四在自家社群平台 Truth Social 發文指稱，蘋果已同意與英特爾合作，在美國設計並製造晶 [&#8230;]",
+      "date": "2026-06-19T01:11:57+00:00",
+      "sourceId": "technews",
+      "cats": [
+        "market",
+        "process",
+        "material"
+      ]
+    },
+    {
+      "id": "e77d5ae926b8",
+      "title": "英特爾任命李錫熙掌舵先進封裝，強化晶圓代工系統級整合",
+      "link": "https://technews.tw/2026/06/19/intel-si-hee-lee-leads-advanced-packaging-strengthens-foundry-system-integration/",
+      "summary": "英特爾宣布調整代工業務高層布局，延攬前 SK hynix 與 SK On 執行長李錫熙（Seok-Hee Le [&#8230;]",
+      "date": "2026-06-19T00:56:52+00:00",
+      "sourceId": "technews",
+      "cats": [
+        "market",
+        "process",
+        "material"
+      ]
+    },
     {
       "id": "04b1f0456a68",
       "title": "Intelligent Power Solutions for Next-Gen Robotics Compute Platforms",
@@ -165,89 +269,11 @@
       ]
     },
     {
-      "id": "e8f838ebc7b6",
-      "title": "台積電結合台日供應鏈發表玻璃基板封裝成果，給韓國對手強大威脅",
-      "link": "https://technews.tw/2026/06/18/tsmc-in-collaboration-with-its-taiwanese-and-japanese-supply-chains-announced-its-glass-substrate-packaging-verification-results/",
-      "summary": "晶圓代工龍頭台積電近日公開以台灣與日本為中心的生態系所開發的「玻璃基板」半導體封裝商業化驗證成果。這項技術突破 [&#8230;]",
-      "date": "2026-06-18T09:30:15+00:00",
-      "sourceId": "technews",
-      "cats": [
-        "market",
-        "process",
-        "material"
-      ]
-    },
-    {
-      "id": "aed7d6becf01",
-      "title": "SK 海力士徵才取消「大學畢業」限制，能力與潛力成評估標準",
-      "link": "https://technews.tw/2026/06/18/sk-hynix-removes-degree-requirements-for-new-hire-recruitment/",
-      "summary": "韓國記憶體大廠 SK 海力士（SK hynix）6 月 17 日宣布，將在新進與經驗職位的常態招募中全面取消學 [&#8230;]",
-      "date": "2026-06-18T08:20:29+00:00",
-      "sourceId": "technews",
-      "cats": [
-        "market",
-        "process",
-        "material"
-      ]
-    },
-    {
-      "id": "1dfce9b5f483",
-      "title": "川普：蘋果同意與英特爾合作，美國設計生產晶片",
-      "link": "https://technews.tw/2026/06/18/apple-and-intel-to-design-and-manufacture-chips-in-the-us/",
-      "summary": "美國總統川普（Donald Trump）18 日在真實社群（Truth Social）上表示，蘋果公司（App [&#8230;]",
-      "date": "2026-06-18T08:10:48+00:00",
-      "sourceId": "technews",
-      "cats": [
-        "market",
-        "process",
-        "material"
-      ]
-    },
-    {
       "id": "8c4d1596d441",
       "title": "Can Catalonia’s Distributed Semiconductor Network Deliver?",
       "link": "https://www.eetimes.com/can-catalonia-deliver-on-its-distributed-semiconductor-network/",
       "summary": "Catalonia is unifying its fragmented tech ecosystem into a coordinated semiconductor cluster spanning photonics, packaging, AI, and chip research. The post Can Catalonia’s Distributed Semiconductor Network Deliver? appeared first on EE Times.",
       "date": "2026-06-18T07:15:00+00:00",
-      "sourceId": "eetimes",
-      "cats": [
-        "process",
-        "material",
-        "equipment"
-      ]
-    },
-    {
-      "id": "b1ce43e178a3",
-      "title": "Paradromics 完成首例 Connexus 晶片植入手術，助失語患者重新與外界溝通",
-      "link": "https://technews.tw/2026/06/18/university-of-michigan-implants-first-in-human-paradromics-wireless-brain-computer-interface-designed-to-restore-communication/",
-      "summary": "總部位於奧斯汀的腦機介面新創 Paradromics 17 日宣布，完成首次植入 Connexus 晶片手術， [&#8230;]",
-      "date": "2026-06-18T07:10:56+00:00",
-      "sourceId": "technews",
-      "cats": [
-        "market",
-        "process",
-        "material"
-      ]
-    },
-    {
-      "id": "b7d256b1a194",
-      "title": "Built-In Memory. Built-In Confidence.",
-      "link": "https://www.eetimes.com/built-in-memory-built-in-confidence/",
-      "summary": "Memory shortages put edge AI at risk. NVIDIA Jetson™ integrates validated LPDDR5 DRAM on-module—giving teams a faster, confident path to production. The post Built-In Memory. Built-In Confidence. appeared first on EE Times.",
-      "date": "2026-06-17T13:00:00+00:00",
-      "sourceId": "eetimes",
-      "cats": [
-        "process",
-        "material",
-        "equipment"
-      ]
-    },
-    {
-      "id": "09062369f409",
-      "title": "Beyond Chiplets, CMOS 2.0 Moves Scaling into the Circuit",
-      "link": "https://www.eetimes.com/beyond-chiplets-cmos-2-0-moves-scaling-into-the-circuit/",
-      "summary": "Imec’s Zsolt Tokei and Arm’s Mohamed Awad explain why CMOS 2.0 could redefine semiconductor scaling beyond chiplets. The post Beyond Chiplets, CMOS 2.0 Moves Scaling into the Circuit appeared first on EE Times.",
-      "date": "2026-06-17T12:47:44+00:00",
       "sourceId": "eetimes",
       "cats": [
         "process",
