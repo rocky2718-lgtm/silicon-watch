@@ -1,6 +1,6 @@
 {
-  "updated": "2026-06-19T12:37:38.048685+00:00",
-  "count": 24,
+  "updated": "2026-06-19T20:20:32.961661+00:00",
+  "count": 21,
   "sources": [
     {
       "id": "technews",
@@ -165,19 +165,6 @@
       ]
     },
     {
-      "id": "04b1f0456a68",
-      "title": "Intelligent Power Solutions for Next-Gen Robotics Compute Platforms",
-      "link": "https://www.eetimes.com/intelligent-power-solutions-for-next-gen-robotics-compute-platforms/",
-      "summary": "Date: Tuesday, July 21, 2026 Time: 9:00am PDT &#124; 12:00pm EDT Not your time zone? Please join us on Tuesday, July 28th @ 15:00 CEST Register Here! Rapid advances in humanoid robotics are being driven by breakthroughs in compute power. As AI workloads continue to scale, most of the elements that p",
-      "date": "2026-06-18T13:07:18+00:00",
-      "sourceId": "eetimes",
-      "cats": [
-        "process",
-        "material",
-        "equipment"
-      ]
-    },
-    {
       "id": "424e34aa65ac",
       "title": "川普證實蘋果下單英特爾代工晶片，陸行之指關鍵在執行力與產能否跟上",
       "link": "https://technews.tw/2026/06/18/trump-confirms-apple-has-placed-an-order-with-intel-to-manufacture-chips/",
@@ -230,50 +217,24 @@
       ]
     },
     {
-      "id": "6dfa55ab9909",
-      "title": "威盛股東會陳文琦釋展望，佈局 AI 與光通訊搶攻先進製程與矽光子商機",
-      "link": "https://finance.technews.tw/2026/06/18/via-technologies-is-expanding-its-ai-and-optical-communications-business/",
-      "summary": "威盛電子18日召開115年股東常會，並且公布2026年1至5月累計合併營收達新台幣43.59億元，較2025年 [&#8230;]",
-      "date": "2026-06-18T10:00:34+00:00",
-      "sourceId": "technews",
-      "cats": [
-        "market",
-        "process",
-        "material"
-      ]
-    },
-    {
-      "id": "473d262cd400",
-      "title": "搶攻 CPO 市場，IET-KY 布局 InP、QD 雷射磊晶商機",
-      "link": "https://technews.tw/2026/06/18/iet-cpo-inp-els-qd-laser/",
-      "summary": "隨著未來 AI 基礎設施將逐步從電訊號互連走向光訊號互連，近期網路掀起有關台積電、英特爾先進封裝路線與技術的論 [&#8230;]",
-      "date": "2026-06-18T09:56:41+00:00",
-      "sourceId": "technews",
-      "cats": [
-        "market",
-        "process",
-        "material"
-      ]
-    },
-    {
-      "id": "29bdb2727e56",
-      "title": "市場消息指 Google 為了下代 TPU，將採購中國長鑫存儲記憶體產品",
-      "link": "https://technews.tw/2026/06/18/google-will-source-memory-from-chinas-changxin-memory-for-its-next-generation-tpus/",
-      "summary": "近期，記憶體市場的短缺情況日益嚴重，甚至已在業界引發一定程度的焦慮情緒。在這樣的背景下，市場傳出震撼消息，就是 [&#8230;]",
-      "date": "2026-06-18T09:40:21+00:00",
-      "sourceId": "technews",
-      "cats": [
-        "market",
-        "process",
-        "material"
-      ]
-    },
-    {
       "id": "8c4d1596d441",
       "title": "Can Catalonia’s Distributed Semiconductor Network Deliver?",
       "link": "https://www.eetimes.com/can-catalonia-deliver-on-its-distributed-semiconductor-network/",
       "summary": "Catalonia is unifying its fragmented tech ecosystem into a coordinated semiconductor cluster spanning photonics, packaging, AI, and chip research. The post Can Catalonia’s Distributed Semiconductor Network Deliver? appeared first on EE Times.",
       "date": "2026-06-18T07:15:00+00:00",
+      "sourceId": "eetimes",
+      "cats": [
+        "process",
+        "material",
+        "equipment"
+      ]
+    },
+    {
+      "id": "b7d256b1a194",
+      "title": "Built-In Memory. Built-In Confidence.",
+      "link": "https://www.eetimes.com/built-in-memory-built-in-confidence/",
+      "summary": "Memory shortages put edge AI at risk. NVIDIA Jetson™ integrates validated LPDDR5 DRAM on-module—giving teams a faster, confident path to production. The post Built-In Memory. Built-In Confidence. appeared first on EE Times.",
+      "date": "2026-06-17T13:00:00+00:00",
       "sourceId": "eetimes",
       "cats": [
         "process",
