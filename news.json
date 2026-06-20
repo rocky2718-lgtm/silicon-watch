@@ -1,6 +1,6 @@
 {
-  "updated": "2026-06-20T08:35:56.259040+00:00",
-  "count": 23,
+  "updated": "2026-06-20T15:56:38.109168+00:00",
+  "count": 24,
   "sources": [
     {
       "id": "technews",
@@ -179,7 +179,7 @@
     },
     {
       "id": "87691d096702",
-      "title": "imec 開啟鐵電記憶體研究，提供新一代 AI 時代解決方案",
+      "title": "imec 研究鐵電記憶體，提供 AI 時代新解決方案",
       "link": "https://technews.tw/2026/06/20/imec-initiates-research-on-ferroelectric-memory/",
       "summary": "於本周2026年IEEE/JSAP超大規模積體電路（VLSI）技術與電路研討會上，比利時微電子研究中心（ime [&#8230;]",
       "date": "2026-06-20T01:00:11+00:00",
@@ -240,6 +240,19 @@
         "process",
         "material",
         "equipment"
+      ]
+    },
+    {
+      "id": "b27d7feb78c4",
+      "title": "東元電機與 MetAI 攜手推動 Industrial AI 基礎建設，於 NVIDIA Omniverse 打造 SimReady 工業馬達數位孿生",
+      "link": "https://technews.tw/2026/06/19/teco_metai_simready/",
+      "summary": "隨著產業加速邁向 AI 驅動的智慧製造時代，尤其在半導體晶圓廠與新世代資料中心基礎設施領域，具備模擬能力（Si [&#8230;]",
+      "date": "2026-06-19T06:00:20+00:00",
+      "sourceId": "technews",
+      "cats": [
+        "market",
+        "process",
+        "material"
       ]
     },
     {
