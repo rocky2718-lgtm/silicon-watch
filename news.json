@@ -1,6 +1,6 @@
 {
-  "updated": "2026-06-20T15:56:38.109168+00:00",
-  "count": 24,
+  "updated": "2026-06-20T20:51:51.563180+00:00",
+  "count": 23,
   "sources": [
     {
       "id": "technews",
@@ -62,7 +62,7 @@
   "articles": [
     {
       "id": "b8a21a92bb47",
-      "title": "預期第三季財報將優於預期，外資調升美光目標價達 1,300 美元",
+      "title": "第三季財報優於預期，外資調升美光目標價達 1,300 美元",
       "link": "https://finance.technews.tw/2026/06/20/foreign-investors-raise-microns-target-price-to-1300/",
       "summary": "外資 Wedbush 近期發布報告指出記憶體大廠美光科技預計將在即將發布的第三季財報中展現優於預期的保線，原因 [&#8230;]",
       "date": "2026-06-20T08:00:48+00:00",
@@ -88,7 +88,7 @@
     },
     {
       "id": "d4aaa8dbebc4",
-      "title": "Marvell 將台積電 A14 先進製程納入藍圖，持續深化布局資料中心市場",
+      "title": "Marvell 將台積電 A14 先進製程納入藍圖，深化布局資料中心",
       "link": "https://finance.technews.tw/2026/06/20/marvell-incorporates-tsmcs-a14-advanced-process-into-its-roadmap/",
       "summary": "根據日經新聞的報導，美國晶片設計大廠 Marvell 正持續深化與台積電（TSMC）的合作關係，押注 AI 數 [&#8230;]",
       "date": "2026-06-20T06:00:25+00:00",
@@ -248,19 +248,6 @@
       "link": "https://technews.tw/2026/06/19/teco_metai_simready/",
       "summary": "隨著產業加速邁向 AI 驅動的智慧製造時代，尤其在半導體晶圓廠與新世代資料中心基礎設施領域，具備模擬能力（Si [&#8230;]",
       "date": "2026-06-19T06:00:20+00:00",
-      "sourceId": "technews",
-      "cats": [
-        "market",
-        "process",
-        "material"
-      ]
-    },
-    {
-      "id": "98930bf31465",
-      "title": "川普一句話讓英特爾股價飆 10%，再點名台灣偷走晶片工廠",
-      "link": "https://finance.technews.tw/2026/06/19/trump-intel/",
-      "summary": "美國總統川普再度把半導體供應鏈搬上政治舞台。據《CNBC》報導，川普週四在 Truth Social 發文表示 [&#8230;]",
-      "date": "2026-06-19T03:47:01+00:00",
       "sourceId": "technews",
       "cats": [
         "market",
