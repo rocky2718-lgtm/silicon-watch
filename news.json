@@ -1,6 +1,6 @@
 {
-  "updated": "2026-06-19T20:20:32.961661+00:00",
-  "count": 21,
+  "updated": "2026-06-20T08:35:56.259040+00:00",
+  "count": 23,
   "sources": [
     {
       "id": "technews",
@@ -61,6 +61,149 @@
   ],
   "articles": [
     {
+      "id": "b8a21a92bb47",
+      "title": "預期第三季財報將優於預期，外資調升美光目標價達 1,300 美元",
+      "link": "https://finance.technews.tw/2026/06/20/foreign-investors-raise-microns-target-price-to-1300/",
+      "summary": "外資 Wedbush 近期發布報告指出記憶體大廠美光科技預計將在即將發布的第三季財報中展現優於預期的保線，原因 [&#8230;]",
+      "date": "2026-06-20T08:00:48+00:00",
+      "sourceId": "technews",
+      "cats": [
+        "market",
+        "process",
+        "material"
+      ]
+    },
+    {
+      "id": "d5a9b4e80f9f",
+      "title": "韓國科技廠積極布局馬斯克供應鏈，市場卻顯現利益未能普及隱憂",
+      "link": "https://finance.technews.tw/2026/06/20/south-korean-tech-companies-are-actively-positioning-themselves-within-musks-supply-chain/",
+      "summary": "近期，由人工智慧（AI）帶動的半導體「超級週期」為韓國經濟注入強心針。韓國企業不僅在AI晶片領域獲利豐厚，更積 [&#8230;]",
+      "date": "2026-06-20T07:00:19+00:00",
+      "sourceId": "technews",
+      "cats": [
+        "market",
+        "process",
+        "material"
+      ]
+    },
+    {
+      "id": "d4aaa8dbebc4",
+      "title": "Marvell 將台積電 A14 先進製程納入藍圖，持續深化布局資料中心市場",
+      "link": "https://finance.technews.tw/2026/06/20/marvell-incorporates-tsmcs-a14-advanced-process-into-its-roadmap/",
+      "summary": "根據日經新聞的報導，美國晶片設計大廠 Marvell 正持續深化與台積電（TSMC）的合作關係，押注 AI 數 [&#8230;]",
+      "date": "2026-06-20T06:00:25+00:00",
+      "sourceId": "technews",
+      "cats": [
+        "market",
+        "process",
+        "material"
+      ]
+    },
+    {
+      "id": "4493c1c43662",
+      "title": "永擎電子於 COMPUTEX 2026 發表搭載 NVIDIA Vera CPU 新世代 AI 基礎架構",
+      "link": "https://technews.tw/2026/06/20/asrock-rack-unveils-ai-server-platform-at-computex-2026/",
+      "summary": "專注於伺服器研發與創新的永擎電子於 COMPUTEX 2026（南港展覽館二館 R0514 攤位）期間首度展示 [&#8230;]",
+      "date": "2026-06-20T06:00:13+00:00",
+      "sourceId": "technews",
+      "cats": [
+        "market",
+        "process",
+        "material"
+      ]
+    },
+    {
+      "id": "377aa473f7af",
+      "title": "放棄數百萬美元股票從輝達出走，這些前員工說：正因股價大漲才更敢離開",
+      "link": "https://technews.tw/2026/06/20/ex-nvidians-who-became-founders-reveal-why-they-ditched-the-golden-handcuffs/",
+      "summary": "輝達（NVIDIA）高薪與持股鎖定效應，反而成為部分前員工創業的跳板。多位離職員工表示，輝達的品牌、文化與財務 [&#8230;]",
+      "date": "2026-06-20T02:30:49+00:00",
+      "sourceId": "technews",
+      "cats": [
+        "market",
+        "process",
+        "material"
+      ]
+    },
+    {
+      "id": "1cdf8be2287c",
+      "title": "陳立武大讚馬斯克創新思維，合作 Terafab 計畫並回憶蘇姿丰也曾來請益職涯",
+      "link": "https://finance.technews.tw/2026/06/20/intel-ceo-praises-musks-innovative-thinking/",
+      "summary": "半導體大廠英特爾(Intel)執行長陳立武近期在參與Podcast節目時，分享了與特斯拉(Tesla)執行長馬 [&#8230;]",
+      "date": "2026-06-20T02:00:22+00:00",
+      "sourceId": "technews",
+      "cats": [
+        "market",
+        "process",
+        "material"
+      ]
+    },
+    {
+      "id": "bac2d765399b",
+      "title": "震撼業界！聯電要重返先進製程，攜手英特爾強攻 3 奈米挑戰台積電",
+      "link": "https://finance.technews.tw/2026/06/20/umc-to-join-forces-with-intel-to-return-to-advanced-manufacturing-processes/",
+      "summary": "根據外媒 wccftech 的報導指出，半導體大廠英特爾 （Intel） 已與台灣晶圓代工大廠聯電 （UMC） [&#8230;]",
+      "date": "2026-06-20T01:50:12+00:00",
+      "sourceId": "technews",
+      "cats": [
+        "market",
+        "process",
+        "material"
+      ]
+    },
+    {
+      "id": "eb70f103dc84",
+      "title": "ASML 強烈駁斥華府指控，堅稱從未向中國交付 EUV",
+      "link": "https://finance.technews.tw/2026/06/20/asml-strongly-refutes-washingtons-accusations/",
+      "summary": "全球半導體製造設備大廠艾司摩爾（ASML）近日強烈駁斥了來自美國的指控，否認其先進的晶片製造設備違反國際制裁流 [&#8230;]",
+      "date": "2026-06-20T01:30:06+00:00",
+      "sourceId": "technews",
+      "cats": [
+        "market",
+        "process",
+        "material"
+      ]
+    },
+    {
+      "id": "3d692c4cb452",
+      "title": "讓玻璃變身晶片一部分，康寧攜手台積電、英特爾強攻先進封裝新戰局",
+      "link": "https://technews.tw/2026/06/20/exclusive-look-corning-rd-base-unveiling-ai-glass-revolution/",
+      "summary": "過去，玻璃改變了顯示器產業；未來，玻璃即將再次改變半導體產業。美商康寧正結合台灣的研發實力，助攻台積電突破 C [&#8230;]",
+      "date": "2026-06-20T01:00:16+00:00",
+      "sourceId": "technews",
+      "cats": [
+        "market",
+        "process",
+        "material"
+      ]
+    },
+    {
+      "id": "87691d096702",
+      "title": "imec 開啟鐵電記憶體研究，提供新一代 AI 時代解決方案",
+      "link": "https://technews.tw/2026/06/20/imec-initiates-research-on-ferroelectric-memory/",
+      "summary": "於本周2026年IEEE/JSAP超大規模積體電路（VLSI）技術與電路研討會上，比利時微電子研究中心（ime [&#8230;]",
+      "date": "2026-06-20T01:00:11+00:00",
+      "sourceId": "technews",
+      "cats": [
+        "market",
+        "process",
+        "material"
+      ]
+    },
+    {
+      "id": "243d34b2adf1",
+      "title": "Defense Sends Clear Signal to Canadian Semiconductor Industry",
+      "link": "https://www.eetimes.com/defense-sends-clear-signal-to-canadian-semiconductor-industry/",
+      "summary": "Canada sharpens its defense and tech edge with policies to boost homegrown chip power. The post Defense Sends Clear Signal to Canadian Semiconductor Industry appeared first on EE Times.",
+      "date": "2026-06-19T22:00:00+00:00",
+      "sourceId": "eetimes",
+      "cats": [
+        "process",
+        "material",
+        "equipment"
+      ]
+    },
+    {
       "id": "1626efebf430",
       "title": "Amazon’s Newest Gambit: Selling AI Chips",
       "link": "https://www.eetimes.com/amazon-newest-gambit-selling-ai-chips/",
@@ -113,128 +256,11 @@
       ]
     },
     {
-      "id": "b2aee73b975b",
-      "title": "AMD 重申 FP64 不退位，混合精準度成 HPC 未來核心策略",
-      "link": "https://technews.tw/2026/06/19/covering-the-fastest-computers-in-the-world-and-the-people-who-run-them-4/",
-      "summary": "高效能運算（HPC）精準度路線立場再次確定。外界近期熱議「FP8 搭配 Ozaki 模擬是否足以取代 FP64 [&#8230;]",
-      "date": "2026-06-19T02:30:01+00:00",
-      "sourceId": "technews",
-      "cats": [
-        "market",
-        "process",
-        "material"
-      ]
-    },
-    {
-      "id": "ca30b7d8de75",
-      "title": "調研：Q126 全球智慧手錶出貨量年增 4%",
-      "link": "https://technews.tw/2026/06/19/q126-global-smartwatch/",
-      "summary": "隨著記憶體價格不斷上漲，包括智慧型手機在內的消費性電子產品受到不小的衝擊；然而像是智慧手錶這一類相對較低物料成 [&#8230;]",
-      "date": "2026-06-19T01:26:51+00:00",
-      "sourceId": "technews",
-      "cats": [
-        "market",
-        "process",
-        "material"
-      ]
-    },
-    {
-      "id": "1e17b6c2de82",
-      "title": "不能只靠台積電！川普稱蘋果將與英特爾合作、在美設計與生產晶片",
-      "link": "https://technews.tw/2026/06/19/trump-apple-intel/",
-      "summary": "美國總統川普週四在自家社群平台 Truth Social 發文指稱，蘋果已同意與英特爾合作，在美國設計並製造晶 [&#8230;]",
-      "date": "2026-06-19T01:11:57+00:00",
-      "sourceId": "technews",
-      "cats": [
-        "market",
-        "process",
-        "material"
-      ]
-    },
-    {
-      "id": "e77d5ae926b8",
-      "title": "英特爾任命李錫熙掌舵先進封裝，強化晶圓代工系統級整合",
-      "link": "https://technews.tw/2026/06/19/intel-si-hee-lee-leads-advanced-packaging-strengthens-foundry-system-integration/",
-      "summary": "英特爾宣布調整代工業務高層布局，延攬前 SK hynix 與 SK On 執行長李錫熙（Seok-Hee Le [&#8230;]",
-      "date": "2026-06-19T00:56:52+00:00",
-      "sourceId": "technews",
-      "cats": [
-        "market",
-        "process",
-        "material"
-      ]
-    },
-    {
-      "id": "424e34aa65ac",
-      "title": "川普證實蘋果下單英特爾代工晶片，陸行之指關鍵在執行力與產能否跟上",
-      "link": "https://technews.tw/2026/06/18/trump-confirms-apple-has-placed-an-order-with-intel-to-manufacture-chips/",
-      "summary": "針對美國總統川普近日在社群媒體上透露，蘋果公司（Apple）將向英特爾（Intel）下單代工晶片，此消息激勵英 [&#8230;]",
-      "date": "2026-06-18T10:30:44+00:00",
-      "sourceId": "technews",
-      "cats": [
-        "market",
-        "process",
-        "material"
-      ]
-    },
-    {
-      "id": "98dca6f11721",
-      "title": "汎銓指光損定位成矽光子、CPO 良率關鍵，籲請同業尊重智慧財產權",
-      "link": "https://finance.technews.tw/2026/06/18/panquan-refers-to-the-key-to-optical-loss-localization-in-silicon-photonics-and-cpo-yield/",
-      "summary": "先進製程材料分析與矽光子檢測服務廠汎銓科技18日針對同業公開說明將積極布局矽光子檢測市場，並有市場消息指出此同 [&#8230;]",
-      "date": "2026-06-18T10:15:28+00:00",
-      "sourceId": "technews",
-      "cats": [
-        "market",
-        "process",
-        "material"
-      ]
-    },
-    {
-      "id": "cea0a433688c",
-      "title": "中俄藉資料中心規避制裁，芬蘭情報局示警國安漏洞",
-      "link": "https://finance.technews.tw/2026/06/18/finnish-intelligence-agency-warns-national-security-vulnerabilities-china-russia-data-centers-evade-sanctions/",
-      "summary": "芬蘭安全情報局（Supo）警告，俄羅斯與中國可能透過在芬蘭設立資料中心，繞過管制使用先進晶片算力；芬蘭現行法規 [&#8230;]",
-      "date": "2026-06-18T10:10:11+00:00",
-      "sourceId": "technews",
-      "cats": [
-        "market",
-        "process",
-        "material"
-      ]
-    },
-    {
-      "id": "286f4cc58621",
-      "title": "經部估 AIDC 帶動用電，十年內電力需求年增 2.5%",
-      "link": "https://technews.tw/2026/06/18/moea-estimates-ai-idc-drive-2-5-annual-power-demand-increase-ten-years/",
-      "summary": "經濟部今天公布最新全國電力資源供需報告，半導體產業擴廠、人工智慧資料中心（AIDC）用電、氣溫影響等因素下，十 [&#8230;]",
-      "date": "2026-06-18T10:00:47+00:00",
-      "sourceId": "technews",
-      "cats": [
-        "market",
-        "process",
-        "material"
-      ]
-    },
-    {
       "id": "8c4d1596d441",
       "title": "Can Catalonia’s Distributed Semiconductor Network Deliver?",
       "link": "https://www.eetimes.com/can-catalonia-deliver-on-its-distributed-semiconductor-network/",
       "summary": "Catalonia is unifying its fragmented tech ecosystem into a coordinated semiconductor cluster spanning photonics, packaging, AI, and chip research. The post Can Catalonia’s Distributed Semiconductor Network Deliver? appeared first on EE Times.",
       "date": "2026-06-18T07:15:00+00:00",
-      "sourceId": "eetimes",
-      "cats": [
-        "process",
-        "material",
-        "equipment"
-      ]
-    },
-    {
-      "id": "b7d256b1a194",
-      "title": "Built-In Memory. Built-In Confidence.",
-      "link": "https://www.eetimes.com/built-in-memory-built-in-confidence/",
-      "summary": "Memory shortages put edge AI at risk. NVIDIA Jetson™ integrates validated LPDDR5 DRAM on-module—giving teams a faster, confident path to production. The post Built-In Memory. Built-In Confidence. appeared first on EE Times.",
-      "date": "2026-06-17T13:00:00+00:00",
       "sourceId": "eetimes",
       "cats": [
         "process",
