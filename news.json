@@ -1,6 +1,6 @@
 {
-  "updated": "2026-06-20T20:51:51.563180+00:00",
-  "count": 23,
+  "updated": "2026-06-21T10:54:44.618366+00:00",
+  "count": 19,
   "sources": [
     {
       "id": "technews",
@@ -60,6 +60,19 @@
     }
   ],
   "articles": [
+    {
+      "id": "501575ac6bad",
+      "title": "記憶體晶片短缺暫時無解，消費性電子產品將替 AI 產業買單",
+      "link": "https://technews.tw/2026/06/21/ai-memory-chip/",
+      "summary": "記憶體三大供應商被 AI 產業的天價標單綁住、美國本土新廠最快要等 1 年才能投產、看似可救急的中國產能被國家 [&#8230;]",
+      "date": "2026-06-21T03:49:51+00:00",
+      "sourceId": "technews",
+      "cats": [
+        "market",
+        "process",
+        "material"
+      ]
+    },
     {
       "id": "b8a21a92bb47",
       "title": "第三季財報優於預期，外資調升美光目標價達 1,300 美元",
@@ -152,45 +165,6 @@
       ]
     },
     {
-      "id": "eb70f103dc84",
-      "title": "ASML 強烈駁斥華府指控，堅稱從未向中國交付 EUV",
-      "link": "https://finance.technews.tw/2026/06/20/asml-strongly-refutes-washingtons-accusations/",
-      "summary": "全球半導體製造設備大廠艾司摩爾（ASML）近日強烈駁斥了來自美國的指控，否認其先進的晶片製造設備違反國際制裁流 [&#8230;]",
-      "date": "2026-06-20T01:30:06+00:00",
-      "sourceId": "technews",
-      "cats": [
-        "market",
-        "process",
-        "material"
-      ]
-    },
-    {
-      "id": "3d692c4cb452",
-      "title": "讓玻璃變身晶片一部分，康寧攜手台積電、英特爾強攻先進封裝新戰局",
-      "link": "https://technews.tw/2026/06/20/exclusive-look-corning-rd-base-unveiling-ai-glass-revolution/",
-      "summary": "過去，玻璃改變了顯示器產業；未來，玻璃即將再次改變半導體產業。美商康寧正結合台灣的研發實力，助攻台積電突破 C [&#8230;]",
-      "date": "2026-06-20T01:00:16+00:00",
-      "sourceId": "technews",
-      "cats": [
-        "market",
-        "process",
-        "material"
-      ]
-    },
-    {
-      "id": "87691d096702",
-      "title": "imec 研究鐵電記憶體，提供 AI 時代新解決方案",
-      "link": "https://technews.tw/2026/06/20/imec-initiates-research-on-ferroelectric-memory/",
-      "summary": "於本周2026年IEEE/JSAP超大規模積體電路（VLSI）技術與電路研討會上，比利時微電子研究中心（ime [&#8230;]",
-      "date": "2026-06-20T01:00:11+00:00",
-      "sourceId": "technews",
-      "cats": [
-        "market",
-        "process",
-        "material"
-      ]
-    },
-    {
       "id": "243d34b2adf1",
       "title": "Defense Sends Clear Signal to Canadian Semiconductor Industry",
       "link": "https://www.eetimes.com/defense-sends-clear-signal-to-canadian-semiconductor-industry/",
@@ -217,19 +191,6 @@
       ]
     },
     {
-      "id": "52dacfb41f1d",
-      "title": "中方手上真的有 EUV？美方緊盯 ASML，半導體設備戰升溫",
-      "link": "https://technews.tw/2026/06/19/china-euv-us-asml/",
-      "summary": "美中半導體戰再度燒向全球最關鍵設備商 ASML。據《彭博社》報導，美國商務部長盧特尼克近期在一連串會議中，向荷 [&#8230;]",
-      "date": "2026-06-19T09:18:44+00:00",
-      "sourceId": "technews",
-      "cats": [
-        "market",
-        "process",
-        "material"
-      ]
-    },
-    {
       "id": "f17375c23e25",
       "title": "All Semiconductor Roads Lead to Taiwan",
       "link": "https://www.eetimes.com/all-semiconductor-roads-lead-to-taiwan/",
@@ -240,19 +201,6 @@
         "process",
         "material",
         "equipment"
-      ]
-    },
-    {
-      "id": "b27d7feb78c4",
-      "title": "東元電機與 MetAI 攜手推動 Industrial AI 基礎建設，於 NVIDIA Omniverse 打造 SimReady 工業馬達數位孿生",
-      "link": "https://technews.tw/2026/06/19/teco_metai_simready/",
-      "summary": "隨著產業加速邁向 AI 驅動的智慧製造時代，尤其在半導體晶圓廠與新世代資料中心基礎設施領域，具備模擬能力（Si [&#8230;]",
-      "date": "2026-06-19T06:00:20+00:00",
-      "sourceId": "technews",
-      "cats": [
-        "market",
-        "process",
-        "material"
       ]
     },
     {
