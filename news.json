@@ -1,6 +1,6 @@
 {
-  "updated": "2026-06-21T10:54:44.618366+00:00",
-  "count": 19,
+  "updated": "2026-06-21T17:12:12.774312+00:00",
+  "count": 18,
   "sources": [
     {
       "id": "technews",
@@ -144,19 +144,6 @@
       "link": "https://finance.technews.tw/2026/06/20/intel-ceo-praises-musks-innovative-thinking/",
       "summary": "半導體大廠英特爾(Intel)執行長陳立武近期在參與Podcast節目時，分享了與特斯拉(Tesla)執行長馬 [&#8230;]",
       "date": "2026-06-20T02:00:22+00:00",
-      "sourceId": "technews",
-      "cats": [
-        "market",
-        "process",
-        "material"
-      ]
-    },
-    {
-      "id": "bac2d765399b",
-      "title": "震撼業界！聯電要重返先進製程，攜手英特爾強攻 3 奈米挑戰台積電",
-      "link": "https://finance.technews.tw/2026/06/20/umc-to-join-forces-with-intel-to-return-to-advanced-manufacturing-processes/",
-      "summary": "根據外媒 wccftech 的報導指出，半導體大廠英特爾 （Intel） 已與台灣晶圓代工大廠聯電 （UMC） [&#8230;]",
-      "date": "2026-06-20T01:50:12+00:00",
       "sourceId": "technews",
       "cats": [
         "market",
