@@ -1,6 +1,6 @@
 {
-  "updated": "2026-06-21T22:39:37.578687+00:00",
-  "count": 18,
+  "updated": "2026-06-22T17:58:02.411505+00:00",
+  "count": 23,
   "sources": [
     {
       "id": "technews",
@@ -61,11 +61,11 @@
   ],
   "articles": [
     {
-      "id": "501575ac6bad",
-      "title": "記憶體晶片短缺暫時無解，消費性電子產品將替 AI 產業買單",
-      "link": "https://technews.tw/2026/06/21/ai-memory-chip/",
-      "summary": "記憶體三大供應商被 AI 產業的天價標單綁住、美國本土新廠最快要等 1 年才能投產、看似可救急的中國產能被國家 [&#8230;]",
-      "date": "2026-06-21T03:49:51+00:00",
+      "id": "002c3bf5c7f3",
+      "title": "扛不住通膨與成本壓力，聯發科通知客戶調漲晶片價格",
+      "link": "https://finance.technews.tw/2026/06/22/mediatek-notifies-customers-of-a-price-increase-for-chips/",
+      "summary": "受到全球通膨與供應鏈動盪的影響，國內IC設計龍頭聯發科近期證實已難以獨自吸收成本，正式向客戶發布通知函，預告將 [&#8230;]",
+      "date": "2026-06-22T14:10:30+00:00",
       "sourceId": "technews",
       "cats": [
         "market",
@@ -74,11 +74,11 @@
       ]
     },
     {
-      "id": "b8a21a92bb47",
-      "title": "第三季財報優於預期，外資調升美光目標價達 1,300 美元",
-      "link": "https://finance.technews.tw/2026/06/20/foreign-investors-raise-microns-target-price-to-1300/",
-      "summary": "外資 Wedbush 近期發布報告指出記憶體大廠美光科技預計將在即將發布的第三季財報中展現優於預期的保線，原因 [&#8230;]",
-      "date": "2026-06-20T08:00:48+00:00",
+      "id": "cc37f56af8dc",
+      "title": "台積電股價衝破 2,500 元大關，台股寫多項新高紀錄",
+      "link": "https://finance.technews.tw/2026/06/22/tw-stock-new-high-0622/",
+      "summary": "美國存託憑證（ADR）大漲 6.94% 激勵下，台積電今天股價開高走高，終場大漲 100 元或 4.15%，收 [&#8230;]",
+      "date": "2026-06-22T09:30:03+00:00",
       "sourceId": "technews",
       "cats": [
         "market",
@@ -87,11 +87,11 @@
       ]
     },
     {
-      "id": "d5a9b4e80f9f",
-      "title": "韓國科技廠積極布局馬斯克供應鏈，市場卻顯現利益未能普及隱憂",
-      "link": "https://finance.technews.tw/2026/06/20/south-korean-tech-companies-are-actively-positioning-themselves-within-musks-supply-chain/",
-      "summary": "近期，由人工智慧（AI）帶動的半導體「超級週期」為韓國經濟注入強心針。韓國企業不僅在AI晶片領域獲利豐厚，更積 [&#8230;]",
-      "date": "2026-06-20T07:00:19+00:00",
+      "id": "dc46a9c2b74a",
+      "title": "滙豐曝台灣 GDP 成長僅 7% 原因！AI 記憶體瓶頸恐拖累科技業發展",
+      "link": "https://finance.technews.tw/2026/06/22/memory-bottleneck/",
+      "summary": "滙豐私人銀行今日舉辦 2026 年第三季投資展望，有別於其他機構已將台灣 GDP 預測調高至 9.9%，滙豐私 [&#8230;]",
+      "date": "2026-06-22T09:21:25+00:00",
       "sourceId": "technews",
       "cats": [
         "market",
@@ -100,11 +100,11 @@
       ]
     },
     {
-      "id": "d4aaa8dbebc4",
-      "title": "Marvell 將台積電 A14 先進製程納入藍圖，深化布局資料中心",
-      "link": "https://finance.technews.tw/2026/06/20/marvell-incorporates-tsmcs-a14-advanced-process-into-its-roadmap/",
-      "summary": "根據日經新聞的報導，美國晶片設計大廠 Marvell 正持續深化與台積電（TSMC）的合作關係，押注 AI 數 [&#8230;]",
-      "date": "2026-06-20T06:00:25+00:00",
+      "id": "0f4f01d5b030",
+      "title": "傳縮減 28 奈米產能，台積電：成熟製程策略不變",
+      "link": "https://technews.tw/2026/06/22/tsmc-reportedly-cuts-28nm-capacity-affirms-mature-process-strategy-unchanged/",
+      "summary": "市場傳出，台積電積極衝刺先進製程，縮減 28 奈米製程產能，聯電和世界先進可望受惠轉單效應。台積電今天重申，在 [&#8230;]",
+      "date": "2026-06-22T08:50:03+00:00",
       "sourceId": "technews",
       "cats": [
         "market",
@@ -113,11 +113,11 @@
       ]
     },
     {
-      "id": "4493c1c43662",
-      "title": "永擎電子於 COMPUTEX 2026 發表搭載 NVIDIA Vera CPU 新世代 AI 基礎架構",
-      "link": "https://technews.tw/2026/06/20/asrock-rack-unveils-ai-server-platform-at-computex-2026/",
-      "summary": "專注於伺服器研發與創新的永擎電子於 COMPUTEX 2026（南港展覽館二館 R0514 攤位）期間首度展示 [&#8230;]",
-      "date": "2026-06-20T06:00:13+00:00",
+      "id": "27249427e3d4",
+      "title": "攜手英特爾重返先進製程，聯電重訊指臆測性報導無法評論",
+      "link": "https://technews.tw/2026/06/22/umc-heavy-communications-declined-to-comment-on-the-speculative-report/",
+      "summary": "針對市場消息指出，台灣晶圓代工大廠聯電（UMC）傳出將與美國晶片廠商英特爾（Intel）展開深度結盟，雙方計劃 [&#8230;]",
+      "date": "2026-06-22T08:45:00+00:00",
       "sourceId": "technews",
       "cats": [
         "market",
@@ -126,11 +126,11 @@
       ]
     },
     {
-      "id": "377aa473f7af",
-      "title": "放棄數百萬美元股票從輝達出走，這些前員工說：正因股價大漲才更敢離開",
-      "link": "https://technews.tw/2026/06/20/ex-nvidians-who-became-founders-reveal-why-they-ditched-the-golden-handcuffs/",
-      "summary": "輝達（NVIDIA）高薪與持股鎖定效應，反而成為部分前員工創業的跳板。多位離職員工表示，輝達的品牌、文化與財務 [&#8230;]",
-      "date": "2026-06-20T02:30:49+00:00",
+      "id": "c470043a9cc8",
+      "title": "庫克示警 iPhone 漲價難免，二手與整修品市場成精打細算新選擇",
+      "link": "https://technews.tw/2026/06/22/tim-cook-warns-iphone-price-hike-inevitable-used-refurbished-markets-smart-choice/",
+      "summary": "蘋果（Apple）執行長庫克（Tim Cook）最近在接受《華爾街日報》訪問時明確示警，受記憶體成本攀升影響， [&#8230;]",
+      "date": "2026-06-22T08:40:45+00:00",
       "sourceId": "technews",
       "cats": [
         "market",
@@ -139,11 +139,89 @@
       ]
     },
     {
-      "id": "1cdf8be2287c",
-      "title": "陳立武大讚馬斯克創新思維，合作 Terafab 計畫並回憶蘇姿丰也曾來請益職涯",
-      "link": "https://finance.technews.tw/2026/06/20/intel-ceo-praises-musks-innovative-thinking/",
-      "summary": "半導體大廠英特爾(Intel)執行長陳立武近期在參與Podcast節目時，分享了與特斯拉(Tesla)執行長馬 [&#8230;]",
-      "date": "2026-06-20T02:00:22+00:00",
+      "id": "09d82113a78e",
+      "title": "奇景光電股價半年翻倍！創辦人兄弟靠顯示晶片，身價突破 300 億元",
+      "link": "https://technews.tw/2026/06/22/himax-ceo-story/",
+      "summary": "台灣顯示器驅動 IC 設計大廠「奇景光電」（Himax）共同創辦人吳炳昇及其弟弟吳炳昌，長期深耕顯示驅動晶片的 [&#8230;]",
+      "date": "2026-06-22T08:19:12+00:00",
+      "sourceId": "technews",
+      "cats": [
+        "market",
+        "process",
+        "material"
+      ]
+    },
+    {
+      "id": "08a1e60d9ef5",
+      "title": "三星 2 奈米仍落後台積電 N2P，Exynos 2700 以新散熱技術補強性能",
+      "link": "https://technews.tw/2026/06/22/samsungs-2nm-process-still-lags-behind-tsmcs-n2p/",
+      "summary": "隨著半導體先進製程競爭日益白熱化，韓國三星正積極開發其下一代旗艦行動處理器 Exynos 2700，展現其在先 [&#8230;]",
+      "date": "2026-06-22T08:15:35+00:00",
+      "sourceId": "technews",
+      "cats": [
+        "market",
+        "process",
+        "material"
+      ]
+    },
+    {
+      "id": "cb6450e0262d",
+      "title": "明基材小金雞衛普、碩晨邁 IPO 進程！打入糖尿病大廠、半導體 2 奈米製程",
+      "link": "https://finance.technews.tw/2026/06/22/materials-scienc/",
+      "summary": "明基材跨足高附加價值醫療產業轉型有成，董事長陳建志表示，受惠早年布局的 CDMO（委託開發暨製造服務）與購併效 [&#8230;]",
+      "date": "2026-06-22T08:11:15+00:00",
+      "sourceId": "technews",
+      "cats": [
+        "market",
+        "process",
+        "material"
+      ]
+    },
+    {
+      "id": "12b5c46e2491",
+      "title": "消費級 DRAM 緊缺態勢延伸 DDR2 產品，第三季合約價持續上揚",
+      "link": "https://technews.tw/2026/06/22/consumer-dram-scarcity-extends-to-ddr2-products-q3-contract-prices-continue-upward-trend/",
+      "summary": "TrendForce 最新研究顯示，成熟製程 DRAM 供給結構性緊縮，迫使消費級 DRAM 需求方採用舊世代 [&#8230;]",
+      "date": "2026-06-22T06:40:10+00:00",
+      "sourceId": "technews",
+      "cats": [
+        "market",
+        "process",
+        "material"
+      ]
+    },
+    {
+      "id": "77a62124f55d",
+      "title": "SK 海力士大舉招募數百名晶片設計人才！韓業界憂形成「人才黑洞」",
+      "link": "https://technews.tw/2026/06/22/sk-hynix-hiring-fabless-company/",
+      "summary": "市場消息傳出，SK 海力士近期罕見展開大規模晶片設計工程師招募計畫，引發韓國無晶圓廠（Fabless）產業高度 [&#8230;]",
+      "date": "2026-06-22T06:13:05+00:00",
+      "sourceId": "technews",
+      "cats": [
+        "market",
+        "process",
+        "material"
+      ]
+    },
+    {
+      "id": "33e38ad45a33",
+      "title": "AI 拉貨動能是否延續？本週美光財報見真章",
+      "link": "https://technews.tw/2026/06/22/ai-demand-momentum-continue-micron-earnings-report-this-week-reveal-truth/",
+      "summary": "全球 AI 熱潮是否延續？市場即將從記憶體大廠美光（Micron）財報尋找答案。投資人密切關注其業績表現及未來 [&#8230;]",
+      "date": "2026-06-22T06:10:52+00:00",
+      "sourceId": "technews",
+      "cats": [
+        "market",
+        "process",
+        "material"
+      ]
+    },
+    {
+      "id": "89f03630b958",
+      "title": "突破傳統旁側配置，SanDisk 新專利將 NAND 快閃記憶體「墊」在 GPU 底下",
+      "link": "https://technews.tw/2026/06/22/sandisk-bets-on-stacking-nand-and-compute-on-one-chip-as-hbm-shortages-choke-the-ai-boom/",
+      "summary": "SanDisk 正押注一項更激進的儲存架構，試圖在人工智慧熱潮推升記憶體需求、卻也暴露供應瓶頸的背景下，為未來 [&#8230;]",
+      "date": "2026-06-22T06:00:28+00:00",
       "sourceId": "technews",
       "cats": [
         "market",
@@ -183,19 +261,6 @@
       "link": "https://www.eetimes.com/all-semiconductor-roads-lead-to-taiwan/",
       "summary": "Small in size but outsized in influence, Taiwan has become a linchpin of the global semiconductor supply chain. The post All Semiconductor Roads Lead to Taiwan appeared first on EE Times.",
       "date": "2026-06-19T07:45:00+00:00",
-      "sourceId": "eetimes",
-      "cats": [
-        "process",
-        "material",
-        "equipment"
-      ]
-    },
-    {
-      "id": "8c4d1596d441",
-      "title": "Can Catalonia’s Distributed Semiconductor Network Deliver?",
-      "link": "https://www.eetimes.com/can-catalonia-deliver-on-its-distributed-semiconductor-network/",
-      "summary": "Catalonia is unifying its fragmented tech ecosystem into a coordinated semiconductor cluster spanning photonics, packaging, AI, and chip research. The post Can Catalonia’s Distributed Semiconductor Network Deliver? appeared first on EE Times.",
-      "date": "2026-06-18T07:15:00+00:00",
       "sourceId": "eetimes",
       "cats": [
         "process",
