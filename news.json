@@ -1,6 +1,6 @@
 {
-  "updated": "2026-06-22T23:06:44.825488+00:00",
-  "count": 23,
+  "updated": "2026-06-23T11:43:59.872405+00:00",
+  "count": 18,
   "sources": [
     {
       "id": "technews",
@@ -61,11 +61,11 @@
   ],
   "articles": [
     {
-      "id": "002c3bf5c7f3",
-      "title": "扛不住通膨與成本壓力，聯發科通知客戶調漲晶片價格",
-      "link": "https://finance.technews.tw/2026/06/22/mediatek-notifies-customers-of-a-price-increase-for-chips/",
-      "summary": "受到全球通膨與供應鏈動盪的影響，國內IC設計龍頭聯發科近期證實已難以獨自吸收成本，正式向客戶發布通知函，預告將 [&#8230;]",
-      "date": "2026-06-22T14:10:30+00:00",
+      "id": "8f1cfc62630b",
+      "title": "日本新創發表 Sakana Fugu，系統協調存取不同 Agent、效能媲美 Fable 5",
+      "link": "https://technews.tw/2026/06/23/sakana-ai-introduces-sakana-fugu/",
+      "summary": "曾獲 NVIDIA、Google 等巨頭投資的日本新創 Sakana AI，宣布推出「Sakana Fugu」 [&#8230;]",
+      "date": "2026-06-23T10:34:31+00:00",
       "sourceId": "technews",
       "cats": [
         "market",
@@ -74,11 +74,11 @@
       ]
     },
     {
-      "id": "cc37f56af8dc",
-      "title": "台積電股價衝破 2,500 元大關，台股寫多項新高紀錄",
-      "link": "https://finance.technews.tw/2026/06/22/tw-stock-new-high-0622/",
-      "summary": "美國存託憑證（ADR）大漲 6.94% 激勵下，台積電今天股價開高走高，終場大漲 100 元或 4.15%，收 [&#8230;]",
-      "date": "2026-06-22T09:30:03+00:00",
+      "id": "a19472a034a3",
+      "title": "利用水與丙二醇混合封閉循環液體系統，輝達發表省水新 AI 系統",
+      "link": "https://technews.tw/2026/06/23/nvidia-unveils-new-water-saving-ai-system/",
+      "summary": "隨著人工智慧（AI）基礎設施快速發展，資料中心龐大的水電消耗引發外界高度關注。為因應此危機，輝達（Nvidia [&#8230;]",
+      "date": "2026-06-23T09:45:23+00:00",
       "sourceId": "technews",
       "cats": [
         "market",
@@ -87,11 +87,11 @@
       ]
     },
     {
-      "id": "dc46a9c2b74a",
-      "title": "滙豐曝台灣 GDP 成長僅 7% 原因！AI 記憶體瓶頸恐拖累科技業發展",
-      "link": "https://finance.technews.tw/2026/06/22/memory-bottleneck/",
-      "summary": "滙豐私人銀行今日舉辦 2026 年第三季投資展望，有別於其他機構已將台灣 GDP 預測調高至 9.9%，滙豐私 [&#8230;]",
-      "date": "2026-06-22T09:21:25+00:00",
+      "id": "b8fba8e0eb89",
+      "title": "威剛陳立白率團拜訪泰國，看好東南亞 AI 需求布局算力中心發展",
+      "link": "https://finance.technews.tw/2026/06/23/adata-visits-thailand-to-establish-an-ai-computing-center/",
+      "summary": "因應全球AI算力中心需求快速成長及東南亞市場發展潛力，記憶體模組廠威剛科技董事長陳立白日前率領合作夥伴拜訪泰國 [&#8230;]",
+      "date": "2026-06-23T09:15:41+00:00",
       "sourceId": "technews",
       "cats": [
         "market",
@@ -100,11 +100,11 @@
       ]
     },
     {
-      "id": "0f4f01d5b030",
-      "title": "傳縮減 28 奈米產能，台積電：成熟製程策略不變",
-      "link": "https://technews.tw/2026/06/22/tsmc-reportedly-cuts-28nm-capacity-affirms-mature-process-strategy-unchanged/",
-      "summary": "市場傳出，台積電積極衝刺先進製程，縮減 28 奈米製程產能，聯電和世界先進可望受惠轉單效應。台積電今天重申，在 [&#8230;]",
-      "date": "2026-06-22T08:50:03+00:00",
+      "id": "6d0ae543ef77",
+      "title": "半導體有害廢溶劑處理需求大爆發！台鎔科技預計 7 月底轉上市掛牌",
+      "link": "https://finance.technews.tw/2026/06/23/hazardous-waste/",
+      "summary": "特廢處理大廠台鎔科技明日將舉辦上市前業績發表會，預計 7 月底掛牌交易，董事長陳麗麗表示，目前半導體、光電及面 [&#8230;]",
+      "date": "2026-06-23T08:42:03+00:00",
       "sourceId": "technews",
       "cats": [
         "market",
@@ -113,11 +113,11 @@
       ]
     },
     {
-      "id": "27249427e3d4",
-      "title": "攜手英特爾重返先進製程，聯電重訊指臆測性報導無法評論",
-      "link": "https://technews.tw/2026/06/22/umc-heavy-communications-declined-to-comment-on-the-speculative-report/",
-      "summary": "針對市場消息指出，台灣晶圓代工大廠聯電（UMC）傳出將與美國晶片廠商英特爾（Intel）展開深度結盟，雙方計劃 [&#8230;]",
-      "date": "2026-06-22T08:45:00+00:00",
+      "id": "1c732c92925d",
+      "title": "台積電加速布局 CoPoS，FOPLP、玻璃基板市場規模 2030 年上看 81 億美元",
+      "link": "https://technews.tw/2026/06/23/counterpoint-and-trendforce-see-foplp-and-gsp/",
+      "summary": "隨著半導體產業持續發展先進封裝技術，以支援人工智慧（AI）與高效能運算（HPC）應用需求，全球扇出型面板級封裝 [&#8230;]",
+      "date": "2026-06-23T08:27:16+00:00",
       "sourceId": "technews",
       "cats": [
         "market",
@@ -126,11 +126,11 @@
       ]
     },
     {
-      "id": "c470043a9cc8",
-      "title": "庫克示警 iPhone 漲價難免，二手與整修品市場成精打細算新選擇",
-      "link": "https://technews.tw/2026/06/22/tim-cook-warns-iphone-price-hike-inevitable-used-refurbished-markets-smart-choice/",
-      "summary": "蘋果（Apple）執行長庫克（Tim Cook）最近在接受《華爾街日報》訪問時明確示警，受記憶體成本攀升影響， [&#8230;]",
-      "date": "2026-06-22T08:40:45+00:00",
+      "id": "c1a09f1cdd99",
+      "title": "AI 傳輸需求升溫，矽格下半年再添 ASIC、光通訊新客戶",
+      "link": "https://technews.tw/2026/06/23/ai-sigurd-microelectronic/",
+      "summary": "IC 封測廠矽格總經理葉燦鍊表示，AI 產業發展已從算力延伸至高頻寬記憶體與高速傳輸，帶動 AI、ASIC、光 [&#8230;]",
+      "date": "2026-06-23T08:17:55+00:00",
       "sourceId": "technews",
       "cats": [
         "market",
@@ -139,11 +139,11 @@
       ]
     },
     {
-      "id": "09d82113a78e",
-      "title": "奇景光電股價半年翻倍！創辦人兄弟靠顯示晶片，身價突破 300 億元",
-      "link": "https://technews.tw/2026/06/22/himax-ceo-story/",
-      "summary": "台灣顯示器驅動 IC 設計大廠「奇景光電」（Himax）共同創辦人吳炳昇及其弟弟吳炳昌，長期深耕顯示驅動晶片的 [&#8230;]",
-      "date": "2026-06-22T08:19:12+00:00",
+      "id": "94bb044c4275",
+      "title": "AI 狂潮催生新貴階級！三星、SK 海力士員工變績優股，晉升婚友市場「A+ 級搶手貨」",
+      "link": "https://technews.tw/2026/06/23/sk-hynix-and-samsung-is-hot/",
+      "summary": "全球 AI 熱潮促使韓國兩大記憶體巨頭 SK 海力士和三星電子成為資本市場寵兒，其員工亦躍升為韓國婚戀市場最受 [&#8230;]",
+      "date": "2026-06-23T07:27:58+00:00",
       "sourceId": "technews",
       "cats": [
         "market",
@@ -152,76 +152,11 @@
       ]
     },
     {
-      "id": "08a1e60d9ef5",
-      "title": "三星 2 奈米仍落後台積電 N2P，Exynos 2700 以新散熱技術補強性能",
-      "link": "https://technews.tw/2026/06/22/samsungs-2nm-process-still-lags-behind-tsmcs-n2p/",
-      "summary": "隨著半導體先進製程競爭日益白熱化，韓國三星正積極開發其下一代旗艦行動處理器 Exynos 2700，展現其在先 [&#8230;]",
-      "date": "2026-06-22T08:15:35+00:00",
-      "sourceId": "technews",
-      "cats": [
-        "market",
-        "process",
-        "material"
-      ]
-    },
-    {
-      "id": "cb6450e0262d",
-      "title": "明基材小金雞衛普、碩晨邁 IPO 進程！打入糖尿病大廠、半導體 2 奈米製程",
-      "link": "https://finance.technews.tw/2026/06/22/materials-scienc/",
-      "summary": "明基材跨足高附加價值醫療產業轉型有成，董事長陳建志表示，受惠早年布局的 CDMO（委託開發暨製造服務）與購併效 [&#8230;]",
-      "date": "2026-06-22T08:11:15+00:00",
-      "sourceId": "technews",
-      "cats": [
-        "market",
-        "process",
-        "material"
-      ]
-    },
-    {
-      "id": "12b5c46e2491",
-      "title": "消費級 DRAM 緊缺態勢延伸 DDR2 產品，第三季合約價持續上揚",
-      "link": "https://technews.tw/2026/06/22/consumer-dram-scarcity-extends-to-ddr2-products-q3-contract-prices-continue-upward-trend/",
-      "summary": "TrendForce 最新研究顯示，成熟製程 DRAM 供給結構性緊縮，迫使消費級 DRAM 需求方採用舊世代 [&#8230;]",
-      "date": "2026-06-22T06:40:10+00:00",
-      "sourceId": "technews",
-      "cats": [
-        "market",
-        "process",
-        "material"
-      ]
-    },
-    {
-      "id": "77a62124f55d",
-      "title": "SK 海力士大舉招募數百名晶片設計人才！韓業界憂形成「人才黑洞」",
-      "link": "https://technews.tw/2026/06/22/sk-hynix-hiring-fabless-company/",
-      "summary": "市場消息傳出，SK 海力士近期罕見展開大規模晶片設計工程師招募計畫，引發韓國無晶圓廠（Fabless）產業高度 [&#8230;]",
-      "date": "2026-06-22T06:13:05+00:00",
-      "sourceId": "technews",
-      "cats": [
-        "market",
-        "process",
-        "material"
-      ]
-    },
-    {
-      "id": "33e38ad45a33",
-      "title": "AI 拉貨動能是否延續？本週美光財報見真章",
-      "link": "https://technews.tw/2026/06/22/ai-demand-momentum-continue-micron-earnings-report-this-week-reveal-truth/",
-      "summary": "全球 AI 熱潮是否延續？市場即將從記憶體大廠美光（Micron）財報尋找答案。投資人密切關注其業績表現及未來 [&#8230;]",
-      "date": "2026-06-22T06:10:52+00:00",
-      "sourceId": "technews",
-      "cats": [
-        "market",
-        "process",
-        "material"
-      ]
-    },
-    {
-      "id": "89f03630b958",
-      "title": "突破傳統旁側配置，SanDisk 新專利將 NAND 快閃記憶體「墊」在 GPU 底下",
-      "link": "https://technews.tw/2026/06/22/sandisk-bets-on-stacking-nand-and-compute-on-one-chip-as-hbm-shortages-choke-the-ai-boom/",
-      "summary": "SanDisk 正押注一項更激進的儲存架構，試圖在人工智慧熱潮推升記憶體需求、卻也暴露供應瓶頸的背景下，為未來 [&#8230;]",
-      "date": "2026-06-22T06:00:28+00:00",
+      "id": "1a8c90878b42",
+      "title": "輝達 B200 租賃報價回落  Kalshi 交易員：難回前高",
+      "link": "https://technews.tw/2026/06/23/nvidia-b200-rental-rates-unlikely-to-revisit-previous-highs/",
+      "summary": "輝達（Nvidia）股價近來陷入盤整，而隨著其頂尖 AI 晶片的算力租賃價格回落，Kalshi 預測平台交易員 [&#8230;]",
+      "date": "2026-06-23T07:10:07+00:00",
       "sourceId": "technews",
       "cats": [
         "market",
