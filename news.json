@@ -1,6 +1,6 @@
 {
-  "updated": "2026-06-24T10:36:55.889596+00:00",
-  "count": 10,
+  "updated": "2026-06-24T18:22:48.136076+00:00",
+  "count": 12,
   "sources": [
     {
       "id": "technews",
@@ -61,6 +61,45 @@
   ],
   "articles": [
     {
+      "id": "e0cf8c1e2d3a",
+      "title": "Deep UV Lithography Processing, the Best Kept Secret of EUV Lithography",
+      "link": "https://www.eetimes.com/deep-uv-lithography-processing-the-best-kept-secret-of-euv-lithography/",
+      "summary": "EUV grabs the glory, but DUV does the dirty work that keeps advanced chips alive. The post Deep UV Lithography Processing, the Best Kept Secret of EUV Lithography appeared first on EE Times.",
+      "date": "2026-06-24T15:35:14+00:00",
+      "sourceId": "eetimes",
+      "cats": [
+        "process",
+        "material",
+        "equipment"
+      ]
+    },
+    {
+      "id": "816d75de7cca",
+      "title": "OpenAI 首款 AI 推理晶片「Jalapeño」亮相，攜手博通設計、台積電生產",
+      "link": "https://technews.tw/2026/06/24/openai-and-broadcom-unveil-llm-optimized-inference-chip/",
+      "summary": "OpenAI 24 日公開自家首款客製化 AI 晶片，這款名為「Jalapeño」的 AI 加速器是與博通（B [&#8230;]",
+      "date": "2026-06-24T15:34:07+00:00",
+      "sourceId": "technews",
+      "cats": [
+        "market",
+        "process",
+        "material"
+      ]
+    },
+    {
+      "id": "0b1d8e5ce933",
+      "title": "合聖 6/26 每股 120 元登興櫃，首條自主 FAU 封裝產線 Q4 試產",
+      "link": "https://technews.tw/2026/06/24/authenx-ipo/",
+      "summary": "高速光學互連解決方案領導廠商合聖科技今（24 日）舉辦媒體交流會，董事長伍茂仁表示，自主 Meta Lens [&#8230;]",
+      "date": "2026-06-24T12:25:21+00:00",
+      "sourceId": "technews",
+      "cats": [
+        "market",
+        "process",
+        "material"
+      ]
+    },
+    {
       "id": "11f8fc1fdd05",
       "title": "川普力推量子資安新戰略！通寶半導體 QB7 通過美國 NIST CAVP 驗證",
       "link": "https://finance.technews.tw/2026/06/24/post/",
@@ -79,19 +118,6 @@
       "link": "https://www.eetimes.com/snug-india-2026-synopsys-unveils-first-multiphysics-fusion-tools-since-ansys-deal/",
       "summary": "Synopsys debuts Multiphysics Fusion tools post-Ansys, unifying EDA and physics for advanced node and 3DIC designs. The post SNUG India 2026: Synopsys Unveils First Multiphysics Fusion Tools Since Ansys Deal appeared first on EE Times.",
       "date": "2026-06-23T17:00:00+00:00",
-      "sourceId": "eetimes",
-      "cats": [
-        "process",
-        "material",
-        "equipment"
-      ]
-    },
-    {
-      "id": "243d34b2adf1",
-      "title": "Defense Sends Clear Signal to Canadian Semiconductor Industry",
-      "link": "https://www.eetimes.com/defense-sends-clear-signal-to-canadian-semiconductor-industry/",
-      "summary": "Canada sharpens its defense and tech edge with policies to boost homegrown chip power. The post Defense Sends Clear Signal to Canadian Semiconductor Industry appeared first on EE Times.",
-      "date": "2026-06-19T22:00:00+00:00",
       "sourceId": "eetimes",
       "cats": [
         "process",
