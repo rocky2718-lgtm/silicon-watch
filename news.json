@@ -1,6 +1,6 @@
 {
-  "updated": "2026-06-24T18:22:48.136076+00:00",
-  "count": 12,
+  "updated": "2026-06-24T23:53:10.602632+00:00",
+  "count": 17,
   "sources": [
     {
       "id": "technews",
@@ -60,6 +60,71 @@
     }
   ],
   "articles": [
+    {
+      "id": "285f9fa0aea5",
+      "title": "再談 2026 PC 趨勢：舊瓶新酒回應平價 MacBook Neo 衝擊",
+      "link": "https://technews.tw/2026/06/25/revisiting-2026-pc-trends-repackaging-old-concepts-respond-affordable-macbook-neo-impact/",
+      "summary": "2026 年 PC 市況不好相信大家已有耳聞，罪魁禍首就是 AI 基礎建設強勁需求而暴漲的記憶體，甚至 CPU [&#8230;]",
+      "date": "2026-06-24T23:50:06+00:00",
+      "sourceId": "technews",
+      "cats": [
+        "market",
+        "process",
+        "material"
+      ]
+    },
+    {
+      "id": "d2a46c012fe2",
+      "title": "從 AI 晶片到太空軌道運算，蔡明介領軍聯發科描繪半導體未來藍圖",
+      "link": "https://finance.technews.tw/2026/06/25/from-ai-chips-to-orbital-computing-in-space/",
+      "summary": "聯發科長期投入產學資源，促進半導體前瞻技術研發與高階人才培育，日前透過聯發科前瞻研發中心（MediaTek A [&#8230;]",
+      "date": "2026-06-24T23:30:55+00:00",
+      "sourceId": "technews",
+      "cats": [
+        "market",
+        "process",
+        "material"
+      ]
+    },
+    {
+      "id": "e1d54fa37a25",
+      "title": "高通新晶片「Dragonfly」簽訂 Meta！併購 AI 新創 Modular 揮軍資料中心",
+      "link": "https://finance.technews.tw/2026/06/25/dragonfly/",
+      "summary": "高通今日發布一款名為 Dragonfly C1000 的資料中心 CPU（中央處理器），專為代理型 AI 設計 [&#8230;]",
+      "date": "2026-06-24T23:27:14+00:00",
+      "sourceId": "technews",
+      "cats": [
+        "market",
+        "process",
+        "material"
+      ]
+    },
+    {
+      "id": "4e89ae313e5f",
+      "title": "Pat Gelsinger 領導科技新創 xLight 進行融資，開發 EUV 新光源加入 ASML供應鏈體系",
+      "link": "https://finance.technews.tw/2026/06/25/pat-gelsinger-leads-tech-startup-xlight-in-fundraising/",
+      "summary": "由前Intel執行長Pat Gelsinger擔任董事長的美國科技新創公司xLight，傳出目前正洽談一筆高達 [&#8230;]",
+      "date": "2026-06-24T23:00:28+00:00",
+      "sourceId": "technews",
+      "cats": [
+        "market",
+        "process",
+        "material"
+      ]
+    },
+    {
+      "id": "91fc4d777b61",
+      "title": "美光第三季財報再創下歷史新高，毛利率超過 84% 帶動盤後股價收復崩跌幅度",
+      "link": "https://finance.technews.tw/2026/06/25/microns-third-quarter-earnings-hit-a-new-record-high/",
+      "summary": "記憶體大廠美光（Micron）公布截至 2026 年 5 月 28 日的 2026 年第三季財務報告。受惠於人 [&#8230;]",
+      "date": "2026-06-24T22:00:25+00:00",
+      "sourceId": "technews",
+      "cats": [
+        "market",
+        "process",
+        "material"
+      ]
+    },
     {
       "id": "e0cf8c1e2d3a",
       "title": "Deep UV Lithography Processing, the Best Kept Secret of EUV Lithography",
