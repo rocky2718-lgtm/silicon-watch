@@ -1,6 +1,6 @@
 {
-  "updated": "2026-06-23T23:39:08.069696+00:00",
-  "count": 22,
+  "updated": "2026-06-24T10:36:55.889596+00:00",
+  "count": 10,
   "sources": [
     {
       "id": "technews",
@@ -61,37 +61,11 @@
   ],
   "articles": [
     {
-      "id": "7689864d2002",
-      "title": "美風投家 2030 年五大 AI 預言：台積電與 ASML 不再能壟斷晶圓代工市場",
-      "link": "https://technews.tw/2026/06/24/5-more-ai-predictions-for-the-year-2030/",
-      "summary": "《富比士》專欄特約作者、Radical Ventures 合夥人 Rob Toews，21 日發表五項 203 [&#8230;]",
-      "date": "2026-06-23T23:20:30+00:00",
-      "sourceId": "technews",
-      "cats": [
-        "market",
-        "process",
-        "material"
-      ]
-    },
-    {
-      "id": "4e22f1669156",
-      "title": "美國研發「電子鼻」晶片辨識變質食物，靈敏度超越人類鼻子",
-      "link": "https://technews.tw/2026/06/24/electronic-nose-chip-identifies-spoiled-food/",
-      "summary": "加州大學柏克萊分校 UC Berkeley 研究團隊開發出一款「電子鼻」晶片，透過 16 個微型氣體感應器配合 [&#8230;]",
-      "date": "2026-06-23T23:10:26+00:00",
-      "sourceId": "technews",
-      "cats": [
-        "market",
-        "process",
-        "material"
-      ]
-    },
-    {
-      "id": "0a8472443a8b",
-      "title": "台積電漲價！範圍將涵蓋所有先進製程，漲價原因則是因為這個",
-      "link": "https://finance.technews.tw/2026/06/24/tsmc-raises-prices-for-all-advanced-process-technologies/",
-      "summary": "全球晶圓代工龍頭台積電傳出將對所有先進製程全面調漲代工價格。這波漲價的影響範圍不僅涵蓋7奈米及以下的所有製程節 [&#8230;]",
-      "date": "2026-06-23T22:00:01+00:00",
+      "id": "11f8fc1fdd05",
+      "title": "川普力推量子資安新戰略！通寶半導體 QB7 通過美國 NIST CAVP 驗證",
+      "link": "https://finance.technews.tw/2026/06/24/post/",
+      "summary": "隨著美中科技戰進入新回合，美國總統川普（Donald Trump）將量子計算與次世代資安防護列為科技戰略核心， [&#8230;]",
+      "date": "2026-06-24T08:28:57+00:00",
       "sourceId": "technews",
       "cats": [
         "market",
@@ -113,141 +87,11 @@
       ]
     },
     {
-      "id": "2839f069cc85",
-      "title": "聯電 5 月 EPS 達 0.68 元，較 2025 年同期大增 195.7%",
-      "link": "https://finance.technews.tw/2026/06/23/umcs-eps-reached-nt0-68-in-may/",
-      "summary": "晶圓代工大廠聯電23日發布重大訊息表示，因有價證券於集中交易市場達公布注意交易資訊標準，依據台灣證券交易所通知 [&#8230;]",
-      "date": "2026-06-23T15:00:36+00:00",
-      "sourceId": "technews",
-      "cats": [
-        "market",
-        "process",
-        "material"
-      ]
-    },
-    {
-      "id": "8f1cfc62630b",
-      "title": "日本新創發表 Sakana Fugu，系統協調存取不同 Agent、效能媲美 Fable 5",
-      "link": "https://technews.tw/2026/06/23/sakana-ai-introduces-sakana-fugu/",
-      "summary": "曾獲 NVIDIA、Google 等巨頭投資的日本新創 Sakana AI，宣布推出「Sakana Fugu」 [&#8230;]",
-      "date": "2026-06-23T10:34:31+00:00",
-      "sourceId": "technews",
-      "cats": [
-        "market",
-        "process",
-        "material"
-      ]
-    },
-    {
-      "id": "a19472a034a3",
-      "title": "利用水與丙二醇混合封閉循環液體系統，輝達發表省水新 AI 系統",
-      "link": "https://technews.tw/2026/06/23/nvidia-unveils-new-water-saving-ai-system/",
-      "summary": "隨著人工智慧（AI）基礎設施快速發展，資料中心龐大的水電消耗引發外界高度關注。為因應此危機，輝達（Nvidia [&#8230;]",
-      "date": "2026-06-23T09:45:23+00:00",
-      "sourceId": "technews",
-      "cats": [
-        "market",
-        "process",
-        "material"
-      ]
-    },
-    {
-      "id": "b8fba8e0eb89",
-      "title": "威剛陳立白率團拜訪泰國，看好東南亞 AI 需求布局算力中心發展",
-      "link": "https://finance.technews.tw/2026/06/23/adata-visits-thailand-to-establish-an-ai-computing-center/",
-      "summary": "因應全球AI算力中心需求快速成長及東南亞市場發展潛力，記憶體模組廠威剛科技董事長陳立白日前率領合作夥伴拜訪泰國 [&#8230;]",
-      "date": "2026-06-23T09:15:41+00:00",
-      "sourceId": "technews",
-      "cats": [
-        "market",
-        "process",
-        "material"
-      ]
-    },
-    {
-      "id": "6d0ae543ef77",
-      "title": "半導體有害廢溶劑處理需求大爆發！台鎔科技預計 7 月底轉上市掛牌",
-      "link": "https://finance.technews.tw/2026/06/23/hazardous-waste/",
-      "summary": "特廢處理大廠台鎔科技明日將舉辦上市前業績發表會，預計 7 月底掛牌交易，董事長陳麗麗表示，目前半導體、光電及面 [&#8230;]",
-      "date": "2026-06-23T08:42:03+00:00",
-      "sourceId": "technews",
-      "cats": [
-        "market",
-        "process",
-        "material"
-      ]
-    },
-    {
-      "id": "1c732c92925d",
-      "title": "台積電加速布局 CoPoS，FOPLP、玻璃基板市場規模 2030 年上看 81 億美元",
-      "link": "https://technews.tw/2026/06/23/counterpoint-and-trendforce-see-foplp-and-gsp/",
-      "summary": "隨著半導體產業持續發展先進封裝技術，以支援人工智慧（AI）與高效能運算（HPC）應用需求，全球扇出型面板級封裝 [&#8230;]",
-      "date": "2026-06-23T08:27:16+00:00",
-      "sourceId": "technews",
-      "cats": [
-        "market",
-        "process",
-        "material"
-      ]
-    },
-    {
-      "id": "c1a09f1cdd99",
-      "title": "AI 傳輸需求升溫，矽格下半年再添 ASIC、光通訊新客戶",
-      "link": "https://technews.tw/2026/06/23/ai-sigurd-microelectronic/",
-      "summary": "IC 封測廠矽格總經理葉燦鍊表示，AI 產業發展已從算力延伸至高頻寬記憶體與高速傳輸，帶動 AI、ASIC、光 [&#8230;]",
-      "date": "2026-06-23T08:17:55+00:00",
-      "sourceId": "technews",
-      "cats": [
-        "market",
-        "process",
-        "material"
-      ]
-    },
-    {
-      "id": "94bb044c4275",
-      "title": "AI 狂潮催生新貴階級！三星、SK 海力士員工變績優股，晉升婚友市場「A+ 級搶手貨」",
-      "link": "https://technews.tw/2026/06/23/sk-hynix-and-samsung-is-hot/",
-      "summary": "全球 AI 熱潮促使韓國兩大記憶體巨頭 SK 海力士和三星電子成為資本市場寵兒，其員工亦躍升為韓國婚戀市場最受 [&#8230;]",
-      "date": "2026-06-23T07:27:58+00:00",
-      "sourceId": "technews",
-      "cats": [
-        "market",
-        "process",
-        "material"
-      ]
-    },
-    {
-      "id": "1a8c90878b42",
-      "title": "輝達 B200 租賃報價回落  Kalshi 交易員：難回前高",
-      "link": "https://technews.tw/2026/06/23/nvidia-b200-rental-rates-unlikely-to-revisit-previous-highs/",
-      "summary": "輝達（Nvidia）股價近來陷入盤整，而隨著其頂尖 AI 晶片的算力租賃價格回落，Kalshi 預測平台交易員 [&#8230;]",
-      "date": "2026-06-23T07:10:07+00:00",
-      "sourceId": "technews",
-      "cats": [
-        "market",
-        "process",
-        "material"
-      ]
-    },
-    {
       "id": "243d34b2adf1",
       "title": "Defense Sends Clear Signal to Canadian Semiconductor Industry",
       "link": "https://www.eetimes.com/defense-sends-clear-signal-to-canadian-semiconductor-industry/",
       "summary": "Canada sharpens its defense and tech edge with policies to boost homegrown chip power. The post Defense Sends Clear Signal to Canadian Semiconductor Industry appeared first on EE Times.",
       "date": "2026-06-19T22:00:00+00:00",
-      "sourceId": "eetimes",
-      "cats": [
-        "process",
-        "material",
-        "equipment"
-      ]
-    },
-    {
-      "id": "1626efebf430",
-      "title": "Amazon’s Newest Gambit: Selling AI Chips",
-      "link": "https://www.eetimes.com/amazon-newest-gambit-selling-ai-chips/",
-      "summary": "The world’s largest hyperscaler wants to seize the semiconductor moment by selling AI accelerators at scale. The post Amazon’s Newest Gambit: Selling AI Chips appeared first on EE Times.",
-      "date": "2026-06-19T12:19:36+00:00",
       "sourceId": "eetimes",
       "cats": [
         "process",
