@@ -1,6 +1,6 @@
 {
-  "updated": "2026-06-24T23:53:10.602632+00:00",
-  "count": 17,
+  "updated": "2026-06-25T10:29:43.665000+00:00",
+  "count": 21,
   "sources": [
     {
       "id": "technews",
@@ -61,11 +61,24 @@
   ],
   "articles": [
     {
-      "id": "285f9fa0aea5",
-      "title": "再談 2026 PC 趨勢：舊瓶新酒回應平價 MacBook Neo 衝擊",
-      "link": "https://technews.tw/2026/06/25/revisiting-2026-pc-trends-repackaging-old-concepts-respond-affordable-macbook-neo-impact/",
-      "summary": "2026 年 PC 市況不好相信大家已有耳聞，罪魁禍首就是 AI 基礎建設強勁需求而暴漲的記憶體，甚至 CPU [&#8230;]",
-      "date": "2026-06-24T23:50:06+00:00",
+      "id": "0a572e7afb08",
+      "title": "IBM Shows Sub-1-nm Chips, Targeting Production in 5 Years",
+      "link": "https://www.eetimes.com/ibm-shows-sub-1-nm-chips-targeting-production-in-5-years/",
+      "summary": "IBM unveils 0.7-nm nanostack chips promising 100 billion transistors, denser SRAM, and production within five years. The post IBM Shows Sub-1-nm Chips, Targeting Production in 5 Years appeared first on EE Times.",
+      "date": "2026-06-25T10:00:00+00:00",
+      "sourceId": "eetimes",
+      "cats": [
+        "process",
+        "material",
+        "equipment"
+      ]
+    },
+    {
+      "id": "978e1454987a",
+      "title": "NVIDIA 800V Power Rack 成 Vera Rubin 選用方案，預估至 Rubin Ultra 世代擴大採用",
+      "link": "https://technews.tw/2026/06/25/vera-rubin-selects-nvidia-800v-power-rack-anticipates-expanded-adoption-rubin-ultra-generation/",
+      "summary": "根據 TrendForce 最新 AI server 供電架構研究，NVIDIA 正積極打造自家 800V H [&#8230;]",
+      "date": "2026-06-25T08:20:39+00:00",
       "sourceId": "technews",
       "cats": [
         "market",
@@ -74,11 +87,11 @@
       ]
     },
     {
-      "id": "d2a46c012fe2",
-      "title": "從 AI 晶片到太空軌道運算，蔡明介領軍聯發科描繪半導體未來藍圖",
-      "link": "https://finance.technews.tw/2026/06/25/from-ai-chips-to-orbital-computing-in-space/",
-      "summary": "聯發科長期投入產學資源，促進半導體前瞻技術研發與高階人才培育，日前透過聯發科前瞻研發中心（MediaTek A [&#8230;]",
-      "date": "2026-06-24T23:30:55+00:00",
+      "id": "0e1a5d08e03e",
+      "title": "向台積電下訂產能、CPO 技術有望深化，外資改點讚創意",
+      "link": "https://technews.tw/2026/06/25/guc-0625-cpo-and-cowos/",
+      "summary": "根據美系外資最新 AI 供應鏈報告指出，創意已向台積電預訂明年約 6 萬片 CoWoS 晶圓產能，有望來自新的 [&#8230;]",
+      "date": "2026-06-25T08:17:07+00:00",
       "sourceId": "technews",
       "cats": [
         "market",
@@ -87,11 +100,11 @@
       ]
     },
     {
-      "id": "e1d54fa37a25",
-      "title": "高通新晶片「Dragonfly」簽訂 Meta！併購 AI 新創 Modular 揮軍資料中心",
-      "link": "https://finance.technews.tw/2026/06/25/dragonfly/",
-      "summary": "高通今日發布一款名為 Dragonfly C1000 的資料中心 CPU（中央處理器），專為代理型 AI 設計 [&#8230;]",
-      "date": "2026-06-24T23:27:14+00:00",
+      "id": "732a4a8166de",
+      "title": "世紀風電併購世紀樺欣，將轉型為全方位能源設備製造商",
+      "link": "https://finance.technews.tw/2026/06/25/offshore-taiwan-company-is-going-fire/",
+      "summary": "面對 AI 發展及半導體擴廠帶動能源基礎建設需求快速成長，世紀風電今（25）日召開重大訊息記者會。副總經理賴宣 [&#8230;]",
+      "date": "2026-06-25T08:12:32+00:00",
       "sourceId": "technews",
       "cats": [
         "market",
@@ -100,11 +113,11 @@
       ]
     },
     {
-      "id": "4e89ae313e5f",
-      "title": "Pat Gelsinger 領導科技新創 xLight 進行融資，開發 EUV 新光源加入 ASML供應鏈體系",
-      "link": "https://finance.technews.tw/2026/06/25/pat-gelsinger-leads-tech-startup-xlight-in-fundraising/",
-      "summary": "由前Intel執行長Pat Gelsinger擔任董事長的美國科技新創公司xLight，傳出目前正洽談一筆高達 [&#8230;]",
-      "date": "2026-06-24T23:00:28+00:00",
+      "id": "67711959c5ee",
+      "title": "專家：AI 帶動記憶體進入超級週期，台灣成關鍵少數",
+      "link": "https://technews.tw/2026/06/25/experts-ai-drives-memory-supercycle-taiwan-critical-few/",
+      "summary": "美光財報優於預期，反映 AI 基礎設施投資持續擴張，帶動記憶體需求強勁。台經院產經資料庫總監劉佩真認為，記憶體 [&#8230;]",
+      "date": "2026-06-25T08:10:07+00:00",
       "sourceId": "technews",
       "cats": [
         "market",
@@ -113,11 +126,89 @@
       ]
     },
     {
-      "id": "91fc4d777b61",
-      "title": "美光第三季財報再創下歷史新高，毛利率超過 84% 帶動盤後股價收復崩跌幅度",
-      "link": "https://finance.technews.tw/2026/06/25/microns-third-quarter-earnings-hit-a-new-record-high/",
-      "summary": "記憶體大廠美光（Micron）公布截至 2026 年 5 月 28 日的 2026 年第三季財務報告。受惠於人 [&#8230;]",
-      "date": "2026-06-24T22:00:25+00:00",
+      "id": "88def5cfcb43",
+      "title": "烏克蘭精確攻擊俄羅斯半導體工廠，已遭台灣列入制裁名單工廠難以恢復生產",
+      "link": "https://technews.tw/2026/06/25/ukraine-precisely-attacks-russian-semiconductor-factory/",
+      "summary": "外媒報導，日前烏克蘭空軍對位於俄羅斯佛羅尼斯（Voronezh）的軍工企業佛羅尼斯半導體元件廠（VZPP）發動 [&#8230;]",
+      "date": "2026-06-25T08:00:59+00:00",
+      "sourceId": "technews",
+      "cats": [
+        "market",
+        "process",
+        "material"
+      ]
+    },
+    {
+      "id": "cc94b79d63d6",
+      "title": "Qualcomm Forecasts Billions in Additional Revenue from New Data Center Solutions",
+      "link": "https://www.eetimes.com/qualcomm-forecasts-billions-in-additional-revenue-from-new-data-center-solutions/",
+      "summary": "Qualcomm takes the data center by storm with networking, AI accelerators, and both custom and standard CPUs. The post Qualcomm Forecasts Billions in Additional Revenue from New Data Center Solutions appeared first on EE Times.",
+      "date": "2026-06-25T07:52:39+00:00",
+      "sourceId": "eetimes",
+      "cats": [
+        "process",
+        "material",
+        "equipment"
+      ]
+    },
+    {
+      "id": "c16c238b0582",
+      "title": "AI 攻擊時代來臨，DEVCORE 打造企業版「閉門 Pwn2Own」找漏洞",
+      "link": "https://finance.technews.tw/2026/06/25/devcore-opsr/",
+      "summary": "AI 正在改變資安攻防速度，也讓企業產品安全面臨更高壓力。台灣攻擊型資安公司 DEVCORE 戴夫寇爾宣布推出 [&#8230;]",
+      "date": "2026-06-25T07:46:06+00:00",
+      "sourceId": "technews",
+      "cats": [
+        "market",
+        "process",
+        "material"
+      ]
+    },
+    {
+      "id": "072a68e60aa0",
+      "title": "AI 新秀 Cerebras 財報後崩近 20%  跌破發行價",
+      "link": "https://finance.technews.tw/2026/06/25/cerebras-stock-tumbles-after-first-earnings-report-since-ipo/",
+      "summary": "AI 晶片新創公司 Cerebras 上市後的首份財報表現未達市場預期，股價單日崩跌近 20%，摜破 IPO [&#8230;]",
+      "date": "2026-06-25T07:40:56+00:00",
+      "sourceId": "technews",
+      "cats": [
+        "market",
+        "process",
+        "material"
+      ]
+    },
+    {
+      "id": "6e6b66d1e434",
+      "title": "強攻 DLC 液冷商機！碩禾小金雞碩通預計 6/26 正式登錄興櫃",
+      "link": "https://finance.technews.tw/2026/06/25/dlc/",
+      "summary": "碩禾小金雞碩通預計 6 月 26 日正式登錄興櫃，受惠 AI 算力需求引發「熱牆效應」的關鍵轉折點，面對晶片功 [&#8230;]",
+      "date": "2026-06-25T07:15:47+00:00",
+      "sourceId": "technews",
+      "cats": [
+        "market",
+        "process",
+        "material"
+      ]
+    },
+    {
+      "id": "53bff2124609",
+      "title": "高通吃下三星摺疊機版圖？傳 Galaxy Z Flip 8 棄 Exynos，改擁抱 Snapdragon 平台",
+      "link": "https://technews.tw/2026/06/25/samsung-snapdragon-8-elite-gen-5/",
+      "summary": "近年三星行動部門持續深化雙晶片策略，並進一步擴大與高通的合作。根據市場消息，高通 Snapdragon 8 E [&#8230;]",
+      "date": "2026-06-25T06:45:28+00:00",
+      "sourceId": "technews",
+      "cats": [
+        "market",
+        "process",
+        "material"
+      ]
+    },
+    {
+      "id": "8aab40410c0e",
+      "title": "人型機器人記憶體需求爆  美光：是 L2+ 自駕車 10 倍",
+      "link": "https://finance.technews.tw/2026/06/25/humanoid-robot-memory-demand-micron-10x-l2-plus-autonomous-vehicles/",
+      "summary": "美國記憶體大廠美光（Micron Technology）正在押寶一項聽起來像科幻小說、卻將對半導體供應鏈產生真 [&#8230;]",
+      "date": "2026-06-25T05:50:27+00:00",
       "sourceId": "technews",
       "cats": [
         "market",
@@ -136,45 +227,6 @@
         "process",
         "material",
         "equipment"
-      ]
-    },
-    {
-      "id": "816d75de7cca",
-      "title": "OpenAI 首款 AI 推理晶片「Jalapeño」亮相，攜手博通設計、台積電生產",
-      "link": "https://technews.tw/2026/06/24/openai-and-broadcom-unveil-llm-optimized-inference-chip/",
-      "summary": "OpenAI 24 日公開自家首款客製化 AI 晶片，這款名為「Jalapeño」的 AI 加速器是與博通（B [&#8230;]",
-      "date": "2026-06-24T15:34:07+00:00",
-      "sourceId": "technews",
-      "cats": [
-        "market",
-        "process",
-        "material"
-      ]
-    },
-    {
-      "id": "0b1d8e5ce933",
-      "title": "合聖 6/26 每股 120 元登興櫃，首條自主 FAU 封裝產線 Q4 試產",
-      "link": "https://technews.tw/2026/06/24/authenx-ipo/",
-      "summary": "高速光學互連解決方案領導廠商合聖科技今（24 日）舉辦媒體交流會，董事長伍茂仁表示，自主 Meta Lens [&#8230;]",
-      "date": "2026-06-24T12:25:21+00:00",
-      "sourceId": "technews",
-      "cats": [
-        "market",
-        "process",
-        "material"
-      ]
-    },
-    {
-      "id": "11f8fc1fdd05",
-      "title": "川普力推量子資安新戰略！通寶半導體 QB7 通過美國 NIST CAVP 驗證",
-      "link": "https://finance.technews.tw/2026/06/24/post/",
-      "summary": "隨著美中科技戰進入新回合，美國總統川普（Donald Trump）將量子計算與次世代資安防護列為科技戰略核心， [&#8230;]",
-      "date": "2026-06-24T08:28:57+00:00",
-      "sourceId": "technews",
-      "cats": [
-        "market",
-        "process",
-        "material"
       ]
     },
     {
