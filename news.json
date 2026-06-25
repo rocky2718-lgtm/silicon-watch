@@ -1,6 +1,6 @@
 {
-  "updated": "2026-06-25T21:49:26.549301+00:00",
-  "count": 19,
+  "updated": "2026-06-25T23:24:36.183764+00:00",
+  "count": 20,
   "sources": [
     {
       "id": "technews",
@@ -60,6 +60,19 @@
     }
   ],
   "articles": [
+    {
+      "id": "b42cdb0d6d43",
+      "title": "Jim Keller: ‘AI Still Obeys the Old Laws of Compute’",
+      "link": "https://www.eetimes.com/jim-keller-on-tenstorrents-blackhole-scaling-and-ipo-ambitions/",
+      "summary": "Invoking Rent's Rule and Amdahl's Law, Keller argues that memory and communication, not bigger processors, will define the future of AI infrastructure The post Jim Keller: ‘AI Still Obeys the Old Laws of Compute’ appeared first on EE Times.",
+      "date": "2026-06-25T22:00:00+00:00",
+      "sourceId": "eetimes",
+      "cats": [
+        "process",
+        "material",
+        "equipment"
+      ]
+    },
     {
       "id": "0a572e7afb08",
       "title": "IBM Shows Sub-1-nm Chips, Targeting Production in 5 Years",
