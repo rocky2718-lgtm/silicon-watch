@@ -1,6 +1,6 @@
 {
-  "updated": "2026-06-25T14:48:47.186232+00:00",
-  "count": 20,
+  "updated": "2026-06-25T18:19:46.436825+00:00",
+  "count": 19,
   "sources": [
     {
       "id": "technews",
@@ -209,19 +209,6 @@
       "link": "https://www.eetimes.com/deep-uv-lithography-processing-the-best-kept-secret-of-euv-lithography/",
       "summary": "EUV grabs the glory, but DUV does the dirty work that keeps advanced chips alive. The post Deep UV Lithography Processing, the Best Kept Secret of EUV Lithography appeared first on EE Times.",
       "date": "2026-06-24T15:35:14+00:00",
-      "sourceId": "eetimes",
-      "cats": [
-        "process",
-        "material",
-        "equipment"
-      ]
-    },
-    {
-      "id": "b4f23379b06b",
-      "title": "SNUG India 2026: Synopsys Unveils First Multiphysics Fusion Tools Since Ansys Deal",
-      "link": "https://www.eetimes.com/snug-india-2026-synopsys-unveils-first-multiphysics-fusion-tools-since-ansys-deal/",
-      "summary": "Synopsys debuts Multiphysics Fusion tools post-Ansys, unifying EDA and physics for advanced node and 3DIC designs. The post SNUG India 2026: Synopsys Unveils First Multiphysics Fusion Tools Since Ansys Deal appeared first on EE Times.",
-      "date": "2026-06-23T17:00:00+00:00",
       "sourceId": "eetimes",
       "cats": [
         "process",
