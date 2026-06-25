@@ -1,6 +1,6 @@
 {
-  "updated": "2026-06-25T10:29:43.665000+00:00",
-  "count": 21,
+  "updated": "2026-06-25T14:48:47.186232+00:00",
+  "count": 20,
   "sources": [
     {
       "id": "technews",
@@ -127,7 +127,7 @@
     },
     {
       "id": "88def5cfcb43",
-      "title": "烏克蘭精確攻擊俄羅斯半導體工廠，已遭台灣列入制裁名單工廠難以恢復生產",
+      "title": "烏克蘭精確攻擊俄羅斯半導體廠，已遭台灣列入制裁名單工廠難恢復生產",
       "link": "https://technews.tw/2026/06/25/ukraine-precisely-attacks-russian-semiconductor-factory/",
       "summary": "外媒報導，日前烏克蘭空軍對位於俄羅斯佛羅尼斯（Voronezh）的軍工企業佛羅尼斯半導體元件廠（VZPP）發動 [&#8230;]",
       "date": "2026-06-25T08:00:59+00:00",
@@ -196,19 +196,6 @@
       "link": "https://technews.tw/2026/06/25/samsung-snapdragon-8-elite-gen-5/",
       "summary": "近年三星行動部門持續深化雙晶片策略，並進一步擴大與高通的合作。根據市場消息，高通 Snapdragon 8 E [&#8230;]",
       "date": "2026-06-25T06:45:28+00:00",
-      "sourceId": "technews",
-      "cats": [
-        "market",
-        "process",
-        "material"
-      ]
-    },
-    {
-      "id": "8aab40410c0e",
-      "title": "人型機器人記憶體需求爆  美光：是 L2+ 自駕車 10 倍",
-      "link": "https://finance.technews.tw/2026/06/25/humanoid-robot-memory-demand-micron-10x-l2-plus-autonomous-vehicles/",
-      "summary": "美國記憶體大廠美光（Micron Technology）正在押寶一項聽起來像科幻小說、卻將對半導體供應鏈產生真 [&#8230;]",
-      "date": "2026-06-25T05:50:27+00:00",
       "sourceId": "technews",
       "cats": [
         "market",
