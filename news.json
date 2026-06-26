@@ -1,6 +1,6 @@
 {
-  "updated": "2026-06-26T04:23:07.032151+00:00",
-  "count": 23,
+  "updated": "2026-06-26T09:44:14.221910+00:00",
+  "count": 21,
   "sources": [
     {
       "id": "technews",
@@ -61,11 +61,11 @@
   ],
   "articles": [
     {
-      "id": "9b31a6de0d2d",
-      "title": "搶攻中國 AI 資料中心！高通擬推特規版晶片，拚 Dragonfly 全產品線挺進中國市場",
-      "link": "https://technews.tw/2026/06/26/qualcomm-dragonfly-cristiano-amon-talk/",
-      "summary": "高通執行長阿蒙（Cristiano Amon）在投資人大會時接受日經採訪表示，高通旗下資料中心品牌 Drago [&#8230;]",
-      "date": "2026-06-26T02:40:41+00:00",
+      "id": "7a3e1e77d134",
+      "title": "蔣尚義：訊芯具 CPO 量產能力，掌握面板級封裝商機",
+      "link": "https://finance.technews.tw/2026/06/26/6451-cpo/",
+      "summary": "鴻海集團轉投資系統模組封裝廠訊芯-KY 今天召開股東會，訊芯-KY 董事長蔣尚義指出，鴻海集團具備扇出型面板級 [&#8230;]",
+      "date": "2026-06-26T09:20:37+00:00",
       "sourceId": "technews",
       "cats": [
         "market",
@@ -74,11 +74,11 @@
       ]
     },
     {
-      "id": "fd3729855f73",
-      "title": "韓總統李在明與三星李在鎔會面，商討第二座半導體園區大規模投資",
-      "link": "https://finance.technews.tw/2026/06/26/president-samsung-electronics-chief-discuss-chip-cluster-investment-in-southern-region/",
-      "summary": "韓國總統李在明 25 日在青瓦臺與三星電子會長李在鎔共進晚餐，雙方討論南部地區的半導體投資與西南部湖南地方（H [&#8230;]",
-      "date": "2026-06-26T02:40:19+00:00",
+      "id": "7a196c6749de",
+      "title": "傳 OpenAI 擬延後 IPO，AI 概念股賣壓湧現鎧俠挫 12%",
+      "link": "https://finance.technews.tw/2026/06/26/openai-ipo-delay-ai-concept-stocks-sell-off-kioxia-drops-12/",
+      "summary": "日本記憶體晶片製造商鎧俠（Kioxia）股價今天大跌 12%，主因有報導說聊天機器人 ChatGPT 開發商 [&#8230;]",
+      "date": "2026-06-26T08:40:11+00:00",
       "sourceId": "technews",
       "cats": [
         "market",
@@ -87,11 +87,24 @@
       ]
     },
     {
-      "id": "01aa747f595d",
-      "title": "台出席矽盛世峰會，美國務院：台灣是 AI 革命要角",
-      "link": "https://technews.tw/2026/06/26/taiwan-joins-pax-silica-as-a-non-signatory/",
-      "summary": "美國主辦的「矽盛世」峰會今天在華府登場，聚集「矽盛世宣言」各簽署方的代表，台灣也以非簽署方身分參與。美國國務院 [&#8230;]",
-      "date": "2026-06-26T02:30:01+00:00",
+      "id": "edbe995816a5",
+      "title": "Next‑Gen ADAS/AD Architectures: Power, Networking, Safety & Sensors",
+      "link": "https://www.eetimes.com/next%e2%80%91gen-adas-ad-architectures-power-networking-safety-sensors/",
+      "summary": "Join this webinar and learn how high‑performance semiconductor technologies support centralized sensor fusion and reliable ADAS systems. The post Next‑Gen ADAS/AD Architectures: Power, Networking, Safety &amp; Sensors appeared first on EE Times.",
+      "date": "2026-06-26T08:13:23+00:00",
+      "sourceId": "eetimes",
+      "cats": [
+        "process",
+        "material",
+        "equipment"
+      ]
+    },
+    {
+      "id": "a322e03ebd1f",
+      "title": "趁你病，要你命！SK 海力士直接開挖三星系統與晶圓代工牆角",
+      "link": "https://technews.tw/2026/06/26/sk-hynix-directly-poached-talent-from-samsungs-loss-making-systems-and-foundry-divisions/",
+      "summary": "韓國記憶體大廠 SK 海力士（SK hynix）近日啟動有經驗的半導體中階人才招募計畫，直接鎖定競爭對手三星電 [&#8230;]",
+      "date": "2026-06-26T07:45:42+00:00",
       "sourceId": "technews",
       "cats": [
         "market",
@@ -100,11 +113,11 @@
       ]
     },
     {
-      "id": "72d05eac4cf3",
-      "title": "蘋果是記憶體荒推手之一？美光暗示：過去砍價太狠，讓產業不敢投資",
-      "link": "https://finance.technews.tw/2026/06/26/apple-dram-micron/",
-      "summary": "全球記憶體漲價壓力持續外溢，蘋果在昨晚大動作調高 MacBook、iPad 等產品售價後，外界將矛頭指向記憶體 [&#8230;]",
-      "date": "2026-06-26T02:26:21+00:00",
+      "id": "fc3370f2aa4a",
+      "title": "台電去年轉盈 756 億元，今年持續強化財務體質",
+      "link": "https://technews.tw/2026/06/26/taipower-shareholder-meeting/",
+      "summary": "台電今（26）日召開 2026 年股東常會。受惠於國際燃料價格回穩、電價調整，以及 AI、半導體用電需求持續成 [&#8230;]",
+      "date": "2026-06-26T07:19:53+00:00",
       "sourceId": "technews",
       "cats": [
         "market",
@@ -113,11 +126,11 @@
       ]
     },
     {
-      "id": "9284a7d19365",
-      "title": "三星 LG 包辦 iPhone 18 Pro 面板訂單  京東方出局",
-      "link": "https://finance.technews.tw/2026/06/26/samsung-display-iphone-18-pro-panel-boe-out/",
-      "summary": "蘋果（Apple）新 iPhone 18 系列下半年發表。供應鏈消息指出，三星顯示器（Samsung Disp [&#8230;]",
-      "date": "2026-06-26T02:20:31+00:00",
+      "id": "80ee491ffca9",
+      "title": "半導體股太吸金  Palantir 估值修正、從高點腰斬",
+      "link": "https://finance.technews.tw/2026/06/26/palantir-shares-halve-from-record-highs/",
+      "summary": "近來資金集中 AI 半導體、記憶體晶片類股，軟體股表現弱勢，昔日 AI 夯股、大數據分析公司 Palantir [&#8230;]",
+      "date": "2026-06-26T07:00:34+00:00",
       "sourceId": "technews",
       "cats": [
         "market",
@@ -126,11 +139,11 @@
       ]
     },
     {
-      "id": "d00282d00d42",
-      "title": "美光營收創歷史新高，外資全面調升台廠記憶體四雄目標價",
-      "link": "https://finance.technews.tw/2026/06/26/foreign-investors-have-raised-their-target-prices-for-the-four-major-taiwanese-memory-chip-manufacturers-across-the-board/",
-      "summary": "受惠於人工智慧（AI）時代對記憶體產品的龐大需求，全球記憶體產業迎接超級多頭行情。美國記憶體大廠美光（Micr [&#8230;]",
-      "date": "2026-06-26T02:15:56+00:00",
+      "id": "60e432343f5b",
+      "title": "台股重挫近 1,700 點創史上第三，股王股后同步跌停，台積電、鴻海都難逃下跌",
+      "link": "https://finance.technews.tw/2026/06/26/taiwan-stocks-plunge-nearly-1700-points-marking-the-third-worst-drop-in-history/",
+      "summary": "受台積電ADR逆勢下跌逾1%，架上日韓等亞洲股市跌勢加重影響，台股週五遭遇猛烈空頭襲擊。儘管美股前一交易日受美 [&#8230;]",
+      "date": "2026-06-26T07:00:12+00:00",
       "sourceId": "technews",
       "cats": [
         "market",
@@ -139,11 +152,11 @@
       ]
     },
     {
-      "id": "c29bbedc6765",
-      "title": "蘋果將直接跳過高階 M6，改推聚焦 AI 的 M7 系列？",
-      "link": "https://technews.tw/2026/06/26/advanced-version-m6-m7/",
-      "summary": "蘋果 Mac 晶片策略傳出重大轉折，據《彭博社》報導，蘋果計畫在今年推出入門版 M6 晶片，用於入門款 Mac [&#8230;]",
-      "date": "2026-06-26T02:12:34+00:00",
+      "id": "00c30ecd7086",
+      "title": "大摩預估 AMD Venice 出貨量將超車輝達 Vera，台積電成最大贏家",
+      "link": "https://finance.technews.tw/2026/06/26/morgan-stanley-amd-venice-shipments-surpass-nvidia-vera/",
+      "summary": "摩根士丹利（Morgan Stanley）最新報告指出，AMD 下一代 EPYC 平台 Venice 可望 2 [&#8230;]",
+      "date": "2026-06-26T06:40:24+00:00",
       "sourceId": "technews",
       "cats": [
         "market",
@@ -152,11 +165,11 @@
       ]
     },
     {
-      "id": "b4869dc2c4ee",
-      "title": "花旗唱多、Sandisk 飆20%  美光市值一度超越 Meta",
-      "link": "https://finance.technews.tw/2026/06/26/citi-bullish-sandisk-soars-20-micron-market-cap-surpasses-meta/",
-      "summary": "快閃記憶體模組供應商 Sandisk Corp. 喜獲花旗調高目標價，加上記憶體大廠美光（Micron Tec [&#8230;]",
-      "date": "2026-06-26T02:10:39+00:00",
+      "id": "1f64a55f3bbd",
+      "title": "蘋果中國上調 Mac 及 iPad 售價，最高漲 3,500 人幣",
+      "link": "https://finance.technews.tw/2026/06/26/apple-raises-mac-and-ipad-prices-by-up-to-rmb-3500-in-china/",
+      "summary": "綜合港媒及中媒報導，蘋果於 25 日宣布對 Mac、iPad 等產品實施全球漲價，以應對記憶體晶片短缺致價格飆 [&#8230;]",
+      "date": "2026-06-26T06:20:10+00:00",
       "sourceId": "technews",
       "cats": [
         "market",
@@ -165,50 +178,11 @@
       ]
     },
     {
-      "id": "53f61ea91818",
-      "title": "美光亮眼財報推動台灣記憶體類股上攻，超車輝達成為毛利率之王",
-      "link": "https://finance.technews.tw/2026/06/26/micron-surpasses-pharma-to-become-the-king-of-gross-margin/",
-      "summary": "受惠於人工智慧 （AI） 帶動的龐大資料中心需求，記憶體大廠美光 （Micron） 正迎接歷史性的獲利成長。根 [&#8230;]",
-      "date": "2026-06-26T01:45:20+00:00",
-      "sourceId": "technews",
-      "cats": [
-        "market",
-        "process",
-        "material"
-      ]
-    },
-    {
-      "id": "85f67a4e9e65",
-      "title": "記憶體成本飆微軟撐不住  Xbox 漲價、2TB 款式停產",
-      "link": "https://ccc.technews.tw/2026/06/26/updated-xbox-console-prices/",
-      "summary": "微軟（Microsoft Corp.）宣布，由於儲存與記憶體價格一口氣翻了超過 2.5 倍，決定調漲 Xbox [&#8230;]",
-      "date": "2026-06-26T01:20:34+00:00",
-      "sourceId": "technews",
-      "cats": [
-        "market",
-        "process",
-        "material"
-      ]
-    },
-    {
-      "id": "ccae1d37b787",
-      "title": "MacBook、iPad 台灣售價一夜跳漲！最高加價 1 萬元",
-      "link": "https://technews.tw/2026/06/26/price-increases-for-macbook-and-ipad-in-taiwan/",
-      "summary": "蘋果近期因記憶體與儲存成本攀升，傳出在全球多個市場調整 MacBook 與 iPad 產品售價，台灣市場也出現 [&#8230;]",
-      "date": "2026-06-26T01:02:05+00:00",
-      "sourceId": "technews",
-      "cats": [
-        "market",
-        "process",
-        "material"
-      ]
-    },
-    {
-      "id": "445663ecf655",
-      "title": "安森美攻實體 AI、砸 70 億美元併 Synaptics  盤後摔",
-      "link": "https://technews.tw/2026/06/26/onsemi-to-acquire-synaptics-to-enable-the-next-generation-of-intelligent-systems-for-physical-ai/",
-      "summary": "安森美半導體（ON Semiconductor）為了強化在「實體人工智慧」（Physical AI）領域的戰略 [&#8230;]",
-      "date": "2026-06-26T00:50:46+00:00",
+      "id": "4fc254dcec75",
+      "title": "激進投資機構看好味之素壟斷地位，喊 ABF 應調漲逾 30%",
+      "link": "https://technews.tw/2026/06/26/investors-asked-ajinomoto-raised-abf-price/",
+      "summary": "隨著日本食品大廠味之素（Ajinomoto）逐漸轉型為 AI 晶片概念股，國外投資機構建議趁 AI 熱潮提高關 [&#8230;]",
+      "date": "2026-06-26T06:11:05+00:00",
       "sourceId": "technews",
       "cats": [
         "market",
