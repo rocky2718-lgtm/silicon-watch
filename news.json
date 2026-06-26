@@ -1,6 +1,6 @@
 {
-  "updated": "2026-06-26T12:19:20.763985+00:00",
-  "count": 21,
+  "updated": "2026-06-26T16:23:29.930047+00:00",
+  "count": 19,
   "sources": [
     {
       "id": "technews",
@@ -157,32 +157,6 @@
       "link": "https://finance.technews.tw/2026/06/26/morgan-stanley-amd-venice-shipments-surpass-nvidia-vera/",
       "summary": "摩根士丹利（Morgan Stanley）最新報告指出，AMD 下一代 EPYC 平台 Venice 可望 2 [&#8230;]",
       "date": "2026-06-26T06:40:24+00:00",
-      "sourceId": "technews",
-      "cats": [
-        "market",
-        "process",
-        "material"
-      ]
-    },
-    {
-      "id": "1f64a55f3bbd",
-      "title": "蘋果中國上調 Mac 及 iPad 售價，最高漲 3,500 人幣",
-      "link": "https://finance.technews.tw/2026/06/26/apple-raises-mac-and-ipad-prices-by-up-to-rmb-3500-in-china/",
-      "summary": "綜合港媒及中媒報導，蘋果於 25 日宣布對 Mac、iPad 等產品實施全球漲價，以應對記憶體晶片短缺致價格飆 [&#8230;]",
-      "date": "2026-06-26T06:20:10+00:00",
-      "sourceId": "technews",
-      "cats": [
-        "market",
-        "process",
-        "material"
-      ]
-    },
-    {
-      "id": "4fc254dcec75",
-      "title": "激進投資機構看好味之素壟斷地位，喊 ABF 應調漲逾 30%",
-      "link": "https://technews.tw/2026/06/26/investors-asked-ajinomoto-raised-abf-price/",
-      "summary": "隨著日本食品大廠味之素（Ajinomoto）逐漸轉型為 AI 晶片概念股，國外投資機構建議趁 AI 熱潮提高關 [&#8230;]",
-      "date": "2026-06-26T06:11:05+00:00",
       "sourceId": "technews",
       "cats": [
         "market",
