@@ -1,6 +1,6 @@
 {
-  "updated": "2026-06-25T23:24:36.183764+00:00",
-  "count": 20,
+  "updated": "2026-06-26T04:23:07.032151+00:00",
+  "count": 23,
   "sources": [
     {
       "id": "technews",
@@ -61,6 +61,162 @@
   ],
   "articles": [
     {
+      "id": "9b31a6de0d2d",
+      "title": "搶攻中國 AI 資料中心！高通擬推特規版晶片，拚 Dragonfly 全產品線挺進中國市場",
+      "link": "https://technews.tw/2026/06/26/qualcomm-dragonfly-cristiano-amon-talk/",
+      "summary": "高通執行長阿蒙（Cristiano Amon）在投資人大會時接受日經採訪表示，高通旗下資料中心品牌 Drago [&#8230;]",
+      "date": "2026-06-26T02:40:41+00:00",
+      "sourceId": "technews",
+      "cats": [
+        "market",
+        "process",
+        "material"
+      ]
+    },
+    {
+      "id": "fd3729855f73",
+      "title": "韓總統李在明與三星李在鎔會面，商討第二座半導體園區大規模投資",
+      "link": "https://finance.technews.tw/2026/06/26/president-samsung-electronics-chief-discuss-chip-cluster-investment-in-southern-region/",
+      "summary": "韓國總統李在明 25 日在青瓦臺與三星電子會長李在鎔共進晚餐，雙方討論南部地區的半導體投資與西南部湖南地方（H [&#8230;]",
+      "date": "2026-06-26T02:40:19+00:00",
+      "sourceId": "technews",
+      "cats": [
+        "market",
+        "process",
+        "material"
+      ]
+    },
+    {
+      "id": "01aa747f595d",
+      "title": "台出席矽盛世峰會，美國務院：台灣是 AI 革命要角",
+      "link": "https://technews.tw/2026/06/26/taiwan-joins-pax-silica-as-a-non-signatory/",
+      "summary": "美國主辦的「矽盛世」峰會今天在華府登場，聚集「矽盛世宣言」各簽署方的代表，台灣也以非簽署方身分參與。美國國務院 [&#8230;]",
+      "date": "2026-06-26T02:30:01+00:00",
+      "sourceId": "technews",
+      "cats": [
+        "market",
+        "process",
+        "material"
+      ]
+    },
+    {
+      "id": "72d05eac4cf3",
+      "title": "蘋果是記憶體荒推手之一？美光暗示：過去砍價太狠，讓產業不敢投資",
+      "link": "https://finance.technews.tw/2026/06/26/apple-dram-micron/",
+      "summary": "全球記憶體漲價壓力持續外溢，蘋果在昨晚大動作調高 MacBook、iPad 等產品售價後，外界將矛頭指向記憶體 [&#8230;]",
+      "date": "2026-06-26T02:26:21+00:00",
+      "sourceId": "technews",
+      "cats": [
+        "market",
+        "process",
+        "material"
+      ]
+    },
+    {
+      "id": "9284a7d19365",
+      "title": "三星 LG 包辦 iPhone 18 Pro 面板訂單  京東方出局",
+      "link": "https://finance.technews.tw/2026/06/26/samsung-display-iphone-18-pro-panel-boe-out/",
+      "summary": "蘋果（Apple）新 iPhone 18 系列下半年發表。供應鏈消息指出，三星顯示器（Samsung Disp [&#8230;]",
+      "date": "2026-06-26T02:20:31+00:00",
+      "sourceId": "technews",
+      "cats": [
+        "market",
+        "process",
+        "material"
+      ]
+    },
+    {
+      "id": "d00282d00d42",
+      "title": "美光營收創歷史新高，外資全面調升台廠記憶體四雄目標價",
+      "link": "https://finance.technews.tw/2026/06/26/foreign-investors-have-raised-their-target-prices-for-the-four-major-taiwanese-memory-chip-manufacturers-across-the-board/",
+      "summary": "受惠於人工智慧（AI）時代對記憶體產品的龐大需求，全球記憶體產業迎接超級多頭行情。美國記憶體大廠美光（Micr [&#8230;]",
+      "date": "2026-06-26T02:15:56+00:00",
+      "sourceId": "technews",
+      "cats": [
+        "market",
+        "process",
+        "material"
+      ]
+    },
+    {
+      "id": "c29bbedc6765",
+      "title": "蘋果將直接跳過高階 M6，改推聚焦 AI 的 M7 系列？",
+      "link": "https://technews.tw/2026/06/26/advanced-version-m6-m7/",
+      "summary": "蘋果 Mac 晶片策略傳出重大轉折，據《彭博社》報導，蘋果計畫在今年推出入門版 M6 晶片，用於入門款 Mac [&#8230;]",
+      "date": "2026-06-26T02:12:34+00:00",
+      "sourceId": "technews",
+      "cats": [
+        "market",
+        "process",
+        "material"
+      ]
+    },
+    {
+      "id": "b4869dc2c4ee",
+      "title": "花旗唱多、Sandisk 飆20%  美光市值一度超越 Meta",
+      "link": "https://finance.technews.tw/2026/06/26/citi-bullish-sandisk-soars-20-micron-market-cap-surpasses-meta/",
+      "summary": "快閃記憶體模組供應商 Sandisk Corp. 喜獲花旗調高目標價，加上記憶體大廠美光（Micron Tec [&#8230;]",
+      "date": "2026-06-26T02:10:39+00:00",
+      "sourceId": "technews",
+      "cats": [
+        "market",
+        "process",
+        "material"
+      ]
+    },
+    {
+      "id": "53f61ea91818",
+      "title": "美光亮眼財報推動台灣記憶體類股上攻，超車輝達成為毛利率之王",
+      "link": "https://finance.technews.tw/2026/06/26/micron-surpasses-pharma-to-become-the-king-of-gross-margin/",
+      "summary": "受惠於人工智慧 （AI） 帶動的龐大資料中心需求，記憶體大廠美光 （Micron） 正迎接歷史性的獲利成長。根 [&#8230;]",
+      "date": "2026-06-26T01:45:20+00:00",
+      "sourceId": "technews",
+      "cats": [
+        "market",
+        "process",
+        "material"
+      ]
+    },
+    {
+      "id": "85f67a4e9e65",
+      "title": "記憶體成本飆微軟撐不住  Xbox 漲價、2TB 款式停產",
+      "link": "https://ccc.technews.tw/2026/06/26/updated-xbox-console-prices/",
+      "summary": "微軟（Microsoft Corp.）宣布，由於儲存與記憶體價格一口氣翻了超過 2.5 倍，決定調漲 Xbox [&#8230;]",
+      "date": "2026-06-26T01:20:34+00:00",
+      "sourceId": "technews",
+      "cats": [
+        "market",
+        "process",
+        "material"
+      ]
+    },
+    {
+      "id": "ccae1d37b787",
+      "title": "MacBook、iPad 台灣售價一夜跳漲！最高加價 1 萬元",
+      "link": "https://technews.tw/2026/06/26/price-increases-for-macbook-and-ipad-in-taiwan/",
+      "summary": "蘋果近期因記憶體與儲存成本攀升，傳出在全球多個市場調整 MacBook 與 iPad 產品售價，台灣市場也出現 [&#8230;]",
+      "date": "2026-06-26T01:02:05+00:00",
+      "sourceId": "technews",
+      "cats": [
+        "market",
+        "process",
+        "material"
+      ]
+    },
+    {
+      "id": "445663ecf655",
+      "title": "安森美攻實體 AI、砸 70 億美元併 Synaptics  盤後摔",
+      "link": "https://technews.tw/2026/06/26/onsemi-to-acquire-synaptics-to-enable-the-next-generation-of-intelligent-systems-for-physical-ai/",
+      "summary": "安森美半導體（ON Semiconductor）為了強化在「實體人工智慧」（Physical AI）領域的戰略 [&#8230;]",
+      "date": "2026-06-26T00:50:46+00:00",
+      "sourceId": "technews",
+      "cats": [
+        "market",
+        "process",
+        "material"
+      ]
+    },
+    {
       "id": "b42cdb0d6d43",
       "title": "Jim Keller: ‘AI Still Obeys the Old Laws of Compute’",
       "link": "https://www.eetimes.com/jim-keller-on-tenstorrents-blackhole-scaling-and-ipo-ambitions/",
@@ -87,71 +243,6 @@
       ]
     },
     {
-      "id": "978e1454987a",
-      "title": "NVIDIA 800V Power Rack 成 Vera Rubin 選用方案，預估至 Rubin Ultra 世代擴大採用",
-      "link": "https://technews.tw/2026/06/25/vera-rubin-selects-nvidia-800v-power-rack-anticipates-expanded-adoption-rubin-ultra-generation/",
-      "summary": "根據 TrendForce 最新 AI server 供電架構研究，NVIDIA 正積極打造自家 800V H [&#8230;]",
-      "date": "2026-06-25T08:20:39+00:00",
-      "sourceId": "technews",
-      "cats": [
-        "market",
-        "process",
-        "material"
-      ]
-    },
-    {
-      "id": "0e1a5d08e03e",
-      "title": "向台積電下訂產能、CPO 技術有望深化，外資改點讚創意",
-      "link": "https://technews.tw/2026/06/25/guc-0625-cpo-and-cowos/",
-      "summary": "根據美系外資最新 AI 供應鏈報告指出，創意已向台積電預訂明年約 6 萬片 CoWoS 晶圓產能，有望來自新的 [&#8230;]",
-      "date": "2026-06-25T08:17:07+00:00",
-      "sourceId": "technews",
-      "cats": [
-        "market",
-        "process",
-        "material"
-      ]
-    },
-    {
-      "id": "732a4a8166de",
-      "title": "世紀風電併購世紀樺欣，將轉型為全方位能源設備製造商",
-      "link": "https://finance.technews.tw/2026/06/25/offshore-taiwan-company-is-going-fire/",
-      "summary": "面對 AI 發展及半導體擴廠帶動能源基礎建設需求快速成長，世紀風電今（25）日召開重大訊息記者會。副總經理賴宣 [&#8230;]",
-      "date": "2026-06-25T08:12:32+00:00",
-      "sourceId": "technews",
-      "cats": [
-        "market",
-        "process",
-        "material"
-      ]
-    },
-    {
-      "id": "67711959c5ee",
-      "title": "專家：AI 帶動記憶體進入超級週期，台灣成關鍵少數",
-      "link": "https://technews.tw/2026/06/25/experts-ai-drives-memory-supercycle-taiwan-critical-few/",
-      "summary": "美光財報優於預期，反映 AI 基礎設施投資持續擴張，帶動記憶體需求強勁。台經院產經資料庫總監劉佩真認為，記憶體 [&#8230;]",
-      "date": "2026-06-25T08:10:07+00:00",
-      "sourceId": "technews",
-      "cats": [
-        "market",
-        "process",
-        "material"
-      ]
-    },
-    {
-      "id": "88def5cfcb43",
-      "title": "烏克蘭精確攻擊俄羅斯半導體廠，已遭台灣列入制裁名單工廠難恢復生產",
-      "link": "https://technews.tw/2026/06/25/ukraine-precisely-attacks-russian-semiconductor-factory/",
-      "summary": "外媒報導，日前烏克蘭空軍對位於俄羅斯佛羅尼斯（Voronezh）的軍工企業佛羅尼斯半導體元件廠（VZPP）發動 [&#8230;]",
-      "date": "2026-06-25T08:00:59+00:00",
-      "sourceId": "technews",
-      "cats": [
-        "market",
-        "process",
-        "material"
-      ]
-    },
-    {
       "id": "cc94b79d63d6",
       "title": "Qualcomm Forecasts Billions in Additional Revenue from New Data Center Solutions",
       "link": "https://www.eetimes.com/qualcomm-forecasts-billions-in-additional-revenue-from-new-data-center-solutions/",
@@ -162,58 +253,6 @@
         "process",
         "material",
         "equipment"
-      ]
-    },
-    {
-      "id": "c16c238b0582",
-      "title": "AI 攻擊時代來臨，DEVCORE 打造企業版「閉門 Pwn2Own」找漏洞",
-      "link": "https://finance.technews.tw/2026/06/25/devcore-opsr/",
-      "summary": "AI 正在改變資安攻防速度，也讓企業產品安全面臨更高壓力。台灣攻擊型資安公司 DEVCORE 戴夫寇爾宣布推出 [&#8230;]",
-      "date": "2026-06-25T07:46:06+00:00",
-      "sourceId": "technews",
-      "cats": [
-        "market",
-        "process",
-        "material"
-      ]
-    },
-    {
-      "id": "072a68e60aa0",
-      "title": "AI 新秀 Cerebras 財報後崩近 20%  跌破發行價",
-      "link": "https://finance.technews.tw/2026/06/25/cerebras-stock-tumbles-after-first-earnings-report-since-ipo/",
-      "summary": "AI 晶片新創公司 Cerebras 上市後的首份財報表現未達市場預期，股價單日崩跌近 20%，摜破 IPO [&#8230;]",
-      "date": "2026-06-25T07:40:56+00:00",
-      "sourceId": "technews",
-      "cats": [
-        "market",
-        "process",
-        "material"
-      ]
-    },
-    {
-      "id": "6e6b66d1e434",
-      "title": "強攻 DLC 液冷商機！碩禾小金雞碩通預計 6/26 正式登錄興櫃",
-      "link": "https://finance.technews.tw/2026/06/25/dlc/",
-      "summary": "碩禾小金雞碩通預計 6 月 26 日正式登錄興櫃，受惠 AI 算力需求引發「熱牆效應」的關鍵轉折點，面對晶片功 [&#8230;]",
-      "date": "2026-06-25T07:15:47+00:00",
-      "sourceId": "technews",
-      "cats": [
-        "market",
-        "process",
-        "material"
-      ]
-    },
-    {
-      "id": "53bff2124609",
-      "title": "高通吃下三星摺疊機版圖？傳 Galaxy Z Flip 8 棄 Exynos，改擁抱 Snapdragon 平台",
-      "link": "https://technews.tw/2026/06/25/samsung-snapdragon-8-elite-gen-5/",
-      "summary": "近年三星行動部門持續深化雙晶片策略，並進一步擴大與高通的合作。根據市場消息，高通 Snapdragon 8 E [&#8230;]",
-      "date": "2026-06-25T06:45:28+00:00",
-      "sourceId": "technews",
-      "cats": [
-        "market",
-        "process",
-        "material"
       ]
     },
     {
