@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-27T04:09:29.448614+00:00",
+  "updated": "2026-06-27T08:47:10.422173+00:00",
   "count": 16,
   "sources": [
     {
@@ -61,6 +61,19 @@
   ],
   "articles": [
     {
+      "id": "e1cb153dfbae",
+      "title": "狠批 IBM 0.7 奈米命名極具誤導性！馬斯克提倡應由「原子寬度」來定義",
+      "link": "https://technews.tw/2026/06/27/nanostack/",
+      "summary": "針對 IBM 發表全球最先進的 0.7 奈米晶片技術，伊隆·馬斯克（Elon Musk）今日發文指稱「0.7 [&#8230;]",
+      "date": "2026-06-27T06:03:54+00:00",
+      "sourceId": "technews",
+      "cats": [
+        "market",
+        "process",
+        "material"
+      ]
+    },
+    {
       "id": "a7e794e24056",
       "title": "蘋果調價帶動筆電與平板定價，記憶體價格恐難回歸 2025 年前水準",
       "link": "https://finance.technews.tw/2026/06/27/apple-price-adjustments-drive-laptop-tablet-pricing-memory-prices-unlikely-return-pre-2025-levels/",
@@ -92,19 +105,6 @@
       "link": "https://finance.technews.tw/2026/06/26/6451-cpo/",
       "summary": "鴻海集團轉投資系統模組封裝廠訊芯-KY 今天召開股東會，訊芯-KY 董事長蔣尚義指出，鴻海集團具備扇出型面板級 [&#8230;]",
       "date": "2026-06-26T09:20:37+00:00",
-      "sourceId": "technews",
-      "cats": [
-        "market",
-        "process",
-        "material"
-      ]
-    },
-    {
-      "id": "7a196c6749de",
-      "title": "傳 OpenAI 擬延後 IPO，AI 概念股賣壓湧現鎧俠挫 12%",
-      "link": "https://finance.technews.tw/2026/06/26/openai-ipo-delay-ai-concept-stocks-sell-off-kioxia-drops-12/",
-      "summary": "日本記憶體晶片製造商鎧俠（Kioxia）股價今天大跌 12%，主因有報導說聊天機器人 ChatGPT 開發商 [&#8230;]",
-      "date": "2026-06-26T08:40:11+00:00",
       "sourceId": "technews",
       "cats": [
         "market",
