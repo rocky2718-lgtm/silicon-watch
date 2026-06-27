@@ -1,6 +1,6 @@
 {
-  "updated": "2026-06-26T23:15:50.891888+00:00",
-  "count": 19,
+  "updated": "2026-06-27T04:09:29.448614+00:00",
+  "count": 16,
   "sources": [
     {
       "id": "technews",
@@ -61,6 +61,32 @@
   ],
   "articles": [
     {
+      "id": "a7e794e24056",
+      "title": "蘋果調價帶動筆電與平板定價，記憶體價格恐難回歸 2025 年前水準",
+      "link": "https://finance.technews.tw/2026/06/27/apple-price-adjustments-drive-laptop-tablet-pricing-memory-prices-unlikely-return-pre-2025-levels/",
+      "summary": "蘋果（Apple）近日調整多款 Mac 與 iPad 售價後，外界對個人電腦與記憶體市場的連鎖效應持續升溫。最 [&#8230;]",
+      "date": "2026-06-27T02:32:23+00:00",
+      "sourceId": "technews",
+      "cats": [
+        "market",
+        "process",
+        "material"
+      ]
+    },
+    {
+      "id": "c9ab5973f321",
+      "title": "黃仁勳只訪台韓，但晶片不能沒日本：解密亞洲行的 AI 鏈靜默王者",
+      "link": "https://technews.tw/2026/06/27/japan-remains-indispensable-to-the-semiconductor-supply-chain/",
+      "summary": "在黃仁勳亞洲行後，《日本經濟新聞》指出日本在輝達 AI 生態系中面臨「邊緣化」。「日本到底還有多少家公司，能吸 [&#8230;]",
+      "date": "2026-06-27T02:00:40+00:00",
+      "sourceId": "technews",
+      "cats": [
+        "market",
+        "process",
+        "material"
+      ]
+    },
+    {
       "id": "7a3e1e77d134",
       "title": "蔣尚義：訊芯具 CPO 量產能力，掌握面板級封裝商機",
       "link": "https://finance.technews.tw/2026/06/26/6451-cpo/",
@@ -97,71 +123,6 @@
         "process",
         "material",
         "equipment"
-      ]
-    },
-    {
-      "id": "a322e03ebd1f",
-      "title": "趁你病，要你命！SK 海力士直接開挖三星系統與晶圓代工牆角",
-      "link": "https://technews.tw/2026/06/26/sk-hynix-directly-poached-talent-from-samsungs-loss-making-systems-and-foundry-divisions/",
-      "summary": "韓國記憶體大廠 SK 海力士（SK hynix）近日啟動有經驗的半導體中階人才招募計畫，直接鎖定競爭對手三星電 [&#8230;]",
-      "date": "2026-06-26T07:45:42+00:00",
-      "sourceId": "technews",
-      "cats": [
-        "market",
-        "process",
-        "material"
-      ]
-    },
-    {
-      "id": "fc3370f2aa4a",
-      "title": "台電去年轉盈 756 億元，今年持續強化財務體質",
-      "link": "https://technews.tw/2026/06/26/taipower-shareholder-meeting/",
-      "summary": "台電今（26）日召開 2026 年股東常會。受惠於國際燃料價格回穩、電價調整，以及 AI、半導體用電需求持續成 [&#8230;]",
-      "date": "2026-06-26T07:19:53+00:00",
-      "sourceId": "technews",
-      "cats": [
-        "market",
-        "process",
-        "material"
-      ]
-    },
-    {
-      "id": "80ee491ffca9",
-      "title": "半導體股太吸金  Palantir 估值修正、從高點腰斬",
-      "link": "https://finance.technews.tw/2026/06/26/palantir-shares-halve-from-record-highs/",
-      "summary": "近來資金集中 AI 半導體、記憶體晶片類股，軟體股表現弱勢，昔日 AI 夯股、大數據分析公司 Palantir [&#8230;]",
-      "date": "2026-06-26T07:00:34+00:00",
-      "sourceId": "technews",
-      "cats": [
-        "market",
-        "process",
-        "material"
-      ]
-    },
-    {
-      "id": "60e432343f5b",
-      "title": "台股重挫近 1,700 點創史上第三，股王股后同步跌停，台積電、鴻海都難逃下跌",
-      "link": "https://finance.technews.tw/2026/06/26/taiwan-stocks-plunge-nearly-1700-points-marking-the-third-worst-drop-in-history/",
-      "summary": "受台積電ADR逆勢下跌逾1%，架上日韓等亞洲股市跌勢加重影響，台股週五遭遇猛烈空頭襲擊。儘管美股前一交易日受美 [&#8230;]",
-      "date": "2026-06-26T07:00:12+00:00",
-      "sourceId": "technews",
-      "cats": [
-        "market",
-        "process",
-        "material"
-      ]
-    },
-    {
-      "id": "00c30ecd7086",
-      "title": "大摩預估 AMD Venice 出貨量將超車輝達 Vera，台積電成最大贏家",
-      "link": "https://finance.technews.tw/2026/06/26/morgan-stanley-amd-venice-shipments-surpass-nvidia-vera/",
-      "summary": "摩根士丹利（Morgan Stanley）最新報告指出，AMD 下一代 EPYC 平台 Venice 可望 2 [&#8230;]",
-      "date": "2026-06-26T06:40:24+00:00",
-      "sourceId": "technews",
-      "cats": [
-        "market",
-        "process",
-        "material"
       ]
     },
     {
