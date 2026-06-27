@@ -1,6 +1,6 @@
 {
-  "updated": "2026-06-27T08:47:10.422173+00:00",
-  "count": 16,
+  "updated": "2026-06-27T11:41:27.328997+00:00",
+  "count": 17,
   "sources": [
     {
       "id": "technews",
@@ -61,6 +61,32 @@
   ],
   "articles": [
     {
+      "id": "20ac3df2cfd2",
+      "title": "扛不住記憶體狂漲！蘋果試圖遊說白宮批准向中國軍工黑名單企業採購晶片",
+      "link": "https://technews.tw/2026/06/27/memory-prices-surge/",
+      "summary": "蘋果（Apple）6 月 25 日宣布決定提高 MacBook 和 iPad 的售價，此舉導致其市值蒸發 2, [&#8230;]",
+      "date": "2026-06-27T09:18:48+00:00",
+      "sourceId": "technews",
+      "cats": [
+        "market",
+        "process",
+        "material"
+      ]
+    },
+    {
+      "id": "6cb1b94a2dd4",
+      "title": "黃仁勳預言正加速實現！安永調查 66% 企業押注「代理式 AI」搶進主權雲",
+      "link": "https://finance.technews.tw/2026/06/27/reimagine/",
+      "summary": "輝達（NVIDIA）執行長黃仁勳日前預言代理式 AI（Agentic AI）時代正加速到來，企業將不再只是使用 [&#8230;]",
+      "date": "2026-06-27T08:42:52+00:00",
+      "sourceId": "technews",
+      "cats": [
+        "market",
+        "process",
+        "material"
+      ]
+    },
+    {
       "id": "e1cb153dfbae",
       "title": "狠批 IBM 0.7 奈米命名極具誤導性！馬斯克提倡應由「原子寬度」來定義",
       "link": "https://technews.tw/2026/06/27/nanostack/",
@@ -92,19 +118,6 @@
       "link": "https://technews.tw/2026/06/27/japan-remains-indispensable-to-the-semiconductor-supply-chain/",
       "summary": "在黃仁勳亞洲行後，《日本經濟新聞》指出日本在輝達 AI 生態系中面臨「邊緣化」。「日本到底還有多少家公司，能吸 [&#8230;]",
       "date": "2026-06-27T02:00:40+00:00",
-      "sourceId": "technews",
-      "cats": [
-        "market",
-        "process",
-        "material"
-      ]
-    },
-    {
-      "id": "7a3e1e77d134",
-      "title": "蔣尚義：訊芯具 CPO 量產能力，掌握面板級封裝商機",
-      "link": "https://finance.technews.tw/2026/06/26/6451-cpo/",
-      "summary": "鴻海集團轉投資系統模組封裝廠訊芯-KY 今天召開股東會，訊芯-KY 董事長蔣尚義指出，鴻海集團具備扇出型面板級 [&#8230;]",
-      "date": "2026-06-26T09:20:37+00:00",
       "sourceId": "technews",
       "cats": [
         "market",
