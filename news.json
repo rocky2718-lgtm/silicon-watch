@@ -1,6 +1,6 @@
 {
-  "updated": "2026-06-27T15:23:39.593920+00:00",
-  "count": 17,
+  "updated": "2026-06-27T17:19:19.567618+00:00",
+  "count": 18,
   "sources": [
     {
       "id": "technews",
@@ -60,6 +60,19 @@
     }
   ],
   "articles": [
+    {
+      "id": "223984e7fde7",
+      "title": "放棄百萬年薪也要逃離美國？AI 大老逆風揭密：矽谷仍是全球「最強吸鈔機」",
+      "link": "https://technews.tw/2026/06/28/us-2025-net-population-outflow-fails-deter-silicon-valley-ai-wave-again-amplifies-global-startup-attraction/",
+      "summary": "美國爆發近年罕見的人口出走潮之際 Google 前傑出工程師、雲端資料公司 Rubrik 共同創辦人阿文德‧賈 [&#8230;]",
+      "date": "2026-06-27T16:00:27+00:00",
+      "sourceId": "technews",
+      "cats": [
+        "market",
+        "process",
+        "material"
+      ]
+    },
     {
       "id": "20ac3df2cfd2",
       "title": "扛不住記憶體狂漲！蘋果試圖遊說白宮批准向中國軍工黑名單企業採購晶片",
