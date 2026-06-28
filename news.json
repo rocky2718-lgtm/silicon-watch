@@ -1,6 +1,6 @@
 {
-  "updated": "2026-06-28T04:42:39.950589+00:00",
-  "count": 20,
+  "updated": "2026-06-28T09:24:59.803201+00:00",
+  "count": 19,
   "sources": [
     {
       "id": "technews",
@@ -60,6 +60,19 @@
     }
   ],
   "articles": [
+    {
+      "id": "a282558f3a5a",
+      "title": "新思科技推第一波多物理場融合解決方案，聯發科、輝達等大廠導入",
+      "link": "https://technews.tw/2026/06/28/synopsys-multiphysics-analysis/",
+      "summary": "新思科技近日發表第一波多物理場融合解決方案，供客戶進行部署。隨著晶片的複雜性越來越高，包括訊號完整性、電源完整 [&#8230;]",
+      "date": "2026-06-28T08:37:58+00:00",
+      "sourceId": "technews",
+      "cats": [
+        "market",
+        "process",
+        "material"
+      ]
+    },
     {
       "id": "9d11bd0d98dc",
       "title": "Cerebras IPO 是好事！晶片大神 Jim Keller：Tenstorrent 將全面擊敗對手",
@@ -131,32 +144,6 @@
       "link": "https://technews.tw/2026/06/27/nanostack/",
       "summary": "針對 IBM 發表全球最先進的 0.7 奈米晶片技術，伊隆·馬斯克（Elon Musk）今日發文指稱「0.7 [&#8230;]",
       "date": "2026-06-27T06:03:54+00:00",
-      "sourceId": "technews",
-      "cats": [
-        "market",
-        "process",
-        "material"
-      ]
-    },
-    {
-      "id": "a7e794e24056",
-      "title": "蘋果調價帶動筆電與平板定價，記憶體價格恐難回歸 2025 年前水準",
-      "link": "https://finance.technews.tw/2026/06/27/apple-price-adjustments-drive-laptop-tablet-pricing-memory-prices-unlikely-return-pre-2025-levels/",
-      "summary": "蘋果（Apple）近日調整多款 Mac 與 iPad 售價後，外界對個人電腦與記憶體市場的連鎖效應持續升溫。最 [&#8230;]",
-      "date": "2026-06-27T02:32:23+00:00",
-      "sourceId": "technews",
-      "cats": [
-        "market",
-        "process",
-        "material"
-      ]
-    },
-    {
-      "id": "c9ab5973f321",
-      "title": "黃仁勳只訪台韓，但晶片不能沒日本：解密亞洲行的 AI 鏈靜默王者",
-      "link": "https://technews.tw/2026/06/27/japan-remains-indispensable-to-the-semiconductor-supply-chain/",
-      "summary": "在黃仁勳亞洲行後，《日本經濟新聞》指出日本在輝達 AI 生態系中面臨「邊緣化」。「日本到底還有多少家公司，能吸 [&#8230;]",
-      "date": "2026-06-27T02:00:40+00:00",
       "sourceId": "technews",
       "cats": [
         "market",
