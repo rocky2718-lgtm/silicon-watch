@@ -1,6 +1,6 @@
 {
-  "updated": "2026-06-27T23:11:07.411223+00:00",
-  "count": 18,
+  "updated": "2026-06-28T04:42:39.950589+00:00",
+  "count": 20,
   "sources": [
     {
       "id": "technews",
@@ -60,6 +60,32 @@
     }
   ],
   "articles": [
+    {
+      "id": "9d11bd0d98dc",
+      "title": "Cerebras IPO 是好事！晶片大神 Jim Keller：Tenstorrent 將全面擊敗對手",
+      "link": "https://technews.tw/2026/06/28/jim-keller-talk-about-ai-cerebras-and-tenstorrent/",
+      "summary": "AI 晶片新創 Cerebras 上市後的首份財報表現未達市場預期，股價單日崩跌近 20%，摜破 IPO 發行 [&#8230;]",
+      "date": "2026-06-28T03:25:22+00:00",
+      "sourceId": "technews",
+      "cats": [
+        "market",
+        "process",
+        "material"
+      ]
+    },
+    {
+      "id": "bc7584e9821e",
+      "title": "挾「併購日商、大馬擴廠」雙優勢，界霖聯手歐洲 IDM 大廠強勢卡位 AI 電源供應鏈",
+      "link": "https://finance.technews.tw/2026/06/28/jihlin/",
+      "summary": "功率半導體近來再度成為市場焦點，而支撐這些元件持續往更高功率發展的關鍵零組件，正是功率半導體導線架。《財訊》雙 [&#8230;]",
+      "date": "2026-06-28T01:00:49+00:00",
+      "sourceId": "technews",
+      "cats": [
+        "market",
+        "process",
+        "material"
+      ]
+    },
     {
       "id": "223984e7fde7",
       "title": "放棄百萬年薪也要逃離美國？AI 大老逆風揭密：矽谷仍是全球「最強吸鈔機」",
