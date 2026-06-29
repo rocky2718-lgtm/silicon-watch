@@ -1,6 +1,6 @@
 {
-  "updated": "2026-06-29T04:51:21.875170+00:00",
-  "count": 20,
+  "updated": "2026-06-29T11:18:39.562056+00:00",
+  "count": 18,
   "sources": [
     {
       "id": "technews",
@@ -61,11 +61,11 @@
   ],
   "articles": [
     {
-      "id": "6453d5d3ff6b",
-      "title": "聯想：供需失衡，記憶體高價料成長期常態",
-      "link": "https://technews.tw/2026/06/29/lenovo-warns-high-memory-prices-are-the-new-normal-through-2030/",
-      "summary": "綜合中媒引用外媒 Wccftech 報導，在近日 ISC 2026 行業大會上，聯想（Lenovo）發布行業研 [&#8230;]",
-      "date": "2026-06-29T04:20:11+00:00",
+      "id": "20c5f15ace23",
+      "title": "韓國將投入逾 37 兆，打造新半導體聚落與 AI 資料中心",
+      "link": "https://finance.technews.tw/2026/06/29/south-korea-semiconductor/",
+      "summary": "韓國將在幾年內投資近 1.2 兆美元（約新台幣逾 37 兆元），打造新半導體生產基地與人工智慧（AI）資料中心 [&#8230;]",
+      "date": "2026-06-29T10:40:54+00:00",
       "sourceId": "technews",
       "cats": [
         "market",
@@ -74,11 +74,11 @@
       ]
     },
     {
-      "id": "db33988bcfc8",
-      "title": "蘋果自研晶片效能太好害到自己銷量，只能寄望新 AI 功能縮短換機週期",
-      "link": "https://technews.tw/2026/06/29/macbook-retail-sales-challenged-by-apple-silicon-legacy/",
-      "summary": "蘋果近年推動自研晶片造成長壽命效應，開始反過來影響 MacBook 銷售量。最新分析，即使是六年前第一代 Ap [&#8230;]",
-      "date": "2026-06-29T04:00:19+00:00",
+      "id": "8f8e55176b43",
+      "title": "記憶體荒衝擊擴大！蘋果、微軟相繼漲價，中小企業陷生存危機",
+      "link": "https://technews.tw/2026/06/29/apple-microsoft-and-memory-crisis/",
+      "summary": "蘋果與微軟上週相繼宣布調漲旗下主要產品售價，將飆升的記憶體成本部分轉嫁給消費者。相較於擁有供應鏈議價能力的大廠 [&#8230;]",
+      "date": "2026-06-29T08:15:25+00:00",
       "sourceId": "technews",
       "cats": [
         "market",
@@ -87,11 +87,11 @@
       ]
     },
     {
-      "id": "a2cc788cede7",
-      "title": "韓國超級投資案！傳三星、SK 集團豪砸 2,000 兆韓圜，十年新建 4~5 座晶圓廠",
-      "link": "https://technews.tw/2026/06/29/samsung-sk-hynix-korea-ai/",
-      "summary": "根據彭博社引述《韓國經濟日報》（Korea Economic Daily）報導稱，作為韓國總統李在明核心產業戰 [&#8230;]",
-      "date": "2026-06-29T03:38:30+00:00",
+      "id": "89d8621ba29e",
+      "title": "DRAM 均價季增逾 6 成  美光明年營益將衝至全美第三",
+      "link": "https://finance.technews.tw/2026/06/29/micron-is-about-to-be-more-profitable-than-any-u-s-company-except-nvidia-and-google/",
+      "summary": "早在三年前，美國記憶體大廠美光（Micron Technology）還深陷虧損泥沼，如今卻是全美獲利能力最強大 [&#8230;]",
+      "date": "2026-06-29T07:20:55+00:00",
       "sourceId": "technews",
       "cats": [
         "market",
@@ -100,11 +100,24 @@
       ]
     },
     {
-      "id": "c9887d82e3c1",
-      "title": "蘋果因 AI 被迫只用兩代就放棄台積電 2 奈米，1.4 奈米成下個爭奪產能戰場",
-      "link": "https://technews.tw/2026/06/29/apple-being-forced-to-drop-2nm-process-after-just-two-generations-because-of-ai/",
-      "summary": "外電與產業消息，上週末蘋果因晶圓代工與 AI 晶片需求擴張，重新調整先進製程布局，以更快取得充足供應。台積電 [&#8230;]",
-      "date": "2026-06-29T03:20:31+00:00",
+      "id": "f06f45eba40e",
+      "title": "SatVu Targets Industrial Intelligence with Thermal Imaging",
+      "link": "https://www.eetimes.com/satvu-targets-industrial-intelligence-with-thermal-imaging/",
+      "summary": "With HotSat-2 in orbit and fresh funding, U.K. startup SatVu is demonstrating how high-resolution thermal satellite data can reveal real-world industrial activity. The post SatVu Targets Industrial Intelligence with Thermal Imaging appeared first on EE Times.",
+      "date": "2026-06-29T07:20:00+00:00",
+      "sourceId": "eetimes",
+      "cats": [
+        "process",
+        "material",
+        "equipment"
+      ]
+    },
+    {
+      "id": "e48273d00e47",
+      "title": "記憶體飆天價引眾怒！三星、SK 海力士與美光面臨美國反壟斷訴訟",
+      "link": "https://technews.tw/2026/06/29/samsung-sk-hynix-micron-lawsuit-for-memory-shortages/",
+      "summary": "隨著記憶體供應持續短缺、價格飆升至歷史高點，三星、SK 海力士與美光面臨美國消費者提起的集體訴訟，指控三間公司 [&#8230;]",
+      "date": "2026-06-29T07:07:07+00:00",
       "sourceId": "technews",
       "cats": [
         "market",
@@ -113,11 +126,11 @@
       ]
     },
     {
-      "id": "14430070713f",
-      "title": "百度旗下 AI 晶片部門昆侖芯擬赴港上市、拚 500 億美元估值",
-      "link": "https://finance.technews.tw/2026/06/29/baidu-ai-chip-kunlunxin-hong-kong-ipo-50-billion-valuation/",
-      "summary": "以搜尋引擎、人工智慧與雲端服務為核心的中國科技企業百度（Baidu）在 6 月 28 日的營運動態，聚焦旗下人 [&#8230;]",
-      "date": "2026-06-29T02:50:30+00:00",
+      "id": "35026bb211e7",
+      "title": "錶面侵權 Swatch 索賠 1.7 億美元  三星恐吞天價賠償",
+      "link": "https://technews.tw/2026/06/29/swatch-seeks-170-million-in-damages-from-samsung-over-trademark-infringement/",
+      "summary": "瑞士鐘錶集團 Swatch 與三星電子（Samsung Electronics）商標侵權訴訟持續延燒。Swat [&#8230;]",
+      "date": "2026-06-29T06:20:32+00:00",
       "sourceId": "technews",
       "cats": [
         "market",
@@ -126,37 +139,11 @@
       ]
     },
     {
-      "id": "fb2c2a9fdfa6",
-      "title": "蘋果買長鑫存儲 DRAM 非降成本！郭明錤曝盤算：最好庫克卸任前完成",
-      "link": "https://technews.tw/2026/06/29/ming-chi-kuo-see-cxmt-iphone-18-dram/",
-      "summary": "蘋果近期傳出向川普政府進行游說，希望獲准向遭列入紅鏈黑名單的長鑫存儲採購記憶體晶片。中資天風國際證券分析師郭明 [&#8230;]",
-      "date": "2026-06-29T02:40:33+00:00",
-      "sourceId": "technews",
-      "cats": [
-        "market",
-        "process",
-        "material"
-      ]
-    },
-    {
-      "id": "3093ab942c3b",
-      "title": "力挺聯發科成下一檔萬金股！外資目標價喊上 10,000 元新天價",
-      "link": "https://technews.tw/2026/06/29/macquarie-see-mediatek-asic-and-csp/",
-      "summary": "麥格理證券今（29 日）出具最新外資報告指出，聯發科 ASIC 營收在 2028 年可望達 400 億美元，加 [&#8230;]",
-      "date": "2026-06-29T02:03:56+00:00",
-      "sourceId": "technews",
-      "cats": [
-        "market",
-        "process",
-        "material"
-      ]
-    },
-    {
-      "id": "e71184ac8fed",
-      "title": "半導體遇壓伺機彈！45,000 點保衛戰，ABF 與記憶體逆勢吸金",
-      "link": "https://finance.technews.tw/2026/06/29/semiconductors-under-pressure-poised-rebound-45000-defense-battle-abf-memory-chips-attract-capital-against-trend/",
-      "summary": "26 日台股遭遇史詩級震撼教育，外資與自營商聯手倒貨逾 2,100 億元，導致加權指數重挫 3.64% 收在 [&#8230;]",
-      "date": "2026-06-29T02:00:30+00:00",
+      "id": "025364e397db",
+      "title": "低階 iPhone 補 AI 戰力，郭明錤：明年 A20 機型 DRAM 將升級至 9GB",
+      "link": "https://technews.tw/2026/06/29/a20-iphone-9gb-ram/",
+      "summary": "蘋果持續為 iPhone 導入更深層的 Apple Intelligence 系統整合，記憶體規格也將跟著進一 [&#8230;]",
+      "date": "2026-06-29T05:07:05+00:00",
       "sourceId": "technews",
       "cats": [
         "market",
@@ -209,19 +196,6 @@
       "link": "https://www.eetimes.com/qualcomm-forecasts-billions-in-additional-revenue-from-new-data-center-solutions/",
       "summary": "Qualcomm takes the data center by storm with networking, AI accelerators, and both custom and standard CPUs. The post Qualcomm Forecasts Billions in Additional Revenue from New Data Center Solutions appeared first on EE Times.",
       "date": "2026-06-25T07:52:39+00:00",
-      "sourceId": "eetimes",
-      "cats": [
-        "process",
-        "material",
-        "equipment"
-      ]
-    },
-    {
-      "id": "e0cf8c1e2d3a",
-      "title": "Deep UV Lithography Processing, the Best Kept Secret of EUV Lithography",
-      "link": "https://www.eetimes.com/deep-uv-lithography-processing-the-best-kept-secret-of-euv-lithography/",
-      "summary": "EUV grabs the glory, but DUV does the dirty work that keeps advanced chips alive. The post Deep UV Lithography Processing, the Best Kept Secret of EUV Lithography appeared first on EE Times.",
-      "date": "2026-06-24T15:35:14+00:00",
       "sourceId": "eetimes",
       "cats": [
         "process",
