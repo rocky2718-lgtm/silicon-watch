@@ -1,6 +1,6 @@
 {
-  "updated": "2026-06-29T11:18:39.562056+00:00",
-  "count": 18,
+  "updated": "2026-06-29T16:02:41.255004+00:00",
+  "count": 17,
   "sources": [
     {
       "id": "technews",
@@ -131,19 +131,6 @@
       "link": "https://technews.tw/2026/06/29/swatch-seeks-170-million-in-damages-from-samsung-over-trademark-infringement/",
       "summary": "瑞士鐘錶集團 Swatch 與三星電子（Samsung Electronics）商標侵權訴訟持續延燒。Swat [&#8230;]",
       "date": "2026-06-29T06:20:32+00:00",
-      "sourceId": "technews",
-      "cats": [
-        "market",
-        "process",
-        "material"
-      ]
-    },
-    {
-      "id": "025364e397db",
-      "title": "低階 iPhone 補 AI 戰力，郭明錤：明年 A20 機型 DRAM 將升級至 9GB",
-      "link": "https://technews.tw/2026/06/29/a20-iphone-9gb-ram/",
-      "summary": "蘋果持續為 iPhone 導入更深層的 Apple Intelligence 系統整合，記憶體規格也將跟著進一 [&#8230;]",
-      "date": "2026-06-29T05:07:05+00:00",
       "sourceId": "technews",
       "cats": [
         "market",
