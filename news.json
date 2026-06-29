@@ -1,6 +1,6 @@
 {
-  "updated": "2026-06-29T20:09:30.028549+00:00",
-  "count": 15,
+  "updated": "2026-06-29T23:06:52.025093+00:00",
+  "count": 16,
   "sources": [
     {
       "id": "technews",
@@ -60,6 +60,19 @@
     }
   ],
   "articles": [
+    {
+      "id": "086b86937285",
+      "title": "加速商用落地，NVIDIA Halos for Robotics 建構 Physical AI 安全系統",
+      "link": "https://technews.tw/2026/06/30/nvidia-halos-robotics-builds-physical-ai-safety-system-accelerate-commercial-deployment/",
+      "summary": "輝達（NVIDIA）於 2026 年 6 月底正式發表「NVIDIA Halos for Robotics」， [&#8230;]",
+      "date": "2026-06-29T23:00:13+00:00",
+      "sourceId": "technews",
+      "cats": [
+        "market",
+        "process",
+        "material"
+      ]
+    },
     {
       "id": "20c5f15ace23",
       "title": "韓國將投入逾 37 兆，打造新半導體聚落與 AI 資料中心",
