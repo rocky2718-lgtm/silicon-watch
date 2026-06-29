@@ -1,6 +1,6 @@
 {
-  "updated": "2026-06-29T16:02:41.255004+00:00",
-  "count": 17,
+  "updated": "2026-06-29T20:09:30.028549+00:00",
+  "count": 15,
   "sources": [
     {
       "id": "technews",
@@ -157,32 +157,6 @@
       "link": "https://www.eetimes.com/jim-keller-on-tenstorrents-blackhole-scaling-and-ipo-ambitions/",
       "summary": "Invoking Rent's Rule and Amdahl's Law, Keller argues that memory and communication, not bigger processors, will define the future of AI infrastructure The post Jim Keller: ‘AI Still Obeys the Old Laws of Compute’ appeared first on EE Times.",
       "date": "2026-06-25T22:00:00+00:00",
-      "sourceId": "eetimes",
-      "cats": [
-        "process",
-        "material",
-        "equipment"
-      ]
-    },
-    {
-      "id": "0a572e7afb08",
-      "title": "IBM Shows Sub-1-nm Chips, Targeting Production in 5 Years",
-      "link": "https://www.eetimes.com/ibm-shows-sub-1-nm-chips-targeting-production-in-5-years/",
-      "summary": "IBM unveils 0.7-nm nanostack chips promising 100 billion transistors, denser SRAM, and production within five years. The post IBM Shows Sub-1-nm Chips, Targeting Production in 5 Years appeared first on EE Times.",
-      "date": "2026-06-25T10:00:00+00:00",
-      "sourceId": "eetimes",
-      "cats": [
-        "process",
-        "material",
-        "equipment"
-      ]
-    },
-    {
-      "id": "cc94b79d63d6",
-      "title": "Qualcomm Forecasts Billions in Additional Revenue from New Data Center Solutions",
-      "link": "https://www.eetimes.com/qualcomm-forecasts-billions-in-additional-revenue-from-new-data-center-solutions/",
-      "summary": "Qualcomm takes the data center by storm with networking, AI accelerators, and both custom and standard CPUs. The post Qualcomm Forecasts Billions in Additional Revenue from New Data Center Solutions appeared first on EE Times.",
-      "date": "2026-06-25T07:52:39+00:00",
       "sourceId": "eetimes",
       "cats": [
         "process",
