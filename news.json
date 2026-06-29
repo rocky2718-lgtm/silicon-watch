@@ -1,6 +1,6 @@
 {
-  "updated": "2026-06-28T23:12:08.360159+00:00",
-  "count": 19,
+  "updated": "2026-06-29T04:51:21.875170+00:00",
+  "count": 20,
   "sources": [
     {
       "id": "technews",
@@ -61,11 +61,11 @@
   ],
   "articles": [
     {
-      "id": "a282558f3a5a",
-      "title": "新思科技推第一波多物理場融合解決方案，聯發科、輝達等大廠導入",
-      "link": "https://technews.tw/2026/06/28/synopsys-multiphysics-analysis/",
-      "summary": "新思科技近日發表第一波多物理場融合解決方案，供客戶進行部署。隨著晶片的複雜性越來越高，包括訊號完整性、電源完整 [&#8230;]",
-      "date": "2026-06-28T08:37:58+00:00",
+      "id": "6453d5d3ff6b",
+      "title": "聯想：供需失衡，記憶體高價料成長期常態",
+      "link": "https://technews.tw/2026/06/29/lenovo-warns-high-memory-prices-are-the-new-normal-through-2030/",
+      "summary": "綜合中媒引用外媒 Wccftech 報導，在近日 ISC 2026 行業大會上，聯想（Lenovo）發布行業研 [&#8230;]",
+      "date": "2026-06-29T04:20:11+00:00",
       "sourceId": "technews",
       "cats": [
         "market",
@@ -74,11 +74,11 @@
       ]
     },
     {
-      "id": "9d11bd0d98dc",
-      "title": "Cerebras IPO 是好事！晶片大神 Jim Keller：Tenstorrent 將全面擊敗對手",
-      "link": "https://technews.tw/2026/06/28/jim-keller-talk-about-ai-cerebras-and-tenstorrent/",
-      "summary": "AI 晶片新創 Cerebras 上市後的首份財報表現未達市場預期，股價單日崩跌近 20%，摜破 IPO 發行 [&#8230;]",
-      "date": "2026-06-28T03:25:22+00:00",
+      "id": "db33988bcfc8",
+      "title": "蘋果自研晶片效能太好害到自己銷量，只能寄望新 AI 功能縮短換機週期",
+      "link": "https://technews.tw/2026/06/29/macbook-retail-sales-challenged-by-apple-silicon-legacy/",
+      "summary": "蘋果近年推動自研晶片造成長壽命效應，開始反過來影響 MacBook 銷售量。最新分析，即使是六年前第一代 Ap [&#8230;]",
+      "date": "2026-06-29T04:00:19+00:00",
       "sourceId": "technews",
       "cats": [
         "market",
@@ -87,11 +87,11 @@
       ]
     },
     {
-      "id": "bc7584e9821e",
-      "title": "挾「併購日商、大馬擴廠」雙優勢，界霖聯手歐洲 IDM 大廠強勢卡位 AI 電源供應鏈",
-      "link": "https://finance.technews.tw/2026/06/28/jihlin/",
-      "summary": "功率半導體近來再度成為市場焦點，而支撐這些元件持續往更高功率發展的關鍵零組件，正是功率半導體導線架。《財訊》雙 [&#8230;]",
-      "date": "2026-06-28T01:00:49+00:00",
+      "id": "a2cc788cede7",
+      "title": "韓國超級投資案！傳三星、SK 集團豪砸 2,000 兆韓圜，十年新建 4~5 座晶圓廠",
+      "link": "https://technews.tw/2026/06/29/samsung-sk-hynix-korea-ai/",
+      "summary": "根據彭博社引述《韓國經濟日報》（Korea Economic Daily）報導稱，作為韓國總統李在明核心產業戰 [&#8230;]",
+      "date": "2026-06-29T03:38:30+00:00",
       "sourceId": "technews",
       "cats": [
         "market",
@@ -100,11 +100,11 @@
       ]
     },
     {
-      "id": "223984e7fde7",
-      "title": "放棄百萬年薪也要逃離美國？AI 大老逆風揭密：矽谷仍是全球「最強吸鈔機」",
-      "link": "https://technews.tw/2026/06/28/us-2025-net-population-outflow-fails-deter-silicon-valley-ai-wave-again-amplifies-global-startup-attraction/",
-      "summary": "美國爆發近年罕見的人口出走潮之際 Google 前傑出工程師、雲端資料公司 Rubrik 共同創辦人阿文德‧賈 [&#8230;]",
-      "date": "2026-06-27T16:00:27+00:00",
+      "id": "c9887d82e3c1",
+      "title": "蘋果因 AI 被迫只用兩代就放棄台積電 2 奈米，1.4 奈米成下個爭奪產能戰場",
+      "link": "https://technews.tw/2026/06/29/apple-being-forced-to-drop-2nm-process-after-just-two-generations-because-of-ai/",
+      "summary": "外電與產業消息，上週末蘋果因晶圓代工與 AI 晶片需求擴張，重新調整先進製程布局，以更快取得充足供應。台積電 [&#8230;]",
+      "date": "2026-06-29T03:20:31+00:00",
       "sourceId": "technews",
       "cats": [
         "market",
@@ -113,11 +113,11 @@
       ]
     },
     {
-      "id": "20ac3df2cfd2",
-      "title": "扛不住記憶體狂漲！蘋果試圖遊說白宮批准向中國軍工黑名單企業採購晶片",
-      "link": "https://technews.tw/2026/06/27/memory-prices-surge/",
-      "summary": "蘋果（Apple）6 月 25 日宣布決定提高 MacBook 和 iPad 的售價，此舉導致其市值蒸發 2, [&#8230;]",
-      "date": "2026-06-27T09:18:48+00:00",
+      "id": "14430070713f",
+      "title": "百度旗下 AI 晶片部門昆侖芯擬赴港上市、拚 500 億美元估值",
+      "link": "https://finance.technews.tw/2026/06/29/baidu-ai-chip-kunlunxin-hong-kong-ipo-50-billion-valuation/",
+      "summary": "以搜尋引擎、人工智慧與雲端服務為核心的中國科技企業百度（Baidu）在 6 月 28 日的營運動態，聚焦旗下人 [&#8230;]",
+      "date": "2026-06-29T02:50:30+00:00",
       "sourceId": "technews",
       "cats": [
         "market",
@@ -126,11 +126,11 @@
       ]
     },
     {
-      "id": "6cb1b94a2dd4",
-      "title": "黃仁勳預言正加速實現！安永調查 66% 企業押注「代理式 AI」搶進主權雲",
-      "link": "https://finance.technews.tw/2026/06/27/reimagine/",
-      "summary": "輝達（NVIDIA）執行長黃仁勳日前預言代理式 AI（Agentic AI）時代正加速到來，企業將不再只是使用 [&#8230;]",
-      "date": "2026-06-27T08:42:52+00:00",
+      "id": "fb2c2a9fdfa6",
+      "title": "蘋果買長鑫存儲 DRAM 非降成本！郭明錤曝盤算：最好庫克卸任前完成",
+      "link": "https://technews.tw/2026/06/29/ming-chi-kuo-see-cxmt-iphone-18-dram/",
+      "summary": "蘋果近期傳出向川普政府進行游說，希望獲准向遭列入紅鏈黑名單的長鑫存儲採購記憶體晶片。中資天風國際證券分析師郭明 [&#8230;]",
+      "date": "2026-06-29T02:40:33+00:00",
       "sourceId": "technews",
       "cats": [
         "market",
@@ -139,11 +139,24 @@
       ]
     },
     {
-      "id": "e1cb153dfbae",
-      "title": "狠批 IBM 0.7 奈米命名極具誤導性！馬斯克提倡應由「原子寬度」來定義",
-      "link": "https://technews.tw/2026/06/27/nanostack/",
-      "summary": "針對 IBM 發表全球最先進的 0.7 奈米晶片技術，伊隆·馬斯克（Elon Musk）今日發文指稱「0.7 [&#8230;]",
-      "date": "2026-06-27T06:03:54+00:00",
+      "id": "3093ab942c3b",
+      "title": "力挺聯發科成下一檔萬金股！外資目標價喊上 10,000 元新天價",
+      "link": "https://technews.tw/2026/06/29/macquarie-see-mediatek-asic-and-csp/",
+      "summary": "麥格理證券今（29 日）出具最新外資報告指出，聯發科 ASIC 營收在 2028 年可望達 400 億美元，加 [&#8230;]",
+      "date": "2026-06-29T02:03:56+00:00",
+      "sourceId": "technews",
+      "cats": [
+        "market",
+        "process",
+        "material"
+      ]
+    },
+    {
+      "id": "e71184ac8fed",
+      "title": "半導體遇壓伺機彈！45,000 點保衛戰，ABF 與記憶體逆勢吸金",
+      "link": "https://finance.technews.tw/2026/06/29/semiconductors-under-pressure-poised-rebound-45000-defense-battle-abf-memory-chips-attract-capital-against-trend/",
+      "summary": "26 日台股遭遇史詩級震撼教育，外資與自營商聯手倒貨逾 2,100 億元，導致加權指數重挫 3.64% 收在 [&#8230;]",
+      "date": "2026-06-29T02:00:30+00:00",
       "sourceId": "technews",
       "cats": [
         "market",
