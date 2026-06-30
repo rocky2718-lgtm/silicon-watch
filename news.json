@@ -1,6 +1,6 @@
 {
-  "updated": "2026-06-30T09:55:40.696636+00:00",
-  "count": 18,
+  "updated": "2026-06-30T12:18:11.873458+00:00",
+  "count": 16,
   "sources": [
     {
       "id": "technews",
@@ -131,32 +131,6 @@
       "link": "https://technews.tw/2026/06/30/dram-could-reach-30-40-percent-of-hyperscale-data-center-capex-by-2027/",
       "summary": "對沖基金 Atreides Management 管理合夥人、早期投資 SpaceX 的明星經理人 Gavin [&#8230;]",
       "date": "2026-06-30T06:50:17+00:00",
-      "sourceId": "technews",
-      "cats": [
-        "market",
-        "process",
-        "material"
-      ]
-    },
-    {
-      "id": "5df37a78fc37",
-      "title": "傳台積電結盟華邦電，專家：強化 AI 供應鏈自主能力",
-      "link": "https://technews.tw/2026/06/30/tsmc-winbond-alliance-ai-supply-chain-autonomy-strengthened/",
-      "summary": "市場傳聞台積電攜手華邦電布局 AI 相關應用，專家分析，雙方合作最大意義在於補強台灣 AI 記憶體供應鏈，提升 [&#8230;]",
-      "date": "2026-06-30T06:30:28+00:00",
-      "sourceId": "technews",
-      "cats": [
-        "market",
-        "process",
-        "material"
-      ]
-    },
-    {
-      "id": "4fbb286bed67",
-      "title": "應材聚焦 DRAM、外資喊出貨／價格雙漲  設備股飆",
-      "link": "https://technews.tw/2026/06/30/applied-materials-dram-focus-foreign-investors-predict-shipment-price-surge-equipment-stocks-rally/",
-      "summary": "美國半導體設備應用材料（Applied Materials）上週舉行戰略技術與產品發布會，會中多數聚焦公司於 [&#8230;]",
-      "date": "2026-06-30T06:30:21+00:00",
       "sourceId": "technews",
       "cats": [
         "market",
