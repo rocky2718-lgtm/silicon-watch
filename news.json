@@ -1,6 +1,6 @@
 {
-  "updated": "2026-06-29T23:06:52.025093+00:00",
-  "count": 16,
+  "updated": "2026-06-30T04:19:37.157493+00:00",
+  "count": 21,
   "sources": [
     {
       "id": "technews",
@@ -61,11 +61,11 @@
   ],
   "articles": [
     {
-      "id": "086b86937285",
-      "title": "加速商用落地，NVIDIA Halos for Robotics 建構 Physical AI 安全系統",
-      "link": "https://technews.tw/2026/06/30/nvidia-halos-robotics-builds-physical-ai-safety-system-accelerate-commercial-deployment/",
-      "summary": "輝達（NVIDIA）於 2026 年 6 月底正式發表「NVIDIA Halos for Robotics」， [&#8230;]",
-      "date": "2026-06-29T23:00:13+00:00",
+      "id": "841016f27409",
+      "title": "聯發科去年非主管平均年薪連五年奪冠，台積電居第三",
+      "link": "https://finance.technews.tw/2026/06/30/mediatek-tops-non-executive-average-pay-for-fifth-straight-year/",
+      "summary": "台灣證券交易所今天公布本國上市公司 2025 年「非擔任主管職務之全時員工薪資」統計，聯發科非主管全時員工去年 [&#8230;]",
+      "date": "2026-06-30T04:00:12+00:00",
       "sourceId": "technews",
       "cats": [
         "market",
@@ -74,11 +74,11 @@
       ]
     },
     {
-      "id": "20c5f15ace23",
-      "title": "韓國將投入逾 37 兆，打造新半導體聚落與 AI 資料中心",
-      "link": "https://finance.technews.tw/2026/06/29/south-korea-semiconductor/",
-      "summary": "韓國將在幾年內投資近 1.2 兆美元（約新台幣逾 37 兆元），打造新半導體生產基地與人工智慧（AI）資料中心 [&#8230;]",
-      "date": "2026-06-29T10:40:54+00:00",
+      "id": "cb58b9d66f19",
+      "title": "工研院串聯瑞峰半導體、法國新創，布局奈米雷射光電共封裝技術",
+      "link": "https://technews.tw/2026/06/30/raytek-with-ncodin/",
+      "summary": "工研院宣布促成瑞峰半導體攜手法國新創 NcodiN 共同投入奈米雷射光電共封裝關鍵技術研發，可望深化臺灣在高速 [&#8230;]",
+      "date": "2026-06-30T03:26:52+00:00",
       "sourceId": "technews",
       "cats": [
         "market",
@@ -87,11 +87,11 @@
       ]
     },
     {
-      "id": "8f8e55176b43",
-      "title": "記憶體荒衝擊擴大！蘋果、微軟相繼漲價，中小企業陷生存危機",
-      "link": "https://technews.tw/2026/06/29/apple-microsoft-and-memory-crisis/",
-      "summary": "蘋果與微軟上週相繼宣布調漲旗下主要產品售價，將飆升的記憶體成本部分轉嫁給消費者。相較於擁有供應鏈議價能力的大廠 [&#8230;]",
-      "date": "2026-06-29T08:15:25+00:00",
+      "id": "bed18f36a65d",
+      "title": "缺貨加劇  DRAM 舊世代品價格飆漲、最高翻倍",
+      "link": "https://technews.tw/2026/06/30/ddr3-spot-prices-surge-sevenfold-in-a-year/",
+      "summary": "缺貨加劇，推升 DRAM 舊世代產品「DDR3」合約價飆漲，最高翻倍（季增 100%），現貨價 1 年時間來飆 [&#8230;]",
+      "date": "2026-06-30T03:05:50+00:00",
       "sourceId": "technews",
       "cats": [
         "market",
@@ -100,11 +100,102 @@
       ]
     },
     {
-      "id": "89d8621ba29e",
-      "title": "DRAM 均價季增逾 6 成  美光明年營益將衝至全美第三",
-      "link": "https://finance.technews.tw/2026/06/29/micron-is-about-to-be-more-profitable-than-any-u-s-company-except-nvidia-and-google/",
-      "summary": "早在三年前，美國記憶體大廠美光（Micron Technology）還深陷虧損泥沼，如今卻是全美獲利能力最強大 [&#8230;]",
-      "date": "2026-06-29T07:20:55+00:00",
+      "id": "55e003c40229",
+      "title": "Marvell 推最新 Structera CXL 加速器系列，最高可將資料壓縮 3.64 倍",
+      "link": "https://technews.tw/2026/06/30/marvell-structera-x-and-structera-a/",
+      "summary": "AI 記憶體牆（Memory Wall）問題正以驚人的速度惡化，也就是 AI 基礎設施對記憶體容量與頻寬的需求 [&#8230;]",
+      "date": "2026-06-30T02:54:37+00:00",
+      "sourceId": "technews",
+      "cats": [
+        "market",
+        "process",
+        "material"
+      ]
+    },
+    {
+      "id": "68714583a4f4",
+      "title": "Palantir 與 Nvidia 攜手為美國政府機構打造 AI 平台",
+      "link": "https://technews.tw/2026/06/30/open-models-closed-environments-palantir-brings-secure-ai-to-us-agencies-with-nvidia-nemotron/",
+      "summary": "輝達（NVIDIA）與 Palantir 29 日宣布擴大合作，將輝達 Nemotron 開放模型與 Pala [&#8230;]",
+      "date": "2026-06-30T02:50:59+00:00",
+      "sourceId": "technews",
+      "cats": [
+        "market",
+        "process",
+        "material"
+      ]
+    },
+    {
+      "id": "4a7685a67b67",
+      "title": "三星曝光高堆疊 HBM 結構創新專利，目標協助 HBM5 良率大幅提升",
+      "link": "https://technews.tw/2026/06/30/samsung-reveals-innovative-patent-on-high-stack-hbm-structure/",
+      "summary": "隨著高頻寬記憶體（HBM）邁向 HBM4E 與 HBM5 的高堆疊時代，韓國三星電子近日確認已申請一項全新的 [&#8230;]",
+      "date": "2026-06-30T02:30:26+00:00",
+      "sourceId": "technews",
+      "cats": [
+        "market",
+        "process",
+        "material"
+      ]
+    },
+    {
+      "id": "5cc8263d094b",
+      "title": "蘋果想搶記憶體也難！傳長鑫存儲已與騰訊簽署長期供應協議",
+      "link": "https://technews.tw/2026/06/30/china-cxmt-apple-memory/",
+      "summary": "市場消息傳出，中國記憶體大廠長鑫存儲已與騰訊簽署價值近 30 億美元的長期記憶體供應協議。 市場先前傳出蘋果考 [&#8230;]",
+      "date": "2026-06-30T02:10:56+00:00",
+      "sourceId": "technews",
+      "cats": [
+        "market",
+        "process",
+        "material"
+      ]
+    },
+    {
+      "id": "0406dc8434c6",
+      "title": "美伊停火激勵費半狂飆！台積電 ADR 跳漲，聚焦投信百億護盤底氣",
+      "link": "https://finance.technews.tw/2026/06/30/us-iran-ceasefire-boosts-semiconductor-index-tsmc-adr-jumps-institutional-funds-market-support/",
+      "summary": "29 日台股受非農就業數據超預期強勁影響，引爆市場恐慌賣壓，加權指數重挫 3.64% 收在 44,572 點。 [&#8230;]",
+      "date": "2026-06-30T02:00:01+00:00",
+      "sourceId": "technews",
+      "cats": [
+        "market",
+        "process",
+        "material"
+      ]
+    },
+    {
+      "id": "ce5f6517a2ed",
+      "title": "A20 Pro 導入新封裝架構，散熱設計借鑑三星？",
+      "link": "https://technews.tw/2026/06/30/a20-pro-chip-architecture/",
+      "summary": "蘋果在自研晶片設計上向來走在業界前端，不過最新傳聞指出，下一代 A20 Pro 晶片在封裝與散熱架構上，可能採 [&#8230;]",
+      "date": "2026-06-30T01:51:01+00:00",
+      "sourceId": "technews",
+      "cats": [
+        "market",
+        "process",
+        "material"
+      ]
+    },
+    {
+      "id": "c9ab26b4275c",
+      "title": "是方捲 AI 伺服器走私案澄清：僅提供機房服務，無涉客戶設備買賣",
+      "link": "https://technews.tw/2026/06/30/ai-server-smuggling/",
+      "summary": "檢調擴大偵辦 AI 伺服器疑似違法輸往中港澳案件，繼先前查扣搭載 Nvidia 高階 AI 晶片伺服器後，基隆 [&#8230;]",
+      "date": "2026-06-30T01:40:29+00:00",
+      "sourceId": "technews",
+      "cats": [
+        "market",
+        "process",
+        "material"
+      ]
+    },
+    {
+      "id": "71ffe9aab741",
+      "title": "預期將調升 2026 年營收與資本支出，大摩給台積電 2,888 元目標價",
+      "link": "https://finance.technews.tw/2026/06/30/morgan-stanley-gives-tsmc-a-target-price-of-nt2888/",
+      "summary": "外資摩根士丹利（Morgan Stanley，大摩）於最新發布的研究報告中，重申對晶圓代工龍頭台積電的「優於大 [&#8230;]",
+      "date": "2026-06-30T01:20:21+00:00",
       "sourceId": "technews",
       "cats": [
         "market",
@@ -123,32 +214,6 @@
         "process",
         "material",
         "equipment"
-      ]
-    },
-    {
-      "id": "e48273d00e47",
-      "title": "記憶體飆天價引眾怒！三星、SK 海力士與美光面臨美國反壟斷訴訟",
-      "link": "https://technews.tw/2026/06/29/samsung-sk-hynix-micron-lawsuit-for-memory-shortages/",
-      "summary": "隨著記憶體供應持續短缺、價格飆升至歷史高點，三星、SK 海力士與美光面臨美國消費者提起的集體訴訟，指控三間公司 [&#8230;]",
-      "date": "2026-06-29T07:07:07+00:00",
-      "sourceId": "technews",
-      "cats": [
-        "market",
-        "process",
-        "material"
-      ]
-    },
-    {
-      "id": "35026bb211e7",
-      "title": "錶面侵權 Swatch 索賠 1.7 億美元  三星恐吞天價賠償",
-      "link": "https://technews.tw/2026/06/29/swatch-seeks-170-million-in-damages-from-samsung-over-trademark-infringement/",
-      "summary": "瑞士鐘錶集團 Swatch 與三星電子（Samsung Electronics）商標侵權訴訟持續延燒。Swat [&#8230;]",
-      "date": "2026-06-29T06:20:32+00:00",
-      "sourceId": "technews",
-      "cats": [
-        "market",
-        "process",
-        "material"
       ]
     },
     {
