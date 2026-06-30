@@ -1,6 +1,6 @@
 {
-  "updated": "2026-06-30T20:09:25.085188+00:00",
-  "count": 16,
+  "updated": "2026-06-30T23:20:02.673700+00:00",
+  "count": 15,
   "sources": [
     {
       "id": "technews",
@@ -118,19 +118,6 @@
       "link": "https://technews.tw/2026/06/30/nexchip-semiconductor-hong-kong-ipo/",
       "summary": "中國晶圓代工相關企業合肥晶合集成（Nexchip Semiconductor）尋求在香港上市集資最高 8.90 [&#8230;]",
       "date": "2026-06-30T07:08:07+00:00",
-      "sourceId": "technews",
-      "cats": [
-        "market",
-        "process",
-        "material"
-      ]
-    },
-    {
-      "id": "f2f19f8ccb8a",
-      "title": "SpaceX 投資明星：DRAM 將狂吸資料中心 3-4 成支出",
-      "link": "https://technews.tw/2026/06/30/dram-could-reach-30-40-percent-of-hyperscale-data-center-capex-by-2027/",
-      "summary": "對沖基金 Atreides Management 管理合夥人、早期投資 SpaceX 的明星經理人 Gavin [&#8230;]",
-      "date": "2026-06-30T06:50:17+00:00",
       "sourceId": "technews",
       "cats": [
         "market",
