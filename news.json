@@ -1,6 +1,6 @@
 {
-  "updated": "2026-06-30T04:19:37.157493+00:00",
-  "count": 21,
+  "updated": "2026-06-30T09:55:40.696636+00:00",
+  "count": 18,
   "sources": [
     {
       "id": "technews",
@@ -61,11 +61,11 @@
   ],
   "articles": [
     {
-      "id": "841016f27409",
-      "title": "聯發科去年非主管平均年薪連五年奪冠，台積電居第三",
-      "link": "https://finance.technews.tw/2026/06/30/mediatek-tops-non-executive-average-pay-for-fifth-straight-year/",
-      "summary": "台灣證券交易所今天公布本國上市公司 2025 年「非擔任主管職務之全時員工薪資」統計，聯發科非主管全時員工去年 [&#8230;]",
-      "date": "2026-06-30T04:00:12+00:00",
+      "id": "145f77e72de3",
+      "title": "AI 零組件產能排擠、大廠減產加劇，晶圓代工成熟製程漲價效應延伸至 2027 年",
+      "link": "https://finance.technews.tw/2026/06/30/ai-foundry-to-2027/",
+      "summary": "TrendForce 最新調查，AI 伺服器、通用型伺服器（General Purpose Server）與邊 [&#8230;]",
+      "date": "2026-06-30T08:51:30+00:00",
       "sourceId": "technews",
       "cats": [
         "market",
@@ -74,11 +74,11 @@
       ]
     },
     {
-      "id": "cb58b9d66f19",
-      "title": "工研院串聯瑞峰半導體、法國新創，布局奈米雷射光電共封裝技術",
-      "link": "https://technews.tw/2026/06/30/raytek-with-ncodin/",
-      "summary": "工研院宣布促成瑞峰半導體攜手法國新創 NcodiN 共同投入奈米雷射光電共封裝關鍵技術研發，可望深化臺灣在高速 [&#8230;]",
-      "date": "2026-06-30T03:26:52+00:00",
+      "id": "d1ad6e272495",
+      "title": "三星、SK 海力士二氧化碳庫存跌破安全水位，台積電藉碳捕捉提升供應韌性",
+      "link": "https://finance.technews.tw/2026/06/30/semiconductor-carbon-dioxide-levels-fall-below-safety-stock-levels-facing-shortage/",
+      "summary": "根據最新市場消息指出，先進半導體製程不可或缺的高純度二氧化碳（CO2）正面臨嚴峻的供應危機。原因是受中東地緣政 [&#8230;]",
+      "date": "2026-06-30T08:15:16+00:00",
       "sourceId": "technews",
       "cats": [
         "market",
@@ -87,11 +87,11 @@
       ]
     },
     {
-      "id": "bed18f36a65d",
-      "title": "缺貨加劇  DRAM 舊世代品價格飆漲、最高翻倍",
-      "link": "https://technews.tw/2026/06/30/ddr3-spot-prices-surge-sevenfold-in-a-year/",
-      "summary": "缺貨加劇，推升 DRAM 舊世代產品「DDR3」合約價飆漲，最高翻倍（季增 100%），現貨價 1 年時間來飆 [&#8230;]",
-      "date": "2026-06-30T03:05:50+00:00",
+      "id": "2cefb92b8704",
+      "title": "Meta 揭腦波研究新成果，Brain2Qwerty v2 模型大幅提升解碼準確度",
+      "link": "https://technews.tw/2026/06/30/meta-unveiled-brain2qwerty-v2/",
+      "summary": "Meta 去年發表 Brain2Qwerty 模型，研究背後是使用腦磁波儀收集受測者大腦皮質神經元放電時產生的 [&#8230;]",
+      "date": "2026-06-30T08:14:48+00:00",
       "sourceId": "technews",
       "cats": [
         "market",
@@ -100,11 +100,11 @@
       ]
     },
     {
-      "id": "55e003c40229",
-      "title": "Marvell 推最新 Structera CXL 加速器系列，最高可將資料壓縮 3.64 倍",
-      "link": "https://technews.tw/2026/06/30/marvell-structera-x-and-structera-a/",
-      "summary": "AI 記憶體牆（Memory Wall）問題正以驚人的速度惡化，也就是 AI 基礎設施對記憶體容量與頻寬的需求 [&#8230;]",
-      "date": "2026-06-30T02:54:37+00:00",
+      "id": "704cee74631e",
+      "title": "黃仁勳欽點下一個戰場！滙豐全台首檔 AI 人型機器人基金 7/6 開募",
+      "link": "https://finance.technews.tw/2026/06/30/humanoid-robot-multi-asset-base/",
+      "summary": "輝達（NVIDIA）執行長黃仁勳喊實體 AI 就是機器人，看準下一波 AI 浪潮，滙豐投信推出全台首檔人型機器 [&#8230;]",
+      "date": "2026-06-30T07:43:46+00:00",
       "sourceId": "technews",
       "cats": [
         "market",
@@ -113,11 +113,11 @@
       ]
     },
     {
-      "id": "68714583a4f4",
-      "title": "Palantir 與 Nvidia 攜手為美國政府機構打造 AI 平台",
-      "link": "https://technews.tw/2026/06/30/open-models-closed-environments-palantir-brings-secure-ai-to-us-agencies-with-nvidia-nemotron/",
-      "summary": "輝達（NVIDIA）與 Palantir 29 日宣布擴大合作，將輝達 Nemotron 開放模型與 Pala [&#8230;]",
-      "date": "2026-06-30T02:50:59+00:00",
+      "id": "10462dc3ed42",
+      "title": "港股 IPO 熱潮延燒！中國合肥晶合集成擬募資近 9 億美元，專注 22 奈米研發",
+      "link": "https://technews.tw/2026/06/30/nexchip-semiconductor-hong-kong-ipo/",
+      "summary": "中國晶圓代工相關企業合肥晶合集成（Nexchip Semiconductor）尋求在香港上市集資最高 8.90 [&#8230;]",
+      "date": "2026-06-30T07:08:07+00:00",
       "sourceId": "technews",
       "cats": [
         "market",
@@ -126,11 +126,11 @@
       ]
     },
     {
-      "id": "4a7685a67b67",
-      "title": "三星曝光高堆疊 HBM 結構創新專利，目標協助 HBM5 良率大幅提升",
-      "link": "https://technews.tw/2026/06/30/samsung-reveals-innovative-patent-on-high-stack-hbm-structure/",
-      "summary": "隨著高頻寬記憶體（HBM）邁向 HBM4E 與 HBM5 的高堆疊時代，韓國三星電子近日確認已申請一項全新的 [&#8230;]",
-      "date": "2026-06-30T02:30:26+00:00",
+      "id": "f2f19f8ccb8a",
+      "title": "SpaceX 投資明星：DRAM 將狂吸資料中心 3-4 成支出",
+      "link": "https://technews.tw/2026/06/30/dram-could-reach-30-40-percent-of-hyperscale-data-center-capex-by-2027/",
+      "summary": "對沖基金 Atreides Management 管理合夥人、早期投資 SpaceX 的明星經理人 Gavin [&#8230;]",
+      "date": "2026-06-30T06:50:17+00:00",
       "sourceId": "technews",
       "cats": [
         "market",
@@ -139,11 +139,11 @@
       ]
     },
     {
-      "id": "5cc8263d094b",
-      "title": "蘋果想搶記憶體也難！傳長鑫存儲已與騰訊簽署長期供應協議",
-      "link": "https://technews.tw/2026/06/30/china-cxmt-apple-memory/",
-      "summary": "市場消息傳出，中國記憶體大廠長鑫存儲已與騰訊簽署價值近 30 億美元的長期記憶體供應協議。 市場先前傳出蘋果考 [&#8230;]",
-      "date": "2026-06-30T02:10:56+00:00",
+      "id": "5df37a78fc37",
+      "title": "傳台積電結盟華邦電，專家：強化 AI 供應鏈自主能力",
+      "link": "https://technews.tw/2026/06/30/tsmc-winbond-alliance-ai-supply-chain-autonomy-strengthened/",
+      "summary": "市場傳聞台積電攜手華邦電布局 AI 相關應用，專家分析，雙方合作最大意義在於補強台灣 AI 記憶體供應鏈，提升 [&#8230;]",
+      "date": "2026-06-30T06:30:28+00:00",
       "sourceId": "technews",
       "cats": [
         "market",
@@ -152,50 +152,11 @@
       ]
     },
     {
-      "id": "0406dc8434c6",
-      "title": "美伊停火激勵費半狂飆！台積電 ADR 跳漲，聚焦投信百億護盤底氣",
-      "link": "https://finance.technews.tw/2026/06/30/us-iran-ceasefire-boosts-semiconductor-index-tsmc-adr-jumps-institutional-funds-market-support/",
-      "summary": "29 日台股受非農就業數據超預期強勁影響，引爆市場恐慌賣壓，加權指數重挫 3.64% 收在 44,572 點。 [&#8230;]",
-      "date": "2026-06-30T02:00:01+00:00",
-      "sourceId": "technews",
-      "cats": [
-        "market",
-        "process",
-        "material"
-      ]
-    },
-    {
-      "id": "ce5f6517a2ed",
-      "title": "A20 Pro 導入新封裝架構，散熱設計借鑑三星？",
-      "link": "https://technews.tw/2026/06/30/a20-pro-chip-architecture/",
-      "summary": "蘋果在自研晶片設計上向來走在業界前端，不過最新傳聞指出，下一代 A20 Pro 晶片在封裝與散熱架構上，可能採 [&#8230;]",
-      "date": "2026-06-30T01:51:01+00:00",
-      "sourceId": "technews",
-      "cats": [
-        "market",
-        "process",
-        "material"
-      ]
-    },
-    {
-      "id": "c9ab26b4275c",
-      "title": "是方捲 AI 伺服器走私案澄清：僅提供機房服務，無涉客戶設備買賣",
-      "link": "https://technews.tw/2026/06/30/ai-server-smuggling/",
-      "summary": "檢調擴大偵辦 AI 伺服器疑似違法輸往中港澳案件，繼先前查扣搭載 Nvidia 高階 AI 晶片伺服器後，基隆 [&#8230;]",
-      "date": "2026-06-30T01:40:29+00:00",
-      "sourceId": "technews",
-      "cats": [
-        "market",
-        "process",
-        "material"
-      ]
-    },
-    {
-      "id": "71ffe9aab741",
-      "title": "預期將調升 2026 年營收與資本支出，大摩給台積電 2,888 元目標價",
-      "link": "https://finance.technews.tw/2026/06/30/morgan-stanley-gives-tsmc-a-target-price-of-nt2888/",
-      "summary": "外資摩根士丹利（Morgan Stanley，大摩）於最新發布的研究報告中，重申對晶圓代工龍頭台積電的「優於大 [&#8230;]",
-      "date": "2026-06-30T01:20:21+00:00",
+      "id": "4fbb286bed67",
+      "title": "應材聚焦 DRAM、外資喊出貨／價格雙漲  設備股飆",
+      "link": "https://technews.tw/2026/06/30/applied-materials-dram-focus-foreign-investors-predict-shipment-price-surge-equipment-stocks-rally/",
+      "summary": "美國半導體設備應用材料（Applied Materials）上週舉行戰略技術與產品發布會，會中多數聚焦公司於 [&#8230;]",
+      "date": "2026-06-30T06:30:21+00:00",
       "sourceId": "technews",
       "cats": [
         "market",
