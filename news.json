@@ -1,6 +1,6 @@
 {
-  "updated": "2026-07-01T21:43:05.251332+00:00",
-  "count": 16,
+  "updated": "2026-07-01T23:22:39.005158+00:00",
+  "count": 17,
   "sources": [
     {
       "id": "technews",
@@ -60,6 +60,19 @@
     }
   ],
   "articles": [
+    {
+      "id": "9515f42c2d18",
+      "title": "車載晶片廠商 Mobileye 宣布建立自駕計程車直營業務",
+      "link": "https://technews.tw/2026/07/02/mobileye-robotaxi-direct-service/",
+      "summary": "Mobileye 6 月宣布重大戰略轉型，將以 Mobileye Drive 自駕系統為核心，建立自駕計程車（ [&#8230;]",
+      "date": "2026-07-01T23:00:11+00:00",
+      "sourceId": "technews",
+      "cats": [
+        "market",
+        "process",
+        "material"
+      ]
+    },
     {
       "id": "9836fe58bc81",
       "title": "Rapid Component Obsolescence Is Reshaping Today’s Semiconductor Procurement Dynamics",
