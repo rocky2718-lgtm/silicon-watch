@@ -1,6 +1,6 @@
 {
-  "updated": "2026-07-01T10:05:08.799099+00:00",
-  "count": 14,
+  "updated": "2026-07-01T14:53:01.679176+00:00",
+  "count": 16,
   "sources": [
     {
       "id": "technews",
@@ -60,6 +60,58 @@
     }
   ],
   "articles": [
+    {
+      "id": "9836fe58bc81",
+      "title": "Rapid Component Obsolescence Is Reshaping Today’s Semiconductor Procurement Dynamics",
+      "link": "https://www.eetimes.com/rapid-component-obsolescence-is-reshaping-todays-semiconductor-procurement-dynamics/",
+      "summary": "Today’s semiconductor component&#160;landscape is more complex than ever. Obsolescence has shifted from an occasional disruption to a persistent operational risk. As product lifecycles shorten and supply markets tighten, procurement teams must now treat lifecycle awareness as a core part of their ro",
+      "date": "2026-07-01T13:00:00+00:00",
+      "sourceId": "eetimes",
+      "cats": [
+        "process",
+        "material",
+        "equipment"
+      ]
+    },
+    {
+      "id": "195b75d67306",
+      "title": "對手看不到車尾燈！外資瑞穗證券上修台積電先進製程與先進封裝產能",
+      "link": "https://finance.technews.tw/2026/07/01/foreign-firm-mizuho-securities-revised-its-forecast-for-tsmcs-advanced-process-and-packaging-capacity-upwards/",
+      "summary": "受惠於AI驅動的伺服器CPU需求急遽上升，瑞穗證券近期大幅上修了對台積電的半導體供應模型預測。瑞穗指出，為了滿 [&#8230;]",
+      "date": "2026-07-01T11:15:42+00:00",
+      "sourceId": "technews",
+      "cats": [
+        "market",
+        "process",
+        "material"
+      ]
+    },
+    {
+      "id": "d0dc9e09a720",
+      "title": "應材推一系列全新系統，搶攻 DRAM、先進封裝商機",
+      "link": "https://technews.tw/2026/07/01/applied-materials-2026-new-products/",
+      "summary": "應用材料（下稱應材）近日推出一系列全新晶片製造系統，支援打造新一代人工智慧（AI）的先進 3D 晶片架構。 應 [&#8230;]",
+      "date": "2026-07-01T10:43:17+00:00",
+      "sourceId": "technews",
+      "cats": [
+        "market",
+        "process",
+        "material"
+      ]
+    },
+    {
+      "id": "d110b3a29fe0",
+      "title": "「矽電光熱」成 AI 發展主要瓶頸！法人點名台積電、穎崴等 10 檔受惠股",
+      "link": "https://technews.tw/2026/07/01/ai-silicon-power-photonics-thermal/",
+      "summary": "AI 基礎建設投資熱潮持續升溫，市場關注焦點已從需求是否存在轉向「供應鏈能否跟上」。根據法人出具最新報告指出， [&#8230;]",
+      "date": "2026-07-01T10:27:33+00:00",
+      "sourceId": "technews",
+      "cats": [
+        "market",
+        "process",
+        "material"
+      ]
+    },
     {
       "id": "b4ee1fc18460",
       "title": "三星晶圓代工 AI 時代布局三大新藍圖，先進製程 SF1.4 Plus 將於 2030 年亮相",
@@ -123,32 +175,6 @@
         "market",
         "process",
         "material"
-      ]
-    },
-    {
-      "id": "f06f45eba40e",
-      "title": "SatVu Targets Industrial Intelligence with Thermal Imaging",
-      "link": "https://www.eetimes.com/satvu-targets-industrial-intelligence-with-thermal-imaging/",
-      "summary": "With HotSat-2 in orbit and fresh funding, U.K. startup SatVu is demonstrating how high-resolution thermal satellite data can reveal real-world industrial activity. The post SatVu Targets Industrial Intelligence with Thermal Imaging appeared first on EE Times.",
-      "date": "2026-06-29T07:20:00+00:00",
-      "sourceId": "eetimes",
-      "cats": [
-        "process",
-        "material",
-        "equipment"
-      ]
-    },
-    {
-      "id": "edbe995816a5",
-      "title": "Next‑Gen ADAS/AD Architectures: Power, Networking, Safety & Sensors",
-      "link": "https://www.eetimes.com/next%e2%80%91gen-adas-ad-architectures-power-networking-safety-sensors/",
-      "summary": "Join this webinar and learn how high‑performance semiconductor technologies support centralized sensor fusion and reliable ADAS systems. The post Next‑Gen ADAS/AD Architectures: Power, Networking, Safety &amp; Sensors appeared first on EE Times.",
-      "date": "2026-06-26T08:13:23+00:00",
-      "sourceId": "eetimes",
-      "cats": [
-        "process",
-        "material",
-        "equipment"
       ]
     },
     {
