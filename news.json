@@ -1,6 +1,6 @@
 {
-  "updated": "2026-06-30T23:20:02.673700+00:00",
-  "count": 15,
+  "updated": "2026-07-01T04:46:39.054511+00:00",
+  "count": 16,
   "sources": [
     {
       "id": "technews",
@@ -61,11 +61,11 @@
   ],
   "articles": [
     {
-      "id": "145f77e72de3",
-      "title": "AI 零組件產能排擠、大廠減產加劇，晶圓代工成熟製程漲價效應延伸至 2027 年",
-      "link": "https://finance.technews.tw/2026/06/30/ai-foundry-to-2027/",
-      "summary": "TrendForce 最新調查，AI 伺服器、通用型伺服器（General Purpose Server）與邊 [&#8230;]",
-      "date": "2026-06-30T08:51:30+00:00",
+      "id": "4dd0fef77354",
+      "title": "NVIDIA 不參加矽谷同業的「員工福利競賽」：午餐飲料自費，只請你喝咖啡",
+      "link": "https://finance.technews.tw/2026/07/01/nvidias-culture-of-frugality-extends-all-the-way-to-the-cafeteria/",
+      "summary": "外媒 Business Insider 6 月 30 日報導，NVIDIA 雖然高薪，但員工餐飲與辦公室福利方 [&#8230;]",
+      "date": "2026-07-01T04:10:33+00:00",
       "sourceId": "technews",
       "cats": [
         "market",
@@ -74,11 +74,11 @@
       ]
     },
     {
-      "id": "d1ad6e272495",
-      "title": "三星、SK 海力士二氧化碳庫存跌破安全水位，台積電藉碳捕捉提升供應韌性",
-      "link": "https://finance.technews.tw/2026/06/30/semiconductor-carbon-dioxide-levels-fall-below-safety-stock-levels-facing-shortage/",
-      "summary": "根據最新市場消息指出，先進半導體製程不可或缺的高純度二氧化碳（CO2）正面臨嚴峻的供應危機。原因是受中東地緣政 [&#8230;]",
-      "date": "2026-06-30T08:15:16+00:00",
+      "id": "2f3d5d5bbea5",
+      "title": "探針卡與測試插座迎接漲價潮，大摩給旺矽與穎崴優於大盤評價",
+      "link": "https://finance.technews.tw/2026/07/01/morgan-stanley-rates-wynn-silicon-and-yingwei-as-outperform/",
+      "summary": "隨著貴金屬價格持續攀升，以及測試探針（test pin）產能出現嚴重短缺，半導體供應鏈預計將迎接新一波的成本轉 [&#8230;]",
+      "date": "2026-07-01T03:50:24+00:00",
       "sourceId": "technews",
       "cats": [
         "market",
@@ -87,11 +87,11 @@
       ]
     },
     {
-      "id": "2cefb92b8704",
-      "title": "Meta 揭腦波研究新成果，Brain2Qwerty v2 模型大幅提升解碼準確度",
-      "link": "https://technews.tw/2026/06/30/meta-unveiled-brain2qwerty-v2/",
-      "summary": "Meta 去年發表 Brain2Qwerty 模型，研究背後是使用腦磁波儀收集受測者大腦皮質神經元放電時產生的 [&#8230;]",
-      "date": "2026-06-30T08:14:48+00:00",
+      "id": "c5d1b7d4aa92",
+      "title": "環球晶圓現貨價將追上合約價，野村力挺 1,200 元目標價帶動股價攻漲停",
+      "link": "https://finance.technews.tw/2026/07/01/globalwafers-spot-prices-will-catch-up-with-contract-prices/",
+      "summary": "就在外資野村證券（Nomura Securities）近期調升了對矽晶圓大廠環球晶圓（GlobalWafers [&#8230;]",
+      "date": "2026-07-01T03:15:13+00:00",
       "sourceId": "technews",
       "cats": [
         "market",
@@ -100,11 +100,11 @@
       ]
     },
     {
-      "id": "704cee74631e",
-      "title": "黃仁勳欽點下一個戰場！滙豐全台首檔 AI 人型機器人基金 7/6 開募",
-      "link": "https://finance.technews.tw/2026/06/30/humanoid-robot-multi-asset-base/",
-      "summary": "輝達（NVIDIA）執行長黃仁勳喊實體 AI 就是機器人，看準下一波 AI 浪潮，滙豐投信推出全台首檔人型機器 [&#8230;]",
-      "date": "2026-06-30T07:43:46+00:00",
+      "id": "84d7370152ef",
+      "title": "三星 1.4 奈米延後至 2029 年量產，力拚進入蘋果處理器多元供應鏈",
+      "link": "https://technews.tw/2026/07/01/samsungs-1-4nm-process-has-been-delayed-until-2029-for-mass-production/",
+      "summary": "根據韓國媒體報導，先前傳出停止研發 1.4 奈米製程的三星，日前有消息表示，三星仍將繼續進行 1.4 奈米製程 [&#8230;]",
+      "date": "2026-07-01T02:50:10+00:00",
       "sourceId": "technews",
       "cats": [
         "market",
@@ -113,11 +113,24 @@
       ]
     },
     {
-      "id": "10462dc3ed42",
-      "title": "港股 IPO 熱潮延燒！中國合肥晶合集成擬募資近 9 億美元，專注 22 奈米研發",
-      "link": "https://technews.tw/2026/06/30/nexchip-semiconductor-hong-kong-ipo/",
-      "summary": "中國晶圓代工相關企業合肥晶合集成（Nexchip Semiconductor）尋求在香港上市集資最高 8.90 [&#8230;]",
-      "date": "2026-06-30T07:08:07+00:00",
+      "id": "add1494e4921",
+      "title": "輝達終於出現勁敵？AI 晶片新創 Etched 估值達 50 億美元、10 億美元訂單入袋",
+      "link": "https://technews.tw/2026/07/01/nvidia-competitor-etched-hits-5b-valuation-1b-in-sales-for-ai-chip/",
+      "summary": "AI 晶片新創 Etched 6 月 30 日公布最新進度，已在台積電協助下完成晶片，並已簽約累計 10 億美 [&#8230;]",
+      "date": "2026-07-01T02:40:28+00:00",
+      "sourceId": "technews",
+      "cats": [
+        "market",
+        "process",
+        "material"
+      ]
+    },
+    {
+      "id": "d4c9f738c70f",
+      "title": "台積電 ADR 飆漲近 5%！大盤強叩四萬五大關，緊盯外資回補與成熟製程買盤",
+      "link": "https://finance.technews.tw/2026/07/01/tsmc-adr-5-surge-market-challenges-45000-foreign-re-buying-mature-process-demand/",
+      "summary": "6 月 30 日加權指數收 44,999.9 點，距四萬五關卡僅 0.1 點，自營商大買 145.9 億元撐盤 [&#8230;]",
+      "date": "2026-07-01T02:00:43+00:00",
       "sourceId": "technews",
       "cats": [
         "market",
