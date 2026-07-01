@@ -1,6 +1,6 @@
 {
-  "updated": "2026-07-01T04:46:39.054511+00:00",
-  "count": 16,
+  "updated": "2026-07-01T10:05:08.799099+00:00",
+  "count": 14,
   "sources": [
     {
       "id": "technews",
@@ -61,11 +61,11 @@
   ],
   "articles": [
     {
-      "id": "4dd0fef77354",
-      "title": "NVIDIA 不參加矽谷同業的「員工福利競賽」：午餐飲料自費，只請你喝咖啡",
-      "link": "https://finance.technews.tw/2026/07/01/nvidias-culture-of-frugality-extends-all-the-way-to-the-cafeteria/",
-      "summary": "外媒 Business Insider 6 月 30 日報導，NVIDIA 雖然高薪，但員工餐飲與辦公室福利方 [&#8230;]",
-      "date": "2026-07-01T04:10:33+00:00",
+      "id": "b4ee1fc18460",
+      "title": "三星晶圓代工 AI 時代布局三大新藍圖，先進製程 SF1.4 Plus 將於 2030 年亮相",
+      "link": "https://finance.technews.tw/2026/07/01/samsungs-ai-driven-foundry-strategy-outlines-three-new-blueprints/",
+      "summary": "根據韓國媒體 ZDNet Korea 報導，韓國三星宣告在人工智慧（AI）大轉型時代，三星晶圓代工將進化為連結 [&#8230;]",
+      "date": "2026-07-01T09:50:15+00:00",
       "sourceId": "technews",
       "cats": [
         "market",
@@ -74,11 +74,11 @@
       ]
     },
     {
-      "id": "2f3d5d5bbea5",
-      "title": "探針卡與測試插座迎接漲價潮，大摩給旺矽與穎崴優於大盤評價",
-      "link": "https://finance.technews.tw/2026/07/01/morgan-stanley-rates-wynn-silicon-and-yingwei-as-outperform/",
-      "summary": "隨著貴金屬價格持續攀升，以及測試探針（test pin）產能出現嚴重短缺，半導體供應鏈預計將迎接新一波的成本轉 [&#8230;]",
-      "date": "2026-07-01T03:50:24+00:00",
+      "id": "5c835bedbf5d",
+      "title": "康寧發表新一代 Glass Bridge 光互連技術，瞄準 CPO、半導體封裝新商機",
+      "link": "https://technews.tw/2026/07/01/corning-glassbridge-fiber-to-pic-connector-technology/",
+      "summary": "康寧近日展示一項新一代玻璃光學互連技術，專為連接光子半導體與光纖而設計，目標鎖定共封裝光學（CPO）及玻璃核心 [&#8230;]",
+      "date": "2026-07-01T08:30:25+00:00",
       "sourceId": "technews",
       "cats": [
         "market",
@@ -87,11 +87,24 @@
       ]
     },
     {
-      "id": "c5d1b7d4aa92",
-      "title": "環球晶圓現貨價將追上合約價，野村力挺 1,200 元目標價帶動股價攻漲停",
-      "link": "https://finance.technews.tw/2026/07/01/globalwafers-spot-prices-will-catch-up-with-contract-prices/",
-      "summary": "就在外資野村證券（Nomura Securities）近期調升了對矽晶圓大廠環球晶圓（GlobalWafers [&#8230;]",
-      "date": "2026-07-01T03:15:13+00:00",
+      "id": "c8dca0130ae5",
+      "title": "EU Chips Act 2: Award-Winning Sequel or Straight to Video?",
+      "link": "https://www.eetimes.com/eu-chips-act-2-award-winning-sequel-or-straight-to-video/",
+      "summary": "EU Chips Act 2.0 gets the plot right: Fabs aren’t enough. Europe needs design-layer muscle and multi-foundry freedom. The post EU Chips Act 2: Award-Winning Sequel or Straight to Video? appeared first on EE Times.",
+      "date": "2026-07-01T07:45:07+00:00",
+      "sourceId": "eetimes",
+      "cats": [
+        "process",
+        "material",
+        "equipment"
+      ]
+    },
+    {
+      "id": "c744cccd3090",
+      "title": "Meta 以自研晶片 Vistara 重複使用舊 DDR4 記憶體，壓低不斷飆升的硬體成本",
+      "link": "https://technews.tw/2026/07/01/zuck-saves-meta-bucks-by-reusing-memory-from-old-servers-with-a-custom-cxl-asic/",
+      "summary": "Meta 正以自研 Vistara ASIC，將退役伺服器的 DDR4 記憶體重新接入原生只支援 DDR5 的 [&#8230;]",
+      "date": "2026-07-01T07:30:37+00:00",
       "sourceId": "technews",
       "cats": [
         "market",
@@ -100,37 +113,11 @@
       ]
     },
     {
-      "id": "84d7370152ef",
-      "title": "三星 1.4 奈米延後至 2029 年量產，力拚進入蘋果處理器多元供應鏈",
-      "link": "https://technews.tw/2026/07/01/samsungs-1-4nm-process-has-been-delayed-until-2029-for-mass-production/",
-      "summary": "根據韓國媒體報導，先前傳出停止研發 1.4 奈米製程的三星，日前有消息表示，三星仍將繼續進行 1.4 奈米製程 [&#8230;]",
-      "date": "2026-07-01T02:50:10+00:00",
-      "sourceId": "technews",
-      "cats": [
-        "market",
-        "process",
-        "material"
-      ]
-    },
-    {
-      "id": "add1494e4921",
-      "title": "輝達終於出現勁敵？AI 晶片新創 Etched 估值達 50 億美元、10 億美元訂單入袋",
-      "link": "https://technews.tw/2026/07/01/nvidia-competitor-etched-hits-5b-valuation-1b-in-sales-for-ai-chip/",
-      "summary": "AI 晶片新創 Etched 6 月 30 日公布最新進度，已在台積電協助下完成晶片，並已簽約累計 10 億美 [&#8230;]",
-      "date": "2026-07-01T02:40:28+00:00",
-      "sourceId": "technews",
-      "cats": [
-        "market",
-        "process",
-        "material"
-      ]
-    },
-    {
-      "id": "d4c9f738c70f",
-      "title": "台積電 ADR 飆漲近 5%！大盤強叩四萬五大關，緊盯外資回補與成熟製程買盤",
-      "link": "https://finance.technews.tw/2026/07/01/tsmc-adr-5-surge-market-challenges-45000-foreign-re-buying-mature-process-demand/",
-      "summary": "6 月 30 日加權指數收 44,999.9 點，距四萬五關卡僅 0.1 點，自營商大買 145.9 億元撐盤 [&#8230;]",
-      "date": "2026-07-01T02:00:43+00:00",
+      "id": "0449f76cc82a",
+      "title": "邊緣晶片商安霸成「高純度實體 AI 股」、股價噴",
+      "link": "https://finance.technews.tw/2026/07/01/ambarella-stock-rockets-as-ai-chipmaker-scores-top-pick-rating/",
+      "summary": "隨著 AI 應用範疇跨出雲端資料中心、大舉邁向真實世界，安全監控攝影機系統單晶片開發商安霸（Ambarella [&#8230;]",
+      "date": "2026-07-01T07:10:30+00:00",
       "sourceId": "technews",
       "cats": [
         "market",
@@ -157,19 +144,6 @@
       "link": "https://www.eetimes.com/next%e2%80%91gen-adas-ad-architectures-power-networking-safety-sensors/",
       "summary": "Join this webinar and learn how high‑performance semiconductor technologies support centralized sensor fusion and reliable ADAS systems. The post Next‑Gen ADAS/AD Architectures: Power, Networking, Safety &amp; Sensors appeared first on EE Times.",
       "date": "2026-06-26T08:13:23+00:00",
-      "sourceId": "eetimes",
-      "cats": [
-        "process",
-        "material",
-        "equipment"
-      ]
-    },
-    {
-      "id": "b42cdb0d6d43",
-      "title": "Jim Keller: ‘AI Still Obeys the Old Laws of Compute’",
-      "link": "https://www.eetimes.com/jim-keller-on-tenstorrents-blackhole-scaling-and-ipo-ambitions/",
-      "summary": "Invoking Rent's Rule and Amdahl's Law, Keller argues that memory and communication, not bigger processors, will define the future of AI infrastructure The post Jim Keller: ‘AI Still Obeys the Old Laws of Compute’ appeared first on EE Times.",
-      "date": "2026-06-25T22:00:00+00:00",
       "sourceId": "eetimes",
       "cats": [
         "process",
