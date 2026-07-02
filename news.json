@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-02T21:17:47.484543+00:00",
+  "updated": "2026-07-02T23:16:25.153604+00:00",
   "count": 20,
   "sources": [
     {
@@ -60,6 +60,19 @@
     }
   ],
   "articles": [
+    {
+      "id": "bace28a4b66b",
+      "title": "Anthropic 自研晶片有譜？傳找三星洽談合作",
+      "link": "https://technews.tw/2026/07/03/anthropic-and-samsung-discuss-building-a-custom-ai-chip/",
+      "summary": "外媒 The Information 報導，Anthropic 已與三星接洽，商討晶片合作可能性。 早在今年 [&#8230;]",
+      "date": "2026-07-02T22:44:44+00:00",
+      "sourceId": "technews",
+      "cats": [
+        "market",
+        "process",
+        "material"
+      ]
+    },
     {
       "id": "5c74af663475",
       "title": "Turkey Needs to Make Its Own Chips, Not Just Design Them",
@@ -183,19 +196,6 @@
       "link": "https://infosecu.technews.tw/2026/07/02/apple-plans-procure-memory-chips-chinese-companies-facing-us-lawmaker-opposition-national-security/",
       "summary": "蘋果公司（Apple Inc.）正與兩家被美國五角大廈列入黑名單的中國半導體製造商洽談採購晶片，以期緩解全球記 [&#8230;]",
       "date": "2026-07-02T07:10:10+00:00",
-      "sourceId": "technews",
-      "cats": [
-        "market",
-        "process",
-        "material"
-      ]
-    },
-    {
-      "id": "74e408026bcf",
-      "title": "台股血崩千點塑化獨紅！台塑、台化亮燈漲停「南亞靠 AI 再創新天價」",
-      "link": "https://finance.technews.tw/2026/07/02/butadiene/",
-      "summary": "台股今日受到台積電 ADR 重挫影響，今日開低震盪一度跌逾千點，但受惠石化三大基本原料乙烯、丙烯和丁二烯價格走 [&#8230;]",
-      "date": "2026-07-02T06:38:58+00:00",
       "sourceId": "technews",
       "cats": [
         "market",
