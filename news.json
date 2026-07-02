@@ -1,6 +1,6 @@
 {
-  "updated": "2026-07-02T12:15:12.650674+00:00",
-  "count": 18,
+  "updated": "2026-07-02T16:09:06.187881+00:00",
+  "count": 20,
   "sources": [
     {
       "id": "technews",
@@ -60,6 +60,32 @@
     }
   ],
   "articles": [
+    {
+      "id": "5c74af663475",
+      "title": "Turkey Needs to Make Its Own Chips, Not Just Design Them",
+      "link": "https://www.eetimes.com/turkey-needs-to-make-its-own-chips-not-just-design-them/",
+      "summary": "Turkey has built a strong chip design base, but without domestic manufacturing, its semiconductor sovereignty remains on loan. The post Turkey Needs to Make Its Own Chips, Not Just Design Them appeared first on EE Times.",
+      "date": "2026-07-02T12:42:59+00:00",
+      "sourceId": "eetimes",
+      "cats": [
+        "process",
+        "material",
+        "equipment"
+      ]
+    },
+    {
+      "id": "14c513ee6987",
+      "title": "英飛凌斥資 50 億歐元德勒斯登半導體工廠啟用，重點生產汽車、能源、AI 晶片",
+      "link": "https://finance.technews.tw/2026/07/02/infineons-e5-billion-dresden-semiconductor-plant-has-commenced-operations/",
+      "summary": "德國半導體製造商英飛凌（Infineon）本週二於德國德勒斯登（Dresden）正式啟用被譽為全球最大的智慧半 [&#8230;]",
+      "date": "2026-07-02T12:40:17+00:00",
+      "sourceId": "technews",
+      "cats": [
+        "market",
+        "process",
+        "material"
+      ]
+    },
     {
       "id": "a8fe06faa48d",
       "title": "經部核准台積電增資美子公司 200 億美元建晶圓廠",
