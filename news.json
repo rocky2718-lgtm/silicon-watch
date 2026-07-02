@@ -1,6 +1,6 @@
 {
-  "updated": "2026-07-01T23:22:39.005158+00:00",
-  "count": 17,
+  "updated": "2026-07-02T04:13:21.311066+00:00",
+  "count": 16,
   "sources": [
     {
       "id": "technews",
@@ -61,11 +61,89 @@
   ],
   "articles": [
     {
-      "id": "9515f42c2d18",
-      "title": "車載晶片廠商 Mobileye 宣布建立自駕計程車直營業務",
-      "link": "https://technews.tw/2026/07/02/mobileye-robotaxi-direct-service/",
-      "summary": "Mobileye 6 月宣布重大戰略轉型，將以 Mobileye Drive 自駕系統為核心，建立自駕計程車（ [&#8230;]",
-      "date": "2026-07-01T23:00:11+00:00",
+      "id": "06188a656e6b",
+      "title": "台股血洗千點「台積電」淪雲霄飛車！法人喊現金入袋曝 7 月 ETF 除息表",
+      "link": "https://finance.technews.tw/2026/07/02/roller-coaster/",
+      "summary": "台股走勢猶如雲霄飛車，7 月 1 日加權指數剛大漲 893 點，收在 47,018 點，今日受美股收黑與台指期 [&#8230;]",
+      "date": "2026-07-02T02:23:23+00:00",
+      "sourceId": "technews",
+      "cats": [
+        "market",
+        "process",
+        "material"
+      ]
+    },
+    {
+      "id": "4b8e0bf703e2",
+      "title": "高純度 CO₂ 韓國庫存水位降至一個月以下，三星、SK 海力士承壓",
+      "link": "https://technews.tw/2026/07/02/high-purity-co2-supply-tightens-for-advanced-semiconductor-cleaning/",
+      "summary": "韓國半導體供應鏈再現瓶頸，先進晶圓清洗用的高純度二氧化碳（CO₂）供給明顯吃緊。業界消息指出，目前整體庫存跌破 [&#8230;]",
+      "date": "2026-07-02T02:20:15+00:00",
+      "sourceId": "technews",
+      "cats": [
+        "market",
+        "process",
+        "material"
+      ]
+    },
+    {
+      "id": "2ed0cd56b4fd",
+      "title": "費半急殺逾 6% 重擊多頭！台積電面臨外資籌碼大考驗，ABF 與先進封裝成回檔聚焦核心",
+      "link": "https://finance.technews.tw/2026/07/02/sox-plunges-6pc-tsmc-foreign-capital-test-abf-advanced-packaging-pullback-focus/",
+      "summary": "台股 1 日迎接下半年開門紅，加權指數放量大漲 2.5% 至 46,126 點，三大法人同步買超達 539.2 [&#8230;]",
+      "date": "2026-07-02T02:00:08+00:00",
+      "sourceId": "technews",
+      "cats": [
+        "market",
+        "process",
+        "material"
+      ]
+    },
+    {
+      "id": "70a845e234aa",
+      "title": "川普：台灣將倍增亞利桑那州晶圓廠規模，助美提高晶片市占率",
+      "link": "https://technews.tw/2026/07/02/trump-says-taiwan-is-doubling-the-size-of-chipmaking-plant-in-arizona/",
+      "summary": "美國總統川普今天表示，台灣正將亞利桑那州興建中的晶圓廠規模擴大一倍，這將有助於在他任期結束前將美國晶片市占率提 [&#8230;]",
+      "date": "2026-07-02T01:30:23+00:00",
+      "sourceId": "technews",
+      "cats": [
+        "market",
+        "process",
+        "material"
+      ]
+    },
+    {
+      "id": "a3fbc2f603c5",
+      "title": "受惠 AI 強勁需求與先進封裝成長，瑞銀給日月光投控買進評等目標價 835 元",
+      "link": "https://finance.technews.tw/2026/07/02/ubs-gives-ase-technology-holding-a-buy-rating-with-a-target-price-of-nt835/",
+      "summary": "外資瑞銀發布最新研究報告指出，受惠於雲端 AI 的強勁需求與先進封裝市場的快速成長，日月光投控正處於多年基本面 [&#8230;]",
+      "date": "2026-07-02T01:00:56+00:00",
+      "sourceId": "technews",
+      "cats": [
+        "market",
+        "process",
+        "material"
+      ]
+    },
+    {
+      "id": "c1b2a7484c97",
+      "title": "AI、電動車推升電源需求，強茂秀高效功率元件方案",
+      "link": "https://technews.tw/2026/07/02/ai-server-mosfet-sic/",
+      "summary": "AI 運算推升伺服器功耗，電動車也持續朝高電壓、高效率架構發展，使功率半導體需求持續升溫。功率半導體大廠強茂 [&#8230;]",
+      "date": "2026-07-02T00:45:08+00:00",
+      "sourceId": "technews",
+      "cats": [
+        "market",
+        "process",
+        "material"
+      ]
+    },
+    {
+      "id": "c5beacee835a",
+      "title": "蘋果大費周章遊說美國政府開放採購中國記憶體，但海外消費者無福消受",
+      "link": "https://technews.tw/2026/07/02/apple-went-to-great-lengths-to-lobby-the-us-government-to-open-its-market-to-chinese-memory-chips/",
+      "summary": "外媒報導，蘋果近期為確保記憶體晶片供應，投入大量政治資源，試圖將中國 DRAM 大廠長鑫存儲（CXMT）與快閃 [&#8230;]",
+      "date": "2026-07-02T00:40:24+00:00",
       "sourceId": "technews",
       "cats": [
         "market",
@@ -87,71 +165,6 @@
       ]
     },
     {
-      "id": "195b75d67306",
-      "title": "對手看不到車尾燈！外資瑞穗證券上修台積電先進製程與先進封裝產能",
-      "link": "https://finance.technews.tw/2026/07/01/foreign-firm-mizuho-securities-revised-its-forecast-for-tsmcs-advanced-process-and-packaging-capacity-upwards/",
-      "summary": "受惠於AI驅動的伺服器CPU需求急遽上升，瑞穗證券近期大幅上修了對台積電的半導體供應模型預測。瑞穗指出，為了滿 [&#8230;]",
-      "date": "2026-07-01T11:15:42+00:00",
-      "sourceId": "technews",
-      "cats": [
-        "market",
-        "process",
-        "material"
-      ]
-    },
-    {
-      "id": "d0dc9e09a720",
-      "title": "應材推一系列全新系統，搶攻 DRAM、先進封裝商機",
-      "link": "https://technews.tw/2026/07/01/applied-materials-2026-new-products/",
-      "summary": "應用材料（下稱應材）近日推出一系列全新晶片製造系統，支援打造新一代人工智慧（AI）的先進 3D 晶片架構。 應 [&#8230;]",
-      "date": "2026-07-01T10:43:17+00:00",
-      "sourceId": "technews",
-      "cats": [
-        "market",
-        "process",
-        "material"
-      ]
-    },
-    {
-      "id": "d110b3a29fe0",
-      "title": "「矽電光熱」成 AI 發展主要瓶頸！法人點名台積電、穎崴等 10 檔受惠股",
-      "link": "https://technews.tw/2026/07/01/ai-silicon-power-photonics-thermal/",
-      "summary": "AI 基礎建設投資熱潮持續升溫，市場關注焦點已從需求是否存在轉向「供應鏈能否跟上」。根據法人出具最新報告指出， [&#8230;]",
-      "date": "2026-07-01T10:27:33+00:00",
-      "sourceId": "technews",
-      "cats": [
-        "market",
-        "process",
-        "material"
-      ]
-    },
-    {
-      "id": "b4ee1fc18460",
-      "title": "三星晶圓代工 AI 時代布局三大新藍圖，先進製程 SF1.4 Plus 將於 2030 年亮相",
-      "link": "https://finance.technews.tw/2026/07/01/samsungs-ai-driven-foundry-strategy-outlines-three-new-blueprints/",
-      "summary": "根據韓國媒體 ZDNet Korea 報導，韓國三星宣告在人工智慧（AI）大轉型時代，三星晶圓代工將進化為連結 [&#8230;]",
-      "date": "2026-07-01T09:50:15+00:00",
-      "sourceId": "technews",
-      "cats": [
-        "market",
-        "process",
-        "material"
-      ]
-    },
-    {
-      "id": "5c835bedbf5d",
-      "title": "康寧發表新一代 Glass Bridge 光互連技術，瞄準 CPO、半導體封裝新商機",
-      "link": "https://technews.tw/2026/07/01/corning-glassbridge-fiber-to-pic-connector-technology/",
-      "summary": "康寧近日展示一項新一代玻璃光學互連技術，專為連接光子半導體與光纖而設計，目標鎖定共封裝光學（CPO）及玻璃核心 [&#8230;]",
-      "date": "2026-07-01T08:30:25+00:00",
-      "sourceId": "technews",
-      "cats": [
-        "market",
-        "process",
-        "material"
-      ]
-    },
-    {
       "id": "c8dca0130ae5",
       "title": "EU Chips Act 2: Award-Winning Sequel or Straight to Video?",
       "link": "https://www.eetimes.com/eu-chips-act-2-award-winning-sequel-or-straight-to-video/",
@@ -162,32 +175,6 @@
         "process",
         "material",
         "equipment"
-      ]
-    },
-    {
-      "id": "c744cccd3090",
-      "title": "Meta 以自研晶片 Vistara 重複使用舊 DDR4 記憶體，壓低不斷飆升的硬體成本",
-      "link": "https://technews.tw/2026/07/01/zuck-saves-meta-bucks-by-reusing-memory-from-old-servers-with-a-custom-cxl-asic/",
-      "summary": "Meta 正以自研 Vistara ASIC，將退役伺服器的 DDR4 記憶體重新接入原生只支援 DDR5 的 [&#8230;]",
-      "date": "2026-07-01T07:30:37+00:00",
-      "sourceId": "technews",
-      "cats": [
-        "market",
-        "process",
-        "material"
-      ]
-    },
-    {
-      "id": "0449f76cc82a",
-      "title": "邊緣晶片商安霸成「高純度實體 AI 股」、股價噴",
-      "link": "https://finance.technews.tw/2026/07/01/ambarella-stock-rockets-as-ai-chipmaker-scores-top-pick-rating/",
-      "summary": "隨著 AI 應用範疇跨出雲端資料中心、大舉邁向真實世界，安全監控攝影機系統單晶片開發商安霸（Ambarella [&#8230;]",
-      "date": "2026-07-01T07:10:30+00:00",
-      "sourceId": "technews",
-      "cats": [
-        "market",
-        "process",
-        "material"
       ]
     },
     {
