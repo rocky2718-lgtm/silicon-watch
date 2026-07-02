@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-02T09:27:37.287539+00:00",
+  "updated": "2026-07-02T12:15:12.650674+00:00",
   "count": 18,
   "sources": [
     {
@@ -60,6 +60,19 @@
     }
   ],
   "articles": [
+    {
+      "id": "a8fe06faa48d",
+      "title": "經部核准台積電增資美子公司 200 億美元建晶圓廠",
+      "link": "https://finance.technews.tw/2026/07/02/moea-approves-tsmc-20-billion-capital-injection-us-subsidiary-wafer-fab-construction/",
+      "summary": "經濟部投資審議司今天召開投資審議會，通過台積電以 200 億美元增資美國 TSMC Arizona，資金將用於 [&#8230;]",
+      "date": "2026-07-02T09:30:47+00:00",
+      "sourceId": "technews",
+      "cats": [
+        "market",
+        "process",
+        "material"
+      ]
+    },
     {
       "id": "65b9d3f75577",
       "title": "主權 AI 延伸企業層級，APMIC 瞄準金融和政府推 PrivStation 2 方案",
@@ -157,19 +170,6 @@
       "link": "https://finance.technews.tw/2026/07/02/butadiene/",
       "summary": "台股今日受到台積電 ADR 重挫影響，今日開低震盪一度跌逾千點，但受惠石化三大基本原料乙烯、丙烯和丁二烯價格走 [&#8230;]",
       "date": "2026-07-02T06:38:58+00:00",
-      "sourceId": "technews",
-      "cats": [
-        "market",
-        "process",
-        "material"
-      ]
-    },
-    {
-      "id": "0d1ca5e7eaac",
-      "title": "三星出招研發「量子電腦＋AI」微影技術，拚先進製程彎道超車",
-      "link": "https://technews.tw/2026/07/02/samsung-chases-tsmc-with-quantum-computing-powered-chipmaking-as-ai-reshapes-the-most-critical-step-in-fabrication/",
-      "summary": "韓國三星正開發結合量子電腦與人工智慧的微影（photolithography）模擬技術，目標在縮短微影與蝕刻流 [&#8230;]",
-      "date": "2026-07-02T06:10:06+00:00",
       "sourceId": "technews",
       "cats": [
         "market",
