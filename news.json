@@ -1,6 +1,6 @@
 {
-  "updated": "2026-07-03T03:59:41.672811+00:00",
-  "count": 23,
+  "updated": "2026-07-03T07:32:23.959175+00:00",
+  "count": 20,
   "sources": [
     {
       "id": "technews",
@@ -61,11 +61,24 @@
   ],
   "articles": [
     {
-      "id": "854d0c4e2653",
-      "title": "傳三星 S27 全系列標配「智慧防窺」不再獨厚 Ultra",
-      "link": "https://technews.tw/2026/07/03/samsung-may-bring-privacy-displays-to-the-entire-galaxy-s27-lineup/",
-      "summary": "三星電子（Samsung Electronics）傳出將在明年問世的 Galaxy S27 旗艦系列全面導入「 [&#8230;]",
-      "date": "2026-07-03T03:40:02+00:00",
+      "id": "89e8383109ee",
+      "title": "Spain’s Semiconductor Landscape: Six Stories from a Growing Ecosystem",
+      "link": "https://www.eetimes.com/spains-semiconductor-landscape-six-stories-from-a-growing-ecosystem/",
+      "summary": "EE Times examines the companies, institutes, and policy initiatives positioning Spain within Europe’s next wave of semiconductor innovation. The post Spain’s Semiconductor Landscape: Six Stories from a Growing Ecosystem appeared first on EE Times.",
+      "date": "2026-07-03T07:10:19+00:00",
+      "sourceId": "eetimes",
+      "cats": [
+        "process",
+        "material",
+        "equipment"
+      ]
+    },
+    {
+      "id": "a4850066cfdf",
+      "title": "汽車晶片配頁岩油管，美國防新創嘗試「跨界製程」突破美軍武器產能瓶頸",
+      "link": "https://technews.tw/2026/07/03/us-defense-start-ups-are-using-new-methods-to-increase-weapon-production-rate/",
+      "summary": "自烏俄與中東衝突加劇以來，美軍已消耗超過 5 萬枚火箭與飛彈，導致雷神與洛克希德馬丁等傳統軍工大廠頻頻對「固態 [&#8230;]",
+      "date": "2026-07-03T07:03:37+00:00",
       "sourceId": "technews",
       "cats": [
         "market",
@@ -74,11 +87,11 @@
       ]
     },
     {
-      "id": "ce32891b5304",
-      "title": "iPhone 18 Pro 傳漲價又降規？爆料指 1TB、2TB 版本改用 QLC NAND",
-      "link": "https://technews.tw/2026/07/03/apple-is-swapping-the-faster-tlc-for-slower-qlc-storage-in-iphone-18-pro/",
-      "summary": "根據爆料者 Reptalica 的說法，蘋果（Apple）預計將調高 iPhone 18 Pro 與 iPho [&#8230;]",
-      "date": "2026-07-03T03:20:39+00:00",
+      "id": "2573ed0e8eb5",
+      "title": "英特爾擴建在美光罩產能，強化 18A、High-NA EUV 先進製程布局",
+      "link": "https://technews.tw/2026/07/03/intel-santa-clara-bowers-photomasks-expands-production/",
+      "summary": "英特爾本週啟動在美國加州聖塔克拉拉（Santa Clara）Bowers 園區的擴建計畫，目的是在美提升光罩產 [&#8230;]",
+      "date": "2026-07-03T07:00:24+00:00",
       "sourceId": "technews",
       "cats": [
         "market",
@@ -87,11 +100,11 @@
       ]
     },
     {
-      "id": "69cbe44eade2",
-      "title": "面臨反壟斷集體訴訟風險，美光效法蘋果做法向川普帳戶捐獻 2.5 億美元",
-      "link": "https://finance.technews.tw/2026/07/03/micron-followed-apples-lead-and-injected-250-million-into-trumps-account/",
-      "summary": "根據外媒 wccftech 報導，美國聯邦集體訴訟近期將三星（Samsung）、SK海力士（SK hynix） [&#8230;]",
-      "date": "2026-07-03T03:15:35+00:00",
+      "id": "2072af71a3ec",
+      "title": "SK 崔泰源離婚案天價贍養費因股價繼續漲，或再破新高！AI 熱潮加深韓國貧富不均問題",
+      "link": "https://finance.technews.tw/2026/07/03/3000-bonuses-but-a-growing-wealth-divide-south-korea-grapples-with-its-ai-chip-boom/",
+      "summary": "全球人工智慧（AI）需求急速攀升，韓國半導體產業已站上暴富浪頭。三星電子與 SK 海力士兩大晶片巨頭，成為驅動 [&#8230;]",
+      "date": "2026-07-03T07:00:15+00:00",
       "sourceId": "technews",
       "cats": [
         "market",
@@ -100,11 +113,11 @@
       ]
     },
     {
-      "id": "8eb6b48afdd2",
-      "title": "美國晶片法案牽動兆元投資！揭開德州打造「美版竹科」頂級聚落戰力",
-      "link": "https://finance.technews.tw/2026/07/03/chips-and-science-act-2/",
-      "summary": "美國通過《晶片與科學法案》（CHIPS and Science Act），投入逾 500 億美元推動本土半導體 [&#8230;]",
-      "date": "2026-07-03T03:03:47+00:00",
+      "id": "9b9e6dd1e84c",
+      "title": "3Q26 記憶體價格持續受 AI server 需求支撐，惟因消費端壓力擴大、高基期影響，漲幅收斂",
+      "link": "https://technews.tw/2026/07/03/3q26-memory-prices-ai-server-demand-supported-growth-moderates-consumer-pressure-high-base-effect/",
+      "summary": "根據 TrendForce 最新記憶體價格調查，2026 年第三季整體 DRAM 格局持續極度短缺，惟因消費性 [&#8230;]",
+      "date": "2026-07-03T06:20:47+00:00",
       "sourceId": "technews",
       "cats": [
         "market",
@@ -113,11 +126,11 @@
       ]
     },
     {
-      "id": "83a64f0682e8",
-      "title": "亞馬遜全面轉向自研晶片搶攻 AI，郭明錤：世芯-KY 獨攬後段大單",
-      "link": "https://technews.tw/2026/07/03/amazon-fully-shifts-to-developing-its-own-chips-to-seize-the-ai-%e2%80%8b%e2%80%8bmarket/",
-      "summary": "外媒報導，亞馬遜（Amazon）正展開 20 年來最重大的硬體戰略轉型。面對人工智慧（AI）帶來的龐大投資需求 [&#8230;]",
-      "date": "2026-07-03T03:00:56+00:00",
+      "id": "b1a14bc17b40",
+      "title": "SK keyfoundry 開發「基於雙向 SCR 的片上 EMC 保護技術」，以提升汽車半導體可靠性",
+      "link": "https://technews.tw/2026/07/03/sk-keyfoundry-bi-scr-based-on-chip-emc-protection-technology/",
+      "summary": "韓國 8 英吋純晶圓代工廠 SK keyfoundry 宣布，該公司近期已開發出「基於雙向可控硅整流器（Bi- [&#8230;]",
+      "date": "2026-07-03T06:00:35+00:00",
       "sourceId": "technews",
       "cats": [
         "market",
@@ -126,11 +139,11 @@
       ]
     },
     {
-      "id": "0e3eab2aaab7",
-      "title": "日月光今除息 6.58 元、暫貼息；今明年展望樂觀",
-      "link": "https://finance.technews.tw/2026/07/03/ase-exdividend-6-58-opens-below-dividend-level/",
-      "summary": "半導體封測龍頭日月光投控 3 日進行除息交易，每股配發 6.58 元現金股利，參考價為 720.42 元，今以 [&#8230;]",
-      "date": "2026-07-03T03:00:41+00:00",
+      "id": "68059870e138",
+      "title": "大賣空本尊出手放空美光  估半導體股將大幅修正",
+      "link": "https://finance.technews.tw/2026/07/03/michael-burry-just-shorted-micron/",
+      "summary": "電影〈大賣空〉（Big Short）主角、預言次貸危機的知名投資人麥可貝瑞（Michael Burry）出手放 [&#8230;]",
+      "date": "2026-07-03T05:30:16+00:00",
       "sourceId": "technews",
       "cats": [
         "market",
@@ -139,11 +152,11 @@
       ]
     },
     {
-      "id": "54b6a6ca5b60",
-      "title": "看好 DRAM 更勝 NAND！大摩展望 2028 年記憶體後市，盤點最具優勢個股",
-      "link": "https://technews.tw/2026/07/03/morgan-stanley-see-nand-industry/",
-      "summary": "美系外資摩根士丹利（大摩）出具最新報告指出，AI 持續帶動 NAND 市場供給吃緊，預期缺貨情況將延續至 20 [&#8230;]",
-      "date": "2026-07-03T02:51:17+00:00",
+      "id": "f0e1647c3264",
+      "title": "鎧俠第 10 代 NAND Flash 開始送樣  股價翻紅飆漲",
+      "link": "https://technews.tw/2026/07/03/kioxia-commences-sample-shipments-of-10th-generation-bics-flash-devices/",
+      "summary": "日本 NAND 型快閃記憶體（Flash Memory）大廠鎧俠（Kioxia）第 10 代 NAND Fla [&#8230;]",
+      "date": "2026-07-03T04:40:53+00:00",
       "sourceId": "technews",
       "cats": [
         "market",
@@ -152,11 +165,11 @@
       ]
     },
     {
-      "id": "7cd9be4dc5d3",
-      "title": "DDR5 價格高漲導致 DIY 成本攀升，英特爾傳擴大中國 10~14 代 CPU 供應",
-      "link": "https://technews.tw/2026/07/03/intel-expected-to-restart-supply-of-10th-12th-13th-and-14th-gen-processors-in-mainland-china/",
-      "summary": "DDR5 記憶體價格持續高漲、平價裝機壓力增加，英特爾傳出增加中國舊世代桌上型處理器出貨，涵蓋第 10 代、第 [&#8230;]",
-      "date": "2026-07-03T02:50:03+00:00",
+      "id": "5c24686b0aca",
+      "title": "歐盟報告示警：晶片供應鏈受中美牽制，前景不樂觀",
+      "link": "https://technews.tw/2026/07/03/chinese-and-us-risks-mean-eu-chip-sector-faces-a-bleak-future/",
+      "summary": "由歐洲聯盟資助的報告今天指出，中國出口管制、依賴美國技術，以及歐洲晶片產業的結構性弱點，意味著歐盟晶片產業未來 [&#8230;]",
+      "date": "2026-07-03T04:30:37+00:00",
       "sourceId": "technews",
       "cats": [
         "market",
@@ -165,63 +178,11 @@
       ]
     },
     {
-      "id": "82e9b2644404",
-      "title": "2027 年需求動能續強！高盛重申買台積電，目標價上看 3,000 元",
-      "link": "https://technews.tw/2026/07/03/goldman-sachs-see-2026-q2-tsmc/",
-      "summary": "台積電即將在 7 月中舉行第二季法說會，根據高盛出具最新外資報告，台積電 2027 年需求動能進一步增強，主要 [&#8230;]",
-      "date": "2026-07-03T02:04:43+00:00",
-      "sourceId": "technews",
-      "cats": [
-        "market",
-        "process",
-        "material"
-      ]
-    },
-    {
-      "id": "939895694593",
-      "title": "Palantir 直攻 Anthropic、OpenAI 閉源痛點  股價彈",
-      "link": "https://finance.technews.tw/2026/07/03/palantirs-stock-bounces-back-as-analyst-cheers-companys-unique-ai-advantage/",
-      "summary": "矽谷大數據分析商 Palantir Technologies Inc. 在分析師唱多的激勵下，股價從五年多來最 [&#8230;]",
-      "date": "2026-07-03T01:50:45+00:00",
-      "sourceId": "technews",
-      "cats": [
-        "market",
-        "process",
-        "material"
-      ]
-    },
-    {
-      "id": "f8a21516b766",
-      "title": "蘋果也想跟長江存儲談，庫克親自遊說華府替中國晶片解套",
-      "link": "https://finance.technews.tw/2026/07/03/apple-dram-cxmt-ymtc/",
-      "summary": "全球記憶體供應緊張持續牽動消費性電子產品價格，蘋果為了緩解成本與供應壓力，據傳正把中國記憶體業者納入選項，而且 [&#8230;]",
-      "date": "2026-07-03T01:42:27+00:00",
-      "sourceId": "technews",
-      "cats": [
-        "market",
-        "process",
-        "material"
-      ]
-    },
-    {
-      "id": "502fdf55fdc0",
-      "title": "AI 算力推升功耗極限！ABF 載板廠 AT&S 與 Ibiden 啟動大規模擴產",
-      "link": "https://finance.technews.tw/2026/07/03/ats-ibiden/",
-      "summary": "隨著人工智慧（AI）與 GPU 加速器對效能的要求不斷突破天際，半導體硬體架構正面臨全新的散熱與功耗挑戰，根據 [&#8230;]",
-      "date": "2026-07-03T01:36:28+00:00",
-      "sourceId": "technews",
-      "cats": [
-        "market",
-        "process",
-        "material"
-      ]
-    },
-    {
-      "id": "88f845e0b427",
-      "title": "川普再提台灣，稱卸任前 40%~60% 晶片製造落腳美國",
-      "link": "https://technews.tw/2026/07/03/trump-mentions-taiwan-40-60-chip-manufacturing-us-before-term-ends/",
-      "summary": "美國總統川普重返白宮後關稅措施不斷，藉以促使製造業回流。他在今天播出的美媒專訪中再次聲稱台灣拿走 100% 的 [&#8230;]",
-      "date": "2026-07-03T01:00:32+00:00",
+      "id": "2d610519547b",
+      "title": "黃仁勳 2023 年參加鴻海科技日黑色皮夾克將公開拍賣，估最高價逾台幣 190 萬元",
+      "link": "https://technews.tw/2026/07/03/jensen-huangs-black-leather-jacket-worn-at-the-2023-foxconn-technology-day-will-be-auctioned-off/",
+      "summary": "輝達（Nvidia）執行長黃仁勳的標誌性穿搭──黑色皮夾克，即將登上拍賣殿堂。根據蘇富比（Sotheby&#8 [&#8230;]",
+      "date": "2026-07-03T04:00:47+00:00",
       "sourceId": "technews",
       "cats": [
         "market",
