@@ -1,6 +1,6 @@
 {
-  "updated": "2026-07-03T07:32:23.959175+00:00",
-  "count": 20,
+  "updated": "2026-07-03T10:46:23.937606+00:00",
+  "count": 17,
   "sources": [
     {
       "id": "technews",
@@ -61,6 +61,32 @@
   ],
   "articles": [
     {
+      "id": "be8e27614279",
+      "title": "SK 海力士砸 1,100 兆韓圜布局韓國！清州擴 NAND、龍仁打造全球最大 DRAM 基地",
+      "link": "https://technews.tw/2026/07/03/sk-hynix-to-invest-712-5-billion-in-south-korean/",
+      "summary": "SK 海力士宣布將額外投資 100 兆韓圜擴建位於韓國清州（Cheongju）園區，擴大 3D NAND 與 [&#8230;]",
+      "date": "2026-07-03T09:22:55+00:00",
+      "sourceId": "technews",
+      "cats": [
+        "market",
+        "process",
+        "material"
+      ]
+    },
+    {
+      "id": "99e2dfe3b512",
+      "title": "韓國砸 37 兆推半導體三大超級計畫！00735 挾 117% 超強績效 7/16 除息",
+      "link": "https://finance.technews.tw/2026/07/03/00735/",
+      "summary": "全球 AI 競賽開打，掌握半導體命脈的台灣和韓國正站在科技浪尖，韓國政府 6 月 29 日宣布推動規模達 1, [&#8230;]",
+      "date": "2026-07-03T08:18:36+00:00",
+      "sourceId": "technews",
+      "cats": [
+        "market",
+        "process",
+        "material"
+      ]
+    },
+    {
       "id": "89e8383109ee",
       "title": "Spain’s Semiconductor Landscape: Six Stories from a Growing Ecosystem",
       "link": "https://www.eetimes.com/spains-semiconductor-landscape-six-stories-from-a-growing-ecosystem/",
@@ -114,75 +140,10 @@
     },
     {
       "id": "9b9e6dd1e84c",
-      "title": "3Q26 記憶體價格持續受 AI server 需求支撐，惟因消費端壓力擴大、高基期影響，漲幅收斂",
+      "title": "3Q26 記憶體價格持續受 AI 伺服器需求支撐，惟因消費端壓力擴大、高基期影響，漲幅收斂",
       "link": "https://technews.tw/2026/07/03/3q26-memory-prices-ai-server-demand-supported-growth-moderates-consumer-pressure-high-base-effect/",
-      "summary": "根據 TrendForce 最新記憶體價格調查，2026 年第三季整體 DRAM 格局持續極度短缺，惟因消費性 [&#8230;]",
+      "summary": "TrendForce 最新記憶體價格調查，2026 年第三季整體 DRAM 格局持續極度短缺，惟因消費性應用需 [&#8230;]",
       "date": "2026-07-03T06:20:47+00:00",
-      "sourceId": "technews",
-      "cats": [
-        "market",
-        "process",
-        "material"
-      ]
-    },
-    {
-      "id": "b1a14bc17b40",
-      "title": "SK keyfoundry 開發「基於雙向 SCR 的片上 EMC 保護技術」，以提升汽車半導體可靠性",
-      "link": "https://technews.tw/2026/07/03/sk-keyfoundry-bi-scr-based-on-chip-emc-protection-technology/",
-      "summary": "韓國 8 英吋純晶圓代工廠 SK keyfoundry 宣布，該公司近期已開發出「基於雙向可控硅整流器（Bi- [&#8230;]",
-      "date": "2026-07-03T06:00:35+00:00",
-      "sourceId": "technews",
-      "cats": [
-        "market",
-        "process",
-        "material"
-      ]
-    },
-    {
-      "id": "68059870e138",
-      "title": "大賣空本尊出手放空美光  估半導體股將大幅修正",
-      "link": "https://finance.technews.tw/2026/07/03/michael-burry-just-shorted-micron/",
-      "summary": "電影〈大賣空〉（Big Short）主角、預言次貸危機的知名投資人麥可貝瑞（Michael Burry）出手放 [&#8230;]",
-      "date": "2026-07-03T05:30:16+00:00",
-      "sourceId": "technews",
-      "cats": [
-        "market",
-        "process",
-        "material"
-      ]
-    },
-    {
-      "id": "f0e1647c3264",
-      "title": "鎧俠第 10 代 NAND Flash 開始送樣  股價翻紅飆漲",
-      "link": "https://technews.tw/2026/07/03/kioxia-commences-sample-shipments-of-10th-generation-bics-flash-devices/",
-      "summary": "日本 NAND 型快閃記憶體（Flash Memory）大廠鎧俠（Kioxia）第 10 代 NAND Fla [&#8230;]",
-      "date": "2026-07-03T04:40:53+00:00",
-      "sourceId": "technews",
-      "cats": [
-        "market",
-        "process",
-        "material"
-      ]
-    },
-    {
-      "id": "5c24686b0aca",
-      "title": "歐盟報告示警：晶片供應鏈受中美牽制，前景不樂觀",
-      "link": "https://technews.tw/2026/07/03/chinese-and-us-risks-mean-eu-chip-sector-faces-a-bleak-future/",
-      "summary": "由歐洲聯盟資助的報告今天指出，中國出口管制、依賴美國技術，以及歐洲晶片產業的結構性弱點，意味著歐盟晶片產業未來 [&#8230;]",
-      "date": "2026-07-03T04:30:37+00:00",
-      "sourceId": "technews",
-      "cats": [
-        "market",
-        "process",
-        "material"
-      ]
-    },
-    {
-      "id": "2d610519547b",
-      "title": "黃仁勳 2023 年參加鴻海科技日黑色皮夾克將公開拍賣，估最高價逾台幣 190 萬元",
-      "link": "https://technews.tw/2026/07/03/jensen-huangs-black-leather-jacket-worn-at-the-2023-foxconn-technology-day-will-be-auctioned-off/",
-      "summary": "輝達（Nvidia）執行長黃仁勳的標誌性穿搭──黑色皮夾克，即將登上拍賣殿堂。根據蘇富比（Sotheby&#8 [&#8230;]",
-      "date": "2026-07-03T04:00:47+00:00",
       "sourceId": "technews",
       "cats": [
         "market",
