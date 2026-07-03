@@ -1,6 +1,6 @@
 {
-  "updated": "2026-07-03T10:46:23.937606+00:00",
-  "count": 17,
+  "updated": "2026-07-03T14:27:12.515567+00:00",
+  "count": 18,
   "sources": [
     {
       "id": "technews",
@@ -60,6 +60,32 @@
     }
   ],
   "articles": [
+    {
+      "id": "d37d6f18119c",
+      "title": "SK hynix Plans $713B Domestic Investment",
+      "link": "https://www.eetimes.com/sk-hynix-plans-713b-domestic-investment/",
+      "summary": "SK hynix is set to invest $713 billion to expand its semiconductor manufacturing capacity in South Korea and plans a Nasdaq listing. The post SK hynix Plans $713B Domestic Investment appeared first on EE Times.",
+      "date": "2026-07-03T13:57:51+00:00",
+      "sourceId": "eetimes",
+      "cats": [
+        "process",
+        "material",
+        "equipment"
+      ]
+    },
+    {
+      "id": "19e20f1d40e7",
+      "title": "群聯潘健成：近期 Nor Flash 不佳早知道，AI 雲端繼續投資記憶體景氣仍持續",
+      "link": "https://finance.technews.tw/2026/07/03/ai-and-cloud-computing-continue-to-invest-and-the-memory-market-remains-bullish/",
+      "summary": "記憶體產業長久以來受制於殘酷的景氣循環法則，然而這項鐵律即將在人工智慧（AI）與雲端運算的浪潮下被徹底打破。群 [&#8230;]",
+      "date": "2026-07-03T12:00:59+00:00",
+      "sourceId": "technews",
+      "cats": [
+        "market",
+        "process",
+        "material"
+      ]
+    },
     {
       "id": "be8e27614279",
       "title": "SK 海力士砸 1,100 兆韓圜布局韓國！清州擴 NAND、龍仁打造全球最大 DRAM 基地",
@@ -131,19 +157,6 @@
       "link": "https://finance.technews.tw/2026/07/03/3000-bonuses-but-a-growing-wealth-divide-south-korea-grapples-with-its-ai-chip-boom/",
       "summary": "全球人工智慧（AI）需求急速攀升，韓國半導體產業已站上暴富浪頭。三星電子與 SK 海力士兩大晶片巨頭，成為驅動 [&#8230;]",
       "date": "2026-07-03T07:00:15+00:00",
-      "sourceId": "technews",
-      "cats": [
-        "market",
-        "process",
-        "material"
-      ]
-    },
-    {
-      "id": "9b9e6dd1e84c",
-      "title": "3Q26 記憶體價格持續受 AI 伺服器需求支撐，惟因消費端壓力擴大、高基期影響，漲幅收斂",
-      "link": "https://technews.tw/2026/07/03/3q26-memory-prices-ai-server-demand-supported-growth-moderates-consumer-pressure-high-base-effect/",
-      "summary": "TrendForce 最新記憶體價格調查，2026 年第三季整體 DRAM 格局持續極度短缺，惟因消費性應用需 [&#8230;]",
-      "date": "2026-07-03T06:20:47+00:00",
       "sourceId": "technews",
       "cats": [
         "market",
