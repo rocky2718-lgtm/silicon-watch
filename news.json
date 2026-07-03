@@ -1,6 +1,6 @@
 {
-  "updated": "2026-07-02T23:16:25.153604+00:00",
-  "count": 20,
+  "updated": "2026-07-03T03:59:41.672811+00:00",
+  "count": 23,
   "sources": [
     {
       "id": "technews",
@@ -61,11 +61,167 @@
   ],
   "articles": [
     {
-      "id": "bace28a4b66b",
-      "title": "Anthropic 自研晶片有譜？傳找三星洽談合作",
-      "link": "https://technews.tw/2026/07/03/anthropic-and-samsung-discuss-building-a-custom-ai-chip/",
-      "summary": "外媒 The Information 報導，Anthropic 已與三星接洽，商討晶片合作可能性。 早在今年 [&#8230;]",
-      "date": "2026-07-02T22:44:44+00:00",
+      "id": "854d0c4e2653",
+      "title": "傳三星 S27 全系列標配「智慧防窺」不再獨厚 Ultra",
+      "link": "https://technews.tw/2026/07/03/samsung-may-bring-privacy-displays-to-the-entire-galaxy-s27-lineup/",
+      "summary": "三星電子（Samsung Electronics）傳出將在明年問世的 Galaxy S27 旗艦系列全面導入「 [&#8230;]",
+      "date": "2026-07-03T03:40:02+00:00",
+      "sourceId": "technews",
+      "cats": [
+        "market",
+        "process",
+        "material"
+      ]
+    },
+    {
+      "id": "ce32891b5304",
+      "title": "iPhone 18 Pro 傳漲價又降規？爆料指 1TB、2TB 版本改用 QLC NAND",
+      "link": "https://technews.tw/2026/07/03/apple-is-swapping-the-faster-tlc-for-slower-qlc-storage-in-iphone-18-pro/",
+      "summary": "根據爆料者 Reptalica 的說法，蘋果（Apple）預計將調高 iPhone 18 Pro 與 iPho [&#8230;]",
+      "date": "2026-07-03T03:20:39+00:00",
+      "sourceId": "technews",
+      "cats": [
+        "market",
+        "process",
+        "material"
+      ]
+    },
+    {
+      "id": "69cbe44eade2",
+      "title": "面臨反壟斷集體訴訟風險，美光效法蘋果做法向川普帳戶捐獻 2.5 億美元",
+      "link": "https://finance.technews.tw/2026/07/03/micron-followed-apples-lead-and-injected-250-million-into-trumps-account/",
+      "summary": "根據外媒 wccftech 報導，美國聯邦集體訴訟近期將三星（Samsung）、SK海力士（SK hynix） [&#8230;]",
+      "date": "2026-07-03T03:15:35+00:00",
+      "sourceId": "technews",
+      "cats": [
+        "market",
+        "process",
+        "material"
+      ]
+    },
+    {
+      "id": "8eb6b48afdd2",
+      "title": "美國晶片法案牽動兆元投資！揭開德州打造「美版竹科」頂級聚落戰力",
+      "link": "https://finance.technews.tw/2026/07/03/chips-and-science-act-2/",
+      "summary": "美國通過《晶片與科學法案》（CHIPS and Science Act），投入逾 500 億美元推動本土半導體 [&#8230;]",
+      "date": "2026-07-03T03:03:47+00:00",
+      "sourceId": "technews",
+      "cats": [
+        "market",
+        "process",
+        "material"
+      ]
+    },
+    {
+      "id": "83a64f0682e8",
+      "title": "亞馬遜全面轉向自研晶片搶攻 AI，郭明錤：世芯-KY 獨攬後段大單",
+      "link": "https://technews.tw/2026/07/03/amazon-fully-shifts-to-developing-its-own-chips-to-seize-the-ai-%e2%80%8b%e2%80%8bmarket/",
+      "summary": "外媒報導，亞馬遜（Amazon）正展開 20 年來最重大的硬體戰略轉型。面對人工智慧（AI）帶來的龐大投資需求 [&#8230;]",
+      "date": "2026-07-03T03:00:56+00:00",
+      "sourceId": "technews",
+      "cats": [
+        "market",
+        "process",
+        "material"
+      ]
+    },
+    {
+      "id": "0e3eab2aaab7",
+      "title": "日月光今除息 6.58 元、暫貼息；今明年展望樂觀",
+      "link": "https://finance.technews.tw/2026/07/03/ase-exdividend-6-58-opens-below-dividend-level/",
+      "summary": "半導體封測龍頭日月光投控 3 日進行除息交易，每股配發 6.58 元現金股利，參考價為 720.42 元，今以 [&#8230;]",
+      "date": "2026-07-03T03:00:41+00:00",
+      "sourceId": "technews",
+      "cats": [
+        "market",
+        "process",
+        "material"
+      ]
+    },
+    {
+      "id": "54b6a6ca5b60",
+      "title": "看好 DRAM 更勝 NAND！大摩展望 2028 年記憶體後市，盤點最具優勢個股",
+      "link": "https://technews.tw/2026/07/03/morgan-stanley-see-nand-industry/",
+      "summary": "美系外資摩根士丹利（大摩）出具最新報告指出，AI 持續帶動 NAND 市場供給吃緊，預期缺貨情況將延續至 20 [&#8230;]",
+      "date": "2026-07-03T02:51:17+00:00",
+      "sourceId": "technews",
+      "cats": [
+        "market",
+        "process",
+        "material"
+      ]
+    },
+    {
+      "id": "7cd9be4dc5d3",
+      "title": "DDR5 價格高漲導致 DIY 成本攀升，英特爾傳擴大中國 10~14 代 CPU 供應",
+      "link": "https://technews.tw/2026/07/03/intel-expected-to-restart-supply-of-10th-12th-13th-and-14th-gen-processors-in-mainland-china/",
+      "summary": "DDR5 記憶體價格持續高漲、平價裝機壓力增加，英特爾傳出增加中國舊世代桌上型處理器出貨，涵蓋第 10 代、第 [&#8230;]",
+      "date": "2026-07-03T02:50:03+00:00",
+      "sourceId": "technews",
+      "cats": [
+        "market",
+        "process",
+        "material"
+      ]
+    },
+    {
+      "id": "82e9b2644404",
+      "title": "2027 年需求動能續強！高盛重申買台積電，目標價上看 3,000 元",
+      "link": "https://technews.tw/2026/07/03/goldman-sachs-see-2026-q2-tsmc/",
+      "summary": "台積電即將在 7 月中舉行第二季法說會，根據高盛出具最新外資報告，台積電 2027 年需求動能進一步增強，主要 [&#8230;]",
+      "date": "2026-07-03T02:04:43+00:00",
+      "sourceId": "technews",
+      "cats": [
+        "market",
+        "process",
+        "material"
+      ]
+    },
+    {
+      "id": "939895694593",
+      "title": "Palantir 直攻 Anthropic、OpenAI 閉源痛點  股價彈",
+      "link": "https://finance.technews.tw/2026/07/03/palantirs-stock-bounces-back-as-analyst-cheers-companys-unique-ai-advantage/",
+      "summary": "矽谷大數據分析商 Palantir Technologies Inc. 在分析師唱多的激勵下，股價從五年多來最 [&#8230;]",
+      "date": "2026-07-03T01:50:45+00:00",
+      "sourceId": "technews",
+      "cats": [
+        "market",
+        "process",
+        "material"
+      ]
+    },
+    {
+      "id": "f8a21516b766",
+      "title": "蘋果也想跟長江存儲談，庫克親自遊說華府替中國晶片解套",
+      "link": "https://finance.technews.tw/2026/07/03/apple-dram-cxmt-ymtc/",
+      "summary": "全球記憶體供應緊張持續牽動消費性電子產品價格，蘋果為了緩解成本與供應壓力，據傳正把中國記憶體業者納入選項，而且 [&#8230;]",
+      "date": "2026-07-03T01:42:27+00:00",
+      "sourceId": "technews",
+      "cats": [
+        "market",
+        "process",
+        "material"
+      ]
+    },
+    {
+      "id": "502fdf55fdc0",
+      "title": "AI 算力推升功耗極限！ABF 載板廠 AT&S 與 Ibiden 啟動大規模擴產",
+      "link": "https://finance.technews.tw/2026/07/03/ats-ibiden/",
+      "summary": "隨著人工智慧（AI）與 GPU 加速器對效能的要求不斷突破天際，半導體硬體架構正面臨全新的散熱與功耗挑戰，根據 [&#8230;]",
+      "date": "2026-07-03T01:36:28+00:00",
+      "sourceId": "technews",
+      "cats": [
+        "market",
+        "process",
+        "material"
+      ]
+    },
+    {
+      "id": "88f845e0b427",
+      "title": "川普再提台灣，稱卸任前 40%~60% 晶片製造落腳美國",
+      "link": "https://technews.tw/2026/07/03/trump-mentions-taiwan-40-60-chip-manufacturing-us-before-term-ends/",
+      "summary": "美國總統川普重返白宮後關稅措施不斷，藉以促使製造業回流。他在今天播出的美媒專訪中再次聲稱台灣拿走 100% 的 [&#8230;]",
+      "date": "2026-07-03T01:00:32+00:00",
       "sourceId": "technews",
       "cats": [
         "market",
@@ -84,123 +240,6 @@
         "process",
         "material",
         "equipment"
-      ]
-    },
-    {
-      "id": "14c513ee6987",
-      "title": "英飛凌斥資 50 億歐元德勒斯登半導體工廠啟用，重點生產汽車、能源、AI 晶片",
-      "link": "https://finance.technews.tw/2026/07/02/infineons-e5-billion-dresden-semiconductor-plant-has-commenced-operations/",
-      "summary": "德國半導體製造商英飛凌（Infineon）本週二於德國德勒斯登（Dresden）正式啟用被譽為全球最大的智慧半 [&#8230;]",
-      "date": "2026-07-02T12:40:17+00:00",
-      "sourceId": "technews",
-      "cats": [
-        "market",
-        "process",
-        "material"
-      ]
-    },
-    {
-      "id": "a8fe06faa48d",
-      "title": "經部核准台積電增資美子公司 200 億美元建晶圓廠",
-      "link": "https://finance.technews.tw/2026/07/02/moea-approves-tsmc-20-billion-capital-injection-us-subsidiary-wafer-fab-construction/",
-      "summary": "經濟部投資審議司今天召開投資審議會，通過台積電以 200 億美元增資美國 TSMC Arizona，資金將用於 [&#8230;]",
-      "date": "2026-07-02T09:30:47+00:00",
-      "sourceId": "technews",
-      "cats": [
-        "market",
-        "process",
-        "material"
-      ]
-    },
-    {
-      "id": "65b9d3f75577",
-      "title": "主權 AI 延伸企業層級，APMIC 瞄準金融和政府推 PrivStation 2 方案",
-      "link": "https://technews.tw/2026/07/02/apmic-privstation-day-2026/",
-      "summary": "台灣新創 APMIC（Accelerate Private Machine Intelligence Comp [&#8230;]",
-      "date": "2026-07-02T09:14:58+00:00",
-      "sourceId": "technews",
-      "cats": [
-        "market",
-        "process",
-        "material"
-      ]
-    },
-    {
-      "id": "c8ce4bdf2801",
-      "title": "經長：台積電在台灣將建 16 座廠，美國怎麼蓋都達不到",
-      "link": "https://technews.tw/2026/07/02/us-unlikely-to-match-tsmcfab-scale-in-taiwan/",
-      "summary": "媒體報導美國總統川普指台積電將倍增在亞利桑那州興建中的晶圓廠規模，美晶片市占率將達 50%。經濟部長龔明鑫下午 [&#8230;]",
-      "date": "2026-07-02T08:50:59+00:00",
-      "sourceId": "technews",
-      "cats": [
-        "market",
-        "process",
-        "material"
-      ]
-    },
-    {
-      "id": "45b680dbbd2c",
-      "title": "NVIDIA 推營收分潤新模式，攜雲端夥伴擴建 AI 工廠",
-      "link": "https://finance.technews.tw/2026/07/02/nvidia-offers-revenue-sharing-model-for-aspiring-ai-startups/",
-      "summary": "NVIDIA 1 日宣布全新 AI 基礎設施合作模式，將透過營收分潤與信用支援機制，與 AI 雲端服務業者共同 [&#8230;]",
-      "date": "2026-07-02T08:40:55+00:00",
-      "sourceId": "technews",
-      "cats": [
-        "market",
-        "process",
-        "material"
-      ]
-    },
-    {
-      "id": "90681f5f83b3",
-      "title": "高階檢測設備出貨續強，牧德 6 月營收創新高",
-      "link": "https://technews.tw/2026/07/02/aoi-machine-june-financial-report/",
-      "summary": "AI 伺服器、高效能運算（HPC）及先進封裝需求持續成長，帶動高階 PCB 與半導體檢測設備出貨動能。牧德今（ [&#8230;]",
-      "date": "2026-07-02T08:00:50+00:00",
-      "sourceId": "technews",
-      "cats": [
-        "market",
-        "process",
-        "material"
-      ]
-    },
-    {
-      "id": "6ccc919e31b0",
-      "title": "日本 Socionext 攜手台積電 A14 製程，開發 AI 資料中心晶片訂 9 月完成設計定案",
-      "link": "https://technews.tw/2026/07/02/japans-socionext-partners-with-tsmc-for-a14-process/",
-      "summary": "日本客製化系統單晶片供應商 Socionext 宣布，將採用台積電最先進的 A14 製程技術，開發高效能運算晶 [&#8230;]",
-      "date": "2026-07-02T07:45:43+00:00",
-      "sourceId": "technews",
-      "cats": [
-        "market",
-        "process",
-        "material"
-      ]
-    },
-    {
-      "id": "781aa4e9b9c6",
-      "title": "美光、Sandisk 回檔主因資金輪動？供應仍短缺",
-      "link": "https://finance.technews.tw/2026/07/02/micron-sandisk-pullback-fund-rotation-supply-shortage/",
-      "summary": "分析人士認為，AI 半導體股近期的跌勢可能是因資金輪動所致，記憶體和儲存晶片短缺的情況未變，美光、Sandis [&#8230;]",
-      "date": "2026-07-02T07:20:44+00:00",
-      "sourceId": "technews",
-      "cats": [
-        "market",
-        "process",
-        "material"
-      ]
-    },
-    {
-      "id": "5f55e33fe103",
-      "title": "蘋果擬向中企採購記憶體晶片，涉國安遭美議員反對",
-      "link": "https://infosecu.technews.tw/2026/07/02/apple-plans-procure-memory-chips-chinese-companies-facing-us-lawmaker-opposition-national-security/",
-      "summary": "蘋果公司（Apple Inc.）正與兩家被美國五角大廈列入黑名單的中國半導體製造商洽談採購晶片，以期緩解全球記 [&#8230;]",
-      "date": "2026-07-02T07:10:10+00:00",
-      "sourceId": "technews",
-      "cats": [
-        "market",
-        "process",
-        "material"
       ]
     },
     {
