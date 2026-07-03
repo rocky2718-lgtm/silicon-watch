@@ -1,6 +1,6 @@
 {
-  "updated": "2026-07-03T14:27:12.515567+00:00",
-  "count": 18,
+  "updated": "2026-07-03T17:41:13.348976+00:00",
+  "count": 19,
   "sources": [
     {
       "id": "technews",
@@ -60,6 +60,19 @@
     }
   ],
   "articles": [
+    {
+      "id": "e5da319dd608",
+      "title": "潘健成示警：AI 需求呈幾何級爆發，記憶體產能面臨嚴重供不應求已成定局",
+      "link": "https://finance.technews.tw/2026/07/03/the-severe-supply-shortage-of-memory-chips-is-now-a-foregone-conclusion/",
+      "summary": "人工智慧（AI）發展一日千里，對全球算力與記憶體市場投下震撼彈。群聯執行長潘健成示警，隨著 AI 應用格式的轉 [&#8230;]",
+      "date": "2026-07-03T14:45:19+00:00",
+      "sourceId": "technews",
+      "cats": [
+        "market",
+        "process",
+        "material"
+      ]
+    },
     {
       "id": "d37d6f18119c",
       "title": "SK hynix Plans $713B Domestic Investment",
