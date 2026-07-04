@@ -1,6 +1,6 @@
 {
-  "updated": "2026-07-04T06:54:16.333210+00:00",
-  "count": 16,
+  "updated": "2026-07-04T10:20:33.860465+00:00",
+  "count": 15,
   "sources": [
     {
       "id": "technews",
@@ -105,19 +105,6 @@
       "link": "https://finance.technews.tw/2026/07/03/ai-and-cloud-computing-continue-to-invest-and-the-memory-market-remains-bullish/",
       "summary": "記憶體產業長久以來受制於殘酷的景氣循環法則，然而這項鐵律即將在人工智慧（AI）與雲端運算的浪潮下被徹底打破。群 [&#8230;]",
       "date": "2026-07-03T12:00:59+00:00",
-      "sourceId": "technews",
-      "cats": [
-        "market",
-        "process",
-        "material"
-      ]
-    },
-    {
-      "id": "be8e27614279",
-      "title": "SK 海力士砸 1,100 兆韓圜布局韓國！清州擴 NAND、龍仁打造全球最大 DRAM 基地",
-      "link": "https://technews.tw/2026/07/03/sk-hynix-to-invest-712-5-billion-in-south-korean/",
-      "summary": "SK 海力士宣布將額外投資 100 兆韓圜擴建位於韓國清州（Cheongju）園區，擴大 3D NAND 與 [&#8230;]",
-      "date": "2026-07-03T09:22:55+00:00",
       "sourceId": "technews",
       "cats": [
         "market",
