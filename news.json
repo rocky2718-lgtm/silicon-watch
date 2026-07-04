@@ -1,6 +1,6 @@
 {
-  "updated": "2026-07-03T23:13:00.412141+00:00",
-  "count": 19,
+  "updated": "2026-07-04T03:53:33.563917+00:00",
+  "count": 16,
   "sources": [
     {
       "id": "technews",
@@ -136,45 +136,6 @@
         "process",
         "material",
         "equipment"
-      ]
-    },
-    {
-      "id": "a4850066cfdf",
-      "title": "汽車晶片配頁岩油管，美國防新創嘗試「跨界製程」突破美軍武器產能瓶頸",
-      "link": "https://technews.tw/2026/07/03/us-defense-start-ups-are-using-new-methods-to-increase-weapon-production-rate/",
-      "summary": "自烏俄與中東衝突加劇以來，美軍已消耗超過 5 萬枚火箭與飛彈，導致雷神與洛克希德馬丁等傳統軍工大廠頻頻對「固態 [&#8230;]",
-      "date": "2026-07-03T07:03:37+00:00",
-      "sourceId": "technews",
-      "cats": [
-        "market",
-        "process",
-        "material"
-      ]
-    },
-    {
-      "id": "2573ed0e8eb5",
-      "title": "英特爾擴建在美光罩產能，強化 18A、High-NA EUV 先進製程布局",
-      "link": "https://technews.tw/2026/07/03/intel-santa-clara-bowers-photomasks-expands-production/",
-      "summary": "英特爾本週啟動在美國加州聖塔克拉拉（Santa Clara）Bowers 園區的擴建計畫，目的是在美提升光罩產 [&#8230;]",
-      "date": "2026-07-03T07:00:24+00:00",
-      "sourceId": "technews",
-      "cats": [
-        "market",
-        "process",
-        "material"
-      ]
-    },
-    {
-      "id": "2072af71a3ec",
-      "title": "SK 崔泰源離婚案天價贍養費因股價繼續漲，或再破新高！AI 熱潮加深韓國貧富不均問題",
-      "link": "https://finance.technews.tw/2026/07/03/3000-bonuses-but-a-growing-wealth-divide-south-korea-grapples-with-its-ai-chip-boom/",
-      "summary": "全球人工智慧（AI）需求急速攀升，韓國半導體產業已站上暴富浪頭。三星電子與 SK 海力士兩大晶片巨頭，成為驅動 [&#8230;]",
-      "date": "2026-07-03T07:00:15+00:00",
-      "sourceId": "technews",
-      "cats": [
-        "market",
-        "process",
-        "material"
       ]
     },
     {
