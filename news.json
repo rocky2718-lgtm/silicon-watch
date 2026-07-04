@@ -1,6 +1,6 @@
 {
-  "updated": "2026-07-04T10:20:33.860465+00:00",
-  "count": 15,
+  "updated": "2026-07-04T13:51:50.425961+00:00",
+  "count": 14,
   "sources": [
     {
       "id": "technews",
@@ -144,19 +144,6 @@
       "link": "https://www.eetimes.com/rapid-component-obsolescence-is-reshaping-todays-semiconductor-procurement-dynamics/",
       "summary": "Today’s semiconductor component&#160;landscape is more complex than ever. Obsolescence has shifted from an occasional disruption to a persistent operational risk. As product lifecycles shorten and supply markets tighten, procurement teams must now treat lifecycle awareness as a core part of their ro",
       "date": "2026-07-01T13:00:00+00:00",
-      "sourceId": "eetimes",
-      "cats": [
-        "process",
-        "material",
-        "equipment"
-      ]
-    },
-    {
-      "id": "c8dca0130ae5",
-      "title": "EU Chips Act 2: Award-Winning Sequel or Straight to Video?",
-      "link": "https://www.eetimes.com/eu-chips-act-2-award-winning-sequel-or-straight-to-video/",
-      "summary": "EU Chips Act 2.0 gets the plot right: Fabs aren’t enough. Europe needs design-layer muscle and multi-foundry freedom. The post EU Chips Act 2: Award-Winning Sequel or Straight to Video? appeared first on EE Times.",
-      "date": "2026-07-01T07:45:07+00:00",
       "sourceId": "eetimes",
       "cats": [
         "process",
