@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-04T03:53:33.563917+00:00",
+  "updated": "2026-07-04T06:54:16.333210+00:00",
   "count": 16,
   "sources": [
     {
@@ -61,6 +61,19 @@
   ],
   "articles": [
     {
+      "id": "227a9deea386",
+      "title": "IBM 推出全球首見的次奈米晶片技術，推動半導體產業未來十年發展",
+      "link": "https://technews.tw/2026/07/04/ibm-sub-1nm-7angstrom-chip/",
+      "summary": "IBM 25日發表一項半導體業的重大突破—推出全球第一個次奈米（Sub-1nm）晶片技術。該技術採用具革新性的 [&#8230;]",
+      "date": "2026-07-04T06:00:56+00:00",
+      "sourceId": "technews",
+      "cats": [
+        "market",
+        "process",
+        "material"
+      ]
+    },
+    {
       "id": "e5da319dd608",
       "title": "潘健成示警：AI 需求呈幾何級爆發，記憶體產能面臨嚴重供不應求已成定局",
       "link": "https://finance.technews.tw/2026/07/03/the-severe-supply-shortage-of-memory-chips-is-now-a-foregone-conclusion/",
@@ -105,19 +118,6 @@
       "link": "https://technews.tw/2026/07/03/sk-hynix-to-invest-712-5-billion-in-south-korean/",
       "summary": "SK 海力士宣布將額外投資 100 兆韓圜擴建位於韓國清州（Cheongju）園區，擴大 3D NAND 與 [&#8230;]",
       "date": "2026-07-03T09:22:55+00:00",
-      "sourceId": "technews",
-      "cats": [
-        "market",
-        "process",
-        "material"
-      ]
-    },
-    {
-      "id": "99e2dfe3b512",
-      "title": "韓國砸 37 兆推半導體三大超級計畫！00735 挾 117% 超強績效 7/16 除息",
-      "link": "https://finance.technews.tw/2026/07/03/00735/",
-      "summary": "全球 AI 競賽開打，掌握半導體命脈的台灣和韓國正站在科技浪尖，韓國政府 6 月 29 日宣布推動規模達 1, [&#8230;]",
-      "date": "2026-07-03T08:18:36+00:00",
       "sourceId": "technews",
       "cats": [
         "market",
