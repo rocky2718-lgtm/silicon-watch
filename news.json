@@ -1,6 +1,6 @@
 {
-  "updated": "2026-07-05T13:58:39.600727+00:00",
-  "count": 13,
+  "updated": "2026-07-05T15:22:13.939964+00:00",
+  "count": 12,
   "sources": [
     {
       "id": "technews",
@@ -66,19 +66,6 @@
       "link": "https://finance.technews.tw/2026/07/05/semianalysis-being-accused-of-false-reports-on-cpo-for-selling-short/",
       "summary": "知名半導體研究機構 SemiAnalysis 近期因「精準的時間差」深陷輿論風暴。 該機構在 6 月初發布報告 [&#8230;]",
       "date": "2026-07-05T03:00:18+00:00",
-      "sourceId": "technews",
-      "cats": [
-        "market",
-        "process",
-        "material"
-      ]
-    },
-    {
-      "id": "227a9deea386",
-      "title": "IBM 推出全球首見的次奈米晶片技術，推動半導體產業未來十年發展",
-      "link": "https://technews.tw/2026/07/04/ibm-sub-1nm-7angstrom-chip/",
-      "summary": "IBM 25日發表一項半導體業的重大突破—推出全球第一個次奈米（Sub-1nm）晶片技術。該技術採用具革新性的 [&#8230;]",
-      "date": "2026-07-04T06:00:56+00:00",
       "sourceId": "technews",
       "cats": [
         "market",
