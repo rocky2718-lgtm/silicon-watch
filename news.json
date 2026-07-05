@@ -1,6 +1,6 @@
 {
-  "updated": "2026-07-04T23:04:38.148959+00:00",
-  "count": 14,
+  "updated": "2026-07-05T04:12:29.324063+00:00",
+  "count": 13,
   "sources": [
     {
       "id": "technews",
@@ -61,11 +61,11 @@
   ],
   "articles": [
     {
-      "id": "227a9deea386",
-      "title": "IBM 推出全球首見的次奈米晶片技術，推動半導體產業未來十年發展",
-      "link": "https://technews.tw/2026/07/04/ibm-sub-1nm-7angstrom-chip/",
-      "summary": "IBM 25日發表一項半導體業的重大突破—推出全球第一個次奈米（Sub-1nm）晶片技術。該技術採用具革新性的 [&#8230;]",
-      "date": "2026-07-04T06:00:56+00:00",
+      "id": "1ed7292b80fd",
+      "title": "先唱衰 CPO 再推 ETF 撈底？分析機構 SemiAnalysis 遭爆「球員兼裁判」",
+      "link": "https://finance.technews.tw/2026/07/05/semianalysis-being-accused-of-false-reports-on-cpo-for-selling-short/",
+      "summary": "知名半導體研究機構 SemiAnalysis 近期因「精準的時間差」深陷輿論風暴。 該機構在 6 月初發布報告 [&#8230;]",
+      "date": "2026-07-05T03:00:18+00:00",
       "sourceId": "technews",
       "cats": [
         "market",
@@ -74,11 +74,11 @@
       ]
     },
     {
-      "id": "e5da319dd608",
-      "title": "潘健成示警：AI 需求呈幾何級爆發，記憶體產能面臨嚴重供不應求已成定局",
-      "link": "https://finance.technews.tw/2026/07/03/the-severe-supply-shortage-of-memory-chips-is-now-a-foregone-conclusion/",
-      "summary": "人工智慧（AI）發展一日千里，對全球算力與記憶體市場投下震撼彈。群聯執行長潘健成示警，隨著 AI 應用格式的轉 [&#8230;]",
-      "date": "2026-07-03T14:45:19+00:00",
+      "id": "227a9deea386",
+      "title": "IBM 推出全球首見的次奈米晶片技術，推動半導體產業未來十年發展",
+      "link": "https://technews.tw/2026/07/04/ibm-sub-1nm-7angstrom-chip/",
+      "summary": "IBM 25日發表一項半導體業的重大突破—推出全球第一個次奈米（Sub-1nm）晶片技術。該技術採用具革新性的 [&#8230;]",
+      "date": "2026-07-04T06:00:56+00:00",
       "sourceId": "technews",
       "cats": [
         "market",
@@ -97,19 +97,6 @@
         "process",
         "material",
         "equipment"
-      ]
-    },
-    {
-      "id": "19e20f1d40e7",
-      "title": "群聯潘健成：近期 Nor Flash 不佳早知道，AI 雲端繼續投資記憶體景氣仍持續",
-      "link": "https://finance.technews.tw/2026/07/03/ai-and-cloud-computing-continue-to-invest-and-the-memory-market-remains-bullish/",
-      "summary": "記憶體產業長久以來受制於殘酷的景氣循環法則，然而這項鐵律即將在人工智慧（AI）與雲端運算的浪潮下被徹底打破。群 [&#8230;]",
-      "date": "2026-07-03T12:00:59+00:00",
-      "sourceId": "technews",
-      "cats": [
-        "market",
-        "process",
-        "material"
       ]
     },
     {
