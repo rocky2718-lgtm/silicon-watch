@@ -1,6 +1,6 @@
 {
-  "updated": "2026-07-05T23:09:27.094510+00:00",
-  "count": 12,
+  "updated": "2026-07-06T04:19:44.016171+00:00",
+  "count": 29,
   "sources": [
     {
       "id": "technews",
@@ -61,11 +61,232 @@
   ],
   "articles": [
     {
-      "id": "1ed7292b80fd",
-      "title": "先唱衰 CPO 再推 ETF 撈底？分析機構 SemiAnalysis 遭爆「球員兼裁判」",
-      "link": "https://finance.technews.tw/2026/07/05/semianalysis-being-accused-of-false-reports-on-cpo-for-selling-short/",
-      "summary": "知名半導體研究機構 SemiAnalysis 近期因「精準的時間差」深陷輿論風暴。 該機構在 6 月初發布報告 [&#8230;]",
-      "date": "2026-07-05T03:00:18+00:00",
+      "id": "6c9606f76904",
+      "title": "掌握半導體「特化廢棄物」命脈！台鎔 7/7 以底價 55 元展開競拍",
+      "link": "https://finance.technews.tw/2026/07/06/specialized-waste/",
+      "summary": "台鎔科技為配合上市前公開承銷作業，辦理現金增資發行新股 11,793 張，其中 8,491 張採競價拍賣方式承 [&#8230;]",
+      "date": "2026-07-06T04:05:33+00:00",
+      "sourceId": "technews",
+      "cats": [
+        "market",
+        "process",
+        "material"
+      ]
+    },
+    {
+      "id": "23971cb80cbf",
+      "title": "Breakthrough CNT Pellicles Deliver 66x Durability and Sufficient Transmittance",
+      "link": "https://www.eetimes.com/breakthrough-cnt-pellicles-deliver-66x-durability-and-sufficient-transmittance/",
+      "summary": "Explore the latest breakthrough in CNT pellicles for EUV lithography: durability is up to 66 times higher, with less transmittance loss. The post Breakthrough CNT Pellicles Deliver 66x Durability and Sufficient Transmittance appeared first on EE Times.",
+      "date": "2026-07-06T04:00:00+00:00",
+      "sourceId": "eetimes",
+      "cats": [
+        "process",
+        "material",
+        "equipment"
+      ]
+    },
+    {
+      "id": "e8d19021a682",
+      "title": "記憶體荒延燒，SEMI 聯手美光、三星、SK 海力士警告美國政府：干預價格恐讓短缺更糟",
+      "link": "https://technews.tw/2026/07/06/sk-hynix-samsung-micron-among-semiconductor-industry-group-lobbying-against-government-intervention-on-domestic-memory-chip-supply/",
+      "summary": "全球記憶體晶片短缺問題持續升溫，半導體產業協會 SEMI 致函美國政府高層官員，警告若政府試圖透過干預價格或產 [&#8230;]",
+      "date": "2026-07-06T03:40:56+00:00",
+      "sourceId": "technews",
+      "cats": [
+        "market",
+        "process",
+        "material"
+      ]
+    },
+    {
+      "id": "5538916d5f20",
+      "title": "AI 旺  日本晶片設備銷售額料首破「6 兆」、創史高",
+      "link": "https://technews.tw/2026/07/06/japans-chip-equipment-sales-set-to-top-6-trillion-for-the-first-time/",
+      "summary": "因 AI 需求旺，記憶體投資大增，日本半導體製造裝置協會（SEAJ）大幅上修 2026 年度日本製半導體（晶片 [&#8230;]",
+      "date": "2026-07-06T02:40:47+00:00",
+      "sourceId": "technews",
+      "cats": [
+        "market",
+        "process",
+        "material"
+      ]
+    },
+    {
+      "id": "567cef6ad4dc",
+      "title": "不做晶片、改「量產晶圓廠」，Jim Keller 的 Fab2 要顛覆台積電製造模式",
+      "link": "https://technews.tw/2026/07/06/jim-kellers-startup-is-building-a-factory-to-mass-produce-small-semiconductor-fabs/",
+      "summary": "由傳奇晶片架構師吉姆·凱勒（Jim Keller）與 DIY 半導體先驅山姆·澤魯夫（Sam Zeloof）共 [&#8230;]",
+      "date": "2026-07-06T02:30:19+00:00",
+      "sourceId": "technews",
+      "cats": [
+        "market",
+        "process",
+        "material"
+      ]
+    },
+    {
+      "id": "876dd5849bcc",
+      "title": "滾珠螺桿交期飆破五個月！外資揭秘 AI 點燃台灣自動化漲聲大爆發",
+      "link": "https://finance.technews.tw/2026/07/06/factory-automation/",
+      "summary": "隨著AI 與資料中心的蓬勃發展，這股熱潮不僅帶動半導體產業，更全面引爆工廠自動化零組件的強勁需求，高盛最新研究 [&#8230;]",
+      "date": "2026-07-06T02:18:49+00:00",
+      "sourceId": "technews",
+      "cats": [
+        "market",
+        "process",
+        "material"
+      ]
+    },
+    {
+      "id": "46be8a6f8892",
+      "title": "SK 海力士 7/10 登上那斯達克，目標估值上看 290 億美元",
+      "link": "https://technews.tw/2026/07/06/sk-hynix-us-ipo/",
+      "summary": "SK 海力士預計於 7 月 10 日在美國那斯達克（Nasdaq）掛牌上市，盼在 AI 記憶體晶片領域中占據更 [&#8230;]",
+      "date": "2026-07-06T02:15:59+00:00",
+      "sourceId": "technews",
+      "cats": [
+        "market",
+        "process",
+        "material"
+      ]
+    },
+    {
+      "id": "5861123139f4",
+      "title": "DRAM 售價與全球三大廠相差無幾，中國長鑫存儲放棄低價搶市策略",
+      "link": "https://technews.tw/2026/07/06/changxin-memory-technologies-co-ltd-abandons-its-strategy-of-low-price-promotions-to-seize-market-share/",
+      "summary": "根據朝鮮日報的報導，中國最大 DRAM 製造商長鑫存儲（CXMT）目前的產品售價，已與全球記憶體三大廠相差無幾 [&#8230;]",
+      "date": "2026-07-06T02:15:28+00:00",
+      "sourceId": "technews",
+      "cats": [
+        "market",
+        "process",
+        "material"
+      ]
+    },
+    {
+      "id": "8064931d2456",
+      "title": "AI 需求強勁引爆產能擴張，花旗與高盛雙雙調高台積電目標價",
+      "link": "https://finance.technews.tw/2026/07/06/citigroup-and-goldman-sachs-both-raised-their-target-prices-for-tsmc/",
+      "summary": "全球 AI 基礎設施投資持續狂熱，帶動先進製程與封裝需求供不應求。根據外資券商花旗（Citi Research [&#8230;]",
+      "date": "2026-07-06T02:00:48+00:00",
+      "sourceId": "technews",
+      "cats": [
+        "market",
+        "process",
+        "material"
+      ]
+    },
+    {
+      "id": "9cb3e2fd778a",
+      "title": "AI 掀記憶體缺貨潮，三星 Q2 營業利益有望增 18 倍",
+      "link": "https://technews.tw/2026/07/06/samsung-likely-to-post-18-fold-jump-in-profit-on-surging-ai-demand-for-memory/",
+      "summary": "隨著人工智慧（AI）需求持續成長，使記憶體供不應求，進而推升晶片價格走高，三星電子預料將估計，第 2 季營業利 [&#8230;]",
+      "date": "2026-07-06T01:50:44+00:00",
+      "sourceId": "technews",
+      "cats": [
+        "market",
+        "process",
+        "material"
+      ]
+    },
+    {
+      "id": "8e4f65f0cbab",
+      "title": "BBU 大缺  三星 SDI 傳供貨新普、搶美資料中心訂單",
+      "link": "https://technews.tw/2026/07/06/samsung-sdi-supplies-ai-data-center-battery-cells-to-taiwans-simplo-technology/",
+      "summary": "韓媒傳出，韓國電池巨頭三星 SDI（Samsung SDI）已向台灣電池模組大廠新普科技供應數億顆電池芯（ba [&#8230;]",
+      "date": "2026-07-06T01:40:28+00:00",
+      "sourceId": "technews",
+      "cats": [
+        "market",
+        "process",
+        "material"
+      ]
+    },
+    {
+      "id": "41b2fae282e8",
+      "title": "需求增加  NAND Flash 廠鎧俠評估蓋新廠",
+      "link": "https://technews.tw/2026/07/06/nand-flash-kioxia-evaluates-new-factory-increased-demand/",
+      "summary": "為了因應需求增加，日本 NAND 型快閃記憶體（Flash Memory）大廠鎧俠（Kioxia）評估蓋新廠。 [&#8230;]",
+      "date": "2026-07-06T01:30:09+00:00",
+      "sourceId": "technews",
+      "cats": [
+        "market",
+        "process",
+        "material"
+      ]
+    },
+    {
+      "id": "a37c4a749a43",
+      "title": "台積電：2030 年半導體市場將突破 1.5 兆美元",
+      "link": "https://technews.tw/2026/07/06/tsmc-semiconductor-market-1-5-trillion-2030/",
+      "summary": "AI 引爆龐大需求，全球晶圓代工龍頭台積電表示，2030 年全球半導體市場預估將突破 1.5 兆美元，其中高效 [&#8230;]",
+      "date": "2026-07-06T01:20:02+00:00",
+      "sourceId": "technews",
+      "cats": [
+        "market",
+        "process",
+        "material"
+      ]
+    },
+    {
+      "id": "b90f345b925a",
+      "title": "專家：記憶體邁入超級循環，新產能和 CSP 投資牽動後市",
+      "link": "https://technews.tw/2026/07/06/experts-memory-super-cycle-new-capacity-csp-investments-future-outlook/",
+      "summary": "人工智慧（AI）驅使記憶體供需結構轉變，需求由雲端服務供應商（CSP）主導，記憶體產業邁入超級景氣循環，半導體 [&#8230;]",
+      "date": "2026-07-06T01:10:15+00:00",
+      "sourceId": "technews",
+      "cats": [
+        "market",
+        "process",
+        "material"
+      ]
+    },
+    {
+      "id": "d6669ef2d9a5",
+      "title": "三星態度強硬  傳 Q3 通用型 DRAM、LPDDR 擬漲價 20%",
+      "link": "https://technews.tw/2026/07/06/samsung-q3-dram-lpddr-20-percent-price-hike-reported-firm-stance/",
+      "summary": "韓媒傳出，韓國記憶體大廠三星電子（Samsung Electronics Co.）計劃於今年第三季將通用型 D [&#8230;]",
+      "date": "2026-07-06T01:00:34+00:00",
+      "sourceId": "technews",
+      "cats": [
+        "market",
+        "process",
+        "material"
+      ]
+    },
+    {
+      "id": "cea462395baf",
+      "title": "股價一度創 37 年新高，聯電三大利基衝刺營運拚股價邁 300 元關卡",
+      "link": "https://finance.technews.tw/2026/07/06/umcs-three-key-strengths-drive-operational-growth-and-push-its-stock-price-past-the-nt300-mark/",
+      "summary": "國內晶圓代工二哥聯電近期展現強勁轉型成果，股價一度飆漲至每股新台幣 185 元，創下 37 年來歷史新高。受惠 [&#8230;]",
+      "date": "2026-07-06T00:50:37+00:00",
+      "sourceId": "technews",
+      "cats": [
+        "market",
+        "process",
+        "material"
+      ]
+    },
+    {
+      "id": "56008c8aab1f",
+      "title": "韓國擬以晶片稅收成立未來基金，加速成長應對不平等",
+      "link": "https://technews.tw/2026/07/06/south-korea-to-create-future-fund-from-chip-windfall-to-spur-growth/",
+      "summary": "韓國總統秘書室長姜勳植 5 日表示，當局將利用半導體榮景帶來的額外稅收成立一檔未來基金，用於投資經濟成長引擎、 [&#8230;]",
+      "date": "2026-07-06T00:50:26+00:00",
+      "sourceId": "technews",
+      "cats": [
+        "market",
+        "process",
+        "material"
+      ]
+    },
+    {
+      "id": "e72509beab7f",
+      "title": "搶攻 HBM  美光砸錢擴充日本產能、後年下半裝機",
+      "link": "https://technews.tw/2026/07/06/micron-holds-groundbreaking-ceremony-for-9b-plant-expansion-in-japan/",
+      "summary": "美國記憶體大廠美光（Micron Technology）的日本廣島縣廠房擴建工程週六（7 月 4 日）舉辦了破 [&#8230;]",
+      "date": "2026-07-06T00:40:50+00:00",
       "sourceId": "technews",
       "cats": [
         "market",
