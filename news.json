@@ -1,6 +1,6 @@
 {
-  "updated": "2026-07-06T10:55:02.234024+00:00",
-  "count": 18,
+  "updated": "2026-07-06T15:51:16.091225+00:00",
+  "count": 17,
   "sources": [
     {
       "id": "technews",
@@ -118,19 +118,6 @@
       "link": "https://technews.tw/2026/07/06/huawei-mate-90-kirin-chip-follows-tau-law/",
       "summary": "綜合中媒報導，科創板日報據知情人士獲悉，將於 2026 年秋季發布的華為 Mate 90 系列手機，計畫搭載基 [&#8230;]",
       "date": "2026-07-06T09:00:18+00:00",
-      "sourceId": "technews",
-      "cats": [
-        "market",
-        "process",
-        "material"
-      ]
-    },
-    {
-      "id": "a1673a9a6f4a",
-      "title": "穎崴 6 月營收年增 287.9%，上半年營收較 2025 年同期增加逾 7 成",
-      "link": "https://finance.technews.tw/2026/07/06/winways-june-revenue-increased-by-287-9-year-on-year/",
-      "summary": "半導體測試介面解決方案廠商穎崴科技公告2026年6月份自結營收，單月合併營收達新台幣14.6億元，較上月增加3 [&#8230;]",
-      "date": "2026-07-06T08:50:58+00:00",
       "sourceId": "technews",
       "cats": [
         "market",
