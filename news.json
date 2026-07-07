@@ -1,6 +1,6 @@
 {
-  "updated": "2026-07-06T23:14:58.720915+00:00",
-  "count": 17,
+  "updated": "2026-07-07T04:09:29.801703+00:00",
+  "count": 20,
   "sources": [
     {
       "id": "technews",
@@ -61,11 +61,11 @@
   ],
   "articles": [
     {
-      "id": "0ad4916e0cda",
-      "title": "昇陽半導體6月營收4.83 億元",
-      "link": "https://finance.technews.tw/2026/07/06/psi-8028-202606-financial-report/",
-      "summary": "昇陽半導體（8028）今（6）日公布 6 月營收，達 4.83 億元，較 5 月成長 0.8%，較去年同期成長 [&#8230;]",
-      "date": "2026-07-06T10:30:02+00:00",
+      "id": "ba2f7bac1c54",
+      "title": "JEDEC 放寬 HBM 高度限制，傳三星、SK 海力士延後導入混合鍵合技術",
+      "link": "https://technews.tw/2026/07/07/jedec-samsung-and-sk-hynix-hybrid-bonding/",
+      "summary": "高頻寬記憶體（HBM）的一大演進趨勢是堆疊層數增加，為了壓縮不斷堆疊的高度，業界將混合鍵合（Hybrid Bo [&#8230;]",
+      "date": "2026-07-07T03:48:07+00:00",
       "sourceId": "technews",
       "cats": [
         "market",
@@ -74,11 +74,11 @@
       ]
     },
     {
-      "id": "60feb74813ad",
-      "title": "不靠 EUV 也能獨自升級！華為公開新論文：麒麟 2026 導入 3D 堆疊 + 混合鍵合技術",
-      "link": "https://technews.tw/2026/07/06/huawei-hybrid-bonding-process-for-the-kirin-2026/",
-      "summary": "雖然受限於美國出口管制影響，無法取得最先進的 EUV 曝光設備，但華為仍持續開發具競爭力的晶片。根據華為最新的 [&#8230;]",
-      "date": "2026-07-06T09:42:59+00:00",
+      "id": "23d4fbb6015a",
+      "title": "iPhone 18 Pro 主機板流出，A20 Pro 傳採新封裝設計",
+      "link": "https://technews.tw/2026/07/07/iphone-18-pro-a20-pro/",
+      "summary": "再過兩個月的時間，蘋果即將推出 iPhone 18 Pro、iPhone 18 Pro Max，近期疑似新機主 [&#8230;]",
+      "date": "2026-07-07T03:15:40+00:00",
       "sourceId": "technews",
       "cats": [
         "market",
@@ -87,11 +87,11 @@
       ]
     },
     {
-      "id": "3496a6e1c642",
-      "title": "三星重申技術藍圖，分析師：良率仍是關鍵",
-      "link": "https://technews.tw/2026/07/06/samsung-reaffirms-technology-roadmap-analysts-yield-key/",
-      "summary": "三星重申技術藍圖，在先進製程持續追趕台積電，規劃 2029 年量產 1.4 奈米製程。分析師指出，先進製程競爭 [&#8230;]",
-      "date": "2026-07-06T09:15:51+00:00",
+      "id": "eccd9672bc30",
+      "title": "晶圓在美、封裝在台！「美國製造」AI 晶片的骨感現實，關鍵環節仍斷鏈",
+      "link": "https://technews.tw/2026/07/07/nvidia-and-intel-tout-homegrown-american-chip-supply-chain-prowess-as-country-bolsters-local-production-but-gaps-remain/",
+      "summary": "輝達（NVIDIA）與英特爾（Intel）近日分別強調其在美國本土半導體供應鏈的布局，凸顯美國先進晶圓製造能力 [&#8230;]",
+      "date": "2026-07-07T03:10:44+00:00",
       "sourceId": "technews",
       "cats": [
         "market",
@@ -100,11 +100,11 @@
       ]
     },
     {
-      "id": "72bbd7b7f6e0",
-      "title": "矽格6月營收月減0.9%",
-      "link": "https://finance.technews.tw/2026/07/06/sigurd-6257-202606-financial-report/",
-      "summary": "矽格（6257）公布 6 月合併營收 19.59 億元，較上（5）月成長 -0.9%，與去年同期相比為年增 2 [&#8230;]",
-      "date": "2026-07-06T09:00:24+00:00",
+      "id": "849a7456f742",
+      "title": "獲英特爾、微軟投資！AI 晶片新創 Syntiant 申請 IPO，將登陸那斯達克",
+      "link": "https://technews.tw/2026/07/07/syntiant-us-ipo/",
+      "summary": "人工智慧（AI）晶片與軟體開發商 Syntiant 已申請首次公開募股（IPO），並預計以股票代號 SYTN [&#8230;]",
+      "date": "2026-07-07T02:24:01+00:00",
       "sourceId": "technews",
       "cats": [
         "market",
@@ -113,11 +113,50 @@
       ]
     },
     {
-      "id": "b1f84eb55df0",
-      "title": "傳華為 Mate 90 秋季登場，料搭載韜定律新麒麟晶片",
-      "link": "https://technews.tw/2026/07/06/huawei-mate-90-kirin-chip-follows-tau-law/",
-      "summary": "綜合中媒報導，科創板日報據知情人士獲悉，將於 2026 年秋季發布的華為 Mate 90 系列手機，計畫搭載基 [&#8230;]",
-      "date": "2026-07-06T09:00:18+00:00",
+      "id": "785d67bf5cb4",
+      "title": "減輕供應壓力與成本，聯想國際版筆電首度搭載長江存儲 NAND Flash",
+      "link": "https://technews.tw/2026/07/07/lenovo-is-the-first-company-to-equip-its-laptops-sold-globally-with-yangtze-memory-nand-flash-memory/",
+      "summary": "隨著全球 NAND Flash 模組面臨嚴重短缺與價格飆漲，中國電腦大廠聯想（Lenovo）近日首度在其針對全 [&#8230;]",
+      "date": "2026-07-07T02:00:10+00:00",
+      "sourceId": "technews",
+      "cats": [
+        "market",
+        "process",
+        "material"
+      ]
+    },
+    {
+      "id": "eb7c6a11c014",
+      "title": "英特爾確定處理器漲價，影響範圍包括消費級與企業資料中心處理器",
+      "link": "https://finance.technews.tw/2026/07/07/intel-confirms-processor-price-increase/",
+      "summary": "外媒報導，繼蘋果（Apple）近期調升消費者價格後，半導體大廠英特爾（Intel）也宣布針對其消費級桌上型電腦 [&#8230;]",
+      "date": "2026-07-07T01:45:41+00:00",
+      "sourceId": "technews",
+      "cats": [
+        "market",
+        "process",
+        "material"
+      ]
+    },
+    {
+      "id": "92209abf837f",
+      "title": "迎戰台積電與三星，英特爾推雙面供電 Intel 14A2 製程",
+      "link": "https://technews.tw/2026/07/07/intel-is-expected-to-launch-dual-sided-power-supply-technology-using-its-14a2-manufacturing-process/",
+      "summary": "隨著運算與人工智慧（AI）需求急遽攀升，全球晶圓代工市場戰火持續升溫。為應對台積電與三星即將推出的 1.4 奈 [&#8230;]",
+      "date": "2026-07-07T01:30:25+00:00",
+      "sourceId": "technews",
+      "cats": [
+        "market",
+        "process",
+        "material"
+      ]
+    },
+    {
+      "id": "2839a5bc72ec",
+      "title": "韓國半導體聚落選址光州軍機場，圖省整地時間交通便利",
+      "link": "https://technews.tw/2026/07/07/south-korea-semiconductor-cluster-gwangju-military-airport-save-land-prep-time-transport-convenience/",
+      "summary": "韓國總統府 6 日宣布，由政府主導在韓國西南部打造半導體產業聚落的計畫，在業者提議下已選址在光州市的一座軍用機 [&#8230;]",
+      "date": "2026-07-07T01:00:43+00:00",
       "sourceId": "technews",
       "cats": [
         "market",
