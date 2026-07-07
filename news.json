@@ -1,6 +1,6 @@
 {
-  "updated": "2026-07-07T04:09:29.801703+00:00",
-  "count": 20,
+  "updated": "2026-07-07T09:56:38.317671+00:00",
+  "count": 22,
   "sources": [
     {
       "id": "technews",
@@ -61,11 +61,11 @@
   ],
   "articles": [
     {
-      "id": "ba2f7bac1c54",
-      "title": "JEDEC 放寬 HBM 高度限制，傳三星、SK 海力士延後導入混合鍵合技術",
-      "link": "https://technews.tw/2026/07/07/jedec-samsung-and-sk-hynix-hybrid-bonding/",
-      "summary": "高頻寬記憶體（HBM）的一大演進趨勢是堆疊層數增加，為了壓縮不斷堆疊的高度，業界將混合鍵合（Hybrid Bo [&#8230;]",
-      "date": "2026-07-07T03:48:07+00:00",
+      "id": "aa75e3ae2ed5",
+      "title": "PCB 晉升「類半導體」產業！臻鼎董座沈慶芳：ABF 載板三年內超級缺貨",
+      "link": "https://finance.technews.tw/2026/07/07/semiconductor-pcb/",
+      "summary": "工商協進會今日舉辦第 278 次公亮紀念講座，邀請臻鼎-KY 董事長沈慶芳進行專題演講，坦言未來兩到三年內，A [&#8230;]",
+      "date": "2026-07-07T09:19:19+00:00",
       "sourceId": "technews",
       "cats": [
         "market",
@@ -74,11 +74,11 @@
       ]
     },
     {
-      "id": "23d4fbb6015a",
-      "title": "iPhone 18 Pro 主機板流出，A20 Pro 傳採新封裝設計",
-      "link": "https://technews.tw/2026/07/07/iphone-18-pro-a20-pro/",
-      "summary": "再過兩個月的時間，蘋果即將推出 iPhone 18 Pro、iPhone 18 Pro Max，近期疑似新機主 [&#8230;]",
-      "date": "2026-07-07T03:15:40+00:00",
+      "id": "e775f9942eb2",
+      "title": "台積電、三星都是客戶！掌握全球八成 CMP 研磨液市場，Fujimi 如何成先進製程隱形冠軍？",
+      "link": "https://technews.tw/2026/07/07/fujimi-incorporated-cmp-slurry/",
+      "summary": "日本半導體材料「CMP 研磨液」（CMP Slurry）大廠 Fujimi Incorporated（富士美工 [&#8230;]",
+      "date": "2026-07-07T09:18:26+00:00",
       "sourceId": "technews",
       "cats": [
         "market",
@@ -87,11 +87,11 @@
       ]
     },
     {
-      "id": "eccd9672bc30",
-      "title": "晶圓在美、封裝在台！「美國製造」AI 晶片的骨感現實，關鍵環節仍斷鏈",
-      "link": "https://technews.tw/2026/07/07/nvidia-and-intel-tout-homegrown-american-chip-supply-chain-prowess-as-country-bolsters-local-production-but-gaps-remain/",
-      "summary": "輝達（NVIDIA）與英特爾（Intel）近日分別強調其在美國本土半導體供應鏈的布局，凸顯美國先進晶圓製造能力 [&#8230;]",
-      "date": "2026-07-07T03:10:44+00:00",
+      "id": "7be7a37e7632",
+      "title": "華邦電 6 月營收年增 189.88% 續創高，上半年營收年增也達 139.2%",
+      "link": "https://finance.technews.tw/2026/07/07/winbond-electronics-revenue-also-grew-by-139-2-year-on-year-in-the-first-half-of-the-year/",
+      "summary": "記憶體大廠華邦電（含新唐科技等子公司）公布最新營收表現，受惠於記憶體市場的超級上升週期，6 月合併營收衝上新台 [&#8230;]",
+      "date": "2026-07-07T09:00:28+00:00",
       "sourceId": "technews",
       "cats": [
         "market",
@@ -100,11 +100,11 @@
       ]
     },
     {
-      "id": "849a7456f742",
-      "title": "獲英特爾、微軟投資！AI 晶片新創 Syntiant 申請 IPO，將登陸那斯達克",
-      "link": "https://technews.tw/2026/07/07/syntiant-us-ipo/",
-      "summary": "人工智慧（AI）晶片與軟體開發商 Syntiant 已申請首次公開募股（IPO），並預計以股票代號 SYTN [&#8230;]",
-      "date": "2026-07-07T02:24:01+00:00",
+      "id": "f0c1db59aeea",
+      "title": "矽創6月營收月減7.0%",
+      "link": "https://finance.technews.tw/2026/07/07/sitronix-8016-202606-financial-report/",
+      "summary": "矽創（8016）公布 6 月合併營收 19.97 億元，較上（5）月成長 -7.0%，與去年同期相比為年增 2 [&#8230;]",
+      "date": "2026-07-07T08:50:13+00:00",
       "sourceId": "technews",
       "cats": [
         "market",
@@ -113,11 +113,11 @@
       ]
     },
     {
-      "id": "785d67bf5cb4",
-      "title": "減輕供應壓力與成本，聯想國際版筆電首度搭載長江存儲 NAND Flash",
-      "link": "https://technews.tw/2026/07/07/lenovo-is-the-first-company-to-equip-its-laptops-sold-globally-with-yangtze-memory-nand-flash-memory/",
-      "summary": "隨著全球 NAND Flash 模組面臨嚴重短缺與價格飆漲，中國電腦大廠聯想（Lenovo）近日首度在其針對全 [&#8230;]",
-      "date": "2026-07-07T02:00:10+00:00",
+      "id": "d4573f639017",
+      "title": "美光股價自高點回落 22% 能兜底還是接刀子，市場對記憶體展望看法不一",
+      "link": "https://finance.technews.tw/2026/07/07/microns-stock-price-has-fallen-22-from-its-peak-will-it-provide-a-safety-net-or-become-a-liability/",
+      "summary": "不久前，記憶體大廠美光（Micron）才剛繳出破紀錄的季度財報與樂觀的財測，但其股價卻自約1,255美元的歷史 [&#8230;]",
+      "date": "2026-07-07T08:45:39+00:00",
       "sourceId": "technews",
       "cats": [
         "market",
@@ -126,11 +126,11 @@
       ]
     },
     {
-      "id": "eb7c6a11c014",
-      "title": "英特爾確定處理器漲價，影響範圍包括消費級與企業資料中心處理器",
-      "link": "https://finance.technews.tw/2026/07/07/intel-confirms-processor-price-increase/",
-      "summary": "外媒報導，繼蘋果（Apple）近期調升消費者價格後，半導體大廠英特爾（Intel）也宣布針對其消費級桌上型電腦 [&#8230;]",
-      "date": "2026-07-07T01:45:41+00:00",
+      "id": "ffa28d5fa2d1",
+      "title": "2026 年中國半導體市場規模上看 8,120 億美元，記憶體市場將暴增 262.9%",
+      "link": "https://technews.tw/2026/07/07/chinas-semiconductor-market-is-projected-to-reach-812-billion-by-2026/",
+      "summary": "根據市調機構 Omdia 的最新報告顯示，受惠於人工智慧（AI）的強勁需求推動，2026 年中國半導體市場的預 [&#8230;]",
+      "date": "2026-07-07T08:00:44+00:00",
       "sourceId": "technews",
       "cats": [
         "market",
@@ -139,11 +139,11 @@
       ]
     },
     {
-      "id": "92209abf837f",
-      "title": "迎戰台積電與三星，英特爾推雙面供電 Intel 14A2 製程",
-      "link": "https://technews.tw/2026/07/07/intel-is-expected-to-launch-dual-sided-power-supply-technology-using-its-14a2-manufacturing-process/",
-      "summary": "隨著運算與人工智慧（AI）需求急遽攀升，全球晶圓代工市場戰火持續升溫。為應對台積電與三星即將推出的 1.4 奈 [&#8230;]",
-      "date": "2026-07-07T01:30:25+00:00",
+      "id": "5dd6d325d13b",
+      "title": "6 吋晶圓 100% 覆蓋單層二維材料，台灣團隊突破大面積連續膜難關",
+      "link": "https://technews.tw/2026/07/07/full-coverage-ws2-2d-material-wafer/",
+      "summary": "全球半導體產業競相邁入原子級尺度，二維材料被視為延續摩爾定律的關鍵解方，國研院國儀中心攜手陽明交通大學、日本東 [&#8230;]",
+      "date": "2026-07-07T07:58:22+00:00",
       "sourceId": "technews",
       "cats": [
         "market",
@@ -152,11 +152,37 @@
       ]
     },
     {
-      "id": "2839a5bc72ec",
-      "title": "韓國半導體聚落選址光州軍機場，圖省整地時間交通便利",
-      "link": "https://technews.tw/2026/07/07/south-korea-semiconductor-cluster-gwangju-military-airport-save-land-prep-time-transport-convenience/",
-      "summary": "韓國總統府 6 日宣布，由政府主導在韓國西南部打造半導體產業聚落的計畫，在業者提議下已選址在光州市的一座軍用機 [&#8230;]",
-      "date": "2026-07-07T01:00:43+00:00",
+      "id": "e9ae50a032f3",
+      "title": "旺宏 6 月營收年增大成長 216.1%，上半年營收年增逾 128%",
+      "link": "https://finance.technews.tw/2026/07/07/macronixs-june-revenue-increased-by-216-1-year-on-year/",
+      "summary": "受惠於人工智慧（AI）浪潮席捲全球帶動的龐大需求，記憶體大廠旺宏公布的 2026 年 6 月份內部自行結算合併 [&#8230;]",
+      "date": "2026-07-07T07:50:32+00:00",
+      "sourceId": "technews",
+      "cats": [
+        "market",
+        "process",
+        "material"
+      ]
+    },
+    {
+      "id": "8219a89dbb0f",
+      "title": "三星、SK 海力士摔  美避險基金連 4 週拋科技硬體股",
+      "link": "https://finance.technews.tw/2026/07/07/samsung-sk-hynix-stocks-fall-us-hedge-funds-dump-tech-hardware-4-weeks/",
+      "summary": "就在全球晶片股近期走跌、且許多科技公司即將公布財報前夕，高盛（Goldman Sachs）發布報告指出，美國避 [&#8230;]",
+      "date": "2026-07-07T07:30:37+00:00",
+      "sourceId": "technews",
+      "cats": [
+        "market",
+        "process",
+        "material"
+      ]
+    },
+    {
+      "id": "5ac14ef08363",
+      "title": "三星首款夾耳式耳機 Galaxy Buds On 傳秋季亮相",
+      "link": "https://ccc.technews.tw/2026/07/07/samsung-first-clip-on-earbuds-galaxy-buds-on-rumored-fall-debut/",
+      "summary": "三星電子（Samsung Electronics）傳將推出旗下首款夾耳式（clip-on）真無線耳機，最新消息 [&#8230;]",
+      "date": "2026-07-07T07:20:56+00:00",
       "sourceId": "technews",
       "cats": [
         "market",
