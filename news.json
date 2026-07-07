@@ -1,6 +1,6 @@
 {
-  "updated": "2026-07-07T16:36:51.946386+00:00",
-  "count": 17,
+  "updated": "2026-07-07T20:07:21.618949+00:00",
+  "count": 16,
   "sources": [
     {
       "id": "technews",
@@ -170,19 +170,6 @@
       "link": "https://www.eetimes.com/sk-hynix-plans-713b-domestic-investment/",
       "summary": "SK Hynix is set to invest $713 billion to expand its semiconductor manufacturing capacity in South Korea and plans a Nasdaq listing. The post SK Hynix Plans $713B Domestic Investment appeared first on EE Times.",
       "date": "2026-07-03T13:57:51+00:00",
-      "sourceId": "eetimes",
-      "cats": [
-        "process",
-        "material",
-        "equipment"
-      ]
-    },
-    {
-      "id": "89e8383109ee",
-      "title": "Spain’s Semiconductor Landscape: Six Stories from a Growing Ecosystem",
-      "link": "https://www.eetimes.com/spains-semiconductor-landscape-six-stories-from-a-growing-ecosystem/",
-      "summary": "EE Times examines the companies, institutes, and policy initiatives positioning Spain within Europe’s next wave of semiconductor innovation. The post Spain’s Semiconductor Landscape: Six Stories from a Growing Ecosystem appeared first on EE Times.",
-      "date": "2026-07-03T07:10:19+00:00",
       "sourceId": "eetimes",
       "cats": [
         "process",
