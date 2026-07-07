@@ -1,6 +1,6 @@
 {
-  "updated": "2026-07-07T20:07:21.618949+00:00",
-  "count": 16,
+  "updated": "2026-07-07T23:08:32.969129+00:00",
+  "count": 17,
   "sources": [
     {
       "id": "technews",
@@ -60,6 +60,32 @@
     }
   ],
   "articles": [
+    {
+      "id": "ad8780963da5",
+      "title": "DeepSeek 進行自研晶片計畫，預估衝擊華為比輝達更嚴重",
+      "link": "https://finance.technews.tw/2026/07/08/deepseek-is-developing-its-own-chip/",
+      "summary": "根據路透社引述三位知情人士報導，中國知名人工智慧（AI）新創公司 DeepSeek 正在研發自家的 AI 晶片 [&#8230;]",
+      "date": "2026-07-07T23:00:09+00:00",
+      "sourceId": "technews",
+      "cats": [
+        "market",
+        "process",
+        "material"
+      ]
+    },
+    {
+      "id": "899c6026f6b1",
+      "title": "威剛多角化經營發展，決議公開收購琉園跨足文創產業",
+      "link": "https://finance.technews.tw/2026/07/08/adata-decides-to-publicly-acquire-liuyuan-venturing-into-the-cultural-and-creative-industries/",
+      "summary": "記憶體模組大廠威剛7日晚間發布重大訊息，宣布董事會已決議以每股新台幣24元現金，公開收購國內知名水晶玻璃藝術品 [&#8230;]",
+      "date": "2026-07-07T23:00:06+00:00",
+      "sourceId": "technews",
+      "cats": [
+        "market",
+        "process",
+        "material"
+      ]
+    },
     {
       "id": "0e0c65b4b480",
       "title": "英特爾 CPU 漲價，童子賢：短期調整不必太擔憂",
@@ -157,19 +183,6 @@
       "link": "https://www.eetimes.com/breakthrough-cnt-pellicles-deliver-66x-durability-and-sufficient-transmittance/",
       "summary": "Explore the latest breakthrough in CNT pellicles for EUV lithography: durability is up to 66 times higher, with less transmittance loss. The post Breakthrough CNT Pellicles Deliver 66x Durability and Sufficient Transmittance appeared first on EE Times.",
       "date": "2026-07-06T04:00:00+00:00",
-      "sourceId": "eetimes",
-      "cats": [
-        "process",
-        "material",
-        "equipment"
-      ]
-    },
-    {
-      "id": "d37d6f18119c",
-      "title": "SK Hynix Plans $713B Domestic Investment",
-      "link": "https://www.eetimes.com/sk-hynix-plans-713b-domestic-investment/",
-      "summary": "SK Hynix is set to invest $713 billion to expand its semiconductor manufacturing capacity in South Korea and plans a Nasdaq listing. The post SK Hynix Plans $713B Domestic Investment appeared first on EE Times.",
-      "date": "2026-07-03T13:57:51+00:00",
       "sourceId": "eetimes",
       "cats": [
         "process",
