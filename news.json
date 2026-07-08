@@ -1,6 +1,6 @@
 {
-  "updated": "2026-07-08T21:17:31.444867+00:00",
-  "count": 12,
+  "updated": "2026-07-08T23:17:17.481481+00:00",
+  "count": 14,
   "sources": [
     {
       "id": "technews",
@@ -60,6 +60,32 @@
     }
   ],
   "articles": [
+    {
+      "id": "c02dad5691f8",
+      "title": "蘋果與博通達成 300 億美元規模協議，市場關注蘋果首款自研 AI 伺服器晶片",
+      "link": "https://finance.technews.tw/2026/07/09/apple-and-broadcom-reach-30-billion-agreement/",
+      "summary": "蘋果正式宣布擴大與晶片製造商博通（Broadcom）的合作關係，雙方達成一項預計總值超過300億美元的多年期協 [&#8230;]",
+      "date": "2026-07-08T23:00:51+00:00",
+      "sourceId": "technews",
+      "cats": [
+        "market",
+        "process",
+        "material"
+      ]
+    },
+    {
+      "id": "6cddb2be2c1e",
+      "title": "記憶體三大原廠鬆口氣？中國長鑫存儲搶攻 HBM 市場傳聞可能不如預期",
+      "link": "https://finance.technews.tw/2026/07/09/rumors-of-chinas-changxin-memorys-aggressive-push-into-the-hbm-market-may-not-be-as-strong-as-expected/",
+      "summary": "根據朝鮮日報的報導，中國最大DRAM製造商長鑫存儲（CXMT）為在上海科創板上市所提出的證券申報書中，並未包含 [&#8230;]",
+      "date": "2026-07-08T23:00:39+00:00",
+      "sourceId": "technews",
+      "cats": [
+        "market",
+        "process",
+        "material"
+      ]
+    },
     {
       "id": "2b8f19cd63fc",
       "title": "群聯 6 月營收年增逾 300% 創新高，潘健成指 NAND 需求仍高度成長",
