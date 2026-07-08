@@ -1,6 +1,6 @@
 {
-  "updated": "2026-07-07T23:08:32.969129+00:00",
-  "count": 17,
+  "updated": "2026-07-08T03:34:01.989330+00:00",
+  "count": 16,
   "sources": [
     {
       "id": "technews",
@@ -61,11 +61,11 @@
   ],
   "articles": [
     {
-      "id": "ad8780963da5",
-      "title": "DeepSeek 進行自研晶片計畫，預估衝擊華為比輝達更嚴重",
-      "link": "https://finance.technews.tw/2026/07/08/deepseek-is-developing-its-own-chip/",
-      "summary": "根據路透社引述三位知情人士報導，中國知名人工智慧（AI）新創公司 DeepSeek 正在研發自家的 AI 晶片 [&#8230;]",
-      "date": "2026-07-07T23:00:09+00:00",
+      "id": "9d896cf8aba8",
+      "title": "中國六氟化鎢特氣出口搶手，相關個股成上海股市表現最佳股票",
+      "link": "https://finance.technews.tw/2026/07/08/chinas-tungsten-hexafluoride-specialty-gas-exports-are-in-high-demand/",
+      "summary": "2026年上半年，受惠於人工智慧（AI）帶動的半導體市場需求成長，以及中國對鎢相關原料的出口管制，全球特殊氣體 [&#8230;]",
+      "date": "2026-07-08T03:15:00+00:00",
       "sourceId": "technews",
       "cats": [
         "market",
@@ -74,11 +74,11 @@
       ]
     },
     {
-      "id": "899c6026f6b1",
-      "title": "威剛多角化經營發展，決議公開收購琉園跨足文創產業",
-      "link": "https://finance.technews.tw/2026/07/08/adata-decides-to-publicly-acquire-liuyuan-venturing-into-the-cultural-and-creative-industries/",
-      "summary": "記憶體模組大廠威剛7日晚間發布重大訊息，宣布董事會已決議以每股新台幣24元現金，公開收購國內知名水晶玻璃藝術品 [&#8230;]",
-      "date": "2026-07-07T23:00:06+00:00",
+      "id": "e0690b2c4a76",
+      "title": "台積電德國廠外溢效應，德小鎮推自動駕駛改善交通",
+      "link": "https://technews.tw/2026/07/08/tsmc-germany-plant-spillover-effect-german-town-autonomous-driving-traffic-improvement/",
+      "summary": "台積電德國廠尚未投產，已帶動周邊城市調整交通規劃。距離德勒斯登（Dresden）約 20 公里的拉德貝格市，近 [&#8230;]",
+      "date": "2026-07-08T02:50:23+00:00",
       "sourceId": "technews",
       "cats": [
         "market",
@@ -87,11 +87,11 @@
       ]
     },
     {
-      "id": "0e0c65b4b480",
-      "title": "英特爾 CPU 漲價，童子賢：短期調整不必太擔憂",
-      "link": "https://finance.technews.tw/2026/07/07/intel-cpu-price-hike-short-term-adjustment-no-major-concern/",
-      "summary": "英特爾（Intel）宣布調漲消費級與伺服器級中央處理器（CPU）售價，牽動下半年市況。代工廠和碩董事長童子賢今 [&#8230;]",
-      "date": "2026-07-07T10:30:26+00:00",
+      "id": "55d0b7ddde53",
+      "title": "美光、三星財報效益失靈，投資人期待台積電法說會扮市場救世主",
+      "link": "https://finance.technews.tw/2026/07/08/investors-expect-tsmc-to-act-as-the-market-savior-at-its-earnings-call-next-week/",
+      "summary": "隨著美光與三星的財報失靈，沒能帶動半導體類股的漲勢之後，當前投資人的希望都放在晶圓代工龍頭台積電即將於 7 月 [&#8230;]",
+      "date": "2026-07-08T02:40:20+00:00",
       "sourceId": "technews",
       "cats": [
         "market",
@@ -100,11 +100,11 @@
       ]
     },
     {
-      "id": "aa75e3ae2ed5",
-      "title": "PCB 晉升「類半導體」產業！臻鼎董座沈慶芳：ABF 載板三年內超級缺貨",
-      "link": "https://finance.technews.tw/2026/07/07/semiconductor-pcb/",
-      "summary": "工商協進會今日舉辦第 278 次公亮紀念講座，邀請臻鼎-KY 董事長沈慶芳進行專題演講，坦言未來兩到三年內，A [&#8230;]",
-      "date": "2026-07-07T09:19:19+00:00",
+      "id": "69bc51dbab0b",
+      "title": "輝達 CPU 獲 Perplexity 點讚、投機客看多瘋搶買權",
+      "link": "https://technews.tw/2026/07/08/perplexity-says-it-plans-to-use-nvidias-new-cpu/",
+      "summary": "AI 新創商 Perplexity 確認將採用最新「Vera」中央處理器（CPU），激勵輝達（Nvidia C [&#8230;]",
+      "date": "2026-07-08T02:10:23+00:00",
       "sourceId": "technews",
       "cats": [
         "market",
@@ -113,11 +113,11 @@
       ]
     },
     {
-      "id": "e775f9942eb2",
-      "title": "台積電、三星都是客戶！掌握全球八成 CMP 研磨液市場，Fujimi 如何成先進製程隱形冠軍？",
-      "link": "https://technews.tw/2026/07/07/fujimi-incorporated-cmp-slurry/",
-      "summary": "日本半導體材料「CMP 研磨液」（CMP Slurry）大廠 Fujimi Incorporated（富士美工 [&#8230;]",
-      "date": "2026-07-07T09:18:26+00:00",
+      "id": "9564e441e0af",
+      "title": "晶圓廠等不了電網，韓國 8,800 億美元半導體計畫的供電供水難題",
+      "link": "https://technews.tw/2026/07/08/south-koreas-880-billion-chip-and-ai-plan-faces-big-power-and-water-challenges/",
+      "summary": "韓國總統李在明於 6 月 29 日在首爾發表電視講話，宣布了一項為期 10 年、總額達 1,350 兆韓圜（約 [&#8230;]",
+      "date": "2026-07-08T01:40:07+00:00",
       "sourceId": "technews",
       "cats": [
         "market",
@@ -126,11 +126,11 @@
       ]
     },
     {
-      "id": "7be7a37e7632",
-      "title": "華邦電 6 月營收年增 189.88% 續創高，上半年營收年增也達 139.2%",
-      "link": "https://finance.technews.tw/2026/07/07/winbond-electronics-revenue-also-grew-by-139-2-year-on-year-in-the-first-half-of-the-year/",
-      "summary": "記憶體大廠華邦電（含新唐科技等子公司）公布最新營收表現，受惠於記憶體市場的超級上升週期，6 月合併營收衝上新台 [&#8230;]",
-      "date": "2026-07-07T09:00:28+00:00",
+      "id": "304b63184290",
+      "title": "主計總處：AI 推升電腦漲價，教養設備漲幅 44 年半新高",
+      "link": "https://technews.tw/2026/07/08/dgbas-ai-boosts-computer-prices-education-childcare-equipment-44-5-year-high-hike/",
+      "summary": "科技通膨效應逐步浮現，主計總處 7 日指出，人工智慧（AI）需求大爆發，去年下半年起，記憶體等價格顯著上漲，儘 [&#8230;]",
+      "date": "2026-07-08T00:50:44+00:00",
       "sourceId": "technews",
       "cats": [
         "market",
@@ -139,24 +139,11 @@
       ]
     },
     {
-      "id": "f0c1db59aeea",
-      "title": "矽創6月營收月減7.0%",
-      "link": "https://finance.technews.tw/2026/07/07/sitronix-8016-202606-financial-report/",
-      "summary": "矽創（8016）公布 6 月合併營收 19.97 億元，較上（5）月成長 -7.0%，與去年同期相比為年增 2 [&#8230;]",
-      "date": "2026-07-07T08:50:13+00:00",
-      "sourceId": "technews",
-      "cats": [
-        "market",
-        "process",
-        "material"
-      ]
-    },
-    {
-      "id": "d4573f639017",
-      "title": "美光股價自高點回落 22% 能兜底還是接刀子，市場對記憶體展望看法不一",
-      "link": "https://finance.technews.tw/2026/07/07/microns-stock-price-has-fallen-22-from-its-peak-will-it-provide-a-safety-net-or-become-a-liability/",
-      "summary": "不久前，記憶體大廠美光（Micron）才剛繳出破紀錄的季度財報與樂觀的財測，但其股價卻自約1,255美元的歷史 [&#8230;]",
-      "date": "2026-07-07T08:45:39+00:00",
+      "id": "49c5004d52c8",
+      "title": "搶攻 AI 需求  中國兩家記憶體廠傳倍增產能",
+      "link": "https://technews.tw/2026/07/08/two-chinese-memory-makers-double-capacity-ai-demand/",
+      "summary": "搶攻 AI 需求，中國 2 家記憶體大廠傳出將倍增產能，而此舉有可能將遏止全球記憶體價格飆漲態勢。 日經新聞7 [&#8230;]",
+      "date": "2026-07-08T00:30:20+00:00",
       "sourceId": "technews",
       "cats": [
         "market",
