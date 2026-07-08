@@ -1,6 +1,6 @@
 {
-  "updated": "2026-07-08T06:35:15.761526+00:00",
-  "count": 15,
+  "updated": "2026-07-08T10:27:41.780883+00:00",
+  "count": 13,
   "sources": [
     {
       "id": "technews",
@@ -61,11 +61,11 @@
   ],
   "articles": [
     {
-      "id": "60718e81a98c",
-      "title": "SpaceX 向 FCC 申請許可，發射 10 萬顆 Gen3「胖版」星鏈衛星",
-      "link": "https://technews.tw/2026/07/08/gen3-satellite-spacex-starlink-v3/",
-      "summary": "SpaceX 正利用充裕資金大幅加快 Gen3 星鏈衛星群發射節奏，該公司最近向 FCC 提交文件請求 10 [&#8230;]",
-      "date": "2026-07-08T05:36:44+00:00",
+      "id": "7210f6ce35ed",
+      "title": "旺矽6月營收月減3.9%",
+      "link": "https://finance.technews.tw/2026/07/08/mpi-6223-202606-financial-report/",
+      "summary": "旺矽（6223）公布 6 月合併營收 18.33 億元，較上（5）月成長 -3.9%，與去年同期相比為年增 6 [&#8230;]",
+      "date": "2026-07-08T10:10:06+00:00",
       "sourceId": "technews",
       "cats": [
         "market",
@@ -74,11 +74,11 @@
       ]
     },
     {
-      "id": "65c35f2f7f81",
-      "title": "傳蘋果開始測試長鑫存儲 DRAM，現實是擴產也難壓下記憶體價格",
-      "link": "https://technews.tw/2026/07/08/apple-test-cxmt-dram/",
-      "summary": "外媒《金融時報》（FT）引述兩位知情人士的話透露，蘋果已開始測試長鑫存儲 DRAM 晶片，計畫應用於中國市場銷 [&#8230;]",
-      "date": "2026-07-08T04:33:41+00:00",
+      "id": "7c4a298f8057",
+      "title": "打破晶片孤島！法國 AI 新創 ZML 推出跨平台推論伺服器，挑戰硬體供應商壟斷",
+      "link": "https://technews.tw/2026/07/08/hot-french-startup-zml-releases-free-product-to-speed-inference-across-lots-of-ai-chips/",
+      "summary": "人工智慧（AI）深入日常工作與生活，AI 推論（Inference，即處理提示詞的過程）最佳化逐漸超越模型訓練 [&#8230;]",
+      "date": "2026-07-08T10:00:57+00:00",
       "sourceId": "technews",
       "cats": [
         "market",
@@ -87,11 +87,11 @@
       ]
     },
     {
-      "id": "2c8096a44d33",
-      "title": "叫陣三星 400 層！鎧俠、Sandisk 發表全球最高儲存密度 3D NAND",
-      "link": "https://technews.tw/2026/07/08/kioxia-and-sandisk-new-332-3d-nand/",
-      "summary": "鎧俠（Kioxia）與 Sandisk 上週宣布，已開始提供最新 332 層 3D NAND Flash 記憶 [&#8230;]",
-      "date": "2026-07-08T04:04:49+00:00",
+      "id": "1a504b35a88e",
+      "title": "DRAM 漲勢旺至 2027 年！大和看好南亞科，目標價一口氣喊上 650 元",
+      "link": "https://technews.tw/2026/07/08/daiwa-see-nanya-technology-price/",
+      "summary": "南亞科本週五（10 日）將舉辦召開線上法說會，根據日系外資大和最新報告，隨著 DDR4 相較 DDR5 維持溢 [&#8230;]",
+      "date": "2026-07-08T09:59:01+00:00",
       "sourceId": "technews",
       "cats": [
         "market",
@@ -100,37 +100,11 @@
       ]
     },
     {
-      "id": "9d896cf8aba8",
-      "title": "中國六氟化鎢特氣出口搶手，相關個股成上海股市表現最佳股票",
-      "link": "https://finance.technews.tw/2026/07/08/chinas-tungsten-hexafluoride-specialty-gas-exports-are-in-high-demand/",
-      "summary": "2026年上半年，受惠於人工智慧（AI）帶動的半導體市場需求成長，以及中國對鎢相關原料的出口管制，全球特殊氣體 [&#8230;]",
-      "date": "2026-07-08T03:15:00+00:00",
-      "sourceId": "technews",
-      "cats": [
-        "market",
-        "process",
-        "material"
-      ]
-    },
-    {
-      "id": "e0690b2c4a76",
-      "title": "台積電德國廠外溢效應，德小鎮推自動駕駛改善交通",
-      "link": "https://technews.tw/2026/07/08/tsmc-germany-plant-spillover-effect-german-town-autonomous-driving-traffic-improvement/",
-      "summary": "台積電德國廠尚未投產，已帶動周邊城市調整交通規劃。距離德勒斯登（Dresden）約 20 公里的拉德貝格市，近 [&#8230;]",
-      "date": "2026-07-08T02:50:23+00:00",
-      "sourceId": "technews",
-      "cats": [
-        "market",
-        "process",
-        "material"
-      ]
-    },
-    {
-      "id": "55d0b7ddde53",
-      "title": "美光、三星財報效益失靈，投資人期待台積電法說會扮市場救世主",
-      "link": "https://finance.technews.tw/2026/07/08/investors-expect-tsmc-to-act-as-the-market-savior-at-its-earnings-call-next-week/",
-      "summary": "隨著美光與三星的財報失靈，沒能帶動半導體類股的漲勢之後，當前投資人的希望都放在晶圓代工龍頭台積電即將於 7 月 [&#8230;]",
-      "date": "2026-07-08T02:40:20+00:00",
+      "id": "f31370ae8d43",
+      "title": "記憶體短缺延至 2027 年底！調研談漲勢下「兩大真正贏家」",
+      "link": "https://technews.tw/2026/07/08/trendforce-and-idc-see-2026-memory/",
+      "summary": "市場研究公司 TrendForce 和 IDC 近期陸續發布針對記憶體價格和供需狀況。談到近期記憶體後市，ID [&#8230;]",
+      "date": "2026-07-08T09:40:40+00:00",
       "sourceId": "technews",
       "cats": [
         "market",
