@@ -1,6 +1,6 @@
 {
-  "updated": "2026-07-08T10:27:41.780883+00:00",
-  "count": 13,
+  "updated": "2026-07-08T14:33:10.457212+00:00",
+  "count": 12,
   "sources": [
     {
       "id": "technews",
@@ -61,6 +61,19 @@
   ],
   "articles": [
     {
+      "id": "2b8f19cd63fc",
+      "title": "群聯 6 月營收年增逾 300% 創新高，潘健成指 NAND 需求仍高度成長",
+      "link": "https://finance.technews.tw/2026/07/08/phisons-june-revenue-increased-by-over-300-year-on-year-setting-a-new-record/",
+      "summary": "NAND 控制晶片暨 NAND 儲存解決方案整合服務大廠群聯電子 (Phison; 8299TT) 公佈了 2 [&#8230;]",
+      "date": "2026-07-08T12:20:01+00:00",
+      "sourceId": "technews",
+      "cats": [
+        "market",
+        "process",
+        "material"
+      ]
+    },
+    {
       "id": "7210f6ce35ed",
       "title": "旺矽6月營收月減3.9%",
       "link": "https://finance.technews.tw/2026/07/08/mpi-6223-202606-financial-report/",
@@ -110,32 +123,6 @@
         "market",
         "process",
         "material"
-      ]
-    },
-    {
-      "id": "27753f19c845",
-      "title": "Kioxia All Set to Raise the NAND Game in AI SSDs",
-      "link": "https://www.eetimes.com/kioxia-all-set-to-raise-the-nand-game-in-ai-ssds/",
-      "summary": "Here is how the Japanese chipmaker is cashing in on NAND flash demand in data center SSDs. The post Kioxia All Set to Raise the NAND Game in AI SSDs appeared first on EE Times.",
-      "date": "2026-07-06T07:29:33+00:00",
-      "sourceId": "eetimes",
-      "cats": [
-        "process",
-        "material",
-        "equipment"
-      ]
-    },
-    {
-      "id": "23971cb80cbf",
-      "title": "Breakthrough CNT Pellicles Deliver 66x Durability and Sufficient Transmittance",
-      "link": "https://www.eetimes.com/breakthrough-cnt-pellicles-deliver-66x-durability-and-sufficient-transmittance/",
-      "summary": "Explore the latest breakthrough in CNT pellicles for EUV lithography: durability is up to 66 times higher, with less transmittance loss. The post Breakthrough CNT Pellicles Deliver 66x Durability and Sufficient Transmittance appeared first on EE Times.",
-      "date": "2026-07-06T04:00:00+00:00",
-      "sourceId": "eetimes",
-      "cats": [
-        "process",
-        "material",
-        "equipment"
       ]
     },
     {
