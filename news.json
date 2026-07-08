@@ -1,6 +1,6 @@
 {
-  "updated": "2026-07-08T03:34:01.989330+00:00",
-  "count": 16,
+  "updated": "2026-07-08T06:35:15.761526+00:00",
+  "count": 15,
   "sources": [
     {
       "id": "technews",
@@ -61,6 +61,45 @@
   ],
   "articles": [
     {
+      "id": "60718e81a98c",
+      "title": "SpaceX 向 FCC 申請許可，發射 10 萬顆 Gen3「胖版」星鏈衛星",
+      "link": "https://technews.tw/2026/07/08/gen3-satellite-spacex-starlink-v3/",
+      "summary": "SpaceX 正利用充裕資金大幅加快 Gen3 星鏈衛星群發射節奏，該公司最近向 FCC 提交文件請求 10 [&#8230;]",
+      "date": "2026-07-08T05:36:44+00:00",
+      "sourceId": "technews",
+      "cats": [
+        "market",
+        "process",
+        "material"
+      ]
+    },
+    {
+      "id": "65c35f2f7f81",
+      "title": "傳蘋果開始測試長鑫存儲 DRAM，現實是擴產也難壓下記憶體價格",
+      "link": "https://technews.tw/2026/07/08/apple-test-cxmt-dram/",
+      "summary": "外媒《金融時報》（FT）引述兩位知情人士的話透露，蘋果已開始測試長鑫存儲 DRAM 晶片，計畫應用於中國市場銷 [&#8230;]",
+      "date": "2026-07-08T04:33:41+00:00",
+      "sourceId": "technews",
+      "cats": [
+        "market",
+        "process",
+        "material"
+      ]
+    },
+    {
+      "id": "2c8096a44d33",
+      "title": "叫陣三星 400 層！鎧俠、Sandisk 發表全球最高儲存密度 3D NAND",
+      "link": "https://technews.tw/2026/07/08/kioxia-and-sandisk-new-332-3d-nand/",
+      "summary": "鎧俠（Kioxia）與 Sandisk 上週宣布，已開始提供最新 332 層 3D NAND Flash 記憶 [&#8230;]",
+      "date": "2026-07-08T04:04:49+00:00",
+      "sourceId": "technews",
+      "cats": [
+        "market",
+        "process",
+        "material"
+      ]
+    },
+    {
       "id": "9d896cf8aba8",
       "title": "中國六氟化鎢特氣出口搶手，相關個股成上海股市表現最佳股票",
       "link": "https://finance.technews.tw/2026/07/08/chinas-tungsten-hexafluoride-specialty-gas-exports-are-in-high-demand/",
@@ -92,58 +131,6 @@
       "link": "https://finance.technews.tw/2026/07/08/investors-expect-tsmc-to-act-as-the-market-savior-at-its-earnings-call-next-week/",
       "summary": "隨著美光與三星的財報失靈，沒能帶動半導體類股的漲勢之後，當前投資人的希望都放在晶圓代工龍頭台積電即將於 7 月 [&#8230;]",
       "date": "2026-07-08T02:40:20+00:00",
-      "sourceId": "technews",
-      "cats": [
-        "market",
-        "process",
-        "material"
-      ]
-    },
-    {
-      "id": "69bc51dbab0b",
-      "title": "輝達 CPU 獲 Perplexity 點讚、投機客看多瘋搶買權",
-      "link": "https://technews.tw/2026/07/08/perplexity-says-it-plans-to-use-nvidias-new-cpu/",
-      "summary": "AI 新創商 Perplexity 確認將採用最新「Vera」中央處理器（CPU），激勵輝達（Nvidia C [&#8230;]",
-      "date": "2026-07-08T02:10:23+00:00",
-      "sourceId": "technews",
-      "cats": [
-        "market",
-        "process",
-        "material"
-      ]
-    },
-    {
-      "id": "9564e441e0af",
-      "title": "晶圓廠等不了電網，韓國 8,800 億美元半導體計畫的供電供水難題",
-      "link": "https://technews.tw/2026/07/08/south-koreas-880-billion-chip-and-ai-plan-faces-big-power-and-water-challenges/",
-      "summary": "韓國總統李在明於 6 月 29 日在首爾發表電視講話，宣布了一項為期 10 年、總額達 1,350 兆韓圜（約 [&#8230;]",
-      "date": "2026-07-08T01:40:07+00:00",
-      "sourceId": "technews",
-      "cats": [
-        "market",
-        "process",
-        "material"
-      ]
-    },
-    {
-      "id": "304b63184290",
-      "title": "主計總處：AI 推升電腦漲價，教養設備漲幅 44 年半新高",
-      "link": "https://technews.tw/2026/07/08/dgbas-ai-boosts-computer-prices-education-childcare-equipment-44-5-year-high-hike/",
-      "summary": "科技通膨效應逐步浮現，主計總處 7 日指出，人工智慧（AI）需求大爆發，去年下半年起，記憶體等價格顯著上漲，儘 [&#8230;]",
-      "date": "2026-07-08T00:50:44+00:00",
-      "sourceId": "technews",
-      "cats": [
-        "market",
-        "process",
-        "material"
-      ]
-    },
-    {
-      "id": "49c5004d52c8",
-      "title": "搶攻 AI 需求  中國兩家記憶體廠傳倍增產能",
-      "link": "https://technews.tw/2026/07/08/two-chinese-memory-makers-double-capacity-ai-demand/",
-      "summary": "搶攻 AI 需求，中國 2 家記憶體大廠傳出將倍增產能，而此舉有可能將遏止全球記憶體價格飆漲態勢。 日經新聞7 [&#8230;]",
-      "date": "2026-07-08T00:30:20+00:00",
       "sourceId": "technews",
       "cats": [
         "market",
