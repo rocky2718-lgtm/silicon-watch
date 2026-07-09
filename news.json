@@ -1,6 +1,6 @@
 {
-  "updated": "2026-07-09T04:03:29.890854+00:00",
-  "count": 13,
+  "updated": "2026-07-09T09:53:53.696173+00:00",
+  "count": 11,
   "sources": [
     {
       "id": "technews",
@@ -61,11 +61,11 @@
   ],
   "articles": [
     {
-      "id": "732a320cfb7e",
-      "title": "看好 CoWoS、CPO 雙引擎動能！高盛調整萬潤目標價 1,550 元",
-      "link": "https://technews.tw/2026/07/09/goldman-sachs-see-all-ring/",
-      "summary": "美系外資高盛今（9 日）出具最新報告指出，目前市場對於 CPO 疑慮已大致反映在股價上，加上第二季表現優於預期 [&#8230;]",
-      "date": "2026-07-09T03:41:01+00:00",
+      "id": "a6b81134d82a",
+      "title": "晶圓代工報喜！世界先進 6 月營收創新高，力積電寫下近 47 個月高點",
+      "link": "https://technews.tw/2026/07/09/vis-2026-june-reveune/",
+      "summary": "世界先進今（9 日）公布 6 月合併營收 59.77 億元，由於晶圓出貨量增加，較去年同期增加約 33.57% [&#8230;]",
+      "date": "2026-07-09T09:52:24+00:00",
       "sourceId": "technews",
       "cats": [
         "market",
@@ -74,11 +74,11 @@
       ]
     },
     {
-      "id": "266c42ac2e8d",
-      "title": "Steam Machine「死亡紅線」真相，Valve：BIOS 記憶體訓練+LED 燈條裝反",
-      "link": "https://ccc.technews.tw/2026/07/09/valve-says-red-line-of-death-on-steam-machine-indicates-memory-training-and-not-gpu-failure/",
-      "summary": "Valve 近日澄清，Steam Machine 所謂首例「死亡紅線」（Red Line of Death，R [&#8230;]",
-      "date": "2026-07-09T03:40:30+00:00",
+      "id": "205d7e124761",
+      "title": "黃仁勳：輝達工程師更愛開發 AI 代理，勝過寫 Python 程式",
+      "link": "https://technews.tw/2026/07/09/jensen-huang-says-his-engineers-prefer-building-agents-to-writing-code/",
+      "summary": "輝達（NVIDIA）共同創辦人暨執行長黃仁勳 8 日公司訪談透露，人工智慧（AI）已完全改變軟體工程師的工作型 [&#8230;]",
+      "date": "2026-07-09T09:30:37+00:00",
       "sourceId": "technews",
       "cats": [
         "market",
@@ -87,11 +87,11 @@
       ]
     },
     {
-      "id": "58d11b39e852",
-      "title": "鴻勁 6 月營收創單月新高！花旗喊買，目標價一口氣升至 11,000 元",
-      "link": "https://technews.tw/2026/07/09/citi-see-hon-precision/",
-      "summary": "半導體測試設備廠鴻勁精密 8 日公布 6 月合併營收 53.02 億元，優於市場預期，年增 106%、月增 2 [&#8230;]",
-      "date": "2026-07-09T02:07:42+00:00",
+      "id": "237a57d447cd",
+      "title": "台積電第三位中研院士，吳顯揚領導開發四技術平台",
+      "link": "https://technews.tw/2026/07/09/tsmc-michael-wu/",
+      "summary": "中研院新科院士名單今天揭曉，台積電資深副總經理吳顯揚獲選工程科學組院士，是台積電出身的第三位中研院士，他在台積 [&#8230;]",
+      "date": "2026-07-09T09:20:28+00:00",
       "sourceId": "technews",
       "cats": [
         "market",
@@ -100,37 +100,11 @@
       ]
     },
     {
-      "id": "821f4d14cfcf",
-      "title": "台積電回神彈 255 點逼近月線！費半收紅護航，ABF 載板與矽光子迎利多強彈",
-      "link": "https://finance.technews.tw/2026/07/09/tsmc-rebounds-255-points-nears-monthly-average-phlx-semiconductor-supports-abf-silicon-photonics-strong-gains/",
-      "summary": "8 日台股展現強大防禦韌性，儘管外資連續五日大舉提款，8 日再賣超 379.5 億元（累計提款達 2,850 [&#8230;]",
-      "date": "2026-07-09T02:00:33+00:00",
-      "sourceId": "technews",
-      "cats": [
-        "market",
-        "process",
-        "material"
-      ]
-    },
-    {
-      "id": "5429372ab874",
-      "title": "美媒：美監管機構未盡責，數千高階晶片恐流向北京",
-      "link": "https://technews.tw/2026/07/09/china-hardliners-take-aim-at-commerce-department-official/",
-      "summary": "美國政治網站 Politico 今天報導，商務部旗下的工業暨安全局未善盡職責，可能讓北京取得數千個美國高階晶片 [&#8230;]",
-      "date": "2026-07-09T01:10:11+00:00",
-      "sourceId": "technews",
-      "cats": [
-        "market",
-        "process",
-        "material"
-      ]
-    },
-    {
-      "id": "c08bdbfcba46",
-      "title": "輝達超便宜？CPO 需求夯、H200 傳喜訊  P/E 再探底",
-      "link": "https://finance.technews.tw/2026/07/09/nvidia-cheap-cpo-demand-h200-news-p-e-new-lows/",
-      "summary": "市場傳出，中國打算允許國內頂尖 AI 公司採購有限數量的 H200 晶片，消息傳來激勵輝達（Nvidia Co [&#8230;]",
-      "date": "2026-07-09T01:00:16+00:00",
+      "id": "cbe086223eca",
+      "title": "「AI 股神」也搶進  SK 海力士 ADR 傳獲 7 倍超額認購",
+      "link": "https://finance.technews.tw/2026/07/09/sk-hynix-us-listing-more-than-seven-times-oversubscribed/",
+      "summary": "市場傳出，韓國記憶體大廠 SK 海力士（SK Hynix）規模 280 億美元的美國存託憑證（ADR）上市計畫 [&#8230;]",
+      "date": "2026-07-09T07:30:32+00:00",
       "sourceId": "technews",
       "cats": [
         "market",
