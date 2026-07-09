@@ -1,6 +1,6 @@
 {
-  "updated": "2026-07-09T12:36:21.255706+00:00",
-  "count": 12,
+  "updated": "2026-07-09T16:31:03.506806+00:00",
+  "count": 13,
   "sources": [
     {
       "id": "technews",
@@ -60,6 +60,19 @@
     }
   ],
   "articles": [
+    {
+      "id": "86bec406df50",
+      "title": "確保美國關鍵製造材料穩定，美光宣布投資環球晶圓 5 億美元",
+      "link": "https://finance.technews.tw/2026/07/09/micron-announces-500-million-investment-in-globalwafers/",
+      "summary": "美商記憶體大廠美光宣布，計畫投入最高達 30 億美元，以強化美國半導體供應鏈生態系，並建立未來技術創新所需的關 [&#8230;]",
+      "date": "2026-07-09T13:00:37+00:00",
+      "sourceId": "technews",
+      "cats": [
+        "market",
+        "process",
+        "material"
+      ]
+    },
     {
       "id": "9f07abe088a1",
       "title": "茂矽6月營收月增1.4%",
