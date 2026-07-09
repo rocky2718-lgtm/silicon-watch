@@ -1,6 +1,6 @@
 {
-  "updated": "2026-07-09T09:53:53.696173+00:00",
-  "count": 11,
+  "updated": "2026-07-09T12:36:21.255706+00:00",
+  "count": 12,
   "sources": [
     {
       "id": "technews",
@@ -61,6 +61,32 @@
   ],
   "articles": [
     {
+      "id": "9f07abe088a1",
+      "title": "茂矽6月營收月增1.4%",
+      "link": "https://finance.technews.tw/2026/07/09/mvi-2342-202606-financial-report/",
+      "summary": "茂矽（2342）公布 6 月合併營收 1.76 億元，較上（5）月成長 1.4%，與去年同期相比為年增 4.6 [&#8230;]",
+      "date": "2026-07-09T11:00:02+00:00",
+      "sourceId": "technews",
+      "cats": [
+        "market",
+        "process",
+        "material"
+      ]
+    },
+    {
+      "id": "700410031b82",
+      "title": "矽統6月營收月增33.6%",
+      "link": "https://finance.technews.tw/2026/07/09/sis-2363-202606-financial-report/",
+      "summary": "矽統（2363）公布 6 月合併營收 4.67 億元，較上（5）月成長 33.6%，與去年同期相比為年增 74 [&#8230;]",
+      "date": "2026-07-09T10:50:03+00:00",
+      "sourceId": "technews",
+      "cats": [
+        "market",
+        "process",
+        "material"
+      ]
+    },
+    {
       "id": "a6b81134d82a",
       "title": "晶圓代工報喜！世界先進 6 月營收創新高，力積電寫下近 47 個月高點",
       "link": "https://technews.tw/2026/07/09/vis-2026-june-reveune/",
@@ -92,19 +118,6 @@
       "link": "https://technews.tw/2026/07/09/tsmc-michael-wu/",
       "summary": "中研院新科院士名單今天揭曉，台積電資深副總經理吳顯揚獲選工程科學組院士，是台積電出身的第三位中研院士，他在台積 [&#8230;]",
       "date": "2026-07-09T09:20:28+00:00",
-      "sourceId": "technews",
-      "cats": [
-        "market",
-        "process",
-        "material"
-      ]
-    },
-    {
-      "id": "cbe086223eca",
-      "title": "「AI 股神」也搶進  SK 海力士 ADR 傳獲 7 倍超額認購",
-      "link": "https://finance.technews.tw/2026/07/09/sk-hynix-us-listing-more-than-seven-times-oversubscribed/",
-      "summary": "市場傳出，韓國記憶體大廠 SK 海力士（SK Hynix）規模 280 億美元的美國存託憑證（ADR）上市計畫 [&#8230;]",
-      "date": "2026-07-09T07:30:32+00:00",
       "sourceId": "technews",
       "cats": [
         "market",
