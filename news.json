@@ -1,6 +1,6 @@
 {
-  "updated": "2026-07-09T16:31:03.506806+00:00",
-  "count": 13,
+  "updated": "2026-07-09T19:57:35.656717+00:00",
+  "count": 14,
   "sources": [
     {
       "id": "technews",
@@ -60,6 +60,19 @@
     }
   ],
   "articles": [
+    {
+      "id": "6066478cc1ee",
+      "title": "Simplifying Intelligent Wireless Design and Security Certification for Healthcare Devices",
+      "link": "https://www.eetimes.com/simplifying-intelligent-wireless-design-and-security-certification-for-healthcare-devices/",
+      "summary": "Join Infineon Technologies and Ezurio for a 60-minute webinar exploring the challenges of designing and certifying secured wireless devices for healthcare applications. The post Simplifying Intelligent Wireless Design and Security Certification for Healthcare Devices appeared first on EE Times.",
+      "date": "2026-07-09T17:32:02+00:00",
+      "sourceId": "eetimes",
+      "cats": [
+        "process",
+        "material",
+        "equipment"
+      ]
+    },
     {
       "id": "86bec406df50",
       "title": "確保美國關鍵製造材料穩定，美光宣布投資環球晶圓 5 億美元",
