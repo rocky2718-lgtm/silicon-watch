@@ -1,6 +1,6 @@
 {
-  "updated": "2026-07-10T12:30:30.630775+00:00",
-  "count": 16,
+  "updated": "2026-07-10T16:28:34.172852+00:00",
+  "count": 17,
   "sources": [
     {
       "id": "technews",
@@ -60,6 +60,19 @@
     }
   ],
   "articles": [
+    {
+      "id": "f419f467ecb1",
+      "title": "Apple’s $30B Broadcom Deal Signals Expansions in AI, U.S. Supply Chain",
+      "link": "https://www.eetimes.com/apples-30b-broadcom-deal-signals-expansions-in-ai-u-s-supply-chain/",
+      "summary": "Apple’s $30B Broadcom bet drags AI data centers and U.S. chipmaking into its orbit… and may hand Intel a lifeline. The post Apple’s $30B Broadcom Deal Signals Expansions in AI, U.S. Supply Chain appeared first on EE Times.",
+      "date": "2026-07-10T12:50:28+00:00",
+      "sourceId": "eetimes",
+      "cats": [
+        "process",
+        "material",
+        "equipment"
+      ]
+    },
     {
       "id": "5a5202e5c18d",
       "title": "聯發科 6 月財報報喜，年增月增雙升站上 500 億元大關推升第二季表現優於預期",
