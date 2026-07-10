@@ -1,6 +1,6 @@
 {
-  "updated": "2026-07-10T09:49:33.024134+00:00",
-  "count": 15,
+  "updated": "2026-07-10T12:30:30.630775+00:00",
+  "count": 16,
   "sources": [
     {
       "id": "technews",
@@ -60,6 +60,32 @@
     }
   ],
   "articles": [
+    {
+      "id": "5a5202e5c18d",
+      "title": "聯發科 6 月財報報喜，年增月增雙升站上 500 億元大關推升第二季表現優於預期",
+      "link": "https://finance.technews.tw/2026/07/10/mediatek-reports-positive-financial-results-in-june/",
+      "summary": "IC 設計龍頭聯發科公布 2026 年 6 月份財報，營收金額站上 500 億元大關，達到新台幣 580.12 [&#8230;]",
+      "date": "2026-07-10T10:15:18+00:00",
+      "sourceId": "technews",
+      "cats": [
+        "market",
+        "process",
+        "material"
+      ]
+    },
+    {
+      "id": "a03f1cab62ae",
+      "title": "矽力*-KY6月營收20.84 億元",
+      "link": "https://finance.technews.tw/2026/07/10/silergy-6415-202606-financial-report/",
+      "summary": "矽力*-KY（6415）今（10）日公布 6 月營收，達 20.84 億元，較 5 月成長 9.1%，較去年同 [&#8230;]",
+      "date": "2026-07-10T10:10:07+00:00",
+      "sourceId": "technews",
+      "cats": [
+        "market",
+        "process",
+        "material"
+      ]
+    },
     {
       "id": "ddf0417047ad",
       "title": "美商務部長點名三星 SK 海力士，籲在美擴產記憶體晶片",
@@ -131,19 +157,6 @@
       "link": "https://finance.technews.tw/2026/07/10/largan-precision-secures-first-cpo-order-mass-production-mid-next-year/",
       "summary": "大立光共同封裝光學（CPO）新事業首張訂單到手，董事長林恩平 9 日於法說會證實，已有一家客戶期望光纖陣列（F [&#8230;]",
       "date": "2026-07-10T05:44:37+00:00",
-      "sourceId": "technews",
-      "cats": [
-        "market",
-        "process",
-        "material"
-      ]
-    },
-    {
-      "id": "fefd890242b7",
-      "title": "傳高通百億美元收購 Tenstorrent？Jim Keller 闢謠：並無此事",
-      "link": "https://finance.technews.tw/2026/07/10/qualcomm-reportedly-acquires-tensorrent-for-10-billion/",
-      "summary": "近期市場傳出，手機晶片大廠高通（Qualcomm）有意以 80 億至 100 億美元的驚人天價，收購知名 AI [&#8230;]",
-      "date": "2026-07-10T03:30:56+00:00",
       "sourceId": "technews",
       "cats": [
         "market",
