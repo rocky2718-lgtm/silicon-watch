@@ -1,6 +1,6 @@
 {
-  "updated": "2026-07-10T04:03:21.330974+00:00",
-  "count": 13,
+  "updated": "2026-07-10T09:49:33.024134+00:00",
+  "count": 15,
   "sources": [
     {
       "id": "technews",
@@ -61,63 +61,89 @@
   ],
   "articles": [
     {
+      "id": "ddf0417047ad",
+      "title": "美商務部長點名三星 SK 海力士，籲在美擴產記憶體晶片",
+      "link": "https://finance.technews.tw/2026/07/10/howard-lutnick-samsung-sk-hynix/",
+      "summary": "美國商務部長盧特尼克（Howard Lutnick）呼籲韓國三星電子公司與 SK 海力士在美國擴產記憶體晶片， [&#8230;]",
+      "date": "2026-07-10T09:40:30+00:00",
+      "sourceId": "technews",
+      "cats": [
+        "market",
+        "process",
+        "material"
+      ]
+    },
+    {
+      "id": "64485545dbd1",
+      "title": "聯發科6月營收月增22.3%",
+      "link": "https://finance.technews.tw/2026/07/10/mtk-2454-202606-financial-report/",
+      "summary": "聯發科（2454）公布 6 月合併營收 580.12 億元，較上（5）月成長 22.3%，與去年同期相比為年增 [&#8230;]",
+      "date": "2026-07-10T09:10:04+00:00",
+      "sourceId": "technews",
+      "cats": [
+        "market",
+        "process",
+        "material"
+      ]
+    },
+    {
+      "id": "ded7e5a871e3",
+      "title": "南亞科 Q2 毛利率衝上 79.5%「超過台積電」！總座李培瑛正向看韓廠大擴產",
+      "link": "https://technews.tw/2026/07/10/nanya-technology-reports-results-for-the-second-quarter-2026/",
+      "summary": "南亞科今（10 日）不畏颱風天，照常舉辦第二季法說會，第二季營業收入為新台幣（下同）825 億 4 千 9 百 [&#8230;]",
+      "date": "2026-07-10T07:16:17+00:00",
+      "sourceId": "technews",
+      "cats": [
+        "market",
+        "process",
+        "material"
+      ]
+    },
+    {
+      "id": "d754768b9359",
+      "title": "Meta 自研 AI 晶片 Iris 9 月投產，2027 年運算能力翻倍",
+      "link": "https://technews.tw/2026/07/10/meta-ai-chip-iris-sep/",
+      "summary": "Meta 正加快打造自有 AI 基礎設施，據《路透社》取得的內部文件，Meta 計劃最快於今年 9 月開始量產 [&#8230;]",
+      "date": "2026-07-10T06:46:19+00:00",
+      "sourceId": "technews",
+      "cats": [
+        "market",
+        "process",
+        "material"
+      ]
+    },
+    {
+      "id": "110adb16cb89",
+      "title": "博帝科技推 Viper Steel 5 Infinite DDR5 記憶體，搭載專利無限鏡光學燈效，支援高達 8000MT/s 時脈",
+      "link": "https://technews.tw/2026/07/10/patriot-memory-viper-steel-5-infinite-ddr5/",
+      "summary": "全球高效能記憶體與儲存解決方案品牌博帝科技 (Patriot Memory) 推出專為電競、內容創作與電腦組裝 [&#8230;]",
+      "date": "2026-07-10T06:00:43+00:00",
+      "sourceId": "technews",
+      "cats": [
+        "market",
+        "process",
+        "material"
+      ]
+    },
+    {
+      "id": "4594f56195b1",
+      "title": "大立光奪首張 CPO 訂單，最快明年中量產",
+      "link": "https://finance.technews.tw/2026/07/10/largan-precision-secures-first-cpo-order-mass-production-mid-next-year/",
+      "summary": "大立光共同封裝光學（CPO）新事業首張訂單到手，董事長林恩平 9 日於法說會證實，已有一家客戶期望光纖陣列（F [&#8230;]",
+      "date": "2026-07-10T05:44:37+00:00",
+      "sourceId": "technews",
+      "cats": [
+        "market",
+        "process",
+        "material"
+      ]
+    },
+    {
       "id": "fefd890242b7",
       "title": "傳高通百億美元收購 Tenstorrent？Jim Keller 闢謠：並無此事",
       "link": "https://finance.technews.tw/2026/07/10/qualcomm-reportedly-acquires-tensorrent-for-10-billion/",
       "summary": "近期市場傳出，手機晶片大廠高通（Qualcomm）有意以 80 億至 100 億美元的驚人天價，收購知名 AI [&#8230;]",
       "date": "2026-07-10T03:30:56+00:00",
-      "sourceId": "technews",
-      "cats": [
-        "market",
-        "process",
-        "material"
-      ]
-    },
-    {
-      "id": "ba0cb6c187ba",
-      "title": "半導體 MFC 市占逾 50%，日本量測設備廠「堀場製作所」技術優勢在哪？",
-      "link": "https://technews.tw/2026/07/10/horiba-company/",
-      "summary": "根據日媒報導，美國資產管理巨頭貝萊德已持有日本分析測量設備商「堀場製作所」（HORIBA）5.28% 股權。 [&#8230;]",
-      "date": "2026-07-10T02:54:03+00:00",
-      "sourceId": "technews",
-      "cats": [
-        "market",
-        "process",
-        "material"
-      ]
-    },
-    {
-      "id": "a7c75dc0ca9e",
-      "title": "科技巨擘紛紛自研晶片！微軟、Google、Meta 全入局，圍攻輝達 AI 霸權",
-      "link": "https://technews.tw/2026/07/10/now-its-biggest-customers-want-a-piece-of-the-action/",
-      "summary": "隨著輝達（Nvidia）在 AI 晶片市場的壟斷地位持續，全球科技巨擘正加速推動自研晶片。根據彭博產業研究（B [&#8230;]",
-      "date": "2026-07-10T02:20:30+00:00",
-      "sourceId": "technews",
-      "cats": [
-        "market",
-        "process",
-        "material"
-      ]
-    },
-    {
-      "id": "93fc2979fade",
-      "title": "韓大學新突破 HBM 堆疊瓶頸！記憶體密度可望飆升四倍",
-      "link": "https://technews.tw/2026/07/10/this-new-chip-stacking-technique-could-be-the-key-to-unlocking-faster-ai-performance/",
-      "summary": "生成式 AI 爆發，背後支撐龐大運算需求的記憶體晶片也面臨嚴峻的硬體瓶頸。為了有限空間提供更高頻寬，業界普遍採 [&#8230;]",
-      "date": "2026-07-10T02:10:06+00:00",
-      "sourceId": "technews",
-      "cats": [
-        "market",
-        "process",
-        "material"
-      ]
-    },
-    {
-      "id": "b38d2fc5fde3",
-      "title": "記憶體、晶片太貴，iPhone 18 Pro Max 成本暴漲 9,000 元",
-      "link": "https://technews.tw/2026/07/10/iphone-18-pro-max-bom/",
-      "summary": "據市場研究機構 Counterpoint Research 最新預估，蘋果即將推出的 iPhone 18 Pr [&#8230;]",
-      "date": "2026-07-10T01:47:58+00:00",
       "sourceId": "technews",
       "cats": [
         "market",
