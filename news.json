@@ -1,6 +1,6 @@
 {
-  "updated": "2026-07-09T23:19:27.393896+00:00",
-  "count": 16,
+  "updated": "2026-07-10T04:03:21.330974+00:00",
+  "count": 13,
   "sources": [
     {
       "id": "technews",
@@ -61,11 +61,11 @@
   ],
   "articles": [
     {
-      "id": "904596f55bc7",
-      "title": "三星跟進台積電調漲價格！傳 4 奈米、5 奈米及車用 8 奈米調漲 15%",
-      "link": "https://technews.tw/2026/07/10/samsung-raise-foundry-prices/",
-      "summary": "台積電去年調漲先進製程價格後，今年再度提高報價，市場消息傳出，三星也針對部分製程上調供貨價格。分析人士指出，晶 [&#8230;]",
-      "date": "2026-07-09T23:15:36+00:00",
+      "id": "fefd890242b7",
+      "title": "傳高通百億美元收購 Tenstorrent？Jim Keller 闢謠：並無此事",
+      "link": "https://finance.technews.tw/2026/07/10/qualcomm-reportedly-acquires-tensorrent-for-10-billion/",
+      "summary": "近期市場傳出，手機晶片大廠高通（Qualcomm）有意以 80 億至 100 億美元的驚人天價，收購知名 AI [&#8230;]",
+      "date": "2026-07-10T03:30:56+00:00",
       "sourceId": "technews",
       "cats": [
         "market",
@@ -74,11 +74,50 @@
       ]
     },
     {
-      "id": "2398add591b1",
-      "title": "台積電 ADR 表現落後費半漲勢，市場聚焦下周法說會後走勢",
-      "link": "https://finance.technews.tw/2026/07/10/tsmc-adr-performance-lagged-behind-the-rise-in-the-philadelphia-semiconductor-price-index-hspi/",
-      "summary": "7月10日，台北股市雖然因為巴威颱風來襲放颱風價而休市一天，然而市場仍高度關注台積電即將公布的6月份營收表現， [&#8230;]",
-      "date": "2026-07-09T23:00:41+00:00",
+      "id": "ba0cb6c187ba",
+      "title": "半導體 MFC 市占逾 50%，日本量測設備廠「堀場製作所」技術優勢在哪？",
+      "link": "https://technews.tw/2026/07/10/horiba-company/",
+      "summary": "根據日媒報導，美國資產管理巨頭貝萊德已持有日本分析測量設備商「堀場製作所」（HORIBA）5.28% 股權。 [&#8230;]",
+      "date": "2026-07-10T02:54:03+00:00",
+      "sourceId": "technews",
+      "cats": [
+        "market",
+        "process",
+        "material"
+      ]
+    },
+    {
+      "id": "a7c75dc0ca9e",
+      "title": "科技巨擘紛紛自研晶片！微軟、Google、Meta 全入局，圍攻輝達 AI 霸權",
+      "link": "https://technews.tw/2026/07/10/now-its-biggest-customers-want-a-piece-of-the-action/",
+      "summary": "隨著輝達（Nvidia）在 AI 晶片市場的壟斷地位持續，全球科技巨擘正加速推動自研晶片。根據彭博產業研究（B [&#8230;]",
+      "date": "2026-07-10T02:20:30+00:00",
+      "sourceId": "technews",
+      "cats": [
+        "market",
+        "process",
+        "material"
+      ]
+    },
+    {
+      "id": "93fc2979fade",
+      "title": "韓大學新突破 HBM 堆疊瓶頸！記憶體密度可望飆升四倍",
+      "link": "https://technews.tw/2026/07/10/this-new-chip-stacking-technique-could-be-the-key-to-unlocking-faster-ai-performance/",
+      "summary": "生成式 AI 爆發，背後支撐龐大運算需求的記憶體晶片也面臨嚴峻的硬體瓶頸。為了有限空間提供更高頻寬，業界普遍採 [&#8230;]",
+      "date": "2026-07-10T02:10:06+00:00",
+      "sourceId": "technews",
+      "cats": [
+        "market",
+        "process",
+        "material"
+      ]
+    },
+    {
+      "id": "b38d2fc5fde3",
+      "title": "記憶體、晶片太貴，iPhone 18 Pro Max 成本暴漲 9,000 元",
+      "link": "https://technews.tw/2026/07/10/iphone-18-pro-max-bom/",
+      "summary": "據市場研究機構 Counterpoint Research 最新預估，蘋果即將推出的 iPhone 18 Pr [&#8230;]",
+      "date": "2026-07-10T01:47:58+00:00",
       "sourceId": "technews",
       "cats": [
         "market",
@@ -97,84 +136,6 @@
         "process",
         "material",
         "equipment"
-      ]
-    },
-    {
-      "id": "86bec406df50",
-      "title": "確保美國關鍵製造材料穩定，美光宣布投資環球晶圓 5 億美元",
-      "link": "https://finance.technews.tw/2026/07/09/micron-announces-500-million-investment-in-globalwafers/",
-      "summary": "美商記憶體大廠美光宣布，計畫投入最高達 30 億美元，以強化美國半導體供應鏈生態系，並建立未來技術創新所需的關 [&#8230;]",
-      "date": "2026-07-09T13:00:37+00:00",
-      "sourceId": "technews",
-      "cats": [
-        "market",
-        "process",
-        "material"
-      ]
-    },
-    {
-      "id": "9f07abe088a1",
-      "title": "茂矽6月營收月增1.4%",
-      "link": "https://finance.technews.tw/2026/07/09/mvi-2342-202606-financial-report/",
-      "summary": "茂矽（2342）公布 6 月合併營收 1.76 億元，較上（5）月成長 1.4%，與去年同期相比為年增 4.6 [&#8230;]",
-      "date": "2026-07-09T11:00:02+00:00",
-      "sourceId": "technews",
-      "cats": [
-        "market",
-        "process",
-        "material"
-      ]
-    },
-    {
-      "id": "700410031b82",
-      "title": "矽統6月營收月增33.6%",
-      "link": "https://finance.technews.tw/2026/07/09/sis-2363-202606-financial-report/",
-      "summary": "矽統（2363）公布 6 月合併營收 4.67 億元，較上（5）月成長 33.6%，與去年同期相比為年增 74 [&#8230;]",
-      "date": "2026-07-09T10:50:03+00:00",
-      "sourceId": "technews",
-      "cats": [
-        "market",
-        "process",
-        "material"
-      ]
-    },
-    {
-      "id": "a6b81134d82a",
-      "title": "晶圓代工報喜！世界先進 6 月營收創新高，力積電寫下近 47 個月高點",
-      "link": "https://technews.tw/2026/07/09/vis-2026-june-reveune/",
-      "summary": "世界先進今（9 日）公布 6 月合併營收 59.77 億元，由於晶圓出貨量增加，較去年同期增加約 33.57% [&#8230;]",
-      "date": "2026-07-09T09:52:24+00:00",
-      "sourceId": "technews",
-      "cats": [
-        "market",
-        "process",
-        "material"
-      ]
-    },
-    {
-      "id": "205d7e124761",
-      "title": "黃仁勳：輝達工程師更愛開發 AI 代理，勝過寫 Python 程式",
-      "link": "https://technews.tw/2026/07/09/jensen-huang-says-his-engineers-prefer-building-agents-to-writing-code/",
-      "summary": "輝達（NVIDIA）共同創辦人暨執行長黃仁勳 8 日公司訪談透露，人工智慧（AI）已完全改變軟體工程師的工作型 [&#8230;]",
-      "date": "2026-07-09T09:30:37+00:00",
-      "sourceId": "technews",
-      "cats": [
-        "market",
-        "process",
-        "material"
-      ]
-    },
-    {
-      "id": "237a57d447cd",
-      "title": "台積電第三位中研院士，吳顯揚領導開發四技術平台",
-      "link": "https://technews.tw/2026/07/09/tsmc-michael-wu/",
-      "summary": "中研院新科院士名單今天揭曉，台積電資深副總經理吳顯揚獲選工程科學組院士，是台積電出身的第三位中研院士，他在台積 [&#8230;]",
-      "date": "2026-07-09T09:20:28+00:00",
-      "sourceId": "technews",
-      "cats": [
-        "market",
-        "process",
-        "material"
       ]
     },
     {
