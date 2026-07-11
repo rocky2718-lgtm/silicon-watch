@@ -1,6 +1,6 @@
 {
-  "updated": "2026-07-10T23:06:02.402522+00:00",
-  "count": 17,
+  "updated": "2026-07-11T03:30:07.572542+00:00",
+  "count": 18,
   "sources": [
     {
       "id": "technews",
@@ -61,6 +61,71 @@
   ],
   "articles": [
     {
+      "id": "30d96b762dbd",
+      "title": "SK 海力士示警，2027 年將面臨史上最嚴重記憶體供應短缺",
+      "link": "https://finance.technews.tw/2026/07/11/sk-hynix-warns-it-will-face-the-worst-memory-supply-shortage-in-history-in-2027/",
+      "summary": "韓國記憶體大廠 SK 海力士（SK Hynix）執行長郭魯正（Kwak Noh-jung）近日發出警告，指出全 [&#8230;]",
+      "date": "2026-07-11T03:00:19+00:00",
+      "sourceId": "technews",
+      "cats": [
+        "market",
+        "process",
+        "material"
+      ]
+    },
+    {
+      "id": "24abb305c0cb",
+      "title": "京元電拍板赴美設廠！最高投資達14億美元以完善當地封裝測試供應鏈",
+      "link": "https://finance.technews.tw/2026/07/11/kyec-has-approved-the-establishment-of-a-factory-in-the-united-states/",
+      "summary": "半導體測試大廠京元電發布重大訊息宣布，董事會已正式決議通過赴美投資設廠案，預計投資金額上限高達14億美元（約合 [&#8230;]",
+      "date": "2026-07-11T02:15:59+00:00",
+      "sourceId": "technews",
+      "cats": [
+        "market",
+        "process",
+        "material"
+      ]
+    },
+    {
+      "id": "702faa618319",
+      "title": "SK hynix 登陸納斯達克發行 ADR，市場看好後續表現首日開盤大漲 14%",
+      "link": "https://finance.technews.tw/2026/07/11/sk-hynix-listed-on-nasdaq-and-issued-adrs/",
+      "summary": "韓國記憶體晶片大廠SK海力士（SK hynix）於本月10日，正式在美國納斯達克（NASDAQ）發行美國存託憑 [&#8230;]",
+      "date": "2026-07-11T02:00:25+00:00",
+      "sourceId": "technews",
+      "cats": [
+        "market",
+        "process",
+        "material"
+      ]
+    },
+    {
+      "id": "46d0364ef0f1",
+      "title": "HBM 之父語出驚人：GPU 閒置率高達 90%，輝達要繼續成長都得靠記憶體",
+      "link": "https://finance.technews.tw/2026/07/11/father-of-hbm-makes-shocking-statement-ais-essence-is-memory-gpu-idle-rate-reaches-90/",
+      "summary": "韓國記憶體晶片巨頭 SK 海力士 10 日將以美國存託憑證（ADR）形式在那斯達克掛牌上市，股票代號 SKHY [&#8230;]",
+      "date": "2026-07-11T01:59:50+00:00",
+      "sourceId": "technews",
+      "cats": [
+        "market",
+        "process",
+        "material"
+      ]
+    },
+    {
+      "id": "f7503e3e28f4",
+      "title": "Muse Spark 模型更新、力推 Meta Model API，祖克柏罕見發推宣傳",
+      "link": "https://technews.tw/2026/07/11/meta-introduces-muse-spark-1-1/",
+      "summary": "由 Meta 超級智慧實驗室（Meta Superintelligence Labs，MSL）開發的 Muse [&#8230;]",
+      "date": "2026-07-10T23:59:18+00:00",
+      "sourceId": "technews",
+      "cats": [
+        "market",
+        "process",
+        "material"
+      ]
+    },
+    {
       "id": "f419f467ecb1",
       "title": "Apple’s $30B Broadcom Deal Signals Expansions in AI, U.S. Supply Chain",
       "link": "https://www.eetimes.com/apples-30b-broadcom-deal-signals-expansions-in-ai-u-s-supply-chain/",
@@ -118,58 +183,6 @@
       "link": "https://finance.technews.tw/2026/07/10/mtk-2454-202606-financial-report/",
       "summary": "聯發科（2454）公布 6 月合併營收 580.12 億元，較上（5）月成長 22.3%，與去年同期相比為年增 [&#8230;]",
       "date": "2026-07-10T09:10:04+00:00",
-      "sourceId": "technews",
-      "cats": [
-        "market",
-        "process",
-        "material"
-      ]
-    },
-    {
-      "id": "ded7e5a871e3",
-      "title": "南亞科 Q2 毛利率衝上 79.5%「超過台積電」！總座李培瑛正向看韓廠大擴產",
-      "link": "https://technews.tw/2026/07/10/nanya-technology-reports-results-for-the-second-quarter-2026/",
-      "summary": "南亞科今（10 日）不畏颱風天，照常舉辦第二季法說會，第二季營業收入為新台幣（下同）825 億 4 千 9 百 [&#8230;]",
-      "date": "2026-07-10T07:16:17+00:00",
-      "sourceId": "technews",
-      "cats": [
-        "market",
-        "process",
-        "material"
-      ]
-    },
-    {
-      "id": "d754768b9359",
-      "title": "Meta 自研 AI 晶片 Iris 9 月投產，2027 年運算能力翻倍",
-      "link": "https://technews.tw/2026/07/10/meta-ai-chip-iris-sep/",
-      "summary": "Meta 正加快打造自有 AI 基礎設施，據《路透社》取得的內部文件，Meta 計劃最快於今年 9 月開始量產 [&#8230;]",
-      "date": "2026-07-10T06:46:19+00:00",
-      "sourceId": "technews",
-      "cats": [
-        "market",
-        "process",
-        "material"
-      ]
-    },
-    {
-      "id": "110adb16cb89",
-      "title": "博帝科技推 Viper Steel 5 Infinite DDR5 記憶體，搭載專利無限鏡光學燈效，支援高達 8000MT/s 時脈",
-      "link": "https://technews.tw/2026/07/10/patriot-memory-viper-steel-5-infinite-ddr5/",
-      "summary": "全球高效能記憶體與儲存解決方案品牌博帝科技 (Patriot Memory) 推出專為電競、內容創作與電腦組裝 [&#8230;]",
-      "date": "2026-07-10T06:00:43+00:00",
-      "sourceId": "technews",
-      "cats": [
-        "market",
-        "process",
-        "material"
-      ]
-    },
-    {
-      "id": "4594f56195b1",
-      "title": "大立光奪首張 CPO 訂單，最快明年中量產",
-      "link": "https://finance.technews.tw/2026/07/10/largan-precision-secures-first-cpo-order-mass-production-mid-next-year/",
-      "summary": "大立光共同封裝光學（CPO）新事業首張訂單到手，董事長林恩平 9 日於法說會證實，已有一家客戶期望光纖陣列（F [&#8230;]",
-      "date": "2026-07-10T05:44:37+00:00",
       "sourceId": "technews",
       "cats": [
         "market",
