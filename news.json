@@ -1,6 +1,6 @@
 {
-  "updated": "2026-07-11T06:22:10.589853+00:00",
-  "count": 20,
+  "updated": "2026-07-11T09:44:48.725993+00:00",
+  "count": 21,
   "sources": [
     {
       "id": "technews",
@@ -60,6 +60,32 @@
     }
   ],
   "articles": [
+    {
+      "id": "9896347c66a0",
+      "title": "代工廠晶合集成登陸港交所掛牌，穩居中國第三大晶圓代工廠位階",
+      "link": "https://finance.technews.tw/2026/07/11/nexchip-a-contract-manufacturer-listed-on-the-hong-kong-stock-exchange/",
+      "summary": "7月10日，中國境內的12吋純晶圓代工廠商-晶合集成正式在香港交易所掛牌上市，成功達成A+H兩地上市佈局，也是 [&#8230;]",
+      "date": "2026-07-11T09:15:41+00:00",
+      "sourceId": "technews",
+      "cats": [
+        "market",
+        "process",
+        "material"
+      ]
+    },
+    {
+      "id": "896231fd56c1",
+      "title": "英特爾大秀 EMIB-T 先進封裝技術，挑戰台積電 CoWoS 先進封裝技術",
+      "link": "https://finance.technews.tw/2026/07/11/intel-showcases-its-advanced-emib-t-packaging-technology/",
+      "summary": "隨著人工智慧與高效能運算的需求暴增，半導體先進封裝技術成為推動算力進步的關鍵。半導體大廠英特爾 (Intel) [&#8230;]",
+      "date": "2026-07-11T07:00:02+00:00",
+      "sourceId": "technews",
+      "cats": [
+        "market",
+        "process",
+        "material"
+      ]
+    },
     {
       "id": "9fc428106852",
       "title": "SK 海力士擬推記憶體即服務新模式，市場關注能否解決記憶體短缺",
@@ -196,19 +222,6 @@
       "link": "https://finance.technews.tw/2026/07/10/howard-lutnick-samsung-sk-hynix/",
       "summary": "美國商務部長盧特尼克（Howard Lutnick）呼籲韓國三星電子公司與 SK 海力士在美國擴產記憶體晶片， [&#8230;]",
       "date": "2026-07-10T09:40:30+00:00",
-      "sourceId": "technews",
-      "cats": [
-        "market",
-        "process",
-        "material"
-      ]
-    },
-    {
-      "id": "64485545dbd1",
-      "title": "聯發科6月營收月增22.3%",
-      "link": "https://finance.technews.tw/2026/07/10/mtk-2454-202606-financial-report/",
-      "summary": "聯發科（2454）公布 6 月合併營收 580.12 億元，較上（5）月成長 22.3%，與去年同期相比為年增 [&#8230;]",
-      "date": "2026-07-10T09:10:04+00:00",
       "sourceId": "technews",
       "cats": [
         "market",
