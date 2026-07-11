@@ -1,6 +1,6 @@
 {
-  "updated": "2026-07-11T03:30:07.572542+00:00",
-  "count": 18,
+  "updated": "2026-07-11T06:22:10.589853+00:00",
+  "count": 20,
   "sources": [
     {
       "id": "technews",
@@ -60,6 +60,32 @@
     }
   ],
   "articles": [
+    {
+      "id": "9fc428106852",
+      "title": "SK 海力士擬推記憶體即服務新模式，市場關注能否解決記憶體短缺",
+      "link": "https://finance.technews.tw/2026/07/11/sk-hynix-plans-to-launch-a-new-memory-as-a-service-model/",
+      "summary": "韓國記憶體大廠SK海力士（SK Hynix）正醞釀一場顛覆業界的商業模式變革。SK集團會長崔泰源近日接受媒體採 [&#8230;]",
+      "date": "2026-07-11T06:00:34+00:00",
+      "sourceId": "technews",
+      "cats": [
+        "market",
+        "process",
+        "material"
+      ]
+    },
+    {
+      "id": "23bf8f2dfa07",
+      "title": "三星、英特爾晶圓代工布局新技術發展，台積電以穩健驗證架構面對挑戰",
+      "link": "https://finance.technews.tw/2026/07/11/samsung-and-intel-are-developing-new-technologies-in-their-foundry-business/",
+      "summary": "在當前競爭激烈的先進半導體製程市場中，包括英特爾與三星都正為其下一代先進製程研發新式供電技術，進行差異化的發展 [&#8230;]",
+      "date": "2026-07-11T05:00:32+00:00",
+      "sourceId": "technews",
+      "cats": [
+        "market",
+        "process",
+        "material"
+      ]
+    },
     {
       "id": "30d96b762dbd",
       "title": "SK 海力士示警，2027 年將面臨史上最嚴重記憶體供應短缺",
