@@ -1,6 +1,6 @@
 {
-  "updated": "2026-07-12T13:45:40.008126+00:00",
-  "count": 16,
+  "updated": "2026-07-12T15:05:18.348018+00:00",
+  "count": 15,
   "sources": [
     {
       "id": "technews",
@@ -131,19 +131,6 @@
       "link": "https://finance.technews.tw/2026/07/11/sk-hynix-plans-to-launch-a-new-memory-as-a-service-model/",
       "summary": "韓國記憶體大廠SK海力士（SK Hynix）正醞釀一場顛覆業界的商業模式變革。SK集團會長崔泰源近日接受媒體採 [&#8230;]",
       "date": "2026-07-11T06:00:34+00:00",
-      "sourceId": "technews",
-      "cats": [
-        "market",
-        "process",
-        "material"
-      ]
-    },
-    {
-      "id": "23bf8f2dfa07",
-      "title": "三星、英特爾晶圓代工布局新技術發展，台積電以穩健驗證架構面對挑戰",
-      "link": "https://finance.technews.tw/2026/07/11/samsung-and-intel-are-developing-new-technologies-in-their-foundry-business/",
-      "summary": "在當前競爭激烈的先進半導體製程市場中，包括英特爾與三星都正為其下一代先進製程研發新式供電技術，進行差異化的發展 [&#8230;]",
-      "date": "2026-07-11T05:00:32+00:00",
       "sourceId": "technews",
       "cats": [
         "market",
