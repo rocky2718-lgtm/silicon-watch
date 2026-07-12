@@ -1,6 +1,6 @@
 {
-  "updated": "2026-07-12T03:41:31.691214+00:00",
-  "count": 19,
+  "updated": "2026-07-12T06:41:56.456423+00:00",
+  "count": 16,
   "sources": [
     {
       "id": "technews",
@@ -144,45 +144,6 @@
       "link": "https://finance.technews.tw/2026/07/11/sk-hynix-warns-it-will-face-the-worst-memory-supply-shortage-in-history-in-2027/",
       "summary": "韓國記憶體大廠 SK 海力士（SK Hynix）執行長郭魯正（Kwak Noh-jung）近日發出警告，指出全 [&#8230;]",
       "date": "2026-07-11T03:00:19+00:00",
-      "sourceId": "technews",
-      "cats": [
-        "market",
-        "process",
-        "material"
-      ]
-    },
-    {
-      "id": "24abb305c0cb",
-      "title": "京元電拍板赴美設廠！最高投資達14億美元以完善當地封裝測試供應鏈",
-      "link": "https://finance.technews.tw/2026/07/11/kyec-has-approved-the-establishment-of-a-factory-in-the-united-states/",
-      "summary": "半導體測試大廠京元電發布重大訊息宣布，董事會已正式決議通過赴美投資設廠案，預計投資金額上限高達14億美元（約合 [&#8230;]",
-      "date": "2026-07-11T02:15:59+00:00",
-      "sourceId": "technews",
-      "cats": [
-        "market",
-        "process",
-        "material"
-      ]
-    },
-    {
-      "id": "702faa618319",
-      "title": "SK hynix 登陸納斯達克發行 ADR，市場看好後續表現首日開盤大漲 14%",
-      "link": "https://finance.technews.tw/2026/07/11/sk-hynix-listed-on-nasdaq-and-issued-adrs/",
-      "summary": "韓國記憶體晶片大廠SK海力士（SK hynix）於本月10日，正式在美國納斯達克（NASDAQ）發行美國存託憑 [&#8230;]",
-      "date": "2026-07-11T02:00:25+00:00",
-      "sourceId": "technews",
-      "cats": [
-        "market",
-        "process",
-        "material"
-      ]
-    },
-    {
-      "id": "46d0364ef0f1",
-      "title": "HBM 之父語出驚人：GPU 閒置率高達 90%，輝達要繼續成長都得靠記憶體",
-      "link": "https://finance.technews.tw/2026/07/11/father-of-hbm-makes-shocking-statement-ais-essence-is-memory-gpu-idle-rate-reaches-90/",
-      "summary": "韓國記憶體晶片巨頭 SK 海力士 10 日將以美國存託憑證（ADR）形式在那斯達克掛牌上市，股票代號 SKHY [&#8230;]",
-      "date": "2026-07-11T01:59:50+00:00",
       "sourceId": "technews",
       "cats": [
         "market",
