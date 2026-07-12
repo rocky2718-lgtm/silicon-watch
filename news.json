@@ -1,6 +1,6 @@
 {
-  "updated": "2026-07-11T22:57:18.581499+00:00",
-  "count": 21,
+  "updated": "2026-07-12T03:41:31.691214+00:00",
+  "count": 19,
   "sources": [
     {
       "id": "technews",
@@ -60,6 +60,19 @@
     }
   ],
   "articles": [
+    {
+      "id": "cbc7112e8383",
+      "title": "記憶體與儲存元件短缺，Google 下一代 Pixel 系列恐更貴",
+      "link": "https://ccc.technews.tw/2026/07/12/next-generation-pixel-line-could-get-more-expensive/",
+      "summary": "外媒收到來自 Google 的邀請，一年一度 Made by Google 發表會將在 8 月 12 日於美國 [&#8230;]",
+      "date": "2026-07-11T23:59:40+00:00",
+      "sourceId": "technews",
+      "cats": [
+        "market",
+        "process",
+        "material"
+      ]
+    },
     {
       "id": "f14399cc34ce",
       "title": "美國放寬對阿聯 AI 晶片與軍備出口，民主黨痛批新制淪為川普腐敗交易",
@@ -178,19 +191,6 @@
       ]
     },
     {
-      "id": "f7503e3e28f4",
-      "title": "Muse Spark 模型更新、力推 Meta Model API，祖克柏罕見發推宣傳",
-      "link": "https://technews.tw/2026/07/11/meta-introduces-muse-spark-1-1/",
-      "summary": "由 Meta 超級智慧實驗室（Meta Superintelligence Labs，MSL）開發的 Muse [&#8230;]",
-      "date": "2026-07-10T23:59:18+00:00",
-      "sourceId": "technews",
-      "cats": [
-        "market",
-        "process",
-        "material"
-      ]
-    },
-    {
       "id": "f419f467ecb1",
       "title": "Apple’s $30B Broadcom Deal Signals Expansions in AI, U.S. Supply Chain",
       "link": "https://www.eetimes.com/apples-30b-broadcom-deal-signals-expansions-in-ai-u-s-supply-chain/",
@@ -201,32 +201,6 @@
         "process",
         "material",
         "equipment"
-      ]
-    },
-    {
-      "id": "5a5202e5c18d",
-      "title": "聯發科 6 月財報報喜，年增月增雙升站上 500 億元大關推升第二季表現優於預期",
-      "link": "https://finance.technews.tw/2026/07/10/mediatek-reports-positive-financial-results-in-june/",
-      "summary": "IC 設計龍頭聯發科公布 2026 年 6 月份財報，營收金額站上 500 億元大關，達到新台幣 580.12 [&#8230;]",
-      "date": "2026-07-10T10:15:18+00:00",
-      "sourceId": "technews",
-      "cats": [
-        "market",
-        "process",
-        "material"
-      ]
-    },
-    {
-      "id": "a03f1cab62ae",
-      "title": "矽力*-KY6月營收20.84 億元",
-      "link": "https://finance.technews.tw/2026/07/10/silergy-6415-202606-financial-report/",
-      "summary": "矽力*-KY（6415）今（10）日公布 6 月營收，達 20.84 億元，較 5 月成長 9.1%，較去年同 [&#8230;]",
-      "date": "2026-07-10T10:10:07+00:00",
-      "sourceId": "technews",
-      "cats": [
-        "market",
-        "process",
-        "material"
       ]
     },
     {
