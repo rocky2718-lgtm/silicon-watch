@@ -1,6 +1,6 @@
 {
-  "updated": "2026-07-12T21:02:36.865118+00:00",
-  "count": 15,
+  "updated": "2026-07-12T22:57:08.826083+00:00",
+  "count": 14,
   "sources": [
     {
       "id": "technews",
@@ -118,19 +118,6 @@
       "link": "https://finance.technews.tw/2026/07/11/intel-showcases-its-advanced-emib-t-packaging-technology/",
       "summary": "隨著人工智慧與高效能運算的需求暴增，半導體先進封裝技術成為推動算力進步的關鍵。半導體大廠英特爾 (Intel) [&#8230;]",
       "date": "2026-07-11T07:00:02+00:00",
-      "sourceId": "technews",
-      "cats": [
-        "market",
-        "process",
-        "material"
-      ]
-    },
-    {
-      "id": "9fc428106852",
-      "title": "SK 海力士擬推記憶體即服務新模式，市場關注能否解決記憶體短缺",
-      "link": "https://finance.technews.tw/2026/07/11/sk-hynix-plans-to-launch-a-new-memory-as-a-service-model/",
-      "summary": "韓國記憶體大廠SK海力士（SK Hynix）正醞釀一場顛覆業界的商業模式變革。SK集團會長崔泰源近日接受媒體採 [&#8230;]",
-      "date": "2026-07-11T06:00:34+00:00",
       "sourceId": "technews",
       "cats": [
         "market",
