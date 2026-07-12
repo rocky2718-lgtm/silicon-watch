@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-12T06:41:56.456423+00:00",
+  "updated": "2026-07-12T09:58:56.087963+00:00",
   "count": 16,
   "sources": [
     {
@@ -60,6 +60,19 @@
     }
   ],
   "articles": [
+    {
+      "id": "a6987918b858",
+      "title": "嘉義科學園區二期基地正式動土，台積電先進封裝擴產進入新里程",
+      "link": "https://finance.technews.tw/2026/07/12/the-groundbreaking-ceremony-for-the-second-phase-of-the-chiayi-science-park-was-officially-held/",
+      "summary": "國家科學及技術委員會南科管理局於12日舉辦開工祈福動土儀式，正式宣布嘉義科學園區二期基地正式啟動，也代表由台積 [&#8230;]",
+      "date": "2026-07-12T07:00:57+00:00",
+      "sourceId": "technews",
+      "cats": [
+        "market",
+        "process",
+        "material"
+      ]
+    },
     {
       "id": "cbc7112e8383",
       "title": "記憶體與儲存元件短缺，Google 下一代 Pixel 系列恐更貴",
@@ -131,19 +144,6 @@
       "link": "https://finance.technews.tw/2026/07/11/samsung-and-intel-are-developing-new-technologies-in-their-foundry-business/",
       "summary": "在當前競爭激烈的先進半導體製程市場中，包括英特爾與三星都正為其下一代先進製程研發新式供電技術，進行差異化的發展 [&#8230;]",
       "date": "2026-07-11T05:00:32+00:00",
-      "sourceId": "technews",
-      "cats": [
-        "market",
-        "process",
-        "material"
-      ]
-    },
-    {
-      "id": "30d96b762dbd",
-      "title": "SK 海力士示警，2027 年將面臨史上最嚴重記憶體供應短缺",
-      "link": "https://finance.technews.tw/2026/07/11/sk-hynix-warns-it-will-face-the-worst-memory-supply-shortage-in-history-in-2027/",
-      "summary": "韓國記憶體大廠 SK 海力士（SK Hynix）執行長郭魯正（Kwak Noh-jung）近日發出警告，指出全 [&#8230;]",
-      "date": "2026-07-11T03:00:19+00:00",
       "sourceId": "technews",
       "cats": [
         "market",
