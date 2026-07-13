@@ -1,6 +1,6 @@
 {
-  "updated": "2026-07-13T21:06:09.843905+00:00",
-  "count": 21,
+  "updated": "2026-07-13T23:02:25.398025+00:00",
+  "count": 20,
   "sources": [
     {
       "id": "technews",
@@ -60,6 +60,32 @@
     }
   ],
   "articles": [
+    {
+      "id": "5c222369f916",
+      "title": "中國記憶體雙雄大撒幣進行擴產，長鑫存儲年底產能將直逼美光",
+      "link": "https://finance.technews.tw/2026/07/14/chinas-two-memory-chip-giants-are-spending-heavily-to-expand-production/",
+      "summary": "全球人工智慧（AI）伺服器需求持續爆發，帶動了高頻寬記憶體（HBM）、先進DDR5 DRAM與大容量NAND快 [&#8230;]",
+      "date": "2026-07-13T23:00:16+00:00",
+      "sourceId": "technews",
+      "cats": [
+        "market",
+        "process",
+        "material"
+      ]
+    },
+    {
+      "id": "76c7c2afd4d7",
+      "title": "英特爾投資 50 億歐元擴建愛爾蘭廠區，瞄準新世代 Xeon 處理器生產",
+      "link": "https://finance.technews.tw/2026/07/14/intel-invests-e5-billion-to-expand-its-factory-in-ireland/",
+      "summary": "半導體大廠英特爾（Intel）宣布，將為其位於愛爾蘭雷克斯利普（Leixlip）的製造廠區挹注高達50億歐元（ [&#8230;]",
+      "date": "2026-07-13T22:00:38+00:00",
+      "sourceId": "technews",
+      "cats": [
+        "market",
+        "process",
+        "material"
+      ]
+    },
     {
       "id": "857d2a8413b3",
       "title": "Rochester Electronics and Qorvo® Team to Offer Long-Term Availability of RF Components",
@@ -170,45 +196,6 @@
       "link": "https://technews.tw/2026/07/13/nvidia-is-getting-more-competition-heres-what-that-actually-means/",
       "summary": "近來愈來漸多科技公司高喊要「挑戰輝達」，但其實不是瞄準同個戰場。從只做推論晶片的新創，到想掌握設計與製造整條供 [&#8230;]",
       "date": "2026-07-13T07:30:05+00:00",
-      "sourceId": "technews",
-      "cats": [
-        "market",
-        "process",
-        "material"
-      ]
-    },
-    {
-      "id": "d9b12163db6e",
-      "title": "智慧車成為記憶體怪獸，一台車到底要用多少記憶體？",
-      "link": "https://technews.tw/2026/07/13/how-much-dram-in-a-smart-car/",
-      "summary": "記憶體缺貨和漲價，連蘋果都招架不住上調電腦售價，不過除了手機、電腦、AI 資料中心，其實汽車正在默默成為新的記 [&#8230;]",
-      "date": "2026-07-13T06:59:39+00:00",
-      "sourceId": "technews",
-      "cats": [
-        "market",
-        "process",
-        "material"
-      ]
-    },
-    {
-      "id": "e3fea9e45660",
-      "title": "利基需求升溫加乘 MLC 轉單效應，2H26 SLC NAND 價格估上漲 120%~170%",
-      "link": "https://technews.tw/2026/07/13/2h26-slc-nand/",
-      "summary": "TrendForce 最新記憶體價格調查，由於高層數 3D NAND 等高附加價值產品排擠成熟製程產能，MLC [&#8230;]",
-      "date": "2026-07-13T06:57:48+00:00",
-      "sourceId": "technews",
-      "cats": [
-        "market",
-        "process",
-        "material"
-      ]
-    },
-    {
-      "id": "0bfc54d58742",
-      "title": "傳川普政府促 Intel 擴產先進封裝、與台積較高下",
-      "link": "https://technews.tw/2026/07/13/trump-administration-reportedly-urges-intel-to-expand-advanced-packaging/",
-      "summary": "市場謠傳，華盛頓當局極希望將更多晶片製造轉移至美國本土，而非留在台灣、韓國、日本及中國，正在推動英特爾（Int [&#8230;]",
-      "date": "2026-07-13T06:50:21+00:00",
       "sourceId": "technews",
       "cats": [
         "market",
