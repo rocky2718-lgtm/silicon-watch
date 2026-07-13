@@ -1,6 +1,6 @@
 {
-  "updated": "2026-07-13T14:53:23.567119+00:00",
-  "count": 20,
+  "updated": "2026-07-13T18:01:24.373220+00:00",
+  "count": 21,
   "sources": [
     {
       "id": "technews",
@@ -60,6 +60,19 @@
     }
   ],
   "articles": [
+    {
+      "id": "857d2a8413b3",
+      "title": "Rochester Electronics and Qorvo® Team to Offer Long-Term Availability of RF Components",
+      "link": "https://www.eetimes.com/rochester-electronics-and-qorvo-team-to-offer-long-term-availability-of-rf-components/",
+      "summary": "NEWBURYPORT, MA – July 2026 Rochester Electronics, LLC, a premier continuous source of authorized semiconductors, and Qorvo®, a leading global provider of connectivity and power solutions, today announced the completion of a worldwide distribution agreement.&#160; This collaboration significantly ex",
+      "date": "2026-07-13T17:30:08+00:00",
+      "sourceId": "eetimes",
+      "cats": [
+        "process",
+        "material",
+        "equipment"
+      ]
+    },
     {
       "id": "98311109bc23",
       "title": "李在明：AI 紅利成果全民共享，設立「因應未來基金」保護受 AI 衝擊勞工與新鮮人",
