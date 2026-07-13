@@ -1,6 +1,6 @@
 {
-  "updated": "2026-07-12T22:57:08.826083+00:00",
-  "count": 14,
+  "updated": "2026-07-13T03:44:02.301226+00:00",
+  "count": 17,
   "sources": [
     {
       "id": "technews",
@@ -61,11 +61,11 @@
   ],
   "articles": [
     {
-      "id": "a6987918b858",
-      "title": "嘉義科學園區二期基地正式動土，台積電先進封裝擴產進入新里程",
-      "link": "https://finance.technews.tw/2026/07/12/the-groundbreaking-ceremony-for-the-second-phase-of-the-chiayi-science-park-was-officially-held/",
-      "summary": "國家科學及技術委員會南科管理局於12日舉辦開工祈福動土儀式，正式宣布嘉義科學園區二期基地正式啟動，也代表由台積 [&#8230;]",
-      "date": "2026-07-12T07:00:57+00:00",
+      "id": "569d31b36517",
+      "title": "日韓團隊提突破性 AI 記憶體設計，DRAM「側向立起」破解 HBM 散熱與頻寬瓶頸",
+      "link": "https://technews.tw/2026/07/13/researchers-turn-hbm-on-its-side-to-tackle-ai-memorys-heat-wall/",
+      "summary": "韓國與日本研究團隊近日提出兩種全新的記憶體整合構想，試圖在不讓高頻寬記憶體（HBM）堆疊持續升高的情況下，提升 [&#8230;]",
+      "date": "2026-07-13T02:50:42+00:00",
       "sourceId": "technews",
       "cats": [
         "market",
@@ -74,11 +74,11 @@
       ]
     },
     {
-      "id": "cbc7112e8383",
-      "title": "記憶體與儲存元件短缺，Google 下一代 Pixel 系列恐更貴",
-      "link": "https://ccc.technews.tw/2026/07/12/next-generation-pixel-line-could-get-more-expensive/",
-      "summary": "外媒收到來自 Google 的邀請，一年一度 Made by Google 發表會將在 8 月 12 日於美國 [&#8230;]",
-      "date": "2026-07-11T23:59:40+00:00",
+      "id": "d88a368a8d2a",
+      "title": "AI、半導體需求旺  機器人廠安川電機訂單衝 15 季高",
+      "link": "https://finance.technews.tw/2026/07/13/yaskawa-electric-orders-surge-to-a-15-quarter-high/",
+      "summary": "AI、半導體相關需求旺盛，帶動日本機器人大廠安川電機（Yaskawa Electric）上季訂單額大增，創 1 [&#8230;]",
+      "date": "2026-07-13T02:40:10+00:00",
       "sourceId": "technews",
       "cats": [
         "market",
@@ -87,11 +87,11 @@
       ]
     },
     {
-      "id": "f14399cc34ce",
-      "title": "美國放寬對阿聯 AI 晶片與軍備出口，民主黨痛批新制淪為川普腐敗交易",
-      "link": "https://finance.technews.tw/2026/07/11/the-united-states-has-eased-restrictions-on-exports-of-ai-chips-and-military-equipment-to-the-united-arab-emirates/",
-      "summary": "美國商務部於日前宣布，正式放寬對阿拉伯聯合大公國（UAE）的出口管制，使輝達（Nvidia）AI晶片、軍事設備 [&#8230;]",
-      "date": "2026-07-11T10:00:08+00:00",
+      "id": "04afeddcc758",
+      "title": "三星傳正開發 AI 加速器 GAIA  瞄準實體 AI 新商機",
+      "link": "https://technews.tw/2026/07/13/samsung-begins-developing-ai-pc-accelerator/",
+      "summary": "三星電子（Samsung Electronics）積極擴大高效能 AI 晶片布局，繼智慧手機處理器（AP）後， [&#8230;]",
+      "date": "2026-07-13T02:20:38+00:00",
       "sourceId": "technews",
       "cats": [
         "market",
@@ -100,11 +100,11 @@
       ]
     },
     {
-      "id": "9896347c66a0",
-      "title": "代工廠晶合集成登陸港交所掛牌，穩居中國第三大晶圓代工廠位階",
-      "link": "https://finance.technews.tw/2026/07/11/nexchip-a-contract-manufacturer-listed-on-the-hong-kong-stock-exchange/",
-      "summary": "7月10日，中國境內的12吋純晶圓代工廠商-晶合集成正式在香港交易所掛牌上市，成功達成A+H兩地上市佈局，也是 [&#8230;]",
-      "date": "2026-07-11T09:15:41+00:00",
+      "id": "88ee3acef7e4",
+      "title": "輝達破除 Rubin Ultra  延遲傳聞，單季營收近千億美元大摩仍投資半導體首選",
+      "link": "https://finance.technews.tw/2026/07/13/nvidia-dispels-rumors-of-rubin-ultra-delay/",
+      "summary": "外資大摩（摩根士丹利，Morgan Stanley）發布最新研究報告指出，輝達（NVIDIA）執行長黃仁勳（J [&#8230;]",
+      "date": "2026-07-13T02:15:22+00:00",
       "sourceId": "technews",
       "cats": [
         "market",
@@ -113,11 +113,50 @@
       ]
     },
     {
-      "id": "896231fd56c1",
-      "title": "英特爾大秀 EMIB-T 先進封裝技術，挑戰台積電 CoWoS 先進封裝技術",
-      "link": "https://finance.technews.tw/2026/07/11/intel-showcases-its-advanced-emib-t-packaging-technology/",
-      "summary": "隨著人工智慧與高效能運算的需求暴增，半導體先進封裝技術成為推動算力進步的關鍵。半導體大廠英特爾 (Intel) [&#8230;]",
-      "date": "2026-07-11T07:00:02+00:00",
+      "id": "d341c5fced11",
+      "title": "第二季先進製程載具出貨比重高，家登上半年營收年增達 22%",
+      "link": "https://finance.technews.tw/2026/07/13/gudengs-revenue-increased-by-22-year-on-year-in-the-first-half-of-the-year/",
+      "summary": "家登精密公布 2026 年 6 月營收報告，集團合併營收約為新台幣 7.52 億元，累積 1~6 月營收 41 [&#8230;]",
+      "date": "2026-07-13T01:45:53+00:00",
+      "sourceId": "technews",
+      "cats": [
+        "market",
+        "process",
+        "material"
+      ]
+    },
+    {
+      "id": "45fc13074d94",
+      "title": "大摩：2027 年晶片需求大幅推升晶圓代工與先進封裝市場規模",
+      "link": "https://technews.tw/2026/07/13/the-significant-increase-in-chip-demand-in-2027-will-boost-the-size-of-the-wafer-foundry-and-advanced-packaging-markets/",
+      "summary": "外資大摩（摩根士丹利，Morgan Stanley）於最新亞太區科技產業報告中，全面剖析了 2027 年全球人 [&#8230;]",
+      "date": "2026-07-13T01:30:38+00:00",
+      "sourceId": "technews",
+      "cats": [
+        "market",
+        "process",
+        "material"
+      ]
+    },
+    {
+      "id": "69ba37f7c605",
+      "title": "台積電 CoWoS 供不應求，封測台廠英特爾受惠訂單外溢",
+      "link": "https://technews.tw/2026/07/13/tsmc-cowos-undersupply-boosts-taiwan-osats-intel-order-spillover/",
+      "summary": "人工智慧（AI）晶片帶動先進封裝需求，台積電持續擴充 CoWoS 產能仍供不應求。外媒報導英特爾（Intel） [&#8230;]",
+      "date": "2026-07-13T00:20:55+00:00",
+      "sourceId": "technews",
+      "cats": [
+        "market",
+        "process",
+        "material"
+      ]
+    },
+    {
+      "id": "42dc9a51ac3d",
+      "title": "台塑四寶上半年狂賺千億元！重押半導體材料宣告「特化帝國」成形",
+      "link": "https://finance.technews.tw/2026/07/13/specialized-empire/",
+      "summary": "長期受制於中國石化產能過剩與傳統景氣循環的台塑集團，最近在資本市場上演一場驚天大逆轉，隨著台塑集團積極推動「棄 [&#8230;]",
+      "date": "2026-07-13T00:03:36+00:00",
       "sourceId": "technews",
       "cats": [
         "market",
