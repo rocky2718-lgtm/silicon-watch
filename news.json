@@ -1,6 +1,6 @@
 {
-  "updated": "2026-07-14T21:07:02.436696+00:00",
-  "count": 16,
+  "updated": "2026-07-14T23:02:50.877079+00:00",
+  "count": 17,
   "sources": [
     {
       "id": "technews",
@@ -61,6 +61,45 @@
   ],
   "articles": [
     {
+      "id": "74a8793ca830",
+      "title": "美國再開綠燈批准中企採購 H200 晶片，輝達股價受激勵上漲逾 4%",
+      "link": "https://technews.tw/2026/07/15/the-us-has-given-the-green-light-again-to-allow-chinese-companies-to-purchase-h200-chips/",
+      "summary": "在中美科技戰持續角力的背景下，美國商務部近期再度放寬部分限制，批准了三家中國企業採購輝達（Nvidia）及超微 [&#8230;]",
+      "date": "2026-07-14T23:00:57+00:00",
+      "sourceId": "technews",
+      "cats": [
+        "market",
+        "process",
+        "material"
+      ]
+    },
+    {
+      "id": "9d901711467e",
+      "title": "英特爾外包台積電策略大轉彎，Nova Lake 運算晶片大部分回 intel 18A 製造",
+      "link": "https://finance.technews.tw/2026/07/15/intels-strategy-of-outsourcing-to-tsmc-takes-a-major-turn/",
+      "summary": "根據最新供應鏈消息指出，半導體大廠英特爾（Intel）針對即將推出的 Nova Lake 處理器系列，正進行重 [&#8230;]",
+      "date": "2026-07-14T22:45:23+00:00",
+      "sourceId": "technews",
+      "cats": [
+        "market",
+        "process",
+        "material"
+      ]
+    },
+    {
+      "id": "4963ec8396ea",
+      "title": "聯電宣布矽光子晶圓交貨，外資花旗按讚看好第二季營收攀升",
+      "link": "https://finance.technews.tw/2026/07/15/citigroup-is-bullish-on-umcs-announcement-of-silicon-photonics-wafer-deliveries/",
+      "summary": "晶圓代工大廠聯電昨日正式宣布，其位於新加坡的製造廠已達成一項重大里程碑，首度成功量產矽光子晶圓。這項技術突破主 [&#8230;]",
+      "date": "2026-07-14T22:30:50+00:00",
+      "sourceId": "technews",
+      "cats": [
+        "market",
+        "process",
+        "material"
+      ]
+    },
+    {
       "id": "52290d0a89fd",
       "title": "Electronic Design Industry Rides Chip Wave, APAC Leads Q1 2026 Growth",
       "link": "https://www.eetimes.com/electronic-design-industry-rides-chip-wave-apac-leads-q1-2026-growth/",
@@ -118,32 +157,6 @@
       "link": "https://technews.tw/2026/07/14/nvidia-cuts-to-asian-customers-could-deepen-china-ai-chip-shortage/",
       "summary": "市場傳出，為了防堵產品流入中國，AI 晶片巨頭輝達（Nvidia）在華盛頓當局施壓下制定了全新的企業「白名單」 [&#8230;]",
       "date": "2026-07-14T07:20:39+00:00",
-      "sourceId": "technews",
-      "cats": [
-        "market",
-        "process",
-        "material"
-      ]
-    },
-    {
-      "id": "8e9348940f01",
-      "title": "研調：Q2 全球智慧手機出貨量年減 4%  三星居首",
-      "link": "https://technews.tw/2026/07/14/global-smartphone-shipments-fall-4-in-q2/",
-      "summary": "綜合中媒報導，據 Omdia 表示，在全球記憶體晶片持續短缺的背景下，2026 年第二季全球智慧手機出貨量年減 [&#8230;]",
-      "date": "2026-07-14T07:10:26+00:00",
-      "sourceId": "technews",
-      "cats": [
-        "market",
-        "process",
-        "material"
-      ]
-    },
-    {
-      "id": "e16f671a4548",
-      "title": "韓股七次熔斷引爆史上最大斷頭潮！貝萊德投信剖析台股兩大隱藏危機",
-      "link": "https://finance.technews.tw/2026/07/14/headless-tide/",
-      "summary": "貝萊德投信今日舉辦年中全球投資展望，針對全球科技股與新興市場劇烈震盪，韓股因高槓桿與記憶體產業過度集中，罕見觸 [&#8230;]",
-      "date": "2026-07-14T06:12:52+00:00",
       "sourceId": "technews",
       "cats": [
         "market",
