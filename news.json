@@ -1,6 +1,6 @@
 {
-  "updated": "2026-07-13T23:02:25.398025+00:00",
-  "count": 20,
+  "updated": "2026-07-14T03:18:59.330426+00:00",
+  "count": 22,
   "sources": [
     {
       "id": "technews",
@@ -61,11 +61,11 @@
   ],
   "articles": [
     {
-      "id": "5c222369f916",
-      "title": "中國記憶體雙雄大撒幣進行擴產，長鑫存儲年底產能將直逼美光",
-      "link": "https://finance.technews.tw/2026/07/14/chinas-two-memory-chip-giants-are-spending-heavily-to-expand-production/",
-      "summary": "全球人工智慧（AI）伺服器需求持續爆發，帶動了高頻寬記憶體（HBM）、先進DDR5 DRAM與大容量NAND快 [&#8230;]",
-      "date": "2026-07-13T23:00:16+00:00",
+      "id": "c62f83d7c798",
+      "title": "三星、海力士成終極韭菜！高槓桿 38 兆融資引爆韓股史上最大斷頭潮",
+      "link": "https://finance.technews.tw/2026/07/14/margin-call-massacre/",
+      "summary": "南韓綜合指數（KOSPI）今日盤中重挫近 3%，失守 6800 點大關，面臨來自全球半導體板塊回檔與國內散戶高 [&#8230;]",
+      "date": "2026-07-14T03:11:34+00:00",
       "sourceId": "technews",
       "cats": [
         "market",
@@ -74,11 +74,128 @@
       ]
     },
     {
-      "id": "76c7c2afd4d7",
-      "title": "英特爾投資 50 億歐元擴建愛爾蘭廠區，瞄準新世代 Xeon 處理器生產",
-      "link": "https://finance.technews.tw/2026/07/14/intel-invests-e5-billion-to-expand-its-factory-in-ireland/",
-      "summary": "半導體大廠英特爾（Intel）宣布，將為其位於愛爾蘭雷克斯利普（Leixlip）的製造廠區挹注高達50億歐元（ [&#8230;]",
-      "date": "2026-07-13T22:00:38+00:00",
+      "id": "9c19886f964d",
+      "title": "AIoT 產業電腦加速落地，長生命週期部署考驗記憶體與儲存可靠性",
+      "link": "https://technews.tw/2026/07/14/aiot-industrial-pc-acceleration-memory-storage-reliability-deployment/",
+      "summary": "當人們談論 AI 時，多數目光總聚焦在 GPU、模型與雲端算力。但真正讓 AI 能夠走進工廠、捷運站、零售門市 [&#8230;]",
+      "date": "2026-07-14T02:42:40+00:00",
+      "sourceId": "technews",
+      "cats": [
+        "market",
+        "process",
+        "material"
+      ]
+    },
+    {
+      "id": "2878926140c4",
+      "title": "聯電矽光子布局進入新里程，攜手 SILITH 交貨首批量產矽光子晶圓",
+      "link": "https://technews.tw/2026/07/14/umc-and-silith-complete-the-first-batch-of-mass-produced-silicon-photonic-wafers-delivery/",
+      "summary": "聯電與 SILITH 共同宣布，聯電新加坡晶圓廠完成首批量產矽光子晶圓交貨，象徵雙方合作邁入量產新里程碑，並進 [&#8230;]",
+      "date": "2026-07-14T02:30:12+00:00",
+      "sourceId": "technews",
+      "cats": [
+        "market",
+        "process",
+        "material"
+      ]
+    },
+    {
+      "id": "ec2933374e07",
+      "title": "記憶體供應趨緊，調研：2026 年第二季全球智慧手機出貨年減 11%",
+      "link": "https://finance.technews.tw/2026/07/14/q226-global-smartphone-shipment/",
+      "summary": "據調研機構 Counterpoint Research《智慧型手機市場監測》初步統計，2026 年第二季全球智 [&#8230;]",
+      "date": "2026-07-14T02:29:58+00:00",
+      "sourceId": "technews",
+      "cats": [
+        "market",
+        "process",
+        "material"
+      ]
+    },
+    {
+      "id": "614c1fe02530",
+      "title": "台積電法說倒數！外資齊喊買、最高衝上 3,800 元，價格重點一次看",
+      "link": "https://technews.tw/2026/07/14/foreign-investors-see-tsmc-2026-q2-and-capex/",
+      "summary": "隨著台積電法說會將於週四（16 日）登場，多間外資和法人已經發布最新報告，並調高目標價，價格介於 2,888 [&#8230;]",
+      "date": "2026-07-14T02:14:40+00:00",
+      "sourceId": "technews",
+      "cats": [
+        "market",
+        "process",
+        "material"
+      ]
+    },
+    {
+      "id": "5ee6e005e81b",
+      "title": "特斯拉 AI5 完成 Tape-out，三星 2 奈米即將量產",
+      "link": "https://technews.tw/2026/07/14/tesla-ai5-tape-out-samsung-2/",
+      "summary": "根據 Tom&#8217;s Hardware 報導，特斯拉下一代 AI5 晶片即將進入量產階段。根據外媒報導 [&#8230;]",
+      "date": "2026-07-14T02:08:38+00:00",
+      "sourceId": "technews",
+      "cats": [
+        "market",
+        "process",
+        "material"
+      ]
+    },
+    {
+      "id": "3c46042403d0",
+      "title": "載板成記憶體後第二大漲價零組件！外資喊買南電目標價上看 2,444 元",
+      "link": "https://finance.technews.tw/2026/07/14/price-increase-components/",
+      "summary": "受惠於載板價格漲幅擴大，以及競爭環境顯著改善，南電財務表現快速躍升，外資出具最新研究報告指出，受到成本通膨環境 [&#8230;]",
+      "date": "2026-07-14T01:51:19+00:00",
+      "sourceId": "technews",
+      "cats": [
+        "market",
+        "process",
+        "material"
+      ]
+    },
+    {
+      "id": "27af97389aff",
+      "title": "記憶體暴漲 6 倍的代價！AI 排擠效應浮現，全球電子裝置出貨恐狂減 2 億台",
+      "link": "https://technews.tw/2026/07/14/ai-driven-chipflation-puts-chill-on-electronics-purchases/",
+      "summary": "AI 投資熱潮正將記憶體晶片價格推向新高，並開始反噬消費性電子市場。根據最新消息，記憶體價格已飆升至原先的六倍 [&#8230;]",
+      "date": "2026-07-14T01:50:30+00:00",
+      "sourceId": "technews",
+      "cats": [
+        "market",
+        "process",
+        "material"
+      ]
+    },
+    {
+      "id": "56a2ba87f2ad",
+      "title": "輝達吳新宙：汽車業邁向「AI 定義車輛」，Level 4 大眾化五年內實現",
+      "link": "https://technews.tw/2026/07/14/even-nvidias-head-of-automotive-fights-with-nvidia-for-compute/",
+      "summary": "輝達（NVIDIA）汽車業務副總裁吳新宙（Xinzhou Wu）近日在受訪時表示，汽車產業正從「軟體定義車輛」 [&#8230;]",
+      "date": "2026-07-14T01:20:21+00:00",
+      "sourceId": "technews",
+      "cats": [
+        "market",
+        "process",
+        "material"
+      ]
+    },
+    {
+      "id": "940c15262195",
+      "title": "AI 旺促稅收增，韓國規劃明年預算支出創新高 17 兆餘元",
+      "link": "https://finance.technews.tw/2026/07/14/s-korea-flags-record-2027-budget-of-over-530-billion-as-ai-chip-boom-lifts-revenues/",
+      "summary": "韓國政府 13 日表示，鑒於人工智慧（AI）晶片產業蓬勃發展帶來的稅收增加，預計提議的 2027 財政年度預算 [&#8230;]",
+      "date": "2026-07-14T00:40:03+00:00",
+      "sourceId": "technews",
+      "cats": [
+        "market",
+        "process",
+        "material"
+      ]
+    },
+    {
+      "id": "d30114b86500",
+      "title": "記憶體飆漲、日圓貶  日本二手智慧手機銷量破紀錄",
+      "link": "https://technews.tw/2026/07/14/japan-record-used-smartphone-sales-memory-prices-surge-yen-depreciates/",
+      "summary": "記憶體價格飆漲、日圓走貶，導致全新智慧手機（新機）價格揚升，帶動價格相對低廉的二手智慧手機需求增加，日本二手智 [&#8230;]",
+      "date": "2026-07-14T00:10:15+00:00",
       "sourceId": "technews",
       "cats": [
         "market",
@@ -100,84 +217,6 @@
       ]
     },
     {
-      "id": "98311109bc23",
-      "title": "李在明：AI 紅利成果全民共享，設立「因應未來基金」保護受 AI 衝擊勞工與新鮮人",
-      "link": "https://finance.technews.tw/2026/07/13/lee-says-will-create-future-response-fund-using-extra-tax-revenue/",
-      "summary": "韓總統李在明今日主持青瓦臺國家財政戰略會議時，表示政府將把半導體景氣的額外稅收，當作建立「因應未來基金」的財源 [&#8230;]",
-      "date": "2026-07-13T10:00:54+00:00",
-      "sourceId": "technews",
-      "cats": [
-        "market",
-        "process",
-        "material"
-      ]
-    },
-    {
-      "id": "09b5275bd66b",
-      "title": "輝達暫棄台積電 COUPE 方案？傳改採高塔矽光子 NPO 解決方案",
-      "link": "https://technews.tw/2026/07/13/irrational-analysis-see-tsmc-coupe-and-nvidia/",
-      "summary": "市場消息傳出，輝達（NVIDIA）已決定暫時放棄台積電 COUPE（緊湊型通用光子引擎）解決方案，轉而使用高塔 [&#8230;]",
-      "date": "2026-07-13T09:37:51+00:00",
-      "sourceId": "technews",
-      "cats": [
-        "market",
-        "process",
-        "material"
-      ]
-    },
-    {
-      "id": "e9d237bdd11c",
-      "title": "中國太陽能整併加速，TCL 中環收購一道新能源",
-      "link": "https://technews.tw/2026/07/13/china-solar-merge-trend/",
-      "summary": "根據彭博社報導，中國太陽能矽晶圓大廠 TCL 中環宣布完成對太陽能電池及模組廠一道新能源的收購。公司表示，此次 [&#8230;]",
-      "date": "2026-07-13T09:10:24+00:00",
-      "sourceId": "technews",
-      "cats": [
-        "market",
-        "process",
-        "material"
-      ]
-    },
-    {
-      "id": "d385327c92e2",
-      "title": "三星電子與三星顯示器合作開發玻璃中介層，年底前推原型挑戰台積電先進封裝",
-      "link": "https://finance.technews.tw/2026/07/13/samsung-electronics-and-samsung-display-collaborate-to-develop-glass-interlayer/",
-      "summary": "根據韓國媒體THEELEC的報導，為了在先進封裝領域取得領先優勢，三星電子（Samsung Electroni [&#8230;]",
-      "date": "2026-07-13T09:00:29+00:00",
-      "sourceId": "technews",
-      "cats": [
-        "market",
-        "process",
-        "material"
-      ]
-    },
-    {
-      "id": "20b9512ac47a",
-      "title": "中新創啟用首條 2D 半導體試產線！拚三年內擺脫 EUV、實現 5 奈米等效晶片",
-      "link": "https://technews.tw/2026/07/13/china-yuanjiwei-wanna-build-5-nanometre-equivalent-chips-without-euv/",
-      "summary": "中國晶片新創「原集微科技」（Yuanjiwei）宣布啟用全球首條 8 吋二維（2D）半導體中試生產線，這是美國 [&#8230;]",
-      "date": "2026-07-13T08:56:36+00:00",
-      "sourceId": "technews",
-      "cats": [
-        "market",
-        "process",
-        "material"
-      ]
-    },
-    {
-      "id": "e159d1012030",
-      "title": "中國光學晶片又一突破！新光互連系統助 AI 推論速度增 100 倍、算力僅需 1/9",
-      "link": "https://technews.tw/2026/07/13/china-optical-chip-breakthrough/",
-      "summary": "中國北京大學研究團隊開發一套全光學互連系統，透過將標準電子晶片相互連接，使 AI 分散式推論速度提升超過 10 [&#8230;]",
-      "date": "2026-07-13T08:29:25+00:00",
-      "sourceId": "technews",
-      "cats": [
-        "market",
-        "process",
-        "material"
-      ]
-    },
-    {
       "id": "2c5bc17613b0",
       "title": "ITF World 2026: The Semiconductor Industry Enters a New Systems Era",
       "link": "https://www.eetimes.com/itf-world-2026-the-semiconductor-industry-enters-a-new-systems-era/",
@@ -188,19 +227,6 @@
         "process",
         "material",
         "equipment"
-      ]
-    },
-    {
-      "id": "bb25403605c0",
-      "title": "不只戰硬體性能！AI 晶片戰線越開越多，各巨頭從各種縫隙挑戰輝達",
-      "link": "https://technews.tw/2026/07/13/nvidia-is-getting-more-competition-heres-what-that-actually-means/",
-      "summary": "近來愈來漸多科技公司高喊要「挑戰輝達」，但其實不是瞄準同個戰場。從只做推論晶片的新創，到想掌握設計與製造整條供 [&#8230;]",
-      "date": "2026-07-13T07:30:05+00:00",
-      "sourceId": "technews",
-      "cats": [
-        "market",
-        "process",
-        "material"
       ]
     },
     {
