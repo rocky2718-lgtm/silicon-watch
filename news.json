@@ -1,6 +1,6 @@
 {
-  "updated": "2026-07-14T06:19:22.380416+00:00",
-  "count": 23,
+  "updated": "2026-07-14T10:05:55.966644+00:00",
+  "count": 18,
   "sources": [
     {
       "id": "technews",
@@ -61,6 +61,71 @@
   ],
   "articles": [
     {
+      "id": "c281bce8e7f4",
+      "title": "SK 海力士重挫，專家：AI 前景、HBM 擴產成兩大壓力",
+      "link": "https://finance.technews.tw/2026/07/14/sk-hynix-plunges-experts-cite-ai-outlook-hbm-capacity-expansion-two-major-pressures/",
+      "summary": "SK 海力士股價 13 日重挫逾 9%，拖累韓國記憶體族群同步走弱。分析師指出，除市場擔憂 SK 海力士最新一 [&#8230;]",
+      "date": "2026-07-14T08:35:19+00:00",
+      "sourceId": "technews",
+      "cats": [
+        "market",
+        "process",
+        "material"
+      ]
+    },
+    {
+      "id": "7e5db594e089",
+      "title": "鎧俠要憑什麼向韓國記憶體下戰帖，誓言重返全球第一寶座？",
+      "link": "https://finance.technews.tw/2026/07/14/what-advantages-does-kioxia-have-to-challenge-south-korean-memory-chips/",
+      "summary": "全球記憶體市場版圖正逢劇變，這股浪潮不僅席捲DRAM（如HBM），更蔓延至NAND Flash領域。日本NAN [&#8230;]",
+      "date": "2026-07-14T08:30:29+00:00",
+      "sourceId": "technews",
+      "cats": [
+        "market",
+        "process",
+        "material"
+      ]
+    },
+    {
+      "id": "2f9bdf4fa91f",
+      "title": "Spain Semiconductor Industry Convenes to Forge Domestic Alliances",
+      "link": "https://www.eetimes.com/spain-semiconductor-industry-convenes-to-forge-domestic-alliances/",
+      "summary": "AESEMI holds the first semiconductor MatchMaking day in Spain to forge new alliances and consolidate the ecosystem. The post Spain Semiconductor Industry Convenes to Forge Domestic Alliances appeared first on EE Times.",
+      "date": "2026-07-14T07:32:41+00:00",
+      "sourceId": "eetimes",
+      "cats": [
+        "process",
+        "material",
+        "equipment"
+      ]
+    },
+    {
+      "id": "3fedf2213eab",
+      "title": "輝達傳將亞洲客戶砍逾半  FT：中國 AI 晶片更缺了",
+      "link": "https://technews.tw/2026/07/14/nvidia-cuts-to-asian-customers-could-deepen-china-ai-chip-shortage/",
+      "summary": "市場傳出，為了防堵產品流入中國，AI 晶片巨頭輝達（Nvidia）在華盛頓當局施壓下制定了全新的企業「白名單」 [&#8230;]",
+      "date": "2026-07-14T07:20:39+00:00",
+      "sourceId": "technews",
+      "cats": [
+        "market",
+        "process",
+        "material"
+      ]
+    },
+    {
+      "id": "8e9348940f01",
+      "title": "研調：Q2 全球智慧手機出貨量年減 4%  三星居首",
+      "link": "https://technews.tw/2026/07/14/global-smartphone-shipments-fall-4-in-q2/",
+      "summary": "綜合中媒報導，據 Omdia 表示，在全球記憶體晶片持續短缺的背景下，2026 年第二季全球智慧手機出貨量年減 [&#8230;]",
+      "date": "2026-07-14T07:10:26+00:00",
+      "sourceId": "technews",
+      "cats": [
+        "market",
+        "process",
+        "material"
+      ]
+    },
+    {
       "id": "e16f671a4548",
       "title": "韓股七次熔斷引爆史上最大斷頭潮！貝萊德投信剖析台股兩大隱藏危機",
       "link": "https://finance.technews.tw/2026/07/14/headless-tide/",
@@ -100,123 +165,6 @@
       ]
     },
     {
-      "id": "21a9c3cf54e4",
-      "title": "記憶體飆漲衝擊  中國 3 大智慧手機廠出貨量大減 2 成",
-      "link": "https://technews.tw/2026/07/14/memory-price-surge-china-top-3-smartphone-makers-20-percent-shipment-drop/",
-      "summary": "受記憶體價格飆漲衝擊，小米（Xiaomi）等中國 3 大智慧手機廠上季（4-6 月）全球出貨量大減 2 成，反 [&#8230;]",
-      "date": "2026-07-14T04:30:46+00:00",
-      "sourceId": "technews",
-      "cats": [
-        "market",
-        "process",
-        "material"
-      ]
-    },
-    {
-      "id": "9a2ca4a75865",
-      "title": "美光簽長約挺環球晶  專家：矽晶圓恐成硬體瓶頸",
-      "link": "https://technews.tw/2026/07/14/microns-stake-in-globalwafers-may-be-a-sign-of-another-bottleneck/",
-      "summary": "環球晶宣布與美國記憶體大廠美光（Micron Technology）簽訂 10 年長約、並獲 5 億美元之策略 [&#8230;]",
-      "date": "2026-07-14T04:20:03+00:00",
-      "sourceId": "technews",
-      "cats": [
-        "market",
-        "process",
-        "material"
-      ]
-    },
-    {
-      "id": "714e11b85a6e",
-      "title": "華為跨足 DRAM 製造！借力福建晉華技術，攜昇維旭、地方政府拚供應鏈自主",
-      "link": "https://technews.tw/2026/07/14/china-huawei-jhicc-dram/",
-      "summary": "中國 DRAM 產業近期動作頻頻，除了長鑫存儲積極推進 IPO 計畫並加速擴產外，市場消息傳出，華為也計劃切入 [&#8230;]",
-      "date": "2026-07-14T04:06:55+00:00",
-      "sourceId": "technews",
-      "cats": [
-        "market",
-        "process",
-        "material"
-      ]
-    },
-    {
-      "id": "9fcaec2ea218",
-      "title": "三星記憶體漲價衝擊自家手機部門，新機免費容量升級優惠要付一半價差",
-      "link": "https://finance.technews.tw/2026/07/14/samsungs-memory-price-hikes-impact-its-own-mobile-phone-division/",
-      "summary": "韓國媒體報導，受記憶體半導體價格大幅上漲影響，三星電子自 2023 年起為新機預購推出的 「免費容量升級」（D [&#8230;]",
-      "date": "2026-07-14T04:00:11+00:00",
-      "sourceId": "technews",
-      "cats": [
-        "market",
-        "process",
-        "material"
-      ]
-    },
-    {
-      "id": "632813dc18e9",
-      "title": "通寶上半年營收翻倍逼近 3.2 億元！延攬台積電前高管林俊吉進董事會",
-      "link": "https://finance.technews.tw/2026/07/14/strategic-marketing-expert/",
-      "summary": "通寶半導體公告 6 月合併營收 1.32 億元，月增 108.5%，年增 41.07%，改寫歷史新高；累計今年 [&#8230;]",
-      "date": "2026-07-14T03:42:35+00:00",
-      "sourceId": "technews",
-      "cats": [
-        "market",
-        "process",
-        "material"
-      ]
-    },
-    {
-      "id": "f4749f02c300",
-      "title": "AI 熱潮帶動架構重組，CPU 重返晶片競賽核心",
-      "link": "https://technews.tw/2026/07/14/why-ais-next-chapter-belongs-to-cpus/",
-      "summary": "《日經亞洲》（Nikkei Asia）在最新一期科技 Podcast 中指出，AI 熱潮正帶動 CPU 再度成 [&#8230;]",
-      "date": "2026-07-14T03:40:02+00:00",
-      "sourceId": "technews",
-      "cats": [
-        "market",
-        "process",
-        "material"
-      ]
-    },
-    {
-      "id": "4c0d60f93566",
-      "title": "HBM 漲價動能降溫！繼上週在美掛牌上市，SK 海力士考慮買進韓國公債",
-      "link": "https://finance.technews.tw/2026/07/14/sk-hynix-buy-korean-government-bonds/",
-      "summary": "韓記憶體大廠 SK 海力士正考慮買進韓國政府公債。市場消息先前傳出，SK 海力士計劃將上週透過美國存託憑證（A [&#8230;]",
-      "date": "2026-07-14T03:31:07+00:00",
-      "sourceId": "technews",
-      "cats": [
-        "market",
-        "process",
-        "material"
-      ]
-    },
-    {
-      "id": "c62f83d7c798",
-      "title": "三星、海力士成終極韭菜！高槓桿 38 兆融資引爆韓股史上最大斷頭潮",
-      "link": "https://finance.technews.tw/2026/07/14/margin-call-massacre/",
-      "summary": "韓國綜合指數（KOSPI）今日盤中重挫近 3%，失守 6,800 點大關，面臨來自全球半導體板塊回檔與國內散戶 [&#8230;]",
-      "date": "2026-07-14T03:11:34+00:00",
-      "sourceId": "technews",
-      "cats": [
-        "market",
-        "process",
-        "material"
-      ]
-    },
-    {
-      "id": "9c19886f964d",
-      "title": "AIoT 產業電腦加速落地，長生命週期部署考驗記憶體與儲存可靠性",
-      "link": "https://technews.tw/2026/07/14/aiot-industrial-pc-acceleration-memory-storage-reliability-deployment/",
-      "summary": "當人們談論 AI 時，多數目光總聚焦在 GPU、模型與雲端算力。但真正讓 AI 能夠走進工廠、捷運站、零售門市 [&#8230;]",
-      "date": "2026-07-14T02:42:40+00:00",
-      "sourceId": "technews",
-      "cats": [
-        "market",
-        "process",
-        "material"
-      ]
-    },
-    {
       "id": "857d2a8413b3",
       "title": "Rochester Electronics and Qorvo® Team to Offer Long-Term Availability of RF Components",
       "link": "https://www.eetimes.com/rochester-electronics-and-qorvo-team-to-offer-long-term-availability-of-rf-components/",
@@ -248,19 +196,6 @@
       "link": "https://www.eetimes.com/apples-30b-broadcom-deal-signals-expansions-in-ai-u-s-supply-chain/",
       "summary": "Apple’s $30B Broadcom bet drags AI data centers and U.S. chipmaking into its orbit… and may hand Intel a lifeline. The post Apple’s $30B Broadcom Deal Signals Expansions in AI, U.S. Supply Chain appeared first on EE Times.",
       "date": "2026-07-10T12:50:28+00:00",
-      "sourceId": "eetimes",
-      "cats": [
-        "process",
-        "material",
-        "equipment"
-      ]
-    },
-    {
-      "id": "6066478cc1ee",
-      "title": "Simplifying Intelligent Wireless Design and Security Certification for Healthcare Devices",
-      "link": "https://www.eetimes.com/simplifying-intelligent-wireless-design-and-security-certification-for-healthcare-devices/",
-      "summary": "Join Infineon Technologies and Ezurio for a 60-minute webinar exploring the challenges of designing and certifying secured wireless devices for healthcare applications. The post Simplifying Intelligent Wireless Design and Security Certification for Healthcare Devices appeared first on EE Times.",
-      "date": "2026-07-09T17:32:02+00:00",
       "sourceId": "eetimes",
       "cats": [
         "process",
