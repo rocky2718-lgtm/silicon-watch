@@ -1,6 +1,6 @@
 {
-  "updated": "2026-07-14T10:05:55.966644+00:00",
-  "count": 18,
+  "updated": "2026-07-14T14:03:39.655271+00:00",
+  "count": 16,
   "sources": [
     {
       "id": "technews",
@@ -131,32 +131,6 @@
       "link": "https://finance.technews.tw/2026/07/14/headless-tide/",
       "summary": "貝萊德投信今日舉辦年中全球投資展望，針對全球科技股與新興市場劇烈震盪，韓股因高槓桿與記憶體產業過度集中，罕見觸 [&#8230;]",
       "date": "2026-07-14T06:12:52+00:00",
-      "sourceId": "technews",
-      "cats": [
-        "market",
-        "process",
-        "material"
-      ]
-    },
-    {
-      "id": "f4539c967c5e",
-      "title": "輝達收緊亞洲銷售！買家改採「白名單」幾砍半，嚴防受限晶片再流入中國",
-      "link": "https://technews.tw/2026/07/14/nvidia-halves-asian-ai-chip-buyer-list-amid-tighter-china-screening/",
-      "summary": "彭博社引述消息指出，輝達（Nvidia）亞洲市場大幅收緊 AI 晶片銷售對象，將可購買 AI 晶片的客戶名單縮 [&#8230;]",
-      "date": "2026-07-14T05:40:10+00:00",
-      "sourceId": "technews",
-      "cats": [
-        "market",
-        "process",
-        "material"
-      ]
-    },
-    {
-      "id": "f1cc14ecfd11",
-      "title": "博世斥資 20 億美元在美國首座半導體工廠開始進行樣品生產",
-      "link": "https://finance.technews.tw/2026/07/14/boschs-first-semiconductor-factory-in-the-united-states-begins-sample-production/",
-      "summary": "德國汽車零組件及晶片製造大廠博世（Bosch）宣布，其位於美國的首座半導體工廠已正式開始進行樣品生產。同時，博 [&#8230;]",
-      "date": "2026-07-14T05:30:47+00:00",
       "sourceId": "technews",
       "cats": [
         "market",
