@@ -1,6 +1,6 @@
 {
-  "updated": "2026-07-14T03:18:59.330426+00:00",
-  "count": 22,
+  "updated": "2026-07-14T06:19:22.380416+00:00",
+  "count": 23,
   "sources": [
     {
       "id": "technews",
@@ -61,10 +61,140 @@
   ],
   "articles": [
     {
+      "id": "e16f671a4548",
+      "title": "韓股七次熔斷引爆史上最大斷頭潮！貝萊德投信剖析台股兩大隱藏危機",
+      "link": "https://finance.technews.tw/2026/07/14/headless-tide/",
+      "summary": "貝萊德投信今日舉辦年中全球投資展望，針對全球科技股與新興市場劇烈震盪，韓股因高槓桿與記憶體產業過度集中，罕見觸 [&#8230;]",
+      "date": "2026-07-14T06:12:52+00:00",
+      "sourceId": "technews",
+      "cats": [
+        "market",
+        "process",
+        "material"
+      ]
+    },
+    {
+      "id": "f4539c967c5e",
+      "title": "輝達收緊亞洲銷售！買家改採「白名單」幾砍半，嚴防受限晶片再流入中國",
+      "link": "https://technews.tw/2026/07/14/nvidia-halves-asian-ai-chip-buyer-list-amid-tighter-china-screening/",
+      "summary": "彭博社引述消息指出，輝達（Nvidia）亞洲市場大幅收緊 AI 晶片銷售對象，將可購買 AI 晶片的客戶名單縮 [&#8230;]",
+      "date": "2026-07-14T05:40:10+00:00",
+      "sourceId": "technews",
+      "cats": [
+        "market",
+        "process",
+        "material"
+      ]
+    },
+    {
+      "id": "f1cc14ecfd11",
+      "title": "博世斥資 20 億美元在美國首座半導體工廠開始進行樣品生產",
+      "link": "https://finance.technews.tw/2026/07/14/boschs-first-semiconductor-factory-in-the-united-states-begins-sample-production/",
+      "summary": "德國汽車零組件及晶片製造大廠博世（Bosch）宣布，其位於美國的首座半導體工廠已正式開始進行樣品生產。同時，博 [&#8230;]",
+      "date": "2026-07-14T05:30:47+00:00",
+      "sourceId": "technews",
+      "cats": [
+        "market",
+        "process",
+        "material"
+      ]
+    },
+    {
+      "id": "21a9c3cf54e4",
+      "title": "記憶體飆漲衝擊  中國 3 大智慧手機廠出貨量大減 2 成",
+      "link": "https://technews.tw/2026/07/14/memory-price-surge-china-top-3-smartphone-makers-20-percent-shipment-drop/",
+      "summary": "受記憶體價格飆漲衝擊，小米（Xiaomi）等中國 3 大智慧手機廠上季（4-6 月）全球出貨量大減 2 成，反 [&#8230;]",
+      "date": "2026-07-14T04:30:46+00:00",
+      "sourceId": "technews",
+      "cats": [
+        "market",
+        "process",
+        "material"
+      ]
+    },
+    {
+      "id": "9a2ca4a75865",
+      "title": "美光簽長約挺環球晶  專家：矽晶圓恐成硬體瓶頸",
+      "link": "https://technews.tw/2026/07/14/microns-stake-in-globalwafers-may-be-a-sign-of-another-bottleneck/",
+      "summary": "環球晶宣布與美國記憶體大廠美光（Micron Technology）簽訂 10 年長約、並獲 5 億美元之策略 [&#8230;]",
+      "date": "2026-07-14T04:20:03+00:00",
+      "sourceId": "technews",
+      "cats": [
+        "market",
+        "process",
+        "material"
+      ]
+    },
+    {
+      "id": "714e11b85a6e",
+      "title": "華為跨足 DRAM 製造！借力福建晉華技術，攜昇維旭、地方政府拚供應鏈自主",
+      "link": "https://technews.tw/2026/07/14/china-huawei-jhicc-dram/",
+      "summary": "中國 DRAM 產業近期動作頻頻，除了長鑫存儲積極推進 IPO 計畫並加速擴產外，市場消息傳出，華為也計劃切入 [&#8230;]",
+      "date": "2026-07-14T04:06:55+00:00",
+      "sourceId": "technews",
+      "cats": [
+        "market",
+        "process",
+        "material"
+      ]
+    },
+    {
+      "id": "9fcaec2ea218",
+      "title": "三星記憶體漲價衝擊自家手機部門，新機免費容量升級優惠要付一半價差",
+      "link": "https://finance.technews.tw/2026/07/14/samsungs-memory-price-hikes-impact-its-own-mobile-phone-division/",
+      "summary": "韓國媒體報導，受記憶體半導體價格大幅上漲影響，三星電子自 2023 年起為新機預購推出的 「免費容量升級」（D [&#8230;]",
+      "date": "2026-07-14T04:00:11+00:00",
+      "sourceId": "technews",
+      "cats": [
+        "market",
+        "process",
+        "material"
+      ]
+    },
+    {
+      "id": "632813dc18e9",
+      "title": "通寶上半年營收翻倍逼近 3.2 億元！延攬台積電前高管林俊吉進董事會",
+      "link": "https://finance.technews.tw/2026/07/14/strategic-marketing-expert/",
+      "summary": "通寶半導體公告 6 月合併營收 1.32 億元，月增 108.5%，年增 41.07%，改寫歷史新高；累計今年 [&#8230;]",
+      "date": "2026-07-14T03:42:35+00:00",
+      "sourceId": "technews",
+      "cats": [
+        "market",
+        "process",
+        "material"
+      ]
+    },
+    {
+      "id": "f4749f02c300",
+      "title": "AI 熱潮帶動架構重組，CPU 重返晶片競賽核心",
+      "link": "https://technews.tw/2026/07/14/why-ais-next-chapter-belongs-to-cpus/",
+      "summary": "《日經亞洲》（Nikkei Asia）在最新一期科技 Podcast 中指出，AI 熱潮正帶動 CPU 再度成 [&#8230;]",
+      "date": "2026-07-14T03:40:02+00:00",
+      "sourceId": "technews",
+      "cats": [
+        "market",
+        "process",
+        "material"
+      ]
+    },
+    {
+      "id": "4c0d60f93566",
+      "title": "HBM 漲價動能降溫！繼上週在美掛牌上市，SK 海力士考慮買進韓國公債",
+      "link": "https://finance.technews.tw/2026/07/14/sk-hynix-buy-korean-government-bonds/",
+      "summary": "韓記憶體大廠 SK 海力士正考慮買進韓國政府公債。市場消息先前傳出，SK 海力士計劃將上週透過美國存託憑證（A [&#8230;]",
+      "date": "2026-07-14T03:31:07+00:00",
+      "sourceId": "technews",
+      "cats": [
+        "market",
+        "process",
+        "material"
+      ]
+    },
+    {
       "id": "c62f83d7c798",
       "title": "三星、海力士成終極韭菜！高槓桿 38 兆融資引爆韓股史上最大斷頭潮",
       "link": "https://finance.technews.tw/2026/07/14/margin-call-massacre/",
-      "summary": "南韓綜合指數（KOSPI）今日盤中重挫近 3%，失守 6800 點大關，面臨來自全球半導體板塊回檔與國內散戶高 [&#8230;]",
+      "summary": "韓國綜合指數（KOSPI）今日盤中重挫近 3%，失守 6,800 點大關，面臨來自全球半導體板塊回檔與國內散戶 [&#8230;]",
       "date": "2026-07-14T03:11:34+00:00",
       "sourceId": "technews",
       "cats": [
@@ -79,123 +209,6 @@
       "link": "https://technews.tw/2026/07/14/aiot-industrial-pc-acceleration-memory-storage-reliability-deployment/",
       "summary": "當人們談論 AI 時，多數目光總聚焦在 GPU、模型與雲端算力。但真正讓 AI 能夠走進工廠、捷運站、零售門市 [&#8230;]",
       "date": "2026-07-14T02:42:40+00:00",
-      "sourceId": "technews",
-      "cats": [
-        "market",
-        "process",
-        "material"
-      ]
-    },
-    {
-      "id": "2878926140c4",
-      "title": "聯電矽光子布局進入新里程，攜手 SILITH 交貨首批量產矽光子晶圓",
-      "link": "https://technews.tw/2026/07/14/umc-and-silith-complete-the-first-batch-of-mass-produced-silicon-photonic-wafers-delivery/",
-      "summary": "聯電與 SILITH 共同宣布，聯電新加坡晶圓廠完成首批量產矽光子晶圓交貨，象徵雙方合作邁入量產新里程碑，並進 [&#8230;]",
-      "date": "2026-07-14T02:30:12+00:00",
-      "sourceId": "technews",
-      "cats": [
-        "market",
-        "process",
-        "material"
-      ]
-    },
-    {
-      "id": "ec2933374e07",
-      "title": "記憶體供應趨緊，調研：2026 年第二季全球智慧手機出貨年減 11%",
-      "link": "https://finance.technews.tw/2026/07/14/q226-global-smartphone-shipment/",
-      "summary": "據調研機構 Counterpoint Research《智慧型手機市場監測》初步統計，2026 年第二季全球智 [&#8230;]",
-      "date": "2026-07-14T02:29:58+00:00",
-      "sourceId": "technews",
-      "cats": [
-        "market",
-        "process",
-        "material"
-      ]
-    },
-    {
-      "id": "614c1fe02530",
-      "title": "台積電法說倒數！外資齊喊買、最高衝上 3,800 元，價格重點一次看",
-      "link": "https://technews.tw/2026/07/14/foreign-investors-see-tsmc-2026-q2-and-capex/",
-      "summary": "隨著台積電法說會將於週四（16 日）登場，多間外資和法人已經發布最新報告，並調高目標價，價格介於 2,888 [&#8230;]",
-      "date": "2026-07-14T02:14:40+00:00",
-      "sourceId": "technews",
-      "cats": [
-        "market",
-        "process",
-        "material"
-      ]
-    },
-    {
-      "id": "5ee6e005e81b",
-      "title": "特斯拉 AI5 完成 Tape-out，三星 2 奈米即將量產",
-      "link": "https://technews.tw/2026/07/14/tesla-ai5-tape-out-samsung-2/",
-      "summary": "根據 Tom&#8217;s Hardware 報導，特斯拉下一代 AI5 晶片即將進入量產階段。根據外媒報導 [&#8230;]",
-      "date": "2026-07-14T02:08:38+00:00",
-      "sourceId": "technews",
-      "cats": [
-        "market",
-        "process",
-        "material"
-      ]
-    },
-    {
-      "id": "3c46042403d0",
-      "title": "載板成記憶體後第二大漲價零組件！外資喊買南電目標價上看 2,444 元",
-      "link": "https://finance.technews.tw/2026/07/14/price-increase-components/",
-      "summary": "受惠於載板價格漲幅擴大，以及競爭環境顯著改善，南電財務表現快速躍升，外資出具最新研究報告指出，受到成本通膨環境 [&#8230;]",
-      "date": "2026-07-14T01:51:19+00:00",
-      "sourceId": "technews",
-      "cats": [
-        "market",
-        "process",
-        "material"
-      ]
-    },
-    {
-      "id": "27af97389aff",
-      "title": "記憶體暴漲 6 倍的代價！AI 排擠效應浮現，全球電子裝置出貨恐狂減 2 億台",
-      "link": "https://technews.tw/2026/07/14/ai-driven-chipflation-puts-chill-on-electronics-purchases/",
-      "summary": "AI 投資熱潮正將記憶體晶片價格推向新高，並開始反噬消費性電子市場。根據最新消息，記憶體價格已飆升至原先的六倍 [&#8230;]",
-      "date": "2026-07-14T01:50:30+00:00",
-      "sourceId": "technews",
-      "cats": [
-        "market",
-        "process",
-        "material"
-      ]
-    },
-    {
-      "id": "56a2ba87f2ad",
-      "title": "輝達吳新宙：汽車業邁向「AI 定義車輛」，Level 4 大眾化五年內實現",
-      "link": "https://technews.tw/2026/07/14/even-nvidias-head-of-automotive-fights-with-nvidia-for-compute/",
-      "summary": "輝達（NVIDIA）汽車業務副總裁吳新宙（Xinzhou Wu）近日在受訪時表示，汽車產業正從「軟體定義車輛」 [&#8230;]",
-      "date": "2026-07-14T01:20:21+00:00",
-      "sourceId": "technews",
-      "cats": [
-        "market",
-        "process",
-        "material"
-      ]
-    },
-    {
-      "id": "940c15262195",
-      "title": "AI 旺促稅收增，韓國規劃明年預算支出創新高 17 兆餘元",
-      "link": "https://finance.technews.tw/2026/07/14/s-korea-flags-record-2027-budget-of-over-530-billion-as-ai-chip-boom-lifts-revenues/",
-      "summary": "韓國政府 13 日表示，鑒於人工智慧（AI）晶片產業蓬勃發展帶來的稅收增加，預計提議的 2027 財政年度預算 [&#8230;]",
-      "date": "2026-07-14T00:40:03+00:00",
-      "sourceId": "technews",
-      "cats": [
-        "market",
-        "process",
-        "material"
-      ]
-    },
-    {
-      "id": "d30114b86500",
-      "title": "記憶體飆漲、日圓貶  日本二手智慧手機銷量破紀錄",
-      "link": "https://technews.tw/2026/07/14/japan-record-used-smartphone-sales-memory-prices-surge-yen-depreciates/",
-      "summary": "記憶體價格飆漲、日圓走貶，導致全新智慧手機（新機）價格揚升，帶動價格相對低廉的二手智慧手機需求增加，日本二手智 [&#8230;]",
-      "date": "2026-07-14T00:10:15+00:00",
       "sourceId": "technews",
       "cats": [
         "market",
