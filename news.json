@@ -1,6 +1,6 @@
 {
-  "updated": "2026-07-15T19:23:59.604453+00:00",
-  "count": 20,
+  "updated": "2026-07-15T21:09:19.307074+00:00",
+  "count": 19,
   "sources": [
     {
       "id": "technews",
@@ -62,9 +62,9 @@
   "articles": [
     {
       "id": "d18c02aefa6c",
-      "title": "TYL Semi De-Risks Chiplets With New Business Model",
+      "title": "TYLsemi De-Risks Chiplets With New Business Model",
       "link": "https://www.eetimes.com/tyl-semi-de-risks-chiplets-with-new-business-model/",
-      "summary": "Startup TYL Semi wants to address the gap between ASIC houses and design services, taking on the risk of developing large chiplet-based chips for AI infrastructure customers. The post TYL Semi De-Risks Chiplets With New Business Model appeared first on EE Times.",
+      "summary": "Startup TYLsemi wants to address the gap between ASIC houses and design services, taking on the risk of developing large chiplet-based chips for AI infrastructure customers. The post TYLsemi De-Risks Chiplets With New Business Model appeared first on EE Times.",
       "date": "2026-07-15T19:00:00+00:00",
       "sourceId": "eetimes",
       "cats": [
@@ -209,19 +209,6 @@
       "link": "https://www.eetimes.com/spain-semiconductor-industry-convenes-to-forge-domestic-alliances/",
       "summary": "AESEMI holds the first semiconductor MatchMaking day in Spain to forge new alliances and consolidate the ecosystem. The post Spain Semiconductor Industry Convenes to Forge Domestic Alliances appeared first on EE Times.",
       "date": "2026-07-14T07:32:41+00:00",
-      "sourceId": "eetimes",
-      "cats": [
-        "process",
-        "material",
-        "equipment"
-      ]
-    },
-    {
-      "id": "857d2a8413b3",
-      "title": "Rochester Electronics and Qorvo® Team to Offer Long-Term Availability of RF Components",
-      "link": "https://www.eetimes.com/rochester-electronics-and-qorvo-team-to-offer-long-term-availability-of-rf-components/",
-      "summary": "NEWBURYPORT, MA – July 2026 Rochester Electronics, LLC, a premier continuous source of authorized semiconductors, and Qorvo®, a leading global provider of connectivity and power solutions, today announced the completion of a worldwide distribution agreement.&#160; This collaboration significantly ex",
-      "date": "2026-07-13T17:30:08+00:00",
       "sourceId": "eetimes",
       "cats": [
         "process",
