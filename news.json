@@ -1,6 +1,6 @@
 {
-  "updated": "2026-07-15T06:23:07.212851+00:00",
-  "count": 23,
+  "updated": "2026-07-15T10:10:07.146430+00:00",
+  "count": 19,
   "sources": [
     {
       "id": "technews",
@@ -61,6 +61,58 @@
   ],
   "articles": [
     {
+      "id": "20de7dcf5bd6",
+      "title": "AI 帶旺第三類半導體，台灣上游材料廠迎新商機",
+      "link": "https://technews.tw/2026/07/15/ai-boosts-third-generation-semiconductors-taiwan-upstream-materials-new-opportunities/",
+      "summary": "AI 伺服器 GPU 功耗持續攀升，資料中心正朝兆瓦（MW）級機櫃發展，推動供電架構由傳統低壓系統逐步升級至 [&#8230;]",
+      "date": "2026-07-15T09:38:53+00:00",
+      "sourceId": "technews",
+      "cats": [
+        "market",
+        "process",
+        "material"
+      ]
+    },
+    {
+      "id": "8e8f296b22d5",
+      "title": "SK 海力士 12 層堆疊 HBM4 極速量產，市場估穩拿輝達逾六成供貨占比",
+      "link": "https://finance.technews.tw/2026/07/15/sk-hynix-achieves-rapid-mass-production-of-12-layer-stacked-hbm4-chips/",
+      "summary": "市場消息指出，SK海力士已正式啟動針對輝達（NVIDIA）的12層堆疊HBM4量產出貨，產品目前已進入產能提升 [&#8230;]",
+      "date": "2026-07-15T08:40:27+00:00",
+      "sourceId": "technews",
+      "cats": [
+        "market",
+        "process",
+        "material"
+      ]
+    },
+    {
+      "id": "fc0f932a162c",
+      "title": "博通從史高摔 2 成  大摩：聯發科搶食 TPU 疑慮過頭",
+      "link": "https://technews.tw/2026/07/15/broadcom-drops-20-as-market-overreacts/",
+      "summary": "博通（Broadcom）近來股價雖因聯發科搶食 Google 的張量處理器（TPU）訂單、市場資金追逐供給陷入 [&#8230;]",
+      "date": "2026-07-15T07:00:50+00:00",
+      "sourceId": "technews",
+      "cats": [
+        "market",
+        "process",
+        "material"
+      ]
+    },
+    {
+      "id": "b6f7e49a28f6",
+      "title": "AMD 也下單？傳英特爾 18A 良率升、贏多筆設計訂單",
+      "link": "https://technews.tw/2026/07/15/intel-18a-yield-rate-improves-secures-multiple-design-orders/",
+      "summary": "市場傳出，隨著先進製程 18A 良率提升至 85%，英特爾（Intel）已奪得超微（AMD）、輝達（Nvidi [&#8230;]",
+      "date": "2026-07-15T06:50:18+00:00",
+      "sourceId": "technews",
+      "cats": [
+        "market",
+        "process",
+        "material"
+      ]
+    },
+    {
       "id": "fda44ef8c7cd",
       "title": "ASML 宣布英特爾採用 High NA EUV 的 Intel 18A 製程進入高量產階段",
       "link": "https://finance.technews.tw/2026/07/15/asml-announced-that-intels-18a-advanced-process-utilizing-high-na-euv-technology-has-entered-high-volume-production/",
@@ -105,110 +157,6 @@
       "link": "https://finance.technews.tw/2026/07/15/cxmt-is-set-to-launch-its-public-offering-on-july-16/",
       "summary": "備受市場矚目的中國記憶體大廠長鑫存儲 (CXMT) 上市案終於塵埃落定。長鑫存儲 14 日晚間公告首次公開發行 [&#8230;]",
       "date": "2026-07-15T05:15:37+00:00",
-      "sourceId": "technews",
-      "cats": [
-        "market",
-        "process",
-        "material"
-      ]
-    },
-    {
-      "id": "37b5b9777350",
-      "title": "川普投資帳戶賣出美光買入輝達，記憶體前景承壓？",
-      "link": "https://finance.technews.tw/2026/07/15/trumps-investment-account-sold-micron-and-bought-nvidia/",
-      "summary": "美國政府道德辦公室的最新披露，美國總統川普的投資帳戶截至 5 月底投資，持股已經調整，美光科技（Micron [&#8230;]",
-      "date": "2026-07-15T05:00:54+00:00",
-      "sourceId": "technews",
-      "cats": [
-        "market",
-        "process",
-        "material"
-      ]
-    },
-    {
-      "id": "6ca9f9e68021",
-      "title": "輝達、三菱重工傳攜手研發 AI 資料中心技術",
-      "link": "https://finance.technews.tw/2026/07/15/nvidia-wz-mitsubishi-heavy-industries/",
-      "summary": "美國輝達（Nvidia）、日本三菱重工業（Mitsubishi Heavy Industries）傳出將合作研 [&#8230;]",
-      "date": "2026-07-15T04:20:10+00:00",
-      "sourceId": "technews",
-      "cats": [
-        "market",
-        "process",
-        "material"
-      ]
-    },
-    {
-      "id": "1897120912c0",
-      "title": "中國鎖定荷蘭主要戰略產業，荷智庫點名 ASML、恩智浦成施壓對象",
-      "link": "https://technews.tw/2026/07/15/china-asml-hcss/",
-      "summary": "一份最新研究報告指出，中國利用經濟手段與間諜活動，鎖定荷蘭的戰略產業，目的是建立系統性依賴關係，並鞏固北京在全 [&#8230;]",
-      "date": "2026-07-15T03:59:20+00:00",
-      "sourceId": "technews",
-      "cats": [
-        "market",
-        "process",
-        "material"
-      ]
-    },
-    {
-      "id": "7187c6f392d1",
-      "title": "三星健康 AI 訓練新規定：若拒絕授權，雲端健康資料恐全刪除",
-      "link": "https://infosecu.technews.tw/2026/07/15/samsung-health-threatens-to-delete-your-data-if-you-opt-out-of-ai-training/",
-      "summary": "三星健康（Samsung Health）近日更新隱私設定，部分用戶會彈出新同意選項，要求允許健康資料用於 AI [&#8230;]",
-      "date": "2026-07-15T03:50:32+00:00",
-      "sourceId": "technews",
-      "cats": [
-        "market",
-        "process",
-        "material"
-      ]
-    },
-    {
-      "id": "0a0217bdc039",
-      "title": "先進產能全給 AI 伺服器！英特爾 AMD 用舊 CPU 重返 PC 市場，消費者受惠有限",
-      "link": "https://technews.tw/2026/07/15/intel-amd-legacy-cpus-show-up-in-new-pc-builds-as-they-prioritize-server-market/",
-      "summary": "Susquehanna 研究指出，2026 年 PC 組裝市場出現明顯變化：英特爾與 AMD 較舊款 CPU [&#8230;]",
-      "date": "2026-07-15T03:10:42+00:00",
-      "sourceId": "technews",
-      "cats": [
-        "market",
-        "process",
-        "material"
-      ]
-    },
-    {
-      "id": "052a8170683a",
-      "title": "台積電產能滿載效應浮現，三星傳搶下 Anthropic AI 晶片代工",
-      "link": "https://technews.tw/2026/07/15/samsung-might-be-antrophic-customer/",
-      "summary": "AI 晶片需求持續爆發，市場傳出三星電子可望取得 AI 新創 Anthropic 的 AI 晶片代工訂單。法人 [&#8230;]",
-      "date": "2026-07-15T03:05:15+00:00",
-      "sourceId": "technews",
-      "cats": [
-        "market",
-        "process",
-        "material"
-      ]
-    },
-    {
-      "id": "5881941d274b",
-      "title": "對安世控制權仍受限，聞泰科技估 H1 虧損逾 4 億人幣",
-      "link": "https://finance.technews.tw/2026/07/15/wingtech-expects-h1-loss-exceeding-rmb-400-million/",
-      "summary": "綜合中媒報導，中國半導體生產商聞泰科技發布業績預告，預計 2026 年上半年歸屬於母公司淨利潤為虧損 4 億元 [&#8230;]",
-      "date": "2026-07-15T02:40:53+00:00",
-      "sourceId": "technews",
-      "cats": [
-        "market",
-        "process",
-        "material"
-      ]
-    },
-    {
-      "id": "06b61696beea",
-      "title": "實際產能僅計畫 1/6？美銀估 SK 海力士擴產進度落後，2030 年翻倍目標受挑戰",
-      "link": "https://technews.tw/2026/07/15/sk-hynix-memory-capacity-2028/",
-      "summary": "美國銀行發布一份最新報告，指出 SK 海力士到 2028 年實際新增的記憶體產能，可能僅達原先規畫的六分之一， [&#8230;]",
-      "date": "2026-07-15T02:39:14+00:00",
       "sourceId": "technews",
       "cats": [
         "market",
