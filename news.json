@@ -1,6 +1,6 @@
 {
-  "updated": "2026-07-15T21:09:19.307074+00:00",
-  "count": 19,
+  "updated": "2026-07-15T23:04:24.125744+00:00",
+  "count": 20,
   "sources": [
     {
       "id": "technews",
@@ -60,6 +60,45 @@
     }
   ],
   "articles": [
+    {
+      "id": "194a562ad7e4",
+      "title": "代理式 AI 改革 EDA 技術，衝刺 L4 / L5 自動化與 Multiphysics 鎔鑄",
+      "link": "https://technews.tw/2026/07/16/agentic-ai-eda-technology-innovation-accelerating-l4-l5-autonomy-multiphysics-fusion/",
+      "summary": "先進製程與異質整合雙重夾擊下，傳統極度仰賴資深工程師「直覺與經驗」的閉門下線模式，已成為拉長晶片上市時間與吞噬 [&#8230;]",
+      "date": "2026-07-15T23:00:32+00:00",
+      "sourceId": "technews",
+      "cats": [
+        "market",
+        "process",
+        "material"
+      ]
+    },
+    {
+      "id": "39ded308a7a2",
+      "title": "ASML 賺到盆滿缽滿還要漲價，最大客戶台積電強烈反對",
+      "link": "https://finance.technews.tw/2026/07/16/asml-plans-to-raise-prices-but-its-largest-customer-tsmc-strongly-opposes-it/",
+      "summary": "全球AI浪潮持續席捲，帶動半導體供應鏈迎來空前榮景。然而，在產業鏈的最頂端，一場攸關全球科技終端成本的定價角力 [&#8230;]",
+      "date": "2026-07-15T23:00:03+00:00",
+      "sourceId": "technews",
+      "cats": [
+        "market",
+        "process",
+        "material"
+      ]
+    },
+    {
+      "id": "99b893ec4669",
+      "title": "黃仁勳感念 30 年前救命情誼，多款 SEGA 大作將全面導入 NVIDIA RTX Spark",
+      "link": "https://ccc.technews.tw/2026/07/16/jensen-huang-cherishes-the-memory-of-being-saved-30-years-ago/",
+      "summary": "輝達 (NVIDIA) 宣布，為慶祝與日本遊戲大廠 SEGA（世嘉）長達三十年的創新合作，將把即將推出的《擬真 [&#8230;]",
+      "date": "2026-07-15T22:00:24+00:00",
+      "sourceId": "technews",
+      "cats": [
+        "market",
+        "process",
+        "material"
+      ]
+    },
     {
       "id": "d18c02aefa6c",
       "title": "TYLsemi De-Risks Chiplets With New Business Model",
@@ -157,32 +196,6 @@
       "link": "https://technews.tw/2026/07/15/intel-18a-yield-rate-improves-secures-multiple-design-orders/",
       "summary": "市場傳出，隨著先進製程 18A 良率提升至 85%，英特爾（Intel）已奪得超微（AMD）、輝達（Nvidi [&#8230;]",
       "date": "2026-07-15T06:50:18+00:00",
-      "sourceId": "technews",
-      "cats": [
-        "market",
-        "process",
-        "material"
-      ]
-    },
-    {
-      "id": "fda44ef8c7cd",
-      "title": "ASML 宣布英特爾採用 High NA EUV 的 Intel 18A 製程進入高量產階段",
-      "link": "https://finance.technews.tw/2026/07/15/asml-announced-that-intels-18a-advanced-process-utilizing-high-na-euv-technology-has-entered-high-volume-production/",
-      "summary": "半導體微影設備大廠艾司摩爾 （ASML） 發布聲明表示，英特爾晶圓代工 （Intel Foundry） 已成功 [&#8230;]",
-      "date": "2026-07-15T05:50:43+00:00",
-      "sourceId": "technews",
-      "cats": [
-        "market",
-        "process",
-        "material"
-      ]
-    },
-    {
-      "id": "e5de3bd44c92",
-      "title": "告別傳統漫長研發！英矽智能結盟保瑞藥業迎 AI 製藥全鏈條革命",
-      "link": "https://finance.technews.tw/2026/07/15/pharma-ai/",
-      "summary": "英矽智能今日宣布與保瑞藥業達成戰略合作聯盟，主要建立在廣泛的、多面向合作框架之上，具體合作內容將由雙方進一步討 [&#8230;]",
-      "date": "2026-07-15T05:42:00+00:00",
       "sourceId": "technews",
       "cats": [
         "market",
