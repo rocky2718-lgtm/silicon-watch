@@ -1,6 +1,6 @@
 {
-  "updated": "2026-07-15T14:00:41.254339+00:00",
-  "count": 20,
+  "updated": "2026-07-15T17:25:19.718182+00:00",
+  "count": 19,
   "sources": [
     {
       "id": "technews",
@@ -170,19 +170,6 @@
       "link": "https://finance.technews.tw/2026/07/15/pharma-ai/",
       "summary": "英矽智能今日宣布與保瑞藥業達成戰略合作聯盟，主要建立在廣泛的、多面向合作框架之上，具體合作內容將由雙方進一步討 [&#8230;]",
       "date": "2026-07-15T05:42:00+00:00",
-      "sourceId": "technews",
-      "cats": [
-        "market",
-        "process",
-        "material"
-      ]
-    },
-    {
-      "id": "e1995e8d0958",
-      "title": "ASML 第二季營收及淨利均優於市場預期，調升全年預估營收金額還積極擴產",
-      "link": "https://finance.technews.tw/2026/07/15/asmls-second-quarter-revenue-and-net-profit-both-exceeded-market-expectations/",
-      "summary": "荷蘭半導體設備大廠艾司摩爾 (ASML) 公布 2026 年第二季財報。受惠於優於預期的服務營收，該季表現 [&#8230;]",
-      "date": "2026-07-15T05:40:51+00:00",
       "sourceId": "technews",
       "cats": [
         "market",
