@@ -1,6 +1,6 @@
 {
-  "updated": "2026-07-15T10:10:07.146430+00:00",
-  "count": 19,
+  "updated": "2026-07-15T14:00:41.254339+00:00",
+  "count": 20,
   "sources": [
     {
       "id": "technews",
@@ -60,6 +60,45 @@
     }
   ],
   "articles": [
+    {
+      "id": "9f55f3cb1d6b",
+      "title": "Why TL3228 Is the Go-To Standard Chip Powering True 8K Wireless Gaming Peripherals",
+      "link": "https://www.eetimes.com/why-tl3228-is-the-go-to-standard-chip-powering-true-8k-wireless-gaming-peripherals/",
+      "summary": "The TL3228 integrates a dual-core RISC-V processor consisting of a high-performance D25F core and an energy-efficient N22 core. The post Why TL3228 Is the Go-To Standard Chip Powering True 8K Wireless Gaming Peripherals appeared first on EE Times.",
+      "date": "2026-07-15T13:00:00+00:00",
+      "sourceId": "eetimes",
+      "cats": [
+        "process",
+        "material",
+        "equipment"
+      ]
+    },
+    {
+      "id": "878fd59652ef",
+      "title": "Massive Stock, Full-Chain Service — Your Global Semiconductor Partner",
+      "link": "https://www.eetimes.com/massive-stock-full-chain-service-your-global-semiconductor-partner/",
+      "summary": "Discover how New Ideas Industrial can stabilize your semiconductor supply chain for AI, storage, and UAV applications. The post Massive Stock, Full-Chain Service — Your Global Semiconductor Partner appeared first on EE Times.",
+      "date": "2026-07-15T13:00:00+00:00",
+      "sourceId": "eetimes",
+      "cats": [
+        "process",
+        "material",
+        "equipment"
+      ]
+    },
+    {
+      "id": "d28d830182a4",
+      "title": "After Magdeburg, Intel Builds on Ireland’s Existing Strength",
+      "link": "https://www.eetimes.com/after-magdeburg-intel-builds-on-ireland-existing-strength/",
+      "summary": "Leixlip cannot replace Magdeburg, but it shows the value of expanding where fabs, demand, and ecosystems already exist. The post After Magdeburg, Intel Builds on Ireland’s Existing Strength appeared first on EE Times.",
+      "date": "2026-07-15T11:24:18+00:00",
+      "sourceId": "eetimes",
+      "cats": [
+        "process",
+        "material",
+        "equipment"
+      ]
+    },
     {
       "id": "20de7dcf5bd6",
       "title": "AI 帶旺第三類半導體，台灣上游材料廠迎新商機",
@@ -152,19 +191,6 @@
       ]
     },
     {
-      "id": "a18816ad5662",
-      "title": "長鑫存儲敲定 7/16 公開發行，發行定價每股 8.66 人民幣",
-      "link": "https://finance.technews.tw/2026/07/15/cxmt-is-set-to-launch-its-public-offering-on-july-16/",
-      "summary": "備受市場矚目的中國記憶體大廠長鑫存儲 (CXMT) 上市案終於塵埃落定。長鑫存儲 14 日晚間公告首次公開發行 [&#8230;]",
-      "date": "2026-07-15T05:15:37+00:00",
-      "sourceId": "technews",
-      "cats": [
-        "market",
-        "process",
-        "material"
-      ]
-    },
-    {
       "id": "52290d0a89fd",
       "title": "Electronic Design Industry Rides Chip Wave, APAC Leads Q1 2026 Growth",
       "link": "https://www.eetimes.com/electronic-design-industry-rides-chip-wave-apac-leads-q1-2026-growth/",
@@ -196,19 +222,6 @@
       "link": "https://www.eetimes.com/rochester-electronics-and-qorvo-team-to-offer-long-term-availability-of-rf-components/",
       "summary": "NEWBURYPORT, MA – July 2026 Rochester Electronics, LLC, a premier continuous source of authorized semiconductors, and Qorvo®, a leading global provider of connectivity and power solutions, today announced the completion of a worldwide distribution agreement.&#160; This collaboration significantly ex",
       "date": "2026-07-13T17:30:08+00:00",
-      "sourceId": "eetimes",
-      "cats": [
-        "process",
-        "material",
-        "equipment"
-      ]
-    },
-    {
-      "id": "2c5bc17613b0",
-      "title": "ITF World 2026: The Semiconductor Industry Enters a New Systems Era",
-      "link": "https://www.eetimes.com/itf-world-2026-the-semiconductor-industry-enters-a-new-systems-era/",
-      "summary": "AI, heterogeneous integration, silicon photonics, chiplets, and quantum computing are converging to define the next generation of complex systems. The post ITF World 2026: The Semiconductor Industry Enters a New Systems Era appeared first on EE Times.",
-      "date": "2026-07-13T07:51:30+00:00",
       "sourceId": "eetimes",
       "cats": [
         "process",
