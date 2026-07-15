@@ -1,6 +1,6 @@
 {
-  "updated": "2026-07-15T17:25:19.718182+00:00",
-  "count": 19,
+  "updated": "2026-07-15T19:23:59.604453+00:00",
+  "count": 20,
   "sources": [
     {
       "id": "technews",
@@ -60,6 +60,19 @@
     }
   ],
   "articles": [
+    {
+      "id": "d18c02aefa6c",
+      "title": "TYL Semi De-Risks Chiplets With New Business Model",
+      "link": "https://www.eetimes.com/tyl-semi-de-risks-chiplets-with-new-business-model/",
+      "summary": "Startup TYL Semi wants to address the gap between ASIC houses and design services, taking on the risk of developing large chiplet-based chips for AI infrastructure customers. The post TYL Semi De-Risks Chiplets With New Business Model appeared first on EE Times.",
+      "date": "2026-07-15T19:00:00+00:00",
+      "sourceId": "eetimes",
+      "cats": [
+        "process",
+        "material",
+        "equipment"
+      ]
+    },
     {
       "id": "9f55f3cb1d6b",
       "title": "Why TL3228 Is the Go-To Standard Chip Powering True 8K Wireless Gaming Peripherals",
