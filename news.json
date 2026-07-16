@@ -1,6 +1,6 @@
 {
-  "updated": "2026-07-16T03:25:35.461739+00:00",
-  "count": 23,
+  "updated": "2026-07-16T06:26:41.646241+00:00",
+  "count": 19,
   "sources": [
     {
       "id": "technews",
@@ -61,6 +61,58 @@
   ],
   "articles": [
     {
+      "id": "f49dd7e5d5fd",
+      "title": "台積電第二季營收、淨利均超標，EPS 達 27.25 元創新高，每天淨賺近 80 億元",
+      "link": "https://finance.technews.tw/2026/07/16/tsmcs-second-quarter-revenue-and-net-profit-both-exceeded-expectations/",
+      "summary": "台積電 16 日舉行 2026 年第二季法人說明會，並公布財報。受惠於市場強勁需求與先進製程持續發威，台積電第 [&#8230;]",
+      "date": "2026-07-16T05:50:35+00:00",
+      "sourceId": "technews",
+      "cats": [
+        "market",
+        "process",
+        "material"
+      ]
+    },
+    {
+      "id": "fd37f69246ed",
+      "title": "長鑫存儲 IPO 引市場疑慮，SK 海力士先倒、台記憶體股跟跌",
+      "link": "https://technews.tw/2026/07/16/cxmt-ipo-2/",
+      "summary": "中國最大 DRAM 製造商長鑫存儲（CXMT）啟動約 86 億美元（約新台幣 2,770 億元）首次公開募股（ [&#8230;]",
+      "date": "2026-07-16T04:54:38+00:00",
+      "sourceId": "technews",
+      "cats": [
+        "market",
+        "process",
+        "material"
+      ]
+    },
+    {
+      "id": "5c7c46f7ce9a",
+      "title": "美國 ITC 對三星電子、Google、輝達、博通等七家 DRAM 相關公司啟動 337 調查",
+      "link": "https://technews.tw/2026/07/16/the-u-s-international-criminal-court-itc-has-launched-a-section-337-investigation-into-seven-dram-related-companies/",
+      "summary": "美國國際貿易委員會（USITC）於 2026 年 7 月 15 日正式宣布，將針對特定動態隨機存取記憶體（DR [&#8230;]",
+      "date": "2026-07-16T03:50:12+00:00",
+      "sourceId": "technews",
+      "cats": [
+        "market",
+        "process",
+        "material"
+      ]
+    },
+    {
+      "id": "7ce19b7af91f",
+      "title": "蘋果 AI 終於跨過中國監管，有望成當地市場 iPhone 18 Pro 換機誘因",
+      "link": "https://technews.tw/2026/07/16/apple-intelligence-in-china-2/",
+      "summary": "Apple Intelligence 在中國市場的推進終於傳出重大進展，據最新爆料指稱，Apple Intel [&#8230;]",
+      "date": "2026-07-16T03:45:44+00:00",
+      "sourceId": "technews",
+      "cats": [
+        "market",
+        "process",
+        "material"
+      ]
+    },
+    {
       "id": "c5e192f58546",
       "title": "長鑫存儲上市募資 579 億人民幣！推進下一階段 DRAM 與產能布局",
       "link": "https://technews.tw/2026/07/16/trendforce-counterpoint-see-cxmt-ipo/",
@@ -79,110 +131,6 @@
       "link": "https://technews.tw/2026/07/16/intels-emib-packaging-gains-traction-as-chip-designers-look-to-skirt-tsmcs-cowos-constraints/",
       "summary": "外媒與研究機構報告，Google 傳出下代 TPU「Humufish」改採英特爾 EMIB-T 先進封裝，若消 [&#8230;]",
       "date": "2026-07-16T02:10:00+00:00",
-      "sourceId": "technews",
-      "cats": [
-        "market",
-        "process",
-        "material"
-      ]
-    },
-    {
-      "id": "75d7ba34c4e5",
-      "title": "川崎重工傳攜手輝達、打造 AI 造船廠  股價逆漲",
-      "link": "https://technews.tw/2026/07/16/nvidia-kawasaki-heavy-to-build-robot-equipped-ai-shipyard-in-japan/",
-      "summary": "日本川崎重工業（Kawasaki Heavy Industries，KHI）傳出將和輝達（Nvidia）合作， [&#8230;]",
-      "date": "2026-07-16T01:40:16+00:00",
-      "sourceId": "technews",
-      "cats": [
-        "market",
-        "process",
-        "material"
-      ]
-    },
-    {
-      "id": "cb71b8ff1b43",
-      "title": "外資看好 AI 電力革命，台達電 Power Rack、SST 雙引擎啟動",
-      "link": "https://finance.technews.tw/2026/07/16/power-rack-sst-ai-infrastucre/",
-      "summary": "AI 資料中心持續朝兆瓦（MW）級機櫃發展，歐系券商最新報告指出，隨輝達（NVIDIA）Rubin 平台於第四 [&#8230;]",
-      "date": "2026-07-16T01:37:18+00:00",
-      "sourceId": "technews",
-      "cats": [
-        "market",
-        "process",
-        "material"
-      ]
-    },
-    {
-      "id": "0aa97ac8846d",
-      "title": "傳蘋果尋求收購晶片公司，強化 AI 伺服器實力",
-      "link": "https://technews.tw/2026/07/16/apple-hunts-for-ai-chip-acquisitions/",
-      "summary": "美國科技新聞媒體 The Information 今天引述知情人士的話報導，科技巨擘蘋果（Apple）正在尋求 [&#8230;]",
-      "date": "2026-07-16T01:30:01+00:00",
-      "sourceId": "technews",
-      "cats": [
-        "market",
-        "process",
-        "material"
-      ]
-    },
-    {
-      "id": "6e9ac5f20d22",
-      "title": "高盛下修穎崴目標價到 13,000 元，股價仍有上漲空間給予買進評等",
-      "link": "https://finance.technews.tw/2026/07/16/goldman-sachs-lowered-its-target-price-for-winway-to-13000-yuan/",
-      "summary": "外資高盛證券於最新發布的研究報告中指出，半導體測試介面解決方案廠商穎崴科技 6 月份財報獲利表現低於預期，主要 [&#8230;]",
-      "date": "2026-07-16T01:15:20+00:00",
-      "sourceId": "technews",
-      "cats": [
-        "market",
-        "process",
-        "material"
-      ]
-    },
-    {
-      "id": "4097a807fe06",
-      "title": "印度核准半導體 2.0 計畫，投入逾 4 千億元推國產晶片",
-      "link": "https://finance.technews.tw/2026/07/16/india-approves-semiconductor-2-0-plan-over-400-billion-rupees-domestic-chips/",
-      "summary": "印度政府 15 日核准新的半導體計畫，將提供超過 133 億美元（約新台幣 4,282 億元）的財務支援，來加 [&#8230;]",
-      "date": "2026-07-16T00:50:37+00:00",
-      "sourceId": "technews",
-      "cats": [
-        "market",
-        "process",
-        "material"
-      ]
-    },
-    {
-      "id": "ade076309483",
-      "title": "黃仁勳訪日：對 Rapidus 未來發展潛力高度期待",
-      "link": "https://technews.tw/2026/07/16/jensen-huang-japan-rapidus-future-potential-expectations/",
-      "summary": "輝達（Nvidia）CEO 黃仁勳睽違約 9 個月來（2025年10月以來）、於 15 日再度訪問日本，稱日本 [&#8230;]",
-      "date": "2026-07-16T00:40:18+00:00",
-      "sourceId": "technews",
-      "cats": [
-        "market",
-        "process",
-        "material"
-      ]
-    },
-    {
-      "id": "460521d8bd4a",
-      "title": "長鑫存儲八年不領薪資！放下兆易創新再創業，朱一明如何用 20 年撐起中國記憶體夢？",
-      "link": "https://finance.technews.tw/2026/07/16/cxmt-ipo-story/",
-      "summary": "中國記憶體大廠長鑫存儲即將於上海科創板上市，成為市場矚目焦點。不只因為 IPO 規模龐大，創辦人朱一明在 20 [&#8230;]",
-      "date": "2026-07-16T00:30:28+00:00",
-      "sourceId": "technews",
-      "cats": [
-        "market",
-        "process",
-        "material"
-      ]
-    },
-    {
-      "id": "75a3f71c9c8f",
-      "title": "長鑫存儲產能即將接近美光，中國有望成全球第二大 DRAM 生產商",
-      "link": "https://technews.tw/2026/07/16/citrini-research-china-dram-memory/",
-      "summary": "中國 DRAM 大廠長鑫存儲今年產能即將追平美光，加上多家廠商同步擴張，可能使中國未來幾年成為全球第二大 DR [&#8230;]",
-      "date": "2026-07-16T00:10:12+00:00",
       "sourceId": "technews",
       "cats": [
         "market",
