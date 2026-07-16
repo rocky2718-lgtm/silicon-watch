@@ -1,6 +1,6 @@
 {
-  "updated": "2026-07-16T21:10:41.390101+00:00",
-  "count": 23,
+  "updated": "2026-07-16T23:04:01.258912+00:00",
+  "count": 22,
   "sources": [
     {
       "id": "technews",
@@ -60,6 +60,19 @@
     }
   ],
   "articles": [
+    {
+      "id": "03ce00f09ee9",
+      "title": "力成攜手博通於新加坡設合資公司，投資 4 億美元力拼 CPO 項目 2028 年量產",
+      "link": "https://finance.technews.tw/2026/07/17/powertech-and-broadcom-establish-joint-venture-in-singapore/",
+      "summary": "封裝大廠力成科技公告指出，董事會已決議通過與半導體大廠博通（Broadcom）於新加坡共同設立專注於「面板級先 [&#8230;]",
+      "date": "2026-07-16T22:45:14+00:00",
+      "sourceId": "technews",
+      "cats": [
+        "market",
+        "process",
+        "material"
+      ]
+    },
     {
       "id": "2d8d34193e15",
       "title": "AI 需求強勁驅動台積電成長逾 40%，法說會重點一次看",
@@ -170,32 +183,6 @@
       "link": "https://technews.tw/2026/07/16/tsmc-2026-q2-financial-report/",
       "summary": "台積電今（16 日）舉辦第二季法說會，談到近期市場展望，董事長魏哲家表示，觀察到受零組件價格上漲及總體經濟不確 [&#8230;]",
       "date": "2026-07-16T06:46:20+00:00",
-      "sourceId": "technews",
-      "cats": [
-        "market",
-        "process",
-        "material"
-      ]
-    },
-    {
-      "id": "bcc814f31400",
-      "title": "台積產能爆  傳三星 2 奈米需求激增擬外包 TPU 設計",
-      "link": "https://technews.tw/2026/07/16/tsmc-capacity-surge-samsung-2nm-demand-outsource-tpu-design/",
-      "summary": "韓媒傳出，由於晶圓代工需求攀升導致內部工程資源吃緊，三星電子（Samsung Electronics）考慮將 [&#8230;]",
-      "date": "2026-07-16T06:30:21+00:00",
-      "sourceId": "technews",
-      "cats": [
-        "market",
-        "process",
-        "material"
-      ]
-    },
-    {
-      "id": "3018890e51b5",
-      "title": "台積電上調 2026 年資本支出至最高 640 億美元，2 奈米量產成長成亮點",
-      "link": "https://finance.technews.tw/2026/07/16/tsmc-raises-its-2026-capital-expenditure-forecast-to-a-maximum-of-us64-billion/",
-      "summary": "台積電近日釋出 2026 年第二季財務報告與第三季展望，受惠於 5G、人工智慧（AI）及高效能運算（HPC）等 [&#8230;]",
-      "date": "2026-07-16T06:25:33+00:00",
       "sourceId": "technews",
       "cats": [
         "market",
