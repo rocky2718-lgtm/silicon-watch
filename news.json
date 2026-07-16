@@ -1,6 +1,6 @@
 {
-  "updated": "2026-07-16T10:18:47.299252+00:00",
-  "count": 22,
+  "updated": "2026-07-16T14:12:11.631363+00:00",
+  "count": 23,
   "sources": [
     {
       "id": "technews",
@@ -60,6 +60,19 @@
     }
   ],
   "articles": [
+    {
+      "id": "2d8d34193e15",
+      "title": "AI 需求強勁驅動台積電成長逾 40%，法說會重點一次看",
+      "link": "https://finance.technews.tw/2026/07/16/tsmc-earnings-call-26q2/",
+      "summary": "AI 需求強勁，晶圓代工廠台積電第二季營運繳出亮麗成績單，單季賺進超過 2.7 個股本，第三季展望依然樂觀，預 [&#8230;]",
+      "date": "2026-07-16T10:45:22+00:00",
+      "sourceId": "technews",
+      "cats": [
+        "market",
+        "process",
+        "material"
+      ]
+    },
     {
       "id": "e5b441b5faf7",
       "title": "魏哲家解析 AI 市況，先進製程產能缺口龐大，未來數年迎接極佳營運前景",
