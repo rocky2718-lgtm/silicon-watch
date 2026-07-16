@@ -1,6 +1,6 @@
 {
-  "updated": "2026-07-15T23:04:24.125744+00:00",
-  "count": 20,
+  "updated": "2026-07-16T03:25:35.461739+00:00",
+  "count": 23,
   "sources": [
     {
       "id": "technews",
@@ -61,11 +61,11 @@
   ],
   "articles": [
     {
-      "id": "194a562ad7e4",
-      "title": "代理式 AI 改革 EDA 技術，衝刺 L4 / L5 自動化與 Multiphysics 鎔鑄",
-      "link": "https://technews.tw/2026/07/16/agentic-ai-eda-technology-innovation-accelerating-l4-l5-autonomy-multiphysics-fusion/",
-      "summary": "先進製程與異質整合雙重夾擊下，傳統極度仰賴資深工程師「直覺與經驗」的閉門下線模式，已成為拉長晶片上市時間與吞噬 [&#8230;]",
-      "date": "2026-07-15T23:00:32+00:00",
+      "id": "c5e192f58546",
+      "title": "長鑫存儲上市募資 579 億人民幣！推進下一階段 DRAM 與產能布局",
+      "link": "https://technews.tw/2026/07/16/trendforce-counterpoint-see-cxmt-ipo/",
+      "summary": "長鑫存儲今（16 日）在上海科創板掛牌上市，募資 579 億人民幣，資金將投入 G5 製程、HBM3 研發及產 [&#8230;]",
+      "date": "2026-07-16T03:16:16+00:00",
       "sourceId": "technews",
       "cats": [
         "market",
@@ -74,11 +74,11 @@
       ]
     },
     {
-      "id": "39ded308a7a2",
-      "title": "ASML 賺到盆滿缽滿還要漲價，最大客戶台積電強烈反對",
-      "link": "https://finance.technews.tw/2026/07/16/asml-plans-to-raise-prices-but-its-largest-customer-tsmc-strongly-opposes-it/",
-      "summary": "全球AI浪潮持續席捲，帶動半導體供應鏈迎來空前榮景。然而，在產業鏈的最頂端，一場攸關全球科技終端成本的定價角力 [&#8230;]",
-      "date": "2026-07-15T23:00:03+00:00",
+      "id": "e0d88abbff40",
+      "title": "Google TPU 傳放棄台積電 CoWoS 轉向英特爾 EMIB-T，以分散風險與降低成本",
+      "link": "https://technews.tw/2026/07/16/intels-emib-packaging-gains-traction-as-chip-designers-look-to-skirt-tsmcs-cowos-constraints/",
+      "summary": "外媒與研究機構報告，Google 傳出下代 TPU「Humufish」改採英特爾 EMIB-T 先進封裝，若消 [&#8230;]",
+      "date": "2026-07-16T02:10:00+00:00",
       "sourceId": "technews",
       "cats": [
         "market",
@@ -87,11 +87,102 @@
       ]
     },
     {
-      "id": "99b893ec4669",
-      "title": "黃仁勳感念 30 年前救命情誼，多款 SEGA 大作將全面導入 NVIDIA RTX Spark",
-      "link": "https://ccc.technews.tw/2026/07/16/jensen-huang-cherishes-the-memory-of-being-saved-30-years-ago/",
-      "summary": "輝達 (NVIDIA) 宣布，為慶祝與日本遊戲大廠 SEGA（世嘉）長達三十年的創新合作，將把即將推出的《擬真 [&#8230;]",
-      "date": "2026-07-15T22:00:24+00:00",
+      "id": "75d7ba34c4e5",
+      "title": "川崎重工傳攜手輝達、打造 AI 造船廠  股價逆漲",
+      "link": "https://technews.tw/2026/07/16/nvidia-kawasaki-heavy-to-build-robot-equipped-ai-shipyard-in-japan/",
+      "summary": "日本川崎重工業（Kawasaki Heavy Industries，KHI）傳出將和輝達（Nvidia）合作， [&#8230;]",
+      "date": "2026-07-16T01:40:16+00:00",
+      "sourceId": "technews",
+      "cats": [
+        "market",
+        "process",
+        "material"
+      ]
+    },
+    {
+      "id": "cb71b8ff1b43",
+      "title": "外資看好 AI 電力革命，台達電 Power Rack、SST 雙引擎啟動",
+      "link": "https://finance.technews.tw/2026/07/16/power-rack-sst-ai-infrastucre/",
+      "summary": "AI 資料中心持續朝兆瓦（MW）級機櫃發展，歐系券商最新報告指出，隨輝達（NVIDIA）Rubin 平台於第四 [&#8230;]",
+      "date": "2026-07-16T01:37:18+00:00",
+      "sourceId": "technews",
+      "cats": [
+        "market",
+        "process",
+        "material"
+      ]
+    },
+    {
+      "id": "0aa97ac8846d",
+      "title": "傳蘋果尋求收購晶片公司，強化 AI 伺服器實力",
+      "link": "https://technews.tw/2026/07/16/apple-hunts-for-ai-chip-acquisitions/",
+      "summary": "美國科技新聞媒體 The Information 今天引述知情人士的話報導，科技巨擘蘋果（Apple）正在尋求 [&#8230;]",
+      "date": "2026-07-16T01:30:01+00:00",
+      "sourceId": "technews",
+      "cats": [
+        "market",
+        "process",
+        "material"
+      ]
+    },
+    {
+      "id": "6e9ac5f20d22",
+      "title": "高盛下修穎崴目標價到 13,000 元，股價仍有上漲空間給予買進評等",
+      "link": "https://finance.technews.tw/2026/07/16/goldman-sachs-lowered-its-target-price-for-winway-to-13000-yuan/",
+      "summary": "外資高盛證券於最新發布的研究報告中指出，半導體測試介面解決方案廠商穎崴科技 6 月份財報獲利表現低於預期，主要 [&#8230;]",
+      "date": "2026-07-16T01:15:20+00:00",
+      "sourceId": "technews",
+      "cats": [
+        "market",
+        "process",
+        "material"
+      ]
+    },
+    {
+      "id": "4097a807fe06",
+      "title": "印度核准半導體 2.0 計畫，投入逾 4 千億元推國產晶片",
+      "link": "https://finance.technews.tw/2026/07/16/india-approves-semiconductor-2-0-plan-over-400-billion-rupees-domestic-chips/",
+      "summary": "印度政府 15 日核准新的半導體計畫，將提供超過 133 億美元（約新台幣 4,282 億元）的財務支援，來加 [&#8230;]",
+      "date": "2026-07-16T00:50:37+00:00",
+      "sourceId": "technews",
+      "cats": [
+        "market",
+        "process",
+        "material"
+      ]
+    },
+    {
+      "id": "ade076309483",
+      "title": "黃仁勳訪日：對 Rapidus 未來發展潛力高度期待",
+      "link": "https://technews.tw/2026/07/16/jensen-huang-japan-rapidus-future-potential-expectations/",
+      "summary": "輝達（Nvidia）CEO 黃仁勳睽違約 9 個月來（2025年10月以來）、於 15 日再度訪問日本，稱日本 [&#8230;]",
+      "date": "2026-07-16T00:40:18+00:00",
+      "sourceId": "technews",
+      "cats": [
+        "market",
+        "process",
+        "material"
+      ]
+    },
+    {
+      "id": "460521d8bd4a",
+      "title": "長鑫存儲八年不領薪資！放下兆易創新再創業，朱一明如何用 20 年撐起中國記憶體夢？",
+      "link": "https://finance.technews.tw/2026/07/16/cxmt-ipo-story/",
+      "summary": "中國記憶體大廠長鑫存儲即將於上海科創板上市，成為市場矚目焦點。不只因為 IPO 規模龐大，創辦人朱一明在 20 [&#8230;]",
+      "date": "2026-07-16T00:30:28+00:00",
+      "sourceId": "technews",
+      "cats": [
+        "market",
+        "process",
+        "material"
+      ]
+    },
+    {
+      "id": "75a3f71c9c8f",
+      "title": "長鑫存儲產能即將接近美光，中國有望成全球第二大 DRAM 生產商",
+      "link": "https://technews.tw/2026/07/16/citrini-research-china-dram-memory/",
+      "summary": "中國 DRAM 大廠長鑫存儲今年產能即將追平美光，加上多家廠商同步擴張，可能使中國未來幾年成為全球第二大 DR [&#8230;]",
+      "date": "2026-07-16T00:10:12+00:00",
       "sourceId": "technews",
       "cats": [
         "market",
@@ -149,58 +240,6 @@
         "process",
         "material",
         "equipment"
-      ]
-    },
-    {
-      "id": "20de7dcf5bd6",
-      "title": "AI 帶旺第三類半導體，台灣上游材料廠迎新商機",
-      "link": "https://technews.tw/2026/07/15/ai-boosts-third-generation-semiconductors-taiwan-upstream-materials-new-opportunities/",
-      "summary": "AI 伺服器 GPU 功耗持續攀升，資料中心正朝兆瓦（MW）級機櫃發展，推動供電架構由傳統低壓系統逐步升級至 [&#8230;]",
-      "date": "2026-07-15T09:38:53+00:00",
-      "sourceId": "technews",
-      "cats": [
-        "market",
-        "process",
-        "material"
-      ]
-    },
-    {
-      "id": "8e8f296b22d5",
-      "title": "SK 海力士 12 層堆疊 HBM4 極速量產，市場估穩拿輝達逾六成供貨占比",
-      "link": "https://finance.technews.tw/2026/07/15/sk-hynix-achieves-rapid-mass-production-of-12-layer-stacked-hbm4-chips/",
-      "summary": "市場消息指出，SK海力士已正式啟動針對輝達（NVIDIA）的12層堆疊HBM4量產出貨，產品目前已進入產能提升 [&#8230;]",
-      "date": "2026-07-15T08:40:27+00:00",
-      "sourceId": "technews",
-      "cats": [
-        "market",
-        "process",
-        "material"
-      ]
-    },
-    {
-      "id": "fc0f932a162c",
-      "title": "博通從史高摔 2 成  大摩：聯發科搶食 TPU 疑慮過頭",
-      "link": "https://technews.tw/2026/07/15/broadcom-drops-20-as-market-overreacts/",
-      "summary": "博通（Broadcom）近來股價雖因聯發科搶食 Google 的張量處理器（TPU）訂單、市場資金追逐供給陷入 [&#8230;]",
-      "date": "2026-07-15T07:00:50+00:00",
-      "sourceId": "technews",
-      "cats": [
-        "market",
-        "process",
-        "material"
-      ]
-    },
-    {
-      "id": "b6f7e49a28f6",
-      "title": "AMD 也下單？傳英特爾 18A 良率升、贏多筆設計訂單",
-      "link": "https://technews.tw/2026/07/15/intel-18a-yield-rate-improves-secures-multiple-design-orders/",
-      "summary": "市場傳出，隨著先進製程 18A 良率提升至 85%，英特爾（Intel）已奪得超微（AMD）、輝達（Nvidi [&#8230;]",
-      "date": "2026-07-15T06:50:18+00:00",
-      "sourceId": "technews",
-      "cats": [
-        "market",
-        "process",
-        "material"
       ]
     },
     {
