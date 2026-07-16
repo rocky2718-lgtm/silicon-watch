@@ -1,6 +1,6 @@
 {
-  "updated": "2026-07-16T06:26:41.646241+00:00",
-  "count": 19,
+  "updated": "2026-07-16T10:18:47.299252+00:00",
+  "count": 22,
   "sources": [
     {
       "id": "technews",
@@ -61,11 +61,11 @@
   ],
   "articles": [
     {
-      "id": "f49dd7e5d5fd",
-      "title": "台積電第二季營收、淨利均超標，EPS 達 27.25 元創新高，每天淨賺近 80 億元",
-      "link": "https://finance.technews.tw/2026/07/16/tsmcs-second-quarter-revenue-and-net-profit-both-exceeded-expectations/",
-      "summary": "台積電 16 日舉行 2026 年第二季法人說明會，並公布財報。受惠於市場強勁需求與先進製程持續發威，台積電第 [&#8230;]",
-      "date": "2026-07-16T05:50:35+00:00",
+      "id": "e5b441b5faf7",
+      "title": "魏哲家解析 AI 市況，先進製程產能缺口龐大，未來數年迎接極佳營運前景",
+      "link": "https://finance.technews.tw/2026/07/16/tsmc-faces-a-huge-capacity-gap-in-advanced-process-technologies/",
+      "summary": "隨著全球生成式人工智慧（Generative AI）應用呈現爆發性成長，全球晶圓代工龍頭台積電（TSMC）的產 [&#8230;]",
+      "date": "2026-07-16T08:30:01+00:00",
       "sourceId": "technews",
       "cats": [
         "market",
@@ -74,11 +74,11 @@
       ]
     },
     {
-      "id": "fd37f69246ed",
-      "title": "長鑫存儲 IPO 引市場疑慮，SK 海力士先倒、台記憶體股跟跌",
-      "link": "https://technews.tw/2026/07/16/cxmt-ipo-2/",
-      "summary": "中國最大 DRAM 製造商長鑫存儲（CXMT）啟動約 86 億美元（約新台幣 2,770 億元）首次公開募股（ [&#8230;]",
-      "date": "2026-07-16T04:54:38+00:00",
+      "id": "9b85b1ce419b",
+      "title": "輝達攜手富士通與三大機器人巨頭打造「實體 AI」新標準，加速日本製造業轉型",
+      "link": "https://technews.tw/2026/07/16/japans-robotics-leaders-unite-with-nvidia-to-take-on-china/",
+      "summary": "輝達（NVIDIA）執行長黃仁勳訪日，日本製造與自動化產業的合作版圖再度擴大。富士通今日宣布，已與發那科（FA [&#8230;]",
+      "date": "2026-07-16T08:20:53+00:00",
       "sourceId": "technews",
       "cats": [
         "market",
@@ -87,11 +87,11 @@
       ]
     },
     {
-      "id": "5c7c46f7ce9a",
-      "title": "美國 ITC 對三星電子、Google、輝達、博通等七家 DRAM 相關公司啟動 337 調查",
-      "link": "https://technews.tw/2026/07/16/the-u-s-international-criminal-court-itc-has-launched-a-section-337-investigation-into-seven-dram-related-companies/",
-      "summary": "美國國際貿易委員會（USITC）於 2026 年 7 月 15 日正式宣布，將針對特定動態隨機存取記憶體（DR [&#8230;]",
-      "date": "2026-07-16T03:50:12+00:00",
+      "id": "c597c062e47a",
+      "title": "魏哲家曝先進製程進度！A14 於 2028 年量產，A13 與 A12 接棒 2029 年登場",
+      "link": "https://technews.tw/2026/07/16/tsmc-cc-wei-see-a14-a13-a12/",
+      "summary": "台積電今（16 日）舉辦第二季法說會，董事長魏哲家分享近期先進製程進度，A14 預計 2028 年進入量產，A [&#8230;]",
+      "date": "2026-07-16T08:17:08+00:00",
       "sourceId": "technews",
       "cats": [
         "market",
@@ -100,11 +100,11 @@
       ]
     },
     {
-      "id": "7ce19b7af91f",
-      "title": "蘋果 AI 終於跨過中國監管，有望成當地市場 iPhone 18 Pro 換機誘因",
-      "link": "https://technews.tw/2026/07/16/apple-intelligence-in-china-2/",
-      "summary": "Apple Intelligence 在中國市場的推進終於傳出重大進展，據最新爆料指稱，Apple Intel [&#8230;]",
-      "date": "2026-07-16T03:45:44+00:00",
+      "id": "7cbb814581b1",
+      "title": "輝達布局日本物理 AI 市場，擴大與 Toyota 合作",
+      "link": "https://technews.tw/2026/07/16/nvidia-expands-partnership-with-toyota-to-advance-physical-ai-across-automotive-robotics-and-cities/",
+      "summary": "在人工智慧（AI）晶片大廠輝達（NVIDIA）執行長黃仁勳造訪日本期間，輝達今天宣布日本物理 AI 廠商正運用 [&#8230;]",
+      "date": "2026-07-16T07:50:04+00:00",
       "sourceId": "technews",
       "cats": [
         "market",
@@ -113,11 +113,11 @@
       ]
     },
     {
-      "id": "c5e192f58546",
-      "title": "長鑫存儲上市募資 579 億人民幣！推進下一階段 DRAM 與產能布局",
-      "link": "https://technews.tw/2026/07/16/trendforce-counterpoint-see-cxmt-ipo/",
-      "summary": "長鑫存儲今（16 日）在上海科創板掛牌上市，募資 579 億人民幣，資金將投入 G5 製程、HBM3 研發及產 [&#8230;]",
-      "date": "2026-07-16T03:16:16+00:00",
+      "id": "0310050f3f8a",
+      "title": "黃仁勳憶創業低谷：輝達曾押錯技術，SEGA 看見人才",
+      "link": "https://technews.tw/2026/07/16/jensen-huang-recalls-nvidias-startup-low-point-bet-wrong-technology-sega-recognized-talent/",
+      "summary": "輝達（NVIDIA）已成為全球 AI 浪潮的領頭羊，但執行長黃仁勳在東京回憶創業往事時坦言，公司也曾因一次錯誤 [&#8230;]",
+      "date": "2026-07-16T07:40:41+00:00",
       "sourceId": "technews",
       "cats": [
         "market",
@@ -126,11 +126,63 @@
       ]
     },
     {
-      "id": "e0d88abbff40",
-      "title": "Google TPU 傳放棄台積電 CoWoS 轉向英特爾 EMIB-T，以分散風險與降低成本",
-      "link": "https://technews.tw/2026/07/16/intels-emib-packaging-gains-traction-as-chip-designers-look-to-skirt-tsmcs-cowos-constraints/",
-      "summary": "外媒與研究機構報告，Google 傳出下代 TPU「Humufish」改採英特爾 EMIB-T 先進封裝，若消 [&#8230;]",
-      "date": "2026-07-16T02:10:00+00:00",
+      "id": "d75815081427",
+      "title": "美國第三大進口來源國洗牌！台灣出口大量 AI 晶片、伺服器超車中國",
+      "link": "https://finance.technews.tw/2026/07/16/country-of-origin-of-imports/",
+      "summary": "根據美國公布的 3 月貿易數據，全球供應鏈版圖正經歷重大的結構性重組，美國最大進口來源國依序為墨西哥、加拿大與 [&#8230;]",
+      "date": "2026-07-16T07:06:16+00:00",
+      "sourceId": "technews",
+      "cats": [
+        "market",
+        "process",
+        "material"
+      ]
+    },
+    {
+      "id": "60bc0d5862c1",
+      "title": "晶圓代工競爭「沒有捷徑」！魏哲家談三大關鍵：不是去便利店買牛奶那麼簡單",
+      "link": "https://technews.tw/2026/07/16/tsmc-cc-wei-see-intel-and-samsung-foundry/",
+      "summary": "台積電今（16 日）舉辦第二季法說會，市場相當關注台積電對於競爭對手看法，董事長魏哲家認為，晶圓代工競爭沒有捷 [&#8230;]",
+      "date": "2026-07-16T07:06:09+00:00",
+      "sourceId": "technews",
+      "cats": [
+        "market",
+        "process",
+        "material"
+      ]
+    },
+    {
+      "id": "57a45ac75044",
+      "title": "台積電加碼美國投資 1,000 億美元！估有望再增建四座晶圓廠",
+      "link": "https://technews.tw/2026/07/16/tsmc-2026-q2-financial-report/",
+      "summary": "台積電今（16 日）舉辦第二季法說會，談到近期市場展望，董事長魏哲家表示，觀察到受零組件價格上漲及總體經濟不確 [&#8230;]",
+      "date": "2026-07-16T06:46:20+00:00",
+      "sourceId": "technews",
+      "cats": [
+        "market",
+        "process",
+        "material"
+      ]
+    },
+    {
+      "id": "bcc814f31400",
+      "title": "台積產能爆  傳三星 2 奈米需求激增擬外包 TPU 設計",
+      "link": "https://technews.tw/2026/07/16/tsmc-capacity-surge-samsung-2nm-demand-outsource-tpu-design/",
+      "summary": "韓媒傳出，由於晶圓代工需求攀升導致內部工程資源吃緊，三星電子（Samsung Electronics）考慮將 [&#8230;]",
+      "date": "2026-07-16T06:30:21+00:00",
+      "sourceId": "technews",
+      "cats": [
+        "market",
+        "process",
+        "material"
+      ]
+    },
+    {
+      "id": "3018890e51b5",
+      "title": "台積電上調 2026 年資本支出至最高 640 億美元，2 奈米量產成長成亮點",
+      "link": "https://finance.technews.tw/2026/07/16/tsmc-raises-its-2026-capital-expenditure-forecast-to-a-maximum-of-us64-billion/",
+      "summary": "台積電近日釋出 2026 年第二季財務報告與第三季展望，受惠於 5G、人工智慧（AI）及高效能運算（HPC）等 [&#8230;]",
+      "date": "2026-07-16T06:25:33+00:00",
       "sourceId": "technews",
       "cats": [
         "market",
@@ -196,19 +248,6 @@
       "link": "https://www.eetimes.com/electronic-design-industry-rides-chip-wave-apac-leads-q1-2026-growth/",
       "summary": "Chip design tools are cashing in: Q1 EDA revenue hit $5.7B as APAC surged 17.7% and hyperscalers went DIY. The post Electronic Design Industry Rides Chip Wave, APAC Leads Q1 2026 Growth appeared first on EE Times.",
       "date": "2026-07-14T17:00:00+00:00",
-      "sourceId": "eetimes",
-      "cats": [
-        "process",
-        "material",
-        "equipment"
-      ]
-    },
-    {
-      "id": "2f9bdf4fa91f",
-      "title": "Spain Semiconductor Industry Convenes to Forge Domestic Alliances",
-      "link": "https://www.eetimes.com/spain-semiconductor-industry-convenes-to-forge-domestic-alliances/",
-      "summary": "AESEMI holds the first semiconductor MatchMaking day in Spain to forge new alliances and consolidate the ecosystem. The post Spain Semiconductor Industry Convenes to Forge Domestic Alliances appeared first on EE Times.",
-      "date": "2026-07-14T07:32:41+00:00",
       "sourceId": "eetimes",
       "cats": [
         "process",
