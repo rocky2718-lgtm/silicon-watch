@@ -1,6 +1,6 @@
 {
-  "updated": "2026-07-17T13:55:58.027200+00:00",
-  "count": 21,
+  "updated": "2026-07-17T15:20:17.712721+00:00",
+  "count": 22,
   "sources": [
     {
       "id": "technews",
@@ -60,6 +60,32 @@
     }
   ],
   "articles": [
+    {
+      "id": "c9d5d1608b64",
+      "title": "延續亞股下跌走勢，美股開盤持續走低考驗投資人信心",
+      "link": "https://finance.technews.tw/2026/07/17/us-stocks-continued-to-decline-at-the-open-testing-investor-confidence/",
+      "summary": "由於投資人持續對AI帶動的市場漲勢進行重新評估，引發半導體類股大範圍拋售，就在亞洲個股紛紛走跌之後，加上中東地 [&#8230;]",
+      "date": "2026-07-17T14:15:15+00:00",
+      "sourceId": "technews",
+      "cats": [
+        "market",
+        "process",
+        "material"
+      ]
+    },
+    {
+      "id": "72539178e2f3",
+      "title": "ASML Raises Outlook, Plans More EUV Capacity",
+      "link": "https://www.eetimes.com/asml-raises-outlook-plans-more-euv-capacity/",
+      "summary": "ASML raised its full-year outlook as AI demand prompted plans to expand lithography capacity through at least 2028. The post ASML Raises Outlook, Plans More EUV Capacity appeared first on EE Times.",
+      "date": "2026-07-17T14:00:00+00:00",
+      "sourceId": "eetimes",
+      "cats": [
+        "process",
+        "material",
+        "equipment"
+      ]
+    },
     {
       "id": "115a1c41a503",
       "title": "Pat Gelsinger 持續示警晶片對台灣依賴風險，還指英特爾該讓有技術背景者領導",
@@ -222,19 +248,6 @@
       "link": "https://www.eetimes.com/after-magdeburg-intel-builds-on-ireland-existing-strength/",
       "summary": "Leixlip cannot replace Magdeburg, but it shows the value of expanding where fabs, demand, and ecosystems already exist. The post After Magdeburg, Intel Builds on Ireland’s Existing Strength appeared first on EE Times.",
       "date": "2026-07-15T11:24:18+00:00",
-      "sourceId": "eetimes",
-      "cats": [
-        "process",
-        "material",
-        "equipment"
-      ]
-    },
-    {
-      "id": "52290d0a89fd",
-      "title": "Electronic Design Industry Rides Chip Wave, APAC Leads Q1 2026 Growth",
-      "link": "https://www.eetimes.com/electronic-design-industry-rides-chip-wave-apac-leads-q1-2026-growth/",
-      "summary": "Chip design tools are cashing in: Q1 EDA revenue hit $5.7B as APAC surged 17.7% and hyperscalers went DIY. The post Electronic Design Industry Rides Chip Wave, APAC Leads Q1 2026 Growth appeared first on EE Times.",
-      "date": "2026-07-14T17:00:00+00:00",
       "sourceId": "eetimes",
       "cats": [
         "process",
