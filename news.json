@@ -1,6 +1,6 @@
 {
-  "updated": "2026-07-17T03:27:58.146562+00:00",
-  "count": 20,
+  "updated": "2026-07-17T06:23:34.683316+00:00",
+  "count": 15,
   "sources": [
     {
       "id": "technews",
@@ -61,102 +61,37 @@
   ],
   "articles": [
     {
+      "id": "3a328ccc0e4f",
+      "title": "TSMC Boosts 2026 Expansion Budget, Adds $100B to U.S. Investment",
+      "link": "https://www.eetimes.com/tsmc-boosts-2026-expansion-budget-adds-100b-to-u-s-investment/",
+      "summary": "TSMC is raising its 2026 capital budget to $64 billion and adding $100 billion to its U.S. investment for AI. The post TSMC Boosts 2026 Expansion Budget, Adds $100B to U.S. Investment appeared first on EE Times.",
+      "date": "2026-07-17T05:55:59+00:00",
+      "sourceId": "eetimes",
+      "cats": [
+        "process",
+        "material",
+        "equipment"
+      ]
+    },
+    {
+      "id": "abd9196c786f",
+      "title": "瞄準汽車產業智慧化市場，美光 + 高通攜手生態系簽署客戶協議",
+      "link": "https://technews.tw/2026/07/17/targeting-the-intelligent-automotive-market/",
+      "summary": "隨著汽車產業加速朝向AI驅動與軟體定義的智慧化發展，記憶體與儲存大廠美光科技宣布，已與多家全球頂尖的汽車一級（ [&#8230;]",
+      "date": "2026-07-17T03:30:37+00:00",
+      "sourceId": "technews",
+      "cats": [
+        "market",
+        "process",
+        "material"
+      ]
+    },
+    {
       "id": "e62345cfc460",
       "title": "意藍總經理專訪：揭企業打造 AI Agent 實戰心法",
       "link": "https://technews.tw/2026/07/17/exclusive-interview-with-eland-information-founder-and-general-manager-willie-yang/",
       "summary": "今年是代理式 AI（Agentic AI）聲量最高的一年，從 NVIDIA 執行長黃仁勳在 COMPUTEX [&#8230;]",
       "date": "2026-07-17T03:09:30+00:00",
-      "sourceId": "technews",
-      "cats": [
-        "market",
-        "process",
-        "material"
-      ]
-    },
-    {
-      "id": "bcc92d21166a",
-      "title": "僅升級晶片與快充？Galaxy Z Flip8 發表前規格全曝光",
-      "link": "https://technews.tw/2026/07/17/galaxy-z-flip-8-spec/",
-      "summary": "距離三星 7 月 22 日 Galaxy Unpacked 發表會僅剩一週，但現在新一代摺疊手機 Galaxy [&#8230;]",
-      "date": "2026-07-17T01:49:45+00:00",
-      "sourceId": "technews",
-      "cats": [
-        "market",
-        "process",
-        "material"
-      ]
-    },
-    {
-      "id": "0cbc7ecac863",
-      "title": "美光與高通等大廠簽長期供貨協議，穩定車用記憶體供貨價格",
-      "link": "https://technews.tw/2026/07/17/micron-deals-with-qualcomm/",
-      "summary": "美光週四（16 日）宣布，已與多家汽車供應鏈業者簽署長期合作協議，包括晶片設計公司高通及音訊產品製造商 Har [&#8230;]",
-      "date": "2026-07-17T01:48:29+00:00",
-      "sourceId": "technews",
-      "cats": [
-        "market",
-        "process",
-        "material"
-      ]
-    },
-    {
-      "id": "09ec9a2bf2ce",
-      "title": "從搶晶片到搶電力，馬斯克砸 10 億美元收購 APR Energy 供電 xAI",
-      "link": "https://technews.tw/2026/07/17/elon-musk-spent-estimated-1-billion-on-an-energy-company-to-power-xai/",
-      "summary": "根據聯邦貿易委員會（FTC）的提前終止通知與多家媒體報導，馬斯克（Elon Musk）已低調收購專門提供可快速 [&#8230;]",
-      "date": "2026-07-17T01:30:28+00:00",
-      "sourceId": "technews",
-      "cats": [
-        "market",
-        "process",
-        "material"
-      ]
-    },
-    {
-      "id": "7433bda50e24",
-      "title": "台積電第二季財報驚豔市場，外資大喊買進給最高目標價達 4,200 元",
-      "link": "https://finance.technews.tw/2026/07/17/tsmcs-second-quarter-financial-report-amazed-the-market/",
-      "summary": "晶圓代工龍頭台積電公布的 2026 年第二季法說會，再次繳出「超乎預期並上調財測」的亮眼成績。受惠於 AI 需 [&#8230;]",
-      "date": "2026-07-17T01:15:16+00:00",
-      "sourceId": "technews",
-      "cats": [
-        "market",
-        "process",
-        "material"
-      ]
-    },
-    {
-      "id": "ff04d40c4a92",
-      "title": "AI 帶動成熟製程新需求，台積電點名 PMIC、感測器最吃緊",
-      "link": "https://technews.tw/2026/07/17/ai-drives-new-demand-mature-process-technologies-tsmc-highlights-pmic-sensors-most-constrained/",
-      "summary": "AI 持續帶動成熟製程新需求。台積電董事長魏哲家表示，目前成熟及特殊製程供應較吃緊的應用，主要集中在電源管理 [&#8230;]",
-      "date": "2026-07-17T01:01:50+00:00",
-      "sourceId": "technews",
-      "cats": [
-        "market",
-        "process",
-        "material"
-      ]
-    },
-    {
-      "id": "f74a238ed648",
-      "title": "美國會議員籲川普政府，禁止美企採購中國記憶體晶片",
-      "link": "https://technews.tw/2026/07/17/us-lawmakers-urge-trump-administration-to-ban-chinese-memory-chips/",
-      "summary": "美國聯邦眾議院美中戰略競爭特別委員會主席呼籲川普政府，禁止美國企業採購長鑫存儲及長江存儲的記憶體晶片，以避免人 [&#8230;]",
-      "date": "2026-07-17T01:00:48+00:00",
-      "sourceId": "technews",
-      "cats": [
-        "market",
-        "process",
-        "material"
-      ]
-    },
-    {
-      "id": "83f9b9913750",
-      "title": "台積電加碼投資美國，美商務部：創造數萬個就業機會",
-      "link": "https://technews.tw/2026/07/17/tsmc-boosts-us-investment-commerce-dept-tens-thousands-jobs/",
-      "summary": "台積電 16 日宣布加碼投資美國 1,000 億美元，美國商務部 16 日表示，這項宣布使得台積電在美投資總額 [&#8230;]",
-      "date": "2026-07-17T00:45:24+00:00",
       "sourceId": "technews",
       "cats": [
         "market",
