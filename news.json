@@ -1,6 +1,6 @@
 {
-  "updated": "2026-07-17T10:06:48.192542+00:00",
-  "count": 20,
+  "updated": "2026-07-17T13:55:58.027200+00:00",
+  "count": 21,
   "sources": [
     {
       "id": "technews",
@@ -60,6 +60,19 @@
     }
   ],
   "articles": [
+    {
+      "id": "115a1c41a503",
+      "title": "Pat Gelsinger 持續示警晶片對台灣依賴風險，還指英特爾該讓有技術背景者領導",
+      "link": "https://finance.technews.tw/2026/07/17/pat-gelsinger-continues-to-warn-of-the-risks-of-chip-dependence-on-taiwan/",
+      "summary": "英特爾（Intel）前執行長Pat Gelsinger近期對全球過度依賴台灣晶片供應提出嚴厲警告。他表示，在中 [&#8230;]",
+      "date": "2026-07-17T13:50:05+00:00",
+      "sourceId": "technews",
+      "cats": [
+        "market",
+        "process",
+        "material"
+      ]
+    },
     {
       "id": "cfd22051700b",
       "title": "旺矽重訊宣布勝訴，稱穎崴控違反公平交易法求償 500 萬遭駁回",
