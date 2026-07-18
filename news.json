@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-18T03:17:01.423580+00:00",
+  "updated": "2026-07-18T06:11:31.361914+00:00",
   "count": 24,
   "sources": [
     {
@@ -60,6 +60,19 @@
     }
   ],
   "articles": [
+    {
+      "id": "340d87ca1a54",
+      "title": "黃仁勳在東京辦「居酒屋峰會」！日 AI 供應鏈高層齊聚，完整名單曝光",
+      "link": "https://technews.tw/2026/07/18/nvidia-ceo-jensen-meet-japan-companies-ceo/",
+      "summary": "輝達（NVIDIA）執行長黃仁勳近期赴日本東京秋葉原參加活動，並與多間日企高層一同飲酒。根據官方分享的照片，這 [&#8230;]",
+      "date": "2026-07-18T03:56:03+00:00",
+      "sourceId": "technews",
+      "cats": [
+        "market",
+        "process",
+        "material"
+      ]
+    },
     {
       "id": "99a8a428acd5",
       "title": "算數學的晶片也能寫 DNA？哈佛顛覆性研究讓矽晶片變成「造物工廠」",
@@ -196,19 +209,6 @@
       "link": "https://technews.tw/2026/07/17/south-korea-us-team-unveils-automatic-dressing-robot-for-semiconductor-cleanrooms/",
       "summary": "韓國與美國研究人員組成的團隊發表了一項自動穿衣機器人技術，讓使用者無需動手或他人協助即可穿上衣物，未來可望應用 [&#8230;]",
       "date": "2026-07-17T08:50:29+00:00",
-      "sourceId": "technews",
-      "cats": [
-        "market",
-        "process",
-        "material"
-      ]
-    },
-    {
-      "id": "fe129478b817",
-      "title": "AI 帶動需求爆發！半導體材料氫氟酸、異丙醇價格喊漲",
-      "link": "https://technews.tw/2026/07/17/hf-ipa-raised-money/",
-      "summary": "隨著伊朗衝突再度升溫，以及 AI 晶片需求持續爆發，業界人士預期半導體原物料價格仍將進一步上漲。中國本月初宣布 [&#8230;]",
-      "date": "2026-07-17T07:50:33+00:00",
       "sourceId": "technews",
       "cats": [
         "market",
