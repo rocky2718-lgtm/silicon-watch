@@ -1,6 +1,6 @@
 {
-  "updated": "2026-07-18T15:02:59.066028+00:00",
-  "count": 25,
+  "updated": "2026-07-18T17:05:23.476656+00:00",
+  "count": 23,
   "sources": [
     {
       "id": "technews",
@@ -196,32 +196,6 @@
       "link": "https://finance.technews.tw/2026/07/17/mpi-corporation-winway-technology/",
       "summary": "半導體測試設備廠旺矽今（17 日）發布重訊，針對穎崴提起的公平交易法民事訴訟，智慧財產及商業法院已作出一審判決 [&#8230;]",
       "date": "2026-07-17T09:47:07+00:00",
-      "sourceId": "technews",
-      "cats": [
-        "market",
-        "process",
-        "material"
-      ]
-    },
-    {
-      "id": "525a46c35e0b",
-      "title": "不只台灣，亞洲股市受半導體類股拖累指數倒一片",
-      "link": "https://finance.technews.tw/2026/07/17/asian-stock-markets-were-dragged-down-by-semiconductor-stocks-with-many-shares-falling/",
-      "summary": "17日亞洲股市開盤走低，主因是全球半導體類股的拋售潮加劇，這使得以半導體類股為主的亞洲市場面臨新一輪的賣壓，並 [&#8230;]",
-      "date": "2026-07-17T09:30:56+00:00",
-      "sourceId": "technews",
-      "cats": [
-        "market",
-        "process",
-        "material"
-      ]
-    },
-    {
-      "id": "1433ac087fcb",
-      "title": "美法院判鎧俠侵犯 Viasat 專利！須判賠 2.29 億美元",
-      "link": "https://technews.tw/2026/07/17/kioxia-viasat-infringement/",
-      "summary": "根據日經報導，美國德州西區聯邦地區法院陪審團於 7 月 16 日裁定，日本記憶體大廠鎧俠侵犯美國衛星通訊公司 [&#8230;]",
-      "date": "2026-07-17T09:20:53+00:00",
       "sourceId": "technews",
       "cats": [
         "market",
