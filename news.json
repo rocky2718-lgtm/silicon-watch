@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-18T06:11:31.361914+00:00",
+  "updated": "2026-07-18T09:40:48.174882+00:00",
   "count": 24,
   "sources": [
     {
@@ -60,6 +60,32 @@
     }
   ],
   "articles": [
+    {
+      "id": "5d34af36bb41",
+      "title": "中國稀土禁令發威！氧化釔驚現 150 倍價差，西方半導體與軍工臨斷鏈危機",
+      "link": "https://technews.tw/2026/07/18/china-rare-earth-controls-tighten/",
+      "summary": "中國政府因不滿日本首相高市早苗先前提出的「台灣有事論」，以及美國祭出的關稅政策，進一步收緊關鍵稀土礦物出口管制 [&#8230;]",
+      "date": "2026-07-18T07:00:47+00:00",
+      "sourceId": "technews",
+      "cats": [
+        "market",
+        "process",
+        "material"
+      ]
+    },
+    {
+      "id": "b1784391ad7d",
+      "title": "AI 光收發模組市場進入高速成長階段，LPO、矽光子技術受關注",
+      "link": "https://technews.tw/2026/07/18/trendforce-counterpoint-research-see-ai-datacenter/",
+      "summary": "隨著 AI 資料中心持續擴張，傳輸速率 800G 以上、用於 AI 伺服器叢集互聯的光收發模組需求大幅提升。調 [&#8230;]",
+      "date": "2026-07-18T06:31:13+00:00",
+      "sourceId": "technews",
+      "cats": [
+        "market",
+        "process",
+        "material"
+      ]
+    },
     {
       "id": "340d87ca1a54",
       "title": "黃仁勳在東京辦「居酒屋峰會」！日 AI 供應鏈高層齊聚，完整名單曝光",
@@ -183,32 +209,6 @@
       "link": "https://technews.tw/2026/07/17/kioxia-viasat-infringement/",
       "summary": "根據日經報導，美國德州西區聯邦地區法院陪審團於 7 月 16 日裁定，日本記憶體大廠鎧俠侵犯美國衛星通訊公司 [&#8230;]",
       "date": "2026-07-17T09:20:53+00:00",
-      "sourceId": "technews",
-      "cats": [
-        "market",
-        "process",
-        "material"
-      ]
-    },
-    {
-      "id": "45c7acc74cb0",
-      "title": "昇陽半導體 6 月 EPS 達 0.66 元年增近翻倍，第二季 EPS 1.71 元年增 194.83%",
-      "link": "https://finance.technews.tw/2026/07/17/suntech-power-semiconductors-june-eps-reached-0-66-yuan-nearly-doubling-year-on-year/",
-      "summary": "昇陽半導體因近期有價證券於集中交易市場達公布注意交易資訊標準，於17日依據台灣證券交易所通知，正式發布相關財務 [&#8230;]",
-      "date": "2026-07-17T09:00:00+00:00",
-      "sourceId": "technews",
-      "cats": [
-        "market",
-        "process",
-        "material"
-      ]
-    },
-    {
-      "id": "2a5380e3e9c4",
-      "title": "韓美團隊發表自動穿衣機器人，可望用於半導體無塵室",
-      "link": "https://technews.tw/2026/07/17/south-korea-us-team-unveils-automatic-dressing-robot-for-semiconductor-cleanrooms/",
-      "summary": "韓國與美國研究人員組成的團隊發表了一項自動穿衣機器人技術，讓使用者無需動手或他人協助即可穿上衣物，未來可望應用 [&#8230;]",
-      "date": "2026-07-17T08:50:29+00:00",
       "sourceId": "technews",
       "cats": [
         "market",
