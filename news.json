@@ -1,6 +1,6 @@
 {
-  "updated": "2026-07-18T09:40:48.174882+00:00",
-  "count": 24,
+  "updated": "2026-07-18T11:11:13.670776+00:00",
+  "count": 25,
   "sources": [
     {
       "id": "technews",
@@ -60,6 +60,19 @@
     }
   ],
   "articles": [
+    {
+      "id": "65d7d7abbadb",
+      "title": "DeepSeek 時刻重演？中國最新開源模型 Kimi K3，嚇倒美半導體類股",
+      "link": "https://technews.tw/2026/07/18/china-new-ai-model-kimi-k3/",
+      "summary": "中國新創「月之暗面」（Moonshot AI）於 17 日發布最新人工智慧模型 Kimi K3，僅憑開源工具便 [&#8230;]",
+      "date": "2026-07-18T10:02:02+00:00",
+      "sourceId": "technews",
+      "cats": [
+        "market",
+        "process",
+        "material"
+      ]
+    },
     {
       "id": "5d34af36bb41",
       "title": "中國稀土禁令發威！氧化釔驚現 150 倍價差，西方半導體與軍工臨斷鏈危機",
