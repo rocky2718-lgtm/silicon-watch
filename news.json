@@ -1,6 +1,6 @@
 {
-  "updated": "2026-07-17T22:56:19.483941+00:00",
-  "count": 22,
+  "updated": "2026-07-18T03:17:01.423580+00:00",
+  "count": 24,
   "sources": [
     {
       "id": "technews",
@@ -60,6 +60,45 @@
     }
   ],
   "articles": [
+    {
+      "id": "99a8a428acd5",
+      "title": "算數學的晶片也能寫 DNA？哈佛顛覆性研究讓矽晶片變成「造物工廠」",
+      "link": "https://technews.tw/2026/07/18/harvard-silicon-chip-writes-dna/",
+      "summary": "哈佛大學領導的研究團隊近日發表了一項結合半導體與生物技術的顛覆性成果：成功將傳統用於處理資訊的「矽晶片」，改造 [&#8230;]",
+      "date": "2026-07-18T01:30:49+00:00",
+      "sourceId": "technews",
+      "cats": [
+        "market",
+        "process",
+        "material"
+      ]
+    },
+    {
+      "id": "159519bdc6b0",
+      "title": "面板廠變身封裝要角！群創打入台積電玻璃核心基板供應鏈，轉型 8 年終站上起跑點",
+      "link": "https://technews.tw/2026/07/18/innolux-eyes-advanced-packaging-amid-opportunities-and-challenges/",
+      "summary": "6 月，台積電揭露正與群創合作開發玻璃核心基板，未來將應用在台積電次世代封裝；消息一出，讓群創這家面板大廠頓時 [&#8230;]",
+      "date": "2026-07-18T01:00:22+00:00",
+      "sourceId": "technews",
+      "cats": [
+        "market",
+        "process",
+        "material"
+      ]
+    },
+    {
+      "id": "cdb7f31d975d",
+      "title": "買得起更要「懂得買」，AI 熱潮催生科技圈新時尚",
+      "link": "https://technews.tw/2026/07/18/ai-boom-tech-trend/",
+      "summary": "人工智慧（AI）熱潮正催生一批新的科技富裕族群，他們的穿著選擇也開始改寫矽谷的時尚語言。過去象徵科技圈的隨性背 [&#8230;]",
+      "date": "2026-07-17T23:30:03+00:00",
+      "sourceId": "technews",
+      "cats": [
+        "market",
+        "process",
+        "material"
+      ]
+    },
     {
       "id": "c9d5d1608b64",
       "title": "延續亞股下跌走勢，美股開盤持續走低考驗投資人信心",
@@ -170,19 +209,6 @@
       "link": "https://technews.tw/2026/07/17/hf-ipa-raised-money/",
       "summary": "隨著伊朗衝突再度升溫，以及 AI 晶片需求持續爆發，業界人士預期半導體原物料價格仍將進一步上漲。中國本月初宣布 [&#8230;]",
       "date": "2026-07-17T07:50:33+00:00",
-      "sourceId": "technews",
-      "cats": [
-        "market",
-        "process",
-        "material"
-      ]
-    },
-    {
-      "id": "5e9a2c230eba",
-      "title": "台積電重挫 180 元創史上最大跌點，市值跌破 60 兆元",
-      "link": "https://finance.technews.tw/2026/07/17/tsmc-slumps-market-value-falls-below-60-trillion/",
-      "summary": "晶圓代工廠台積電第三季毛利率展望不如預期，恐較第二季滑落，衝擊股價重挫 180 元，創下史上最大跌點，收在 2 [&#8230;]",
-      "date": "2026-07-17T07:00:40+00:00",
       "sourceId": "technews",
       "cats": [
         "market",
