@@ -1,6 +1,6 @@
 {
-  "updated": "2026-07-18T22:57:13.227357+00:00",
-  "count": 23,
+  "updated": "2026-07-19T03:37:44.813246+00:00",
+  "count": 20,
   "sources": [
     {
       "id": "technews",
@@ -60,6 +60,19 @@
     }
   ],
   "articles": [
+    {
+      "id": "1a0dc8292894",
+      "title": "「科學的終點就是神學」！七宮廟遶境為台積電嘉義封裝廠祈福，信眾也是股東",
+      "link": "https://technews.tw/2026/07/19/tsmc-chiayi/",
+      "summary": "當全球最先進的 AI 晶片先進封裝廠，遇上台灣最具代表性的民間信仰「遶境」，會擦出什麼火花？ 《財訊》報導，7 [&#8230;]",
+      "date": "2026-07-19T01:00:42+00:00",
+      "sourceId": "technews",
+      "cats": [
+        "market",
+        "process",
+        "material"
+      ]
+    },
     {
       "id": "65d7d7abbadb",
       "title": "DeepSeek 時刻重演？中國最新開源模型 Kimi K3，嚇倒美半導體類股",
@@ -139,32 +152,6 @@
       ]
     },
     {
-      "id": "cdb7f31d975d",
-      "title": "買得起更要「懂得買」，AI 熱潮催生科技圈新時尚",
-      "link": "https://technews.tw/2026/07/18/ai-boom-tech-trend/",
-      "summary": "人工智慧（AI）熱潮正催生一批新的科技富裕族群，他們的穿著選擇也開始改寫矽谷的時尚語言。過去象徵科技圈的隨性背 [&#8230;]",
-      "date": "2026-07-17T23:30:03+00:00",
-      "sourceId": "technews",
-      "cats": [
-        "market",
-        "process",
-        "material"
-      ]
-    },
-    {
-      "id": "c9d5d1608b64",
-      "title": "延續亞股下跌走勢，美股開盤持續走低考驗投資人信心",
-      "link": "https://finance.technews.tw/2026/07/17/us-stocks-continued-to-decline-at-the-open-testing-investor-confidence/",
-      "summary": "由於投資人持續對AI帶動的市場漲勢進行重新評估，引發半導體類股大範圍拋售，就在亞洲個股紛紛走跌之後，加上中東地 [&#8230;]",
-      "date": "2026-07-17T14:15:15+00:00",
-      "sourceId": "technews",
-      "cats": [
-        "market",
-        "process",
-        "material"
-      ]
-    },
-    {
       "id": "72539178e2f3",
       "title": "ASML Raises Outlook, Plans More EUV Capacity",
       "link": "https://www.eetimes.com/asml-raises-outlook-plans-more-euv-capacity/",
@@ -175,32 +162,6 @@
         "process",
         "material",
         "equipment"
-      ]
-    },
-    {
-      "id": "115a1c41a503",
-      "title": "Pat Gelsinger 持續示警晶片對台灣依賴風險，還指英特爾該讓有技術背景者領導",
-      "link": "https://finance.technews.tw/2026/07/17/pat-gelsinger-continues-to-warn-of-the-risks-of-chip-dependence-on-taiwan/",
-      "summary": "英特爾（Intel）前執行長Pat Gelsinger近期對全球過度依賴台灣晶片供應提出嚴厲警告。他表示，在中 [&#8230;]",
-      "date": "2026-07-17T13:50:05+00:00",
-      "sourceId": "technews",
-      "cats": [
-        "market",
-        "process",
-        "material"
-      ]
-    },
-    {
-      "id": "cfd22051700b",
-      "title": "旺矽重訊宣布勝訴，稱穎崴控違反公平交易法求償 500 萬遭駁回",
-      "link": "https://finance.technews.tw/2026/07/17/mpi-corporation-winway-technology/",
-      "summary": "半導體測試設備廠旺矽今（17 日）發布重訊，針對穎崴提起的公平交易法民事訴訟，智慧財產及商業法院已作出一審判決 [&#8230;]",
-      "date": "2026-07-17T09:47:07+00:00",
-      "sourceId": "technews",
-      "cats": [
-        "market",
-        "process",
-        "material"
       ]
     },
     {
