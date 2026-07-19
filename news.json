@@ -1,6 +1,6 @@
 {
-  "updated": "2026-07-19T06:38:09.211376+00:00",
-  "count": 19,
+  "updated": "2026-07-19T09:58:41.185440+00:00",
+  "count": 18,
   "sources": [
     {
       "id": "technews",
@@ -118,19 +118,6 @@
       "link": "https://technews.tw/2026/07/18/nvidia-ceo-jensen-meet-japan-companies-ceo/",
       "summary": "輝達（NVIDIA）執行長黃仁勳近期赴日本東京秋葉原參加活動，並與多間日企高層一同飲酒。根據官方分享的照片，這 [&#8230;]",
       "date": "2026-07-18T03:56:03+00:00",
-      "sourceId": "technews",
-      "cats": [
-        "market",
-        "process",
-        "material"
-      ]
-    },
-    {
-      "id": "99a8a428acd5",
-      "title": "算數學的晶片也能寫 DNA？哈佛顛覆性研究讓矽晶片變成「造物工廠」",
-      "link": "https://technews.tw/2026/07/18/harvard-silicon-chip-writes-dna/",
-      "summary": "哈佛大學領導的研究團隊近日發表了一項結合半導體與生物技術的顛覆性成果：成功將傳統用於處理資訊的「矽晶片」，改造 [&#8230;]",
-      "date": "2026-07-18T01:30:49+00:00",
       "sourceId": "technews",
       "cats": [
         "market",
