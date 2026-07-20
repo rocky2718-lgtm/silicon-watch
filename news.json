@@ -1,6 +1,6 @@
 {
-  "updated": "2026-07-20T11:09:10.865095+00:00",
-  "count": 17,
+  "updated": "2026-07-20T14:25:43.425006+00:00",
+  "count": 14,
   "sources": [
     {
       "id": "technews",
@@ -144,45 +144,6 @@
       "link": "https://www.eetimes.com/tsmc-boosts-2026-expansion-budget-adds-100b-to-u-s-investment/",
       "summary": "TSMC is raising its 2026 capital budget to $64 billion and adding $100 billion to its U.S. investment for AI. The post TSMC Boosts 2026 Expansion Budget, Adds $100B to U.S. Investment appeared first on EE Times.",
       "date": "2026-07-17T05:55:59+00:00",
-      "sourceId": "eetimes",
-      "cats": [
-        "process",
-        "material",
-        "equipment"
-      ]
-    },
-    {
-      "id": "d18c02aefa6c",
-      "title": "TYLsemi De-Risks Chiplets With New Business Model",
-      "link": "https://www.eetimes.com/tyl-semi-de-risks-chiplets-with-new-business-model/",
-      "summary": "Startup TYLsemi wants to address the gap between ASIC houses and design services, taking on the risk of developing large chiplet-based chips for AI infrastructure customers. The post TYLsemi De-Risks Chiplets With New Business Model appeared first on EE Times.",
-      "date": "2026-07-15T19:00:00+00:00",
-      "sourceId": "eetimes",
-      "cats": [
-        "process",
-        "material",
-        "equipment"
-      ]
-    },
-    {
-      "id": "9f55f3cb1d6b",
-      "title": "Why TL3228 Is the Go-To Standard Chip Powering True 8K Wireless Gaming Peripherals",
-      "link": "https://www.eetimes.com/why-tl3228-is-the-go-to-standard-chip-powering-true-8k-wireless-gaming-peripherals/",
-      "summary": "The TL3228 integrates a dual-core RISC-V processor consisting of a high-performance D25F core and an energy-efficient N22 core. The post Why TL3228 Is the Go-To Standard Chip Powering True 8K Wireless Gaming Peripherals appeared first on EE Times.",
-      "date": "2026-07-15T13:00:00+00:00",
-      "sourceId": "eetimes",
-      "cats": [
-        "process",
-        "material",
-        "equipment"
-      ]
-    },
-    {
-      "id": "878fd59652ef",
-      "title": "Massive Stock, Full-Chain Service — Your Global Semiconductor Partner",
-      "link": "https://www.eetimes.com/massive-stock-full-chain-service-your-global-semiconductor-partner/",
-      "summary": "Discover how New Ideas Industrial can stabilize your semiconductor supply chain for AI, storage, and UAV applications. The post Massive Stock, Full-Chain Service — Your Global Semiconductor Partner appeared first on EE Times.",
-      "date": "2026-07-15T13:00:00+00:00",
       "sourceId": "eetimes",
       "cats": [
         "process",
