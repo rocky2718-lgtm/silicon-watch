@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-19T22:59:21.553589+00:00",
+  "updated": "2026-07-20T03:52:19.234430+00:00",
   "count": 19,
   "sources": [
     {
@@ -61,11 +61,11 @@
   ],
   "articles": [
     {
-      "id": "974be8d9848c",
-      "title": "阿里巴巴開源 T-Head SAIL，挑戰 NVIDIA CUDA 生態系",
-      "link": "https://technews.tw/2026/07/19/t-head-sail-open-sourced/",
-      "summary": "阿里巴巴集團主導半導體業務的平頭哥（T-Head）半導體宣布，旗下真武 AI 晶片的軟體推疊 T-Head S [&#8230;]",
-      "date": "2026-07-19T10:44:02+00:00",
+      "id": "1c9ef1118f7d",
+      "title": "控旺矽侵權遭一審駁回，穎崴：將再與律師研議後續事宜",
+      "link": "https://finance.technews.tw/2026/07/20/winway-technology-mpi-corporation/",
+      "summary": "測試介面大廠穎崴昨（19 日）發布公告，針對控告旺矽涉及不公平競爭行為及不當行使智慧財產權，並依法請求損害賠償 [&#8230;]",
+      "date": "2026-07-20T03:11:40+00:00",
       "sourceId": "technews",
       "cats": [
         "market",
@@ -74,11 +74,11 @@
       ]
     },
     {
-      "id": "1a0dc8292894",
-      "title": "「科學的終點就是神學」！七宮廟遶境為台積電嘉義封裝廠祈福，信眾也是股東",
-      "link": "https://technews.tw/2026/07/19/tsmc-chiayi/",
-      "summary": "當全球最先進的 AI 晶片先進封裝廠，遇上台灣最具代表性的民間信仰「遶境」，會擦出什麼火花？ 《財訊》報導，7 [&#8230;]",
-      "date": "2026-07-19T01:00:42+00:00",
+      "id": "2d3e44f4178a",
+      "title": "RTX Spark 秋季登場！輝達發布首批開發者驅動程式，原生支援 Windows on Arm",
+      "link": "https://technews.tw/2026/07/20/nvidia-rtx-spark-first-developer-drivers/",
+      "summary": "輝達（NVIDIA）持續布局 Windows AI PC 市場，在 RTX Spark AI PC 預計今年秋 [&#8230;]",
+      "date": "2026-07-20T02:47:07+00:00",
       "sourceId": "technews",
       "cats": [
         "market",
@@ -87,11 +87,11 @@
       ]
     },
     {
-      "id": "65d7d7abbadb",
-      "title": "DeepSeek 時刻重演？中國最新開源模型 Kimi K3，嚇倒美半導體類股",
-      "link": "https://technews.tw/2026/07/18/china-new-ai-model-kimi-k3/",
-      "summary": "中國新創「月之暗面」（Moonshot AI）於 17 日發布最新人工智慧模型 Kimi K3，僅憑開源工具便 [&#8230;]",
-      "date": "2026-07-18T10:02:02+00:00",
+      "id": "e468086c8c2b",
+      "title": "劍指韓國 DRAM 雙雄、長鑫存儲傳搶先布局 DDR6",
+      "link": "https://technews.tw/2026/07/20/cxmt-supply-chain-to-witness-major-process-transition-to-seize-ddr6-opportunity-before-commercialization/",
+      "summary": "DDR6 記憶體目前預計於 2028 年至 2029 年間邁入商業化階段。然而，韓媒傳出，中國記憶體大廠長鑫存 [&#8230;]",
+      "date": "2026-07-20T02:10:42+00:00",
       "sourceId": "technews",
       "cats": [
         "market",
@@ -100,11 +100,11 @@
       ]
     },
     {
-      "id": "5d34af36bb41",
-      "title": "中國稀土禁令發威！氧化釔驚現 150 倍價差，西方半導體與軍工臨斷鏈危機",
-      "link": "https://technews.tw/2026/07/18/china-rare-earth-controls-tighten/",
-      "summary": "中國政府因不滿日本首相高市早苗先前提出的「台灣有事論」，以及美國祭出的關稅政策，進一步收緊關鍵稀土礦物出口管制 [&#8230;]",
-      "date": "2026-07-18T07:00:47+00:00",
+      "id": "8f6081bd0563",
+      "title": "Meta 擴大自研 AI 晶片，分析師：台廠迎客製化新局",
+      "link": "https://technews.tw/2026/07/20/meta-boosts-in-house-ai-chip-development-analysts-say-taiwan-firms-embrace-customization-opportunities/",
+      "summary": "社群龍頭 Meta 持續擴大人工智慧（AI）基礎設施及自研晶片版圖，引發市場對於繪圖處理器（GPU）需求可能放 [&#8230;]",
+      "date": "2026-07-20T01:50:55+00:00",
       "sourceId": "technews",
       "cats": [
         "market",
@@ -113,11 +113,11 @@
       ]
     },
     {
-      "id": "b1784391ad7d",
-      "title": "AI 光收發模組市場進入高速成長階段，LPO、矽光子技術受關注",
-      "link": "https://technews.tw/2026/07/18/trendforce-counterpoint-research-see-ai-datacenter/",
-      "summary": "隨著 AI 資料中心持續擴張，傳輸速率 800G 以上、用於 AI 伺服器叢集互聯的光收發模組需求大幅提升。調 [&#8230;]",
-      "date": "2026-07-18T06:31:13+00:00",
+      "id": "29558bfe54c4",
+      "title": "有人施壓？SK 崔泰源：記憶體太貴、考慮赴美設廠",
+      "link": "https://technews.tw/2026/07/20/sk-chey-tae-won-memory-too-expensive-considering-us-factory-pressure/",
+      "summary": "SK 集團（SK Group）會長崔泰源（Chey Tae-won）警告，當前記憶體的價格「高到異常」，為了半 [&#8230;]",
+      "date": "2026-07-20T01:40:16+00:00",
       "sourceId": "technews",
       "cats": [
         "market",
@@ -126,11 +126,11 @@
       ]
     },
     {
-      "id": "340d87ca1a54",
-      "title": "黃仁勳在東京辦「居酒屋峰會」！日 AI 供應鏈高層齊聚，完整名單曝光",
-      "link": "https://technews.tw/2026/07/18/nvidia-ceo-jensen-meet-japan-companies-ceo/",
-      "summary": "輝達（NVIDIA）執行長黃仁勳近期赴日本東京秋葉原參加活動，並與多間日企高層一同飲酒。根據官方分享的照片，這 [&#8230;]",
-      "date": "2026-07-18T03:56:03+00:00",
+      "id": "955e46b1c302",
+      "title": "三星獎金制度掀內亂！記憶體員工獎金多，81% 晶圓代工部門想離職",
+      "link": "https://technews.tw/2026/07/20/samsung-foundry-workers-are-planning-to-leave/",
+      "summary": "三星電子最新獎金制度，使記憶體事業部員工成為公司內部的「高薪階級」，薪酬遠高於其他事業部，因而引發內部強烈反彈 [&#8230;]",
+      "date": "2026-07-20T01:31:36+00:00",
       "sourceId": "technews",
       "cats": [
         "market",
