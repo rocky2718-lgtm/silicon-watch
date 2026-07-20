@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-20T03:52:19.234430+00:00",
+  "updated": "2026-07-20T06:55:46.187543+00:00",
   "count": 19,
   "sources": [
     {
@@ -61,6 +61,58 @@
   ],
   "articles": [
     {
+      "id": "52475c48df2b",
+      "title": "AI 晶片熱潮助攻，艾司摩爾有望成歐洲首家兆元企業",
+      "link": "https://technews.tw/2026/07/20/asml-europe-first-trillion-dollar-company-ai-chip-boom/",
+      "summary": "全球人工智慧（AI）晶片需求持續攀升，荷蘭半導體設備廠艾司摩爾（ASML）不僅成為這股強勁需求的受惠者，ASM [&#8230;]",
+      "date": "2026-07-20T06:50:19+00:00",
+      "sourceId": "technews",
+      "cats": [
+        "market",
+        "process",
+        "material"
+      ]
+    },
+    {
+      "id": "a2798bc589d8",
+      "title": "實在太熱了，東京政府鼓勵員工穿短褲上班",
+      "link": "https://technews.tw/2026/07/20/japan-employee-take-down-suit-to-wear-shorts/",
+      "summary": "西裝褲、襯衫、外套和領帶是日本上班族的制服，即使矽谷新貴打破西裝革履，將 polo 衫、Tshirt、牛仔褲帶 [&#8230;]",
+      "date": "2026-07-20T06:13:39+00:00",
+      "sourceId": "technews",
+      "cats": [
+        "market",
+        "process",
+        "material"
+      ]
+    },
+    {
+      "id": "46c659c4d141",
+      "title": "京瓷：半導體設備零組件需求成長至 2030 年，審慎評估擴產策略",
+      "link": "https://technews.tw/2026/07/20/kyocera-ceo-see-demand/",
+      "summary": "京瓷（Kyocera）社長 Shiro Sakushima 近日接受日經採訪時預期，在半導體與人工智慧（AI） [&#8230;]",
+      "date": "2026-07-20T03:56:54+00:00",
+      "sourceId": "technews",
+      "cats": [
+        "market",
+        "process",
+        "material"
+      ]
+    },
+    {
+      "id": "daf235dafae5",
+      "title": "Pixel 11a 手機規格流出，改搭 Tensor G6 與聯發科數據機晶片",
+      "link": "https://ccc.technews.tw/2026/07/20/pixel-11a-to-feature-the-flagship-grade-tensor-g6-processor/",
+      "summary": "一年一度 Made by Google 發表會將在 8 月 12 日於美國紐約舉行，意味著下一代 Pixel [&#8230;]",
+      "date": "2026-07-20T03:54:06+00:00",
+      "sourceId": "technews",
+      "cats": [
+        "market",
+        "process",
+        "material"
+      ]
+    },
+    {
       "id": "1c9ef1118f7d",
       "title": "控旺矽侵權遭一審駁回，穎崴：將再與律師研議後續事宜",
       "link": "https://finance.technews.tw/2026/07/20/winway-technology-mpi-corporation/",
@@ -79,58 +131,6 @@
       "link": "https://technews.tw/2026/07/20/nvidia-rtx-spark-first-developer-drivers/",
       "summary": "輝達（NVIDIA）持續布局 Windows AI PC 市場，在 RTX Spark AI PC 預計今年秋 [&#8230;]",
       "date": "2026-07-20T02:47:07+00:00",
-      "sourceId": "technews",
-      "cats": [
-        "market",
-        "process",
-        "material"
-      ]
-    },
-    {
-      "id": "e468086c8c2b",
-      "title": "劍指韓國 DRAM 雙雄、長鑫存儲傳搶先布局 DDR6",
-      "link": "https://technews.tw/2026/07/20/cxmt-supply-chain-to-witness-major-process-transition-to-seize-ddr6-opportunity-before-commercialization/",
-      "summary": "DDR6 記憶體目前預計於 2028 年至 2029 年間邁入商業化階段。然而，韓媒傳出，中國記憶體大廠長鑫存 [&#8230;]",
-      "date": "2026-07-20T02:10:42+00:00",
-      "sourceId": "technews",
-      "cats": [
-        "market",
-        "process",
-        "material"
-      ]
-    },
-    {
-      "id": "8f6081bd0563",
-      "title": "Meta 擴大自研 AI 晶片，分析師：台廠迎客製化新局",
-      "link": "https://technews.tw/2026/07/20/meta-boosts-in-house-ai-chip-development-analysts-say-taiwan-firms-embrace-customization-opportunities/",
-      "summary": "社群龍頭 Meta 持續擴大人工智慧（AI）基礎設施及自研晶片版圖，引發市場對於繪圖處理器（GPU）需求可能放 [&#8230;]",
-      "date": "2026-07-20T01:50:55+00:00",
-      "sourceId": "technews",
-      "cats": [
-        "market",
-        "process",
-        "material"
-      ]
-    },
-    {
-      "id": "29558bfe54c4",
-      "title": "有人施壓？SK 崔泰源：記憶體太貴、考慮赴美設廠",
-      "link": "https://technews.tw/2026/07/20/sk-chey-tae-won-memory-too-expensive-considering-us-factory-pressure/",
-      "summary": "SK 集團（SK Group）會長崔泰源（Chey Tae-won）警告，當前記憶體的價格「高到異常」，為了半 [&#8230;]",
-      "date": "2026-07-20T01:40:16+00:00",
-      "sourceId": "technews",
-      "cats": [
-        "market",
-        "process",
-        "material"
-      ]
-    },
-    {
-      "id": "955e46b1c302",
-      "title": "三星獎金制度掀內亂！記憶體員工獎金多，81% 晶圓代工部門想離職",
-      "link": "https://technews.tw/2026/07/20/samsung-foundry-workers-are-planning-to-leave/",
-      "summary": "三星電子最新獎金制度，使記憶體事業部員工成為公司內部的「高薪階級」，薪酬遠高於其他事業部，因而引發內部強烈反彈 [&#8230;]",
-      "date": "2026-07-20T01:31:36+00:00",
       "sourceId": "technews",
       "cats": [
         "market",
