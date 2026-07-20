@@ -1,6 +1,6 @@
 {
-  "updated": "2026-07-20T14:25:43.425006+00:00",
-  "count": 14,
+  "updated": "2026-07-20T18:11:23.982562+00:00",
+  "count": 13,
   "sources": [
     {
       "id": "technews",
@@ -105,19 +105,6 @@
       "link": "https://technews.tw/2026/07/20/japan-employee-take-down-suit-to-wear-shorts/",
       "summary": "西裝褲、襯衫、外套和領帶是日本上班族的制服，即使矽谷新貴打破西裝革履，將 polo 衫、Tshirt、牛仔褲帶 [&#8230;]",
       "date": "2026-07-20T06:13:39+00:00",
-      "sourceId": "technews",
-      "cats": [
-        "market",
-        "process",
-        "material"
-      ]
-    },
-    {
-      "id": "46c659c4d141",
-      "title": "京瓷：半導體設備零組件需求成長至 2030 年，審慎評估擴產策略",
-      "link": "https://technews.tw/2026/07/20/kyocera-ceo-see-demand/",
-      "summary": "京瓷（Kyocera）社長 Shiro Sakushima 近日接受日經採訪時預期，在半導體與人工智慧（AI） [&#8230;]",
-      "date": "2026-07-20T03:56:54+00:00",
       "sourceId": "technews",
       "cats": [
         "market",
