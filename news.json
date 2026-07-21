@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-21T19:43:08.538484+00:00",
+  "updated": "2026-07-21T21:19:35.958940+00:00",
   "count": 16,
   "sources": [
     {
@@ -60,6 +60,19 @@
     }
   ],
   "articles": [
+    {
+      "id": "b80331c19ec4",
+      "title": "SK Hynix Nasdaq Debut Shows Global Memory Expansion Race",
+      "link": "https://www.eetimes.com/sk-hynix-nasdaq-debut-shows-global-memory-expansion-race/",
+      "summary": "SK Hynix Nasdaq debut highlights capex-funded memory expansion. Both Samsung and Micron follow suit. The post SK Hynix Nasdaq Debut Shows Global Memory Expansion Race appeared first on EE Times.",
+      "date": "2026-07-21T20:10:00+00:00",
+      "sourceId": "eetimes",
+      "cats": [
+        "process",
+        "material",
+        "equipment"
+      ]
+    },
     {
       "id": "b8ffac3511bc",
       "title": "英媒：中國考慮限制 AI 模型和半導體技術出口",
@@ -162,19 +175,6 @@
         "market",
         "process",
         "material"
-      ]
-    },
-    {
-      "id": "72539178e2f3",
-      "title": "ASML Raises Outlook, Plans More EUV Capacity",
-      "link": "https://www.eetimes.com/asml-raises-outlook-plans-more-euv-capacity/",
-      "summary": "ASML raised its full-year outlook as AI demand prompted plans to expand lithography capacity through at least 2028. The post ASML Raises Outlook, Plans More EUV Capacity appeared first on EE Times.",
-      "date": "2026-07-17T14:00:00+00:00",
-      "sourceId": "eetimes",
-      "cats": [
-        "process",
-        "material",
-        "equipment"
       ]
     },
     {
