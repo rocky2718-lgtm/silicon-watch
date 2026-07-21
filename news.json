@@ -1,6 +1,6 @@
 {
-  "updated": "2026-07-21T21:19:35.958940+00:00",
-  "count": 16,
+  "updated": "2026-07-21T23:04:22.522571+00:00",
+  "count": 15,
   "sources": [
     {
       "id": "technews",
@@ -157,19 +157,6 @@
       "link": "https://technews.tw/2026/07/21/supply-growth-outpace-demand-easing-2h27-nand-flash-shortage/",
       "summary": "TrendForce 最新 7 月 NAND Flash 每月數據分析，2026 年 AI 需求爆發，加上 N [&#8230;]",
       "date": "2026-07-21T06:50:31+00:00",
-      "sourceId": "technews",
-      "cats": [
-        "market",
-        "process",
-        "material"
-      ]
-    },
-    {
-      "id": "94b710ee5c74",
-      "title": "輝達揭 9% 持股  Nebius 盤後嗨、新興雲端股同歡",
-      "link": "https://finance.technews.tw/2026/07/21/nvidia-9-percent-stake-nebius-after-hours-surge-emerging-cloud-stocks-rally/",
-      "summary": "荷蘭 AI 基礎建設供應商 Nebius Group 在最新公布的監管文件顯示，輝達（Nvidia Corp. [&#8230;]",
-      "date": "2026-07-21T05:50:39+00:00",
       "sourceId": "technews",
       "cats": [
         "market",
