@@ -1,6 +1,6 @@
 {
-  "updated": "2026-07-20T23:06:48.659283+00:00",
-  "count": 13,
+  "updated": "2026-07-21T03:31:55.453232+00:00",
+  "count": 14,
   "sources": [
     {
       "id": "technews",
@@ -61,11 +61,11 @@
   ],
   "articles": [
     {
-      "id": "ce77d917d1a7",
-      "title": "全球晶片股承壓，中國長鑫存儲 IPO 熱度降溫",
-      "link": "https://finance.technews.tw/2026/07/20/global-chip-stocks-pressure-china-cxmt-ipo-interest-wanes/",
-      "summary": "路透社報導，近期全球晶片股承壓，中國最大 DRAM 製造商長鑫存儲首次公開募股（IPO）也受影響，機構投資者認 [&#8230;]",
-      "date": "2026-07-20T09:30:00+00:00",
+      "id": "6403a0bb51f7",
+      "title": "抗震高股息 ETF 出列！00713、00918、00939、00961 跌幅遠低於大盤",
+      "link": "https://finance.technews.tw/2026/07/21/earthquake-resistant-and-high-dividend-stocks/",
+      "summary": "台股歷經上週五史上最大單日跌點後，市場波動仍未平息，台積電、鴻海等電子權值股雖發揮撐盤效果，但中小型股、記憶體 [&#8230;]",
+      "date": "2026-07-21T03:24:08+00:00",
       "sourceId": "technews",
       "cats": [
         "market",
@@ -74,11 +74,11 @@
       ]
     },
     {
-      "id": "b64f5a258d9c",
-      "title": "半導體股修正但大盤有撐  專家樂見市場廣度改善",
-      "link": "https://finance.technews.tw/2026/07/20/experts-welcome-broader-us-stock-market-rally/",
-      "summary": "美股近期波動劇烈，半導體股大幅回檔，但防禦性類股表現穩健。專家認為，市場廣度有所改善，實為健康跡象。 Mark [&#8230;]",
-      "date": "2026-07-20T07:00:44+00:00",
+      "id": "b261efaf7009",
+      "title": "NVIDIA 推新 AI 工具「Synthetic Video Detector」偵測深偽影片，僅需 22 毫秒且準確率達 92%",
+      "link": "https://infosecu.technews.tw/2026/07/21/nvidias-new-ai-can-detect-deepfake-videos-in-just-22-milliseconds/",
+      "summary": "NVIDIA 在 SIGGRAPH 2026 發表新合成影片偵測工具「Synthetic Video Dete [&#8230;]",
+      "date": "2026-07-21T02:50:24+00:00",
       "sourceId": "technews",
       "cats": [
         "market",
@@ -87,11 +87,11 @@
       ]
     },
     {
-      "id": "52475c48df2b",
-      "title": "AI 晶片熱潮助攻，艾司摩爾有望成歐洲首家兆元企業",
-      "link": "https://technews.tw/2026/07/20/asml-europe-first-trillion-dollar-company-ai-chip-boom/",
-      "summary": "全球人工智慧（AI）晶片需求持續攀升，荷蘭半導體設備廠艾司摩爾（ASML）不僅成為這股強勁需求的受惠者，ASM [&#8230;]",
-      "date": "2026-07-20T06:50:19+00:00",
+      "id": "f079a24f4193",
+      "title": "ASML 重金留住 AI 人才  員工最高可領 2 萬歐元股票",
+      "link": "https://technews.tw/2026/07/21/asml-to-offer-employees-e20000-retention-bonus-for-staying-in-2027-2030/",
+      "summary": "近年 AI 發展帶動半導體擴產浪潮，全球科技產業掀起人才爭奪戰。半導體設備大廠 ASML 為留住關鍵人才，宣布 [&#8230;]",
+      "date": "2026-07-21T02:10:34+00:00",
       "sourceId": "technews",
       "cats": [
         "market",
@@ -100,11 +100,24 @@
       ]
     },
     {
-      "id": "a2798bc589d8",
-      "title": "實在太熱了，東京政府鼓勵員工穿短褲上班",
-      "link": "https://technews.tw/2026/07/20/japan-employee-take-down-suit-to-wear-shorts/",
-      "summary": "西裝褲、襯衫、外套和領帶是日本上班族的制服，即使矽谷新貴打破西裝革履，將 polo 衫、Tshirt、牛仔褲帶 [&#8230;]",
-      "date": "2026-07-20T06:13:39+00:00",
+      "id": "9c2f8c11fd06",
+      "title": "AI 巨頭走勢放緩，華爾街日報：散戶尋找新科技巨星",
+      "link": "https://finance.technews.tw/2026/07/21/ai-giants-momentum-slows-wall-street-journal-reports-retail-investors-seek-new-tech-superstars/",
+      "summary": "美國股市今天受油價走高影響，3 大指數小跌，費半指數小漲。過去幾年，全球投資人追捧人工智慧晶片與雲端大數據業者 [&#8230;]",
+      "date": "2026-07-21T01:40:54+00:00",
+      "sourceId": "technews",
+      "cats": [
+        "market",
+        "process",
+        "material"
+      ]
+    },
+    {
+      "id": "0c62651b3a9b",
+      "title": "加碼美國千億美元  台積電：結構性需求強勁",
+      "link": "https://technews.tw/2026/07/21/tsmc-us-investment-hundreds-billions-strong-structural-demand/",
+      "summary": "台積電上週法說會宣布，將加碼投資美國 1,000 億美元，台積電財務長黃仁昭接受多家外媒訪問時指出，這次加碼投 [&#8230;]",
+      "date": "2026-07-21T01:20:50+00:00",
       "sourceId": "technews",
       "cats": [
         "market",
