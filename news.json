@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-21T03:31:55.453232+00:00",
+  "updated": "2026-07-21T06:36:21.274572+00:00",
   "count": 14,
   "sources": [
     {
@@ -61,6 +61,45 @@
   ],
   "articles": [
     {
+      "id": "94b710ee5c74",
+      "title": "輝達揭 9% 持股  Nebius 盤後嗨、新興雲端股同歡",
+      "link": "https://finance.technews.tw/2026/07/21/nvidia-9-percent-stake-nebius-after-hours-surge-emerging-cloud-stocks-rally/",
+      "summary": "荷蘭 AI 基礎建設供應商 Nebius Group 在最新公布的監管文件顯示，輝達（Nvidia Corp. [&#8230;]",
+      "date": "2026-07-21T05:50:39+00:00",
+      "sourceId": "technews",
+      "cats": [
+        "market",
+        "process",
+        "material"
+      ]
+    },
+    {
+      "id": "8fb7cef653eb",
+      "title": "大摩喊記憶體遭錯殺  SK 海力士、三星、美光回神",
+      "link": "https://technews.tw/2026/07/21/as-microns-stock-rebounds-morgan-stanley-says-investors-shouldnt-get-spooked-by-the-past/",
+      "summary": "美光（Micron Technology）等美國記憶體、儲存概念股迎來反彈，分析人士認為，當前產業循環，可能存 [&#8230;]",
+      "date": "2026-07-21T04:50:36+00:00",
+      "sourceId": "technews",
+      "cats": [
+        "market",
+        "process",
+        "material"
+      ]
+    },
+    {
+      "id": "26bec1b019d4",
+      "title": "AI ASIC、矽光子開始放量，矽格迎新廠投產紅利",
+      "link": "https://technews.tw/2026/07/21/ai-asics-silicon-photonics-mass-production-sigrity-new-plant-benefits/",
+      "summary": "ASIC、矽光子、高效能運算（HPC）及記憶體測試需求持續升溫。法人指出，IC 封測廠矽格受惠新廠投產、產品開 [&#8230;]",
+      "date": "2026-07-21T04:05:13+00:00",
+      "sourceId": "technews",
+      "cats": [
+        "market",
+        "process",
+        "material"
+      ]
+    },
+    {
       "id": "6403a0bb51f7",
       "title": "抗震高股息 ETF 出列！00713、00918、00939、00961 跌幅遠低於大盤",
       "link": "https://finance.technews.tw/2026/07/21/earthquake-resistant-and-high-dividend-stocks/",
@@ -79,45 +118,6 @@
       "link": "https://infosecu.technews.tw/2026/07/21/nvidias-new-ai-can-detect-deepfake-videos-in-just-22-milliseconds/",
       "summary": "NVIDIA 在 SIGGRAPH 2026 發表新合成影片偵測工具「Synthetic Video Dete [&#8230;]",
       "date": "2026-07-21T02:50:24+00:00",
-      "sourceId": "technews",
-      "cats": [
-        "market",
-        "process",
-        "material"
-      ]
-    },
-    {
-      "id": "f079a24f4193",
-      "title": "ASML 重金留住 AI 人才  員工最高可領 2 萬歐元股票",
-      "link": "https://technews.tw/2026/07/21/asml-to-offer-employees-e20000-retention-bonus-for-staying-in-2027-2030/",
-      "summary": "近年 AI 發展帶動半導體擴產浪潮，全球科技產業掀起人才爭奪戰。半導體設備大廠 ASML 為留住關鍵人才，宣布 [&#8230;]",
-      "date": "2026-07-21T02:10:34+00:00",
-      "sourceId": "technews",
-      "cats": [
-        "market",
-        "process",
-        "material"
-      ]
-    },
-    {
-      "id": "9c2f8c11fd06",
-      "title": "AI 巨頭走勢放緩，華爾街日報：散戶尋找新科技巨星",
-      "link": "https://finance.technews.tw/2026/07/21/ai-giants-momentum-slows-wall-street-journal-reports-retail-investors-seek-new-tech-superstars/",
-      "summary": "美國股市今天受油價走高影響，3 大指數小跌，費半指數小漲。過去幾年，全球投資人追捧人工智慧晶片與雲端大數據業者 [&#8230;]",
-      "date": "2026-07-21T01:40:54+00:00",
-      "sourceId": "technews",
-      "cats": [
-        "market",
-        "process",
-        "material"
-      ]
-    },
-    {
-      "id": "0c62651b3a9b",
-      "title": "加碼美國千億美元  台積電：結構性需求強勁",
-      "link": "https://technews.tw/2026/07/21/tsmc-us-investment-hundreds-billions-strong-structural-demand/",
-      "summary": "台積電上週法說會宣布，將加碼投資美國 1,000 億美元，台積電財務長黃仁昭接受多家外媒訪問時指出，這次加碼投 [&#8230;]",
-      "date": "2026-07-21T01:20:50+00:00",
       "sourceId": "technews",
       "cats": [
         "market",
