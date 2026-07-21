@@ -1,6 +1,6 @@
 {
-  "updated": "2026-07-21T06:36:21.274572+00:00",
-  "count": 14,
+  "updated": "2026-07-21T10:31:36.386223+00:00",
+  "count": 17,
   "sources": [
     {
       "id": "technews",
@@ -61,63 +61,102 @@
   ],
   "articles": [
     {
+      "id": "b8ffac3511bc",
+      "title": "英媒：中國考慮限制 AI 模型和半導體技術出口",
+      "link": "https://technews.tw/2026/07/21/uk-media-china-considers-restricting-ai-models-semiconductor-technology-exports/",
+      "summary": "英媒報導，中國政府正考慮收緊人工智慧（AI）和半導體技術出口管制。此舉顯示，如同美國，中國也視先進 AI 為關 [&#8230;]",
+      "date": "2026-07-21T09:40:09+00:00",
+      "sourceId": "technews",
+      "cats": [
+        "market",
+        "process",
+        "material"
+      ]
+    },
+    {
+      "id": "23e80fd9e008",
+      "title": "傳台積電 2027 年調漲晶圓代工價格！先進、成熟製程最高漲 10%",
+      "link": "https://technews.tw/2026/07/21/tsmc-raise-chipmaking-prices/",
+      "summary": "市場消息傳出，台積電計畫自 2027 年起調漲晶圓代工價格，先進製程與成熟製程價格最高將調升 10%，目前台積 [&#8230;]",
+      "date": "2026-07-21T09:17:36+00:00",
+      "sourceId": "technews",
+      "cats": [
+        "market",
+        "process",
+        "material"
+      ]
+    },
+    {
+      "id": "6ea4b9e86967",
+      "title": "壁仞科技首推 NPO 光互連新解方，單一叢集可支援 1,024 張 AI 加速卡",
+      "link": "https://technews.tw/2026/07/21/biren-npo-supernodes/",
+      "summary": "中國晶片新創壁仞科技近日發表新一代採用 NPO（近封裝光學）光互連、分散式解耦架構的超節點解決方案，支援單一超 [&#8230;]",
+      "date": "2026-07-21T08:20:04+00:00",
+      "sourceId": "technews",
+      "cats": [
+        "market",
+        "process",
+        "material"
+      ]
+    },
+    {
+      "id": "dcffce8f0053",
+      "title": "中美晶、聯合再生砸 4,000 萬美元赴美設廠，搶攻太陽能在地製造商機",
+      "link": "https://technews.tw/2026/07/21/sas-ure-invest-40m-us-factories-target-local-solar-manufacturing/",
+      "summary": "中美矽晶與聯合再生能源今（21）日宣布共同投資成立美國太陽能模組製造公司，規劃建置年產能 1 GW 的太陽能模 [&#8230;]",
+      "date": "2026-07-21T08:10:47+00:00",
+      "sourceId": "technews",
+      "cats": [
+        "market",
+        "process",
+        "material"
+      ]
+    },
+    {
+      "id": "586ef51aafec",
+      "title": "韓股震盪加劇，李在明促監管機構檢視槓桿型 ETF",
+      "link": "https://finance.technews.tw/2026/07/21/south-korea-president-urges-regulator-action-on-leveraged-stock-funds/",
+      "summary": "韓股近期震盪劇烈，與人工智慧（AI）晶片製造商股價掛鉤的槓桿型投資產品放大投資人損失，韓國總統李在明敦促金融監 [&#8230;]",
+      "date": "2026-07-21T07:40:07+00:00",
+      "sourceId": "technews",
+      "cats": [
+        "market",
+        "process",
+        "material"
+      ]
+    },
+    {
+      "id": "b97694c9f55f",
+      "title": "Kimi K3 爆紅供不應求  專家：記憶體／網通股利多",
+      "link": "https://finance.technews.tw/2026/07/21/kimi-k3-shortage-boosts-memory-and-networking-stocks/",
+      "summary": "獲阿里巴巴支持的中國 AI 新創商月之暗面（Moonshot）17 日正式發布新一代模型「Kimi K3」，效 [&#8230;]",
+      "date": "2026-07-21T07:20:38+00:00",
+      "sourceId": "technews",
+      "cats": [
+        "market",
+        "process",
+        "material"
+      ]
+    },
+    {
+      "id": "438b1c360e8f",
+      "title": "供給增速將超前需求成長，2H27 NAND Flash 緊缺壓力可望紓解",
+      "link": "https://technews.tw/2026/07/21/supply-growth-outpace-demand-easing-2h27-nand-flash-shortage/",
+      "summary": "TrendForce 最新 7 月 NAND Flash 每月數據分析，2026 年 AI 需求爆發，加上 N [&#8230;]",
+      "date": "2026-07-21T06:50:31+00:00",
+      "sourceId": "technews",
+      "cats": [
+        "market",
+        "process",
+        "material"
+      ]
+    },
+    {
       "id": "94b710ee5c74",
       "title": "輝達揭 9% 持股  Nebius 盤後嗨、新興雲端股同歡",
       "link": "https://finance.technews.tw/2026/07/21/nvidia-9-percent-stake-nebius-after-hours-surge-emerging-cloud-stocks-rally/",
       "summary": "荷蘭 AI 基礎建設供應商 Nebius Group 在最新公布的監管文件顯示，輝達（Nvidia Corp. [&#8230;]",
       "date": "2026-07-21T05:50:39+00:00",
-      "sourceId": "technews",
-      "cats": [
-        "market",
-        "process",
-        "material"
-      ]
-    },
-    {
-      "id": "8fb7cef653eb",
-      "title": "大摩喊記憶體遭錯殺  SK 海力士、三星、美光回神",
-      "link": "https://technews.tw/2026/07/21/as-microns-stock-rebounds-morgan-stanley-says-investors-shouldnt-get-spooked-by-the-past/",
-      "summary": "美光（Micron Technology）等美國記憶體、儲存概念股迎來反彈，分析人士認為，當前產業循環，可能存 [&#8230;]",
-      "date": "2026-07-21T04:50:36+00:00",
-      "sourceId": "technews",
-      "cats": [
-        "market",
-        "process",
-        "material"
-      ]
-    },
-    {
-      "id": "26bec1b019d4",
-      "title": "AI ASIC、矽光子開始放量，矽格迎新廠投產紅利",
-      "link": "https://technews.tw/2026/07/21/ai-asics-silicon-photonics-mass-production-sigrity-new-plant-benefits/",
-      "summary": "ASIC、矽光子、高效能運算（HPC）及記憶體測試需求持續升溫。法人指出，IC 封測廠矽格受惠新廠投產、產品開 [&#8230;]",
-      "date": "2026-07-21T04:05:13+00:00",
-      "sourceId": "technews",
-      "cats": [
-        "market",
-        "process",
-        "material"
-      ]
-    },
-    {
-      "id": "6403a0bb51f7",
-      "title": "抗震高股息 ETF 出列！00713、00918、00939、00961 跌幅遠低於大盤",
-      "link": "https://finance.technews.tw/2026/07/21/earthquake-resistant-and-high-dividend-stocks/",
-      "summary": "台股歷經上週五史上最大單日跌點後，市場波動仍未平息，台積電、鴻海等電子權值股雖發揮撐盤效果，但中小型股、記憶體 [&#8230;]",
-      "date": "2026-07-21T03:24:08+00:00",
-      "sourceId": "technews",
-      "cats": [
-        "market",
-        "process",
-        "material"
-      ]
-    },
-    {
-      "id": "b261efaf7009",
-      "title": "NVIDIA 推新 AI 工具「Synthetic Video Detector」偵測深偽影片，僅需 22 毫秒且準確率達 92%",
-      "link": "https://infosecu.technews.tw/2026/07/21/nvidias-new-ai-can-detect-deepfake-videos-in-just-22-milliseconds/",
-      "summary": "NVIDIA 在 SIGGRAPH 2026 發表新合成影片偵測工具「Synthetic Video Dete [&#8230;]",
-      "date": "2026-07-21T02:50:24+00:00",
       "sourceId": "technews",
       "cats": [
         "market",
