@@ -1,6 +1,6 @@
 {
-  "updated": "2026-07-22T06:37:47.723158+00:00",
-  "count": 11,
+  "updated": "2026-07-22T10:32:15.728886+00:00",
+  "count": 14,
   "sources": [
     {
       "id": "technews",
@@ -61,6 +61,58 @@
   ],
   "articles": [
     {
+      "id": "489f00bd2f53",
+      "title": "台灣億萬富豪資金雙向發威！對內狂掃 AI 半導體廠房、對外買爆星日不動產",
+      "link": "https://finance.technews.tw/2026/07/22/polarization/",
+      "summary": "萊坊年度《財富報告》分析全球豪華住宅、商業不動產及財富流動趨勢，萊坊亞太市場研究部主管李敏雯（Christin [&#8230;]",
+      "date": "2026-07-22T09:45:52+00:00",
+      "sourceId": "technews",
+      "cats": [
+        "market",
+        "process",
+        "material"
+      ]
+    },
+    {
+      "id": "cc4b91d0bf3c",
+      "title": "台達電收購美國矽谷新據點，擴大 AI 基礎設施版圖",
+      "link": "https://technews.tw/2026/07/22/delta-electronics-acquires-silicon-valley-base-expands-ai-infrastructure-footprint/",
+      "summary": "AI 資料中心與智慧能源需求持續成長，台達電收購位於美國加州矽谷地區 Fremont、面積約 5.5 萬平方英 [&#8230;]",
+      "date": "2026-07-22T09:17:23+00:00",
+      "sourceId": "technews",
+      "cats": [
+        "market",
+        "process",
+        "material"
+      ]
+    },
+    {
+      "id": "49a6c05c0875",
+      "title": "CEA-Leti Looks Beyond SRAM and DRAM as AI Reshapes the Memory Roadmap",
+      "link": "https://www.eetimes.com/cea-leti-looks-beyond-sram-and-dram-as-ai-reshapes-the-memory-roadmap/",
+      "summary": "CEA-Leti’s François Andrieu describes more embedded, persistent, and low-energy memories that will meet the growing demands of AI. The post CEA-Leti Looks Beyond SRAM and DRAM as AI Reshapes the Memory Roadmap appeared first on EE Times.",
+      "date": "2026-07-22T07:53:34+00:00",
+      "sourceId": "eetimes",
+      "cats": [
+        "process",
+        "material",
+        "equipment"
+      ]
+    },
+    {
+      "id": "31e91951f6b1",
+      "title": "Intel 4 製程開張迎外部客  攜 Fortinet 造資安晶片",
+      "link": "https://infosecu.technews.tw/2026/07/22/intel-and-fortinet-collaborate-to-advance-cybersecurity-innovation-and-strengthen-global-supply-chain-resilience/",
+      "summary": "英特爾（Intel Corp.）與網路安全大廠 Fortinet 宣布達成戰略合作協議，雙方將共同開發新一代資 [&#8230;]",
+      "date": "2026-07-22T06:40:16+00:00",
+      "sourceId": "technews",
+      "cats": [
+        "market",
+        "process",
+        "material"
+      ]
+    },
+    {
       "id": "4a0364f14f6a",
       "title": "味精、馬桶也變身 AI 股  日本老牌傳產成隱形贏家",
       "link": "https://finance.technews.tw/2026/07/22/msg-toilets-ai-stocks-japan-traditional-industries-hidden-winners/",
@@ -79,19 +131,6 @@
       "link": "https://technews.tw/2026/07/22/nvidia-reported-dark-fiber-buildout-could-benefit-ciena/",
       "summary": "市場謠傳，輝達（Nvidia）正在積極建置暗光纖（dark fiber）網路，分析師看好光通訊大廠光纖網路設備 [&#8230;]",
       "date": "2026-07-22T06:00:28+00:00",
-      "sourceId": "technews",
-      "cats": [
-        "market",
-        "process",
-        "material"
-      ]
-    },
-    {
-      "id": "0f73c7f3c163",
-      "title": "日本晶片設備銷售續旺、創歷史次高  相關股嗨",
-      "link": "https://technews.tw/2026/07/22/japan-chip-equipment-sales-hit-second-highest-level-on-record/",
-      "summary": "日本半導體（晶片）製造設備銷售續旺，6 月份銷售額創 16 個月來最大增幅，持續衝破 5,000 億日圓大關， [&#8230;]",
-      "date": "2026-07-22T04:00:23+00:00",
       "sourceId": "technews",
       "cats": [
         "market",
