@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-22T10:32:15.728886+00:00",
+  "updated": "2026-07-22T14:14:38.900619+00:00",
   "count": 14,
   "sources": [
     {
@@ -61,6 +61,19 @@
   ],
   "articles": [
     {
+      "id": "be0cdfbc7791",
+      "title": "黃仁勳：台廠因智慧信任與美合作　無須拿槍指著台灣的頭",
+      "link": "https://technews.tw/2026/07/22/jensen-huang-taiwan-firms-us-cooperation-intelligent-trust-no-gun-taiwan-head/",
+      "summary": "人工智慧（AI）晶片大廠輝達（NVIDIA）執行長黃仁勳談及台美半導體與科技產業合作，他表示，華府與美國當局須 [&#8230;]",
+      "date": "2026-07-22T13:54:50+00:00",
+      "sourceId": "technews",
+      "cats": [
+        "market",
+        "process",
+        "material"
+      ]
+    },
+    {
       "id": "489f00bd2f53",
       "title": "台灣億萬富豪資金雙向發威！對內狂掃 AI 半導體廠房、對外買爆星日不動產",
       "link": "https://finance.technews.tw/2026/07/22/polarization/",
@@ -118,19 +131,6 @@
       "link": "https://finance.technews.tw/2026/07/22/msg-toilets-ai-stocks-japan-traditional-industries-hidden-winners/",
       "summary": "人工智慧（AI）熱潮不僅帶旺晶片股，也讓一些看似與科技業無關的日本傳產公司躍居市場焦點。包括頂級馬桶品牌 TO [&#8230;]",
       "date": "2026-07-22T06:10:47+00:00",
-      "sourceId": "technews",
-      "cats": [
-        "market",
-        "process",
-        "material"
-      ]
-    },
-    {
-      "id": "59adb2ea024f",
-      "title": "輝達傳悄悄建置暗光纖、Ciena 料受惠  光通訊股嗨",
-      "link": "https://technews.tw/2026/07/22/nvidia-reported-dark-fiber-buildout-could-benefit-ciena/",
-      "summary": "市場謠傳，輝達（Nvidia）正在積極建置暗光纖（dark fiber）網路，分析師看好光通訊大廠光纖網路設備 [&#8230;]",
-      "date": "2026-07-22T06:00:28+00:00",
       "sourceId": "technews",
       "cats": [
         "market",
