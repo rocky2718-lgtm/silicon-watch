@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-22T21:22:09.205232+00:00",
+  "updated": "2026-07-22T23:11:01.036115+00:00",
   "count": 14,
   "sources": [
     {
@@ -61,6 +61,19 @@
   ],
   "articles": [
     {
+      "id": "e9b676cb7406",
+      "title": "BOSCH SD148 晶片助力 48V 架構，樹立車用控制單晶片新標竿",
+      "link": "https://technews.tw/2026/07/23/bosch-sd148-chip-48v-architecture-new-automotive-control-mcu-benchmark/",
+      "summary": "汽車智慧化與電子化程度加深，12V 低壓架構因功率不足、損耗過高，成為制約整車能效與架構升級的瓶頸，推動 48 [&#8230;]",
+      "date": "2026-07-22T23:00:26+00:00",
+      "sourceId": "technews",
+      "cats": [
+        "market",
+        "process",
+        "material"
+      ]
+    },
+    {
       "id": "be0cdfbc7791",
       "title": "黃仁勳：台廠因智慧信任與美合作　無須拿槍指著台灣的頭",
       "link": "https://technews.tw/2026/07/22/jensen-huang-taiwan-firms-us-cooperation-intelligent-trust-no-gun-taiwan-head/",
@@ -118,19 +131,6 @@
       "link": "https://infosecu.technews.tw/2026/07/22/intel-and-fortinet-collaborate-to-advance-cybersecurity-innovation-and-strengthen-global-supply-chain-resilience/",
       "summary": "英特爾（Intel Corp.）與網路安全大廠 Fortinet 宣布達成戰略合作協議，雙方將共同開發新一代資 [&#8230;]",
       "date": "2026-07-22T06:40:16+00:00",
-      "sourceId": "technews",
-      "cats": [
-        "market",
-        "process",
-        "material"
-      ]
-    },
-    {
-      "id": "4a0364f14f6a",
-      "title": "味精、馬桶也變身 AI 股  日本老牌傳產成隱形贏家",
-      "link": "https://finance.technews.tw/2026/07/22/msg-toilets-ai-stocks-japan-traditional-industries-hidden-winners/",
-      "summary": "人工智慧（AI）熱潮不僅帶旺晶片股，也讓一些看似與科技業無關的日本傳產公司躍居市場焦點。包括頂級馬桶品牌 TO [&#8230;]",
-      "date": "2026-07-22T06:10:47+00:00",
       "sourceId": "technews",
       "cats": [
         "market",
