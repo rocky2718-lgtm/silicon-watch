@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-21T23:04:22.522571+00:00",
+  "updated": "2026-07-22T03:30:54.629562+00:00",
   "count": 15,
   "sources": [
     {
@@ -61,6 +61,97 @@
   ],
   "articles": [
     {
+      "id": "8cfe520af4e4",
+      "title": "AMD 大會在即  市場盼搶 Anthropic 大單、追平輝達",
+      "link": "https://finance.technews.tw/2026/07/22/amd-conference-approaches-market-anticipates-anthropic-deals-rival-nvidia/",
+      "summary": "超微（AMD）即將舉辦的「Advancing AI 2026」大會，有機會宣布爭取到全新 AI 大戶，並發表新 [&#8230;]",
+      "date": "2026-07-22T02:20:32+00:00",
+      "sourceId": "technews",
+      "cats": [
+        "market",
+        "process",
+        "material"
+      ]
+    },
+    {
+      "id": "126dfa7015ab",
+      "title": "台積電 ADR 狂飆引爆多頭！加權指數劍指 4 萬 3，AI 電子重掌兵符成觀盤核心",
+      "link": "https://finance.technews.tw/2026/07/22/tsmc-adrs-surge-bull-run-taiex-targets-43000-ai-electronics-core-focus/",
+      "summary": "21 日台股加權指數微跌收在 42,449 點，外資小幅賣超 43 億元，但投信大舉買超 171 億元積極卡位 [&#8230;]",
+      "date": "2026-07-22T02:00:36+00:00",
+      "sourceId": "technews",
+      "cats": [
+        "market",
+        "process",
+        "material"
+      ]
+    },
+    {
+      "id": "ce4d79b52d86",
+      "title": "三星混合鍵合 HBM 延至 2029 年，瞄準輝達 Feynman 平台一次亮相",
+      "link": "https://technews.tw/2026/07/22/samsung-delay-hybrid-bonding-hbm-to-2029/",
+      "summary": "隨著高頻寬記憶體（HBM）持續朝更高堆疊層數與更高頻寬演進，市場普遍視混合鍵合（Hybrid Bonding） [&#8230;]",
+      "date": "2026-07-22T01:51:55+00:00",
+      "sourceId": "technews",
+      "cats": [
+        "market",
+        "process",
+        "material"
+      ]
+    },
+    {
+      "id": "c52f4573f431",
+      "title": "台積電擬調漲晶片價格，美分析師：英特爾受惠有限",
+      "link": "https://technews.tw/2026/07/22/can-big-techs-ai-boom-afford-the-bill/",
+      "summary": "日經亞洲報導，台積電預計明年調漲晶片價格。摩根大通科技產業分析師哈戈谷評估，英特爾可能難以從這波漲價中受惠太多 [&#8230;]",
+      "date": "2026-07-22T01:20:18+00:00",
+      "sourceId": "technews",
+      "cats": [
+        "market",
+        "process",
+        "material"
+      ]
+    },
+    {
+      "id": "ee5c4158817a",
+      "title": "美晶片股回勇，記憶體大廠見兩位數漲幅",
+      "link": "https://finance.technews.tw/2026/07/22/us-chip-stocks-rebound-memory-giants-post-double-digit-gains/",
+      "summary": "美股 3 大指數今天在晶片股回勇激勵下走高。市場預期本週公布財報的 Alphabet、IBM 與特斯拉表現不俗 [&#8230;]",
+      "date": "2026-07-22T01:10:05+00:00",
+      "sourceId": "technews",
+      "cats": [
+        "market",
+        "process",
+        "material"
+      ]
+    },
+    {
+      "id": "f8918ae6958f",
+      "title": "緯創、NVIDIA 啟動德州 AI 超級電腦工廠，黃仁勳：美迎來再工業化",
+      "link": "https://technews.tw/2026/07/22/nvidia-wistron-ai-supercomputer-factor/",
+      "summary": "做為美國推動高科技製造回流政策的重要一環，緯創與 NVIDIA 正式啟用位於美國德州沃斯堡的 AI 超級電腦製 [&#8230;]",
+      "date": "2026-07-22T01:03:47+00:00",
+      "sourceId": "technews",
+      "cats": [
+        "market",
+        "process",
+        "material"
+      ]
+    },
+    {
+      "id": "6abf4c27755b",
+      "title": "黃仁勳：台灣已非「俗擱大碗」，先進技術成全球 AI 震央",
+      "link": "https://technews.tw/2026/07/22/jensen-huang-taiwan-no-longer-cheap-advanced-tech-global-ai-epicenter/",
+      "summary": "緯創美國德州達拉斯 D1 新廠今天舉行開幕典禮，共同揭幕的輝達（NVIDIA）執行長黃仁勳受訪表示，台灣早已擺 [&#8230;]",
+      "date": "2026-07-22T01:00:18+00:00",
+      "sourceId": "technews",
+      "cats": [
+        "market",
+        "process",
+        "material"
+      ]
+    },
+    {
       "id": "b80331c19ec4",
       "title": "SK Hynix Nasdaq Debut Shows Global Memory Expansion Race",
       "link": "https://www.eetimes.com/sk-hynix-nasdaq-debut-shows-global-memory-expansion-race/",
@@ -71,97 +162,6 @@
         "process",
         "material",
         "equipment"
-      ]
-    },
-    {
-      "id": "b8ffac3511bc",
-      "title": "英媒：中國考慮限制 AI 模型和半導體技術出口",
-      "link": "https://technews.tw/2026/07/21/uk-media-china-considers-restricting-ai-models-semiconductor-technology-exports/",
-      "summary": "英媒報導，中國政府正考慮收緊人工智慧（AI）和半導體技術出口管制。此舉顯示，如同美國，中國也視先進 AI 為關 [&#8230;]",
-      "date": "2026-07-21T09:40:09+00:00",
-      "sourceId": "technews",
-      "cats": [
-        "market",
-        "process",
-        "material"
-      ]
-    },
-    {
-      "id": "23e80fd9e008",
-      "title": "傳台積電 2027 年調漲晶圓代工價格！先進、成熟製程最高漲 10%",
-      "link": "https://technews.tw/2026/07/21/tsmc-raise-chipmaking-prices/",
-      "summary": "市場消息傳出，台積電計畫自 2027 年起調漲晶圓代工價格，先進製程與成熟製程價格最高將調升 10%，目前台積 [&#8230;]",
-      "date": "2026-07-21T09:17:36+00:00",
-      "sourceId": "technews",
-      "cats": [
-        "market",
-        "process",
-        "material"
-      ]
-    },
-    {
-      "id": "6ea4b9e86967",
-      "title": "壁仞科技首推 NPO 光互連新解方，單一叢集可支援 1,024 張 AI 加速卡",
-      "link": "https://technews.tw/2026/07/21/biren-npo-supernodes/",
-      "summary": "中國晶片新創壁仞科技近日發表新一代採用 NPO（近封裝光學）光互連、分散式解耦架構的超節點解決方案，支援單一超 [&#8230;]",
-      "date": "2026-07-21T08:20:04+00:00",
-      "sourceId": "technews",
-      "cats": [
-        "market",
-        "process",
-        "material"
-      ]
-    },
-    {
-      "id": "dcffce8f0053",
-      "title": "中美晶、聯合再生砸 4,000 萬美元赴美設廠，搶攻太陽能在地製造商機",
-      "link": "https://technews.tw/2026/07/21/sas-ure-invest-40m-us-factories-target-local-solar-manufacturing/",
-      "summary": "中美矽晶與聯合再生能源今（21）日宣布共同投資成立美國太陽能模組製造公司，規劃建置年產能 1 GW 的太陽能模 [&#8230;]",
-      "date": "2026-07-21T08:10:47+00:00",
-      "sourceId": "technews",
-      "cats": [
-        "market",
-        "process",
-        "material"
-      ]
-    },
-    {
-      "id": "586ef51aafec",
-      "title": "韓股震盪加劇，李在明促監管機構檢視槓桿型 ETF",
-      "link": "https://finance.technews.tw/2026/07/21/south-korea-president-urges-regulator-action-on-leveraged-stock-funds/",
-      "summary": "韓股近期震盪劇烈，與人工智慧（AI）晶片製造商股價掛鉤的槓桿型投資產品放大投資人損失，韓國總統李在明敦促金融監 [&#8230;]",
-      "date": "2026-07-21T07:40:07+00:00",
-      "sourceId": "technews",
-      "cats": [
-        "market",
-        "process",
-        "material"
-      ]
-    },
-    {
-      "id": "b97694c9f55f",
-      "title": "Kimi K3 爆紅供不應求  專家：記憶體／網通股利多",
-      "link": "https://finance.technews.tw/2026/07/21/kimi-k3-shortage-boosts-memory-and-networking-stocks/",
-      "summary": "獲阿里巴巴支持的中國 AI 新創商月之暗面（Moonshot）17 日正式發布新一代模型「Kimi K3」，效 [&#8230;]",
-      "date": "2026-07-21T07:20:38+00:00",
-      "sourceId": "technews",
-      "cats": [
-        "market",
-        "process",
-        "material"
-      ]
-    },
-    {
-      "id": "438b1c360e8f",
-      "title": "供給增速將超前需求成長，2H27 NAND Flash 緊缺壓力可望紓解",
-      "link": "https://technews.tw/2026/07/21/supply-growth-outpace-demand-easing-2h27-nand-flash-shortage/",
-      "summary": "TrendForce 最新 7 月 NAND Flash 每月數據分析，2026 年 AI 需求爆發，加上 N [&#8230;]",
-      "date": "2026-07-21T06:50:31+00:00",
-      "sourceId": "technews",
-      "cats": [
-        "market",
-        "process",
-        "material"
       ]
     },
     {
