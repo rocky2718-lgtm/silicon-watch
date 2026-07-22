@@ -1,6 +1,6 @@
 {
-  "updated": "2026-07-22T03:30:54.629562+00:00",
-  "count": 15,
+  "updated": "2026-07-22T06:37:47.723158+00:00",
+  "count": 11,
   "sources": [
     {
       "id": "technews",
@@ -61,11 +61,11 @@
   ],
   "articles": [
     {
-      "id": "8cfe520af4e4",
-      "title": "AMD 大會在即  市場盼搶 Anthropic 大單、追平輝達",
-      "link": "https://finance.technews.tw/2026/07/22/amd-conference-approaches-market-anticipates-anthropic-deals-rival-nvidia/",
-      "summary": "超微（AMD）即將舉辦的「Advancing AI 2026」大會，有機會宣布爭取到全新 AI 大戶，並發表新 [&#8230;]",
-      "date": "2026-07-22T02:20:32+00:00",
+      "id": "4a0364f14f6a",
+      "title": "味精、馬桶也變身 AI 股  日本老牌傳產成隱形贏家",
+      "link": "https://finance.technews.tw/2026/07/22/msg-toilets-ai-stocks-japan-traditional-industries-hidden-winners/",
+      "summary": "人工智慧（AI）熱潮不僅帶旺晶片股，也讓一些看似與科技業無關的日本傳產公司躍居市場焦點。包括頂級馬桶品牌 TO [&#8230;]",
+      "date": "2026-07-22T06:10:47+00:00",
       "sourceId": "technews",
       "cats": [
         "market",
@@ -74,11 +74,11 @@
       ]
     },
     {
-      "id": "126dfa7015ab",
-      "title": "台積電 ADR 狂飆引爆多頭！加權指數劍指 4 萬 3，AI 電子重掌兵符成觀盤核心",
-      "link": "https://finance.technews.tw/2026/07/22/tsmc-adrs-surge-bull-run-taiex-targets-43000-ai-electronics-core-focus/",
-      "summary": "21 日台股加權指數微跌收在 42,449 點，外資小幅賣超 43 億元，但投信大舉買超 171 億元積極卡位 [&#8230;]",
-      "date": "2026-07-22T02:00:36+00:00",
+      "id": "59adb2ea024f",
+      "title": "輝達傳悄悄建置暗光纖、Ciena 料受惠  光通訊股嗨",
+      "link": "https://technews.tw/2026/07/22/nvidia-reported-dark-fiber-buildout-could-benefit-ciena/",
+      "summary": "市場謠傳，輝達（Nvidia）正在積極建置暗光纖（dark fiber）網路，分析師看好光通訊大廠光纖網路設備 [&#8230;]",
+      "date": "2026-07-22T06:00:28+00:00",
       "sourceId": "technews",
       "cats": [
         "market",
@@ -87,63 +87,11 @@
       ]
     },
     {
-      "id": "ce4d79b52d86",
-      "title": "三星混合鍵合 HBM 延至 2029 年，瞄準輝達 Feynman 平台一次亮相",
-      "link": "https://technews.tw/2026/07/22/samsung-delay-hybrid-bonding-hbm-to-2029/",
-      "summary": "隨著高頻寬記憶體（HBM）持續朝更高堆疊層數與更高頻寬演進，市場普遍視混合鍵合（Hybrid Bonding） [&#8230;]",
-      "date": "2026-07-22T01:51:55+00:00",
-      "sourceId": "technews",
-      "cats": [
-        "market",
-        "process",
-        "material"
-      ]
-    },
-    {
-      "id": "c52f4573f431",
-      "title": "台積電擬調漲晶片價格，美分析師：英特爾受惠有限",
-      "link": "https://technews.tw/2026/07/22/can-big-techs-ai-boom-afford-the-bill/",
-      "summary": "日經亞洲報導，台積電預計明年調漲晶片價格。摩根大通科技產業分析師哈戈谷評估，英特爾可能難以從這波漲價中受惠太多 [&#8230;]",
-      "date": "2026-07-22T01:20:18+00:00",
-      "sourceId": "technews",
-      "cats": [
-        "market",
-        "process",
-        "material"
-      ]
-    },
-    {
-      "id": "ee5c4158817a",
-      "title": "美晶片股回勇，記憶體大廠見兩位數漲幅",
-      "link": "https://finance.technews.tw/2026/07/22/us-chip-stocks-rebound-memory-giants-post-double-digit-gains/",
-      "summary": "美股 3 大指數今天在晶片股回勇激勵下走高。市場預期本週公布財報的 Alphabet、IBM 與特斯拉表現不俗 [&#8230;]",
-      "date": "2026-07-22T01:10:05+00:00",
-      "sourceId": "technews",
-      "cats": [
-        "market",
-        "process",
-        "material"
-      ]
-    },
-    {
-      "id": "f8918ae6958f",
-      "title": "緯創、NVIDIA 啟動德州 AI 超級電腦工廠，黃仁勳：美迎來再工業化",
-      "link": "https://technews.tw/2026/07/22/nvidia-wistron-ai-supercomputer-factor/",
-      "summary": "做為美國推動高科技製造回流政策的重要一環，緯創與 NVIDIA 正式啟用位於美國德州沃斯堡的 AI 超級電腦製 [&#8230;]",
-      "date": "2026-07-22T01:03:47+00:00",
-      "sourceId": "technews",
-      "cats": [
-        "market",
-        "process",
-        "material"
-      ]
-    },
-    {
-      "id": "6abf4c27755b",
-      "title": "黃仁勳：台灣已非「俗擱大碗」，先進技術成全球 AI 震央",
-      "link": "https://technews.tw/2026/07/22/jensen-huang-taiwan-no-longer-cheap-advanced-tech-global-ai-epicenter/",
-      "summary": "緯創美國德州達拉斯 D1 新廠今天舉行開幕典禮，共同揭幕的輝達（NVIDIA）執行長黃仁勳受訪表示，台灣早已擺 [&#8230;]",
-      "date": "2026-07-22T01:00:18+00:00",
+      "id": "0f73c7f3c163",
+      "title": "日本晶片設備銷售續旺、創歷史次高  相關股嗨",
+      "link": "https://technews.tw/2026/07/22/japan-chip-equipment-sales-hit-second-highest-level-on-record/",
+      "summary": "日本半導體（晶片）製造設備銷售續旺，6 月份銷售額創 16 個月來最大增幅，持續衝破 5,000 億日圓大關， [&#8230;]",
+      "date": "2026-07-22T04:00:23+00:00",
       "sourceId": "technews",
       "cats": [
         "market",
