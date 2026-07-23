@@ -1,6 +1,6 @@
 {
-  "updated": "2026-07-23T21:14:12.225248+00:00",
-  "count": 13,
+  "updated": "2026-07-23T23:04:30.936614+00:00",
+  "count": 17,
   "sources": [
     {
       "id": "technews",
@@ -61,50 +61,102 @@
   ],
   "articles": [
     {
+      "id": "f91bd92e925a",
+      "title": "蘇姿丰揭示未來藍圖，EPYC 與 Instinct 世代交替引領 AI 推論效能飆升 2,000 倍",
+      "link": "https://finance.technews.tw/2026/07/24/epyc-and-instinct-generational-shift/",
+      "summary": "在 AMD 於 2026 年的 Advancing AI 大會尾聲，董事長暨執行長蘇姿丰（Lisa Su）為這 [&#8230;]",
+      "date": "2026-07-23T22:10:23+00:00",
+      "sourceId": "technews",
+      "cats": [
+        "market",
+        "process",
+        "material"
+      ]
+    },
+    {
+      "id": "84a082e75609",
+      "title": "AMD 發表 Ryzen AI Embedded X100 與 Kria AI 模組，全面布局實體 AI 機器人市場",
+      "link": "https://finance.technews.tw/2026/07/24/amd-unveils-ryzen-ai-embedded-x100-and-kria-ai-module/",
+      "summary": "在 2026 年的 Advancing AI 大會上，AMD 宣布了針對機器人與「實體 AI（Physical [&#8230;]",
+      "date": "2026-07-23T22:05:58+00:00",
+      "sourceId": "technews",
+      "cats": [
+        "market",
+        "process",
+        "material"
+      ]
+    },
+    {
+      "id": "ac734c9a0da9",
+      "title": "瞄準 NVIDIA Vera 而來！直擊 AMD 發表第六代 EPYC Venice 伺服器處理器",
+      "link": "https://finance.technews.tw/2026/07/24/live-coverage-of-amds-6th-generation-epyc-venice-server-processor-launch/",
+      "summary": "隨著人工智慧技術從單純的聊天機器人躍升至由多個代理程式自主協作的「代理式AI（Agentic AI）」時代，A [&#8230;]",
+      "date": "2026-07-23T22:05:55+00:00",
+      "sourceId": "technews",
+      "cats": [
+        "market",
+        "process",
+        "material"
+      ]
+    },
+    {
+      "id": "45a3c716712d",
+      "title": "資料移動效率決定 AI 擴展規模，AMD 發表 2026 AI 網路基礎架構藍圖",
+      "link": "https://finance.technews.tw/2026/07/24/amd-unveils-its-2026-ai-network-infrastructure-roadmap/",
+      "summary": "隨著生成式與代理式人工智慧（Agentic AI）的快速發展，AMD 在「Advancing AI 2026」 [&#8230;]",
+      "date": "2026-07-23T22:05:17+00:00",
+      "sourceId": "technews",
+      "cats": [
+        "market",
+        "process",
+        "material"
+      ]
+    },
+    {
+      "id": "72cc4925d71d",
+      "title": "養龍蝦風潮崛起，AMD Advancing AI 大會發布 Gorgon Halo 全新地端 AI 硬體架構",
+      "link": "https://finance.technews.tw/2026/07/24/amd-unveils-new-ground-based-ai-hardware-architecture-gorgon-halo/",
+      "summary": "AMD 於 2026 年的 Advancing AI 大會上，為未來的個人與企業 AI 運算投下震撼彈。會中由 [&#8230;]",
+      "date": "2026-07-23T22:05:08+00:00",
+      "sourceId": "technews",
+      "cats": [
+        "market",
+        "process",
+        "material"
+      ]
+    },
+    {
+      "id": "8ac9bbbe4dda",
+      "title": "直擊 AMD Advancing AI 2026 現場，新一代 Instinct MI400 系列與 Helios 平台發表，劍指 AI 工廠與前沿推論市場",
+      "link": "https://finance.technews.tw/2026/07/24/the-new-generation-instinct-mi400-series-and-helios-platform-were-announced/",
+      "summary": "在美國舊金山所舉行的 Advancing AI 2026 年度大會上，AMD 正式公開了下一代資料中心 GPU [&#8230;]",
+      "date": "2026-07-23T22:05:07+00:00",
+      "sourceId": "technews",
+      "cats": [
+        "market",
+        "process",
+        "material"
+      ]
+    },
+    {
+      "id": "169ed2e645f6",
+      "title": "AMD Advancing AI 2026 蘇姿丰揭露代理式 AI 時代藍圖，MI455X 晶片與 Helios 機櫃系統強勢登場",
+      "link": "https://finance.technews.tw/2026/07/24/at-amd-advancing-ai-2026-lisa-su-unveiled-a-blueprint-for-the-era-of-agent-based-ai/",
+      "summary": "AMD 董事長暨執行長蘇姿丰於美國舊金山舉辦的Advancing AI 2026年度大會上發表主題演講，向全球 [&#8230;]",
+      "date": "2026-07-23T22:00:06+00:00",
+      "sourceId": "technews",
+      "cats": [
+        "market",
+        "process",
+        "material"
+      ]
+    },
+    {
       "id": "0d00557cc756",
       "title": "比韓劇精彩！SK 會長崔泰源「世紀離婚」明日宣判，天價財產怎麼分？",
       "link": "https://finance.technews.tw/2026/07/23/sk-hynix-ex-wife-2026-divorced-and-stock/",
       "summary": "全球記憶體晶片大廠 SK 海力士會長崔泰源，與韓國前總統盧泰愚之女盧素英的「世紀離婚案」將於 24 日進入高潮 [&#8230;]",
       "date": "2026-07-23T09:07:06+00:00",
-      "sourceId": "technews",
-      "cats": [
-        "market",
-        "process",
-        "material"
-      ]
-    },
-    {
-      "id": "30bfb0128568",
-      "title": "市調：記憶體價格飆漲衝擊，第二季 PC 出貨量年減 4%",
-      "link": "https://technews.tw/2026/07/23/memory-crunch-ends-pc-recovery-as-global-shipments-decline-for-first-time-since-q1-2025/",
-      "summary": "市場研究機構 Counterpoint Research 表示，記憶體價格飆漲、零組件成本升高，影響電腦代工廠 [&#8230;]",
-      "date": "2026-07-23T06:40:53+00:00",
-      "sourceId": "technews",
-      "cats": [
-        "market",
-        "process",
-        "material"
-      ]
-    },
-    {
-      "id": "c762ece72c59",
-      "title": "CPU 報價飆 4 成  傳中國客戶急找 Intel、AMD 簽長約",
-      "link": "https://technews.tw/2026/07/23/intel-amd-sign-long-term-server-cpu-deals-with-chinese-clients-as-prices-surge/",
-      "summary": "市場謠傳，有鑑於價格激增，英特爾（Intel Corp.）、超微（AMD）已開始跟中國伺服器客戶簽署較為長期的 [&#8230;]",
-      "date": "2026-07-23T06:20:10+00:00",
-      "sourceId": "technews",
-      "cats": [
-        "market",
-        "process",
-        "material"
-      ]
-    },
-    {
-      "id": "0dd83757ea5e",
-      "title": "假消息！SK 海力士否認收購英特爾俄亥俄州廠",
-      "link": "https://technews.tw/2026/07/23/sk-hynix-intel-ohio-deal-rumor-is-not-real/",
-      "summary": "近期韓媒報導，受美國政府推動半導體在地化及 AI 記憶體供不應求影響，SK 海力士有意收購英特爾俄亥俄州廠，以 [&#8230;]",
-      "date": "2026-07-23T06:07:37+00:00",
       "sourceId": "technews",
       "cats": [
         "market",
