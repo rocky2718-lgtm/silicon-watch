@@ -1,6 +1,6 @@
 {
-  "updated": "2026-07-22T23:11:01.036115+00:00",
-  "count": 14,
+  "updated": "2026-07-23T03:35:26.240219+00:00",
+  "count": 16,
   "sources": [
     {
       "id": "technews",
@@ -61,11 +61,11 @@
   ],
   "articles": [
     {
-      "id": "e9b676cb7406",
-      "title": "BOSCH SD148 晶片助力 48V 架構，樹立車用控制單晶片新標竿",
-      "link": "https://technews.tw/2026/07/23/bosch-sd148-chip-48v-architecture-new-automotive-control-mcu-benchmark/",
-      "summary": "汽車智慧化與電子化程度加深，12V 低壓架構因功率不足、損耗過高，成為制約整車能效與架構升級的瓶頸，推動 48 [&#8230;]",
-      "date": "2026-07-22T23:00:26+00:00",
+      "id": "82c899193d52",
+      "title": "SEMI：2030 年全球半導體產值有望達 1.5 兆美元",
+      "link": "https://technews.tw/2026/07/23/global-semiconductor-equipment-sales-forecast-to-reach-a-record-229-billion-in-2028/",
+      "summary": "SEMI 全球行銷長暨台灣區總裁曹世綸 22 日表示，AI 基礎建設投資規模已超越曼哈頓計畫及阿波羅計畫，帶動 [&#8230;]",
+      "date": "2026-07-23T03:20:17+00:00",
       "sourceId": "technews",
       "cats": [
         "market",
@@ -74,11 +74,11 @@
       ]
     },
     {
-      "id": "be0cdfbc7791",
-      "title": "黃仁勳：台廠因智慧信任與美合作　無須拿槍指著台灣的頭",
-      "link": "https://technews.tw/2026/07/22/jensen-huang-taiwan-firms-us-cooperation-intelligent-trust-no-gun-taiwan-head/",
-      "summary": "人工智慧（AI）晶片大廠輝達（NVIDIA）執行長黃仁勳談及台美半導體與科技產業合作，他表示，華府與美國當局須 [&#8230;]",
-      "date": "2026-07-22T13:54:50+00:00",
+      "id": "48da4d353ae0",
+      "title": "停工六年再出發，三星顯示器重啟牙山 67 兆韓圜 OLED 投資",
+      "link": "https://technews.tw/2026/07/23/samsung-display-moves-to-resume-67-trillion-won-asan-campus-2-investment/",
+      "summary": "三星顯示器（Samsung Display）7 月 22 日表示，將立即重啟位於忠清南道牙山的第二園區投資計畫 [&#8230;]",
+      "date": "2026-07-23T03:00:09+00:00",
       "sourceId": "technews",
       "cats": [
         "market",
@@ -87,11 +87,11 @@
       ]
     },
     {
-      "id": "489f00bd2f53",
-      "title": "台灣億萬富豪資金雙向發威！對內狂掃 AI 半導體廠房、對外買爆星日不動產",
-      "link": "https://finance.technews.tw/2026/07/22/polarization/",
-      "summary": "萊坊年度《財富報告》分析全球豪華住宅、商業不動產及財富流動趨勢，萊坊亞太市場研究部主管李敏雯（Christin [&#8230;]",
-      "date": "2026-07-22T09:45:52+00:00",
+      "id": "a76c03cb0e25",
+      "title": "李在明赴美會晤一眾科技巨頭，攜手三星、SK 海力士布局 AI 供應鏈",
+      "link": "https://finance.technews.tw/2026/07/23/president-lee-biz-leaders-to-meet-nvidia-openai-chiefs-in-san-francisco/",
+      "summary": "韓國政府 22 日宣布，總統李在明 24 日赴美舊金山，與多家全球 AI 與半導體巨頭高層密集會談，強化韓國人 [&#8230;]",
+      "date": "2026-07-23T02:50:57+00:00",
       "sourceId": "technews",
       "cats": [
         "market",
@@ -100,11 +100,50 @@
       ]
     },
     {
-      "id": "cc4b91d0bf3c",
-      "title": "台達電收購美國矽谷新據點，擴大 AI 基礎設施版圖",
-      "link": "https://technews.tw/2026/07/22/delta-electronics-acquires-silicon-valley-base-expands-ai-infrastructure-footprint/",
-      "summary": "AI 資料中心與智慧能源需求持續成長，台達電收購位於美國加州矽谷地區 Fremont、面積約 5.5 萬平方英 [&#8230;]",
-      "date": "2026-07-22T09:17:23+00:00",
+      "id": "1d9c988d57cf",
+      "title": "需求增  JX 金屬傳倍增韓國濺鍍靶材加工產能",
+      "link": "https://technews.tw/2026/07/23/jx-metals-doubles-south-korean-sputtering-target-processing-capacity-amid-rising-demand/",
+      "summary": "因應需求增加，日本半導體材料商 JX 金屬（JX Advanced Metals Corporation）傳出 [&#8230;]",
+      "date": "2026-07-23T02:40:13+00:00",
+      "sourceId": "technews",
+      "cats": [
+        "market",
+        "process",
+        "material"
+      ]
+    },
+    {
+      "id": "9aa2012ea29f",
+      "title": "台積電 Q2 法說定生死！44,000 保衛戰，AI 基建與矽光子主導多頭",
+      "link": "https://finance.technews.tw/2026/07/23/tsmc-q2-earnings-call-decisive-44000-defense-battle-ai-infrastructure-silicon-photonics-drive-bull-market/",
+      "summary": "22 日大盤絕地反攻，外資終結連 13 賣轉強補 173.4 億，與投信推升加權急漲逾 600 點至 44,2 [&#8230;]",
+      "date": "2026-07-23T02:00:24+00:00",
+      "sourceId": "technews",
+      "cats": [
+        "market",
+        "process",
+        "material"
+      ]
+    },
+    {
+      "id": "befd5786a230",
+      "title": "搶賺 AI 廢棄財！台鎔科技上市掛牌首日大漲 19.69% 上演蜜月行情",
+      "link": "https://finance.technews.tw/2026/07/23/specialty-chemical-waste-liquid/",
+      "summary": "專注於半導體廢棄物處理與資源化利用的台鎔科技今日以每股 66 元正式上市掛牌交易，截至目前為止，盤中最高達 7 [&#8230;]",
+      "date": "2026-07-23T01:46:20+00:00",
+      "sourceId": "technews",
+      "cats": [
+        "market",
+        "process",
+        "material"
+      ]
+    },
+    {
+      "id": "edcf51a19316",
+      "title": "AMD 即將迎新品！廣發看好 CPU、GPU 前景與客戶合作，目標價喊上 640 美元",
+      "link": "https://technews.tw/2026/07/23/amd-anthropic-roadmap/",
+      "summary": "隨著 AMD 即將發布最新產品，廣發證券近日出具最新報告指出，AMD 有望透過 MI450X 持續縮小與輝達， [&#8230;]",
+      "date": "2026-07-23T01:23:52+00:00",
       "sourceId": "technews",
       "cats": [
         "market",
@@ -123,19 +162,6 @@
         "process",
         "material",
         "equipment"
-      ]
-    },
-    {
-      "id": "31e91951f6b1",
-      "title": "Intel 4 製程開張迎外部客  攜 Fortinet 造資安晶片",
-      "link": "https://infosecu.technews.tw/2026/07/22/intel-and-fortinet-collaborate-to-advance-cybersecurity-innovation-and-strengthen-global-supply-chain-resilience/",
-      "summary": "英特爾（Intel Corp.）與網路安全大廠 Fortinet 宣布達成戰略合作協議，雙方將共同開發新一代資 [&#8230;]",
-      "date": "2026-07-22T06:40:16+00:00",
-      "sourceId": "technews",
-      "cats": [
-        "market",
-        "process",
-        "material"
       ]
     },
     {
