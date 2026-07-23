@@ -1,6 +1,6 @@
 {
-  "updated": "2026-07-23T06:36:03.925346+00:00",
-  "count": 19,
+  "updated": "2026-07-23T10:31:28.592258+00:00",
+  "count": 13,
   "sources": [
     {
       "id": "technews",
@@ -61,6 +61,32 @@
   ],
   "articles": [
     {
+      "id": "d9c8b79e404c",
+      "title": "比韓劇精彩！SK 會長崔泰源「世紀離婚」明日宣判，天價財產怎麼分？",
+      "link": "https://technews.tw/2026/07/23/sk-hynix-ex-wife-2026-divorced-and-stock/",
+      "summary": "全球記憶體晶片大廠 SK 海力士會長崔泰源，與韓國前總統盧泰愚之女盧素英的「世紀離婚案」將於 24 日進入高潮 [&#8230;]",
+      "date": "2026-07-23T09:07:06+00:00",
+      "sourceId": "technews",
+      "cats": [
+        "market",
+        "process",
+        "material"
+      ]
+    },
+    {
+      "id": "30bfb0128568",
+      "title": "市調：記憶體價格飆漲衝擊，第二季 PC 出貨量年減 4%",
+      "link": "https://technews.tw/2026/07/23/memory-crunch-ends-pc-recovery-as-global-shipments-decline-for-first-time-since-q1-2025/",
+      "summary": "市場研究機構 Counterpoint Research 表示，記憶體價格飆漲、零組件成本升高，影響電腦代工廠 [&#8230;]",
+      "date": "2026-07-23T06:40:53+00:00",
+      "sourceId": "technews",
+      "cats": [
+        "market",
+        "process",
+        "material"
+      ]
+    },
+    {
       "id": "c762ece72c59",
       "title": "CPU 報價飆 4 成  傳中國客戶急找 Intel、AMD 簽長約",
       "link": "https://technews.tw/2026/07/23/intel-amd-sign-long-term-server-cpu-deals-with-chinese-clients-as-prices-surge/",
@@ -79,110 +105,6 @@
       "link": "https://technews.tw/2026/07/23/sk-hynix-intel-ohio-deal-rumor-is-not-real/",
       "summary": "近期韓媒報導，受美國政府推動半導體在地化及 AI 記憶體供不應求影響，SK 海力士有意收購英特爾俄亥俄州廠，以 [&#8230;]",
       "date": "2026-07-23T06:07:37+00:00",
-      "sourceId": "technews",
-      "cats": [
-        "market",
-        "process",
-        "material"
-      ]
-    },
-    {
-      "id": "705c52e1c119",
-      "title": "黃仁勳：美國應允許企業使用中國開源模型",
-      "link": "https://technews.tw/2026/07/23/nvidia-ceo-jensen-huang-defends-chinese-ai-amid-kimi-k3-concerns/",
-      "summary": "白宮試圖阻止美國公司運用中國開源模型增加生產力、提升工作效率，但 NVIDIA 執行長黃仁勳認為，美國公司應被 [&#8230;]",
-      "date": "2026-07-23T05:04:18+00:00",
-      "sourceId": "technews",
-      "cats": [
-        "market",
-        "process",
-        "material"
-      ]
-    },
-    {
-      "id": "c7d2c4cde2c6",
-      "title": "高通、三星擴大合作！Snapdragon 全面進駐 Galaxy 摺疊機、手錶到眼鏡",
-      "link": "https://technews.tw/2026/07/23/qualcomm-galaxy-samsung-unpacked-products/",
-      "summary": "高通今（23 日）於 Samsung Unpacked 活動中宣布旗下專為 Galaxy 打造 Snapdra [&#8230;]",
-      "date": "2026-07-23T04:10:03+00:00",
-      "sourceId": "technews",
-      "cats": [
-        "market",
-        "process",
-        "material"
-      ]
-    },
-    {
-      "id": "68a135781db0",
-      "title": "馬斯克：Optimus 需重建供應鏈難量產  台積電助攻",
-      "link": "https://technews.tw/2026/07/23/elon-musk-optimus-needs-supply-chain-rebuild-difficult-mass-production-tsmc-assists/",
-      "summary": "特斯拉（Tesla）執行長馬斯克（Elon Musk）表示，人型機器人「Optimus」將成為公司「有史以來最 [&#8230;]",
-      "date": "2026-07-23T04:00:06+00:00",
-      "sourceId": "technews",
-      "cats": [
-        "market",
-        "process",
-        "material"
-      ]
-    },
-    {
-      "id": "ff615ddde04d",
-      "title": "車用需求回神  德州儀器迎春燕 Q2 獲利狂增 53%",
-      "link": "https://finance.technews.tw/2026/07/23/ti-reports-second-quarter-2026-financial-results/",
-      "summary": "美國半導體大廠德州儀器（Texas Instruments）受惠 AI 基礎設施投資升溫，以及工業、車用市場需 [&#8230;]",
-      "date": "2026-07-23T03:40:35+00:00",
-      "sourceId": "technews",
-      "cats": [
-        "market",
-        "process",
-        "material"
-      ]
-    },
-    {
-      "id": "82c899193d52",
-      "title": "SEMI：2030 年全球半導體產值有望達 1.5 兆美元",
-      "link": "https://technews.tw/2026/07/23/global-semiconductor-equipment-sales-forecast-to-reach-a-record-229-billion-in-2028/",
-      "summary": "SEMI 全球行銷長暨台灣區總裁曹世綸 22 日表示，AI 基礎建設投資規模已超越曼哈頓計畫及阿波羅計畫，帶動 [&#8230;]",
-      "date": "2026-07-23T03:20:17+00:00",
-      "sourceId": "technews",
-      "cats": [
-        "market",
-        "process",
-        "material"
-      ]
-    },
-    {
-      "id": "48da4d353ae0",
-      "title": "停工六年再出發，三星顯示器重啟牙山 67 兆韓圜 OLED 投資",
-      "link": "https://technews.tw/2026/07/23/samsung-display-moves-to-resume-67-trillion-won-asan-campus-2-investment/",
-      "summary": "三星顯示器（Samsung Display）7 月 22 日表示，將立即重啟位於忠清南道牙山的第二園區投資計畫 [&#8230;]",
-      "date": "2026-07-23T03:00:09+00:00",
-      "sourceId": "technews",
-      "cats": [
-        "market",
-        "process",
-        "material"
-      ]
-    },
-    {
-      "id": "a76c03cb0e25",
-      "title": "李在明赴美會晤一眾科技巨頭，攜手三星、SK 海力士布局 AI 供應鏈",
-      "link": "https://finance.technews.tw/2026/07/23/president-lee-biz-leaders-to-meet-nvidia-openai-chiefs-in-san-francisco/",
-      "summary": "韓國政府 22 日宣布，總統李在明 24 日赴美舊金山，與多家全球 AI 與半導體巨頭高層密集會談，強化韓國人 [&#8230;]",
-      "date": "2026-07-23T02:50:57+00:00",
-      "sourceId": "technews",
-      "cats": [
-        "market",
-        "process",
-        "material"
-      ]
-    },
-    {
-      "id": "1d9c988d57cf",
-      "title": "需求增  JX 金屬傳倍增韓國濺鍍靶材加工產能",
-      "link": "https://technews.tw/2026/07/23/jx-metals-doubles-south-korean-sputtering-target-processing-capacity-amid-rising-demand/",
-      "summary": "因應需求增加，日本半導體材料商 JX 金屬（JX Advanced Metals Corporation）傳出 [&#8230;]",
-      "date": "2026-07-23T02:40:13+00:00",
       "sourceId": "technews",
       "cats": [
         "market",
