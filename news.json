@@ -1,6 +1,6 @@
 {
-  "updated": "2026-07-23T03:35:26.240219+00:00",
-  "count": 16,
+  "updated": "2026-07-23T06:36:03.925346+00:00",
+  "count": 19,
   "sources": [
     {
       "id": "technews",
@@ -61,6 +61,84 @@
   ],
   "articles": [
     {
+      "id": "c762ece72c59",
+      "title": "CPU 報價飆 4 成  傳中國客戶急找 Intel、AMD 簽長約",
+      "link": "https://technews.tw/2026/07/23/intel-amd-sign-long-term-server-cpu-deals-with-chinese-clients-as-prices-surge/",
+      "summary": "市場謠傳，有鑑於價格激增，英特爾（Intel Corp.）、超微（AMD）已開始跟中國伺服器客戶簽署較為長期的 [&#8230;]",
+      "date": "2026-07-23T06:20:10+00:00",
+      "sourceId": "technews",
+      "cats": [
+        "market",
+        "process",
+        "material"
+      ]
+    },
+    {
+      "id": "0dd83757ea5e",
+      "title": "假消息！SK 海力士否認收購英特爾俄亥俄州廠",
+      "link": "https://technews.tw/2026/07/23/sk-hynix-intel-ohio-deal-rumor-is-not-real/",
+      "summary": "近期韓媒報導，受美國政府推動半導體在地化及 AI 記憶體供不應求影響，SK 海力士有意收購英特爾俄亥俄州廠，以 [&#8230;]",
+      "date": "2026-07-23T06:07:37+00:00",
+      "sourceId": "technews",
+      "cats": [
+        "market",
+        "process",
+        "material"
+      ]
+    },
+    {
+      "id": "705c52e1c119",
+      "title": "黃仁勳：美國應允許企業使用中國開源模型",
+      "link": "https://technews.tw/2026/07/23/nvidia-ceo-jensen-huang-defends-chinese-ai-amid-kimi-k3-concerns/",
+      "summary": "白宮試圖阻止美國公司運用中國開源模型增加生產力、提升工作效率，但 NVIDIA 執行長黃仁勳認為，美國公司應被 [&#8230;]",
+      "date": "2026-07-23T05:04:18+00:00",
+      "sourceId": "technews",
+      "cats": [
+        "market",
+        "process",
+        "material"
+      ]
+    },
+    {
+      "id": "c7d2c4cde2c6",
+      "title": "高通、三星擴大合作！Snapdragon 全面進駐 Galaxy 摺疊機、手錶到眼鏡",
+      "link": "https://technews.tw/2026/07/23/qualcomm-galaxy-samsung-unpacked-products/",
+      "summary": "高通今（23 日）於 Samsung Unpacked 活動中宣布旗下專為 Galaxy 打造 Snapdra [&#8230;]",
+      "date": "2026-07-23T04:10:03+00:00",
+      "sourceId": "technews",
+      "cats": [
+        "market",
+        "process",
+        "material"
+      ]
+    },
+    {
+      "id": "68a135781db0",
+      "title": "馬斯克：Optimus 需重建供應鏈難量產  台積電助攻",
+      "link": "https://technews.tw/2026/07/23/elon-musk-optimus-needs-supply-chain-rebuild-difficult-mass-production-tsmc-assists/",
+      "summary": "特斯拉（Tesla）執行長馬斯克（Elon Musk）表示，人型機器人「Optimus」將成為公司「有史以來最 [&#8230;]",
+      "date": "2026-07-23T04:00:06+00:00",
+      "sourceId": "technews",
+      "cats": [
+        "market",
+        "process",
+        "material"
+      ]
+    },
+    {
+      "id": "ff615ddde04d",
+      "title": "車用需求回神  德州儀器迎春燕 Q2 獲利狂增 53%",
+      "link": "https://finance.technews.tw/2026/07/23/ti-reports-second-quarter-2026-financial-results/",
+      "summary": "美國半導體大廠德州儀器（Texas Instruments）受惠 AI 基礎設施投資升溫，以及工業、車用市場需 [&#8230;]",
+      "date": "2026-07-23T03:40:35+00:00",
+      "sourceId": "technews",
+      "cats": [
+        "market",
+        "process",
+        "material"
+      ]
+    },
+    {
       "id": "82c899193d52",
       "title": "SEMI：2030 年全球半導體產值有望達 1.5 兆美元",
       "link": "https://technews.tw/2026/07/23/global-semiconductor-equipment-sales-forecast-to-reach-a-record-229-billion-in-2028/",
@@ -105,45 +183,6 @@
       "link": "https://technews.tw/2026/07/23/jx-metals-doubles-south-korean-sputtering-target-processing-capacity-amid-rising-demand/",
       "summary": "因應需求增加，日本半導體材料商 JX 金屬（JX Advanced Metals Corporation）傳出 [&#8230;]",
       "date": "2026-07-23T02:40:13+00:00",
-      "sourceId": "technews",
-      "cats": [
-        "market",
-        "process",
-        "material"
-      ]
-    },
-    {
-      "id": "9aa2012ea29f",
-      "title": "台積電 Q2 法說定生死！44,000 保衛戰，AI 基建與矽光子主導多頭",
-      "link": "https://finance.technews.tw/2026/07/23/tsmc-q2-earnings-call-decisive-44000-defense-battle-ai-infrastructure-silicon-photonics-drive-bull-market/",
-      "summary": "22 日大盤絕地反攻，外資終結連 13 賣轉強補 173.4 億，與投信推升加權急漲逾 600 點至 44,2 [&#8230;]",
-      "date": "2026-07-23T02:00:24+00:00",
-      "sourceId": "technews",
-      "cats": [
-        "market",
-        "process",
-        "material"
-      ]
-    },
-    {
-      "id": "befd5786a230",
-      "title": "搶賺 AI 廢棄財！台鎔科技上市掛牌首日大漲 19.69% 上演蜜月行情",
-      "link": "https://finance.technews.tw/2026/07/23/specialty-chemical-waste-liquid/",
-      "summary": "專注於半導體廢棄物處理與資源化利用的台鎔科技今日以每股 66 元正式上市掛牌交易，截至目前為止，盤中最高達 7 [&#8230;]",
-      "date": "2026-07-23T01:46:20+00:00",
-      "sourceId": "technews",
-      "cats": [
-        "market",
-        "process",
-        "material"
-      ]
-    },
-    {
-      "id": "edcf51a19316",
-      "title": "AMD 即將迎新品！廣發看好 CPU、GPU 前景與客戶合作，目標價喊上 640 美元",
-      "link": "https://technews.tw/2026/07/23/amd-anthropic-roadmap/",
-      "summary": "隨著 AMD 即將發布最新產品，廣發證券近日出具最新報告指出，AMD 有望透過 MI450X 持續縮小與輝達， [&#8230;]",
-      "date": "2026-07-23T01:23:52+00:00",
       "sourceId": "technews",
       "cats": [
         "market",
