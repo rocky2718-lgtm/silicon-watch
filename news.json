@@ -1,6 +1,6 @@
 {
-  "updated": "2026-07-24T06:34:06.418671+00:00",
-  "count": 22,
+  "updated": "2026-07-24T10:26:18.324381+00:00",
+  "count": 18,
   "sources": [
     {
       "id": "technews",
@@ -61,6 +61,32 @@
   ],
   "articles": [
     {
+      "id": "3b56c3dc8e1d",
+      "title": "奕斯偉 12 吋矽晶圓單月破百萬片，穩居中國市場龍頭",
+      "link": "https://technews.tw/2026/07/24/eswin-12-inch-silicon-wafer-monthly-output-breaks-million-china-market-leader/",
+      "summary": "西安奕斯偉材料（Xi’an Eswin Material Technology）科技產能爬升傳出階段性成果，2 [&#8230;]",
+      "date": "2026-07-24T08:10:12+00:00",
+      "sourceId": "technews",
+      "cats": [
+        "market",
+        "process",
+        "material"
+      ]
+    },
+    {
+      "id": "35c3b0daebe2",
+      "title": "穩懋 Q2 每股賺 2.3 元！PD 順利量產，看好光通訊成第三成長支柱",
+      "link": "https://technews.tw/2026/07/24/win-semiconductors-2026-q2-financial-report/",
+      "summary": "穩懋半導體今（24 日）舉辦第二季法說會，合併營收為新台幣（下同）52.57 億元，季增 15%、年增 39% [&#8230;]",
+      "date": "2026-07-24T07:21:45+00:00",
+      "sourceId": "technews",
+      "cats": [
+        "market",
+        "process",
+        "material"
+      ]
+    },
+    {
       "id": "ef7ff417c59a",
       "title": "AI 帶旺高階設備需求  貝思半導體 Q2 接單翻倍",
       "link": "https://finance.technews.tw/2026/07/24/besi-q2-orders-double/",
@@ -114,7 +140,7 @@
     },
     {
       "id": "57b481fb1615",
-      "title": "美 301 關稅 24 日上路，專家：對半導體產業影響有限",
+      "title": "美 301 關稅今上路，專家：對半導體產業影響有限",
       "link": "https://technews.tw/2026/07/24/us-section-301-tariffs-24th-experts-limited-impact-semiconductor-industry/",
       "summary": "美國公布 301 調查結果加徵關稅，台灣適用稅率 10%，台經院分析，競爭對手稅率高於台灣，目前結果對台灣有利 [&#8230;]",
       "date": "2026-07-24T05:50:43+00:00",
@@ -144,84 +170,6 @@
       "link": "https://technews.tw/2026/07/24/nvidia-is-sending-gpus-to-the-moon/",
       "summary": "輝達（NVIDIA）正將 GPU 的應用推向更遙遠的太空，最新的目標直指月球。太空基礎設施新創公司 Lunar [&#8230;]",
       "date": "2026-07-24T05:10:14+00:00",
-      "sourceId": "technews",
-      "cats": [
-        "market",
-        "process",
-        "material"
-      ]
-    },
-    {
-      "id": "8b4af63dc5fc",
-      "title": "技鋼科技攜手 AMD，以第六代 EPYC 伺服器處理器驅動企業 AI 新世代",
-      "link": "https://technews.tw/2026/07/24/gygabyte-amd-6-gen-epyc/",
-      "summary": "技鋼科技今日宣布旗下伺服器產品線全面支援第六代 AMD EPYC 伺服器處理器，進一步擴展針對高負載工作設計的 [&#8230;]",
-      "date": "2026-07-24T05:07:15+00:00",
-      "sourceId": "technews",
-      "cats": [
-        "market",
-        "process",
-        "material"
-      ]
-    },
-    {
-      "id": "b5e4231ec0bf",
-      "title": "向台積電、三星招手建 2 奈米廠，以色列豪語打造「10 萬顆 GPU」巨型算力中心",
-      "link": "https://technews.tw/2026/07/24/israels-ai-czar-seeks-chip-fab-new-data-centers-to-keep-edge/",
-      "summary": "以色列正加速布局晶片製造與人工智慧基礎設施，盼在區域科技競爭中維持領先。根據以色列人工智慧負責人艾雷茲·阿斯卡 [&#8230;]",
-      "date": "2026-07-24T04:50:32+00:00",
-      "sourceId": "technews",
-      "cats": [
-        "market",
-        "process",
-        "material"
-      ]
-    },
-    {
-      "id": "adf5064bfb80",
-      "title": "超微 AI 晶片進擊，最新 GPU 與 CPU 產品採 2 奈米製程，台積助攻",
-      "link": "https://technews.tw/2026/07/24/amd-advancing-ai-2026-6th-gen-epyc-server-cpu-tsmc-2nm/",
-      "summary": "超微強攻 AI 再出擊，23 日端出全新 AI 晶片搶市，以 MI455X GPU 與第六代 EPYC 系列 [&#8230;]",
-      "date": "2026-07-24T04:50:06+00:00",
-      "sourceId": "technews",
-      "cats": [
-        "market",
-        "process",
-        "material"
-      ]
-    },
-    {
-      "id": "bd3967cccc71",
-      "title": "意法半導體獲利、財測未達市場期待  股價崩 18%",
-      "link": "https://finance.technews.tw/2026/07/24/stmicroelectronics-reports-q2-2026-financial-results/",
-      "summary": "法義合資半導體大廠意法半導體（STMicroelectronics）財報未能滿足市場高標期待，引發股價重挫逾 [&#8230;]",
-      "date": "2026-07-24T04:30:22+00:00",
-      "sourceId": "technews",
-      "cats": [
-        "market",
-        "process",
-        "material"
-      ]
-    },
-    {
-      "id": "76de81977541",
-      "title": "Mobileye Q2 財報優卻不敵財測利空  股價重挫 15%",
-      "link": "https://finance.technews.tw/2026/07/24/mobileye-releases-second-quarter-2026-results-updates-guidance-and-provides-business-overview/",
-      "summary": "從半導體大廠 Intel 分拆上市的自駕技術公司 Mobileye 第二季財報優於市場預期，但第三季營收展望疲 [&#8230;]",
-      "date": "2026-07-24T04:10:33+00:00",
-      "sourceId": "technews",
-      "cats": [
-        "market",
-        "process",
-        "material"
-      ]
-    },
-    {
-      "id": "7d880e3f686a",
-      "title": "Vertiv 助美國海軍建置 GB300，整合供電、液冷與機櫃",
-      "link": "https://technews.tw/2026/07/24/vertiv-us-navy-gb300-deployment-power-delivery-liquid-cooling-racks/",
-      "summary": "關鍵數位基礎設施廠商 Vertiv 宣布，已完成美國海軍研究生院新一代 NVIDIA DGX GB300 AI [&#8230;]",
-      "date": "2026-07-24T03:33:59+00:00",
       "sourceId": "technews",
       "cats": [
         "market",
