@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-24T21:12:45.163578+00:00",
+  "updated": "2026-07-24T23:09:25.589085+00:00",
   "count": 18,
   "sources": [
     {
@@ -60,6 +60,19 @@
     }
   ],
   "articles": [
+    {
+      "id": "247c94787ee7",
+      "title": "Intel Foundry Improves Execution, but External Customers Remain the Test",
+      "link": "https://www.eetimes.com/intel-foundry-improves-execution-but-external-customers-remain-the-test/",
+      "summary": "Intel’s fabs are healing, but $293M in outside revenue won’t scare TSMC yet. The post Intel Foundry Improves Execution, but External Customers Remain the Test appeared first on EE Times.",
+      "date": "2026-07-24T22:00:00+00:00",
+      "sourceId": "eetimes",
+      "cats": [
+        "process",
+        "material",
+        "equipment"
+      ]
+    },
     {
       "id": "286c43b2c22d",
       "title": "台股第三季迂迴打底！股市女王李蜀芳點名矽光子「最上游」領軍反攻",
@@ -183,19 +196,6 @@
       "link": "https://www.eetimes.com/cea-leti-looks-beyond-sram-and-dram-as-ai-reshapes-the-memory-roadmap/",
       "summary": "CEA-Leti’s François Andrieu describes more embedded, persistent, and low-energy memories that will meet the growing demands of AI. The post CEA-Leti Looks Beyond SRAM and DRAM as AI Reshapes the Memory Roadmap appeared first on EE Times.",
       "date": "2026-07-22T07:53:34+00:00",
-      "sourceId": "eetimes",
-      "cats": [
-        "process",
-        "material",
-        "equipment"
-      ]
-    },
-    {
-      "id": "b80331c19ec4",
-      "title": "SK Hynix Nasdaq Debut Shows Global Memory Expansion Race",
-      "link": "https://www.eetimes.com/sk-hynix-nasdaq-debut-shows-global-memory-expansion-race/",
-      "summary": "SK Hynix Nasdaq debut highlights capex-funded memory expansion. Both Samsung and Micron follow suit. The post SK Hynix Nasdaq Debut Shows Global Memory Expansion Race appeared first on EE Times.",
-      "date": "2026-07-21T20:10:00+00:00",
       "sourceId": "eetimes",
       "cats": [
         "process",
