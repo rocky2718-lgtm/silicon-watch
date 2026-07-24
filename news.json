@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-24T10:26:18.324381+00:00",
+  "updated": "2026-07-24T14:02:13.838342+00:00",
   "count": 18,
   "sources": [
     {
@@ -60,6 +60,19 @@
     }
   ],
   "articles": [
+    {
+      "id": "286c43b2c22d",
+      "title": "台股第三季迂迴打底！股市女王李蜀芳點名矽光子「最上游」領軍反攻",
+      "link": "https://finance.technews.tw/2026/07/24/upstream/",
+      "summary": "隨著今年台股經歷劇烈波動，市場估值邏輯正悄悄發生轉變，有著「股市女王」之稱的永誠國際投顧分析師李蜀芳表示，第三 [&#8230;]",
+      "date": "2026-07-24T09:23:19+00:00",
+      "sourceId": "technews",
+      "cats": [
+        "market",
+        "process",
+        "material"
+      ]
+    },
     {
       "id": "3b56c3dc8e1d",
       "title": "奕斯偉 12 吋矽晶圓單月破百萬片，穩居中國市場龍頭",
@@ -157,19 +170,6 @@
       "link": "https://technews.tw/2026/07/24/wooptix-cea-leti-phemet-equipment/",
       "summary": "半導體波前相位成像量測技術業者 Wooptix 宣布，已於法國技術研究機構 CEA-Leti 位於格勒諾布爾的 [&#8230;]",
       "date": "2026-07-24T05:49:28+00:00",
-      "sourceId": "technews",
-      "cats": [
-        "market",
-        "process",
-        "material"
-      ]
-    },
-    {
-      "id": "f4cffe97c8c4",
-      "title": "輝達 Jetson 晶片獲 Lunar Outpost 月球車採用，可望成史上首顆登月的 GPU",
-      "link": "https://technews.tw/2026/07/24/nvidia-is-sending-gpus-to-the-moon/",
-      "summary": "輝達（NVIDIA）正將 GPU 的應用推向更遙遠的太空，最新的目標直指月球。太空基礎設施新創公司 Lunar [&#8230;]",
-      "date": "2026-07-24T05:10:14+00:00",
       "sourceId": "technews",
       "cats": [
         "market",
