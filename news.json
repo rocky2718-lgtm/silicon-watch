@@ -1,6 +1,6 @@
 {
-  "updated": "2026-07-25T03:29:23.173245+00:00",
-  "count": 15,
+  "updated": "2026-07-25T06:25:06.419003+00:00",
+  "count": 16,
   "sources": [
     {
       "id": "technews",
@@ -60,6 +60,32 @@
     }
   ],
   "articles": [
+    {
+      "id": "382e43832ee6",
+      "title": "AMD Helios 支援 246 kW AI 機櫃，電力架構再升級",
+      "link": "https://technews.tw/2026/07/25/amd-helios-246kw-ai-rack-power-architecture-upgrade/",
+      "summary": "AI 資料中心功率持續攀升，帶動電力架構朝更高功率密度發展。AMD 與施耐德電機共同發布 Helios AI [&#8230;]",
+      "date": "2026-07-25T06:24:53+00:00",
+      "sourceId": "technews",
+      "cats": [
+        "market",
+        "process",
+        "material"
+      ]
+    },
+    {
+      "id": "26a6f1550496",
+      "title": "新增產能將開出，NAND Flash 市場迎供需考驗",
+      "link": "https://technews.tw/2026/07/25/trendforce-ai-continues-boost-enterprise-ssd-demand-nand-supply-remains-tight-this-year/",
+      "summary": "三星電子與 SK 海力士近期股價回落，市場開始關注 NAND Flash 市場供需是否出現變化。TrendFo [&#8230;]",
+      "date": "2026-07-25T03:47:00+00:00",
+      "sourceId": "technews",
+      "cats": [
+        "market",
+        "process",
+        "material"
+      ]
+    },
     {
       "id": "40c59e7f622f",
       "title": "輝達、SK 集團合作 5,000 億美元 AI 計畫，布局 HBM4 與 AI 資料中心",
@@ -131,19 +157,6 @@
       "link": "https://technews.tw/2026/07/24/win-semiconductors-2026-q2-financial-report/",
       "summary": "穩懋半導體今（24 日）舉辦第二季法說會，合併營收為新台幣（下同）52.57 億元，季增 15%、年增 39% [&#8230;]",
       "date": "2026-07-24T07:21:45+00:00",
-      "sourceId": "technews",
-      "cats": [
-        "market",
-        "process",
-        "material"
-      ]
-    },
-    {
-      "id": "ef7ff417c59a",
-      "title": "AI 帶旺高階設備需求  貝思半導體 Q2 接單翻倍",
-      "link": "https://finance.technews.tw/2026/07/24/besi-q2-orders-double/",
-      "summary": "荷蘭先進封裝設備大廠貝思半導體（BE Semiconductor）財報表現不俗，受惠 AI 投資熱潮對高階設備 [&#8230;]",
-      "date": "2026-07-24T06:30:01+00:00",
       "sourceId": "technews",
       "cats": [
         "market",
