@@ -1,6 +1,6 @@
 {
-  "updated": "2026-07-25T15:11:32.386742+00:00",
-  "count": 16,
+  "updated": "2026-07-25T17:09:11.505178+00:00",
+  "count": 15,
   "sources": [
     {
       "id": "technews",
@@ -144,19 +144,6 @@
       "link": "https://finance.technews.tw/2026/07/24/upstream/",
       "summary": "隨著今年台股經歷劇烈波動，市場估值邏輯正悄悄發生轉變，有著「股市女王」之稱的永誠國際投顧分析師李蜀芳表示，第三 [&#8230;]",
       "date": "2026-07-24T09:23:19+00:00",
-      "sourceId": "technews",
-      "cats": [
-        "market",
-        "process",
-        "material"
-      ]
-    },
-    {
-      "id": "3b56c3dc8e1d",
-      "title": "奕斯偉 12 吋矽晶圓單月破百萬片，穩居中國市場龍頭",
-      "link": "https://technews.tw/2026/07/24/eswin-12-inch-silicon-wafer-monthly-output-breaks-million-china-market-leader/",
-      "summary": "西安奕斯偉材料（Xi’an Eswin Material Technology）科技產能爬升傳出階段性成果，2 [&#8230;]",
-      "date": "2026-07-24T08:10:12+00:00",
       "sourceId": "technews",
       "cats": [
         "market",
