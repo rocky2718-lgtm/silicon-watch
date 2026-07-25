@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-25T06:25:06.419003+00:00",
+  "updated": "2026-07-25T09:56:34.608264+00:00",
   "count": 16,
   "sources": [
     {
@@ -60,6 +60,19 @@
     }
   ],
   "articles": [
+    {
+      "id": "001b991df068",
+      "title": "AI 的未來，會不會建立在更高的電力成本上？",
+      "link": "https://technews.tw/2026/07/25/ai-future-higher-electricity-costs/",
+      "summary": "AI 發展正逐漸從模型、晶片與算力，延伸到更基礎的電力議題。隨著愈來愈多科技公司宣布興建 AI 資料中心，外界 [&#8230;]",
+      "date": "2026-07-25T09:01:31+00:00",
+      "sourceId": "technews",
+      "cats": [
+        "market",
+        "process",
+        "material"
+      ]
+    },
     {
       "id": "382e43832ee6",
       "title": "AMD Helios 支援 246 kW AI 機櫃，電力架構再升級",
@@ -144,19 +157,6 @@
       "link": "https://technews.tw/2026/07/24/eswin-12-inch-silicon-wafer-monthly-output-breaks-million-china-market-leader/",
       "summary": "西安奕斯偉材料（Xi’an Eswin Material Technology）科技產能爬升傳出階段性成果，2 [&#8230;]",
       "date": "2026-07-24T08:10:12+00:00",
-      "sourceId": "technews",
-      "cats": [
-        "market",
-        "process",
-        "material"
-      ]
-    },
-    {
-      "id": "35c3b0daebe2",
-      "title": "穩懋 Q2 每股賺 2.3 元！PD 順利量產，看好光通訊成第三成長支柱",
-      "link": "https://technews.tw/2026/07/24/win-semiconductors-2026-q2-financial-report/",
-      "summary": "穩懋半導體今（24 日）舉辦第二季法說會，合併營收為新台幣（下同）52.57 億元，季增 15%、年增 39% [&#8230;]",
-      "date": "2026-07-24T07:21:45+00:00",
       "sourceId": "technews",
       "cats": [
         "market",
