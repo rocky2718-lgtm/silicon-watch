@@ -1,6 +1,6 @@
 {
-  "updated": "2026-07-24T23:09:25.589085+00:00",
-  "count": 18,
+  "updated": "2026-07-25T03:29:23.173245+00:00",
+  "count": 15,
   "sources": [
     {
       "id": "technews",
@@ -61,6 +61,32 @@
   ],
   "articles": [
     {
+      "id": "40c59e7f622f",
+      "title": "輝達、SK 集團合作 5,000 億美元 AI 計畫，布局 HBM4 與 AI 資料中心",
+      "link": "https://technews.tw/2026/07/25/nvidia-sk-group-partner-500-billion-ai-project-for-hbm4-ai-data-centers/",
+      "summary": "根據路透社報導，輝達與韓國 SK 集團宣布啟動一項規模超過 5,000 億美元 的 AI 合作計畫，涵蓋下一代 [&#8230;]",
+      "date": "2026-07-25T02:21:56+00:00",
+      "sourceId": "technews",
+      "cats": [
+        "market",
+        "process",
+        "material"
+      ]
+    },
+    {
+      "id": "7307edbb52e2",
+      "title": "不只台積電，這三家台灣公司市值也進入全球 150 大！簡立峰點出毛利拉升、供應鏈擴張關鍵",
+      "link": "https://technews.tw/2026/07/25/lee-feng-chien/",
+      "summary": "談到人工智慧（AI），許多人會聚焦台灣卓越的製造力，但 Google 台灣前董事總經理簡立峰看來，台灣已有部分 [&#8230;]",
+      "date": "2026-07-25T01:00:06+00:00",
+      "sourceId": "technews",
+      "cats": [
+        "market",
+        "process",
+        "material"
+      ]
+    },
+    {
       "id": "247c94787ee7",
       "title": "Intel Foundry Improves Execution, but External Customers Remain the Test",
       "link": "https://www.eetimes.com/intel-foundry-improves-execution-but-external-customers-remain-the-test/",
@@ -118,71 +144,6 @@
       "link": "https://finance.technews.tw/2026/07/24/besi-q2-orders-double/",
       "summary": "荷蘭先進封裝設備大廠貝思半導體（BE Semiconductor）財報表現不俗，受惠 AI 投資熱潮對高階設備 [&#8230;]",
       "date": "2026-07-24T06:30:01+00:00",
-      "sourceId": "technews",
-      "cats": [
-        "market",
-        "process",
-        "material"
-      ]
-    },
-    {
-      "id": "166f9f6c3535",
-      "title": "東芝持股降至 15%、NAND Flash 廠鎧俠股價崩 9%",
-      "link": "https://finance.technews.tw/2026/07/24/toshiba-stake-nand-flash-maker-kioxia-drops-15-kioxia-shares-plunge-9-percent/",
-      "summary": "東芝（Toshiba）為日本 NAND Flash 廠鎧俠（Kioxia）的大股東，不過東芝持續出售鎧俠股份， [&#8230;]",
-      "date": "2026-07-24T06:10:09+00:00",
-      "sourceId": "technews",
-      "cats": [
-        "market",
-        "process",
-        "material"
-      ]
-    },
-    {
-      "id": "91016fcd3e0c",
-      "title": "AI 需求旺、法基板大廠 Soitec 財報優  股價飆 22%",
-      "link": "https://finance.technews.tw/2026/07/24/soitec-jumps-22-after-earnings-beat/",
-      "summary": "法國矽晶圓基板大廠 Soitec 繳出優異財報，AI 資料中心對矽光子產品的需求日益轉強，帶動訂單能見度大增， [&#8230;]",
-      "date": "2026-07-24T06:00:18+00:00",
-      "sourceId": "technews",
-      "cats": [
-        "market",
-        "process",
-        "material"
-      ]
-    },
-    {
-      "id": "0a0cca06bb4b",
-      "title": "Air Products 擴大整合台灣供氣網絡，支援半導體客戶擴產需求",
-      "link": "https://technews.tw/2026/07/24/air-products-expands-integrated-taiwan-gas-supply-network-support-semiconductor-clients-production-expansion-needs/",
-      "summary": "全球領先的工業氣體公司 Air Products 22 日宣布旗下 Air Products 三福氣體股份有限 [&#8230;]",
-      "date": "2026-07-24T06:00:03+00:00",
-      "sourceId": "technews",
-      "cats": [
-        "market",
-        "process",
-        "material"
-      ]
-    },
-    {
-      "id": "57b481fb1615",
-      "title": "美 301 關稅今上路，專家：對半導體產業影響有限",
-      "link": "https://technews.tw/2026/07/24/us-section-301-tariffs-24th-experts-limited-impact-semiconductor-industry/",
-      "summary": "美國公布 301 調查結果加徵關稅，台灣適用稅率 10%，台經院分析，競爭對手稅率高於台灣，目前結果對台灣有利 [&#8230;]",
-      "date": "2026-07-24T05:50:43+00:00",
-      "sourceId": "technews",
-      "cats": [
-        "market",
-        "process",
-        "material"
-      ]
-    },
-    {
-      "id": "deab6a815599",
-      "title": "Wooptix 於法國安裝首套量測系統，部署半導體生產應用",
-      "link": "https://technews.tw/2026/07/24/wooptix-cea-leti-phemet-equipment/",
-      "summary": "半導體波前相位成像量測技術業者 Wooptix 宣布，已於法國技術研究機構 CEA-Leti 位於格勒諾布爾的 [&#8230;]",
-      "date": "2026-07-24T05:49:28+00:00",
       "sourceId": "technews",
       "cats": [
         "market",
