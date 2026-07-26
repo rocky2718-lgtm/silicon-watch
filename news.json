@@ -1,6 +1,6 @@
 {
-  "updated": "2026-07-26T03:42:48.142155+00:00",
-  "count": 15,
+  "updated": "2026-07-26T06:43:27.113862+00:00",
+  "count": 14,
   "sources": [
     {
       "id": "technews",
@@ -61,6 +61,19 @@
   ],
   "articles": [
     {
+      "id": "8311efa69820",
+      "title": "神雲科技搭載第六代 AMD EPYC  伺服器處理器，推進代理式 AI 基礎架構",
+      "link": "https://technews.tw/2026/07/26/mitac-gen6-amd-epyc-server/",
+      "summary": "神達控股旗下子公司、全球高效能與節能伺服器品牌神雲科技（MiTAC Computing Technology） [&#8230;]",
+      "date": "2026-07-26T06:00:21+00:00",
+      "sourceId": "technews",
+      "cats": [
+        "market",
+        "process",
+        "material"
+      ]
+    },
+    {
       "id": "ae2bd0576723",
       "title": "難敵 2 奈米與 DRAM 成本壓力！高通晶片 9 月起全面雙位數調漲",
       "link": "https://technews.tw/2026/07/26/qualcomm-is-about-to-raise-prices/",
@@ -105,32 +118,6 @@
       "link": "https://technews.tw/2026/07/25/trendforce-ai-continues-boost-enterprise-ssd-demand-nand-supply-remains-tight-this-year/",
       "summary": "三星電子與 SK 海力士近期股價回落，市場開始關注 NAND Flash 市場供需是否出現變化。TrendFo [&#8230;]",
       "date": "2026-07-25T03:47:00+00:00",
-      "sourceId": "technews",
-      "cats": [
-        "market",
-        "process",
-        "material"
-      ]
-    },
-    {
-      "id": "40c59e7f622f",
-      "title": "輝達、SK 集團合作 5,000 億美元 AI 計畫，布局 HBM4 與 AI 資料中心",
-      "link": "https://technews.tw/2026/07/25/nvidia-sk-group-partner-500-billion-ai-project-for-hbm4-ai-data-centers/",
-      "summary": "根據路透社報導，輝達與韓國 SK 集團宣布啟動一項規模超過 5,000 億美元 的 AI 合作計畫，涵蓋下一代 [&#8230;]",
-      "date": "2026-07-25T02:21:56+00:00",
-      "sourceId": "technews",
-      "cats": [
-        "market",
-        "process",
-        "material"
-      ]
-    },
-    {
-      "id": "7307edbb52e2",
-      "title": "不只台積電，這三家台灣公司市值也進入全球 150 大！簡立峰點出毛利拉升、供應鏈擴張關鍵",
-      "link": "https://technews.tw/2026/07/25/lee-feng-chien/",
-      "summary": "談到人工智慧（AI），許多人會聚焦台灣卓越的製造力，但 Google 台灣前董事總經理簡立峰看來，台灣已有部分 [&#8230;]",
-      "date": "2026-07-25T01:00:06+00:00",
       "sourceId": "technews",
       "cats": [
         "market",
