@@ -1,6 +1,6 @@
 {
-  "updated": "2026-07-26T19:23:06.257823+00:00",
-  "count": 13,
+  "updated": "2026-07-26T21:05:20.769902+00:00",
+  "count": 9,
   "sources": [
     {
       "id": "technews",
@@ -60,58 +60,6 @@
     }
   ],
   "articles": [
-    {
-      "id": "8311efa69820",
-      "title": "神雲科技搭載第六代 AMD EPYC  伺服器處理器，推進代理式 AI 基礎架構",
-      "link": "https://technews.tw/2026/07/26/mitac-gen6-amd-epyc-server/",
-      "summary": "神達控股旗下子公司、全球高效能與節能伺服器品牌神雲科技（MiTAC Computing Technology） [&#8230;]",
-      "date": "2026-07-26T06:00:21+00:00",
-      "sourceId": "technews",
-      "cats": [
-        "market",
-        "process",
-        "material"
-      ]
-    },
-    {
-      "id": "ae2bd0576723",
-      "title": "難敵 2 奈米與 DRAM 成本壓力！高通晶片 9 月起全面雙位數調漲",
-      "link": "https://technews.tw/2026/07/26/qualcomm-is-about-to-raise-prices/",
-      "summary": "高通（Qualcomm）向客戶發布內部信件，預告將自 9 月 1 日起，針對出貨的產品全面調漲價格，預期漲幅將 [&#8230;]",
-      "date": "2026-07-26T02:16:21+00:00",
-      "sourceId": "technews",
-      "cats": [
-        "market",
-        "process",
-        "material"
-      ]
-    },
-    {
-      "id": "001b991df068",
-      "title": "AI 的未來，會不會建立在更高的電力成本上？",
-      "link": "https://technews.tw/2026/07/25/ai-future-higher-electricity-costs/",
-      "summary": "AI 發展正逐漸從模型、晶片與算力，延伸到更基礎的電力議題。隨著愈來愈多科技公司宣布興建 AI 資料中心，外界 [&#8230;]",
-      "date": "2026-07-25T09:01:31+00:00",
-      "sourceId": "technews",
-      "cats": [
-        "market",
-        "process",
-        "material"
-      ]
-    },
-    {
-      "id": "382e43832ee6",
-      "title": "AMD Helios 支援 246 kW AI 機櫃，電力架構再升級",
-      "link": "https://technews.tw/2026/07/25/amd-helios-246kw-ai-rack-power-architecture-upgrade/",
-      "summary": "AI 資料中心功率持續攀升，帶動電力架構朝更高功率密度發展。AMD 與施耐德電機共同發布 Helios AI [&#8230;]",
-      "date": "2026-07-25T06:24:53+00:00",
-      "sourceId": "technews",
-      "cats": [
-        "market",
-        "process",
-        "material"
-      ]
-    },
     {
       "id": "247c94787ee7",
       "title": "Intel Foundry Improves Execution, but External Customers Remain the Test",
