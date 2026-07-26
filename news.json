@@ -1,6 +1,6 @@
 {
-  "updated": "2026-07-26T06:43:27.113862+00:00",
-  "count": 14,
+  "updated": "2026-07-26T10:08:34.740250+00:00",
+  "count": 13,
   "sources": [
     {
       "id": "technews",
@@ -105,19 +105,6 @@
       "link": "https://technews.tw/2026/07/25/amd-helios-246kw-ai-rack-power-architecture-upgrade/",
       "summary": "AI 資料中心功率持續攀升，帶動電力架構朝更高功率密度發展。AMD 與施耐德電機共同發布 Helios AI [&#8230;]",
       "date": "2026-07-25T06:24:53+00:00",
-      "sourceId": "technews",
-      "cats": [
-        "market",
-        "process",
-        "material"
-      ]
-    },
-    {
-      "id": "26a6f1550496",
-      "title": "新增產能將開出，NAND Flash 市場迎供需考驗",
-      "link": "https://technews.tw/2026/07/25/trendforce-ai-continues-boost-enterprise-ssd-demand-nand-supply-remains-tight-this-year/",
-      "summary": "三星電子與 SK 海力士近期股價回落，市場開始關注 NAND Flash 市場供需是否出現變化。TrendFo [&#8230;]",
-      "date": "2026-07-25T03:47:00+00:00",
       "sourceId": "technews",
       "cats": [
         "market",
