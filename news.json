@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-25T23:01:58.695770+00:00",
+  "updated": "2026-07-26T03:42:48.142155+00:00",
   "count": 15,
   "sources": [
     {
@@ -60,6 +60,19 @@
     }
   ],
   "articles": [
+    {
+      "id": "ae2bd0576723",
+      "title": "難敵 2 奈米與 DRAM 成本壓力！高通晶片 9 月起全面雙位數調漲",
+      "link": "https://technews.tw/2026/07/26/qualcomm-is-about-to-raise-prices/",
+      "summary": "高通（Qualcomm）向客戶發布內部信件，預告將自 9 月 1 日起，針對出貨的產品全面調漲價格，預期漲幅將 [&#8230;]",
+      "date": "2026-07-26T02:16:21+00:00",
+      "sourceId": "technews",
+      "cats": [
+        "market",
+        "process",
+        "material"
+      ]
+    },
     {
       "id": "001b991df068",
       "title": "AI 的未來，會不會建立在更高的電力成本上？",
@@ -136,19 +149,6 @@
         "process",
         "material",
         "equipment"
-      ]
-    },
-    {
-      "id": "286c43b2c22d",
-      "title": "台股第三季迂迴打底！股市女王李蜀芳點名矽光子「最上游」領軍反攻",
-      "link": "https://finance.technews.tw/2026/07/24/upstream/",
-      "summary": "隨著今年台股經歷劇烈波動，市場估值邏輯正悄悄發生轉變，有著「股市女王」之稱的永誠國際投顧分析師李蜀芳表示，第三 [&#8230;]",
-      "date": "2026-07-24T09:23:19+00:00",
-      "sourceId": "technews",
-      "cats": [
-        "market",
-        "process",
-        "material"
       ]
     },
     {
