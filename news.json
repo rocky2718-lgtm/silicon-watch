@@ -1,6 +1,6 @@
 {
-  "updated": "2026-07-27T07:41:14.576921+00:00",
-  "count": 21,
+  "updated": "2026-07-27T11:33:47.423071+00:00",
+  "count": 19,
   "sources": [
     {
       "id": "technews",
@@ -60,6 +60,45 @@
     }
   ],
   "articles": [
+    {
+      "id": "7cbfcef75622",
+      "title": "AI 帶動記憶體成本狂飆，百美元平價手機恐面臨絕版危機",
+      "link": "https://technews.tw/2026/07/27/ai-affordable-phones-obsolete/",
+      "summary": "AI 對記憶體供應的強烈拉扯，正將超低價手機推向消失的邊緣。研究機構 Omdia 示警，2026 年第三季售價 [&#8230;]",
+      "date": "2026-07-27T09:15:07+00:00",
+      "sourceId": "technews",
+      "cats": [
+        "market",
+        "process",
+        "material"
+      ]
+    },
+    {
+      "id": "4f49d4b2bd17",
+      "title": "台電估今年半導體用電量 520 億度，2035 年增至 1,100 億度",
+      "link": "https://technews.tw/2026/07/27/taipower-semiconductor-electricity-consumption-52-billion-kwh-to-110-billion-kwh-by-2035/",
+      "summary": "半導體擴產浪潮正改變台灣電力結構。台電近期預估，今年半導體產業用電量約 520 億度，到 2030 年、203 [&#8230;]",
+      "date": "2026-07-27T08:40:12+00:00",
+      "sourceId": "technews",
+      "cats": [
+        "market",
+        "process",
+        "material"
+      ]
+    },
+    {
+      "id": "b1c358effe0e",
+      "title": "AMD 攜手韓國政府，打造國家級 AI 研究中心",
+      "link": "https://technews.tw/2026/07/27/science-ministry-amd-join-hands-to-establish-open-weight-ai-ecosystem/",
+      "summary": "韓國科學技術資訊通信部 27 日表示，已與美國晶片大廠 AMD 簽署合作備忘錄，將共同推動開放權重人工智慧生態 [&#8230;]",
+      "date": "2026-07-27T08:20:45+00:00",
+      "sourceId": "technews",
+      "cats": [
+        "market",
+        "process",
+        "material"
+      ]
+    },
     {
       "id": "98a7008e52ef",
       "title": "CXMT IPO: Where China’s Largest DRAM Maker Stands?",
@@ -157,71 +196,6 @@
       "link": "https://technews.tw/2026/07/27/cxmt-nomura-market-share/",
       "summary": "據彭博社報導，野村控股（Nomura）分析，隨著未來逐步搶占市場份額，中國記憶體龍頭長鑫存儲股價可能從首次公開 [&#8230;]",
       "date": "2026-07-27T05:46:29+00:00",
-      "sourceId": "technews",
-      "cats": [
-        "market",
-        "process",
-        "material"
-      ]
-    },
-    {
-      "id": "4c4650cf935b",
-      "title": "長鑫存儲掛牌上市掀記憶體新戰局，但 DRAM 價格沒因此更便宜",
-      "link": "https://technews.tw/2026/07/27/cxmt-ipo-and-memory-price/",
-      "summary": "中國記憶體大廠長鑫存儲今（27 日）在上海證券交易所科創板正式掛牌上市，首日股價一度暴漲 471.6%。 目前 [&#8230;]",
-      "date": "2026-07-27T04:13:39+00:00",
-      "sourceId": "technews",
-      "cats": [
-        "market",
-        "process",
-        "material"
-      ]
-    },
-    {
-      "id": "84167745936d",
-      "title": "AI 投資進入回本考驗！科技巨頭狂砸資本支出，現金流轉移下誰真正賺錢？",
-      "link": "https://finance.technews.tw/2026/07/27/ai-bloom-and-big-tech-capex/",
-      "summary": "AI 熱潮推動半導體與資料中心概念股一路狂飆，不過近期市場情緒開始出現變化。外媒《Axios》指出，近期晶片類 [&#8230;]",
-      "date": "2026-07-27T03:37:19+00:00",
-      "sourceId": "technews",
-      "cats": [
-        "market",
-        "process",
-        "material"
-      ]
-    },
-    {
-      "id": "ce2c0bd22c38",
-      "title": "自動補幀不是效能救星，三大廠都建議遊戲原始幀率至少 60FPS 再啟用",
-      "link": "https://technews.tw/2026/07/27/how-to-properly-use-frame-generation-technologies/",
-      "summary": "近期 PC 遊戲圈備受討論的補幀技術再度成為焦點。最新整理指出，無論 NVIDIA DLSS、AMD FSR [&#8230;]",
-      "date": "2026-07-27T03:30:19+00:00",
-      "sourceId": "technews",
-      "cats": [
-        "market",
-        "process",
-        "material"
-      ]
-    },
-    {
-      "id": "eb117d6e7146",
-      "title": "AI 晶片應用擴大，台積電 3 奈米版圖再延伸",
-      "link": "https://technews.tw/2026/07/27/ai-chip-applications-expand-tsmc-further-extends-3nm-footprint/",
-      "summary": "AI 晶片市場正朝分眾化發展，也讓台積電 3 奈米製程迎來更多元需求。高通最新旗艦處理器 Snapdragon [&#8230;]",
-      "date": "2026-07-27T03:11:43+00:00",
-      "sourceId": "technews",
-      "cats": [
-        "market",
-        "process",
-        "material"
-      ]
-    },
-    {
-      "id": "44b50f6bd049",
-      "title": "長鑫存儲上市首日股價大漲，擴產計畫為記憶體供應鏈投下變數",
-      "link": "https://finance.technews.tw/2026/07/27/changxin-memorys-ipo-introduces-uncertainty-into-the-memory-supply-chain/",
-      "summary": "中國記憶體大廠長鑫存儲（CXMT）正式於上海證券交易所科創板掛牌上市，此舉為全球動態隨機存取記憶體（DRAM） [&#8230;]",
-      "date": "2026-07-27T03:00:36+00:00",
       "sourceId": "technews",
       "cats": [
         "market",
