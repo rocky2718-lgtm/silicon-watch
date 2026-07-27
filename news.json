@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-27T21:18:55.563985+00:00",
+  "updated": "2026-07-27T23:12:31.406273+00:00",
   "count": 21,
   "sources": [
     {
@@ -60,6 +60,32 @@
     }
   ],
   "articles": [
+    {
+      "id": "a622a0209a6a",
+      "title": "FEV 與微軟部署車端小語言模型，確保離線語音服務與高效運用記憶體",
+      "link": "https://technews.tw/2026/07/28/fev-collaborates-with-microsoft-on-efficient-ai-model-approach-for-in-car-applications-built-on-nvidia/",
+      "summary": "歐洲工程整合服務商 FEV 宣布與微軟（Microsoft）合作，在 NVIDIA DRIVE AGX 運算平 [&#8230;]",
+      "date": "2026-07-27T23:00:58+00:00",
+      "sourceId": "technews",
+      "cats": [
+        "market",
+        "process",
+        "material"
+      ]
+    },
+    {
+      "id": "f780c99e9876",
+      "title": "中國長鑫存儲上市成功，衝擊全球記憶體類股股價下跌",
+      "link": "https://finance.technews.tw/2026/07/28/chinas-changxin-memory-technologies-co-ltd-changxin-memory-listing-will-impact-global-memory-chip-stocks/",
+      "summary": "中國記憶體晶片製造商長鑫存儲（CXMT）在上海科創板首度公開發行（IPO）表現驚人，股價飆升超過500%，市值 [&#8230;]",
+      "date": "2026-07-27T23:00:11+00:00",
+      "sourceId": "technews",
+      "cats": [
+        "market",
+        "process",
+        "material"
+      ]
+    },
     {
       "id": "d94f6a2ba1bb",
       "title": "Warning Shots Fired as AMD Announces New Data Center GPUs",
@@ -196,32 +222,6 @@
       "link": "https://technews.tw/2026/07/27/intel-has-moved-up-the-production-start-date-for-its-intel-14a-process-to-2028/",
       "summary": "半導體大廠英特爾 (Intel) 宣布加速其次世代 1.4 奈米（Intel 14A）製程技術的生產時程，預計 [&#8230;]",
       "date": "2026-07-27T06:00:49+00:00",
-      "sourceId": "technews",
-      "cats": [
-        "market",
-        "process",
-        "material"
-      ]
-    },
-    {
-      "id": "704d261ff83c",
-      "title": "韓銀：半導體對台出口增加，形成 AI 半導體供應鏈",
-      "link": "https://technews.tw/2026/07/27/bank-of-korea-semiconductor-exports-taiwan-ai-semiconductor-supply-chain/",
-      "summary": "韓國銀行今天發布主要製造業生產及供應鏈地圖，並表示，韓國半導體出口至中國減少、出口至台灣則大幅增加，形成以輝達 [&#8230;]",
-      "date": "2026-07-27T05:50:27+00:00",
-      "sourceId": "technews",
-      "cats": [
-        "market",
-        "process",
-        "material"
-      ]
-    },
-    {
-      "id": "dbeab433676a",
-      "title": "長鑫存儲 IPO 首日暴漲超過 500%，野村看好仍有 1,239% 上漲空間",
-      "link": "https://technews.tw/2026/07/27/cxmt-nomura-market-share/",
-      "summary": "據彭博社報導，野村控股（Nomura）分析，隨著未來逐步搶占市場份額，中國記憶體龍頭長鑫存儲股價可能從首次公開 [&#8230;]",
-      "date": "2026-07-27T05:46:29+00:00",
       "sourceId": "technews",
       "cats": [
         "market",
