@@ -1,6 +1,6 @@
 {
-  "updated": "2026-07-27T14:53:51.859999+00:00",
-  "count": 20,
+  "updated": "2026-07-27T17:49:06.586356+00:00",
+  "count": 21,
   "sources": [
     {
       "id": "technews",
@@ -60,6 +60,19 @@
     }
   ],
   "articles": [
+    {
+      "id": "d94f6a2ba1bb",
+      "title": "Warning Shots Fired as AMD Announces New Data Center GPUs",
+      "link": "https://www.eetimes.com/warning-shots-fired-as-amd-announces-new-data-center-gpus-at-advancing-ai-event/",
+      "summary": "Red team’s new Helios racks offer 30% more tokens per dollar than Nvidia. The post Warning Shots Fired as AMD Announces New Data Center GPUs appeared first on EE Times.",
+      "date": "2026-07-27T16:58:23+00:00",
+      "sourceId": "eetimes",
+      "cats": [
+        "process",
+        "material",
+        "equipment"
+      ]
+    },
     {
       "id": "3e7848ecff69",
       "title": "Adaptive Hardware Could Change How EV Chargers Are Designed",
@@ -179,7 +192,7 @@
     },
     {
       "id": "4f04674be7ee",
-      "title": "亮眼獲利提供充沛資金，英特爾提前 Intel 14A 製程於 2028 年量產對抗台積電",
+      "title": "亮眼獲利提供充沛資金，英特爾 Intel 14A 製程提前 2028 年量產對抗台積電",
       "link": "https://technews.tw/2026/07/27/intel-has-moved-up-the-production-start-date-for-its-intel-14a-process-to-2028/",
       "summary": "半導體大廠英特爾 (Intel) 宣布加速其次世代 1.4 奈米（Intel 14A）製程技術的生產時程，預計 [&#8230;]",
       "date": "2026-07-27T06:00:49+00:00",
