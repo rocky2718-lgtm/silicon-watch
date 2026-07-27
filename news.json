@@ -1,6 +1,6 @@
 {
-  "updated": "2026-07-27T11:33:47.423071+00:00",
-  "count": 19,
+  "updated": "2026-07-27T14:53:51.859999+00:00",
+  "count": 20,
   "sources": [
     {
       "id": "technews",
@@ -60,6 +60,19 @@
     }
   ],
   "articles": [
+    {
+      "id": "3e7848ecff69",
+      "title": "Adaptive Hardware Could Change How EV Chargers Are Designed",
+      "link": "https://www.eetimes.com/adaptive-hardware-could-change-how-ev-chargers-are-designed/",
+      "summary": "Vanix bets adaptive AMD hardware can make India’s EV chargers upgradeable, not disposable. The post Adaptive Hardware Could Change How EV Chargers Are Designed appeared first on EE Times.",
+      "date": "2026-07-27T13:00:00+00:00",
+      "sourceId": "eetimes",
+      "cats": [
+        "process",
+        "material",
+        "equipment"
+      ]
+    },
     {
       "id": "7cbfcef75622",
       "title": "AI 帶動記憶體成本狂飆，百美元平價手機恐面臨絕版危機",
