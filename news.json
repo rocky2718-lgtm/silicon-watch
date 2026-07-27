@@ -1,6 +1,6 @@
 {
-  "updated": "2026-07-26T23:04:36.014758+00:00",
-  "count": 13,
+  "updated": "2026-07-27T03:52:29.259013+00:00",
+  "count": 23,
   "sources": [
     {
       "id": "technews",
@@ -61,11 +61,11 @@
   ],
   "articles": [
     {
-      "id": "8311efa69820",
-      "title": "神雲科技搭載第六代 AMD EPYC  伺服器處理器，推進代理式 AI 基礎架構",
-      "link": "https://technews.tw/2026/07/26/mitac-gen6-amd-epyc-server/",
-      "summary": "神達控股旗下子公司、全球高效能與節能伺服器品牌神雲科技（MiTAC Computing Technology） [&#8230;]",
-      "date": "2026-07-26T06:00:21+00:00",
+      "id": "b3f8d1a9d422",
+      "title": "AI 投資進入回本考驗！科技巨頭狂砸資本支出，現金流轉移下誰真正賺錢？",
+      "link": "https://technews.tw/2026/07/27/ai-bloom-and-big-tech-capex/",
+      "summary": "AI 熱潮推動半導體與資料中心概念股一路狂飆，不過近期市場情緒開始出現變化。外媒《Axios》指出，近期晶片類 [&#8230;]",
+      "date": "2026-07-27T03:37:19+00:00",
       "sourceId": "technews",
       "cats": [
         "market",
@@ -74,11 +74,11 @@
       ]
     },
     {
-      "id": "ae2bd0576723",
-      "title": "難敵 2 奈米與 DRAM 成本壓力！高通晶片 9 月起全面雙位數調漲",
-      "link": "https://technews.tw/2026/07/26/qualcomm-is-about-to-raise-prices/",
-      "summary": "高通（Qualcomm）向客戶發布內部信件，預告將自 9 月 1 日起，針對出貨的產品全面調漲價格，預期漲幅將 [&#8230;]",
-      "date": "2026-07-26T02:16:21+00:00",
+      "id": "ce2c0bd22c38",
+      "title": "自動補幀不是效能救星，三大廠都建議遊戲原始幀率至少 60FPS 再啟用",
+      "link": "https://technews.tw/2026/07/27/how-to-properly-use-frame-generation-technologies/",
+      "summary": "近期 PC 遊戲圈備受討論的補幀技術再度成為焦點。最新整理指出，無論 NVIDIA DLSS、AMD FSR [&#8230;]",
+      "date": "2026-07-27T03:30:19+00:00",
       "sourceId": "technews",
       "cats": [
         "market",
@@ -87,11 +87,11 @@
       ]
     },
     {
-      "id": "001b991df068",
-      "title": "AI 的未來，會不會建立在更高的電力成本上？",
-      "link": "https://technews.tw/2026/07/25/ai-future-higher-electricity-costs/",
-      "summary": "AI 發展正逐漸從模型、晶片與算力，延伸到更基礎的電力議題。隨著愈來愈多科技公司宣布興建 AI 資料中心，外界 [&#8230;]",
-      "date": "2026-07-25T09:01:31+00:00",
+      "id": "eb117d6e7146",
+      "title": "AI 晶片應用擴大，台積電 3 奈米版圖再延伸",
+      "link": "https://technews.tw/2026/07/27/ai-chip-applications-expand-tsmc-further-extends-3nm-footprint/",
+      "summary": "AI 晶片市場正朝分眾化發展，也讓台積電 3 奈米製程迎來更多元需求。高通最新旗艦處理器 Snapdragon [&#8230;]",
+      "date": "2026-07-27T03:11:43+00:00",
       "sourceId": "technews",
       "cats": [
         "market",
@@ -100,11 +100,141 @@
       ]
     },
     {
-      "id": "382e43832ee6",
-      "title": "AMD Helios 支援 246 kW AI 機櫃，電力架構再升級",
-      "link": "https://technews.tw/2026/07/25/amd-helios-246kw-ai-rack-power-architecture-upgrade/",
-      "summary": "AI 資料中心功率持續攀升，帶動電力架構朝更高功率密度發展。AMD 與施耐德電機共同發布 Helios AI [&#8230;]",
-      "date": "2026-07-25T06:24:53+00:00",
+      "id": "44b50f6bd049",
+      "title": "長鑫存儲上市首日股價大漲，未來擴充產能為記憶體供應鏈投下變數",
+      "link": "https://finance.technews.tw/2026/07/27/changxin-memorys-ipo-introduces-uncertainty-into-the-memory-supply-chain/",
+      "summary": "中國記憶體大廠長鑫存儲（CXMT）正式於上海證券交易所科創板掛牌上市，此舉為全球動態隨機存取記憶體（DRAM） [&#8230;]",
+      "date": "2026-07-27T03:00:36+00:00",
+      "sourceId": "technews",
+      "cats": [
+        "market",
+        "process",
+        "material"
+      ]
+    },
+    {
+      "id": "1b8041cf7fa2",
+      "title": "比 Intel 4004 還早的神祕晶片，專家用完美重現 F-14 戰鬥機「MP944」微處理器",
+      "link": "https://technews.tw/2026/07/27/engineer-recreate-mp944-and-use-it-on-3d-printed-f14/",
+      "summary": "嵌入式系統與 FPGA 領域專家泰勒（Adam Taylor）近日做出了一項讓航空與晶片迷振奮的成果，重現了美 [&#8230;]",
+      "date": "2026-07-27T02:43:54+00:00",
+      "sourceId": "technews",
+      "cats": [
+        "market",
+        "process",
+        "material"
+      ]
+    },
+    {
+      "id": "d538a74c1e6a",
+      "title": "黃仁勳：半導體短期不會衰退，這波成長「不一樣」非景氣循環",
+      "link": "https://technews.tw/2026/07/27/nvidia-ceo-jensen-huang-denies-the-chip-boom-will-go-bust-soon-and-actually-utters-the-infamous-phrase-this-time-is-different/",
+      "summary": "輝達（NVIDIA）執行長黃仁勳（Jensen Huang）近日再度為 AI 晶片需求背書，直言半導體產業短期 [&#8230;]",
+      "date": "2026-07-27T02:40:30+00:00",
+      "sourceId": "technews",
+      "cats": [
+        "market",
+        "process",
+        "material"
+      ]
+    },
+    {
+      "id": "d8bb130977c3",
+      "title": "長鑫存儲上市首日股價一度大漲 471.6%，躍居中國市值最高上市企業",
+      "link": "https://finance.technews.tw/2026/07/27/changxin-memorys-stock-price-surged-by-as-much-as-471-6-on-its-first-day-of-trading/",
+      "summary": "中國記憶體大廠長鑫存儲（CXMT）於 27 日在上海證券交易所科創板正式掛牌上市，首日股價一度暴漲 471.6 [&#8230;]",
+      "date": "2026-07-27T02:30:44+00:00",
+      "sourceId": "technews",
+      "cats": [
+        "market",
+        "process",
+        "material"
+      ]
+    },
+    {
+      "id": "5a87167c16f8",
+      "title": "英國 AI 副大臣：晶片製造和硬體建設是再工業化重點",
+      "link": "https://technews.tw/2026/07/27/chips-and-drones-to-be-at-heart-of-andy-burnhams-push-to-reindustrialise-ai-minister-says/",
+      "summary": "英國主責人工智慧（AI）的副大臣級官員納拉揚表示，根據新政府的政策願景，AI 的發展與應用是促進英國「再工業化 [&#8230;]",
+      "date": "2026-07-27T02:30:28+00:00",
+      "sourceId": "technews",
+      "cats": [
+        "market",
+        "process",
+        "material"
+      ]
+    },
+    {
+      "id": "53754aa78891",
+      "title": "市場傳台達電攜手英飛凌，布局下一代電源關鍵：碳化矽",
+      "link": "https://technews.tw/2026/07/27/market-rumors-delta-infineon-partner-next-gen-power-silicon-carbide/",
+      "summary": "近期市場傳出台達電與功率半導體大廠英飛凌深化合作，雙方合作範圍可望延伸至碳化矽（SiC）等關鍵功率元件，引發市 [&#8230;]",
+      "date": "2026-07-27T02:27:20+00:00",
+      "sourceId": "technews",
+      "cats": [
+        "market",
+        "process",
+        "material"
+      ]
+    },
+    {
+      "id": "e082de779640",
+      "title": "三星、SK 海力士、鎧俠本週公布最新財報，將牽動全球科技產業後續走勢",
+      "link": "https://finance.technews.tw/2026/07/27/samsung-sk-hynix-and-kioxia-will-release-their-latest-financial-reports-this-week/",
+      "summary": "在人工智慧（AI）需求持續噴發所帶動的半導體「超級週期」背景下，全球記憶體市場迎來關鍵時刻。全球三大記憶體大廠 [&#8230;]",
+      "date": "2026-07-27T02:15:15+00:00",
+      "sourceId": "technews",
+      "cats": [
+        "market",
+        "process",
+        "material"
+      ]
+    },
+    {
+      "id": "3c563f4616bc",
+      "title": "iPhone 18 成本扛不住  傳蘋果轉向面板廠砍價 20%",
+      "link": "https://technews.tw/2026/07/27/apple-presses-for-20-percent-cut-in-iphone-18-oled-panel-prices-on-chipflation/",
+      "summary": "近期記憶體漲價效應持續擴散，就連一向在供應鏈價格談判占盡上風的蘋果也一個頭兩個大。 韓媒報導，由於記憶體報價不 [&#8230;]",
+      "date": "2026-07-27T02:10:22+00:00",
+      "sourceId": "technews",
+      "cats": [
+        "market",
+        "process",
+        "material"
+      ]
+    },
+    {
+      "id": "cf49f505a173",
+      "title": "恐重演「中國鋼鐵」摧毀美產業惡夢，美光強力阻擋蘋果買中國記憶體",
+      "link": "https://technews.tw/2026/07/27/micron-ceo-sanjay-mehrotras-bad-blood-with-apple-traces-back-years/",
+      "summary": "蘋果（Apple）與美光科技（Micron Technology）正就中國記憶體晶片的採購問題，將美國政府推上 [&#8230;]",
+      "date": "2026-07-27T01:50:43+00:00",
+      "sourceId": "technews",
+      "cats": [
+        "market",
+        "process",
+        "material"
+      ]
+    },
+    {
+      "id": "8ec796211caa",
+      "title": "全球科技業關注，中國最大 DRAM 廠商長鑫存儲掛牌交易",
+      "link": "https://finance.technews.tw/2026/07/27/changxin-memory-chinas-largest-dram-manufacturer-is-listed-for-trading/",
+      "summary": "受惠於全球記憶體晶片需求與 AI 發展的熱潮，前身為合肥長鑫的 「長鑫存儲」（CXMT）於 27 日正式在上海 [&#8230;]",
+      "date": "2026-07-27T01:30:54+00:00",
+      "sourceId": "technews",
+      "cats": [
+        "market",
+        "process",
+        "material"
+      ]
+    },
+    {
+      "id": "0393c89acd70",
+      "title": "韓國研發「可程式化光子晶片」突破光運算瓶頸，隨需調控光速助攻 AI 發展",
+      "link": "https://technews.tw/2026/07/27/programmable-photonic-chip/",
+      "summary": "隨著生成式 AI 與大型語言模型的快速擴張，資料中心與伺服器對運算效率的需求直線攀升。面對傳統電子半導體在能耗 [&#8230;]",
+      "date": "2026-07-27T00:20:31+00:00",
       "sourceId": "technews",
       "cats": [
         "market",
