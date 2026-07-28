@@ -1,6 +1,6 @@
 {
-  "updated": "2026-07-28T10:42:35.627294+00:00",
-  "count": 18,
+  "updated": "2026-07-28T14:27:39.944959+00:00",
+  "count": 20,
   "sources": [
     {
       "id": "technews",
@@ -60,6 +60,32 @@
     }
   ],
   "articles": [
+    {
+      "id": "d325aa3d25b8",
+      "title": "How to Build a 100Gbps Server-Grade AOI Platform for Next-Generation Semiconductor Inspection",
+      "link": "https://www.eetimes.com/how-to-build-a-100gbps-server-grade-aoi-platform-for-next-generation-semiconductor-inspection/",
+      "summary": "Discover how to overcome the bandwidth, scalability, thermal, and system integration challenges of modern AI-powered AOI. This white paper explains how server-grade architecture, high-speed frame grabbers, and GPU computing enable reliable 100Gbps image acquisition for advanced semiconductor inspect",
+      "date": "2026-07-28T14:00:00+00:00",
+      "sourceId": "eetimes",
+      "cats": [
+        "process",
+        "material",
+        "equipment"
+      ]
+    },
+    {
+      "id": "ce95a6e4a961",
+      "title": "中國 DUV 交付消息引發半導體連鎖殺盤效應，專家解析真相指劃錯重點",
+      "link": "https://finance.technews.tw/2026/07/28/news-of-chinas-duv-delivery-triggers-a-chain-reaction-in-the-semiconductor-industry/",
+      "summary": "日前，一篇出自外媒The Information最新報導，指出一家未具名的中國國家支持企業已成功製造國產DUV [&#8230;]",
+      "date": "2026-07-28T13:50:36+00:00",
+      "sourceId": "technews",
+      "cats": [
+        "market",
+        "process",
+        "material"
+      ]
+    },
     {
       "id": "1ee1f2fe1a1f",
       "title": "終結沃爾瑪 12 年霸權！亞馬遜登頂《財富》500 強，貝佐斯揭成長關鍵：AI 與晶片布局",
