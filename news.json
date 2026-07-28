@@ -1,6 +1,6 @@
 {
-  "updated": "2026-07-28T06:34:46.577725+00:00",
-  "count": 11,
+  "updated": "2026-07-28T10:42:35.627294+00:00",
+  "count": 18,
   "sources": [
     {
       "id": "technews",
@@ -60,6 +60,97 @@
     }
   ],
   "articles": [
+    {
+      "id": "1ee1f2fe1a1f",
+      "title": "終結沃爾瑪 12 年霸權！亞馬遜登頂《財富》500 強，貝佐斯揭成長關鍵：AI 與晶片布局",
+      "link": "https://finance.technews.tw/2026/07/28/amazons-jeff-bezos-on-how-his-garage-startup-became-the-largest-company-in-the-world-by-revenue/",
+      "summary": "亞馬遜在最新《財富》世界 500 強榜單登上全球營收第一，終結沃爾瑪連 12 年稱霸紀錄，也讓這家從貝佐斯貝爾 [&#8230;]",
+      "date": "2026-07-28T09:50:06+00:00",
+      "sourceId": "technews",
+      "cats": [
+        "market",
+        "process",
+        "material"
+      ]
+    },
+    {
+      "id": "57cc038ff8ad",
+      "title": "旺宏 2026 年第二季 EPS 達 3.91 元，毛利率達 64.4%，將增加 158 億元資本支出",
+      "link": "https://finance.technews.tw/2026/07/28/macronixs-eps-for-the-second-quarter-of-2026-reached-nt3-91/",
+      "summary": "記憶體大廠旺宏於28日舉辦第二季法人說明會，公布最新財務報告。受惠於NAND與NOR Flash的強勁需求與結 [&#8230;]",
+      "date": "2026-07-28T09:00:28+00:00",
+      "sourceId": "technews",
+      "cats": [
+        "market",
+        "process",
+        "material"
+      ]
+    },
+    {
+      "id": "05f9e6fdfbb9",
+      "title": "內鬼抓到了！涉嫌走私輝達高階 AI 晶片至中國，輝達經理羈押禁見",
+      "link": "https://technews.tw/2026/07/28/nvidia-taiwan-b300-smuggling/",
+      "summary": "基隆地檢署持續偵辦國內業者涉嫌違法將高階 AI 晶片出口中國，並於今（28 日）公布最新進度，已於 24 日偵 [&#8230;]",
+      "date": "2026-07-28T08:48:31+00:00",
+      "sourceId": "technews",
+      "cats": [
+        "market",
+        "process",
+        "material"
+      ]
+    },
+    {
+      "id": "a05b094d2b3f",
+      "title": "最新》日本熊本 7.1 強震，台積電 JASM 廠區緊急疏散",
+      "link": "https://technews.tw/2026/07/28/a-magnitude-7-1-earthquake-struck-kumamoto-japan/",
+      "summary": "綜合日本各媒體的消息指出，日本熊本縣熊本地方於28日下午4時27分至35分許（台灣時間下午3時27分），發生芮 [&#8230;]",
+      "date": "2026-07-28T08:30:25+00:00",
+      "sourceId": "technews",
+      "cats": [
+        "market",
+        "process",
+        "material"
+      ]
+    },
+    {
+      "id": "2d1fe4cf3f05",
+      "title": "中國記憶體擴產推進，業者看有效產能釋出仍需時間",
+      "link": "https://technews.tw/2026/07/28/china-memory-expansion-advances-industry-expects-effective-capacity-release-takes-time/",
+      "summary": "中國 DRAM 大廠長鑫科技（CXMT）完成掛牌，募資規模達 579 億人民幣，上市後市值快速攀升，也讓市場聚 [&#8230;]",
+      "date": "2026-07-28T08:10:46+00:00",
+      "sourceId": "technews",
+      "cats": [
+        "market",
+        "process",
+        "material"
+      ]
+    },
+    {
+      "id": "d0c91de9172d",
+      "title": "力成第二季營收創三年新高，攜手 AMD、博通搶攻 AI 及先進封裝商機",
+      "link": "https://finance.technews.tw/2026/07/28/powertechs-second-quarter-revenue-hit-a-three-year-high/",
+      "summary": "半導體封測大廠力成舉辦 2026 年第二季法人說明會，繳出亮眼財務成績單。受惠於 AI 伺服器與記憶體強勁需求 [&#8230;]",
+      "date": "2026-07-28T08:00:18+00:00",
+      "sourceId": "technews",
+      "cats": [
+        "market",
+        "process",
+        "material"
+      ]
+    },
+    {
+      "id": "531f63283535",
+      "title": "卡位 AI 算力市場！傳輝達豪砸 500 億美元承租德州資料中心",
+      "link": "https://technews.tw/2026/07/28/nvidia-texas-data-center/",
+      "summary": "根據《金融時報》報導，知情人士透露，輝達（NVIDIA）已簽署租賃合約，將承租 Hut 8 位於美國德州的資料 [&#8230;]",
+      "date": "2026-07-28T07:47:51+00:00",
+      "sourceId": "technews",
+      "cats": [
+        "market",
+        "process",
+        "material"
+      ]
+    },
     {
       "id": "d94f6a2ba1bb",
       "title": "Warning Shots Fired as AMD Announces New Data Center GPUs",
