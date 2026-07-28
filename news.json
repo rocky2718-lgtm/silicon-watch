@@ -1,6 +1,6 @@
 {
-  "updated": "2026-07-27T23:12:31.406273+00:00",
-  "count": 21,
+  "updated": "2026-07-28T03:23:22.079871+00:00",
+  "count": 20,
   "sources": [
     {
       "id": "technews",
@@ -61,11 +61,11 @@
   ],
   "articles": [
     {
-      "id": "a622a0209a6a",
-      "title": "FEV 與微軟部署車端小語言模型，確保離線語音服務與高效運用記憶體",
-      "link": "https://technews.tw/2026/07/28/fev-collaborates-with-microsoft-on-efficient-ai-model-approach-for-in-car-applications-built-on-nvidia/",
-      "summary": "歐洲工程整合服務商 FEV 宣布與微軟（Microsoft）合作，在 NVIDIA DRIVE AGX 運算平 [&#8230;]",
-      "date": "2026-07-27T23:00:58+00:00",
+      "id": "06d5ee65e0ee",
+      "title": "輝達首批美國生產 GB300 晶片台積電 Fab 21 下線，但還要運回台灣封裝",
+      "link": "https://technews.tw/2026/07/28/nvidias-first-batch-of-gb300-chips-manufactured-in-the-us-rolled-off-the-production-line-at-tsmc-fab-21/",
+      "summary": "台積電與輝達（NVIDIA）近期在美國晶片在地化製造上達成了一項重大里程碑。根據報導，台積電位於美國亞利桑那州 [&#8230;]",
+      "date": "2026-07-28T03:00:11+00:00",
       "sourceId": "technews",
       "cats": [
         "market",
@@ -74,11 +74,102 @@
       ]
     },
     {
-      "id": "f780c99e9876",
-      "title": "中國長鑫存儲上市成功，衝擊全球記憶體類股股價下跌",
-      "link": "https://finance.technews.tw/2026/07/28/chinas-changxin-memory-technologies-co-ltd-changxin-memory-listing-will-impact-global-memory-chip-stocks/",
-      "summary": "中國記憶體晶片製造商長鑫存儲（CXMT）在上海科創板首度公開發行（IPO）表現驚人，股價飆升超過500%，市值 [&#8230;]",
-      "date": "2026-07-27T23:00:11+00:00",
+      "id": "9360ee541b4f",
+      "title": "Google 研發 Frozen V2 TPU 挑戰先進封裝，內建 SRAM 降低依賴台積 CoWoS",
+      "link": "https://technews.tw/2026/07/28/googles-frozen-v2-tpu-hardwires-sram-onto-silicon-ditching-tsmcs-cowos-packaging-for-gemini/",
+      "summary": "摩根士丹利（Morgan Stanley）最新報告，Google 正在開發代號「Frozen V2」的新 TP [&#8230;]",
+      "date": "2026-07-28T02:50:30+00:00",
+      "sourceId": "technews",
+      "cats": [
+        "market",
+        "process",
+        "material"
+      ]
+    },
+    {
+      "id": "dce530caada8",
+      "title": "日韓晶片股慘崩「韓股再熔斷」！鎧俠下殺 18%，三星、SK 海力士狂瀉逾 9%",
+      "link": "https://finance.technews.tw/2026/07/28/samsung-skhynix-kioxia-tel-stock-drop/",
+      "summary": "市場傳出輝達正洽談總額超過 7,500 億美元的 AI 基礎設施交易，衝擊投資人信心。日韓股市今（28 日）全 [&#8230;]",
+      "date": "2026-07-28T02:18:51+00:00",
+      "sourceId": "technews",
+      "cats": [
+        "market",
+        "process",
+        "material"
+      ]
+    },
+    {
+      "id": "f49d4c8f7470",
+      "title": "AI 推理如何創造新的記憶體需求？",
+      "link": "https://technews.tw/2026/07/28/ai-agent-cache-llm/",
+      "summary": "在 2026 年 6 月的 NVIDIA GTC Taipei 主題演講中，創辦人暨執行長黃仁勳指出，記憶體管 [&#8230;]",
+      "date": "2026-07-28T02:00:13+00:00",
+      "sourceId": "technews",
+      "cats": [
+        "market",
+        "process",
+        "material"
+      ]
+    },
+    {
+      "id": "bef03e5d30f1",
+      "title": "納微半導體推新一代 SiC 元件，瞄準 AI 資料中心 2027 年放量",
+      "link": "https://technews.tw/2026/07/28/navitas-next-gen-sic-ai-data-centers-2027-volume-production/",
+      "summary": "AI 資料中心朝 800 V 電源架構發展，帶動寬能隙功率半導體需求持續升溫。功率元件廠納微半導體（ Navi [&#8230;]",
+      "date": "2026-07-28T01:52:28+00:00",
+      "sourceId": "technews",
+      "cats": [
+        "market",
+        "process",
+        "material"
+      ]
+    },
+    {
+      "id": "2b333cae5290",
+      "title": "結構性缺口仍支撐市場價格上揚，大摩不悲觀記憶體股價回落",
+      "link": "https://finance.technews.tw/2026/07/28/morgan-stanley-is-not-pessimistic-about-memory-chip-stock-prices-falling/",
+      "summary": "根據外資大摩（Morgan Stanley，摩根士丹利）的最新大中華區半導體產業報告指出，儘管近期市場對於記憶 [&#8230;]",
+      "date": "2026-07-28T01:30:28+00:00",
+      "sourceId": "technews",
+      "cats": [
+        "market",
+        "process",
+        "material"
+      ]
+    },
+    {
+      "id": "467821015bb2",
+      "title": "長鑫存儲上市首日收漲近 466%，分析師：投機氣息濃厚",
+      "link": "https://finance.technews.tw/2026/07/28/cxmt-ipo-debut-soars-466-percent-analysts-heavy-speculation/",
+      "summary": "中國最大 DRAM 製造商長鑫存儲 27 日以「長鑫科技」為名在中國 A 股風光上市後，收盤仍勁揚近 466% [&#8230;]",
+      "date": "2026-07-28T01:20:58+00:00",
+      "sourceId": "technews",
+      "cats": [
+        "market",
+        "process",
+        "material"
+      ]
+    },
+    {
+      "id": "96beb54ebd7d",
+      "title": "循環融資疑慮又起、輝達 CDS 飆  蘋果重奪市值寶座",
+      "link": "https://finance.technews.tw/2026/07/28/revolving-financing-concerns-nvidia-cds-spike-apple-reclaims-market-cap/",
+      "summary": "市場謠傳，輝達（Nvidia Corp.）正在進行洽談，可能提供最高 2,500 億美元的擔保，協助 Open [&#8230;]",
+      "date": "2026-07-28T01:00:39+00:00",
+      "sourceId": "technews",
+      "cats": [
+        "market",
+        "process",
+        "material"
+      ]
+    },
+    {
+      "id": "debf436aa177",
+      "title": "全村的希望，中國長鑫存儲入列國產 DUV 首批採購名單企業",
+      "link": "https://technews.tw/2026/07/28/changxin-memory-technologies-co-ltd-of-china-has-been-included-in-the-first-batch-of-domestically-produced-duv-procurement-companies/",
+      "summary": "在全球半導體技術封鎖的背景下，中國設備自製化邁出了關鍵的一步。根據外媒 The Information 報導， [&#8230;]",
+      "date": "2026-07-28T00:50:23+00:00",
       "sourceId": "technews",
       "cats": [
         "market",
@@ -113,45 +204,6 @@
       ]
     },
     {
-      "id": "7cbfcef75622",
-      "title": "AI 帶動記憶體成本狂飆，百美元平價手機恐面臨絕版危機",
-      "link": "https://technews.tw/2026/07/27/ai-affordable-phones-obsolete/",
-      "summary": "AI 對記憶體供應的強烈拉扯，正將超低價手機推向消失的邊緣。研究機構 Omdia 示警，2026 年第三季售價 [&#8230;]",
-      "date": "2026-07-27T09:15:07+00:00",
-      "sourceId": "technews",
-      "cats": [
-        "market",
-        "process",
-        "material"
-      ]
-    },
-    {
-      "id": "4f49d4b2bd17",
-      "title": "台電估今年半導體用電量 520 億度，2035 年增至 1,100 億度",
-      "link": "https://technews.tw/2026/07/27/taipower-semiconductor-electricity-consumption-52-billion-kwh-to-110-billion-kwh-by-2035/",
-      "summary": "半導體擴產浪潮正改變台灣電力結構。台電近期預估，今年半導體產業用電量約 520 億度，到 2030 年、203 [&#8230;]",
-      "date": "2026-07-27T08:40:12+00:00",
-      "sourceId": "technews",
-      "cats": [
-        "market",
-        "process",
-        "material"
-      ]
-    },
-    {
-      "id": "b1c358effe0e",
-      "title": "AMD 攜手韓國政府，打造國家級 AI 研究中心",
-      "link": "https://technews.tw/2026/07/27/science-ministry-amd-join-hands-to-establish-open-weight-ai-ecosystem/",
-      "summary": "韓國科學技術資訊通信部 27 日表示，已與美國晶片大廠 AMD 簽署合作備忘錄，將共同推動開放權重人工智慧生態 [&#8230;]",
-      "date": "2026-07-27T08:20:45+00:00",
-      "sourceId": "technews",
-      "cats": [
-        "market",
-        "process",
-        "material"
-      ]
-    },
-    {
       "id": "98a7008e52ef",
       "title": "CXMT IPO: Where China’s Largest DRAM Maker Stands?",
       "link": "https://www.eetimes.com/cxmt-ipo-where-chinas-largest-dram-maker-stands/",
@@ -162,71 +214,6 @@
         "process",
         "material",
         "equipment"
-      ]
-    },
-    {
-      "id": "c6f8d0d0a68b",
-      "title": "NVIDIA、Broadcom CPO 交換器展開小量出貨，光引擎良率、先進封裝產能成擴產最大瓶頸",
-      "link": "https://technews.tw/2026/07/27/nvidia-broadcom-cpo-switches-shipments-optical-engine-yield-advanced-packaging-bottlenecks/",
-      "summary": "根據 TrendForce 最新光通訊產業研究，隨著 NVIDIA 出貨新一代 Spectrum-X CPO [&#8230;]",
-      "date": "2026-07-27T07:05:19+00:00",
-      "sourceId": "technews",
-      "cats": [
-        "market",
-        "process",
-        "material"
-      ]
-    },
-    {
-      "id": "20b331b3c395",
-      "title": "矽晶圓出貨強勁  信越化學「電子材料」獲利創新高",
-      "link": "https://finance.technews.tw/2026/07/27/shin-etsu-chemical-electronic-materials-profit-hits-record-high/",
-      "summary": "AI 旺、矽晶圓出貨強勁，日本信越化學（Shin-Etsu Chemical）上季「電子材料」事業獲利創歷史新 [&#8230;]",
-      "date": "2026-07-27T07:00:39+00:00",
-      "sourceId": "technews",
-      "cats": [
-        "market",
-        "process",
-        "material"
-      ]
-    },
-    {
-      "id": "039d7e9da728",
-      "title": "記憶體太貴了！輝達正降低 Vera Rubin NV72 機櫃平台記憶體容量減少成本",
-      "link": "https://technews.tw/2026/07/27/nvidia-is-reducing-memory-capacity-and-costs-on-its-vera-rubin-nv72-rack-platform/",
-      "summary": "為了應對高昂的記憶體價格與持續的供應短缺，市場傳出輝達（NVIDIA）正大幅削減其 Vera Rubin NV [&#8230;]",
-      "date": "2026-07-27T06:30:36+00:00",
-      "sourceId": "technews",
-      "cats": [
-        "market",
-        "process",
-        "material"
-      ]
-    },
-    {
-      "id": "b356bed7856d",
-      "title": "SK 海力士狂賺 AI 財  Q2 獲利將創高、超越去年整年",
-      "link": "https://finance.technews.tw/2026/07/27/sk-hynix-ai-profits-q2-earnings-record-high-surpasses-last-year/",
-      "summary": "人工智慧（AI）熱潮引爆全球記憶體超級循環，韓國記憶體大廠 SK 海力士（SK hynix）憑藉高頻寬記憶體（ [&#8230;]",
-      "date": "2026-07-27T06:20:45+00:00",
-      "sourceId": "technews",
-      "cats": [
-        "market",
-        "process",
-        "material"
-      ]
-    },
-    {
-      "id": "4f04674be7ee",
-      "title": "亮眼獲利提供充沛資金，英特爾 Intel 14A 製程提前 2028 年量產對抗台積電",
-      "link": "https://technews.tw/2026/07/27/intel-has-moved-up-the-production-start-date-for-its-intel-14a-process-to-2028/",
-      "summary": "半導體大廠英特爾 (Intel) 宣布加速其次世代 1.4 奈米（Intel 14A）製程技術的生產時程，預計 [&#8230;]",
-      "date": "2026-07-27T06:00:49+00:00",
-      "sourceId": "technews",
-      "cats": [
-        "market",
-        "process",
-        "material"
       ]
     },
     {
