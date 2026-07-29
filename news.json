@@ -1,6 +1,6 @@
 {
-  "updated": "2026-07-29T06:39:32.426572+00:00",
-  "count": 23,
+  "updated": "2026-07-29T10:46:20.335564+00:00",
+  "count": 22,
   "sources": [
     {
       "id": "technews",
@@ -61,11 +61,11 @@
   ],
   "articles": [
     {
-      "id": "d8dbb7d31d13",
-      "title": "AI 花越多錢越好？蘋果不燒錢卻登 5 兆美元市值",
-      "link": "https://finance.technews.tw/2026/07/29/apple-ai-capex/",
-      "summary": "蘋果股價在週二盤中一度上漲 1.3%，帶動市值首度突破5兆美元大關，成為繼 NVIDIA 之後，全球第二家市值 [&#8230;]",
-      "date": "2026-07-29T06:14:42+00:00",
+      "id": "4e18986eddd5",
+      "title": "聯電第二季 EPS 達 3.39 元創新高，擴產需求提升資本支出達 20 億美元",
+      "link": "https://finance.technews.tw/2026/07/29/umcs-second-quarter-eps-reached-a-record-high-of-nt3-39/",
+      "summary": "晶圓代工大廠聯電 （UMC） 公佈 2026 年第二季營運報告，受惠於通訊與消費性電子領域的強勁需求，單季合併 [&#8230;]",
+      "date": "2026-07-29T09:50:17+00:00",
       "sourceId": "technews",
       "cats": [
         "market",
@@ -74,11 +74,11 @@
       ]
     },
     {
-      "id": "1d7a244b255d",
-      "title": "半導體股遭拋售  資金轉進軟體股、防禦類股？",
-      "link": "https://finance.technews.tw/2026/07/29/semiconductor-stocks-sold-off-funds-shifting-software-defensive-stocks/",
-      "summary": "資金輪動，AI 交易急轉直下，半導體股遭到拋售，軟體股則默默止跌回穩，引起分析師注意。 綜合外媒報導，美國半導 [&#8230;]",
-      "date": "2026-07-29T06:10:45+00:00",
+      "id": "ffd5f9dea2cf",
+      "title": "貝恩資本清倉、股價回檔 65％，鎧俠 AI 翻身後陷擴產兩難",
+      "link": "https://technews.tw/2026/07/29/kioxia-nand-memory-stock/",
+      "summary": "日本 NAND Flash 大廠鎧俠（Kioxia）曾因記憶體景氣低迷而陷入財務困境，如今在 AI 浪潮帶動下 [&#8230;]",
+      "date": "2026-07-29T09:22:15+00:00",
       "sourceId": "technews",
       "cats": [
         "market",
@@ -87,11 +87,11 @@
       ]
     },
     {
-      "id": "7f54dbd31870",
-      "title": "AI 熱潮才剛開始，市場：晶片如石油將推高通膨",
-      "link": "https://finance.technews.tw/2026/07/29/chip-boom-will-bring-inflation/",
-      "summary": "全球股市近日遭遇賣壓，晶片股與 AI 概念股領跌，美股科技股重挫，也拖累亞洲股市同步走弱。不過，多家華爾街機構 [&#8230;]",
-      "date": "2026-07-29T04:31:15+00:00",
+      "id": "b07848d20479",
+      "title": "瞄準矽光子與先進封裝需求，聯電宣布新加坡擴產及台南興建新廠",
+      "link": "https://finance.technews.tw/2026/07/29/umc-announces-capacity-expansion-in-singapore-and-construction-of-new-plant-in-tainan/",
+      "summary": "晶圓代工大廠聯電宣布，董事會通過分階段擴產計畫，以因應客戶持續成長的需求。聯電將擴建新加坡廠區無塵室產能，並同 [&#8230;]",
+      "date": "2026-07-29T09:10:28+00:00",
       "sourceId": "technews",
       "cats": [
         "market",
@@ -100,11 +100,11 @@
       ]
     },
     {
-      "id": "df044474e28e",
-      "title": "英特爾與 Cadence 擴大結盟，AI 驅動設計流程獲 Intel 14A 與 18A-P 製程雙認證",
-      "link": "https://technews.tw/2026/07/29/intel-18a-p-and-14a-gain-cadences-full-eda-toolchain-tightening-the-ecosystem-push-to-challenge-tsmcs-foundry-lead/",
-      "summary": "英特爾（Intel）代工與 Cadence 於 27 日宣布，Cadence 旗下 AI 驅動的數位與客製化參 [&#8230;]",
-      "date": "2026-07-29T04:00:34+00:00",
+      "id": "82d444f6c049",
+      "title": "九州熊本地震多，台積電當時選擇落腳原因是這個",
+      "link": "https://finance.technews.tw/2026/07/29/tsmc-chose-to-locate-in-kumamoto-for-this-reason/",
+      "summary": "28日，日本九州熊本地區發生芮氏規模7.1的強烈地震。該次地震不但造成了當地人命財產的損失，更讓設置於當地的日 [&#8230;]",
+      "date": "2026-07-29T08:40:15+00:00",
       "sourceId": "technews",
       "cats": [
         "market",
@@ -113,11 +113,11 @@
       ]
     },
     {
-      "id": "91700bd4c4a4",
-      "title": "訂單旺、半導體設備商 Screen 上修財測  惟股價崩",
-      "link": "https://finance.technews.tw/2026/07/29/screen-holdings-raises-full-year-outlook/",
-      "summary": "訂單旺，半導體製造設備商 Screen Holdings 上修財測，不過調升後的財測遜於市場預期，29日股價聞 [&#8230;]",
-      "date": "2026-07-29T03:40:38+00:00",
+      "id": "3cbcc8241558",
+      "title": "黃仁勳訪華府，彭博：為開放權重 AI 模型辯護",
+      "link": "https://technews.tw/2026/07/29/nvidias-ceo-jensen-huang-defends-open-weight-ai-models/",
+      "summary": "美國人工智慧（AI）晶片巨擘輝達執行長黃仁勳為開放權重 AI 系統辯護，認為對新興 AI 產業至關重要，向正在 [&#8230;]",
+      "date": "2026-07-29T08:20:39+00:00",
       "sourceId": "technews",
       "cats": [
         "market",
@@ -126,11 +126,11 @@
       ]
     },
     {
-      "id": "5bb32b36d3c9",
-      "title": "熊本 7.1 強震衝擊半導體聚落，台積電、Sony、TEL 啟動應變措施",
-      "link": "https://technews.tw/2026/07/29/tsmc-evacuates-workers-kumamoto-jasm-fab/",
-      "summary": "日本熊本縣 28 日發生規模 7.1 強震後，災情持續擴大。根據日經報導，截至週三（29 日）上午，該地震已造 [&#8230;]",
-      "date": "2026-07-29T03:34:18+00:00",
+      "id": "94cc2f72dd81",
+      "title": "DRAM 成旗艦智慧機最貴零件，影響新技術導入進度",
+      "link": "https://technews.tw/2026/07/29/dram-becomes-the-costliest-component-in-flagship-smartphones/",
+      "summary": "綜合中媒報導，據 Counterpoint Research 公布，智慧手機記憶體價格在 2026 年第二季季 [&#8230;]",
+      "date": "2026-07-29T08:15:11+00:00",
       "sourceId": "technews",
       "cats": [
         "market",
@@ -139,11 +139,24 @@
       ]
     },
     {
-      "id": "fb1d6e16b454",
-      "title": "黃仁勳：說 AI 摧毀工作是本末倒置，消除的是「任務」而非「職位」",
-      "link": "https://technews.tw/2026/07/29/nvidia-ceo-jensen-huang-says-ai-kills-tasks-not-jobs-and-job-loss-fears-are-exactly-backwards/",
-      "summary": "輝達執行長黃仁勳近日參加矽谷創業加速器 Y Combinator 的 Startup School，再度回應外 [&#8230;]",
-      "date": "2026-07-29T03:30:43+00:00",
+      "id": "9fb6aca5ee45",
+      "title": "From Co-Packaged Optics to Nanolasers: Photonics Moves Inward",
+      "link": "https://www.eetimes.com/from-co-packaged-optics-to-nanolasers-photonics-moves-inward/",
+      "summary": "CEA-Leti, Scintil Photonics, and NcodiN show how optical interconnects are moving from data center racks toward co-packaged optics and chiplet-level communication. The post From Co-Packaged Optics to Nanolasers: Photonics Moves Inward appeared first on EE Times.",
+      "date": "2026-07-29T08:02:27+00:00",
+      "sourceId": "eetimes",
+      "cats": [
+        "process",
+        "material",
+        "equipment"
+      ]
+    },
+    {
+      "id": "da9571f0def1",
+      "title": "英特爾宣布完成美國國防部 RAMP C 半導體計畫，強化本土晶片供應鏈",
+      "link": "https://technews.tw/2026/07/29/intel-announces-completion-of-u-s-department-of-defense-rampc-semiconductor-project/",
+      "summary": "英特爾旗下晶圓代工（Intel Foundry）部門宣布已成功完成「RAMP C」半導體計畫。該計畫目的是以旗 [&#8230;]",
+      "date": "2026-07-29T08:00:46+00:00",
       "sourceId": "technews",
       "cats": [
         "market",
@@ -152,11 +165,11 @@
       ]
     },
     {
-      "id": "72474ad36f59",
-      "title": "科磊最新財報超預期！上修全球晶圓設備市場展望，盤後不漲遇賣壓",
-      "link": "https://technews.tw/2026/07/29/kla-2026-q4-financial-report/",
-      "summary": "半導體設備大廠科磊（KLA）於 28 日公布 2026 會計年度第四季財報（截至 2026 年 6 月 30 [&#8230;]",
-      "date": "2026-07-29T03:18:43+00:00",
+      "id": "3c3c76631676",
+      "title": "成本壓力日益增高，三星中低階手機會採用中製記憶體嗎？",
+      "link": "https://technews.tw/2026/07/29/dram-samsung-galaxy-phone-tablet/",
+      "summary": "隨著 AI 帶動 DRAM 與 NAND Flash 需求持續攀升，市場近期傳出三星電子可能為了降低成本，在部 [&#8230;]",
+      "date": "2026-07-29T07:47:42+00:00",
       "sourceId": "technews",
       "cats": [
         "market",
@@ -165,11 +178,11 @@
       ]
     },
     {
-      "id": "2cf6b244e94f",
-      "title": "刺透奈米極限直攻 Å 世代！衡信斥資 6 億進駐竹科破解次奈米晶片缺陷",
-      "link": "https://finance.technews.tw/2026/07/29/a-generation/",
-      "summary": "衡陞科技旗下 100% 轉投資子公司衡信分析今日宣布，預計投入 6 億元正式進駐新竹科學園區，結合母公司衡陞科 [&#8230;]",
-      "date": "2026-07-29T03:01:28+00:00",
+      "id": "1902e2599f23",
+      "title": "熊本強震考驗半導體供應鏈韌性，崇越科技異地備援供貨無虞",
+      "link": "https://finance.technews.tw/2026/07/29/tscs-off-site-backup-supply-is-guaranteed/",
+      "summary": "日本九州熊本縣28日發生7.1級強烈地震，半導體關鍵材料整合服務廠商崇越科技及旗下日本子公司─峻川商事，針對供 [&#8230;]",
+      "date": "2026-07-29T07:45:34+00:00",
       "sourceId": "technews",
       "cats": [
         "market",
@@ -178,24 +191,11 @@
       ]
     },
     {
-      "id": "d46badce16ef",
-      "title": "熊本強震，崇越盤點確認供貨無虞",
-      "link": "https://technews.tw/2026/07/29/kumamoto-earthquake-tsc-scientific-confirms-supply-unaffected-after-inventory-check/",
-      "summary": "日本九州熊本縣 28 日發生規模 7.1 強烈地震，半導體材料整合服務商崇越及旗下日本子公司峻川商事經盤點，確 [&#8230;]",
-      "date": "2026-07-29T02:45:20+00:00",
-      "sourceId": "technews",
-      "cats": [
-        "market",
-        "process",
-        "material"
-      ]
-    },
-    {
-      "id": "70bf0c015aaa",
-      "title": "OpenAI 研究員讚「快到來不及切換畫面」，AMD 攜手 Cerebras 顛覆 AI 推論極限",
-      "link": "https://technews.tw/2026/07/29/openai-finds-that-systems-from-amds-helios-partner-cerebras/",
-      "summary": "超微（AMD）與 Cerebras Systems 在 7 月 28 日再度成為市場焦點。OpenAI 研究員 [&#8230;]",
-      "date": "2026-07-29T02:35:52+00:00",
+      "id": "ec9e64588d79",
+      "title": "先進封裝專案延後至 2027 年，法人維持中立評級、智原股價今跌停",
+      "link": "https://technews.tw/2026/07/29/faraday-2026-q2-financial-report-and-stock/",
+      "summary": "智原週二（28 日）舉辦第二季法說會，營收表現優於先前預期，但 Q3 財測將呈現季減態勢，毛利率維持約 45% [&#8230;]",
+      "date": "2026-07-29T07:42:28+00:00",
       "sourceId": "technews",
       "cats": [
         "market",
@@ -248,19 +248,6 @@
       "link": "https://www.eetimes.com/cxmt-ipo-where-chinas-largest-dram-maker-stands/",
       "summary": "CXMT eyes one of China’s largest semiconductor IPOs amid once-in-four-decades memory shortage. The post CXMT IPO: Where China’s Largest DRAM Maker Stands? appeared first on EE Times.",
       "date": "2026-07-27T07:20:00+00:00",
-      "sourceId": "eetimes",
-      "cats": [
-        "process",
-        "material",
-        "equipment"
-      ]
-    },
-    {
-      "id": "247c94787ee7",
-      "title": "Intel Foundry Improves Execution, but External Customers Remain the Test",
-      "link": "https://www.eetimes.com/intel-foundry-improves-execution-but-external-customers-remain-the-test/",
-      "summary": "Intel’s fabs are healing, but $293M in outside revenue won’t scare TSMC yet. The post Intel Foundry Improves Execution, but External Customers Remain the Test appeared first on EE Times.",
-      "date": "2026-07-24T22:00:00+00:00",
       "sourceId": "eetimes",
       "cats": [
         "process",
