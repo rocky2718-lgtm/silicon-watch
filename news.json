@@ -1,6 +1,6 @@
 {
-  "updated": "2026-07-29T21:04:58.796138+00:00",
-  "count": 20,
+  "updated": "2026-07-29T23:04:34.296548+00:00",
+  "count": 21,
   "sources": [
     {
       "id": "technews",
@@ -60,6 +60,19 @@
     }
   ],
   "articles": [
+    {
+      "id": "4554fdb98a4d",
+      "title": "別再關心記憶體了！硬碟大廠希捷第四季財報亮眼帶動股價上揚 3%",
+      "link": "https://finance.technews.tw/2026/07/30/seagate-a-major-hard-drive-manufacturer-reported-impressive-fourth-quarter-earnings/",
+      "summary": "面對再好財報表現股價也不漲的記憶體類股，傳統硬碟大廠希捷科技（Seagate Technology）則是另一種 [&#8230;]",
+      "date": "2026-07-29T23:00:55+00:00",
+      "sourceId": "technews",
+      "cats": [
+        "market",
+        "process",
+        "material"
+      ]
+    },
     {
       "id": "4e18986eddd5",
       "title": "聯電第二季 EPS 達 3.39 元創新高，擴產需求提升資本支出達 20 億美元",
