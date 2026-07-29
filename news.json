@@ -1,6 +1,6 @@
 {
-  "updated": "2026-07-28T23:08:35.303243+00:00",
-  "count": 20,
+  "updated": "2026-07-29T03:25:16.431716+00:00",
+  "count": 22,
   "sources": [
     {
       "id": "technews",
@@ -61,6 +61,136 @@
   ],
   "articles": [
     {
+      "id": "72474ad36f59",
+      "title": "科磊最新財報超預期！上修全球晶圓設備市場展望，盤後不漲遇賣壓",
+      "link": "https://technews.tw/2026/07/29/kla-2026-q4-financial-report/",
+      "summary": "半導體設備大廠科磊（KLA）於 28 日公布 2026 會計年度第四季財報（截至 2026 年 6 月 30 [&#8230;]",
+      "date": "2026-07-29T03:18:43+00:00",
+      "sourceId": "technews",
+      "cats": [
+        "market",
+        "process",
+        "material"
+      ]
+    },
+    {
+      "id": "2cf6b244e94f",
+      "title": "刺透奈米極限直攻 Å 世代！衡信斥資 6 億進駐竹科破解次奈米晶片缺陷",
+      "link": "https://finance.technews.tw/2026/07/29/a-generation/",
+      "summary": "衡陞科技旗下 100% 轉投資子公司衡信分析今日宣布，預計投入 6 億元正式進駐新竹科學園區，結合母公司衡陞科 [&#8230;]",
+      "date": "2026-07-29T03:01:28+00:00",
+      "sourceId": "technews",
+      "cats": [
+        "market",
+        "process",
+        "material"
+      ]
+    },
+    {
+      "id": "d46badce16ef",
+      "title": "熊本強震，崇越盤點確認供貨無虞",
+      "link": "https://technews.tw/2026/07/29/kumamoto-earthquake-tsc-scientific-confirms-supply-unaffected-after-inventory-check/",
+      "summary": "日本九州熊本縣 28 日發生規模 7.1 強烈地震，半導體材料整合服務商崇越及旗下日本子公司峻川商事經盤點，確 [&#8230;]",
+      "date": "2026-07-29T02:45:20+00:00",
+      "sourceId": "technews",
+      "cats": [
+        "market",
+        "process",
+        "material"
+      ]
+    },
+    {
+      "id": "70bf0c015aaa",
+      "title": "OpenAI 研究員讚「快到來不及切換畫面」，AMD 攜手 Cerebras 顛覆 AI 推論極限",
+      "link": "https://technews.tw/2026/07/29/openai-finds-that-systems-from-amds-helios-partner-cerebras/",
+      "summary": "超微（AMD）與 Cerebras Systems 在 7 月 28 日再度成為市場焦點。OpenAI 研究員 [&#8230;]",
+      "date": "2026-07-29T02:35:52+00:00",
+      "sourceId": "technews",
+      "cats": [
+        "market",
+        "process",
+        "material"
+      ]
+    },
+    {
+      "id": "5d2d1c3040c0",
+      "title": "台股史上第三大崩跌夜盤再挫！投信急抄底矽光子、散熱，聯電法說今登場",
+      "link": "https://finance.technews.tw/2026/07/29/taiwan-stocks-3rd-largest-crash-night-plunge-investment-trusts-buy-silicon-photonics-thermal-umc-earnings-call/",
+      "summary": "台股 28 日大跌 2,030 點收在 41,603 點，三大法人狂砍 1,175 億元，外資淨空單重回 8 [&#8230;]",
+      "date": "2026-07-29T02:00:05+00:00",
+      "sourceId": "technews",
+      "cats": [
+        "market",
+        "process",
+        "material"
+      ]
+    },
+    {
+      "id": "28ecdf6b644b",
+      "title": "瑞銀看好新技術發展帶動營運，提升力成目標價至 260 元",
+      "link": "https://finance.technews.tw/2026/07/29/ubs-raises-its-target-price-for-li-cheng-to-260-yuan/",
+      "summary": "外資瑞銀針對力成科技的最新研究報告表示，儘管力成在扇出型面板級封裝（FOPLP）的產能擴張上面臨設備延遲等挑戰 [&#8230;]",
+      "date": "2026-07-29T01:45:14+00:00",
+      "sourceId": "technews",
+      "cats": [
+        "market",
+        "process",
+        "material"
+      ]
+    },
+    {
+      "id": "cd2db9d8c0f9",
+      "title": "熊本強震  台積電：廠區人員安全無虞；逐步回線",
+      "link": "https://technews.tw/2026/07/29/tsmc-kumamoto-earthquake-personnel-safe-gradual-resumption/",
+      "summary": "日本熊本 28 日發生規模 7.1 強震，隨後又發生多次餘震。 台積電昨晚表示，熊本的JASM晶圓廠區於地震發 [&#8230;]",
+      "date": "2026-07-29T01:20:59+00:00",
+      "sourceId": "technews",
+      "cats": [
+        "market",
+        "process",
+        "material"
+      ]
+    },
+    {
+      "id": "717df55548be",
+      "title": "傳月之暗面尋求增購輝達晶片，訓練下一代模型 K4",
+      "link": "https://technews.tw/2026/07/29/chinese-ai-startup-moonshot-seeks-more-nvidia-blackwell-chips-for-next-model/",
+      "summary": "綜合港媒引用 The Information 報導，據消息人士指出，中國 AI 大模型新創公司月之暗面（Moo [&#8230;]",
+      "date": "2026-07-29T01:00:27+00:00",
+      "sourceId": "technews",
+      "cats": [
+        "market",
+        "process",
+        "material"
+      ]
+    },
+    {
+      "id": "3670d1441292",
+      "title": "熊本地震  晶片設備商 TEL 2 座廠停工、Sony 確認狀況",
+      "link": "https://technews.tw/2026/07/29/kumamoto-earthquake-chip-equipment-maker-tel-halts-2-plants-sony-confirms-situation/",
+      "summary": "日本熊本縣 28 日下午發生規模 7.1 強震，而在當地設有工廠的企業紛紛忙於確認員工安全及掌握災情。由於熊本 [&#8230;]",
+      "date": "2026-07-29T00:40:18+00:00",
+      "sourceId": "technews",
+      "cats": [
+        "market",
+        "process",
+        "material"
+      ]
+    },
+    {
+      "id": "0c753024fbc5",
+      "title": "MIT 研發無機械零件「光達晶片」：大幅降低雜訊、拓寬自駕車感測視野",
+      "link": "https://technews.tw/2026/07/29/mit-new-lidar-chip/",
+      "summary": "麻省理工學院（MIT）研究團隊近期成功開發出一款新型光達（LiDAR）晶片。該晶片採用創新的天線設計，在完全不 [&#8230;]",
+      "date": "2026-07-29T00:30:09+00:00",
+      "sourceId": "technews",
+      "cats": [
+        "market",
+        "process",
+        "material"
+      ]
+    },
+    {
       "id": "d325aa3d25b8",
       "title": "How to Build a 100Gbps Server-Grade AOI Platform for Next-Generation Semiconductor Inspection",
       "link": "https://www.eetimes.com/how-to-build-a-100gbps-server-grade-aoi-platform-for-next-generation-semiconductor-inspection/",
@@ -71,110 +201,6 @@
         "process",
         "material",
         "equipment"
-      ]
-    },
-    {
-      "id": "ce95a6e4a961",
-      "title": "中國 DUV 交付消息引發半導體連鎖殺盤效應，專家解析真相指劃錯重點",
-      "link": "https://finance.technews.tw/2026/07/28/news-of-chinas-duv-delivery-triggers-a-chain-reaction-in-the-semiconductor-industry/",
-      "summary": "日前，一篇出自外媒The Information最新報導，指出一家未具名的中國國家支持企業已成功製造國產DUV [&#8230;]",
-      "date": "2026-07-28T13:50:36+00:00",
-      "sourceId": "technews",
-      "cats": [
-        "market",
-        "process",
-        "material"
-      ]
-    },
-    {
-      "id": "1ee1f2fe1a1f",
-      "title": "終結沃爾瑪 12 年霸權！亞馬遜登頂《財富》500 強，貝佐斯揭成長關鍵：AI 與晶片布局",
-      "link": "https://finance.technews.tw/2026/07/28/amazons-jeff-bezos-on-how-his-garage-startup-became-the-largest-company-in-the-world-by-revenue/",
-      "summary": "亞馬遜在最新《財富》世界 500 強榜單登上全球營收第一，終結沃爾瑪連 12 年稱霸紀錄，也讓這家從貝佐斯貝爾 [&#8230;]",
-      "date": "2026-07-28T09:50:06+00:00",
-      "sourceId": "technews",
-      "cats": [
-        "market",
-        "process",
-        "material"
-      ]
-    },
-    {
-      "id": "57cc038ff8ad",
-      "title": "旺宏 2026 年第二季 EPS 達 3.91 元，毛利率達 64.4%，將增加 158 億元資本支出",
-      "link": "https://finance.technews.tw/2026/07/28/macronixs-eps-for-the-second-quarter-of-2026-reached-nt3-91/",
-      "summary": "記憶體大廠旺宏於28日舉辦第二季法人說明會，公布最新財務報告。受惠於NAND與NOR Flash的強勁需求與結 [&#8230;]",
-      "date": "2026-07-28T09:00:28+00:00",
-      "sourceId": "technews",
-      "cats": [
-        "market",
-        "process",
-        "material"
-      ]
-    },
-    {
-      "id": "05f9e6fdfbb9",
-      "title": "內鬼抓到了！涉嫌走私輝達高階 AI 晶片至中國，輝達經理羈押禁見",
-      "link": "https://technews.tw/2026/07/28/nvidia-taiwan-b300-smuggling/",
-      "summary": "基隆地檢署持續偵辦國內業者涉嫌違法將高階 AI 晶片出口中國，並於今（28 日）公布最新進度，已於 24 日偵 [&#8230;]",
-      "date": "2026-07-28T08:48:31+00:00",
-      "sourceId": "technews",
-      "cats": [
-        "market",
-        "process",
-        "material"
-      ]
-    },
-    {
-      "id": "a05b094d2b3f",
-      "title": "最新》日本熊本 7.1 強震，台積電 JASM 廠區緊急疏散",
-      "link": "https://technews.tw/2026/07/28/a-magnitude-7-1-earthquake-struck-kumamoto-japan/",
-      "summary": "綜合日本各媒體的消息指出，日本熊本縣熊本地方於28日下午4時27分至35分許（台灣時間下午3時27分），發生芮 [&#8230;]",
-      "date": "2026-07-28T08:30:25+00:00",
-      "sourceId": "technews",
-      "cats": [
-        "market",
-        "process",
-        "material"
-      ]
-    },
-    {
-      "id": "2d1fe4cf3f05",
-      "title": "中國記憶體擴產推進，業者看有效產能釋出仍需時間",
-      "link": "https://technews.tw/2026/07/28/china-memory-expansion-advances-industry-expects-effective-capacity-release-takes-time/",
-      "summary": "中國 DRAM 大廠長鑫科技（CXMT）完成掛牌，募資規模達 579 億人民幣，上市後市值快速攀升，也讓市場聚 [&#8230;]",
-      "date": "2026-07-28T08:10:46+00:00",
-      "sourceId": "technews",
-      "cats": [
-        "market",
-        "process",
-        "material"
-      ]
-    },
-    {
-      "id": "d0c91de9172d",
-      "title": "力成第二季營收創三年新高，攜手 AMD、博通搶攻 AI 及先進封裝商機",
-      "link": "https://finance.technews.tw/2026/07/28/powertechs-second-quarter-revenue-hit-a-three-year-high/",
-      "summary": "半導體封測大廠力成舉辦 2026 年第二季法人說明會，繳出亮眼財務成績單。受惠於 AI 伺服器與記憶體強勁需求 [&#8230;]",
-      "date": "2026-07-28T08:00:18+00:00",
-      "sourceId": "technews",
-      "cats": [
-        "market",
-        "process",
-        "material"
-      ]
-    },
-    {
-      "id": "531f63283535",
-      "title": "卡位 AI 算力市場！傳輝達豪砸 500 億美元承租德州資料中心",
-      "link": "https://technews.tw/2026/07/28/nvidia-texas-data-center/",
-      "summary": "根據《金融時報》報導，知情人士透露，輝達（NVIDIA）已簽署租賃合約，將承租 Hut 8 位於美國德州的資料 [&#8230;]",
-      "date": "2026-07-28T07:47:51+00:00",
-      "sourceId": "technews",
-      "cats": [
-        "market",
-        "process",
-        "material"
       ]
     },
     {
