@@ -1,6 +1,6 @@
 {
-  "updated": "2026-07-29T10:46:20.335564+00:00",
-  "count": 22,
+  "updated": "2026-07-29T14:25:56.790361+00:00",
+  "count": 20,
   "sources": [
     {
       "id": "technews",
@@ -222,32 +222,6 @@
       "link": "https://www.eetimes.com/warning-shots-fired-as-amd-announces-new-data-center-gpus-at-advancing-ai-event/",
       "summary": "Red team’s new Helios racks offer 30% more tokens per dollar than Nvidia. The post Warning Shots Fired as AMD Announces New Data Center GPUs appeared first on EE Times.",
       "date": "2026-07-27T16:58:23+00:00",
-      "sourceId": "eetimes",
-      "cats": [
-        "process",
-        "material",
-        "equipment"
-      ]
-    },
-    {
-      "id": "3e7848ecff69",
-      "title": "Adaptive Hardware Could Change How EV Chargers Are Designed",
-      "link": "https://www.eetimes.com/adaptive-hardware-could-change-how-ev-chargers-are-designed/",
-      "summary": "Vanix bets adaptive AMD hardware can make India’s EV chargers upgradeable, not disposable. The post Adaptive Hardware Could Change How EV Chargers Are Designed appeared first on EE Times.",
-      "date": "2026-07-27T13:00:00+00:00",
-      "sourceId": "eetimes",
-      "cats": [
-        "process",
-        "material",
-        "equipment"
-      ]
-    },
-    {
-      "id": "98a7008e52ef",
-      "title": "CXMT IPO: Where China’s Largest DRAM Maker Stands?",
-      "link": "https://www.eetimes.com/cxmt-ipo-where-chinas-largest-dram-maker-stands/",
-      "summary": "CXMT eyes one of China’s largest semiconductor IPOs amid once-in-four-decades memory shortage. The post CXMT IPO: Where China’s Largest DRAM Maker Stands? appeared first on EE Times.",
-      "date": "2026-07-27T07:20:00+00:00",
       "sourceId": "eetimes",
       "cats": [
         "process",
