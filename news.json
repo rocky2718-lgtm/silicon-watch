@@ -1,6 +1,6 @@
 {
-  "updated": "2026-07-30T19:43:59.584549+00:00",
-  "count": 19,
+  "updated": "2026-07-30T21:18:19.544458+00:00",
+  "count": 20,
   "sources": [
     {
       "id": "technews",
@@ -60,6 +60,19 @@
     }
   ],
   "articles": [
+    {
+      "id": "3902c6bad8db",
+      "title": "AI Is Compressing Software; Space Is Building the Physical Economy",
+      "link": "https://www.eetimes.com/space-grown-semiconductors-the-next-frontier-for-ai-compute/",
+      "summary": "AI is squeezing software jobs; space and semiconductors are where tech turns physical. The post AI Is Compressing Software; Space Is Building the Physical Economy appeared first on EE Times.",
+      "date": "2026-07-30T21:03:54+00:00",
+      "sourceId": "eetimes",
+      "cats": [
+        "process",
+        "material",
+        "equipment"
+      ]
+    },
     {
       "id": "f614b973b1bd",
       "title": "Why Qualcomm Bought An Open AI Software Stack",
