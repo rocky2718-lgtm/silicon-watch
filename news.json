@@ -1,6 +1,6 @@
 {
-  "updated": "2026-07-29T23:04:34.296548+00:00",
-  "count": 21,
+  "updated": "2026-07-30T03:13:00.350177+00:00",
+  "count": 19,
   "sources": [
     {
       "id": "technews",
@@ -61,11 +61,11 @@
   ],
   "articles": [
     {
-      "id": "4554fdb98a4d",
-      "title": "別再關心記憶體了！硬碟大廠希捷第四季財報亮眼帶動股價上揚 3%",
-      "link": "https://finance.technews.tw/2026/07/30/seagate-a-major-hard-drive-manufacturer-reported-impressive-fourth-quarter-earnings/",
-      "summary": "面對再好財報表現股價也不漲的記憶體類股，傳統硬碟大廠希捷科技（Seagate Technology）則是另一種 [&#8230;]",
-      "date": "2026-07-29T23:00:55+00:00",
+      "id": "61fa608a6bf0",
+      "title": "全球矽晶圓出貨創 14 季新高，AI 需求強勁",
+      "link": "https://technews.tw/2026/07/30/semi-reports-worldwide-silicon-wafer-shipments-increase-7-4-percent-year-on-year-in-q2-2026/",
+      "summary": "國際半導體產業協會（SEMI）統計，第 2 季全球矽晶圓出貨量攀升至 35.73 億平方英吋，為 2023 年 [&#8230;]",
+      "date": "2026-07-30T02:35:13+00:00",
       "sourceId": "technews",
       "cats": [
         "market",
@@ -74,11 +74,11 @@
       ]
     },
     {
-      "id": "4e18986eddd5",
-      "title": "聯電第二季 EPS 達 3.39 元創新高，擴產需求提升資本支出達 20 億美元",
-      "link": "https://finance.technews.tw/2026/07/29/umcs-second-quarter-eps-reached-a-record-high-of-nt3-39/",
-      "summary": "晶圓代工大廠聯電 （UMC） 公佈 2026 年第二季營運報告，受惠於通訊與消費性電子領域的強勁需求，單季合併 [&#8230;]",
-      "date": "2026-07-29T09:50:17+00:00",
+      "id": "35b3a0b6232c",
+      "title": "傳月之暗面完成新一輪融資，估值達 350 億美元",
+      "link": "https://finance.technews.tw/2026/07/30/moonshot-ai-completes-new-funding-round-35-billion-valuation/",
+      "summary": "綜合港媒及中媒引用彭博社報導，受益於突破性的 Kimi K3 大模型引發矽谷震動，中國 AI 大模型新創公司月 [&#8230;]",
+      "date": "2026-07-30T02:20:43+00:00",
       "sourceId": "technews",
       "cats": [
         "market",
@@ -87,11 +87,11 @@
       ]
     },
     {
-      "id": "ffd5f9dea2cf",
-      "title": "貝恩資本清倉、股價回檔 65％，鎧俠 AI 翻身後陷擴產兩難",
-      "link": "https://technews.tw/2026/07/29/kioxia-nand-memory-stock/",
-      "summary": "日本 NAND Flash 大廠鎧俠（Kioxia）曾因記憶體景氣低迷而陷入財務困境，如今在 AI 浪潮帶動下 [&#8230;]",
-      "date": "2026-07-29T09:22:15+00:00",
+      "id": "4191c95f2bd5",
+      "title": "聯電第二季財報報佳音，布局矽光子與先進封裝法人看法分歧",
+      "link": "https://finance.technews.tw/2026/07/30/umcs-second-quarter-financial-report-brings-good-news/",
+      "summary": "晶圓代工大廠聯電 2026 年第二季交出亮眼成績單，受惠於產能利用率回升與高達近新台幣 300 億元的業外投資 [&#8230;]",
+      "date": "2026-07-30T01:50:03+00:00",
       "sourceId": "technews",
       "cats": [
         "market",
@@ -100,11 +100,11 @@
       ]
     },
     {
-      "id": "b07848d20479",
-      "title": "瞄準矽光子與先進封裝需求，聯電宣布新加坡擴產及台南興建新廠",
-      "link": "https://finance.technews.tw/2026/07/29/umc-announces-capacity-expansion-in-singapore-and-construction-of-new-plant-in-tainan/",
-      "summary": "晶圓代工大廠聯電宣布，董事會通過分階段擴產計畫，以因應客戶持續成長的需求。聯電將擴建新加坡廠區無塵室產能，並同 [&#8230;]",
-      "date": "2026-07-29T09:10:28+00:00",
+      "id": "552a86fcc4ec",
+      "title": "財星全球 500 強，台積電首度躋身百大企業",
+      "link": "https://technews.tw/2026/07/30/fortune-global-500-tsmc/",
+      "summary": "美國《財星雜誌》（Fortune）近日公布 2026 年全球 500 大企業排行榜，亞洲企業受惠於 AI 熱潮 [&#8230;]",
+      "date": "2026-07-30T01:10:18+00:00",
       "sourceId": "technews",
       "cats": [
         "market",
@@ -113,11 +113,24 @@
       ]
     },
     {
-      "id": "82d444f6c049",
-      "title": "九州熊本地震多，台積電當時選擇落腳原因是這個",
-      "link": "https://finance.technews.tw/2026/07/29/tsmc-chose-to-locate-in-kumamoto-for-this-reason/",
-      "summary": "28日，日本九州熊本地區發生芮氏規模7.1的強烈地震。該次地震不但造成了當地人命財產的損失，更讓設置於當地的日 [&#8230;]",
-      "date": "2026-07-29T08:40:15+00:00",
+      "id": "71e8d4305862",
+      "title": "IoT Tech Expo Europe Returns to Amsterdam as Industrial AI and Edge Intelligence Reshape Connected Industry",
+      "link": "https://www.eetimes.com/iot-tech-expo-europe-returns-to-amsterdam-as-industrial-ai-and-edge-intelligence-reshape-connected-industry/",
+      "summary": "https://www.iottechexpo.com/europe/ From autonomous factories and AI-powered robots to connected vehicles and smart cities, organizations are entering a new era where connected systems are expected not only to collect data, but also to analyze, decide, and act in real time. As Industrial IoT continu",
+      "date": "2026-07-30T00:42:04+00:00",
+      "sourceId": "eetimes",
+      "cats": [
+        "process",
+        "material",
+        "equipment"
+      ]
+    },
+    {
+      "id": "56c40b7dee9d",
+      "title": "地震影響擴大  豐田 3 座廠、三菱功率半導體廠停工",
+      "link": "https://technews.tw/2026/07/30/earthquake-impact-expands-toyota-suspends-3-plants-mitsubishi-halts-power-semiconductor-plant/",
+      "summary": "日本熊本縣 28 日下午發生的規模 7.1 強震對日本企業的生產影響擴大，除 Sony、瑞薩電子（Renesa [&#8230;]",
+      "date": "2026-07-30T00:40:55+00:00",
       "sourceId": "technews",
       "cats": [
         "market",
@@ -126,11 +139,11 @@
       ]
     },
     {
-      "id": "3cbcc8241558",
-      "title": "黃仁勳訪華府，彭博：為開放權重 AI 模型辯護",
-      "link": "https://technews.tw/2026/07/29/nvidias-ceo-jensen-huang-defends-open-weight-ai-models/",
-      "summary": "美國人工智慧（AI）晶片巨擘輝達執行長黃仁勳為開放權重 AI 系統辯護，認為對新興 AI 產業至關重要，向正在 [&#8230;]",
-      "date": "2026-07-29T08:20:39+00:00",
+      "id": "82618ea054d0",
+      "title": "熊本地震後台積電 JASM 仍在校正調整，公司最新說明在這裡",
+      "link": "https://technews.tw/2026/07/30/recovery-status-of-tsmc-jasm-after-the-kumamoto-earthquake/",
+      "summary": "針對令和 8 年熊本地震對當地半導體產業的衝擊，尤其是針對台積電在當地營運子公司 JASM 的目前狀況，產業界 [&#8230;]",
+      "date": "2026-07-30T00:30:33+00:00",
       "sourceId": "technews",
       "cats": [
         "market",
@@ -139,11 +152,37 @@
       ]
     },
     {
-      "id": "94cc2f72dd81",
-      "title": "DRAM 成旗艦智慧機最貴零件，影響新技術導入進度",
-      "link": "https://technews.tw/2026/07/29/dram-becomes-the-costliest-component-in-flagship-smartphones/",
-      "summary": "綜合中媒報導，據 Counterpoint Research 公布，智慧手機記憶體價格在 2026 年第二季季 [&#8230;]",
-      "date": "2026-07-29T08:15:11+00:00",
+      "id": "33eb1bd67fbc",
+      "title": "首個美國腦植入裝置獲歐盟核准，Science Corp 視網膜晶片助失明者恢復視力",
+      "link": "https://technews.tw/2026/07/30/retina-chip-designed-to-restore-sight-to-go-on-sale-in-europe/",
+      "summary": "美國神經工程與腦機介面公司 Science Corporation 22 日宣布，旗下視網膜植入裝置 PRIM [&#8230;]",
+      "date": "2026-07-30T00:30:00+00:00",
+      "sourceId": "technews",
+      "cats": [
+        "market",
+        "process",
+        "material"
+      ]
+    },
+    {
+      "id": "5caa94ed2883",
+      "title": "Lumentum 豪砸 8,700 萬美元，提前卡位磷化銦晶圓供應鏈",
+      "link": "https://technews.tw/2026/07/30/lumentum-87m-indium-phosphide-wafer-supply-chain-preemptive-positioning/",
+      "summary": "化合物半導體基板廠 AXT 宣布，已與光通訊元件大廠 Lumentum 簽署磷化銦晶圓基板供應與產能保留協議。 [&#8230;]",
+      "date": "2026-07-30T00:23:26+00:00",
+      "sourceId": "technews",
+      "cats": [
+        "market",
+        "process",
+        "material"
+      ]
+    },
+    {
+      "id": "8aa5bd5fe241",
+      "title": "令和 8 年熊本地震衝擊半導體企業，多家企業持續停工引發供應鏈危機",
+      "link": "https://technews.tw/2026/07/30/the-kumamoto-earthquake-of-1959-impacted-local-semiconductor-companies/",
+      "summary": "根據熊本當地媒體熊本日日新聞的報導，截至 29 日「令和 8 年熊本地震」發生的第二天為止，九州熊本縣內的半導 [&#8230;]",
+      "date": "2026-07-30T00:00:15+00:00",
       "sourceId": "technews",
       "cats": [
         "market",
@@ -165,76 +204,11 @@
       ]
     },
     {
-      "id": "da9571f0def1",
-      "title": "英特爾宣布完成美國國防部 RAMP C 半導體計畫，強化本土晶片供應鏈",
-      "link": "https://technews.tw/2026/07/29/intel-announces-completion-of-u-s-department-of-defense-rampc-semiconductor-project/",
-      "summary": "英特爾旗下晶圓代工（Intel Foundry）部門宣布已成功完成「RAMP C」半導體計畫。該計畫目的是以旗 [&#8230;]",
-      "date": "2026-07-29T08:00:46+00:00",
-      "sourceId": "technews",
-      "cats": [
-        "market",
-        "process",
-        "material"
-      ]
-    },
-    {
-      "id": "3c3c76631676",
-      "title": "成本壓力日益增高，三星中低階手機會採用中製記憶體嗎？",
-      "link": "https://technews.tw/2026/07/29/dram-samsung-galaxy-phone-tablet/",
-      "summary": "隨著 AI 帶動 DRAM 與 NAND Flash 需求持續攀升，市場近期傳出三星電子可能為了降低成本，在部 [&#8230;]",
-      "date": "2026-07-29T07:47:42+00:00",
-      "sourceId": "technews",
-      "cats": [
-        "market",
-        "process",
-        "material"
-      ]
-    },
-    {
-      "id": "1902e2599f23",
-      "title": "熊本強震考驗半導體供應鏈韌性，崇越科技異地備援供貨無虞",
-      "link": "https://finance.technews.tw/2026/07/29/tscs-off-site-backup-supply-is-guaranteed/",
-      "summary": "日本九州熊本縣28日發生7.1級強烈地震，半導體關鍵材料整合服務廠商崇越科技及旗下日本子公司─峻川商事，針對供 [&#8230;]",
-      "date": "2026-07-29T07:45:34+00:00",
-      "sourceId": "technews",
-      "cats": [
-        "market",
-        "process",
-        "material"
-      ]
-    },
-    {
-      "id": "ec9e64588d79",
-      "title": "先進封裝專案延後至 2027 年，法人維持中立評級、智原股價今跌停",
-      "link": "https://technews.tw/2026/07/29/faraday-2026-q2-financial-report-and-stock/",
-      "summary": "智原週二（28 日）舉辦第二季法說會，營收表現優於先前預期，但 Q3 財測將呈現季減態勢，毛利率維持約 45% [&#8230;]",
-      "date": "2026-07-29T07:42:28+00:00",
-      "sourceId": "technews",
-      "cats": [
-        "market",
-        "process",
-        "material"
-      ]
-    },
-    {
       "id": "d325aa3d25b8",
       "title": "How to Build a 100Gbps Server-Grade AOI Platform for Next-Generation Semiconductor Inspection",
       "link": "https://www.eetimes.com/how-to-build-a-100gbps-server-grade-aoi-platform-for-next-generation-semiconductor-inspection/",
       "summary": "Discover how to overcome the bandwidth, scalability, thermal, and system integration challenges of modern AI-powered AOI. This white paper explains how server-grade architecture, high-speed frame grabbers, and GPU computing enable reliable 100Gbps image acquisition for advanced semiconductor inspect",
       "date": "2026-07-28T14:00:00+00:00",
-      "sourceId": "eetimes",
-      "cats": [
-        "process",
-        "material",
-        "equipment"
-      ]
-    },
-    {
-      "id": "d94f6a2ba1bb",
-      "title": "Warning Shots Fired as AMD Announces New Data Center GPUs",
-      "link": "https://www.eetimes.com/warning-shots-fired-as-amd-announces-new-data-center-gpus-at-advancing-ai-event/",
-      "summary": "Red team’s new Helios racks offer 30% more tokens per dollar than Nvidia. The post Warning Shots Fired as AMD Announces New Data Center GPUs appeared first on EE Times.",
-      "date": "2026-07-27T16:58:23+00:00",
       "sourceId": "eetimes",
       "cats": [
         "process",
