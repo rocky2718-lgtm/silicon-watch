@@ -1,6 +1,6 @@
 {
-  "updated": "2026-07-30T03:13:00.350177+00:00",
-  "count": 19,
+  "updated": "2026-07-30T06:35:03.612697+00:00",
+  "count": 16,
   "sources": [
     {
       "id": "technews",
@@ -61,11 +61,11 @@
   ],
   "articles": [
     {
-      "id": "61fa608a6bf0",
-      "title": "全球矽晶圓出貨創 14 季新高，AI 需求強勁",
-      "link": "https://technews.tw/2026/07/30/semi-reports-worldwide-silicon-wafer-shipments-increase-7-4-percent-year-on-year-in-q2-2026/",
-      "summary": "國際半導體產業協會（SEMI）統計，第 2 季全球矽晶圓出貨量攀升至 35.73 億平方英吋，為 2023 年 [&#8230;]",
-      "date": "2026-07-30T02:35:13+00:00",
+      "id": "fc343cbc231d",
+      "title": "科林研發財報超預期、財測同步看好，盤後上漲 6.6%",
+      "link": "https://finance.technews.tw/2026/07/30/lam-research-2026-q4-financial-report/",
+      "summary": "半導體設備大廠科林研發（Lam Research）週三（29 日）公布 2026 會計年度第四季財報（截至 2 [&#8230;]",
+      "date": "2026-07-30T06:09:46+00:00",
       "sourceId": "technews",
       "cats": [
         "market",
@@ -74,11 +74,11 @@
       ]
     },
     {
-      "id": "35b3a0b6232c",
-      "title": "傳月之暗面完成新一輪融資，估值達 350 億美元",
-      "link": "https://finance.technews.tw/2026/07/30/moonshot-ai-completes-new-funding-round-35-billion-valuation/",
-      "summary": "綜合港媒及中媒引用彭博社報導，受益於突破性的 Kimi K3 大模型引發矽谷震動，中國 AI 大模型新創公司月 [&#8230;]",
-      "date": "2026-07-30T02:20:43+00:00",
+      "id": "08047227f22d",
+      "title": "慧榮第二季營收年增達 127% 創新高，第三季預計最多再季增兩成",
+      "link": "https://finance.technews.tw/2026/07/30/phisons-second-quarter-revenue-increased-by-127-year-on-year-setting-a-new-record/",
+      "summary": "記憶體 IC 設計大廠慧榮科技公布 2026 年第二季財報，營收為 4 億 5,100 萬美元，創下歷史新高。 [&#8230;]",
+      "date": "2026-07-30T04:20:22+00:00",
       "sourceId": "technews",
       "cats": [
         "market",
@@ -87,11 +87,11 @@
       ]
     },
     {
-      "id": "4191c95f2bd5",
-      "title": "聯電第二季財報報佳音，布局矽光子與先進封裝法人看法分歧",
-      "link": "https://finance.technews.tw/2026/07/30/umcs-second-quarter-financial-report-brings-good-news/",
-      "summary": "晶圓代工大廠聯電 2026 年第二季交出亮眼成績單，受惠於產能利用率回升與高達近新台幣 300 億元的業外投資 [&#8230;]",
-      "date": "2026-07-30T01:50:03+00:00",
+      "id": "b77d37a39336",
+      "title": "晶片漲價兩面刃  三星 Q2 營益增 18 倍、手機變賠錢貨",
+      "link": "https://finance.technews.tw/2026/07/30/samsung-electronics-2q-2026-results-financial-data/",
+      "summary": "全球 AI 基礎建設投資熱潮爆棚，推升記憶體價格高檔不墜，三星電子（Samsung Electronics）第 [&#8230;]",
+      "date": "2026-07-30T04:20:19+00:00",
       "sourceId": "technews",
       "cats": [
         "market",
@@ -100,11 +100,37 @@
       ]
     },
     {
-      "id": "552a86fcc4ec",
-      "title": "財星全球 500 強，台積電首度躋身百大企業",
-      "link": "https://technews.tw/2026/07/30/fortune-global-500-tsmc/",
-      "summary": "美國《財星雜誌》（Fortune）近日公布 2026 年全球 500 大企業排行榜，亞洲企業受惠於 AI 熱潮 [&#8230;]",
-      "date": "2026-07-30T01:10:18+00:00",
+      "id": "742ea9f05fbe",
+      "title": "美參議員敦促蘋果，放棄自長鑫等中企採購晶片",
+      "link": "https://technews.tw/2026/07/30/us-senators-urge-apple-to-abandon-plans-for-chinese-made-chips/",
+      "summary": "綜合港媒及新加坡聯合早報引用彭博社報導，美國跨黨派參議員敦促蘋果公司，放棄自中國半導體供應商處購買記憶體晶片的 [&#8230;]",
+      "date": "2026-07-30T04:00:42+00:00",
+      "sourceId": "technews",
+      "cats": [
+        "market",
+        "process",
+        "material"
+      ]
+    },
+    {
+      "id": "4e6fd30bf4b3",
+      "title": "高通奪 BMW 長期合約！未來十年持續供數位座艙、ADAS 晶片",
+      "link": "https://technews.tw/2026/07/30/qualcomm-bmw-chip-supply-deal/",
+      "summary": "高通於週三（29 日）宣布，已與德國車廠 BMW 簽署一項長期合作協議，未來十年將持續供應晶片，用於 BMW [&#8230;]",
+      "date": "2026-07-30T03:36:08+00:00",
+      "sourceId": "technews",
+      "cats": [
+        "market",
+        "process",
+        "material"
+      ]
+    },
+    {
+      "id": "35f318a72538",
+      "title": "AI 推論旺  測試設備商愛德萬升財測、優預期  股價飆",
+      "link": "https://finance.technews.tw/2026/07/30/advantest-beats-estimates-raises-outlook-shares-surge/",
+      "summary": "AI 推論需求旺，全球半導體測試設備巨擘、輝達（Nvidia）測試設備供應商愛德萬測試（Advantest）上 [&#8230;]",
+      "date": "2026-07-30T03:30:30+00:00",
       "sourceId": "technews",
       "cats": [
         "market",
@@ -123,71 +149,6 @@
         "process",
         "material",
         "equipment"
-      ]
-    },
-    {
-      "id": "56c40b7dee9d",
-      "title": "地震影響擴大  豐田 3 座廠、三菱功率半導體廠停工",
-      "link": "https://technews.tw/2026/07/30/earthquake-impact-expands-toyota-suspends-3-plants-mitsubishi-halts-power-semiconductor-plant/",
-      "summary": "日本熊本縣 28 日下午發生的規模 7.1 強震對日本企業的生產影響擴大，除 Sony、瑞薩電子（Renesa [&#8230;]",
-      "date": "2026-07-30T00:40:55+00:00",
-      "sourceId": "technews",
-      "cats": [
-        "market",
-        "process",
-        "material"
-      ]
-    },
-    {
-      "id": "82618ea054d0",
-      "title": "熊本地震後台積電 JASM 仍在校正調整，公司最新說明在這裡",
-      "link": "https://technews.tw/2026/07/30/recovery-status-of-tsmc-jasm-after-the-kumamoto-earthquake/",
-      "summary": "針對令和 8 年熊本地震對當地半導體產業的衝擊，尤其是針對台積電在當地營運子公司 JASM 的目前狀況，產業界 [&#8230;]",
-      "date": "2026-07-30T00:30:33+00:00",
-      "sourceId": "technews",
-      "cats": [
-        "market",
-        "process",
-        "material"
-      ]
-    },
-    {
-      "id": "33eb1bd67fbc",
-      "title": "首個美國腦植入裝置獲歐盟核准，Science Corp 視網膜晶片助失明者恢復視力",
-      "link": "https://technews.tw/2026/07/30/retina-chip-designed-to-restore-sight-to-go-on-sale-in-europe/",
-      "summary": "美國神經工程與腦機介面公司 Science Corporation 22 日宣布，旗下視網膜植入裝置 PRIM [&#8230;]",
-      "date": "2026-07-30T00:30:00+00:00",
-      "sourceId": "technews",
-      "cats": [
-        "market",
-        "process",
-        "material"
-      ]
-    },
-    {
-      "id": "5caa94ed2883",
-      "title": "Lumentum 豪砸 8,700 萬美元，提前卡位磷化銦晶圓供應鏈",
-      "link": "https://technews.tw/2026/07/30/lumentum-87m-indium-phosphide-wafer-supply-chain-preemptive-positioning/",
-      "summary": "化合物半導體基板廠 AXT 宣布，已與光通訊元件大廠 Lumentum 簽署磷化銦晶圓基板供應與產能保留協議。 [&#8230;]",
-      "date": "2026-07-30T00:23:26+00:00",
-      "sourceId": "technews",
-      "cats": [
-        "market",
-        "process",
-        "material"
-      ]
-    },
-    {
-      "id": "8aa5bd5fe241",
-      "title": "令和 8 年熊本地震衝擊半導體企業，多家企業持續停工引發供應鏈危機",
-      "link": "https://technews.tw/2026/07/30/the-kumamoto-earthquake-of-1959-impacted-local-semiconductor-companies/",
-      "summary": "根據熊本當地媒體熊本日日新聞的報導，截至 29 日「令和 8 年熊本地震」發生的第二天為止，九州熊本縣內的半導 [&#8230;]",
-      "date": "2026-07-30T00:00:15+00:00",
-      "sourceId": "technews",
-      "cats": [
-        "market",
-        "process",
-        "material"
       ]
     },
     {
