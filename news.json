@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-30T21:18:19.544458+00:00",
+  "updated": "2026-07-30T23:13:21.894581+00:00",
   "count": 20,
   "sources": [
     {
@@ -60,6 +60,19 @@
     }
   ],
   "articles": [
+    {
+      "id": "0d28b21dd654",
+      "title": "台積電第二季法說會觀察：CapEx 二度上修至 640 億美元，同步推動先進製程與全球布局",
+      "link": "https://finance.technews.tw/2026/07/31/tsmc-q2-earnings-call-observations-capex-revised-upwards-second-time-64-billion-boosting-advanced-process-global-expansion/",
+      "summary": "台積電 7 月 16 日召開第二季法人說明會，第二季合併營收達新台幣 1.27 兆元，年增約 36%、毛利率 [&#8230;]",
+      "date": "2026-07-30T23:00:33+00:00",
+      "sourceId": "technews",
+      "cats": [
+        "market",
+        "process",
+        "material"
+      ]
+    },
     {
       "id": "3902c6bad8db",
       "title": "AI Is Compressing Software; Space Is Building the Physical Economy",
@@ -183,19 +196,6 @@
       "link": "https://technews.tw/2026/07/30/2027-dram-nand-flash-market/",
       "summary": "TrendForce 最新記憶體產業研究，2027 年記憶體需求繼續由 AI 應用主導，DRAM 因 HBM [&#8230;]",
       "date": "2026-07-30T06:39:06+00:00",
-      "sourceId": "technews",
-      "cats": [
-        "market",
-        "process",
-        "material"
-      ]
-    },
-    {
-      "id": "fc343cbc231d",
-      "title": "科林研發財報超預期、財測同步看好，盤後上漲 6.6%",
-      "link": "https://finance.technews.tw/2026/07/30/lam-research-2026-q4-financial-report/",
-      "summary": "半導體設備大廠科林研發（Lam Research）週三（29 日）公布 2026 會計年度第四季財報（截至 2 [&#8230;]",
-      "date": "2026-07-30T06:09:46+00:00",
       "sourceId": "technews",
       "cats": [
         "market",
