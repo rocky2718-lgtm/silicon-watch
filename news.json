@@ -1,6 +1,6 @@
 {
-  "updated": "2026-07-30T06:35:03.612697+00:00",
-  "count": 16,
+  "updated": "2026-07-30T10:32:03.062743+00:00",
+  "count": 19,
   "sources": [
     {
       "id": "technews",
@@ -61,76 +61,115 @@
   ],
   "articles": [
     {
+      "id": "c87e581cf1a4",
+      "title": "熊本地震，經長：台積電 JASM 一廠暫停生產檢查設備",
+      "link": "https://technews.tw/2026/07/30/kumamoto-earthquake-tsmc-jasm-fab-1-production-suspended-equipment-inspection/",
+      "summary": "日本熊本 28 日發生強震，經濟部長龔明鑫今天表示，台積電熊本 JASM 二廠仍在興建，地震後已復工，一廠則因 [&#8230;]",
+      "date": "2026-07-30T10:20:08+00:00",
+      "sourceId": "technews",
+      "cats": [
+        "market",
+        "process",
+        "material"
+      ]
+    },
+    {
+      "id": "60f96bdd5c1c",
+      "title": "涉嫌竊取 700 筆機密賣給中國！弘塑前總座等 5 人遭起訴羈押",
+      "link": "https://technews.tw/2026/07/30/gptc-china/",
+      "summary": "半導體設備廠弘塑傳出重大洩密案，新竹地檢署 29 日表示，弘塑前總經理黃富源涉嫌非法取得公司核心技術資料，企圖 [&#8230;]",
+      "date": "2026-07-30T09:38:48+00:00",
+      "sourceId": "technews",
+      "cats": [
+        "market",
+        "process",
+        "material"
+      ]
+    },
+    {
+      "id": "1de075dfe8fa",
+      "title": "台積電洩密案，兩前工程師各判十年、六年定讞",
+      "link": "https://finance.technews.tw/2026/07/30/tsmc-engineers-sentenced-to-10-and-6-years-in-trade-secrets-case/",
+      "summary": "台積電離職工程師陳力銘等人涉洩漏台積電營業祕密，智慧財產及商業法院依國安法等罪判陳力銘 10 年徒刑、陳韋傑 [&#8230;]",
+      "date": "2026-07-30T09:00:04+00:00",
+      "sourceId": "technews",
+      "cats": [
+        "market",
+        "process",
+        "material"
+      ]
+    },
+    {
+      "id": "1961e5636a80",
+      "title": "Windows PC 遭雙夾擊，宏碁：企業延後換機、蘋果搶家用市場",
+      "link": "https://finance.technews.tw/2026/07/30/windows-pc-acer/",
+      "summary": "AI 資料中心帶動記憶體、SSD 等零組件供應持續吃緊，推升 PC 整機成本，也改變企業採購策略。宏碁台灣主管 [&#8230;]",
+      "date": "2026-07-30T08:49:58+00:00",
+      "sourceId": "technews",
+      "cats": [
+        "market",
+        "process",
+        "material"
+      ]
+    },
+    {
+      "id": "d0b8bb93a582",
+      "title": "記憶體、SSD 缺貨未解，宏碁：Q3 PC 仍有 5% 漲價壓力",
+      "link": "https://finance.technews.tw/2026/07/30/acer-pc-pricing/",
+      "summary": "AI 資料中心持續擴大建置，使記憶體、SSD 等關鍵零組件供應持續吃緊，PC 市場成本壓力至今未見明顯緩解。宏 [&#8230;]",
+      "date": "2026-07-30T08:05:12+00:00",
+      "sourceId": "technews",
+      "cats": [
+        "market",
+        "process",
+        "material"
+      ]
+    },
+    {
+      "id": "d9bfbe3fa42a",
+      "title": "友達加速資產活化單週賣兩廠，高雄路竹廠 63 億元售予日月光半導體",
+      "link": "https://finance.technews.tw/2026/07/30/auo-accelerates-asset-revitalization/",
+      "summary": "面板大廠友達光電決議通過，將位於高雄市路竹區的廠房及相關附屬設施，以新台幣 63 億元出售予日月光半導體，預估 [&#8230;]",
+      "date": "2026-07-30T08:00:19+00:00",
+      "sourceId": "technews",
+      "cats": [
+        "market",
+        "process",
+        "material"
+      ]
+    },
+    {
+      "id": "155f7cc13451",
+      "title": "日月光投控第二季創造歷史新三高，淨利年增 180% 每股賺 4.8 元",
+      "link": "https://finance.technews.tw/2026/07/30/ase-technology-holding-co-ltd-achieved-a-record-high-in-the-second-quarter/",
+      "summary": "全球半導體封測龍頭日月光投控 30 日舉行 2026 年第二季法人說明會，繳出令人驚豔的成績單。受惠於人工智慧 [&#8230;]",
+      "date": "2026-07-30T07:45:18+00:00",
+      "sourceId": "technews",
+      "cats": [
+        "market",
+        "process",
+        "material"
+      ]
+    },
+    {
+      "id": "0a34e352f2b5",
+      "title": "2027 年記憶體市況分化，DRAM 供給持續吃緊、NAND Flash 轉趨寬鬆",
+      "link": "https://technews.tw/2026/07/30/2027-dram-nand-flash-market/",
+      "summary": "TrendForce 最新記憶體產業研究，2027 年記憶體需求繼續由 AI 應用主導，DRAM 因 HBM [&#8230;]",
+      "date": "2026-07-30T06:39:06+00:00",
+      "sourceId": "technews",
+      "cats": [
+        "market",
+        "process",
+        "material"
+      ]
+    },
+    {
       "id": "fc343cbc231d",
       "title": "科林研發財報超預期、財測同步看好，盤後上漲 6.6%",
       "link": "https://finance.technews.tw/2026/07/30/lam-research-2026-q4-financial-report/",
       "summary": "半導體設備大廠科林研發（Lam Research）週三（29 日）公布 2026 會計年度第四季財報（截至 2 [&#8230;]",
       "date": "2026-07-30T06:09:46+00:00",
-      "sourceId": "technews",
-      "cats": [
-        "market",
-        "process",
-        "material"
-      ]
-    },
-    {
-      "id": "08047227f22d",
-      "title": "慧榮第二季營收年增達 127% 創新高，第三季預計最多再季增兩成",
-      "link": "https://finance.technews.tw/2026/07/30/phisons-second-quarter-revenue-increased-by-127-year-on-year-setting-a-new-record/",
-      "summary": "記憶體 IC 設計大廠慧榮科技公布 2026 年第二季財報，營收為 4 億 5,100 萬美元，創下歷史新高。 [&#8230;]",
-      "date": "2026-07-30T04:20:22+00:00",
-      "sourceId": "technews",
-      "cats": [
-        "market",
-        "process",
-        "material"
-      ]
-    },
-    {
-      "id": "b77d37a39336",
-      "title": "晶片漲價兩面刃  三星 Q2 營益增 18 倍、手機變賠錢貨",
-      "link": "https://finance.technews.tw/2026/07/30/samsung-electronics-2q-2026-results-financial-data/",
-      "summary": "全球 AI 基礎建設投資熱潮爆棚，推升記憶體價格高檔不墜，三星電子（Samsung Electronics）第 [&#8230;]",
-      "date": "2026-07-30T04:20:19+00:00",
-      "sourceId": "technews",
-      "cats": [
-        "market",
-        "process",
-        "material"
-      ]
-    },
-    {
-      "id": "742ea9f05fbe",
-      "title": "美參議員敦促蘋果，放棄自長鑫等中企採購晶片",
-      "link": "https://technews.tw/2026/07/30/us-senators-urge-apple-to-abandon-plans-for-chinese-made-chips/",
-      "summary": "綜合港媒及新加坡聯合早報引用彭博社報導，美國跨黨派參議員敦促蘋果公司，放棄自中國半導體供應商處購買記憶體晶片的 [&#8230;]",
-      "date": "2026-07-30T04:00:42+00:00",
-      "sourceId": "technews",
-      "cats": [
-        "market",
-        "process",
-        "material"
-      ]
-    },
-    {
-      "id": "4e6fd30bf4b3",
-      "title": "高通奪 BMW 長期合約！未來十年持續供數位座艙、ADAS 晶片",
-      "link": "https://technews.tw/2026/07/30/qualcomm-bmw-chip-supply-deal/",
-      "summary": "高通於週三（29 日）宣布，已與德國車廠 BMW 簽署一項長期合作協議，未來十年將持續供應晶片，用於 BMW [&#8230;]",
-      "date": "2026-07-30T03:36:08+00:00",
-      "sourceId": "technews",
-      "cats": [
-        "market",
-        "process",
-        "material"
-      ]
-    },
-    {
-      "id": "35f318a72538",
-      "title": "AI 推論旺  測試設備商愛德萬升財測、優預期  股價飆",
-      "link": "https://finance.technews.tw/2026/07/30/advantest-beats-estimates-raises-outlook-shares-surge/",
-      "summary": "AI 推論需求旺，全球半導體測試設備巨擘、輝達（Nvidia）測試設備供應商愛德萬測試（Advantest）上 [&#8230;]",
-      "date": "2026-07-30T03:30:30+00:00",
       "sourceId": "technews",
       "cats": [
         "market",
