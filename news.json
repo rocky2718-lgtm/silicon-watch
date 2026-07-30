@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-30T14:23:54.382326+00:00",
+  "updated": "2026-07-30T17:42:42.368322+00:00",
   "count": 19,
   "sources": [
     {
@@ -60,6 +60,19 @@
     }
   ],
   "articles": [
+    {
+      "id": "f614b973b1bd",
+      "title": "Why Qualcomm Bought An Open AI Software Stack",
+      "link": "https://www.eetimes.com/why-qualcomm-bought-an-open-ai-software-stack/",
+      "summary": "Modular says Qualcomm is committed to keeping Mojo and Max hardware-agnostic as heterogeneous AI infrastructure moves from theory to reality. The post Why Qualcomm Bought An Open AI Software Stack appeared first on EE Times.",
+      "date": "2026-07-30T14:43:40+00:00",
+      "sourceId": "eetimes",
+      "cats": [
+        "process",
+        "material",
+        "equipment"
+      ]
+    },
     {
       "id": "c87e581cf1a4",
       "title": "熊本地震，經長：台積電 JASM 一廠暫停生產檢查設備",
@@ -196,19 +209,6 @@
       "link": "https://www.eetimes.com/from-co-packaged-optics-to-nanolasers-photonics-moves-inward/",
       "summary": "CEA-Leti, Scintil Photonics, and NcodiN show how optical interconnects are moving from data center racks toward co-packaged optics and chiplet-level communication. The post From Co-Packaged Optics to Nanolasers, Photonics Moves Inward appeared first on EE Times.",
       "date": "2026-07-29T08:02:27+00:00",
-      "sourceId": "eetimes",
-      "cats": [
-        "process",
-        "material",
-        "equipment"
-      ]
-    },
-    {
-      "id": "d325aa3d25b8",
-      "title": "How to Build a 100Gbps Server-Grade AOI Platform for Next-Generation Semiconductor Inspection",
-      "link": "https://www.eetimes.com/how-to-build-a-100gbps-server-grade-aoi-platform-for-next-generation-semiconductor-inspection/",
-      "summary": "Discover how to overcome the bandwidth, scalability, thermal, and system integration challenges of modern AI-powered AOI. This white paper explains how server-grade architecture, high-speed frame grabbers, and GPU computing enable reliable 100Gbps image acquisition for advanced semiconductor inspect",
-      "date": "2026-07-28T14:00:00+00:00",
       "sourceId": "eetimes",
       "cats": [
         "process",
