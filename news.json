@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-31T06:50:50.620205+00:00",
+  "updated": "2026-07-31T10:47:30.893425+00:00",
   "count": 22,
   "sources": [
     {
@@ -60,6 +60,58 @@
     }
   ],
   "articles": [
+    {
+      "id": "68e995135903",
+      "title": "Nvidia 顯卡恐再漲 30%！AI 需求推升成本，全系列產品線恐遭波及",
+      "link": "https://technews.tw/2026/07/31/your-next-nvidia-gpu-could-cost-up-to-30-more-and-ai-is-to-blame/",
+      "summary": "Nvidia 傳出將再度調漲消費級顯示卡價格，幅度可能達 20%~30%，而且這次不只影響旗艦型號，恐將擴及更 [&#8230;]",
+      "date": "2026-07-31T09:55:40+00:00",
+      "sourceId": "technews",
+      "cats": [
+        "market",
+        "process",
+        "material"
+      ]
+    },
+    {
+      "id": "24068c390e84",
+      "title": "聯發科 2026 年第二季賺逾一個半股本，預計第三季營收將年增 7% 到 12%",
+      "link": "https://finance.technews.tw/2026/07/31/mediatek-earned-more-than-one-and-a-half-times-its-share-capital-in-the-second-quarter-of-2026/",
+      "summary": "IC 設計大廠聯發科於公布 2026 年第二季合併財務報告，本季受惠於多元產品線的穩健基礎，合併營業收入達新台 [&#8230;]",
+      "date": "2026-07-31T09:00:45+00:00",
+      "sourceId": "technews",
+      "cats": [
+        "market",
+        "process",
+        "material"
+      ]
+    },
+    {
+      "id": "2c54dd0921e6",
+      "title": "鴻海亞灣超算啟用全台最大規模 5MW NVIDIA HGX B300 AI 集群",
+      "link": "https://finance.technews.tw/2026/07/31/foxconn-visionbay-ai/",
+      "summary": "鴻海科技集團旗下專責發展超算中心與雲端運算營運平台亞灣超算（以下簡稱亞灣）今日宣布，旗下首座採用 NVIDIA [&#8230;]",
+      "date": "2026-07-31T07:44:52+00:00",
+      "sourceId": "technews",
+      "cats": [
+        "market",
+        "process",
+        "material"
+      ]
+    },
+    {
+      "id": "ea039bd09288",
+      "title": "直取 CoWoS 測試核心！中探針攜半導體巨頭開發 MEMS 與清針紙",
+      "link": "https://finance.technews.tw/2026/07/31/clean-sheet/",
+      "summary": "中探針今日宣布半導體大廠共同研發微機電探針（MEMS）、清針紙（clean sheet），預計未來開發完成後， [&#8230;]",
+      "date": "2026-07-31T07:03:23+00:00",
+      "sourceId": "technews",
+      "cats": [
+        "market",
+        "process",
+        "material"
+      ]
+    },
     {
       "id": "45491dce9d76",
       "title": "Sony 影像感測器工廠 8/4 起逐步恢復生產",
@@ -165,45 +217,6 @@
       ]
     },
     {
-      "id": "c310c7d87958",
-      "title": "光焱矽光子光缺陷檢測設備完成開發，公布上半年營收年增 27.01%",
-      "link": "https://finance.technews.tw/2026/07/31/guangyan-silicon-photonics-defect-detection-equipment-completed-development/",
-      "summary": "光焱科技表示，旗下針對量產需求開發的矽光子光缺陷檢測設備 Night Jar-H 已完成開發，目前已與國際一線 [&#8230;]",
-      "date": "2026-07-31T04:00:48+00:00",
-      "sourceId": "technews",
-      "cats": [
-        "market",
-        "process",
-        "material"
-      ]
-    },
-    {
-      "id": "0c09227f1ddf",
-      "title": "迎戰 1.4 奈米強勁需求：三星擴大美國布局，泰勒二廠年底開建",
-      "link": "https://technews.tw/2026/07/31/samsung-expands-us-footprint-meet-strong-1-4nm-demand/",
-      "summary": "三星電子於 30 日宣布，預計今年底在美國德州泰勒園區（Taylor）動工興建第二座半導體晶圓廠「Taylor [&#8230;]",
-      "date": "2026-07-31T02:50:44+00:00",
-      "sourceId": "technews",
-      "cats": [
-        "market",
-        "process",
-        "material"
-      ]
-    },
-    {
-      "id": "96a52a778344",
-      "title": "台積電傳合作景碩開發先進封裝，業界評估用陶瓷材料",
-      "link": "https://technews.tw/2026/07/31/tsmc-kinsus-advanced-packaging-ceramic-materials-evaluation/",
-      "summary": "美媒報導台積電與 IC 載板廠景碩正合作開發一項先進晶片封裝技術，景碩對記者上午提問回覆不予評論。封測產業人士 [&#8230;]",
-      "date": "2026-07-31T02:45:08+00:00",
-      "sourceId": "technews",
-      "cats": [
-        "market",
-        "process",
-        "material"
-      ]
-    },
-    {
       "id": "3902c6bad8db",
       "title": "AI Is Compressing Software; Space Is Building the Physical Economy",
       "link": "https://www.eetimes.com/space-grown-semiconductors-the-next-frontier-for-ai-compute/",
@@ -235,19 +248,6 @@
       "link": "https://www.eetimes.com/iot-tech-expo-europe-returns-to-amsterdam-as-industrial-ai-and-edge-intelligence-reshape-connected-industry/",
       "summary": "From autonomous factories and AI-powered robots to connected vehicles and smart cities, organizations are entering a new era where connected systems are expected not only to collect data, but also to analyze, decide, and act in real time. As Industrial IoT continues to evolve, the focus has shifted ",
       "date": "2026-07-30T00:42:04+00:00",
-      "sourceId": "eetimes",
-      "cats": [
-        "process",
-        "material",
-        "equipment"
-      ]
-    },
-    {
-      "id": "9fb6aca5ee45",
-      "title": "From Co-Packaged Optics to Nanolasers, Photonics Moves Inward",
-      "link": "https://www.eetimes.com/from-co-packaged-optics-to-nanolasers-photonics-moves-inward/",
-      "summary": "CEA-Leti, Scintil Photonics, and NcodiN show how optical interconnects are moving from data center racks toward co-packaged optics and chiplet-level communication. The post From Co-Packaged Optics to Nanolasers, Photonics Moves Inward appeared first on EE Times.",
-      "date": "2026-07-29T08:02:27+00:00",
       "sourceId": "eetimes",
       "cats": [
         "process",
