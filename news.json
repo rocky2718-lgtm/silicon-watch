@@ -1,6 +1,6 @@
 {
-  "updated": "2026-07-31T21:14:28.230444+00:00",
-  "count": 21,
+  "updated": "2026-07-31T23:09:58.338524+00:00",
+  "count": 20,
   "sources": [
     {
       "id": "technews",
@@ -183,19 +183,6 @@
       "link": "https://technews.tw/2026/07/31/supermicro-amd-epyc-9006/",
       "summary": "Super Micro Computer, Inc. 為 AI、企業、儲存和 5G／邊緣領域的全方位解決方案， [&#8230;]",
       "date": "2026-07-31T06:00:58+00:00",
-      "sourceId": "technews",
-      "cats": [
-        "market",
-        "process",
-        "material"
-      ]
-    },
-    {
-      "id": "f5186a28ab14",
-      "title": "九州半導體相關工廠拚復工，八代港停擺恐影響產業",
-      "link": "https://technews.tw/2026/07/31/kyushu-semiconductor-factories-resume-yatsushiro-port-halt-impacts-industry/",
-      "summary": "位在日本九州的熊本這週發生強震後，曾造成周邊半導體相關工廠停工。各家工廠正在力拚恢復產線運作。此外，九州的半導 [&#8230;]",
-      "date": "2026-07-31T06:00:51+00:00",
       "sourceId": "technews",
       "cats": [
         "market",
