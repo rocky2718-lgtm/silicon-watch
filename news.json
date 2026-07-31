@@ -1,6 +1,6 @@
 {
-  "updated": "2026-07-31T03:40:12.735077+00:00",
-  "count": 21,
+  "updated": "2026-07-31T06:50:50.620205+00:00",
+  "count": 22,
   "sources": [
     {
       "id": "technews",
@@ -61,6 +61,123 @@
   ],
   "articles": [
     {
+      "id": "45491dce9d76",
+      "title": "Sony 影像感測器工廠 8/4 起逐步恢復生產",
+      "link": "https://finance.technews.tw/2026/07/31/sony-image-sensor-factory-gradually-resumes-production-august-4th/",
+      "summary": "日本熊本縣聚集眾多半導體相關工廠，而受 28 日發生的規模 7.1 強震影響，多家企業廠房紛紛進行停工。不過陸 [&#8230;]",
+      "date": "2026-07-31T06:45:11+00:00",
+      "sourceId": "technews",
+      "cats": [
+        "market",
+        "process",
+        "material"
+      ]
+    },
+    {
+      "id": "da3f170bac98",
+      "title": "日月光二度調高資本支出，同步斥資 120 億買友達、乖乖廠房",
+      "link": "https://finance.technews.tw/2026/07/31/ase-buy-new-plants/",
+      "summary": "全球半導體封測龍頭日月光投控 7 月 30 日法說會表示，AI 帶動先進封裝及測試需求持續攀升，訂單能見度已延 [&#8230;]",
+      "date": "2026-07-31T06:33:32+00:00",
+      "sourceId": "technews",
+      "cats": [
+        "market",
+        "process",
+        "material"
+      ]
+    },
+    {
+      "id": "b8349182d38e",
+      "title": "晶片股斷頭潮近尾聲  SK 董座加碼、KOSPI 飆逾 16%",
+      "link": "https://finance.technews.tw/2026/07/31/chip-stock-rout-nears-end-sk-chairman-boosts-investment-kospi-surges-16/",
+      "summary": "隨著美國科技類股前晚大反彈、避險基金完成去槓桿、SK 集團董事長崔泰源（Chey Tae-won）買進 SK [&#8230;]",
+      "date": "2026-07-31T06:30:25+00:00",
+      "sourceId": "technews",
+      "cats": [
+        "market",
+        "process",
+        "material"
+      ]
+    },
+    {
+      "id": "d09148fab68f",
+      "title": "記憶體獲利動能未完  瑞銀喊買 SK 海力士 ADR",
+      "link": "https://finance.technews.tw/2026/07/31/memory-profit-momentum-continues-ubs-buy-sk-hynix-adr/",
+      "summary": "投資銀行瑞銀（UBS）30 日首度將SK 海力士（SK hynix）ADR 納入研究範圍，給予「買進」（Buy [&#8230;]",
+      "date": "2026-07-31T06:10:44+00:00",
+      "sourceId": "technews",
+      "cats": [
+        "market",
+        "process",
+        "material"
+      ]
+    },
+    {
+      "id": "081f84329124",
+      "title": "Supermicro 推出搭載第六代 AMD EPYC 9006 系列 CPU 新伺服器，實現 1.7 倍跨世代效能",
+      "link": "https://technews.tw/2026/07/31/supermicro-amd-epyc-9006/",
+      "summary": "Super Micro Computer, Inc. 為 AI、企業、儲存和 5G／邊緣領域的全方位解決方案， [&#8230;]",
+      "date": "2026-07-31T06:00:58+00:00",
+      "sourceId": "technews",
+      "cats": [
+        "market",
+        "process",
+        "material"
+      ]
+    },
+    {
+      "id": "f5186a28ab14",
+      "title": "九州半導體相關工廠拚復工，八代港停擺恐影響產業",
+      "link": "https://technews.tw/2026/07/31/kyushu-semiconductor-factories-resume-yatsushiro-port-halt-impacts-industry/",
+      "summary": "位在日本九州的熊本這週發生強震後，曾造成周邊半導體相關工廠停工。各家工廠正在力拚恢復產線運作。此外，九州的半導 [&#8230;]",
+      "date": "2026-07-31T06:00:51+00:00",
+      "sourceId": "technews",
+      "cats": [
+        "market",
+        "process",
+        "material"
+      ]
+    },
+    {
+      "id": "106f21849b43",
+      "title": "AI 算力爆發衝擊，中國筆電價格大漲顯示卡更出現時價",
+      "link": "https://technews.tw/2026/07/31/ai-computing-power-boom-china-laptop-prices-soar-graphics-cards-dynamic-pricing/",
+      "summary": "中國媒體報導，受今年以來全球 AI 算力需求大爆發影響，價格衝擊已從上游晶片產業鏈傳導到消費電子市場。中國最大 [&#8230;]",
+      "date": "2026-07-31T05:40:06+00:00",
+      "sourceId": "technews",
+      "cats": [
+        "market",
+        "process",
+        "material"
+      ]
+    },
+    {
+      "id": "43f113b3791d",
+      "title": "美半導體狂飆帶動！日股鎧俠、村田買盤爆量觸發保護機制零交易",
+      "link": "https://finance.technews.tw/2026/07/31/japanese-stocks-kioxia-and-murata-saw-a-surge-in-buying-volume-triggering-protection-mechanisms-and-resulting-in-zero-trading/",
+      "summary": "受惠於美國半導體類股的強勁漲勢，日本股市相關科技與被動元件族群今日迎來強大追價買盤。其中，記憶體大廠鎧俠（Ki [&#8230;]",
+      "date": "2026-07-31T04:50:46+00:00",
+      "sourceId": "technews",
+      "cats": [
+        "market",
+        "process",
+        "material"
+      ]
+    },
+    {
+      "id": "c310c7d87958",
+      "title": "光焱矽光子光缺陷檢測設備完成開發，公布上半年營收年增 27.01%",
+      "link": "https://finance.technews.tw/2026/07/31/guangyan-silicon-photonics-defect-detection-equipment-completed-development/",
+      "summary": "光焱科技表示，旗下針對量產需求開發的矽光子光缺陷檢測設備 Night Jar-H 已完成開發，目前已與國際一線 [&#8230;]",
+      "date": "2026-07-31T04:00:48+00:00",
+      "sourceId": "technews",
+      "cats": [
+        "market",
+        "process",
+        "material"
+      ]
+    },
+    {
       "id": "0c09227f1ddf",
       "title": "迎戰 1.4 奈米強勁需求：三星擴大美國布局，泰勒二廠年底開建",
       "link": "https://technews.tw/2026/07/31/samsung-expands-us-footprint-meet-strong-1-4nm-demand/",
@@ -79,110 +196,6 @@
       "link": "https://technews.tw/2026/07/31/tsmc-kinsus-advanced-packaging-ceramic-materials-evaluation/",
       "summary": "美媒報導台積電與 IC 載板廠景碩正合作開發一項先進晶片封裝技術，景碩對記者上午提問回覆不予評論。封測產業人士 [&#8230;]",
       "date": "2026-07-31T02:45:08+00:00",
-      "sourceId": "technews",
-      "cats": [
-        "market",
-        "process",
-        "material"
-      ]
-    },
-    {
-      "id": "67523913d8aa",
-      "title": "AI 股神基金遭多空雙巴、認賠殺出  雲端／記憶體飆",
-      "link": "https://technews.tw/2026/07/31/the-faber-report-ai-investor-leopold-aschenbrenner-forced-to-unwind-all-public-stock-positions-after-steep-losses/",
-      "summary": "AI 及記憶體相關半導體股強彈，市場認為，OpenAI 前研究員阿申布倫納（Leopold Aschenbre [&#8230;]",
-      "date": "2026-07-31T02:30:50+00:00",
-      "sourceId": "technews",
-      "cats": [
-        "market",
-        "process",
-        "material"
-      ]
-    },
-    {
-      "id": "82ab91775f36",
-      "title": "AI 資料中心需求火熱  Arm Q1 報喜、上修 Q2 展望",
-      "link": "https://finance.technews.tw/2026/07/31/arm-holdings-plc-reports-results-for-the-first-quarter-of-the-fiscal-year-ending-2027/",
-      "summary": "晶片架構授權公司 Arm 於 2026 年 7 月 29 日公布 2027 會計年度第一季股東信與財報，截至 [&#8230;]",
-      "date": "2026-07-31T02:10:45+00:00",
-      "sourceId": "technews",
-      "cats": [
-        "market",
-        "process",
-        "material"
-      ]
-    },
-    {
-      "id": "793323f8ca0c",
-      "title": "費半狂飆 8.1%！台積 ADR 暴漲、研發「類 EMIB」震撼彈，台指迎暴風式反彈",
-      "link": "https://finance.technews.tw/2026/07/31/philadelphia-semiconductor-index-sox-surges-8-1-tsmc-adr-skyrockets-emib-like-rd-shockwave-taiwan-index-stormy-rebound/",
-      "summary": "台股 30 日遭外資提款 483 億元，重挫 3.76% 失守四萬大關，但投信逆勢加碼 140 億元低接台積電 [&#8230;]",
-      "date": "2026-07-31T02:00:29+00:00",
-      "sourceId": "technews",
-      "cats": [
-        "market",
-        "process",
-        "material"
-      ]
-    },
-    {
-      "id": "0f011e099176",
-      "title": "美擬砸 8.74 億美元資助七家半導體商，強化 AI 晶片研發",
-      "link": "https://technews.tw/2026/07/31/us-signs-letters-of-intent-worth-874-million-to-boost-semiconductor-research/",
-      "summary": "美國商務部今天指出，已與 7 家開發人工智慧（AI）及先進運算系統半導體技術的公司簽署意向書，將提供總金額 8 [&#8230;]",
-      "date": "2026-07-31T01:50:34+00:00",
-      "sourceId": "technews",
-      "cats": [
-        "market",
-        "process",
-        "material"
-      ]
-    },
-    {
-      "id": "847d187872c0",
-      "title": "美國議員反對也沒用，蘋果證實正評估中國記憶體",
-      "link": "https://finance.technews.tw/2026/07/31/apple-china-dram/",
-      "summary": "全球高頻寬記憶體（HBM）、DRAM 與 NAND Flash 供應持續緊繃，蘋果在最新一季財報會議中坦言，記 [&#8230;]",
-      "date": "2026-07-31T01:48:24+00:00",
-      "sourceId": "technews",
-      "cats": [
-        "market",
-        "process",
-        "material"
-      ]
-    },
-    {
-      "id": "fd6cc5fb8bb8",
-      "title": "美媒：台積電與景碩合作開發先進封裝技術",
-      "link": "https://technews.tw/2026/07/31/tsmc-develops-ai-chip-packaging-tech-to-counter-intel/",
-      "summary": "美國科技媒體 The Information 今天引述 2 名消息人士報導指出，台積電與台灣 IC 載板大廠景 [&#8230;]",
-      "date": "2026-07-31T01:30:12+00:00",
-      "sourceId": "technews",
-      "cats": [
-        "market",
-        "process",
-        "material"
-      ]
-    },
-    {
-      "id": "462af5143122",
-      "title": "日月光投控先進封裝領域全方位布局，外資大喊目標價最高達 750 元",
-      "link": "https://finance.technews.tw/2026/07/31/ase-technology-holding-co-ltd-has-a-comprehensive-layout-in-the-field-of-advanced-packaging/",
-      "summary": "半導體封測大廠日月光投控2026年第二季繳出亮眼成績單。受惠於 AI 基礎建設需求持續爆發，先進封裝（LEAP [&#8230;]",
-      "date": "2026-07-31T01:10:18+00:00",
-      "sourceId": "technews",
-      "cats": [
-        "market",
-        "process",
-        "material"
-      ]
-    },
-    {
-      "id": "991fea3b2ee1",
-      "title": "瑞薩受地震影響的車用晶片工廠復工",
-      "link": "https://technews.tw/2026/07/31/renesas-earthquake-affected-automotive-chip-plant-resumes-operations/",
-      "summary": "受 28 日發生的熊本強震影響，瑞薩電子（Renesas Electronics）生產車用晶片等產品的川尻工廠 [&#8230;]",
-      "date": "2026-07-31T01:10:06+00:00",
       "sourceId": "technews",
       "cats": [
         "market",
