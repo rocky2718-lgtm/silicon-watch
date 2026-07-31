@@ -1,6 +1,6 @@
 {
-  "updated": "2026-07-30T23:13:21.894581+00:00",
-  "count": 20,
+  "updated": "2026-07-31T03:40:12.735077+00:00",
+  "count": 21,
   "sources": [
     {
       "id": "technews",
@@ -61,11 +61,128 @@
   ],
   "articles": [
     {
-      "id": "0d28b21dd654",
-      "title": "台積電第二季法說會觀察：CapEx 二度上修至 640 億美元，同步推動先進製程與全球布局",
-      "link": "https://finance.technews.tw/2026/07/31/tsmc-q2-earnings-call-observations-capex-revised-upwards-second-time-64-billion-boosting-advanced-process-global-expansion/",
-      "summary": "台積電 7 月 16 日召開第二季法人說明會，第二季合併營收達新台幣 1.27 兆元，年增約 36%、毛利率 [&#8230;]",
-      "date": "2026-07-30T23:00:33+00:00",
+      "id": "0c09227f1ddf",
+      "title": "迎戰 1.4 奈米強勁需求：三星擴大美國布局，泰勒二廠年底開建",
+      "link": "https://technews.tw/2026/07/31/samsung-expands-us-footprint-meet-strong-1-4nm-demand/",
+      "summary": "三星電子於 30 日宣布，預計今年底在美國德州泰勒園區（Taylor）動工興建第二座半導體晶圓廠「Taylor [&#8230;]",
+      "date": "2026-07-31T02:50:44+00:00",
+      "sourceId": "technews",
+      "cats": [
+        "market",
+        "process",
+        "material"
+      ]
+    },
+    {
+      "id": "96a52a778344",
+      "title": "台積電傳合作景碩開發先進封裝，業界評估用陶瓷材料",
+      "link": "https://technews.tw/2026/07/31/tsmc-kinsus-advanced-packaging-ceramic-materials-evaluation/",
+      "summary": "美媒報導台積電與 IC 載板廠景碩正合作開發一項先進晶片封裝技術，景碩對記者上午提問回覆不予評論。封測產業人士 [&#8230;]",
+      "date": "2026-07-31T02:45:08+00:00",
+      "sourceId": "technews",
+      "cats": [
+        "market",
+        "process",
+        "material"
+      ]
+    },
+    {
+      "id": "67523913d8aa",
+      "title": "AI 股神基金遭多空雙巴、認賠殺出  雲端／記憶體飆",
+      "link": "https://technews.tw/2026/07/31/the-faber-report-ai-investor-leopold-aschenbrenner-forced-to-unwind-all-public-stock-positions-after-steep-losses/",
+      "summary": "AI 及記憶體相關半導體股強彈，市場認為，OpenAI 前研究員阿申布倫納（Leopold Aschenbre [&#8230;]",
+      "date": "2026-07-31T02:30:50+00:00",
+      "sourceId": "technews",
+      "cats": [
+        "market",
+        "process",
+        "material"
+      ]
+    },
+    {
+      "id": "82ab91775f36",
+      "title": "AI 資料中心需求火熱  Arm Q1 報喜、上修 Q2 展望",
+      "link": "https://finance.technews.tw/2026/07/31/arm-holdings-plc-reports-results-for-the-first-quarter-of-the-fiscal-year-ending-2027/",
+      "summary": "晶片架構授權公司 Arm 於 2026 年 7 月 29 日公布 2027 會計年度第一季股東信與財報，截至 [&#8230;]",
+      "date": "2026-07-31T02:10:45+00:00",
+      "sourceId": "technews",
+      "cats": [
+        "market",
+        "process",
+        "material"
+      ]
+    },
+    {
+      "id": "793323f8ca0c",
+      "title": "費半狂飆 8.1%！台積 ADR 暴漲、研發「類 EMIB」震撼彈，台指迎暴風式反彈",
+      "link": "https://finance.technews.tw/2026/07/31/philadelphia-semiconductor-index-sox-surges-8-1-tsmc-adr-skyrockets-emib-like-rd-shockwave-taiwan-index-stormy-rebound/",
+      "summary": "台股 30 日遭外資提款 483 億元，重挫 3.76% 失守四萬大關，但投信逆勢加碼 140 億元低接台積電 [&#8230;]",
+      "date": "2026-07-31T02:00:29+00:00",
+      "sourceId": "technews",
+      "cats": [
+        "market",
+        "process",
+        "material"
+      ]
+    },
+    {
+      "id": "0f011e099176",
+      "title": "美擬砸 8.74 億美元資助七家半導體商，強化 AI 晶片研發",
+      "link": "https://technews.tw/2026/07/31/us-signs-letters-of-intent-worth-874-million-to-boost-semiconductor-research/",
+      "summary": "美國商務部今天指出，已與 7 家開發人工智慧（AI）及先進運算系統半導體技術的公司簽署意向書，將提供總金額 8 [&#8230;]",
+      "date": "2026-07-31T01:50:34+00:00",
+      "sourceId": "technews",
+      "cats": [
+        "market",
+        "process",
+        "material"
+      ]
+    },
+    {
+      "id": "847d187872c0",
+      "title": "美國議員反對也沒用，蘋果證實正評估中國記憶體",
+      "link": "https://finance.technews.tw/2026/07/31/apple-china-dram/",
+      "summary": "全球高頻寬記憶體（HBM）、DRAM 與 NAND Flash 供應持續緊繃，蘋果在最新一季財報會議中坦言，記 [&#8230;]",
+      "date": "2026-07-31T01:48:24+00:00",
+      "sourceId": "technews",
+      "cats": [
+        "market",
+        "process",
+        "material"
+      ]
+    },
+    {
+      "id": "fd6cc5fb8bb8",
+      "title": "美媒：台積電與景碩合作開發先進封裝技術",
+      "link": "https://technews.tw/2026/07/31/tsmc-develops-ai-chip-packaging-tech-to-counter-intel/",
+      "summary": "美國科技媒體 The Information 今天引述 2 名消息人士報導指出，台積電與台灣 IC 載板大廠景 [&#8230;]",
+      "date": "2026-07-31T01:30:12+00:00",
+      "sourceId": "technews",
+      "cats": [
+        "market",
+        "process",
+        "material"
+      ]
+    },
+    {
+      "id": "462af5143122",
+      "title": "日月光投控先進封裝領域全方位布局，外資大喊目標價最高達 750 元",
+      "link": "https://finance.technews.tw/2026/07/31/ase-technology-holding-co-ltd-has-a-comprehensive-layout-in-the-field-of-advanced-packaging/",
+      "summary": "半導體封測大廠日月光投控2026年第二季繳出亮眼成績單。受惠於 AI 基礎建設需求持續爆發，先進封裝（LEAP [&#8230;]",
+      "date": "2026-07-31T01:10:18+00:00",
+      "sourceId": "technews",
+      "cats": [
+        "market",
+        "process",
+        "material"
+      ]
+    },
+    {
+      "id": "991fea3b2ee1",
+      "title": "瑞薩受地震影響的車用晶片工廠復工",
+      "link": "https://technews.tw/2026/07/31/renesas-earthquake-affected-automotive-chip-plant-resumes-operations/",
+      "summary": "受 28 日發生的熊本強震影響，瑞薩電子（Renesas Electronics）生產車用晶片等產品的川尻工廠 [&#8230;]",
+      "date": "2026-07-31T01:10:06+00:00",
       "sourceId": "technews",
       "cats": [
         "market",
@@ -97,110 +214,6 @@
         "process",
         "material",
         "equipment"
-      ]
-    },
-    {
-      "id": "c87e581cf1a4",
-      "title": "熊本地震，經長：台積電 JASM 一廠暫停生產檢查設備",
-      "link": "https://technews.tw/2026/07/30/kumamoto-earthquake-tsmc-jasm-fab-1-production-suspended-equipment-inspection/",
-      "summary": "日本熊本 28 日發生強震，經濟部長龔明鑫今天表示，台積電熊本 JASM 二廠仍在興建，地震後已復工，一廠則因 [&#8230;]",
-      "date": "2026-07-30T10:20:08+00:00",
-      "sourceId": "technews",
-      "cats": [
-        "market",
-        "process",
-        "material"
-      ]
-    },
-    {
-      "id": "60f96bdd5c1c",
-      "title": "涉嫌竊取 700 筆機密賣給中國！弘塑前總座等 5 人遭起訴羈押",
-      "link": "https://technews.tw/2026/07/30/gptc-china/",
-      "summary": "半導體設備廠弘塑傳出重大洩密案，新竹地檢署 29 日表示，弘塑前總經理黃富源涉嫌非法取得公司核心技術資料，企圖 [&#8230;]",
-      "date": "2026-07-30T09:38:48+00:00",
-      "sourceId": "technews",
-      "cats": [
-        "market",
-        "process",
-        "material"
-      ]
-    },
-    {
-      "id": "1de075dfe8fa",
-      "title": "台積電洩密案，兩前工程師各判十年、六年定讞",
-      "link": "https://finance.technews.tw/2026/07/30/tsmc-engineers-sentenced-to-10-and-6-years-in-trade-secrets-case/",
-      "summary": "台積電離職工程師陳力銘等人涉洩漏台積電營業祕密，智慧財產及商業法院依國安法等罪判陳力銘 10 年徒刑、陳韋傑 [&#8230;]",
-      "date": "2026-07-30T09:00:04+00:00",
-      "sourceId": "technews",
-      "cats": [
-        "market",
-        "process",
-        "material"
-      ]
-    },
-    {
-      "id": "1961e5636a80",
-      "title": "Windows PC 遭雙夾擊，宏碁：企業延後換機、蘋果搶家用市場",
-      "link": "https://finance.technews.tw/2026/07/30/windows-pc-acer/",
-      "summary": "AI 資料中心帶動記憶體、SSD 等零組件供應持續吃緊，推升 PC 整機成本，也改變企業採購策略。宏碁台灣主管 [&#8230;]",
-      "date": "2026-07-30T08:49:58+00:00",
-      "sourceId": "technews",
-      "cats": [
-        "market",
-        "process",
-        "material"
-      ]
-    },
-    {
-      "id": "d0b8bb93a582",
-      "title": "記憶體、SSD 缺貨未解，宏碁：Q3 PC 仍有 5% 漲價壓力",
-      "link": "https://finance.technews.tw/2026/07/30/acer-pc-pricing/",
-      "summary": "AI 資料中心持續擴大建置，使記憶體、SSD 等關鍵零組件供應持續吃緊，PC 市場成本壓力至今未見明顯緩解。宏 [&#8230;]",
-      "date": "2026-07-30T08:05:12+00:00",
-      "sourceId": "technews",
-      "cats": [
-        "market",
-        "process",
-        "material"
-      ]
-    },
-    {
-      "id": "d9bfbe3fa42a",
-      "title": "友達加速資產活化單週賣兩廠，高雄路竹廠 63 億元售予日月光半導體",
-      "link": "https://finance.technews.tw/2026/07/30/auo-accelerates-asset-revitalization/",
-      "summary": "面板大廠友達光電決議通過，將位於高雄市路竹區的廠房及相關附屬設施，以新台幣 63 億元出售予日月光半導體，預估 [&#8230;]",
-      "date": "2026-07-30T08:00:19+00:00",
-      "sourceId": "technews",
-      "cats": [
-        "market",
-        "process",
-        "material"
-      ]
-    },
-    {
-      "id": "155f7cc13451",
-      "title": "日月光投控第二季創造歷史新三高，淨利年增 180% 每股賺 4.8 元",
-      "link": "https://finance.technews.tw/2026/07/30/ase-technology-holding-co-ltd-achieved-a-record-high-in-the-second-quarter/",
-      "summary": "全球半導體封測龍頭日月光投控 30 日舉行 2026 年第二季法人說明會，繳出令人驚豔的成績單。受惠於人工智慧 [&#8230;]",
-      "date": "2026-07-30T07:45:18+00:00",
-      "sourceId": "technews",
-      "cats": [
-        "market",
-        "process",
-        "material"
-      ]
-    },
-    {
-      "id": "0a34e352f2b5",
-      "title": "2027 年記憶體市況分化，DRAM 供給持續吃緊、NAND Flash 轉趨寬鬆",
-      "link": "https://technews.tw/2026/07/30/2027-dram-nand-flash-market/",
-      "summary": "TrendForce 最新記憶體產業研究，2027 年記憶體需求繼續由 AI 應用主導，DRAM 因 HBM [&#8230;]",
-      "date": "2026-07-30T06:39:06+00:00",
-      "sourceId": "technews",
-      "cats": [
-        "market",
-        "process",
-        "material"
       ]
     },
     {
