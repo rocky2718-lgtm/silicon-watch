@@ -1,6 +1,6 @@
 {
-  "updated": "2026-07-31T14:26:27.958588+00:00",
-  "count": 10,
+  "updated": "2026-07-31T17:46:59.548788+00:00",
+  "count": 21,
   "sources": [
     {
       "id": "technews",
@@ -60,6 +60,149 @@
     }
   ],
   "articles": [
+    {
+      "id": "6ddfc0163b5b",
+      "title": "CEA-Leti Pushes Stacking Roadmap as AI Runs Into Memory and Power Limits",
+      "link": "https://www.eetimes.com/cea-leti-pushes-stacking-roadmap-as-ai-runs-into-memory-and-power-limits/",
+      "summary": "AI’s memory wall is turning packaging into architecture as CEA-Leti bets on 3D stacking, chiplets, and cooler power. The post CEA-Leti Pushes Stacking Roadmap as AI Runs Into Memory and Power Limits appeared first on EE Times.",
+      "date": "2026-07-31T15:48:06+00:00",
+      "sourceId": "eetimes",
+      "cats": [
+        "process",
+        "material",
+        "equipment"
+      ]
+    },
+    {
+      "id": "68e995135903",
+      "title": "Nvidia 顯卡恐再漲 30%！AI 需求推升成本，全系列產品線恐遭波及",
+      "link": "https://technews.tw/2026/07/31/your-next-nvidia-gpu-could-cost-up-to-30-more-and-ai-is-to-blame/",
+      "summary": "Nvidia 傳出將再度調漲消費級顯示卡價格，幅度可能達 20%~30%，而且這次不只影響旗艦型號，恐將擴及更 [&#8230;]",
+      "date": "2026-07-31T09:55:40+00:00",
+      "sourceId": "technews",
+      "cats": [
+        "market",
+        "process",
+        "material"
+      ]
+    },
+    {
+      "id": "24068c390e84",
+      "title": "聯發科 2026 年第二季賺逾一個半股本，預計第三季營收將年增 7% 到 12%",
+      "link": "https://finance.technews.tw/2026/07/31/mediatek-earned-more-than-one-and-a-half-times-its-share-capital-in-the-second-quarter-of-2026/",
+      "summary": "IC 設計大廠聯發科於公布 2026 年第二季合併財務報告，本季受惠於多元產品線的穩健基礎，合併營業收入達新台 [&#8230;]",
+      "date": "2026-07-31T09:00:45+00:00",
+      "sourceId": "technews",
+      "cats": [
+        "market",
+        "process",
+        "material"
+      ]
+    },
+    {
+      "id": "2c54dd0921e6",
+      "title": "鴻海亞灣超算啟用全台最大規模 5MW NVIDIA HGX B300 AI 集群",
+      "link": "https://finance.technews.tw/2026/07/31/foxconn-visionbay-ai/",
+      "summary": "鴻海科技集團旗下專責發展超算中心與雲端運算營運平台亞灣超算（以下簡稱亞灣）今日宣布，旗下首座採用 NVIDIA [&#8230;]",
+      "date": "2026-07-31T07:44:52+00:00",
+      "sourceId": "technews",
+      "cats": [
+        "market",
+        "process",
+        "material"
+      ]
+    },
+    {
+      "id": "ea039bd09288",
+      "title": "直取 CoWoS 測試核心！中探針攜半導體巨頭開發 MEMS 與清針紙",
+      "link": "https://finance.technews.tw/2026/07/31/clean-sheet/",
+      "summary": "中探針今日宣布半導體大廠共同研發微機電探針（MEMS）、清針紙（clean sheet），預計未來開發完成後， [&#8230;]",
+      "date": "2026-07-31T07:03:23+00:00",
+      "sourceId": "technews",
+      "cats": [
+        "market",
+        "process",
+        "material"
+      ]
+    },
+    {
+      "id": "45491dce9d76",
+      "title": "Sony 影像感測器工廠 8/4 起逐步恢復生產",
+      "link": "https://finance.technews.tw/2026/07/31/sony-image-sensor-factory-gradually-resumes-production-august-4th/",
+      "summary": "日本熊本縣聚集眾多半導體相關工廠，而受 28 日發生的規模 7.1 強震影響，多家企業廠房紛紛進行停工。不過陸 [&#8230;]",
+      "date": "2026-07-31T06:45:11+00:00",
+      "sourceId": "technews",
+      "cats": [
+        "market",
+        "process",
+        "material"
+      ]
+    },
+    {
+      "id": "da3f170bac98",
+      "title": "日月光二度調高資本支出，同步斥資 120 億買友達、乖乖廠房",
+      "link": "https://finance.technews.tw/2026/07/31/ase-buy-new-plants/",
+      "summary": "全球半導體封測龍頭日月光投控 7 月 30 日法說會表示，AI 帶動先進封裝及測試需求持續攀升，訂單能見度已延 [&#8230;]",
+      "date": "2026-07-31T06:33:32+00:00",
+      "sourceId": "technews",
+      "cats": [
+        "market",
+        "process",
+        "material"
+      ]
+    },
+    {
+      "id": "b8349182d38e",
+      "title": "晶片股斷頭潮近尾聲  SK 董座加碼、KOSPI 飆逾 16%",
+      "link": "https://finance.technews.tw/2026/07/31/chip-stock-rout-nears-end-sk-chairman-boosts-investment-kospi-surges-16/",
+      "summary": "隨著美國科技類股前晚大反彈、避險基金完成去槓桿、SK 集團董事長崔泰源（Chey Tae-won）買進 SK [&#8230;]",
+      "date": "2026-07-31T06:30:25+00:00",
+      "sourceId": "technews",
+      "cats": [
+        "market",
+        "process",
+        "material"
+      ]
+    },
+    {
+      "id": "d09148fab68f",
+      "title": "記憶體獲利動能未完  瑞銀喊買 SK 海力士 ADR",
+      "link": "https://finance.technews.tw/2026/07/31/memory-profit-momentum-continues-ubs-buy-sk-hynix-adr/",
+      "summary": "投資銀行瑞銀（UBS）30 日首度將SK 海力士（SK hynix）ADR 納入研究範圍，給予「買進」（Buy [&#8230;]",
+      "date": "2026-07-31T06:10:44+00:00",
+      "sourceId": "technews",
+      "cats": [
+        "market",
+        "process",
+        "material"
+      ]
+    },
+    {
+      "id": "081f84329124",
+      "title": "Supermicro 推出搭載第六代 AMD EPYC 9006 系列 CPU 新伺服器，實現 1.7 倍跨世代效能",
+      "link": "https://technews.tw/2026/07/31/supermicro-amd-epyc-9006/",
+      "summary": "Super Micro Computer, Inc. 為 AI、企業、儲存和 5G／邊緣領域的全方位解決方案， [&#8230;]",
+      "date": "2026-07-31T06:00:58+00:00",
+      "sourceId": "technews",
+      "cats": [
+        "market",
+        "process",
+        "material"
+      ]
+    },
+    {
+      "id": "f5186a28ab14",
+      "title": "九州半導體相關工廠拚復工，八代港停擺恐影響產業",
+      "link": "https://technews.tw/2026/07/31/kyushu-semiconductor-factories-resume-yatsushiro-port-halt-impacts-industry/",
+      "summary": "位在日本九州的熊本這週發生強震後，曾造成周邊半導體相關工廠停工。各家工廠正在力拚恢復產線運作。此外，九州的半導 [&#8230;]",
+      "date": "2026-07-31T06:00:51+00:00",
+      "sourceId": "technews",
+      "cats": [
+        "market",
+        "process",
+        "material"
+      ]
+    },
     {
       "id": "3902c6bad8db",
       "title": "AI Is Compressing Software; Space Is Building the Physical Economy",
