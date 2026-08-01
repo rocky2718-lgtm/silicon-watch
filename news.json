@@ -1,6 +1,6 @@
 {
-  "updated": "2026-08-01T06:36:27.212682+00:00",
-  "count": 16,
+  "updated": "2026-08-01T10:06:35.246493+00:00",
+  "count": 15,
   "sources": [
     {
       "id": "technews",
@@ -118,19 +118,6 @@
       "link": "https://technews.tw/2026/07/31/your-next-nvidia-gpu-could-cost-up-to-30-more-and-ai-is-to-blame/",
       "summary": "Nvidia 傳出將再度調漲消費級顯示卡價格，幅度可能達 20%~30%，而且這次不只影響旗艦型號，恐將擴及更 [&#8230;]",
       "date": "2026-07-31T09:55:40+00:00",
-      "sourceId": "technews",
-      "cats": [
-        "market",
-        "process",
-        "material"
-      ]
-    },
-    {
-      "id": "24068c390e84",
-      "title": "聯發科 2026 年第二季賺逾一個半股本，第三季營收年增至少 7%",
-      "link": "https://finance.technews.tw/2026/07/31/mediatek-earned-more-than-one-and-a-half-times-its-share-capital-in-the-second-quarter-of-2026/",
-      "summary": "IC 設計大廠聯發科於公布 2026 年第二季合併財務報告，本季受惠於多元產品線的穩健基礎，合併營業收入達新台 [&#8230;]",
-      "date": "2026-07-31T09:00:45+00:00",
       "sourceId": "technews",
       "cats": [
         "market",
