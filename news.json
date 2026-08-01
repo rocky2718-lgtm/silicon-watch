@@ -1,6 +1,6 @@
 {
-  "updated": "2026-08-01T15:07:53.053174+00:00",
-  "count": 15,
+  "updated": "2026-08-01T17:08:42.456699+00:00",
+  "count": 14,
   "sources": [
     {
       "id": "technews",
@@ -123,19 +123,6 @@
         "process",
         "material",
         "equipment"
-      ]
-    },
-    {
-      "id": "68e995135903",
-      "title": "Nvidia 顯卡恐再漲 30%！AI 需求推升成本，全系列產品線恐遭波及",
-      "link": "https://technews.tw/2026/07/31/your-next-nvidia-gpu-could-cost-up-to-30-more-and-ai-is-to-blame/",
-      "summary": "Nvidia 傳出將再度調漲消費級顯示卡價格，幅度可能達 20%~30%，而且這次不只影響旗艦型號，恐將擴及更 [&#8230;]",
-      "date": "2026-07-31T09:55:40+00:00",
-      "sourceId": "technews",
-      "cats": [
-        "market",
-        "process",
-        "material"
       ]
     },
     {
