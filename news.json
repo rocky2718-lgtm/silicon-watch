@@ -1,6 +1,6 @@
 {
-  "updated": "2026-07-31T23:09:58.338524+00:00",
-  "count": 20,
+  "updated": "2026-08-01T03:39:42.443897+00:00",
+  "count": 16,
   "sources": [
     {
       "id": "technews",
@@ -61,6 +61,32 @@
   ],
   "articles": [
     {
+      "id": "58949878e09c",
+      "title": "比記憶體短缺嚴重？Lumentum 示警磷化銦供應缺口擴大至 30%",
+      "link": "https://technews.tw/2026/08/01/lumentum-ceo-silicon-photonics/",
+      "summary": "Lumentum 執行長 Michael Hurlston 在法國巴黎舉行的 RAISE Summit 上表示 [&#8230;]",
+      "date": "2026-08-01T02:12:05+00:00",
+      "sourceId": "technews",
+      "cats": [
+        "market",
+        "process",
+        "material"
+      ]
+    },
+    {
+      "id": "0ca895804867",
+      "title": "中聯毒油報告揭密：原料降規 10 倍、製程檢驗全失守，30 年老廠如何一步步釀食安風暴？",
+      "link": "https://technews.tw/2026/08/01/chung-lien-tainted-oil-report/",
+      "summary": "中聯毒油調查結果出爐，直指中聯管理三大缺失，但本刊調查發現，中聯油脂為降低成本改用中國設備，去年 4 月突然將 [&#8230;]",
+      "date": "2026-08-01T00:00:35+00:00",
+      "sourceId": "technews",
+      "cats": [
+        "market",
+        "process",
+        "material"
+      ]
+    },
+    {
       "id": "6ddfc0163b5b",
       "title": "CEA-Leti Pushes Stacking Roadmap as AI Runs Into Memory and Power Limits",
       "link": "https://www.eetimes.com/cea-leti-pushes-stacking-roadmap-as-ai-runs-into-memory-and-power-limits/",
@@ -105,84 +131,6 @@
       "link": "https://finance.technews.tw/2026/07/31/foxconn-visionbay-ai/",
       "summary": "鴻海科技集團旗下專責發展超算中心與雲端運算營運平台亞灣超算（以下簡稱亞灣）今日宣布，旗下首座採用 NVIDIA [&#8230;]",
       "date": "2026-07-31T07:44:52+00:00",
-      "sourceId": "technews",
-      "cats": [
-        "market",
-        "process",
-        "material"
-      ]
-    },
-    {
-      "id": "ea039bd09288",
-      "title": "直取 CoWoS 測試核心！中探針攜半導體巨頭開發 MEMS 與清針紙",
-      "link": "https://finance.technews.tw/2026/07/31/clean-sheet/",
-      "summary": "中探針今日宣布半導體大廠共同研發微機電探針（MEMS）、清針紙（clean sheet），預計未來開發完成後， [&#8230;]",
-      "date": "2026-07-31T07:03:23+00:00",
-      "sourceId": "technews",
-      "cats": [
-        "market",
-        "process",
-        "material"
-      ]
-    },
-    {
-      "id": "45491dce9d76",
-      "title": "Sony 影像感測器工廠 8/4 起逐步恢復生產",
-      "link": "https://finance.technews.tw/2026/07/31/sony-image-sensor-factory-gradually-resumes-production-august-4th/",
-      "summary": "日本熊本縣聚集眾多半導體相關工廠，而受 28 日發生的規模 7.1 強震影響，多家企業廠房紛紛進行停工。不過陸 [&#8230;]",
-      "date": "2026-07-31T06:45:11+00:00",
-      "sourceId": "technews",
-      "cats": [
-        "market",
-        "process",
-        "material"
-      ]
-    },
-    {
-      "id": "da3f170bac98",
-      "title": "日月光二度調高資本支出，同步斥資 120 億買友達、乖乖廠房",
-      "link": "https://finance.technews.tw/2026/07/31/ase-buy-new-plants/",
-      "summary": "全球半導體封測龍頭日月光投控 7 月 30 日法說會表示，AI 帶動先進封裝及測試需求持續攀升，訂單能見度已延 [&#8230;]",
-      "date": "2026-07-31T06:33:32+00:00",
-      "sourceId": "technews",
-      "cats": [
-        "market",
-        "process",
-        "material"
-      ]
-    },
-    {
-      "id": "b8349182d38e",
-      "title": "晶片股斷頭潮近尾聲  SK 董座加碼、KOSPI 飆逾 16%",
-      "link": "https://finance.technews.tw/2026/07/31/chip-stock-rout-nears-end-sk-chairman-boosts-investment-kospi-surges-16/",
-      "summary": "隨著美國科技類股前晚大反彈、避險基金完成去槓桿、SK 集團董事長崔泰源（Chey Tae-won）買進 SK [&#8230;]",
-      "date": "2026-07-31T06:30:25+00:00",
-      "sourceId": "technews",
-      "cats": [
-        "market",
-        "process",
-        "material"
-      ]
-    },
-    {
-      "id": "d09148fab68f",
-      "title": "記憶體獲利動能未完  瑞銀喊買 SK 海力士 ADR",
-      "link": "https://finance.technews.tw/2026/07/31/memory-profit-momentum-continues-ubs-buy-sk-hynix-adr/",
-      "summary": "投資銀行瑞銀（UBS）30 日首度將SK 海力士（SK hynix）ADR 納入研究範圍，給予「買進」（Buy [&#8230;]",
-      "date": "2026-07-31T06:10:44+00:00",
-      "sourceId": "technews",
-      "cats": [
-        "market",
-        "process",
-        "material"
-      ]
-    },
-    {
-      "id": "081f84329124",
-      "title": "Supermicro 推出搭載第六代 AMD EPYC 9006 系列 CPU 新伺服器，實現 1.7 倍跨世代效能",
-      "link": "https://technews.tw/2026/07/31/supermicro-amd-epyc-9006/",
-      "summary": "Super Micro Computer, Inc. 為 AI、企業、儲存和 5G／邊緣領域的全方位解決方案， [&#8230;]",
-      "date": "2026-07-31T06:00:58+00:00",
       "sourceId": "technews",
       "cats": [
         "market",
