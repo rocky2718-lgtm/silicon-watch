@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-01T03:39:42.443897+00:00",
+  "updated": "2026-08-01T06:36:27.212682+00:00",
   "count": 16,
   "sources": [
     {
@@ -61,6 +61,19 @@
   ],
   "articles": [
     {
+      "id": "8025449cec38",
+      "title": "價格狂飆 200%、比稀土更致命，中國如何用「鎢」掐住全球國防命脈",
+      "link": "https://technews.tw/2026/08/01/china-tungsten-global-defense/",
+      "summary": "你可能聽過稀土，或是半導體必備的鎵和鍺，但如果提到「APT」可能大家最先聯想到的，可能還是 2024 年紅遍全 [&#8230;]",
+      "date": "2026-08-01T06:00:21+00:00",
+      "sourceId": "technews",
+      "cats": [
+        "market",
+        "process",
+        "material"
+      ]
+    },
+    {
       "id": "58949878e09c",
       "title": "比記憶體短缺嚴重？Lumentum 示警磷化銦供應缺口擴大至 30%",
       "link": "https://technews.tw/2026/08/01/lumentum-ceo-silicon-photonics/",
@@ -118,19 +131,6 @@
       "link": "https://finance.technews.tw/2026/07/31/mediatek-earned-more-than-one-and-a-half-times-its-share-capital-in-the-second-quarter-of-2026/",
       "summary": "IC 設計大廠聯發科於公布 2026 年第二季合併財務報告，本季受惠於多元產品線的穩健基礎，合併營業收入達新台 [&#8230;]",
       "date": "2026-07-31T09:00:45+00:00",
-      "sourceId": "technews",
-      "cats": [
-        "market",
-        "process",
-        "material"
-      ]
-    },
-    {
-      "id": "2c54dd0921e6",
-      "title": "鴻海亞灣超算啟用全台最大規模 5MW NVIDIA HGX B300 AI 集群",
-      "link": "https://finance.technews.tw/2026/07/31/foxconn-visionbay-ai/",
-      "summary": "鴻海科技集團旗下專責發展超算中心與雲端運算營運平台亞灣超算（以下簡稱亞灣）今日宣布，旗下首座採用 NVIDIA [&#8230;]",
-      "date": "2026-07-31T07:44:52+00:00",
       "sourceId": "technews",
       "cats": [
         "market",
