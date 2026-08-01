@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-01T13:45:03.279746+00:00",
+  "updated": "2026-08-01T15:07:53.053174+00:00",
   "count": 15,
   "sources": [
     {
@@ -60,6 +60,19 @@
     }
   ],
   "articles": [
+    {
+      "id": "d9c623cfa00f",
+      "title": "Humanoid Manipulation at the Edge of Physical Interaction",
+      "link": "https://www.eetimes.com/humanoid-manipulation-at-the-edge-of-physical-interaction/",
+      "summary": "This white paper examines emerging humanoid robot architectures, focusing on how joints and dexterous hands are becoming intelligent, sensor-rich subsystems that require tightly integrated control, communication, and edge processing. It outlines key design challenges and opportunities for building s",
+      "date": "2026-08-01T14:00:00+00:00",
+      "sourceId": "eetimes",
+      "cats": [
+        "process",
+        "material",
+        "equipment"
+      ]
+    },
     {
       "id": "8025449cec38",
       "title": "價格狂飆 200%、比稀土更致命，中國如何用「鎢」掐住全球國防命脈",
@@ -144,19 +157,6 @@
       "link": "https://www.eetimes.com/why-qualcomm-bought-an-open-ai-software-stack/",
       "summary": "Modular says Qualcomm is committed to keeping Mojo and Max hardware-agnostic as heterogeneous AI infrastructure moves from theory to reality. The post Why Qualcomm Bought An Open AI Software Stack appeared first on EE Times.",
       "date": "2026-07-30T14:43:40+00:00",
-      "sourceId": "eetimes",
-      "cats": [
-        "process",
-        "material",
-        "equipment"
-      ]
-    },
-    {
-      "id": "71e8d4305862",
-      "title": "IoT Tech Expo Europe Returns to Amsterdam as Industrial AI and Edge Intelligence Reshape Connected Industry",
-      "link": "https://www.eetimes.com/iot-tech-expo-europe-returns-to-amsterdam-as-industrial-ai-and-edge-intelligence-reshape-connected-industry/",
-      "summary": "From autonomous factories and AI-powered robots to connected vehicles and smart cities, organizations are entering a new era where connected systems are expected not only to collect data, but also to analyze, decide, and act in real time. As Industrial IoT continues to evolve, the focus has shifted ",
-      "date": "2026-07-30T00:42:04+00:00",
       "sourceId": "eetimes",
       "cats": [
         "process",
