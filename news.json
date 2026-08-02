@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-02T06:40:01.797631+00:00",
+  "updated": "2026-08-02T10:04:35.722060+00:00",
   "count": 14,
   "sources": [
     {
@@ -61,6 +61,19 @@
   ],
   "articles": [
     {
+      "id": "7a7e13fce3a9",
+      "title": "20 歲輟學生吸金 3,100 萬美元！Omen AI 專攻液冷監控，成 AI 散熱市場新星",
+      "link": "https://technews.tw/2026/08/02/omen-ai-liquid-cooling/",
+      "summary": "AI 晶片發熱量持續飆升，帶動資料中心對散熱技術的需求，也讓專注於冷卻監測的新創 Omen AI 備受資本市場 [&#8230;]",
+      "date": "2026-08-02T07:30:57+00:00",
+      "sourceId": "technews",
+      "cats": [
+        "market",
+        "process",
+        "material"
+      ]
+    },
+    {
       "id": "9acc79f91a9c",
       "title": "Q2 獲利大爆發！聯電轉型 AI 供應鏈浮出水面，矽光子成未來三年成長最強引擎",
       "link": "https://technews.tw/2026/08/02/umc-ai-bet-on-silicon-photonics-becomes-a-key-revenue-driver/",
@@ -92,19 +105,6 @@
       "link": "https://technews.tw/2026/08/01/china-tungsten-global-defense/",
       "summary": "你可能聽過稀土，或是半導體必備的鎵和鍺，但如果提到「APT」可能大家最先聯想到的，可能還是 2024 年紅遍全 [&#8230;]",
       "date": "2026-08-01T06:00:21+00:00",
-      "sourceId": "technews",
-      "cats": [
-        "market",
-        "process",
-        "material"
-      ]
-    },
-    {
-      "id": "58949878e09c",
-      "title": "比記憶體短缺嚴重？Lumentum 示警磷化銦供應缺口擴大至 30%",
-      "link": "https://technews.tw/2026/08/01/lumentum-ceo-silicon-photonics/",
-      "summary": "Lumentum 執行長 Michael Hurlston 在法國巴黎舉行的 RAISE Summit 上表示 [&#8230;]",
-      "date": "2026-08-01T02:12:05+00:00",
       "sourceId": "technews",
       "cats": [
         "market",
