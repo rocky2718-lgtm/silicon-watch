@@ -1,6 +1,6 @@
 {
-  "updated": "2026-08-02T21:03:03.778779+00:00",
-  "count": 14,
+  "updated": "2026-08-02T23:01:12.001342+00:00",
+  "count": 15,
   "sources": [
     {
       "id": "technews",
@@ -60,6 +60,19 @@
     }
   ],
   "articles": [
+    {
+      "id": "739703af8102",
+      "title": "從本土國產 DUV 設備到開放模型，中國持續聚焦 AI 自主化布局",
+      "link": "https://technews.tw/2026/08/03/china-ai-self-sufficiency-domestic-duv-equipment-open-models/",
+      "summary": "2026 年 7 月底，外媒報導中國正推進 193nm 浸潤式（Immersion）DUV 曝光機研發與導入驗 [&#8230;]",
+      "date": "2026-08-02T23:00:24+00:00",
+      "sourceId": "technews",
+      "cats": [
+        "market",
+        "process",
+        "material"
+      ]
+    },
     {
       "id": "7a7e13fce3a9",
       "title": "20 歲輟學生吸金 3,100 萬美元！Omen AI 專攻液冷監控，成 AI 散熱市場新星",
