@@ -1,6 +1,6 @@
 {
-  "updated": "2026-08-02T17:08:59.173353+00:00",
-  "count": 14,
+  "updated": "2026-08-02T19:22:01.644774+00:00",
+  "count": 11,
   "sources": [
     {
       "id": "technews",
@@ -61,32 +61,6 @@
   ],
   "articles": [
     {
-      "id": "7a7e13fce3a9",
-      "title": "20 歲輟學生吸金 3,100 萬美元！Omen AI 專攻液冷監控，成 AI 散熱市場新星",
-      "link": "https://technews.tw/2026/08/02/omen-ai-liquid-cooling/",
-      "summary": "AI 晶片發熱量持續飆升，帶動資料中心對散熱技術的需求，也讓專注於冷卻監測的新創 Omen AI 備受資本市場 [&#8230;]",
-      "date": "2026-08-02T07:30:57+00:00",
-      "sourceId": "technews",
-      "cats": [
-        "market",
-        "process",
-        "material"
-      ]
-    },
-    {
-      "id": "9acc79f91a9c",
-      "title": "Q2 獲利大爆發！聯電轉型 AI 供應鏈浮出水面，矽光子成未來三年成長最強引擎",
-      "link": "https://technews.tw/2026/08/02/umc-ai-bet-on-silicon-photonics-becomes-a-key-revenue-driver/",
-      "summary": "根據《財訊》雙週刊報導，聯電日前宣布將首批 12 吋矽光子量產晶圓交付新加坡客戶後，AI 布局正式浮出檯面，7 [&#8230;]",
-      "date": "2026-08-02T01:00:12+00:00",
-      "sourceId": "technews",
-      "cats": [
-        "market",
-        "process",
-        "material"
-      ]
-    },
-    {
       "id": "d9c623cfa00f",
       "title": "Humanoid Manipulation at the Edge of Physical Interaction",
       "link": "https://www.eetimes.com/humanoid-manipulation-at-the-edge-of-physical-interaction/",
@@ -97,19 +71,6 @@
         "process",
         "material",
         "equipment"
-      ]
-    },
-    {
-      "id": "8025449cec38",
-      "title": "價格狂飆 200%、比稀土更致命，中國如何用「鎢」掐住全球國防命脈",
-      "link": "https://technews.tw/2026/08/01/china-tungsten-global-defense/",
-      "summary": "你可能聽過稀土，或是半導體必備的鎵和鍺，但如果提到「APT」可能大家最先聯想到的，可能還是 2024 年紅遍全 [&#8230;]",
-      "date": "2026-08-01T06:00:21+00:00",
-      "sourceId": "technews",
-      "cats": [
-        "market",
-        "process",
-        "material"
       ]
     },
     {
