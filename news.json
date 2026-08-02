@@ -1,6 +1,6 @@
 {
-  "updated": "2026-08-01T23:02:07.124259+00:00",
-  "count": 14,
+  "updated": "2026-08-02T03:39:50.343373+00:00",
+  "count": 15,
   "sources": [
     {
       "id": "technews",
@@ -60,6 +60,19 @@
     }
   ],
   "articles": [
+    {
+      "id": "9acc79f91a9c",
+      "title": "Q2 獲利大爆發！聯電轉型 AI 供應鏈浮出水面，矽光子成未來三年成長最強引擎",
+      "link": "https://technews.tw/2026/08/02/umc-ai-bet-on-silicon-photonics-becomes-a-key-revenue-driver/",
+      "summary": "根據《財訊》雙週刊報導，聯電日前宣布將首批 12 吋矽光子量產晶圓交付新加坡客戶後，AI 布局正式浮出檯面，7 [&#8230;]",
+      "date": "2026-08-02T01:00:12+00:00",
+      "sourceId": "technews",
+      "cats": [
+        "market",
+        "process",
+        "material"
+      ]
+    },
     {
       "id": "d9c623cfa00f",
       "title": "Humanoid Manipulation at the Edge of Physical Interaction",
