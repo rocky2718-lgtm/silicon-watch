@@ -1,6 +1,6 @@
 {
-  "updated": "2026-08-02T03:39:50.343373+00:00",
-  "count": 15,
+  "updated": "2026-08-02T06:40:01.797631+00:00",
+  "count": 14,
   "sources": [
     {
       "id": "technews",
@@ -105,19 +105,6 @@
       "link": "https://technews.tw/2026/08/01/lumentum-ceo-silicon-photonics/",
       "summary": "Lumentum 執行長 Michael Hurlston 在法國巴黎舉行的 RAISE Summit 上表示 [&#8230;]",
       "date": "2026-08-01T02:12:05+00:00",
-      "sourceId": "technews",
-      "cats": [
-        "market",
-        "process",
-        "material"
-      ]
-    },
-    {
-      "id": "0ca895804867",
-      "title": "中聯毒油報告揭密：原料降規 10 倍、製程檢驗全失守，30 年老廠如何一步步釀食安風暴？",
-      "link": "https://technews.tw/2026/08/01/chung-lien-tainted-oil-report/",
-      "summary": "中聯毒油調查結果出爐，直指中聯管理三大缺失，但本刊調查發現，中聯油脂為降低成本改用中國設備，去年 4 月突然將 [&#8230;]",
-      "date": "2026-08-01T00:00:35+00:00",
       "sourceId": "technews",
       "cats": [
         "market",
