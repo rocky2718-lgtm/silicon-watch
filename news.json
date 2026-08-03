@@ -1,6 +1,6 @@
 {
-  "updated": "2026-08-03T07:36:24.433298+00:00",
-  "count": 15,
+  "updated": "2026-08-03T11:35:57.460251+00:00",
+  "count": 16,
   "sources": [
     {
       "id": "technews",
@@ -61,11 +61,11 @@
   ],
   "articles": [
     {
-      "id": "2bbd6dbe6e05",
-      "title": "阿里千問 3.8-Max 模型上線，稱性能媲美 Anthropic",
-      "link": "https://technews.tw/2026/08/03/alibaba-qwen3-8-max/",
-      "summary": "綜合港媒及中媒報導，阿里巴巴旗艦模型通義千問 Qwen3.8-Max 3日正式上線，擁有 2.4 兆參數的 M [&#8230;]",
-      "date": "2026-08-03T06:00:46+00:00",
+      "id": "badcf4d4f250",
+      "title": "駁 AI 供應鏈瓶頸疑慮！蔡司強調產能充足、與 ASML 技術藍圖規畫至 2040 年",
+      "link": "https://technews.tw/2026/08/03/zeiss-talk-about-ai-demand/",
+      "summary": "根據彭博社報導，德國蔡司集團（Zeiss Group）反駁市場對 AI 供應鏈瓶頸的疑慮，並表示有信心具備足夠 [&#8230;]",
+      "date": "2026-08-03T10:16:06+00:00",
       "sourceId": "technews",
       "cats": [
         "market",
@@ -74,11 +74,11 @@
       ]
     },
     {
-      "id": "1753d0ae005c",
-      "title": "記憶體成本攀升  小米多款手機調漲 300 至 500 元人幣",
-      "link": "https://technews.tw/2026/08/03/xiaomi-raises-prices-on-multiple-smartphones-by-rmb-300-500/",
-      "summary": "綜合中媒報導，小米自 8 月 2 日起調漲多款手機售價，涵蓋小米 17 系列、REDMI K90 系列及 RE [&#8230;]",
-      "date": "2026-08-03T05:40:17+00:00",
+      "id": "faa362f7881d",
+      "title": "擷發科啟動大南方 AI 戰略佈局！董座楊健盟：邊緣 AI 將成未來 2~3 年成長引擎",
+      "link": "https://technews.tw/2026/08/03/microip-2026-kaohsiung/",
+      "summary": "AI 軟體與 ASIC 設計服務商擷發科近期分享在大南方的策略布局，董事長楊健盟表示，隨著南台灣半導體 S 廊 [&#8230;]",
+      "date": "2026-08-03T09:35:00+00:00",
       "sourceId": "technews",
       "cats": [
         "market",
@@ -87,11 +87,11 @@
       ]
     },
     {
-      "id": "991862bd9c72",
-      "title": "筆電搭載 8GB 記憶體也能順跑，Windows 11 重點改善記憶體占用",
-      "link": "https://technews.tw/2026/08/03/microsoft-shrinks-windows-memory-footprint-to-boost-performance/",
-      "summary": "AI 算力需求大爆發，導致記憶體供應吃緊，意味著筆電製造商不得不回到 8GB 記憶體的產品基本配置，然而希望有 [&#8230;]",
-      "date": "2026-08-03T04:24:37+00:00",
+      "id": "7a3c6d06decb",
+      "title": "直擊 AI 運算挑戰，工研院突破性高效能電力轉換與微流體散熱技術亮相",
+      "link": "https://technews.tw/2026/08/03/itri-%e2%80%8b%e2%80%8bunveils-groundbreaking-high-efficiency-power-conversion-and-microfluidic-heat-dissipation-technologies/",
+      "summary": "針對未來 AI 大語言模型帶來的龐大運算需求，工研院在 2026 台日半導體科技論壇中發表了最新的異質整合封裝 [&#8230;]",
+      "date": "2026-08-03T09:00:27+00:00",
       "sourceId": "technews",
       "cats": [
         "market",
@@ -100,11 +100,24 @@
       ]
     },
     {
-      "id": "ae5199999869",
-      "title": "恩智浦傳洽購影像晶片大廠安霸  搶攻車用 AI",
-      "link": "https://technews.tw/2026/08/03/nxp-in-talks-to-buy-3bn-plus-designer-of-camera-chips-for-self-driving-cars/",
-      "summary": "英國《金融時報》引述知情人士報導，荷蘭晶片大廠恩智浦半導體（NXP Semiconductors）正洽談收購美 [&#8230;]",
-      "date": "2026-08-03T03:50:56+00:00",
+      "id": "143f5094cad3",
+      "title": "日月光揭示 AI 先進封裝藍圖，VIPack、面板級封裝與矽光子成突圍關鍵",
+      "link": "https://technews.tw/2026/08/03/ase-technology-holding-co-ltd-unveils-its-advanced-packaging-blueprint-for-ai/",
+      "summary": "在 2026 台日半導體科技論壇中，日月光半導體前瞻工程開發處資深處長黃敏龍發表「AI 趨勢下的先進封裝發展與 [&#8230;]",
+      "date": "2026-08-03T08:40:45+00:00",
+      "sourceId": "technews",
+      "cats": [
+        "market",
+        "process",
+        "material"
+      ]
+    },
+    {
+      "id": "4fa8c10cdc03",
+      "title": "CoCoB 異質整合平台發表，TSRI 開創感測器與晶片協同新局",
+      "link": "https://technews.tw/2026/08/03/cocob-heterogeneous-integration-platform-announced/",
+      "summary": "在備受矚目的「2026 台日半導體科技論壇」中，國家實驗研究院台灣半導體研究中心（TSRI）副主任蔡瀚輝發表專 [&#8230;]",
+      "date": "2026-08-03T08:30:54+00:00",
       "sourceId": "technews",
       "cats": [
         "market",
@@ -127,9 +140,9 @@
     },
     {
       "id": "6ddfc0163b5b",
-      "title": "CEA-Leti Pushes Stacking Roadmap as AI Runs Into Memory and Power Limits",
+      "title": "CEA-Leti Pushes Stacking Roadmap as AI Runs into Memory and Power Limits",
       "link": "https://www.eetimes.com/cea-leti-pushes-stacking-roadmap-as-ai-runs-into-memory-and-power-limits/",
-      "summary": "AI’s memory wall is turning packaging into architecture as CEA-Leti bets on 3D stacking, chiplets, and cooler power. The post CEA-Leti Pushes Stacking Roadmap as AI Runs Into Memory and Power Limits appeared first on EE Times.",
+      "summary": "AI’s memory wall is turning packaging into architecture as CEA-Leti bets on 3D stacking, chiplets, and cooler power. The post CEA-Leti Pushes Stacking Roadmap as AI Runs into Memory and Power Limits appeared first on EE Times.",
       "date": "2026-07-31T15:48:06+00:00",
       "sourceId": "eetimes",
       "cats": [
