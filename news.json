@@ -1,6 +1,6 @@
 {
-  "updated": "2026-08-03T19:50:55.733155+00:00",
-  "count": 15,
+  "updated": "2026-08-03T21:13:02.797690+00:00",
+  "count": 16,
   "sources": [
     {
       "id": "technews",
@@ -60,6 +60,19 @@
     }
   ],
   "articles": [
+    {
+      "id": "62fc84c1e3fd",
+      "title": ".牧德 7 月營收續創新高，AI 高階製程接單動能延續",
+      "link": "https://technews.tw/2026/08/04/motech-july-revenue-record-high-ai-advanced-process-order-momentum-continues/",
+      "summary": "牧德今（3）日公告 115 年 7 月合併營收達 3.59 億元，月增 1.28%、年增 31.84%，單月營 [&#8230;]",
+      "date": "2026-08-03T21:00:37+00:00",
+      "sourceId": "technews",
+      "cats": [
+        "market",
+        "process",
+        "material"
+      ]
+    },
     {
       "id": "badcf4d4f250",
       "title": "駁 AI 供應鏈瓶頸疑慮！蔡司強調產能充足、與 ASML 技術藍圖規畫至 2040 年",
