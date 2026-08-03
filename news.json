@@ -1,6 +1,6 @@
 {
-  "updated": "2026-08-02T23:01:12.001342+00:00",
-  "count": 15,
+  "updated": "2026-08-03T03:41:59.641924+00:00",
+  "count": 19,
   "sources": [
     {
       "id": "technews",
@@ -61,11 +61,11 @@
   ],
   "articles": [
     {
-      "id": "739703af8102",
-      "title": "從本土國產 DUV 設備到開放模型，中國持續聚焦 AI 自主化布局",
-      "link": "https://technews.tw/2026/08/03/china-ai-self-sufficiency-domestic-duv-equipment-open-models/",
-      "summary": "2026 年 7 月底，外媒報導中國正推進 193nm 浸潤式（Immersion）DUV 曝光機研發與導入驗 [&#8230;]",
-      "date": "2026-08-02T23:00:24+00:00",
+      "id": "10e1df6f6519",
+      "title": "黃仁勳：現在是創業史上最好的時機，別問值不值得，先問「有多難？」",
+      "link": "https://technews.tw/2026/08/03/jensen-huang-says-this-is-the-greatest-time-in-history-to-start-a-business/",
+      "summary": "輝達（NVIDIA）執行長黃仁勳近日在 Y Combinator Startup School 2026 表示 [&#8230;]",
+      "date": "2026-08-03T03:20:49+00:00",
       "sourceId": "technews",
       "cats": [
         "market",
@@ -74,11 +74,11 @@
       ]
     },
     {
-      "id": "7a7e13fce3a9",
-      "title": "20 歲輟學生吸金 3,100 萬美元！Omen AI 專攻液冷監控，成 AI 散熱市場新星",
-      "link": "https://technews.tw/2026/08/02/omen-ai-liquid-cooling/",
-      "summary": "AI 晶片發熱量持續飆升，帶動資料中心對散熱技術的需求，也讓專注於冷卻監測的新創 Omen AI 備受資本市場 [&#8230;]",
-      "date": "2026-08-02T07:30:57+00:00",
+      "id": "b440e30da1cc",
+      "title": "Google 強勢擔保 Anthropic 150 億美元融資，德州 AI 造鎮換取 20% 股權",
+      "link": "https://technews.tw/2026/08/03/google-anthropic-15b-texas-ai-park/",
+      "summary": "科技巨頭 Google 正透過強大的信用背書與晶片供應資源，全力助攻 AI 公司 Anthropic 於美國德 [&#8230;]",
+      "date": "2026-08-03T02:50:24+00:00",
       "sourceId": "technews",
       "cats": [
         "market",
@@ -87,11 +87,76 @@
       ]
     },
     {
-      "id": "9acc79f91a9c",
-      "title": "Q2 獲利大爆發！聯電轉型 AI 供應鏈浮出水面，矽光子成未來三年成長最強引擎",
-      "link": "https://technews.tw/2026/08/02/umc-ai-bet-on-silicon-photonics-becomes-a-key-revenue-driver/",
-      "summary": "根據《財訊》雙週刊報導，聯電日前宣布將首批 12 吋矽光子量產晶圓交付新加坡客戶後，AI 布局正式浮出檯面，7 [&#8230;]",
-      "date": "2026-08-02T01:00:12+00:00",
+      "id": "6c9cec3d4dcf",
+      "title": "英特爾重金拚俄亥俄州建廠進度，EMIB-T 先進封裝良率達 90% 劍指台積電",
+      "link": "https://technews.tw/2026/08/03/intel-ohio-factory-targets-tsmc/",
+      "summary": "為支援 18A 與 14A 先進製程節點布局，英特爾（Intel）正全力加速占地 1,000 英畝的俄亥俄州大 [&#8230;]",
+      "date": "2026-08-03T02:20:45+00:00",
+      "sourceId": "technews",
+      "cats": [
+        "market",
+        "process",
+        "material"
+      ]
+    },
+    {
+      "id": "96685c9070bf",
+      "title": "特氣大廠林德砸 18 億美元，支援全球半導體龍頭台美擴產",
+      "link": "https://technews.tw/2026/08/03/linde-invests-1-8-billion-support-global-semiconductor-leaders-taiwan-us-expansion/",
+      "summary": "全球工業氣體大廠林德宣布，將投資 18 億美元，支援全球半導體龍頭客戶擴建美國亞利桑那州及台灣先進製程與先進封 [&#8230;]",
+      "date": "2026-08-03T01:54:56+00:00",
+      "sourceId": "technews",
+      "cats": [
+        "market",
+        "process",
+        "material"
+      ]
+    },
+    {
+      "id": "f3e908e5987f",
+      "title": "崇越第二季營收首破 200 億元大關，累計上半年 EPS 達 14.79 元創新高",
+      "link": "https://finance.technews.tw/2026/08/03/tscs-eps-reached-a-record-high-of-nt14-79-in-the-first-half-of-the-year/",
+      "summary": "崇越科技公布 2026 年第二季財務報告，受惠於全球 AI 與高效能運算（HPC）引爆，帶動光阻、矽晶圓、石英 [&#8230;]",
+      "date": "2026-08-03T01:45:16+00:00",
+      "sourceId": "technews",
+      "cats": [
+        "market",
+        "process",
+        "material"
+      ]
+    },
+    {
+      "id": "ac4e3310affa",
+      "title": "聯發科 AI ASIC 市場表現亮眼，外資花旗力挺目標價 6,800 元",
+      "link": "https://finance.technews.tw/2026/08/03/mediateks-ai-asics-have-shown-outstanding-market-performance/",
+      "summary": "IC設計龍頭聯發科上週公布的2026年第二季財報優於市場預期，在AI特殊應用晶片（ASIC）強勁需求的帶動下， [&#8230;]",
+      "date": "2026-08-03T01:15:41+00:00",
+      "sourceId": "technews",
+      "cats": [
+        "market",
+        "process",
+        "material"
+      ]
+    },
+    {
+      "id": "22b5c892c286",
+      "title": "傳月之暗面與阿里享算力協議，可用 2 萬顆輝達晶片",
+      "link": "https://technews.tw/2026/08/03/moonshots-kimi-uses-20000-nvidia-chip-cluster-from-alibaba/",
+      "summary": "綜合港媒引用彭博社報導，據知情人士指出，中國 AI 大模型新創公司月之暗面（Moonshot）與阿里巴巴享有一 [&#8230;]",
+      "date": "2026-08-03T01:10:25+00:00",
+      "sourceId": "technews",
+      "cats": [
+        "market",
+        "process",
+        "material"
+      ]
+    },
+    {
+      "id": "fb6441566b97",
+      "title": "韓股史詩級震盪！半導體引領崩盤與暴漲後外資趁機大舉抄底散戶",
+      "link": "https://finance.technews.tw/2026/08/03/epic-volatility-in-south-korean-stocks/",
+      "summary": "近期韓國股市（KOSPI）經歷了史無前例的劇烈震盪。指數自6月高點急速崩跌約 40% 至 41% 後，隨即迎來 [&#8230;]",
+      "date": "2026-08-03T01:00:59+00:00",
       "sourceId": "technews",
       "cats": [
         "market",
@@ -110,19 +175,6 @@
         "process",
         "material",
         "equipment"
-      ]
-    },
-    {
-      "id": "8025449cec38",
-      "title": "價格狂飆 200%、比稀土更致命，中國如何用「鎢」掐住全球國防命脈",
-      "link": "https://technews.tw/2026/08/01/china-tungsten-global-defense/",
-      "summary": "你可能聽過稀土，或是半導體必備的鎵和鍺，但如果提到「APT」可能大家最先聯想到的，可能還是 2024 年紅遍全 [&#8230;]",
-      "date": "2026-08-01T06:00:21+00:00",
-      "sourceId": "technews",
-      "cats": [
-        "market",
-        "process",
-        "material"
       ]
     },
     {
