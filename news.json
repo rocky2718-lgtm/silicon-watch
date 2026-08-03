@@ -1,6 +1,6 @@
 {
-  "updated": "2026-08-03T17:58:51.597050+00:00",
-  "count": 16,
+  "updated": "2026-08-03T19:50:55.733155+00:00",
+  "count": 15,
   "sources": [
     {
       "id": "technews",
@@ -157,19 +157,6 @@
       "link": "https://www.eetimes.com/space-grown-semiconductors-the-next-frontier-for-ai-compute/",
       "summary": "AI is squeezing software jobs; space and semiconductors are where tech turns physical. The post AI Is Compressing Software; Space Is Building the Physical Economy appeared first on EE Times.",
       "date": "2026-07-30T21:03:54+00:00",
-      "sourceId": "eetimes",
-      "cats": [
-        "process",
-        "material",
-        "equipment"
-      ]
-    },
-    {
-      "id": "f614b973b1bd",
-      "title": "Why Qualcomm Bought An Open AI Software Stack",
-      "link": "https://www.eetimes.com/why-qualcomm-bought-an-open-ai-software-stack/",
-      "summary": "Modular says Qualcomm is committed to keeping Mojo and Max hardware-agnostic as heterogeneous AI infrastructure moves from theory to reality. The post Why Qualcomm Bought An Open AI Software Stack appeared first on EE Times.",
-      "date": "2026-07-30T14:43:40+00:00",
       "sourceId": "eetimes",
       "cats": [
         "process",
