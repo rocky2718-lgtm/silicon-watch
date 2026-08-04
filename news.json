@@ -1,6 +1,6 @@
 {
-  "updated": "2026-08-04T06:35:07.672979+00:00",
-  "count": 10,
+  "updated": "2026-08-04T10:47:03.148125+00:00",
+  "count": 16,
   "sources": [
     {
       "id": "technews",
@@ -61,6 +61,97 @@
   ],
   "articles": [
     {
+      "id": "ab45e2b61e18",
+      "title": "世界先進上季每股賺 1.56 元！估 Q3 晶圓出貨量再增、毛利率上看 34.5%",
+      "link": "https://technews.tw/2026/08/04/vis-2026-q2-financial-report/",
+      "summary": "晶圓代工廠世界先進今（4 日）召開第二季法說會，公布第二季合併營收約為新台幣（下同）142.45 億元，季增 [&#8230;]",
+      "date": "2026-08-04T10:23:38+00:00",
+      "sourceId": "technews",
+      "cats": [
+        "market",
+        "process",
+        "material"
+      ]
+    },
+    {
+      "id": "011c565aae6e",
+      "title": "AI 與先進封裝市場成長帶動環球晶第二季獲利季增近倍，上半年 EPS 達 11.87 元",
+      "link": "https://finance.technews.tw/2026/08/04/growth-in-the-ai-%e2%80%8b%e2%80%8band-advanced-packaging-markets-nearly-doubled-globalwafers-second-quarter-profits/",
+      "summary": "全球半導體矽晶圓大廠環球晶公布2026年第二季及上半年營運報告。受惠於AI需求持續強勁及半導體技術演進，環球晶 [&#8230;]",
+      "date": "2026-08-04T10:00:11+00:00",
+      "sourceId": "technews",
+      "cats": [
+        "market",
+        "process",
+        "material"
+      ]
+    },
+    {
+      "id": "267d71dcdbf4",
+      "title": "AI「五層蛋糕」不夠看，華為首席科學家廖恆提「十八層寶塔」",
+      "link": "https://technews.tw/2026/08/04/huawei-semiconductor-18-layer-pagoda/",
+      "summary": "為了中國上個月舉行的世界人工智慧大會（World Artificial Intelligence Confer [&#8230;]",
+      "date": "2026-08-04T08:54:07+00:00",
+      "sourceId": "technews",
+      "cats": [
+        "market",
+        "process",
+        "material"
+      ]
+    },
+    {
+      "id": "53b54704b813",
+      "title": "搶灘 TGV 玻璃基板與先進封裝！勤凱 7 月營收、第二季獲利創高",
+      "link": "https://finance.technews.tw/2026/08/04/tgv-glass-substrate/",
+      "summary": "勤凱科技今日公布 7 月營收 2.69 億元，月增 8.4%，年增 78.4%，再創歷史新高；第二季營收 7. [&#8230;]",
+      "date": "2026-08-04T08:53:55+00:00",
+      "sourceId": "technews",
+      "cats": [
+        "market",
+        "process",
+        "material"
+      ]
+    },
+    {
+      "id": "0454ba28d2f1",
+      "title": "達發第二季 EPS 5.25 元，光通訊業務 2026 年將大幅成長逾四倍",
+      "link": "https://finance.technews.tw/2026/08/04/dafas-second-quarter-eps-reached-nt5-25/",
+      "summary": "聯發科集團旗下IC設計大廠達發科技公布2026年第二季合併財務報告，單季合併營收達新台幣62.9億元，年增13 [&#8230;]",
+      "date": "2026-08-04T08:50:30+00:00",
+      "sourceId": "technews",
+      "cats": [
+        "market",
+        "process",
+        "material"
+      ]
+    },
+    {
+      "id": "d451bd033020",
+      "title": "AI 排擠效應發酵、記憶體供應吃緊：惠普與雙 A 低調導入長鑫存儲",
+      "link": "https://finance.technews.tw/2026/08/04/hp-asus-acer-adopt-cxmt-memory-chips/",
+      "summary": "受人工智慧（AI）基礎設施強勁需求帶動，全球記憶體供應正面臨嚴峻考驗。為緩解缺料壓力，包含惠普（HP）、華碩（ [&#8230;]",
+      "date": "2026-08-04T08:20:21+00:00",
+      "sourceId": "technews",
+      "cats": [
+        "market",
+        "process",
+        "material"
+      ]
+    },
+    {
+      "id": "1f38027abfee",
+      "title": "台積電漲價＋GDDR7 變貴  南韓 RTX 50 顯卡 8 月喊漲",
+      "link": "https://technews.tw/2026/08/04/rtx-50-series-prices-set-to-rise-in-south-korea/",
+      "summary": "韓媒傳出，受到台積電先進製程晶圓價格上調、GDDR7 記憶體價格攀升帶動，韓國當地的繪圖處理器（GPU）預計自 [&#8230;]",
+      "date": "2026-08-04T08:00:30+00:00",
+      "sourceId": "technews",
+      "cats": [
+        "market",
+        "process",
+        "material"
+      ]
+    },
+    {
       "id": "d9c623cfa00f",
       "title": "Humanoid Manipulation at the Edge of Physical Interaction",
       "link": "https://www.eetimes.com/humanoid-manipulation-at-the-edge-of-physical-interaction/",
@@ -79,19 +170,6 @@
       "link": "https://www.eetimes.com/cea-leti-pushes-stacking-roadmap-as-ai-runs-into-memory-and-power-limits/",
       "summary": "AI’s memory wall is turning packaging into architecture as CEA-Leti bets on 3D stacking, chiplets, and cooler power. The post CEA-Leti Pushes Stacking Roadmap as AI Runs into Memory and Power Limits appeared first on EE Times.",
       "date": "2026-07-31T15:48:06+00:00",
-      "sourceId": "eetimes",
-      "cats": [
-        "process",
-        "material",
-        "equipment"
-      ]
-    },
-    {
-      "id": "3902c6bad8db",
-      "title": "AI Is Compressing Software; Space Is Building the Physical Economy",
-      "link": "https://www.eetimes.com/space-grown-semiconductors-the-next-frontier-for-ai-compute/",
-      "summary": "AI is squeezing software jobs; space and semiconductors are where tech turns physical. The post AI Is Compressing Software; Space Is Building the Physical Economy appeared first on EE Times.",
-      "date": "2026-07-30T21:03:54+00:00",
       "sourceId": "eetimes",
       "cats": [
         "process",
