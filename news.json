@@ -1,6 +1,6 @@
 {
-  "updated": "2026-08-04T21:20:08.758842+00:00",
-  "count": 16,
+  "updated": "2026-08-04T23:10:28.301900+00:00",
+  "count": 17,
   "sources": [
     {
       "id": "technews",
@@ -60,6 +60,32 @@
     }
   ],
   "articles": [
+    {
+      "id": "b5cad1943913",
+      "title": "獨家/高通 9 月調漲晶片價格幅度出爐，終端產品價格規格都將受到影響",
+      "link": "https://ccc.technews.tw/2026/08/05/qualcomm-announces-september-chip-price-increase/",
+      "summary": "晶片大廠高通（Qualcomm）日前向客戶發出價格調整通知信，宣布自 2026 年 9 月 1 日起，將針對當 [&#8230;]",
+      "date": "2026-08-04T23:00:10+00:00",
+      "sourceId": "technews",
+      "cats": [
+        "market",
+        "process",
+        "material"
+      ]
+    },
+    {
+      "id": "40e4821fc4d4",
+      "title": "AMD 第二季財報資料中心營收翻倍成長，財測未達市場最高預期盤後股價下跌",
+      "link": "https://finance.technews.tw/2026/08/05/amds-second-quarter-revenue-more-than-doubled/",
+      "summary": "半導體大廠超微（AMD）公布了其 2026 會計年度第二季財務報告。儘管營收與獲利雙雙超越華爾街預期，且資料中 [&#8230;]",
+      "date": "2026-08-04T22:30:31+00:00",
+      "sourceId": "technews",
+      "cats": [
+        "market",
+        "process",
+        "material"
+      ]
+    },
     {
       "id": "ab45e2b61e18",
       "title": "世界先進上季每股賺 1.56 元！估 Q3 晶圓出貨量再增、毛利率上看 34.5%",
@@ -131,19 +157,6 @@
       "link": "https://finance.technews.tw/2026/08/04/hp-asus-acer-adopt-cxmt-memory-chips/",
       "summary": "受人工智慧（AI）基礎設施強勁需求帶動，全球記憶體供應正面臨嚴峻考驗。為緩解缺料壓力，包含惠普（HP）、華碩（ [&#8230;]",
       "date": "2026-08-04T08:20:21+00:00",
-      "sourceId": "technews",
-      "cats": [
-        "market",
-        "process",
-        "material"
-      ]
-    },
-    {
-      "id": "1f38027abfee",
-      "title": "台積電漲價＋GDDR7 變貴  南韓 RTX 50 顯卡 8 月喊漲",
-      "link": "https://technews.tw/2026/08/04/rtx-50-series-prices-set-to-rise-in-south-korea/",
-      "summary": "韓媒傳出，受到台積電先進製程晶圓價格上調、GDDR7 記憶體價格攀升帶動，韓國當地的繪圖處理器（GPU）預計自 [&#8230;]",
-      "date": "2026-08-04T08:00:30+00:00",
       "sourceId": "technews",
       "cats": [
         "market",
