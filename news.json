@@ -1,6 +1,6 @@
 {
-  "updated": "2026-08-05T06:35:58.475996+00:00",
-  "count": 11,
+  "updated": "2026-08-05T10:43:55.072901+00:00",
+  "count": 12,
   "sources": [
     {
       "id": "technews",
@@ -61,11 +61,11 @@
   ],
   "articles": [
     {
-      "id": "b175f445a30b",
-      "title": "防美國管制加嚴，傳三星、SK 海力士測試中國晶片設備",
-      "link": "https://technews.tw/2026/08/05/samsung-sk-hynix-test-chinese-chip-tools-as-hedge-against-us-risks/",
-      "summary": "3 名知情人士表示，三星電子和 SK 海力士正在評估將中國中微半導體設備公司（AMEC）的晶片製造設備，用於他 [&#8230;]",
-      "date": "2026-08-05T05:10:52+00:00",
+      "id": "8553c7b9954d",
+      "title": "昇陽半導體7月營收月增6.6%",
+      "link": "https://finance.technews.tw/2026/08/05/psi-8028-202607-financial-report/",
+      "summary": "昇陽半導體（8028）公布 7 月合併營收 5.15 億元，較上（6）月成長 6.6%，與去年同期相比為年增 [&#8230;]",
+      "date": "2026-08-05T09:20:03+00:00",
       "sourceId": "technews",
       "cats": [
         "market",
@@ -74,11 +74,37 @@
       ]
     },
     {
-      "id": "7d842e14fe54",
-      "title": "Intel、Google 合作有譜？聯發科讚 EMIB 露玄機",
-      "link": "https://technews.tw/2026/08/05/mediatek-says-intel-emib-has-reached-a-very-good-level/",
-      "summary": "隨著聯發科讚譽英特爾（Intel）的嵌入式多晶片互連橋接（Embedded Multi-die Interco [&#8230;]",
-      "date": "2026-08-05T04:10:19+00:00",
+      "id": "f0eac957ef7f",
+      "title": "Palantir 狂飆 30% 炸開 AI 紅利！元大 009820 爆衝 3.85% 登領漲王",
+      "link": "https://finance.technews.tw/2026/08/05/009820/",
+      "summary": "美國 AI 大廠財報亮眼，市場資金重返半導體、科技，帶動標普 500 指數創新高，海外大型指數 ETF 今日全 [&#8230;]",
+      "date": "2026-08-05T09:10:52+00:00",
+      "sourceId": "technews",
+      "cats": [
+        "market",
+        "process",
+        "material"
+      ]
+    },
+    {
+      "id": "3cae6a820e53",
+      "title": "矽格7月營收20.14 億元",
+      "link": "https://finance.technews.tw/2026/08/05/sigurd-6257-202607-financial-report/",
+      "summary": "矽格（6257）今（5）日公布 7 月營收，達 20.14 億元，較 6 月成長 2.8%，較去年同期成長 2 [&#8230;]",
+      "date": "2026-08-05T09:10:08+00:00",
+      "sourceId": "technews",
+      "cats": [
+        "market",
+        "process",
+        "material"
+      ]
+    },
+    {
+      "id": "3a685df9722f",
+      "title": "半導體真空泵浦廠鋒魁轉虧為盈，布局半導體整合解決方案市場",
+      "link": "https://finance.technews.tw/2026/08/05/forward-tek-a-semiconductor-vacuum-pump-manufacturer-turns-a-profit/",
+      "summary": "半導體真空泵浦廠鋒魁科技近年積極推動營運轉型、產品布局與新事業發展，效益已逐步顯現。鋒魁科技公布2026年7月 [&#8230;]",
+      "date": "2026-08-05T08:50:24+00:00",
       "sourceId": "technews",
       "cats": [
         "market",
@@ -92,19 +118,6 @@
       "link": "https://www.eetimes.com/humanoid-manipulation-at-the-edge-of-physical-interaction/",
       "summary": "This white paper examines emerging humanoid robot architectures, focusing on how joints and dexterous hands are becoming intelligent, sensor-rich subsystems that require tightly integrated control, communication, and edge processing. It outlines key design challenges and opportunities for building s",
       "date": "2026-08-01T14:00:00+00:00",
-      "sourceId": "eetimes",
-      "cats": [
-        "process",
-        "material",
-        "equipment"
-      ]
-    },
-    {
-      "id": "6ddfc0163b5b",
-      "title": "CEA-Leti Pushes Stacking Roadmap as AI Runs into Memory and Power Limits",
-      "link": "https://www.eetimes.com/cea-leti-pushes-stacking-roadmap-as-ai-runs-into-memory-and-power-limits/",
-      "summary": "AI’s memory wall is turning packaging into architecture as CEA-Leti bets on 3D stacking, chiplets, and cooler power. The post CEA-Leti Pushes Stacking Roadmap as AI Runs into Memory and Power Limits appeared first on EE Times.",
-      "date": "2026-07-31T15:48:06+00:00",
       "sourceId": "eetimes",
       "cats": [
         "process",
