@@ -1,6 +1,6 @@
 {
-  "updated": "2026-08-04T23:10:28.301900+00:00",
-  "count": 17,
+  "updated": "2026-08-05T03:21:36.154058+00:00",
+  "count": 14,
   "sources": [
     {
       "id": "technews",
@@ -61,11 +61,11 @@
   ],
   "articles": [
     {
-      "id": "b5cad1943913",
-      "title": "獨家/高通 9 月調漲晶片價格幅度出爐，終端產品價格規格都將受到影響",
-      "link": "https://ccc.technews.tw/2026/08/05/qualcomm-announces-september-chip-price-increase/",
-      "summary": "晶片大廠高通（Qualcomm）日前向客戶發出價格調整通知信，宣布自 2026 年 9 月 1 日起，將針對當 [&#8230;]",
-      "date": "2026-08-04T23:00:10+00:00",
+      "id": "c583f06ec9d3",
+      "title": "羅姆發表第二代 RTD 太赫茲晶片，輸出功率激增 4 倍推動高精準感測應用",
+      "link": "https://technews.tw/2026/08/05/rohm-2nd-terahertz-wave-oscillation-device/",
+      "summary": "日本半導體大廠羅姆（ROHM）4 日宣布，已成功開發出第二代太赫茲波（Terahertz-wave）振盪晶片。 [&#8230;]",
+      "date": "2026-08-05T03:00:27+00:00",
       "sourceId": "technews",
       "cats": [
         "market",
@@ -74,11 +74,11 @@
       ]
     },
     {
-      "id": "40e4821fc4d4",
-      "title": "AMD 第二季財報資料中心營收翻倍成長，財測未達市場最高預期盤後股價下跌",
-      "link": "https://finance.technews.tw/2026/08/05/amds-second-quarter-revenue-more-than-doubled/",
-      "summary": "半導體大廠超微（AMD）公布了其 2026 會計年度第二季財務報告。儘管營收與獲利雙雙超越華爾街預期，且資料中 [&#8230;]",
-      "date": "2026-08-04T22:30:31+00:00",
+      "id": "a775ccbac66c",
+      "title": "第二季營收微低於預期，高盛下修弘塑目標價至 4,200 元",
+      "link": "https://finance.technews.tw/2026/08/05/goldman-sachs-lowers-target-price-for-hongsu/",
+      "summary": "半導體設備廠弘塑公布 2026 年第二季財報，單季毛利率達 38.9%，優於外資原先預估的 35.9%。雖然單 [&#8230;]",
+      "date": "2026-08-05T02:45:24+00:00",
       "sourceId": "technews",
       "cats": [
         "market",
@@ -87,11 +87,11 @@
       ]
     },
     {
-      "id": "ab45e2b61e18",
-      "title": "世界先進上季每股賺 1.56 元！估 Q3 晶圓出貨量再增、毛利率上看 34.5%",
-      "link": "https://technews.tw/2026/08/04/vis-2026-q2-financial-report/",
-      "summary": "晶圓代工廠世界先進今（4 日）召開第二季法說會，公布第二季合併營收約為新台幣（下同）142.45 億元，季增 [&#8230;]",
-      "date": "2026-08-04T10:23:38+00:00",
+      "id": "bd3c38ced2be",
+      "title": "三星展示 zHBM、zNAND-O、V10 BV-NAND 新記憶體技術，發展未來 AI 基礎建設",
+      "link": "https://technews.tw/2026/08/05/samsung-showcases-next-generation-memory-technology/",
+      "summary": "韓國三星於 FMS 2026 大會展示其最新的 AI 記憶體產品組合與技術路線圖，首度公開 zHBM 與 zN [&#8230;]",
+      "date": "2026-08-05T02:30:04+00:00",
       "sourceId": "technews",
       "cats": [
         "market",
@@ -100,11 +100,11 @@
       ]
     },
     {
-      "id": "011c565aae6e",
-      "title": "AI 與先進封裝市場成長帶動環球晶第二季獲利季增近倍，上半年 EPS 達 11.87 元",
-      "link": "https://finance.technews.tw/2026/08/04/growth-in-the-ai-%e2%80%8b%e2%80%8band-advanced-packaging-markets-nearly-doubled-globalwafers-second-quarter-profits/",
-      "summary": "全球半導體矽晶圓大廠環球晶公布2026年第二季及上半年營運報告。受惠於AI需求持續強勁及半導體技術演進，環球晶 [&#8230;]",
-      "date": "2026-08-04T10:00:11+00:00",
+      "id": "d658ede43681",
+      "title": "傳美將對多晶矽設價格底線並課關稅，劍指中國供應鏈",
+      "link": "https://technews.tw/2026/08/05/us-weighs-polysilicon-price-floor-tariffs-to-counter-china-in-solar-and-chips/",
+      "summary": "4 名知情人士透露，川普政府準備對多晶矽（polysilicon）及相關產品設定價格底線並加徵關稅，使這項太陽 [&#8230;]",
+      "date": "2026-08-05T01:20:09+00:00",
       "sourceId": "technews",
       "cats": [
         "market",
@@ -113,50 +113,11 @@
       ]
     },
     {
-      "id": "267d71dcdbf4",
-      "title": "AI「五層蛋糕」不夠看，華為首席科學家廖恆提「十八層寶塔」",
-      "link": "https://technews.tw/2026/08/04/huawei-semiconductor-18-layer-pagoda/",
-      "summary": "為了中國上個月舉行的世界人工智慧大會（World Artificial Intelligence Confer [&#8230;]",
-      "date": "2026-08-04T08:54:07+00:00",
-      "sourceId": "technews",
-      "cats": [
-        "market",
-        "process",
-        "material"
-      ]
-    },
-    {
-      "id": "53b54704b813",
-      "title": "搶灘 TGV 玻璃基板與先進封裝！勤凱 7 月營收、第二季獲利創高",
-      "link": "https://finance.technews.tw/2026/08/04/tgv-glass-substrate/",
-      "summary": "勤凱科技今日公布 7 月營收 2.69 億元，月增 8.4%，年增 78.4%，再創歷史新高；第二季營收 7. [&#8230;]",
-      "date": "2026-08-04T08:53:55+00:00",
-      "sourceId": "technews",
-      "cats": [
-        "market",
-        "process",
-        "material"
-      ]
-    },
-    {
-      "id": "0454ba28d2f1",
-      "title": "達發第二季 EPS 5.25 元，光通訊業務 2026 年將大幅成長逾四倍",
-      "link": "https://finance.technews.tw/2026/08/04/dafas-second-quarter-eps-reached-nt5-25/",
-      "summary": "聯發科集團旗下IC設計大廠達發科技公布2026年第二季合併財務報告，單季合併營收達新台幣62.9億元，年增13 [&#8230;]",
-      "date": "2026-08-04T08:50:30+00:00",
-      "sourceId": "technews",
-      "cats": [
-        "market",
-        "process",
-        "material"
-      ]
-    },
-    {
-      "id": "d451bd033020",
-      "title": "AI 排擠效應發酵、記憶體供應吃緊：惠普與雙 A 低調導入長鑫存儲",
-      "link": "https://finance.technews.tw/2026/08/04/hp-asus-acer-adopt-cxmt-memory-chips/",
-      "summary": "受人工智慧（AI）基礎設施強勁需求帶動，全球記憶體供應正面臨嚴峻考驗。為緩解缺料壓力，包含惠普（HP）、華碩（ [&#8230;]",
-      "date": "2026-08-04T08:20:21+00:00",
+      "id": "5b51991e8246",
+      "title": "瑞薩車用晶片工廠提前恢復生產",
+      "link": "https://technews.tw/2026/08/05/renesas-automotive-chip-plant-resumes-production-early/",
+      "summary": "日本熊本縣聚集眾多半導體相關工廠，而受 7 月 28 日發生的規模 7.1 強震影響，多家企業廠房一度進行停工 [&#8230;]",
+      "date": "2026-08-05T00:40:43+00:00",
       "sourceId": "technews",
       "cats": [
         "market",
