@@ -1,6 +1,6 @@
 {
-  "updated": "2026-08-05T10:43:55.072901+00:00",
-  "count": 12,
+  "updated": "2026-08-05T14:26:32.647170+00:00",
+  "count": 13,
   "sources": [
     {
       "id": "technews",
@@ -61,6 +61,32 @@
   ],
   "articles": [
     {
+      "id": "ff09f0fec9c1",
+      "title": "Power Integrations 發表首款 2200 V 氮化鎵技術，搶攻資料中心、電動車與再生能源市場",
+      "link": "https://finance.technews.tw/2026/08/05/power-integrations-unveils-its-first-2200-v-gallium-nitride-technology/",
+      "summary": "高壓能效電源轉換整合晶片廠商 Power Integrations 宣布，其獨家 PowiGaN 氮化鎵 ( [&#8230;]",
+      "date": "2026-08-05T13:15:17+00:00",
+      "sourceId": "technews",
+      "cats": [
+        "market",
+        "process",
+        "material"
+      ]
+    },
+    {
+      "id": "e685f2f1408c",
+      "title": "Unstacking the Future: Navigating the 3D IC Frontier",
+      "link": "https://www.eetimes.com/unstacking-the-future-navigating-the-3d-ic-frontier/",
+      "summary": "3D IC introduces new system-level hurdles that demand innovative 3D IC solutions that address exploration, design, analysis, reliability, and test. The post Unstacking the Future: Navigating the 3D IC Frontier appeared first on EE Times.",
+      "date": "2026-08-05T13:00:00+00:00",
+      "sourceId": "eetimes",
+      "cats": [
+        "process",
+        "material",
+        "equipment"
+      ]
+    },
+    {
       "id": "8553c7b9954d",
       "title": "昇陽半導體7月營收月增6.6%",
       "link": "https://finance.technews.tw/2026/08/05/psi-8028-202607-financial-report/",
@@ -110,19 +136,6 @@
         "market",
         "process",
         "material"
-      ]
-    },
-    {
-      "id": "d9c623cfa00f",
-      "title": "Humanoid Manipulation at the Edge of Physical Interaction",
-      "link": "https://www.eetimes.com/humanoid-manipulation-at-the-edge-of-physical-interaction/",
-      "summary": "This white paper examines emerging humanoid robot architectures, focusing on how joints and dexterous hands are becoming intelligent, sensor-rich subsystems that require tightly integrated control, communication, and edge processing. It outlines key design challenges and opportunities for building s",
-      "date": "2026-08-01T14:00:00+00:00",
-      "sourceId": "eetimes",
-      "cats": [
-        "process",
-        "material",
-        "equipment"
       ]
     },
     {
