@@ -1,6 +1,6 @@
 {
-  "updated": "2026-08-05T03:21:36.154058+00:00",
-  "count": 14,
+  "updated": "2026-08-05T06:35:58.475996+00:00",
+  "count": 11,
   "sources": [
     {
       "id": "technews",
@@ -61,11 +61,11 @@
   ],
   "articles": [
     {
-      "id": "c583f06ec9d3",
-      "title": "羅姆發表第二代 RTD 太赫茲晶片，輸出功率激增 4 倍推動高精準感測應用",
-      "link": "https://technews.tw/2026/08/05/rohm-2nd-terahertz-wave-oscillation-device/",
-      "summary": "日本半導體大廠羅姆（ROHM）4 日宣布，已成功開發出第二代太赫茲波（Terahertz-wave）振盪晶片。 [&#8230;]",
-      "date": "2026-08-05T03:00:27+00:00",
+      "id": "b175f445a30b",
+      "title": "防美國管制加嚴，傳三星、SK 海力士測試中國晶片設備",
+      "link": "https://technews.tw/2026/08/05/samsung-sk-hynix-test-chinese-chip-tools-as-hedge-against-us-risks/",
+      "summary": "3 名知情人士表示，三星電子和 SK 海力士正在評估將中國中微半導體設備公司（AMEC）的晶片製造設備，用於他 [&#8230;]",
+      "date": "2026-08-05T05:10:52+00:00",
       "sourceId": "technews",
       "cats": [
         "market",
@@ -74,50 +74,11 @@
       ]
     },
     {
-      "id": "a775ccbac66c",
-      "title": "第二季營收微低於預期，高盛下修弘塑目標價至 4,200 元",
-      "link": "https://finance.technews.tw/2026/08/05/goldman-sachs-lowers-target-price-for-hongsu/",
-      "summary": "半導體設備廠弘塑公布 2026 年第二季財報，單季毛利率達 38.9%，優於外資原先預估的 35.9%。雖然單 [&#8230;]",
-      "date": "2026-08-05T02:45:24+00:00",
-      "sourceId": "technews",
-      "cats": [
-        "market",
-        "process",
-        "material"
-      ]
-    },
-    {
-      "id": "bd3c38ced2be",
-      "title": "三星展示 zHBM、zNAND-O、V10 BV-NAND 新記憶體技術，發展未來 AI 基礎建設",
-      "link": "https://technews.tw/2026/08/05/samsung-showcases-next-generation-memory-technology/",
-      "summary": "韓國三星於 FMS 2026 大會展示其最新的 AI 記憶體產品組合與技術路線圖，首度公開 zHBM 與 zN [&#8230;]",
-      "date": "2026-08-05T02:30:04+00:00",
-      "sourceId": "technews",
-      "cats": [
-        "market",
-        "process",
-        "material"
-      ]
-    },
-    {
-      "id": "d658ede43681",
-      "title": "傳美將對多晶矽設價格底線並課關稅，劍指中國供應鏈",
-      "link": "https://technews.tw/2026/08/05/us-weighs-polysilicon-price-floor-tariffs-to-counter-china-in-solar-and-chips/",
-      "summary": "4 名知情人士透露，川普政府準備對多晶矽（polysilicon）及相關產品設定價格底線並加徵關稅，使這項太陽 [&#8230;]",
-      "date": "2026-08-05T01:20:09+00:00",
-      "sourceId": "technews",
-      "cats": [
-        "market",
-        "process",
-        "material"
-      ]
-    },
-    {
-      "id": "5b51991e8246",
-      "title": "瑞薩車用晶片工廠提前恢復生產",
-      "link": "https://technews.tw/2026/08/05/renesas-automotive-chip-plant-resumes-production-early/",
-      "summary": "日本熊本縣聚集眾多半導體相關工廠，而受 7 月 28 日發生的規模 7.1 強震影響，多家企業廠房一度進行停工 [&#8230;]",
-      "date": "2026-08-05T00:40:43+00:00",
+      "id": "7d842e14fe54",
+      "title": "Intel、Google 合作有譜？聯發科讚 EMIB 露玄機",
+      "link": "https://technews.tw/2026/08/05/mediatek-says-intel-emib-has-reached-a-very-good-level/",
+      "summary": "隨著聯發科讚譽英特爾（Intel）的嵌入式多晶片互連橋接（Embedded Multi-die Interco [&#8230;]",
+      "date": "2026-08-05T04:10:19+00:00",
       "sourceId": "technews",
       "cats": [
         "market",
