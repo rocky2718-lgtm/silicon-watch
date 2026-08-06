@@ -1,6 +1,6 @@
 {
-  "updated": "2026-08-06T10:46:51.068422+00:00",
-  "count": 14,
+  "updated": "2026-08-06T14:29:25.356604+00:00",
+  "count": 16,
   "sources": [
     {
       "id": "technews",
@@ -61,6 +61,45 @@
   ],
   "articles": [
     {
+      "id": "63d4ad79415d",
+      "title": "聯電 7 月營收年增近兩成，前 7 個月合計營收續創同期次高",
+      "link": "https://finance.technews.tw/2026/08/06/umcs-july-revenue-increased-by-nearly-20-year-on-year/",
+      "summary": "晶圓代工大廠聯電公布2026年7月自結合併營收為新台幣238.44億元，較6月份增加3.11%、較2025年同 [&#8230;]",
+      "date": "2026-08-06T12:00:57+00:00",
+      "sourceId": "technews",
+      "cats": [
+        "market",
+        "process",
+        "material"
+      ]
+    },
+    {
+      "id": "3fba03adf49c",
+      "title": "創見資訊 7 月營收年增逾 300%，前 7 個月合計超過歷年全年紀錄",
+      "link": "https://finance.technews.tw/2026/08/06/transcends-july-revenue-increased-by-over-300-year-on-year/",
+      "summary": "記憶體模組廠創見資訊公布2026年7月合併營收為新台幣52億元，較2025年同期大幅成長308%，營運表現維持 [&#8230;]",
+      "date": "2026-08-06T12:00:37+00:00",
+      "sourceId": "technews",
+      "cats": [
+        "market",
+        "process",
+        "material"
+      ]
+    },
+    {
+      "id": "85194ec55b60",
+      "title": "華邦電陳沛銘預警：明年記憶體缺貨更吃緊，啟動高雄新廠擴建",
+      "link": "https://finance.technews.tw/2026/08/06/winbond-electronics-warns-memory-shortages-will-worsen-next-year/",
+      "summary": "半導體市場在人工智慧 （AI） 與高速運算應用的強力拉動下，迎接新一波爆發期。記憶體大廠華邦電總經理陳沛銘在法 [&#8230;]",
+      "date": "2026-08-06T11:50:00+00:00",
+      "sourceId": "technews",
+      "cats": [
+        "market",
+        "process",
+        "material"
+      ]
+    },
+    {
       "id": "32965272966b",
       "title": "銳澤上半年每股獲利 3.53 元 ！砸重本擴編美日半導體供應鏈",
       "link": "https://finance.technews.tw/2026/08/06/regional-outposts/",
@@ -92,19 +131,6 @@
       "link": "https://technews.tw/2026/08/06/2d-semiconductor-epitaxial-interface-engineering-mos2/",
       "summary": "傳統矽半導體技術逐漸逼近物理極限，為解決這問題，全世界科學家都在尋找下一代半導體材料，其中「二維半導體」因薄到 [&#8230;]",
       "date": "2026-08-06T08:33:52+00:00",
-      "sourceId": "technews",
-      "cats": [
-        "market",
-        "process",
-        "material"
-      ]
-    },
-    {
-      "id": "533d47fc80b0",
-      "title": "AI 吃電怪獸綠色救星！東元轉供半導體 3 億度綠電進軍電力交易",
-      "link": "https://finance.technews.tw/2026/08/06/cppa-mw/",
-      "summary": "東元今日宣布與半導體廠完成企業購售電契約（CPPA）簽署，為東元切入綠電交易市場的重要里程碑，這項合作案採長期 [&#8230;]",
-      "date": "2026-08-06T08:17:21+00:00",
       "sourceId": "technews",
       "cats": [
         "market",
