@@ -1,6 +1,6 @@
 {
-  "updated": "2026-08-06T03:24:56.882664+00:00",
-  "count": 18,
+  "updated": "2026-08-06T06:39:14.157208+00:00",
+  "count": 15,
   "sources": [
     {
       "id": "technews",
@@ -61,11 +61,11 @@
   ],
   "articles": [
     {
-      "id": "450017aeb9b9",
-      "title": "SpaceX 全面擁抱輝達晶片，布局太空 AI 算力",
-      "link": "https://technews.tw/2026/08/06/spacex-embraces-nvidia-chips-space-ai-computing-power/",
-      "summary": "太空探索科技公司（SpaceX）執行長馬斯克在公司史上首次財報電話會議中告訴投資人，未來 SpaceX 將完全 [&#8230;]",
-      "date": "2026-08-06T02:50:44+00:00",
+      "id": "239272b64ffd",
+      "title": "國安基金史上最長護盤買八檔個股，靠台積電賺 77 億最多",
+      "link": "https://finance.technews.tw/2026/08/06/national-stabilization-fund-longest-stabilization-eight-stocks-tsmc-7-7-billion-profit/",
+      "summary": "國安基金第九次護台股已在 5 月 6 日持股全數出清，根據國安基金揭露當次護盤持股明細，共買進八檔個股，涵蓋科 [&#8230;]",
+      "date": "2026-08-06T06:20:03+00:00",
       "sourceId": "technews",
       "cats": [
         "market",
@@ -74,11 +74,11 @@
       ]
     },
     {
-      "id": "f26266ce079a",
-      "title": "Anthropic 籌組團隊，首度證實開發自研晶片",
-      "link": "https://technews.tw/2026/08/06/anthropic-builds-in-house-team-to-develop-custom-ai-chips/",
-      "summary": "Anthropic 證實籌組一支團隊，自行研發 AI 晶片。Anthropic 正面對 Claude 模型需求 [&#8230;]",
-      "date": "2026-08-06T02:49:28+00:00",
+      "id": "f43135ddedb2",
+      "title": "富采藍光 Micro LED 頻寬大幅跨越，達業界前列水準",
+      "link": "https://technews.tw/2026/08/06/micro-led-modulation-bandwidth-ennostar-optical-communications/",
+      "summary": "歸功多年累積 III-V 族化合物半導體磊晶技術、Micro LED 晶粒設計、製程整合能力，富采光電 5 日 [&#8230;]",
+      "date": "2026-08-06T05:44:06+00:00",
       "sourceId": "technews",
       "cats": [
         "market",
@@ -87,11 +87,11 @@
       ]
     },
     {
-      "id": "6a5fda639532",
-      "title": "引領代理型 AI 儲存變革，慧榮科技推出全新 MonTitan SSD 參考設計套件",
-      "link": "https://finance.technews.tw/2026/08/06/silicon-motion-introduces-new-montitan-ssd-reference-design-kit/",
-      "summary": "NAND 快閃記憶體控制晶片廠商慧榮科技宣布推出全新 MonTitan SSD 參考設計套件（RDK），並搭載 [&#8230;]",
-      "date": "2026-08-06T02:45:08+00:00",
+      "id": "8b8371953c48",
+      "title": "AI 營收增 62% 仍不夠好  格羅方德股價重挫近 5%",
+      "link": "https://finance.technews.tw/2026/08/06/globalfoundries-reports-second-quarter-2026-financial-results/",
+      "summary": "晶圓代工大廠格羅方德（GlobalFoundries）受惠 AI 資料中心建置熱潮，帶動矽光子晶片需求升溫，第 [&#8230;]",
+      "date": "2026-08-06T04:30:35+00:00",
       "sourceId": "technews",
       "cats": [
         "market",
@@ -100,11 +100,11 @@
       ]
     },
     {
-      "id": "007a3d40f429",
-      "title": "搶攻 CPO 量產：檢測技術最後關鍵一哩路",
-      "link": "https://technews.tw/2026/08/06/cpo-testing-market-opportunities/",
-      "summary": "AI 資料中心叢集規模持續擴大，資料搬運需求隨之大增，傳統銅線互連已達到物理極限。共同封裝光學（Co-Pack [&#8230;]",
-      "date": "2026-08-06T02:00:34+00:00",
+      "id": "982172928c1f",
+      "title": "拓端側算力，傳輝達尋中國廠商開發 6G 基地台",
+      "link": "https://technews.tw/2026/08/06/nvidia-reportedly-seeks-chinese-manufacturers-develop-6g-base-stations-expanding-edge-computing-power/",
+      "summary": "綜合港媒及中媒報導，據知情人士指出，輝達（NVIDIA）正在加速進入電信營運商市場，並在中國尋找基站廠商合作方 [&#8230;]",
+      "date": "2026-08-06T04:15:36+00:00",
       "sourceId": "technews",
       "cats": [
         "market",
@@ -113,11 +113,11 @@
       ]
     },
     {
-      "id": "7c91570269ef",
-      "title": "Sandisk 本季營收預估稍不如華爾街預期、盤後摔",
-      "link": "https://finance.technews.tw/2026/08/06/sandisk-reports-fiscal-fourth-quarter-2026-financial-results/",
-      "summary": "快閃記憶體模組供應商 Sandisk Corp. 最新公布的本季（7-9 月）財測遜於華爾街原先預估，盤後股價 [&#8230;]",
-      "date": "2026-08-06T01:50:57+00:00",
+      "id": "7bd928fdc928",
+      "title": "DRAM 短缺、傳台積電 10 億美元蘋果處理器待封裝",
+      "link": "https://technews.tw/2026/08/06/dram-shortage-tsmc-1-billion-apple-processors-awaiting-packaging/",
+      "summary": "市場傳出，台積電為了蘋果（Apple Inc.）全力拉升 N2（2 奈米）製程產能，如今卻因 DRAM 短缺， [&#8230;]",
+      "date": "2026-08-06T04:00:27+00:00",
       "sourceId": "technews",
       "cats": [
         "market",
@@ -126,50 +126,11 @@
       ]
     },
     {
-      "id": "dd5e484808b1",
-      "title": "川普擬對多晶矽產品課徵 15% 關稅，設定最低進口價格",
-      "link": "https://technews.tw/2026/08/06/trump-administration-to-impose-15-percent-tariff-in-polysilicon-probe-meant-to-counter-china/",
-      "summary": "據 4 名知情人士透露，川普政府最快今天宣布對多晶矽（polysilicon）製成的產品課徵 15% 關稅，並 [&#8230;]",
-      "date": "2026-08-06T01:30:29+00:00",
-      "sourceId": "technews",
-      "cats": [
-        "market",
-        "process",
-        "material"
-      ]
-    },
-    {
-      "id": "e08c6fda703d",
-      "title": "海外 ETF 崩跌 4 成後絕地反攻！這幾檔 8 月暴衝逾 10% 狂回血",
-      "link": "https://finance.technews.tw/2026/08/06/desperate-counterattack/",
-      "summary": "AI 半導體科技股經歷７月份沈重評價調整跌幅，8 月以來海外股市全面反彈，根據 CMoney 統計，８月份海外 [&#8230;]",
-      "date": "2026-08-06T01:28:35+00:00",
-      "sourceId": "technews",
-      "cats": [
-        "market",
-        "process",
-        "material"
-      ]
-    },
-    {
-      "id": "a919f5c2d5bd",
-      "title": "蘋果壓價踢鐵板，傳長鑫存儲拒降記憶體報價",
-      "link": "https://technews.tw/2026/08/06/apple-lpddr5x-dram-cxmt/",
-      "summary": "蘋果近年持續透過供應鏈議價控制硬體成本，不過最新消息顯示，這次在記憶體採購上恐怕碰上硬釘子。據韓國媒體《Dig [&#8230;]",
-      "date": "2026-08-06T01:04:57+00:00",
-      "sourceId": "technews",
-      "cats": [
-        "market",
-        "process",
-        "material"
-      ]
-    },
-    {
-      "id": "1558bfa06ec1",
-      "title": "以色列新創 Xsight Labs 估值達 28 億美元，全力驅動下一代 AI 與雲端網路",
-      "link": "https://technews.tw/2026/08/06/xsight-labs-powering-ai-cloud-networking/",
-      "summary": "以色列晶片新創公司 Xsight Labs 近日宣布，已成功完成超過 3 億美元的新一輪融資，投後估值（Pos [&#8230;]",
-      "date": "2026-08-06T00:30:33+00:00",
+      "id": "b99b4ccf8aad",
+      "title": "華為余承東：記憶體飆漲，手機之後或將大規模漲價",
+      "link": "https://technews.tw/2026/08/06/huawei-richard-yu-memory-prices-soaring-widespread-price-hikes-beyond-phones-expected/",
+      "summary": "綜合港媒及中媒報導，華為 5 日舉行尊界時代旗艦 MPV 及華為全場景新品發表會。 華為常務董事、產品投資評審 [&#8230;]",
+      "date": "2026-08-06T03:50:08+00:00",
       "sourceId": "technews",
       "cats": [
         "market",
