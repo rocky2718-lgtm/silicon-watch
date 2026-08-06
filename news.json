@@ -1,6 +1,6 @@
 {
-  "updated": "2026-08-05T23:09:17.465242+00:00",
-  "count": 14,
+  "updated": "2026-08-06T03:24:56.882664+00:00",
+  "count": 18,
   "sources": [
     {
       "id": "technews",
@@ -61,6 +61,123 @@
   ],
   "articles": [
     {
+      "id": "450017aeb9b9",
+      "title": "SpaceX 全面擁抱輝達晶片，布局太空 AI 算力",
+      "link": "https://technews.tw/2026/08/06/spacex-embraces-nvidia-chips-space-ai-computing-power/",
+      "summary": "太空探索科技公司（SpaceX）執行長馬斯克在公司史上首次財報電話會議中告訴投資人，未來 SpaceX 將完全 [&#8230;]",
+      "date": "2026-08-06T02:50:44+00:00",
+      "sourceId": "technews",
+      "cats": [
+        "market",
+        "process",
+        "material"
+      ]
+    },
+    {
+      "id": "f26266ce079a",
+      "title": "Anthropic 籌組團隊，首度證實開發自研晶片",
+      "link": "https://technews.tw/2026/08/06/anthropic-builds-in-house-team-to-develop-custom-ai-chips/",
+      "summary": "Anthropic 證實籌組一支團隊，自行研發 AI 晶片。Anthropic 正面對 Claude 模型需求 [&#8230;]",
+      "date": "2026-08-06T02:49:28+00:00",
+      "sourceId": "technews",
+      "cats": [
+        "market",
+        "process",
+        "material"
+      ]
+    },
+    {
+      "id": "6a5fda639532",
+      "title": "引領代理型 AI 儲存變革，慧榮科技推出全新 MonTitan SSD 參考設計套件",
+      "link": "https://finance.technews.tw/2026/08/06/silicon-motion-introduces-new-montitan-ssd-reference-design-kit/",
+      "summary": "NAND 快閃記憶體控制晶片廠商慧榮科技宣布推出全新 MonTitan SSD 參考設計套件（RDK），並搭載 [&#8230;]",
+      "date": "2026-08-06T02:45:08+00:00",
+      "sourceId": "technews",
+      "cats": [
+        "market",
+        "process",
+        "material"
+      ]
+    },
+    {
+      "id": "007a3d40f429",
+      "title": "搶攻 CPO 量產：檢測技術最後關鍵一哩路",
+      "link": "https://technews.tw/2026/08/06/cpo-testing-market-opportunities/",
+      "summary": "AI 資料中心叢集規模持續擴大，資料搬運需求隨之大增，傳統銅線互連已達到物理極限。共同封裝光學（Co-Pack [&#8230;]",
+      "date": "2026-08-06T02:00:34+00:00",
+      "sourceId": "technews",
+      "cats": [
+        "market",
+        "process",
+        "material"
+      ]
+    },
+    {
+      "id": "7c91570269ef",
+      "title": "Sandisk 本季營收預估稍不如華爾街預期、盤後摔",
+      "link": "https://finance.technews.tw/2026/08/06/sandisk-reports-fiscal-fourth-quarter-2026-financial-results/",
+      "summary": "快閃記憶體模組供應商 Sandisk Corp. 最新公布的本季（7-9 月）財測遜於華爾街原先預估，盤後股價 [&#8230;]",
+      "date": "2026-08-06T01:50:57+00:00",
+      "sourceId": "technews",
+      "cats": [
+        "market",
+        "process",
+        "material"
+      ]
+    },
+    {
+      "id": "dd5e484808b1",
+      "title": "川普擬對多晶矽產品課徵 15% 關稅，設定最低進口價格",
+      "link": "https://technews.tw/2026/08/06/trump-administration-to-impose-15-percent-tariff-in-polysilicon-probe-meant-to-counter-china/",
+      "summary": "據 4 名知情人士透露，川普政府最快今天宣布對多晶矽（polysilicon）製成的產品課徵 15% 關稅，並 [&#8230;]",
+      "date": "2026-08-06T01:30:29+00:00",
+      "sourceId": "technews",
+      "cats": [
+        "market",
+        "process",
+        "material"
+      ]
+    },
+    {
+      "id": "e08c6fda703d",
+      "title": "海外 ETF 崩跌 4 成後絕地反攻！這幾檔 8 月暴衝逾 10% 狂回血",
+      "link": "https://finance.technews.tw/2026/08/06/desperate-counterattack/",
+      "summary": "AI 半導體科技股經歷７月份沈重評價調整跌幅，8 月以來海外股市全面反彈，根據 CMoney 統計，８月份海外 [&#8230;]",
+      "date": "2026-08-06T01:28:35+00:00",
+      "sourceId": "technews",
+      "cats": [
+        "market",
+        "process",
+        "material"
+      ]
+    },
+    {
+      "id": "a919f5c2d5bd",
+      "title": "蘋果壓價踢鐵板，傳長鑫存儲拒降記憶體報價",
+      "link": "https://technews.tw/2026/08/06/apple-lpddr5x-dram-cxmt/",
+      "summary": "蘋果近年持續透過供應鏈議價控制硬體成本，不過最新消息顯示，這次在記憶體採購上恐怕碰上硬釘子。據韓國媒體《Dig [&#8230;]",
+      "date": "2026-08-06T01:04:57+00:00",
+      "sourceId": "technews",
+      "cats": [
+        "market",
+        "process",
+        "material"
+      ]
+    },
+    {
+      "id": "1558bfa06ec1",
+      "title": "以色列新創 Xsight Labs 估值達 28 億美元，全力驅動下一代 AI 與雲端網路",
+      "link": "https://technews.tw/2026/08/06/xsight-labs-powering-ai-cloud-networking/",
+      "summary": "以色列晶片新創公司 Xsight Labs 近日宣布，已成功完成超過 3 億美元的新一輪融資，投後估值（Pos [&#8230;]",
+      "date": "2026-08-06T00:30:33+00:00",
+      "sourceId": "technews",
+      "cats": [
+        "market",
+        "process",
+        "material"
+      ]
+    },
+    {
       "id": "fea434631c22",
       "title": "Samsung Lays Out AI Memory Roadmap",
       "link": "https://www.eetimes.com/samsung-lays-out-ai-memory-roadmap/",
@@ -74,19 +191,6 @@
       ]
     },
     {
-      "id": "ff09f0fec9c1",
-      "title": "Power Integrations 發表首款 2200 V 氮化鎵技術，搶攻資料中心、電動車與再生能源市場",
-      "link": "https://finance.technews.tw/2026/08/05/power-integrations-unveils-its-first-2200-v-gallium-nitride-technology/",
-      "summary": "高壓能效電源轉換整合晶片廠商 Power Integrations 宣布，其獨家 PowiGaN 氮化鎵 ( [&#8230;]",
-      "date": "2026-08-05T13:15:17+00:00",
-      "sourceId": "technews",
-      "cats": [
-        "market",
-        "process",
-        "material"
-      ]
-    },
-    {
       "id": "e685f2f1408c",
       "title": "Unstacking the Future: Navigating the 3D IC Frontier",
       "link": "https://www.eetimes.com/unstacking-the-future-navigating-the-3d-ic-frontier/",
@@ -97,58 +201,6 @@
         "process",
         "material",
         "equipment"
-      ]
-    },
-    {
-      "id": "8553c7b9954d",
-      "title": "昇陽半導體7月營收月增6.6%",
-      "link": "https://finance.technews.tw/2026/08/05/psi-8028-202607-financial-report/",
-      "summary": "昇陽半導體（8028）公布 7 月合併營收 5.15 億元，較上（6）月成長 6.6%，與去年同期相比為年增 [&#8230;]",
-      "date": "2026-08-05T09:20:03+00:00",
-      "sourceId": "technews",
-      "cats": [
-        "market",
-        "process",
-        "material"
-      ]
-    },
-    {
-      "id": "f0eac957ef7f",
-      "title": "Palantir 狂飆 30% 炸開 AI 紅利！元大 009820 爆衝 3.85% 登領漲王",
-      "link": "https://finance.technews.tw/2026/08/05/009820/",
-      "summary": "美國 AI 大廠財報亮眼，市場資金重返半導體、科技，帶動標普 500 指數創新高，海外大型指數 ETF 今日全 [&#8230;]",
-      "date": "2026-08-05T09:10:52+00:00",
-      "sourceId": "technews",
-      "cats": [
-        "market",
-        "process",
-        "material"
-      ]
-    },
-    {
-      "id": "3cae6a820e53",
-      "title": "矽格7月營收20.14 億元",
-      "link": "https://finance.technews.tw/2026/08/05/sigurd-6257-202607-financial-report/",
-      "summary": "矽格（6257）今（5）日公布 7 月營收，達 20.14 億元，較 6 月成長 2.8%，較去年同期成長 2 [&#8230;]",
-      "date": "2026-08-05T09:10:08+00:00",
-      "sourceId": "technews",
-      "cats": [
-        "market",
-        "process",
-        "material"
-      ]
-    },
-    {
-      "id": "3a685df9722f",
-      "title": "半導體真空泵浦廠鋒魁轉虧為盈，布局半導體整合解決方案市場",
-      "link": "https://finance.technews.tw/2026/08/05/forward-tek-a-semiconductor-vacuum-pump-manufacturer-turns-a-profit/",
-      "summary": "半導體真空泵浦廠鋒魁科技近年積極推動營運轉型、產品布局與新事業發展，效益已逐步顯現。鋒魁科技公布2026年7月 [&#8230;]",
-      "date": "2026-08-05T08:50:24+00:00",
-      "sourceId": "technews",
-      "cats": [
-        "market",
-        "process",
-        "material"
       ]
     },
     {
