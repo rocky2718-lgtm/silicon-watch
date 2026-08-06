@@ -1,6 +1,6 @@
 {
-  "updated": "2026-08-06T06:39:14.157208+00:00",
-  "count": 15,
+  "updated": "2026-08-06T10:46:51.068422+00:00",
+  "count": 14,
   "sources": [
     {
       "id": "technews",
@@ -61,11 +61,11 @@
   ],
   "articles": [
     {
-      "id": "239272b64ffd",
-      "title": "國安基金史上最長護盤買八檔個股，靠台積電賺 77 億最多",
-      "link": "https://finance.technews.tw/2026/08/06/national-stabilization-fund-longest-stabilization-eight-stocks-tsmc-7-7-billion-profit/",
-      "summary": "國安基金第九次護台股已在 5 月 6 日持股全數出清，根據國安基金揭露當次護盤持股明細，共買進八檔個股，涵蓋科 [&#8230;]",
-      "date": "2026-08-06T06:20:03+00:00",
+      "id": "32965272966b",
+      "title": "銳澤上半年每股獲利 3.53 元 ！砸重本擴編美日半導體供應鏈",
+      "link": "https://finance.technews.tw/2026/08/06/regional-outposts/",
+      "summary": "銳澤實業今日公布上半年合併營收達 13.1 億元，年增 11.32％，毛利率 22.89％，稅後淨利 1.18 [&#8230;]",
+      "date": "2026-08-06T09:36:19+00:00",
       "sourceId": "technews",
       "cats": [
         "market",
@@ -74,11 +74,11 @@
       ]
     },
     {
-      "id": "f43135ddedb2",
-      "title": "富采藍光 Micro LED 頻寬大幅跨越，達業界前列水準",
-      "link": "https://technews.tw/2026/08/06/micro-led-modulation-bandwidth-ennostar-optical-communications/",
-      "summary": "歸功多年累積 III-V 族化合物半導體磊晶技術、Micro LED 晶粒設計、製程整合能力，富采光電 5 日 [&#8230;]",
-      "date": "2026-08-06T05:44:06+00:00",
+      "id": "56753049e8d8",
+      "title": "美分析師：記憶體類股長線敘事未變，台灣為關鍵一環",
+      "link": "https://technews.tw/2026/08/06/memory-stocks-long-term-narrative-unchanged-taiwan-key-part/",
+      "summary": "「記憶體與儲存技術大會」在矽谷舉行，台廠供應鏈華邦電、旺宏等廠商參展。資深產業分析師克雷默受訪指出，AI不是泡 [&#8230;]",
+      "date": "2026-08-06T08:50:13+00:00",
       "sourceId": "technews",
       "cats": [
         "market",
@@ -87,11 +87,11 @@
       ]
     },
     {
-      "id": "8b8371953c48",
-      "title": "AI 營收增 62% 仍不夠好  格羅方德股價重挫近 5%",
-      "link": "https://finance.technews.tw/2026/08/06/globalfoundries-reports-second-quarter-2026-financial-results/",
-      "summary": "晶圓代工大廠格羅方德（GlobalFoundries）受惠 AI 資料中心建置熱潮，帶動矽光子晶片需求升溫，第 [&#8230;]",
-      "date": "2026-08-06T04:30:35+00:00",
+      "id": "449cb25211e3",
+      "title": "台灣學界攜台積電研究部門，以磊晶介面工程突破二維半導體關鍵瓶頸",
+      "link": "https://technews.tw/2026/08/06/2d-semiconductor-epitaxial-interface-engineering-mos2/",
+      "summary": "傳統矽半導體技術逐漸逼近物理極限，為解決這問題，全世界科學家都在尋找下一代半導體材料，其中「二維半導體」因薄到 [&#8230;]",
+      "date": "2026-08-06T08:33:52+00:00",
       "sourceId": "technews",
       "cats": [
         "market",
@@ -100,11 +100,11 @@
       ]
     },
     {
-      "id": "982172928c1f",
-      "title": "拓端側算力，傳輝達尋中國廠商開發 6G 基地台",
-      "link": "https://technews.tw/2026/08/06/nvidia-reportedly-seeks-chinese-manufacturers-develop-6g-base-stations-expanding-edge-computing-power/",
-      "summary": "綜合港媒及中媒報導，據知情人士指出，輝達（NVIDIA）正在加速進入電信營運商市場，並在中國尋找基站廠商合作方 [&#8230;]",
-      "date": "2026-08-06T04:15:36+00:00",
+      "id": "533d47fc80b0",
+      "title": "AI 吃電怪獸綠色救星！東元轉供半導體 3 億度綠電進軍電力交易",
+      "link": "https://finance.technews.tw/2026/08/06/cppa-mw/",
+      "summary": "東元今日宣布與半導體廠完成企業購售電契約（CPPA）簽署，為東元切入綠電交易市場的重要里程碑，這項合作案採長期 [&#8230;]",
+      "date": "2026-08-06T08:17:21+00:00",
       "sourceId": "technews",
       "cats": [
         "market",
@@ -113,29 +113,16 @@
       ]
     },
     {
-      "id": "7bd928fdc928",
-      "title": "DRAM 短缺、傳台積電 10 億美元蘋果處理器待封裝",
-      "link": "https://technews.tw/2026/08/06/dram-shortage-tsmc-1-billion-apple-processors-awaiting-packaging/",
-      "summary": "市場傳出，台積電為了蘋果（Apple Inc.）全力拉升 N2（2 奈米）製程產能，如今卻因 DRAM 短缺， [&#8230;]",
-      "date": "2026-08-06T04:00:27+00:00",
-      "sourceId": "technews",
+      "id": "710a711428d2",
+      "title": "Beyond the Fab: Building Europe’s Next Generation of Semiconductor Champions",
+      "link": "https://www.eetimes.com/beyond-the-fab-building-europe-next-generation-of-semiconductor-champions/",
+      "summary": "Europe's next semiconductor champions will emerge from design expertise, customer knowledge, and IP—not manufacturing capacity alone. The post Beyond the Fab: Building Europe&#8217;s Next Generation of Semiconductor Champions appeared first on EE Times.",
+      "date": "2026-08-06T08:09:11+00:00",
+      "sourceId": "eetimes",
       "cats": [
-        "market",
         "process",
-        "material"
-      ]
-    },
-    {
-      "id": "b99b4ccf8aad",
-      "title": "華為余承東：記憶體飆漲，手機之後或將大規模漲價",
-      "link": "https://technews.tw/2026/08/06/huawei-richard-yu-memory-prices-soaring-widespread-price-hikes-beyond-phones-expected/",
-      "summary": "綜合港媒及中媒報導，華為 5 日舉行尊界時代旗艦 MPV 及華為全場景新品發表會。 華為常務董事、產品投資評審 [&#8230;]",
-      "date": "2026-08-06T03:50:08+00:00",
-      "sourceId": "technews",
-      "cats": [
-        "market",
-        "process",
-        "material"
+        "material",
+        "equipment"
       ]
     },
     {
