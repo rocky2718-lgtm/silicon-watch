@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-06T14:29:25.356604+00:00",
+  "updated": "2026-08-07T00:09:59.846584+00:00",
   "count": 16,
   "sources": [
     {
@@ -61,10 +61,23 @@
   ],
   "articles": [
     {
+      "id": "8e333903b4aa",
+      "title": "AI Chip Startup Taalas Acquired by AMD",
+      "link": "https://www.eetimes.com/ai-chip-startup-taalas-acquired-by-amd/",
+      "summary": "AMD plans to use Taalas chips alongside its GPUs for AI inference, likely as an LLM decode accelerator. The post AI Chip Startup Taalas Acquired by AMD appeared first on EE Times.",
+      "date": "2026-08-06T20:05:00+00:00",
+      "sourceId": "eetimes",
+      "cats": [
+        "process",
+        "material",
+        "equipment"
+      ]
+    },
+    {
       "id": "63d4ad79415d",
       "title": "聯電 7 月營收年增近兩成，前 7 個月合計營收續創同期次高",
       "link": "https://finance.technews.tw/2026/08/06/umcs-july-revenue-increased-by-nearly-20-year-on-year/",
-      "summary": "晶圓代工大廠聯電公布2026年7月自結合併營收為新台幣238.44億元，較6月份增加3.11%、較2025年同 [&#8230;]",
+      "summary": "晶圓代工大廠聯電公布 2026 年 7 月自結合併營收為新台幣 238.44 億元，較 6 月份增加 3.11 [&#8230;]",
       "date": "2026-08-06T12:00:57+00:00",
       "sourceId": "technews",
       "cats": [
@@ -77,7 +90,7 @@
       "id": "3fba03adf49c",
       "title": "創見資訊 7 月營收年增逾 300%，前 7 個月合計超過歷年全年紀錄",
       "link": "https://finance.technews.tw/2026/08/06/transcends-july-revenue-increased-by-over-300-year-on-year/",
-      "summary": "記憶體模組廠創見資訊公布2026年7月合併營收為新台幣52億元，較2025年同期大幅成長308%，營運表現維持 [&#8230;]",
+      "summary": "記憶體模組廠創見資訊公布 2026 年 7 月合併營收為新台幣 52 億元，較 2025 年同期大幅成長 30 [&#8230;]",
       "date": "2026-08-06T12:00:37+00:00",
       "sourceId": "technews",
       "cats": [
@@ -118,19 +131,6 @@
       "link": "https://technews.tw/2026/08/06/memory-stocks-long-term-narrative-unchanged-taiwan-key-part/",
       "summary": "「記憶體與儲存技術大會」在矽谷舉行，台廠供應鏈華邦電、旺宏等廠商參展。資深產業分析師克雷默受訪指出，AI不是泡 [&#8230;]",
       "date": "2026-08-06T08:50:13+00:00",
-      "sourceId": "technews",
-      "cats": [
-        "market",
-        "process",
-        "material"
-      ]
-    },
-    {
-      "id": "449cb25211e3",
-      "title": "台灣學界攜台積電研究部門，以磊晶介面工程突破二維半導體關鍵瓶頸",
-      "link": "https://technews.tw/2026/08/06/2d-semiconductor-epitaxial-interface-engineering-mos2/",
-      "summary": "傳統矽半導體技術逐漸逼近物理極限，為解決這問題，全世界科學家都在尋找下一代半導體材料，其中「二維半導體」因薄到 [&#8230;]",
-      "date": "2026-08-06T08:33:52+00:00",
       "sourceId": "technews",
       "cats": [
         "market",
