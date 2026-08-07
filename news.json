@@ -1,6 +1,6 @@
 {
-  "updated": "2026-08-07T07:35:34.951280+00:00",
-  "count": 15,
+  "updated": "2026-08-07T09:08:33.960628+00:00",
+  "count": 17,
   "sources": [
     {
       "id": "technews",
@@ -61,50 +61,76 @@
   ],
   "articles": [
     {
+      "id": "10e06852b983",
+      "title": "三星宣布年底前開始泰勒二廠興建，記憶體產能優先供應長約客戶",
+      "link": "https://finance.technews.tw/2026/08/07/samsung-announced-that-construction-of-its-second-plant-in-taylor-texas-will-begin-before-the-end-of-the-year/",
+      "summary": "根據韓國媒體報導，三星電子預計於2026年底前，開始在美國德州泰勒市（Taylor）建造第二座半導體晶圓廠。同 [&#8230;]",
+      "date": "2026-08-07T08:40:22+00:00",
+      "sourceId": "technews",
+      "cats": [
+        "market",
+        "process",
+        "material"
+      ]
+    },
+    {
+      "id": "cab5ba014b24",
+      "title": "台韓出口首度超越日本，AI 半導體需求成關鍵推手",
+      "link": "https://technews.tw/2026/08/07/taiwan-south-korea-exports-surpass-japan-ai-semiconductor-demand-key-driver/",
+      "summary": "受惠人工智慧（AI）帶動先進半導體需求大增，台灣、韓國今年上半年出口額雙雙首度超越日本。相較之下，日本的優勢主 [&#8230;]",
+      "date": "2026-08-07T08:20:24+00:00",
+      "sourceId": "technews",
+      "cats": [
+        "market",
+        "process",
+        "material"
+      ]
+    },
+    {
+      "id": "f656b0aa9f6e",
+      "title": "光罩7月營收月減0.7%",
+      "link": "https://finance.technews.tw/2026/08/07/tmc-2338-202607-financial-report/",
+      "summary": "光罩（2338）公布 7 月合併營收 5.05 億元，較上（6）月成長 -0.7%，與去年同期相比為年增 4. [&#8230;]",
+      "date": "2026-08-07T08:20:05+00:00",
+      "sourceId": "technews",
+      "cats": [
+        "market",
+        "process",
+        "material"
+      ]
+    },
+    {
+      "id": "85823484c260",
+      "title": "SK 海力士宣布斥資 54 兆韓圜於韓國龍仁和清州新建晶圓廠",
+      "link": "https://technews.tw/2026/08/07/sk-hynix-announced-it-will-invest-54-trillion-won-to-build-a-new-wafer-fab-in-south-korea/",
+      "summary": "韓國記憶體大廠 SK 海力士宣布，公司將在韓國龍仁和清州新建晶圓廠（Fab），以應對 AI 時代持續成長的記憶 [&#8230;]",
+      "date": "2026-08-07T08:15:26+00:00",
+      "sourceId": "technews",
+      "cats": [
+        "market",
+        "process",
+        "material"
+      ]
+    },
+    {
+      "id": "f5853cb67f41",
+      "title": "華邦電財報再報喜，7 月份營收 267.73 億元年增達到 291.55%",
+      "link": "https://finance.technews.tw/2026/08/07/winbond-electronics-reports-another-positive-financial-result/",
+      "summary": "甫召開第二季法說會，揭曉亮眼財報的記憶體大廠華邦電，7 日再公布 7 月份營收狀況。7 月份自行結算合併營收（ [&#8230;]",
+      "date": "2026-08-07T07:50:38+00:00",
+      "sourceId": "technews",
+      "cats": [
+        "market",
+        "process",
+        "material"
+      ]
+    },
+    {
       "id": "cbf90ebca116",
       "title": "群聯 7 月營收年增超過 377% 創新高，帶動前 7 個月營收創同期新高",
       "link": "https://finance.technews.tw/2026/08/07/phisons-july-revenue-increased-by-over-377-year-on-year-setting-a-new-record/",
       "summary": "NAND 控制晶片暨 NAND 儲存解決方案整合服務廠商群聯公布了 2026 年 7 月份營運結果，合併營收為 [&#8230;]",
       "date": "2026-08-07T07:30:36+00:00",
-      "sourceId": "technews",
-      "cats": [
-        "market",
-        "process",
-        "material"
-      ]
-    },
-    {
-      "id": "65cc39ab721d",
-      "title": "旺宏 7 月營收年增逾 180%，前七個月營收年增也超過 137%",
-      "link": "https://finance.technews.tw/2026/08/07/macronixs-july-revenue-increased-by-over-180-year-on-year/",
-      "summary": "記憶體大廠旺宏電子公布 7 月自結合併營收達新台幣 77.25 億元，較 6 月的 69.56 億元成長 11 [&#8230;]",
-      "date": "2026-08-07T07:00:32+00:00",
-      "sourceId": "technews",
-      "cats": [
-        "market",
-        "process",
-        "material"
-      ]
-    },
-    {
-      "id": "07466701ecc9",
-      "title": "矽統7月營收4.05 億元",
-      "link": "https://finance.technews.tw/2026/08/07/sis-2363-202607-financial-report/",
-      "summary": "矽統（2363）今（7）日公布 7 月營收，達 4.05 億元，較 6 月成長 -13.3%，較去年同期成長 [&#8230;]",
-      "date": "2026-08-07T06:50:05+00:00",
-      "sourceId": "technews",
-      "cats": [
-        "market",
-        "process",
-        "material"
-      ]
-    },
-    {
-      "id": "cf58fea33902",
-      "title": "英飛凌攜手聯發科完成未來車用智慧座艙 NOR Flash 解決方案認證",
-      "link": "https://finance.technews.tw/2026/08/07/infineon-and-mediatek-complete-certification-for-nor-flash-solutions-for-future-automotive-smart-cockpits/",
-      "summary": "車用電子大廠英飛凌與國內 IC 設計大廠聯發科合作，為未來車輛打造先進、AI 驅動的汽車座艙體驗。聯發科現已完 [&#8230;]",
-      "date": "2026-08-07T06:30:12+00:00",
       "sourceId": "technews",
       "cats": [
         "market",
