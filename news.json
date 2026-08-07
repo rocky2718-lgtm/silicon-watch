@@ -1,6 +1,6 @@
 {
-  "updated": "2026-08-07T04:30:49.986098+00:00",
-  "count": 20,
+  "updated": "2026-08-07T07:35:34.951280+00:00",
+  "count": 15,
   "sources": [
     {
       "id": "technews",
@@ -61,11 +61,11 @@
   ],
   "articles": [
     {
-      "id": "9f8a42bfa213",
-      "title": "傳記憶體短缺影響交貨，專家：台積電可調整產線應對",
-      "link": "https://technews.tw/2026/08/07/tsmc-can-adjust-production-lines-to-address-dream-shortages-issues/",
-      "summary": "市場傳出，DRAM 嚴重短缺，導致台積電為蘋果（Apple）生產價值 10 億美元的處理器無法完成封裝，只能堆 [&#8230;]",
-      "date": "2026-08-07T04:30:17+00:00",
+      "id": "cbf90ebca116",
+      "title": "群聯 7 月營收年增超過 377% 創新高，帶動前 7 個月營收創同期新高",
+      "link": "https://finance.technews.tw/2026/08/07/phisons-july-revenue-increased-by-over-377-year-on-year-setting-a-new-record/",
+      "summary": "NAND 控制晶片暨 NAND 儲存解決方案整合服務廠商群聯公布了 2026 年 7 月份營運結果，合併營收為 [&#8230;]",
+      "date": "2026-08-07T07:30:36+00:00",
       "sourceId": "technews",
       "cats": [
         "market",
@@ -74,11 +74,11 @@
       ]
     },
     {
-      "id": "c9610faf84dd",
-      "title": "長鑫存儲評估興建第六座 12 吋晶圓廠，月產能拚翻倍衝破 60 萬片",
-      "link": "https://technews.tw/2026/08/07/chinas-cxmt-targets-30-percent-dram-memory-market-share-by-2030-with-sixth-mega-fab/",
-      "summary": "中國記憶體大廠長鑫存儲（CXMT）正加速擴張 DRAM 產能，並評估在北京亦莊興建第六座 12 吋 DRAM [&#8230;]",
-      "date": "2026-08-07T03:50:43+00:00",
+      "id": "65cc39ab721d",
+      "title": "旺宏 7 月營收年增逾 180%，前七個月營收年增也超過 137%",
+      "link": "https://finance.technews.tw/2026/08/07/macronixs-july-revenue-increased-by-over-180-year-on-year/",
+      "summary": "記憶體大廠旺宏電子公布 7 月自結合併營收達新台幣 77.25 億元，較 6 月的 69.56 億元成長 11 [&#8230;]",
+      "date": "2026-08-07T07:00:32+00:00",
       "sourceId": "technews",
       "cats": [
         "market",
@@ -87,11 +87,11 @@
       ]
     },
     {
-      "id": "f4d0ebae140d",
-      "title": "全球電子協會深化台灣先進封裝布局，李長斌出任 AEP 技術首席專家",
-      "link": "https://technews.tw/2026/08/07/gea-new-aep-expert/",
-      "summary": "為深化在台灣先進電子封裝技術的參與及產業交流，全球電子協會宣布任命李長斌擔任台灣先進電子封裝（Advanced [&#8230;]",
-      "date": "2026-08-07T03:41:47+00:00",
+      "id": "07466701ecc9",
+      "title": "矽統7月營收4.05 億元",
+      "link": "https://finance.technews.tw/2026/08/07/sis-2363-202607-financial-report/",
+      "summary": "矽統（2363）今（7）日公布 7 月營收，達 4.05 億元，較 6 月成長 -13.3%，較去年同期成長 [&#8230;]",
+      "date": "2026-08-07T06:50:05+00:00",
       "sourceId": "technews",
       "cats": [
         "market",
@@ -100,76 +100,11 @@
       ]
     },
     {
-      "id": "b8f436a22df2",
-      "title": "磷化銦需求看旺  Macom 財測亮眼、AXT 股價同歡",
-      "link": "https://finance.technews.tw/2026/08/07/macom-beats-wall-street-estimates-on-earnings-and-outlook/",
-      "summary": "美國無線電、微波和毫米波半導體裝置和組件開發商 Macom Technology Solutions Hold [&#8230;]",
-      "date": "2026-08-07T03:30:54+00:00",
-      "sourceId": "technews",
-      "cats": [
-        "market",
-        "process",
-        "material"
-      ]
-    },
-    {
-      "id": "e666a20dce52",
-      "title": "半導體今年營收上看 1.655 兆美元，記憶體增逾 3 倍",
-      "link": "https://technews.tw/2026/08/07/global-semiconductor-market-records-exceptional-growth-in-q2-2026/",
-      "summary": "全球半導體貿易統計組織（WSTS）統計，第 2 季全球半導體營收達到 4,030 億美元，年增 124%，累計 [&#8230;]",
-      "date": "2026-08-07T02:10:56+00:00",
-      "sourceId": "technews",
-      "cats": [
-        "market",
-        "process",
-        "material"
-      ]
-    },
-    {
-      "id": "ee755c4904ac",
-      "title": "模型直接寫入晶片！AMD 收購 AI 新創 Taalas，與輝達 AI 推論晶片一較高下",
-      "link": "https://technews.tw/2026/08/07/amd-buy-ai-taalas/",
-      "summary": "為了挑戰輝達（NVIDIA）在 AI 硬體市場的主導地位，AMD 最新宣布收購 AI 晶片新創 Taalas。 [&#8230;]",
-      "date": "2026-08-07T02:02:21+00:00",
-      "sourceId": "technews",
-      "cats": [
-        "market",
-        "process",
-        "material"
-      ]
-    },
-    {
-      "id": "61dd3da41a3e",
-      "title": "半導體 ADR 逆勢吸金！加權指數挑戰四萬四高檔，聚焦記憶體與 AI 散熱資金動向",
-      "link": "https://finance.technews.tw/2026/08/07/semiconductor-adrs-attract-capital-taiex-44000-challenge-memory-ai-cooling-fund-flows/",
-      "summary": "台股 6 日多頭大爆發，加權指數勁揚 2.88% 衝上 44,611 點，一舉強勢站穩四萬四大關。籌碼面呈現土 [&#8230;]",
-      "date": "2026-08-07T02:00:34+00:00",
-      "sourceId": "technews",
-      "cats": [
-        "market",
-        "process",
-        "material"
-      ]
-    },
-    {
-      "id": "8ce0a2581e4a",
-      "title": "記憶體荒連環爆，微星跟進華碩、技嘉，顯卡全面飆漲破 20%",
-      "link": "https://technews.tw/2026/08/07/gpu-prices-soar-over-20-percent/",
-      "summary": "根據多家通路與供應鏈最新消息，微星（MSI）已正式跟進華碩（ASUS）與技嘉（Gigabyte）的腳步，宣布調 [&#8230;]",
-      "date": "2026-08-07T01:55:06+00:00",
-      "sourceId": "technews",
-      "cats": [
-        "market",
-        "process",
-        "material"
-      ]
-    },
-    {
-      "id": "77aab7ff6c47",
-      "title": "資料中心擴建惹民怨  輝達持股算力商 Nebius 摔 13%",
-      "link": "https://finance.technews.tw/2026/08/07/data-center-expansion-sparks-public-outcry-nvidia-backed-compute-company-nebius-drops-13/",
-      "summary": "輝達（Nvidia Corp.）擁有近 10% 股權的荷蘭 AI 基礎建設供應商 Nebius Group，在 [&#8230;]",
-      "date": "2026-08-07T01:40:32+00:00",
+      "id": "cf58fea33902",
+      "title": "英飛凌攜手聯發科完成未來車用智慧座艙 NOR Flash 解決方案認證",
+      "link": "https://finance.technews.tw/2026/08/07/infineon-and-mediatek-complete-certification-for-nor-flash-solutions-for-future-automotive-smart-cockpits/",
+      "summary": "車用電子大廠英飛凌與國內 IC 設計大廠聯發科合作，為未來車輛打造先進、AI 驅動的汽車座艙體驗。聯發科現已完 [&#8230;]",
+      "date": "2026-08-07T06:30:12+00:00",
       "sourceId": "technews",
       "cats": [
         "market",
