@@ -1,6 +1,6 @@
 {
-  "updated": "2026-08-07T13:20:25.013617+00:00",
-  "count": 15,
+  "updated": "2026-08-07T15:01:11.519964+00:00",
+  "count": 16,
   "sources": [
     {
       "id": "technews",
@@ -60,6 +60,19 @@
     }
   ],
   "articles": [
+    {
+      "id": "831ec73831a2",
+      "title": "Chiplet Architectures as a Practical Path to Scalable Automotive Compute",
+      "link": "https://www.eetimes.com/chiplet-architectures-as-a-practical-path-to-scalable-automotive-compute/",
+      "summary": "Chiplets are auto’s escape hatch from bloated SoCs, scaling SDV compute without wrecking cost or software. The post Chiplet Architectures as a Practical Path to Scalable Automotive Compute appeared first on EE Times.",
+      "date": "2026-08-07T13:56:43+00:00",
+      "sourceId": "eetimes",
+      "cats": [
+        "process",
+        "material",
+        "equipment"
+      ]
+    },
     {
       "id": "6bcf5c24a181",
       "title": "中美晶第二季營收創同期新高，受惠多事業同步成長上半年賺逾半個股本",
