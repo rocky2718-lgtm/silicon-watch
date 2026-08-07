@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-07T15:01:11.519964+00:00",
+  "updated": "2026-08-07T16:59:53.197202+00:00",
   "count": 16,
   "sources": [
     {
@@ -60,6 +60,19 @@
     }
   ],
   "articles": [
+    {
+      "id": "8870e28e3faa",
+      "title": "BIWIN and Tera Indústria de Semicondutores Sign Strategic Partnership Agreement",
+      "link": "https://www.eetimes.com/biwin-and-tera-industria-de-semicondutores-sign-strategic-partnership-agreement/",
+      "summary": "Shenzhen, China / Manaus, Brazil – August 6th, 2026: BIWIN Semiconductor (HK) Company Limited (&#8220;BIWIN&#8221;), a global provider of memory and storage packaging solutions, and TERA INDÚSTRIA DE SEMICONDUTORES S.A. (&#8220;Tera&#8221;), a Brazil-based semiconductor memory packaging company, ann",
+      "date": "2026-08-07T16:08:31+00:00",
+      "sourceId": "eetimes",
+      "cats": [
+        "process",
+        "material",
+        "equipment"
+      ]
+    },
     {
       "id": "831ec73831a2",
       "title": "Chiplet Architectures as a Practical Path to Scalable Automotive Compute",
@@ -157,19 +170,6 @@
       "link": "https://www.eetimes.com/samsung-lays-out-ai-memory-roadmap/",
       "summary": "Samsung bets on zHBM and zNAND-O to smash AI’s memory wall, promising 8× HBM5 performance and 3D stacks. The post Samsung Lays Out AI Memory Roadmap appeared first on EE Times.",
       "date": "2026-08-05T21:35:58+00:00",
-      "sourceId": "eetimes",
-      "cats": [
-        "process",
-        "material",
-        "equipment"
-      ]
-    },
-    {
-      "id": "e685f2f1408c",
-      "title": "Unstacking the Future: Navigating the 3D IC Frontier",
-      "link": "https://www.eetimes.com/unstacking-the-future-navigating-the-3d-ic-frontier/",
-      "summary": "3D IC introduces new system-level hurdles that demand innovative 3D IC solutions that address exploration, design, analysis, reliability, and test. The post Unstacking the Future: Navigating the 3D IC Frontier appeared first on EE Times.",
-      "date": "2026-08-05T13:00:00+00:00",
       "sourceId": "eetimes",
       "cats": [
         "process",
