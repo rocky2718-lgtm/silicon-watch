@@ -1,6 +1,6 @@
 {
-  "updated": "2026-08-07T20:50:33.881899+00:00",
-  "count": 16,
+  "updated": "2026-08-07T22:45:58.326900+00:00",
+  "count": 15,
   "sources": [
     {
       "id": "technews",
@@ -157,19 +157,6 @@
       "link": "https://www.eetimes.com/beyond-the-fab-building-europe-next-generation-of-semiconductor-champions/",
       "summary": "Europe's next semiconductor champions will emerge from design expertise, customer knowledge, and IP—not manufacturing capacity alone. The post Beyond the Fab: Building Europe&#8217;s Next Generation of Semiconductor Champions appeared first on EE Times.",
       "date": "2026-08-06T08:09:11+00:00",
-      "sourceId": "eetimes",
-      "cats": [
-        "process",
-        "material",
-        "equipment"
-      ]
-    },
-    {
-      "id": "fea434631c22",
-      "title": "Samsung Lays Out AI Memory Roadmap",
-      "link": "https://www.eetimes.com/samsung-lays-out-ai-memory-roadmap/",
-      "summary": "Samsung bets on zHBM and zNAND-O to smash AI’s memory wall, promising 8× HBM5 performance and 3D stacks. The post Samsung Lays Out AI Memory Roadmap appeared first on EE Times.",
-      "date": "2026-08-05T21:35:58+00:00",
       "sourceId": "eetimes",
       "cats": [
         "process",
