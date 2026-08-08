@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-07T22:45:58.326900+00:00",
+  "updated": "2026-08-08T02:07:40.571808+00:00",
   "count": 15,
   "sources": [
     {
@@ -61,6 +61,19 @@
   ],
   "articles": [
     {
+      "id": "00918fc530a8",
+      "title": "台積電、CSP 大舉建廠背後的推手！研華北美接單強勁，無懼零件飆漲樂觀看旺下半年",
+      "link": "https://finance.technews.tw/2026/08/08/advantech/",
+      "summary": "《財訊》報導，AI 投資熱未退，當市場焦點都放在台積電擴產、輝達、Google 等 CSP 大舉投資 AI 資 [&#8230;]",
+      "date": "2026-08-08T01:00:00+00:00",
+      "sourceId": "technews",
+      "cats": [
+        "market",
+        "process",
+        "material"
+      ]
+    },
+    {
       "id": "8870e28e3faa",
       "title": "BIWIN and Tera Indústria de Semicondutores Sign Strategic Partnership Agreement",
       "link": "https://www.eetimes.com/biwin-and-tera-industria-de-semicondutores-sign-strategic-partnership-agreement/",
@@ -118,19 +131,6 @@
       "link": "https://technews.tw/2026/08/07/us-15-polysilicon-tariffs-china-8-firms-oppose-involution/",
       "summary": "在美國政府預計對多晶矽衍生品課徵 15% 關稅，太陽能電池與模組等產品設定最低進口價的同時，合占中國多晶矽總產 [&#8230;]",
       "date": "2026-08-07T09:55:54+00:00",
-      "sourceId": "technews",
-      "cats": [
-        "market",
-        "process",
-        "material"
-      ]
-    },
-    {
-      "id": "2f441c6350d7",
-      "title": "矽創7月營收20.36 億元",
-      "link": "https://finance.technews.tw/2026/08/07/sitronix-8016-202607-financial-report/",
-      "summary": "矽創（8016）今（7）日公布 7 月營收，達 20.36 億元，較 6 月成長 1.9%，較去年同期成長 3 [&#8230;]",
-      "date": "2026-08-07T09:20:08+00:00",
       "sourceId": "technews",
       "cats": [
         "market",
