@@ -1,6 +1,6 @@
 {
-  "updated": "2026-08-08T14:38:57.305720+00:00",
-  "count": 16,
+  "updated": "2026-08-08T16:43:28.953625+00:00",
+  "count": 15,
   "sources": [
     {
       "id": "technews",
@@ -131,19 +131,6 @@
       "link": "https://finance.technews.tw/2026/08/07/sass-second-quarter-revenue-hit-a-record-high-for-the-same-period/",
       "summary": "矽晶材料大廠中美晶公布2026年最新營運成果，受惠於半導體、車用元件與再生能源等多元事業的協同成長，中美晶展現 [&#8230;]",
       "date": "2026-08-07T12:00:34+00:00",
-      "sourceId": "technews",
-      "cats": [
-        "market",
-        "process",
-        "material"
-      ]
-    },
-    {
-      "id": "5a72b59fda15",
-      "title": "旺矽7月營收18.05 億元",
-      "link": "https://finance.technews.tw/2026/08/07/mpi-6223-202607-financial-report/",
-      "summary": "旺矽（6223）今（7）日公布 7 月營收，達 18.05 億元，較 6 月成長 -1.5%，較去年同期成長 [&#8230;]",
-      "date": "2026-08-07T10:40:07+00:00",
       "sourceId": "technews",
       "cats": [
         "market",
