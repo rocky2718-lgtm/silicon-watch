@@ -1,6 +1,6 @@
 {
-  "updated": "2026-08-08T07:04:45.187714+00:00",
-  "count": 15,
+  "updated": "2026-08-08T08:51:59.481829+00:00",
+  "count": 16,
   "sources": [
     {
       "id": "technews",
@@ -60,6 +60,19 @@
     }
   ],
   "articles": [
+    {
+      "id": "11ecc10b5da7",
+      "title": "AI 讓 RAM 價格倒退回 2007 年水準，20 年降價趨勢逆轉",
+      "link": "https://finance.technews.tw/2026/08/08/ai-ram-hbm/",
+      "summary": "AI 熱潮正徹底改寫記憶體市場，軟體效能專家兼 GitHub 開發者 Daniel Lemire 指出，受高頻 [&#8230;]",
+      "date": "2026-08-08T07:19:28+00:00",
+      "sourceId": "technews",
+      "cats": [
+        "market",
+        "process",
+        "material"
+      ]
+    },
     {
       "id": "484c974f144e",
       "title": "教 AI 設計晶片！Anthropic 研究工程師年薪最高 85 萬美元",
