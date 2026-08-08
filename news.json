@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-08T02:07:40.571808+00:00",
+  "updated": "2026-08-08T05:05:16.860663+00:00",
   "count": 15,
   "sources": [
     {
@@ -61,6 +61,19 @@
   ],
   "articles": [
     {
+      "id": "484c974f144e",
+      "title": "教 AI 設計晶片！Anthropic 研究工程師年薪最高 85 萬美元",
+      "link": "https://technews.tw/2026/08/08/anthropic-ic-design/",
+      "summary": "AI 不只要寫程式、生成內容，如今更進一步跨足晶片設計。Anthropic 正積極籌組內部晶片團隊、推進客製化 [&#8230;]",
+      "date": "2026-08-08T04:57:52+00:00",
+      "sourceId": "technews",
+      "cats": [
+        "market",
+        "process",
+        "material"
+      ]
+    },
+    {
       "id": "00918fc530a8",
       "title": "台積電、CSP 大舉建廠背後的推手！研華北美接單強勁，無懼零件飆漲樂觀看旺下半年",
       "link": "https://finance.technews.tw/2026/08/08/advantech/",
@@ -118,19 +131,6 @@
       "link": "https://finance.technews.tw/2026/08/07/mpi-6223-202607-financial-report/",
       "summary": "旺矽（6223）今（7）日公布 7 月營收，達 18.05 億元，較 6 月成長 -1.5%，較去年同期成長 [&#8230;]",
       "date": "2026-08-07T10:40:07+00:00",
-      "sourceId": "technews",
-      "cats": [
-        "market",
-        "process",
-        "material"
-      ]
-    },
-    {
-      "id": "830c6edb5575",
-      "title": "美國擬祭多晶矽關稅 15%，中國 8 家大廠表態反內捲",
-      "link": "https://technews.tw/2026/08/07/us-15-polysilicon-tariffs-china-8-firms-oppose-involution/",
-      "summary": "在美國政府預計對多晶矽衍生品課徵 15% 關稅，太陽能電池與模組等產品設定最低進口價的同時，合占中國多晶矽總產 [&#8230;]",
-      "date": "2026-08-07T09:55:54+00:00",
       "sourceId": "technews",
       "cats": [
         "market",
