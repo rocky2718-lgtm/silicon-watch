@@ -1,6 +1,6 @@
 {
-  "updated": "2026-08-10T02:24:34.843003+00:00",
-  "count": 18,
+  "updated": "2026-08-10T05:39:35.758177+00:00",
+  "count": 17,
   "sources": [
     {
       "id": "technews",
@@ -61,89 +61,76 @@
   ],
   "articles": [
     {
+      "id": "2ea3f7ee3f96",
+      "title": "SpaceX 擴大與輝達合作  新雲端業者可能承壓",
+      "link": "https://technews.tw/2026/08/10/spacex-expands-nvidia-cooperation-new-cloud-providers-under-pressure/",
+      "summary": "專家分析，隨著 SpaceX 大舉投入 AI 資料中心並全面採用輝達晶片，CoreWeave、Nebius 等 [&#8230;]",
+      "date": "2026-08-10T05:20:41+00:00",
+      "sourceId": "technews",
+      "cats": [
+        "market",
+        "process",
+        "material"
+      ]
+    },
+    {
+      "id": "67b84bf4fe68",
+      "title": "日經：台積電 Sony 砸 63 億美元，2029 量產影像晶片",
+      "link": "https://technews.tw/2026/08/10/sony-tsmc-to-invest-6-3bn-in-advanced-image-sensor-plant-in-kumamoto/",
+      "summary": "日本經濟新聞（Nikkei）今天報導，日本索尼集團（Sony Group）與台灣台積電計劃共同投入約 1 兆日 [&#8230;]",
+      "date": "2026-08-10T05:00:47+00:00",
+      "sourceId": "technews",
+      "cats": [
+        "market",
+        "process",
+        "material"
+      ]
+    },
+    {
+      "id": "1ed6e911c05c",
+      "title": "AI 算力需求升，寒武紀 H1 獲利年增 1.2 倍",
+      "link": "https://finance.technews.tw/2026/08/10/cambricon-h1-profit-more-than-doubles-year-on-year/",
+      "summary": "綜合中媒報導，中國人工智慧（AI）晶片設計商寒武紀公布 2026 年上半年營收 59.96 億元（人民幣，下同 [&#8230;]",
+      "date": "2026-08-10T03:50:18+00:00",
+      "sourceId": "technews",
+      "cats": [
+        "market",
+        "process",
+        "material"
+      ]
+    },
+    {
+      "id": "7f9631e0370b",
+      "title": "引入矽谷「逃逸速度」，美軍加速開放國防新創公司使用飛彈試射靶場",
+      "link": "https://technews.tw/2026/08/10/us-army-speeds-up-applications-for-defense-start-ups-to-use-missile-ranges/",
+      "summary": "為了加快將具潛力的民間軍工科技納入採購供應鏈，美國陸軍正式宣佈開放 4 座本土試驗場與 1 座海外測試場，允許 [&#8230;]",
+      "date": "2026-08-10T03:15:35+00:00",
+      "sourceId": "technews",
+      "cats": [
+        "market",
+        "process",
+        "material"
+      ]
+    },
+    {
+      "id": "2a66386af81a",
+      "title": "英特爾新專利曝光，擬建「太空資料中心」集中管理低軌衛星網",
+      "link": "https://technews.tw/2026/08/10/intel-patent-describes-orbital-data-centers-designed-to-manage-satellite-networks/",
+      "summary": "據外媒報導，英特爾（Intel）於 8 月 6 日公開的一項專利申請，提出把部分衛星網路運算搬上太空的構想，藉 [&#8230;]",
+      "date": "2026-08-10T02:25:59+00:00",
+      "sourceId": "technews",
+      "cats": [
+        "market",
+        "process",
+        "material"
+      ]
+    },
+    {
       "id": "17130ccc7668",
       "title": "從「工業之米」到能源核心，強茂搶攻 AI、車用市場",
       "link": "https://technews.tw/2026/08/10/panjit-accelerates-ai-automotive-power-semiconductor-deployment-moving-from-industrial-rice-to-core-of-energy-conversion/",
       "summary": "AI 資料中心、電動車與能源轉型需求快速成長，功率半導體重要性持續提升。強茂集團總裁方敏宗表示，功率半導體是支 [&#8230;]",
       "date": "2026-08-10T02:08:33+00:00",
-      "sourceId": "technews",
-      "cats": [
-        "market",
-        "process",
-        "material"
-      ]
-    },
-    {
-      "id": "04c777bc4d7d",
-      "title": "非農激勵費半強彈！台指夜盤狂飆七百點，強勢衝刺四萬五大關",
-      "link": "https://finance.technews.tw/2026/08/10/nfp-boosts-sox-strong-rebound-taiwan-index-futures-night-session-surges-700-points-eyes-45k-milestone/",
-      "summary": "受到美國非農就業數據遜於預期、市場押注聯準會（Fed）降息機率升溫影響，美股四大指數全面強彈，費城半導體指數單 [&#8230;]",
-      "date": "2026-08-10T02:00:47+00:00",
-      "sourceId": "technews",
-      "cats": [
-        "market",
-        "process",
-        "material"
-      ]
-    },
-    {
-      "id": "adce35087686",
-      "title": "傳輝達擬砸 30 億美元入股 Lancium，布局電力基礎設施",
-      "link": "https://finance.technews.tw/2026/08/10/nvidia-to-invest-up-to-3-billion-in-stargate-data-center-developer-lancium/",
-      "summary": "路透社 7 日引述科技媒體 The Information 報導，輝達（Nvidia）將投資最多 30 億美元 [&#8230;]",
-      "date": "2026-08-10T01:40:02+00:00",
-      "sourceId": "technews",
-      "cats": [
-        "market",
-        "process",
-        "material"
-      ]
-    },
-    {
-      "id": "0c58a81368de",
-      "title": "晶圓廠趕工掀徵才狂潮，微影設備巨頭在台招募逾千人",
-      "link": "https://technews.tw/2026/08/10/wafer-fabs-rush-production-hiring-asml-recruit-1000-plus-taiwan/",
-      "summary": "台積電新竹和高雄 2 奈米晶圓廠成功量產，園區廠房周邊重型機具的引擎轟鳴聲仍不絕於耳。即使部分先進製程已邁入量 [&#8230;]",
-      "date": "2026-08-10T01:10:08+00:00",
-      "sourceId": "technews",
-      "cats": [
-        "market",
-        "process",
-        "material"
-      ]
-    },
-    {
-      "id": "32d914c8d88c",
-      "title": "記憶體漲翻天  中國長鑫存儲有望打進 iPhone 鏈",
-      "link": "https://technews.tw/2026/08/10/apple-tests-chinese-memory-chips-as-supply-squeeze-bites/",
-      "summary": "AI 熱潮持續推升記憶體需求，全球供應吃緊也逼得蘋果（Apple）另尋新貨源。據外媒報導，蘋果近期已在 iPh [&#8230;]",
-      "date": "2026-08-10T01:00:38+00:00",
-      "sourceId": "technews",
-      "cats": [
-        "market",
-        "process",
-        "material"
-      ]
-    },
-    {
-      "id": "ff73e1a6b6ad",
-      "title": "AI 浪潮捲土重來，矽谷巨頭押注「一站式超級 App」搶攻變現紅利",
-      "link": "https://technews.tw/2026/08/10/ai-wave-returns-super-apps/",
-      "summary": "人工智慧（AI）正成為矽谷重新押注「超級應用程式」（Super App）概念的核心推手。隨著 Google、O [&#8230;]",
-      "date": "2026-08-10T00:30:43+00:00",
-      "sourceId": "technews",
-      "cats": [
-        "market",
-        "process",
-        "material"
-      ]
-    },
-    {
-      "id": "18085c9e7dc4",
-      "title": "複製輝達整機戰法搶攻 ASIC 晶片市占，聯發科為何與博通純晶片策略背道而馳？",
-      "link": "https://finance.technews.tw/2026/08/10/mediatek-asic-chip-market/",
-      "summary": "聯發科法說會，蔡力行宣布 ASIC 晶片市占目標上調至 15％ 至 20％，震撼法人圈。而就在稍早，競爭對手博 [&#8230;]",
-      "date": "2026-08-09T23:30:56+00:00",
       "sourceId": "technews",
       "cats": [
         "market",
