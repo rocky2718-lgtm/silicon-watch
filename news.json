@@ -1,6 +1,6 @@
 {
-  "updated": "2026-08-10T07:56:09.009301+00:00",
-  "count": 17,
+  "updated": "2026-08-10T09:41:21.612778+00:00",
+  "count": 13,
   "sources": [
     {
       "id": "technews",
@@ -61,11 +61,11 @@
   ],
   "articles": [
     {
-      "id": "a17bd7ca5597",
-      "title": "台光電、揖斐電、日東電全包！中信台日韓 PCB ETF 自 8/17 開募",
-      "link": "https://finance.technews.tw/2026/08/10/009828/",
-      "summary": "隨著 AI 伺服器、高速運算及資料中心建置需求持續升溫，市場投資焦點正由晶片與伺服器，逐步擴散至 PCB、載板 [&#8230;]",
-      "date": "2026-08-10T07:04:16+00:00",
+      "id": "00b6b711fea0",
+      "title": "矽力*-KY7月營收月增13.1%",
+      "link": "https://finance.technews.tw/2026/08/10/silergy-6415-202607-financial-report/",
+      "summary": "矽力*-KY（6415）公布 7 月合併營收 23.57 億元，較上（6）月成長 13.1%，與去年同期相比為 [&#8230;]",
+      "date": "2026-08-10T09:20:02+00:00",
       "sourceId": "technews",
       "cats": [
         "market",
@@ -74,11 +74,11 @@
       ]
     },
     {
-      "id": "8ae55c7b1776",
-      "title": "TrendForce：預估 iPhone 18 Pro 成本大增近 40%，Apple 須靠讓利穩住出貨規模",
-      "link": "https://technews.tw/2026/08/10/iphone-18-pro-costs-estimated-to-rise-nearly-40/",
-      "summary": "根據 TrendForce 最新手機產業研究，由於以記憶體為首的零組件價格調漲，推升 Apple 將發布的 i [&#8230;]",
-      "date": "2026-08-10T06:55:59+00:00",
+      "id": "e78deecd9a84",
+      "title": "聯發科7月營收484.75 億元",
+      "link": "https://finance.technews.tw/2026/08/10/mtk-2454-202607-financial-report/",
+      "summary": "聯發科（2454）今（10）日公布 7 月營收，達 484.75 億元，較 6 月成長 -16.4%，較去年同 [&#8230;]",
+      "date": "2026-08-10T09:10:06+00:00",
       "sourceId": "technews",
       "cats": [
         "market",
@@ -87,50 +87,11 @@
       ]
     },
     {
-      "id": "1755d0230632",
-      "title": "家登 7 月營收 8.71 億元，前 7 個月營收 50.5 億元年增大幅成長 29%",
-      "link": "https://finance.technews.tw/2026/08/10/gudengs-revenue-in-july-was-nt871-million/",
-      "summary": "半導體耗材商家登精密公布 2026 年 7 月營收報告，集團合併總營收約為新台幣 8.71 億元，累計 202 [&#8230;]",
-      "date": "2026-08-10T06:30:20+00:00",
-      "sourceId": "technews",
-      "cats": [
-        "market",
-        "process",
-        "material"
-      ]
-    },
-    {
-      "id": "8d1896d1def5",
-      "title": "中國長鑫存儲 DDR5 良率提升，美台筆電大廠採購策略有差異",
-      "link": "https://finance.technews.tw/2026/08/10/changxin-memory-technologies-co-ltd-improves-ddr5-yield/",
-      "summary": "隨著中國記憶體大廠長鑫存儲 (CXMT) 在 DDR5 技術上的突破，全球個人電腦（PC）供應鏈正迎接採購變革 [&#8230;]",
-      "date": "2026-08-10T06:20:18+00:00",
-      "sourceId": "technews",
-      "cats": [
-        "market",
-        "process",
-        "material"
-      ]
-    },
-    {
-      "id": "318e471a4c92",
-      "title": "茂矽7月營收月增4.1%",
-      "link": "https://finance.technews.tw/2026/08/10/mvi-2342-202607-financial-report/",
-      "summary": "茂矽（2342）公布 7 月合併營收 1.84 億元，較上（6）月成長 4.1%，與去年同期相比為年增 11. [&#8230;]",
-      "date": "2026-08-10T06:20:03+00:00",
-      "sourceId": "technews",
-      "cats": [
-        "market",
-        "process",
-        "material"
-      ]
-    },
-    {
-      "id": "fc17b3c30ed4",
-      "title": "台積電7月營收4,675.81 億元",
-      "link": "https://finance.technews.tw/2026/08/10/tsmc-2330-202607-financial-report/",
-      "summary": "台積電（2330）今（10）日公布 7 月營收，達 4,675.81 億元，較 6 月成長 5.6%，較去年同 [&#8230;]",
-      "date": "2026-08-10T06:10:04+00:00",
+      "id": "1132cbb53422",
+      "title": "韓總統李在明要求「閃電般速度」推動 AI 與半導體投資，利益全民共享",
+      "link": "https://finance.technews.tw/2026/08/10/lead-lee-urges-earliest-possible-implementation-of-ai-related-investment-projects/",
+      "summary": "韓國總統李在明今日主持第二次「三大超級計畫」進度檢討會，要求政府以「閃電般速度」推動人工智慧（AI）相關大型投 [&#8230;]",
+      "date": "2026-08-10T08:40:42+00:00",
       "sourceId": "technews",
       "cats": [
         "market",
@@ -170,19 +131,6 @@
       "link": "https://www.eetimes.com/ai-chip-startup-taalas-acquired-by-amd/",
       "summary": "AMD plans to use Taalas chips alongside its GPUs for AI inference, likely as an LLM decode accelerator. The post AI Chip Startup Taalas Acquired by AMD appeared first on EE Times.",
       "date": "2026-08-06T20:05:00+00:00",
-      "sourceId": "eetimes",
-      "cats": [
-        "process",
-        "material",
-        "equipment"
-      ]
-    },
-    {
-      "id": "710a711428d2",
-      "title": "Beyond the Fab: Building Europe’s Next Generation of Semiconductor Champions",
-      "link": "https://www.eetimes.com/beyond-the-fab-building-europe-next-generation-of-semiconductor-champions/",
-      "summary": "Europe's next semiconductor champions will emerge from design expertise, customer knowledge, and IP—not manufacturing capacity alone. The post Beyond the Fab: Building Europe&#8217;s Next Generation of Semiconductor Champions appeared first on EE Times.",
-      "date": "2026-08-06T08:09:11+00:00",
       "sourceId": "eetimes",
       "cats": [
         "process",
