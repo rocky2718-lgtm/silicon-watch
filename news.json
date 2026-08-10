@@ -1,6 +1,6 @@
 {
-  "updated": "2026-08-10T20:52:47.183499+00:00",
-  "count": 13,
+  "updated": "2026-08-10T22:47:46.846046+00:00",
+  "count": 14,
   "sources": [
     {
       "id": "technews",
@@ -61,6 +61,32 @@
   ],
   "articles": [
     {
+      "id": "7da55fd5efc4",
+      "title": "英特爾要募集 150 億美元擴充晶圓代工力拼台積電，股價卻下挫 4%",
+      "link": "https://finance.technews.tw/2026/08/11/intel-plans-to-raise-15-billion-to-expand-its-wafer-foundry-business/",
+      "summary": "英特爾（Intel）宣布計劃透過大規模增資發行新股，籌集150億美元的資金，用以支應其成本高昂的晶片製造與晶圓 [&#8230;]",
+      "date": "2026-08-10T22:30:54+00:00",
+      "sourceId": "technews",
+      "cats": [
+        "market",
+        "process",
+        "material"
+      ]
+    },
+    {
+      "id": "374fffec43db",
+      "title": "投資新契機？或分擔風險？輝達攜手華爾街資金建立 5,000 億美元 AI 融資平台",
+      "link": "https://finance.technews.tw/2026/08/11/nvidia-partners-with-wall-street-funds-to-establish-a-500-billion-ai-funding-platform/",
+      "summary": "半導體晶片大廠輝達（Nvidia）已與華爾街投資機構包括阿波羅全球管理（Apollo Global Manag [&#8230;]",
+      "date": "2026-08-10T22:30:53+00:00",
+      "sourceId": "technews",
+      "cats": [
+        "market",
+        "process",
+        "material"
+      ]
+    },
+    {
       "id": "04a062b13296",
       "title": "Leading-edge AI IC designs demand comprehensive HAV methodologies",
       "link": "https://www.eetimes.com/leading-edge-ai-ic-designs-demand-comprehensive-hav-methodologies/",
@@ -118,19 +144,6 @@
       "link": "https://www.eetimes.com/chiplet-architectures-as-a-practical-path-to-scalable-automotive-compute/",
       "summary": "Chiplets are auto’s escape hatch from bloated SoCs, scaling SDV compute without wrecking cost or software. The post Chiplet Architectures as a Practical Path to Scalable Automotive Compute appeared first on EE Times.",
       "date": "2026-08-07T13:56:43+00:00",
-      "sourceId": "eetimes",
-      "cats": [
-        "process",
-        "material",
-        "equipment"
-      ]
-    },
-    {
-      "id": "8e333903b4aa",
-      "title": "AI Chip Startup Taalas Acquired by AMD",
-      "link": "https://www.eetimes.com/ai-chip-startup-taalas-acquired-by-amd/",
-      "summary": "AMD plans to use Taalas chips alongside its GPUs for AI inference, likely as an LLM decode accelerator. The post AI Chip Startup Taalas Acquired by AMD appeared first on EE Times.",
-      "date": "2026-08-06T20:05:00+00:00",
       "sourceId": "eetimes",
       "cats": [
         "process",
