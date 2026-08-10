@@ -1,6 +1,6 @@
 {
-  "updated": "2026-08-10T11:14:33.268571+00:00",
-  "count": 13,
+  "updated": "2026-08-10T13:26:00.608301+00:00",
+  "count": 14,
   "sources": [
     {
       "id": "technews",
@@ -60,6 +60,19 @@
     }
   ],
   "articles": [
+    {
+      "id": "04a062b13296",
+      "title": "Leading-edge AI IC designs demand comprehensive HAV methodologies",
+      "link": "https://www.eetimes.com/leading-edge-ai-ic-designs-demand-comprehensive-hav-methodologies/",
+      "summary": "Learn how comprehensive hardware-assisted verification helps AI SoC teams accelerate RTL, software development and system validation. The post Leading-edge AI IC designs demand comprehensive HAV methodologies appeared first on EE Times.",
+      "date": "2026-08-10T13:00:00+00:00",
+      "sourceId": "eetimes",
+      "cats": [
+        "process",
+        "material",
+        "equipment"
+      ]
+    },
     {
       "id": "00b6b711fea0",
       "title": "矽力*-KY7月營收月增13.1%",
