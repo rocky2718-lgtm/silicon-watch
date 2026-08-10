@@ -1,6 +1,6 @@
 {
-  "updated": "2026-08-10T13:26:00.608301+00:00",
-  "count": 14,
+  "updated": "2026-08-10T15:06:46.066358+00:00",
+  "count": 13,
   "sources": [
     {
       "id": "technews",
@@ -92,19 +92,6 @@
       "link": "https://finance.technews.tw/2026/08/10/mtk-2454-202607-financial-report/",
       "summary": "聯發科（2454）今（10）日公布 7 月營收，達 484.75 億元，較 6 月成長 -16.4%，較去年同 [&#8230;]",
       "date": "2026-08-10T09:10:06+00:00",
-      "sourceId": "technews",
-      "cats": [
-        "market",
-        "process",
-        "material"
-      ]
-    },
-    {
-      "id": "1132cbb53422",
-      "title": "韓總統李在明要求「閃電般速度」推動 AI 與半導體投資，利益全民共享",
-      "link": "https://finance.technews.tw/2026/08/10/lead-lee-urges-earliest-possible-implementation-of-ai-related-investment-projects/",
-      "summary": "韓國總統李在明今日主持第二次「三大超級計畫」進度檢討會，要求政府以「閃電般速度」推動人工智慧（AI）相關大型投 [&#8230;]",
-      "date": "2026-08-10T08:40:42+00:00",
       "sourceId": "technews",
       "cats": [
         "market",
