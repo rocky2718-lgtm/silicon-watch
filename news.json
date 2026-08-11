@@ -1,6 +1,6 @@
 {
-  "updated": "2026-08-11T05:15:48.586879+00:00",
-  "count": 18,
+  "updated": "2026-08-11T07:19:24.018735+00:00",
+  "count": 17,
   "sources": [
     {
       "id": "technews",
@@ -61,102 +61,89 @@
   ],
   "articles": [
     {
+      "id": "e9c02551fc92",
+      "title": "即便輝達調降 Rubin Ultra 晶片 HBM 容量，2027 年 HBM 仍供不應求",
+      "link": "https://finance.technews.tw/2026/08/11/hbm-will-still-be-in-short-supply-in-2027/",
+      "summary": "根據市場最新分析指出，即便輝達（Nvidia）調降其下一代人工智慧（AI）晶片Rubin Ultra的高頻寬記 [&#8230;]",
+      "date": "2026-08-11T07:15:58+00:00",
+      "sourceId": "technews",
+      "cats": [
+        "market",
+        "process",
+        "material"
+      ]
+    },
+    {
+      "id": "0ce61cafec61",
+      "title": "弘塑集團代理日本先進鍵合及精密表面處理設備，布局先進封裝市場",
+      "link": "https://finance.technews.tw/2026/08/11/gptc-is-an-authorized-distributor-of-advanced-japanese-bonding-and-precision-surface-treatment-equipment/",
+      "summary": "人工智慧（AI）與高效能運算（HPC）持續推升先進封裝需求，隨著晶片堆疊、異質整合與背面供電等技術快速發展，鍵 [&#8230;]",
+      "date": "2026-08-11T07:00:46+00:00",
+      "sourceId": "technews",
+      "cats": [
+        "market",
+        "process",
+        "material"
+      ]
+    },
+    {
+      "id": "e696d800da79",
+      "title": "SK 海力士成為日本鎧俠最大股東，但難以取得投票權",
+      "link": "https://finance.technews.tw/2026/08/11/sk-hynix-becomes-the-largest-shareholder-of-kioxia/",
+      "summary": "根據日本經濟新聞的報導，根據日本最大 NAND Flash 快閃記憶體製造商鎧俠（Kioxia）發表官方公告， [&#8230;]",
+      "date": "2026-08-11T06:45:22+00:00",
+      "sourceId": "technews",
+      "cats": [
+        "market",
+        "process",
+        "material"
+      ]
+    },
+    {
+      "id": "f4ddcc994653",
+      "title": "台積電 5.5 倍光罩良率最高 99%、2029 年拚 14 倍！何軍揭先進封裝新挑戰",
+      "link": "https://technews.tw/2026/08/11/ocp-apac-summit-2026-tsmc/",
+      "summary": "OCP APAC 高峰會（2026 OCP APAC Summit）於今（11 日）盛大開幕，台積電先進封裝技 [&#8230;]",
+      "date": "2026-08-11T06:28:45+00:00",
+      "sourceId": "technews",
+      "cats": [
+        "market",
+        "process",
+        "material"
+      ]
+    },
+    {
+      "id": "cc8763455d70",
+      "title": "Amkor 強化 AI 封裝市場，考慮出售中國業務",
+      "link": "https://technews.tw/2026/08/11/amkor-strengthens-its-ai-packaging-market-considering-selling-its-china-business/",
+      "summary": "彭博社引用知情人士的消息報導指出，總部位於美國亞利桑那州的半導體外包封裝和測試服務（OSAT）大廠 Amkor [&#8230;]",
+      "date": "2026-08-11T06:15:02+00:00",
+      "sourceId": "technews",
+      "cats": [
+        "market",
+        "process",
+        "material"
+      ]
+    },
+    {
+      "id": "b45353eadc89",
+      "title": "手機漲價還沒完？三星：記憶體需求一兩年內仍強",
+      "link": "https://ccc.technews.tw/2026/08/11/memory-demand-not-cooling-down-samsung-ck-chen-mobile-phone-prices-pressure-1-2-years/",
+      "summary": "記憶體價格持續上揚，手機品牌成本壓力同步升高。台灣三星總經理陳啟蒙今（11）日表示，記憶體需求橫跨不同產業及裝 [&#8230;]",
+      "date": "2026-08-11T05:33:17+00:00",
+      "sourceId": "technews",
+      "cats": [
+        "market",
+        "process",
+        "material"
+      ]
+    },
+    {
       "id": "65cf5aaaed07",
       "title": "「開放不是選項，是必要條件！」代理 AI 改寫資料中心架構，AMD 談四關鍵",
       "link": "https://technews.tw/2026/08/11/ocp-apac-summit-2026-amd/",
       "summary": "AMD 運算與企業解決方案副總裁 Ravi Kuppuswamy 今（11 日）在 OCP APAC 高峰會（ [&#8230;]",
       "date": "2026-08-11T03:50:11+00:00",
-      "sourceId": "technews",
-      "cats": [
-        "market",
-        "process",
-        "material"
-      ]
-    },
-    {
-      "id": "0cd9283d6050",
-      "title": "提前達標「黃金良率」！三星 HBM4 良率衝上 80%，Q3 營收預估飆漲逾 3 倍",
-      "link": "https://technews.tw/2026/08/11/samsung-crosses-major-milestone-in-flagship-ai-memory-chip-production/",
-      "summary": "韓國三星電子在高頻寬記憶體（HBM）領域取得重大進展。根據韓國媒體報導，三星第六代 HBM4 的良率已接近 8 [&#8230;]",
-      "date": "2026-08-11T02:55:53+00:00",
-      "sourceId": "technews",
-      "cats": [
-        "market",
-        "process",
-        "material"
-      ]
-    },
-    {
-      "id": "c83853f1bbda",
-      "title": "東芝持續出售鎧俠股份、持股比重降至 14%",
-      "link": "https://finance.technews.tw/2026/08/11/toshiba-continues-selling-kioxia-shares-stake-reduced-to-14-percent/",
-      "summary": "東芝（Toshiba）為日本 NAND Flash 廠鎧俠（Kioxia）的大股東，不過東芝持續出售鎧俠股份， [&#8230;]",
-      "date": "2026-08-11T02:50:43+00:00",
-      "sourceId": "technews",
-      "cats": [
-        "market",
-        "process",
-        "material"
-      ]
-    },
-    {
-      "id": "767d0f22f952",
-      "title": "輝達 Rubin Ultra 傳測試降階 HBM4 版本，力解記憶體荒",
-      "link": "https://technews.tw/2026/08/11/nvidia-reportedly-testing-lower-memory-configs-of-rubin-ultra-as-memory-shortage-bites-back/",
-      "summary": "輝達（Nvidia）傳出正在測試 Rubin Ultra 的較低記憶體配置，以因應高頻寬記憶體（HBM）供應吃 [&#8230;]",
-      "date": "2026-08-11T02:40:50+00:00",
-      "sourceId": "technews",
-      "cats": [
-        "market",
-        "process",
-        "material"
-      ]
-    },
-    {
-      "id": "84cac326189c",
-      "title": "DRAM 缺貨屬實，郭明錤：但台積電未囤 10 億美元蘋果 2 奈米半成品",
-      "link": "https://finance.technews.tw/2026/08/11/memory-shortage-tsmc-2nm/",
-      "summary": "近期市場傳出台積電因 DRAM 供應吃緊，提前生產並囤積約 10 億美元蘋果 2 奈米處理器半成品，等待記憶體 [&#8230;]",
-      "date": "2026-08-11T02:22:05+00:00",
-      "sourceId": "technews",
-      "cats": [
-        "market",
-        "process",
-        "material"
-      ]
-    },
-    {
-      "id": "6ee10396a473",
-      "title": "AI 客戶搶走記憶體，蘋果想找長鑫存儲解圍又卡在產能",
-      "link": "https://finance.technews.tw/2026/08/11/ai-sever-apple-cxmt/",
-      "summary": "AI 浪潮讓 DRAM 供不應求，三星、SK 海力士與美光等記憶體大廠紛紛將產能優先留給出手闊綽的 AI 客戶 [&#8230;]",
-      "date": "2026-08-11T02:05:14+00:00",
-      "sourceId": "technews",
-      "cats": [
-        "market",
-        "process",
-        "material"
-      ]
-    },
-    {
-      "id": "11c030377d07",
-      "title": "油價急漲與費半重挫來襲！台股面臨開盤賣壓，聚焦 44,500 點防線與記憶體續航力",
-      "link": "https://finance.technews.tw/2026/08/11/oil-surge-philly-semi-plunge-taiex-selling-pressure-44500-support-memory-resilience/",
-      "summary": "10 日台股收在 44,226 點，三大法人同步買超 736 億元，外資單日狂掃 517.4 億元。然而隔夜中 [&#8230;]",
-      "date": "2026-08-11T02:00:26+00:00",
-      "sourceId": "technews",
-      "cats": [
-        "market",
-        "process",
-        "material"
-      ]
-    },
-    {
-      "id": "208a3b50bd02",
-      "title": "Sony 攜台積電攻下一代感測器，日經：降低投資負擔妙招",
-      "link": "https://technews.tw/2026/08/11/tsmc-takes-rare-step-of-teaming-with-sony-as-samsung-china-rivals-loom/",
-      "summary": "日本索尼集團為了控制投資負擔、提升資本效率，決定與台灣台積電共同投資，量產下一代影像感測器。日媒分析，這是因為 [&#8230;]",
-      "date": "2026-08-11T01:40:31+00:00",
       "sourceId": "technews",
       "cats": [
         "market",
