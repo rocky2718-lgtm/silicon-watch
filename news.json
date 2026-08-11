@@ -1,6 +1,6 @@
 {
-  "updated": "2026-08-11T20:55:36.524645+00:00",
-  "count": 17,
+  "updated": "2026-08-11T22:52:16.665026+00:00",
+  "count": 16,
   "sources": [
     {
       "id": "technews",
@@ -170,19 +170,6 @@
       "link": "https://www.eetimes.com/leading-edge-ai-ic-designs-demand-comprehensive-hav-methodologies/",
       "summary": "Learn how comprehensive hardware-assisted verification helps AI SoC teams accelerate RTL, software development and system validation. The post Leading-edge AI IC designs demand comprehensive HAV methodologies appeared first on EE Times.",
       "date": "2026-08-10T13:00:00+00:00",
-      "sourceId": "eetimes",
-      "cats": [
-        "process",
-        "material",
-        "equipment"
-      ]
-    },
-    {
-      "id": "8870e28e3faa",
-      "title": "BIWIN and Tera Indústria de Semicondutores Sign Strategic Partnership Agreement",
-      "link": "https://www.eetimes.com/biwin-and-tera-industria-de-semicondutores-sign-strategic-partnership-agreement/",
-      "summary": "Shenzhen, China / Manaus, Brazil – August 6th, 2026: BIWIN Semiconductor (HK) Company Limited (&#8220;BIWIN&#8221;), a global provider of memory and storage packaging solutions, and TERA INDÚSTRIA DE SEMICONDUTORES S.A. (&#8220;Tera&#8221;), a Brazil-based semiconductor memory packaging company, ann",
-      "date": "2026-08-07T16:08:31+00:00",
       "sourceId": "eetimes",
       "cats": [
         "process",
