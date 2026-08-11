@@ -1,6 +1,6 @@
 {
-  "updated": "2026-08-11T10:57:01.786182+00:00",
-  "count": 18,
+  "updated": "2026-08-11T13:21:58.358248+00:00",
+  "count": 17,
   "sources": [
     {
       "id": "technews",
@@ -144,19 +144,6 @@
       "link": "https://finance.technews.tw/2026/08/11/sk-hynix-becomes-the-largest-shareholder-of-kioxia/",
       "summary": "根據日本經濟新聞的報導，根據日本最大 NAND Flash 快閃記憶體製造商鎧俠（Kioxia）發表官方公告， [&#8230;]",
       "date": "2026-08-11T06:45:22+00:00",
-      "sourceId": "technews",
-      "cats": [
-        "market",
-        "process",
-        "material"
-      ]
-    },
-    {
-      "id": "f4ddcc994653",
-      "title": "台積電 5.5 倍光罩良率最高 99%、2029 年拚 14 倍！何軍揭先進封裝新挑戰",
-      "link": "https://technews.tw/2026/08/11/ocp-apac-summit-2026-tsmc/",
-      "summary": "OCP APAC 高峰會（2026 OCP APAC Summit）於今（11 日）盛大開幕，台積電先進封裝技 [&#8230;]",
-      "date": "2026-08-11T06:28:45+00:00",
       "sourceId": "technews",
       "cats": [
         "market",
