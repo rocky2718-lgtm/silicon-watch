@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-12T09:18:23.177288+00:00",
+  "updated": "2026-08-12T11:04:53.243326+00:00",
   "count": 13,
   "sources": [
     {
@@ -61,6 +61,19 @@
   ],
   "articles": [
     {
+      "id": "ae271391548a",
+      "title": "Sony-TSMC $4.7B Deal Helps Thwart Samsung, Analysts Say",
+      "link": "https://www.eetimes.com/sony-tsmc-4-7b-deal-helps-thwart-samsung-analysts-say/",
+      "summary": "Sony and TSMC have joined forces to counter Samsung's growing presence in smartphone image sensors, particularly for Apple. The post Sony-TSMC $4.7B Deal Helps Thwart Samsung, Analysts Say appeared first on EE Times.",
+      "date": "2026-08-12T10:06:27+00:00",
+      "sourceId": "eetimes",
+      "cats": [
+        "process",
+        "material",
+        "equipment"
+      ]
+    },
+    {
       "id": "b5c6fc075557",
       "title": "AI 顛覆半導體測試！京元電總經理張高薰：測試定位從供應鏈轉為製程核心",
       "link": "https://finance.technews.tw/2026/08/12/testing-focus-shifts-from-supply-chain-to-core-process/",
@@ -92,19 +105,6 @@
       "link": "https://technews.tw/2026/08/12/ap-memory-hires-former-qualcomm-vice-president-zhang-jian/",
       "summary": "全球客製化記憶體解決方案設計公司愛普科技 10 日宣布，延攬半導體產業資深人才張堅女士加入公司團隊。未來張堅將 [&#8230;]",
       "date": "2026-08-12T06:00:04+00:00",
-      "sourceId": "technews",
-      "cats": [
-        "market",
-        "process",
-        "material"
-      ]
-    },
-    {
-      "id": "cdafb37bd951",
-      "title": "NVIDIA 開放模型助攻 Agent，強化 DGX、RTX 平台深耕生態系",
-      "link": "https://technews.tw/2026/08/12/nvidia-and-local-ai-community-fuel-open-source-models-and-intelligent-agents/",
-      "summary": "開放的模型生態系使開發者和 AI 愛好者更能建置客製化、符合自身需求的 Agent 和 AI 應用，NVIDI [&#8230;]",
-      "date": "2026-08-12T04:55:10+00:00",
       "sourceId": "technews",
       "cats": [
         "market",
