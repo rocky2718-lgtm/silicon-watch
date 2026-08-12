@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-12T05:42:11.509958+00:00",
+  "updated": "2026-08-12T07:42:57.654725+00:00",
   "count": 13,
   "sources": [
     {
@@ -61,6 +61,32 @@
   ],
   "articles": [
     {
+      "id": "3c5b8695a1cb",
+      "title": "挪威主權基金最新持股含 SpaceX，另有台積電與輝達",
+      "link": "https://finance.technews.tw/2026/08/12/norway-sovereign-fund-latest-holdings-spacex-tsmc-nvidia/",
+      "summary": "全球規模最大的挪威主權財富基金，今天公布的持股中首次揭露擁有 SpaceX 0.05% 股份。截至 6 月 3 [&#8230;]",
+      "date": "2026-08-12T06:00:40+00:00",
+      "sourceId": "technews",
+      "cats": [
+        "market",
+        "process",
+        "material"
+      ]
+    },
+    {
+      "id": "85356757cc82",
+      "title": "愛普科技深化國際人才布局，延攬前高通副總裁張堅",
+      "link": "https://technews.tw/2026/08/12/ap-memory-hires-former-qualcomm-vice-president-zhang-jian/",
+      "summary": "全球客製化記憶體解決方案設計公司愛普科技 10 日宣布，延攬半導體產業資深人才張堅女士加入公司團隊。未來張堅將 [&#8230;]",
+      "date": "2026-08-12T06:00:04+00:00",
+      "sourceId": "technews",
+      "cats": [
+        "market",
+        "process",
+        "material"
+      ]
+    },
+    {
       "id": "cdafb37bd951",
       "title": "NVIDIA 開放模型助攻 Agent，強化 DGX、RTX 平台深耕生態系",
       "link": "https://technews.tw/2026/08/12/nvidia-and-local-ai-community-fuel-open-source-models-and-intelligent-agents/",
@@ -79,32 +105,6 @@
       "link": "https://technews.tw/2026/08/12/why-does-sk-hynix-want-to-sell-its-chip-facility-in-southwest-china/",
       "summary": "韓國記憶體大廠 SK 海力士（SK hynix）正評估出售位於中國西南部的重慶封裝廠。外界解讀，這是該公司將資 [&#8230;]",
       "date": "2026-08-12T04:30:29+00:00",
-      "sourceId": "technews",
-      "cats": [
-        "market",
-        "process",
-        "material"
-      ]
-    },
-    {
-      "id": "91fbf8f5236a",
-      "title": "麥可貝瑞再空 Palantir、喊內在價值不到 1 美元",
-      "link": "https://finance.technews.tw/2026/08/12/michael-burry-remains-bearish-on-palantir/",
-      "summary": "儘管矽谷大數據分析商 Palantir Technologies Inc. 近來繳出亮眼財報、股價強彈，電影〈 [&#8230;]",
-      "date": "2026-08-12T03:10:54+00:00",
-      "sourceId": "technews",
-      "cats": [
-        "market",
-        "process",
-        "material"
-      ]
-    },
-    {
-      "id": "328bf416f2ce",
-      "title": "陽明交大突破二維半導體介面瓶頸，為後矽時代晶片技術奠定基礎",
-      "link": "https://technews.tw/2026/08/12/national-chiao-tung-university-breaks-through-the-bottleneck-of-two-dimensional-semiconductor-interfaces/",
-      "summary": "包括手機、電腦，甚至未來的 AI 智慧裝置，都需要運算速度更快、耗電更低的半導體晶片。然而，傳統矽半導體技術， [&#8230;]",
-      "date": "2026-08-12T02:45:21+00:00",
       "sourceId": "technews",
       "cats": [
         "market",
