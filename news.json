@@ -1,6 +1,6 @@
 {
-  "updated": "2026-08-11T22:52:16.665026+00:00",
-  "count": 16,
+  "updated": "2026-08-12T02:32:57.145989+00:00",
+  "count": 21,
   "sources": [
     {
       "id": "technews",
@@ -61,6 +61,162 @@
   ],
   "articles": [
     {
+      "id": "a6436ec5d436",
+      "title": "Solidigm 重啟大連二期擴產，NAND 產能估增五成看向 2027 年量產",
+      "link": "https://technews.tw/2026/08/12/sk-hynix-to-expand-production-capacity-in-china-as-it-mulls-solidigm-ipo/",
+      "summary": "韓國記憶體大廠 SK 海力士（SK hynix）旗下 NAND 子公司 Solidigm，傳出已重啟中國大連工 [&#8230;]",
+      "date": "2026-08-12T02:20:45+00:00",
+      "sourceId": "technews",
+      "cats": [
+        "market",
+        "process",
+        "material"
+      ]
+    },
+    {
+      "id": "a9138fd41387",
+      "title": "三星 High-NA EUV 延後導入，預計 2030 助攻 1 奈米製程",
+      "link": "https://technews.tw/2026/08/12/samsung-high-na-euv-delay-1nm-process-2030/",
+      "summary": "三星電子（Samsung Electronics）在今年 NGL（Next-Generation Lithog [&#8230;]",
+      "date": "2026-08-12T02:05:38+00:00",
+      "sourceId": "technews",
+      "cats": [
+        "market",
+        "process",
+        "material"
+      ]
+    },
+    {
+      "id": "4e1598438876",
+      "title": "台積電史詩級資本支出護航！挑戰 45,000 關卡，CCL 與記憶體成資金雙核",
+      "link": "https://finance.technews.tw/2026/08/12/tsmc-epic-capex-safeguards-challenges-45000-mark-ccl-memory-dual-funding-cores/",
+      "summary": "11 日台股上漲 1.59% 收 44,928 點，外資連兩日回補累計 740 億元。隔夜美股三大指數微跌，但 [&#8230;]",
+      "date": "2026-08-12T02:00:29+00:00",
+      "sourceId": "technews",
+      "cats": [
+        "market",
+        "process",
+        "material"
+      ]
+    },
+    {
+      "id": "367ed0fac7d1",
+      "title": "大摩重申旺矽、穎崴優於大盤投資評等，但目標價看法兩家不同步",
+      "link": "https://finance.technews.tw/2026/08/12/morgan-stanley-reiterated-its-outperform-rating-on-mpi-and-winway/",
+      "summary": "隨著半導體測試市場焦點轉向多年度的規格升級大戲，AI 晶片封裝尺寸擴展與測試時間延長，將使測試耗材類股遊街龐大 [&#8230;]",
+      "date": "2026-08-12T01:50:28+00:00",
+      "sourceId": "technews",
+      "cats": [
+        "market",
+        "process",
+        "material"
+      ]
+    },
+    {
+      "id": "53f15bb37417",
+      "title": "AI 帶動現金流狂飆，三星、SK 海力士祭「股東回饋」撐股價",
+      "link": "https://finance.technews.tw/2026/08/12/peak-memory-fears-put-focus-on-samsung-sk-hynix-cash-returns/",
+      "summary": "韓國記憶體雙雄三星電子（Samsung Electronics）與 SK 海力士（SK hynix），正因人工 [&#8230;]",
+      "date": "2026-08-12T01:30:42+00:00",
+      "sourceId": "technews",
+      "cats": [
+        "market",
+        "process",
+        "material"
+      ]
+    },
+    {
+      "id": "09d02644aee6",
+      "title": "搶攻無毒光刻、無人載具！東友入股微影半導體布局設備本土化",
+      "link": "https://finance.technews.tw/2026/08/12/drone-group/",
+      "summary": "微影半導體近日宣布東友科技已完成對其策略性投資，雙方將在精密製造、光電技術、供應鏈管理、半導體設備、公司治理等 [&#8230;]",
+      "date": "2026-08-12T01:26:49+00:00",
+      "sourceId": "technews",
+      "cats": [
+        "market",
+        "process",
+        "material"
+      ]
+    },
+    {
+      "id": "e3c71c11ec1b",
+      "title": "傳輝達開發 Nemotron 4，挑戰全球頂尖開源模型",
+      "link": "https://technews.tw/2026/08/12/nvidia-building-1-trillion-parameter-nemotron-4-to-rival-open-ai-models/",
+      "summary": "美國科技媒體 The Information 今天引述參與專案的人士報導，人工智慧（AI）晶片大廠輝達正在開發 [&#8230;]",
+      "date": "2026-08-12T01:20:07+00:00",
+      "sourceId": "technews",
+      "cats": [
+        "market",
+        "process",
+        "material"
+      ]
+    },
+    {
+      "id": "8b987ba14103",
+      "title": "CoreWeave 財測夯、輝達 GPU 定價／毛利創高  盤後嗨",
+      "link": "https://finance.technews.tw/2026/08/12/coreweave-reports-strong-second-quarter-2026-results/",
+      "summary": "與輝達（Nvidia Corp.）深度合作的雲端運算服務商 CoreWeave 最新公布的第二季（4-6 月） [&#8230;]",
+      "date": "2026-08-12T00:40:15+00:00",
+      "sourceId": "technews",
+      "cats": [
+        "market",
+        "process",
+        "material"
+      ]
+    },
+    {
+      "id": "7c963b6df06c",
+      "title": "英特爾募資加碼至約 200 億美元，擴大晶圓代工版圖",
+      "link": "https://finance.technews.tw/2026/08/12/tsmc-sets-precedent-dollar-denominated-dividends-spread/",
+      "summary": "英特爾宣布擴大普通股公開發行規模，將發行約 2.11 億股普通股，每股發行價 95 美元，募資規模約 200 [&#8230;]",
+      "date": "2026-08-12T00:32:11+00:00",
+      "sourceId": "technews",
+      "cats": [
+        "market",
+        "process",
+        "material"
+      ]
+    },
+    {
+      "id": "3952b612fc50",
+      "title": "記憶體價格暴漲連帶 Windows 也遭殃？",
+      "link": "https://technews.tw/2026/08/12/memory-price-surge-windows-affected/",
+      "summary": "記憶體價格暴漲讓今年 PC 市場不好過已不是新聞，但連身為軟體的作業系統，特別是微軟 Windows 都受波及 [&#8230;]",
+      "date": "2026-08-12T00:00:27+00:00",
+      "sourceId": "technews",
+      "cats": [
+        "market",
+        "process",
+        "material"
+      ]
+    },
+    {
+      "id": "7b95d924b27f",
+      "title": "台積電開先例，美元配息可望擴散",
+      "link": "https://finance.technews.tw/2026/08/12/tsmc-precedent-us-dollar-dividends-spread/",
+      "summary": "台股股利制度接軌國際。台積電宣布，自 2026 年第二季股利分派起，符合資格的外資股東可選擇以美元收取現金股利 [&#8230;]",
+      "date": "2026-08-11T23:46:40+00:00",
+      "sourceId": "technews",
+      "cats": [
+        "market",
+        "process",
+        "material"
+      ]
+    },
+    {
+      "id": "c9274ebdebf6",
+      "title": "台積電核准 294 億美元資本預算，布局先進製程與封裝打破市場對 AI 發展憂慮",
+      "link": "https://finance.technews.tw/2026/08/12/tsmc-approves-us29-4-billion-capital-budget/",
+      "summary": "儘管市場近期對人工智慧（AI）基礎建設支出的持續性產生疑慮，導致全球半導體類股承壓，但全球晶圓代工龍頭台積電卻 [&#8230;]",
+      "date": "2026-08-11T23:15:59+00:00",
+      "sourceId": "technews",
+      "cats": [
+        "market",
+        "process",
+        "material"
+      ]
+    },
+    {
       "id": "9eeb586f5da4",
       "title": "AMD Challenges GPU-Centric Architectures as It Takes Aim at Nvidia in Robotics",
       "link": "https://www.eetimes.com/amd-challenges-gpu-centric-architectures-as-it-takes-aim-at-nvidia-in-robotics/",
@@ -71,97 +227,6 @@
         "process",
         "material",
         "equipment"
-      ]
-    },
-    {
-      "id": "c284235788e2",
-      "title": "AI 資料中心建設狂潮！從晶片設備到電力散熱，下檔投資新藍海一次看",
-      "link": "https://finance.technews.tw/2026/08/11/a-fortune-guide-to-buying-stocks-in-the-data-center-economy/",
-      "summary": "AI 資料中心建設熱潮持續升溫，雲端巨頭為追趕人工智慧服務需求，正將數千億美元資本支出投入資料中心、晶片、電力 [&#8230;]",
-      "date": "2026-08-11T09:50:04+00:00",
-      "sourceId": "technews",
-      "cats": [
-        "market",
-        "process",
-        "material"
-      ]
-    },
-    {
-      "id": "8e29f92d018f",
-      "title": "自家人都不挺！韓系劵商下修三星與 SK 海力士目標價",
-      "link": "https://finance.technews.tw/2026/08/11/korean-brokerages-lower-target-prices-for-samsung-and-sk-hynix/",
-      "summary": "韓國半導體兩大龍頭三星電子與 SK 海力士近期遭到多家證券機構大幅調降目標價。市場分析指出，這波降評潮始於今年 [&#8230;]",
-      "date": "2026-08-11T08:15:22+00:00",
-      "sourceId": "technews",
-      "cats": [
-        "market",
-        "process",
-        "material"
-      ]
-    },
-    {
-      "id": "30eac2d8e5ad",
-      "title": "GaN 專利戰升溫！納微反告瑞薩侵權，雙方不到一個月互告",
-      "link": "https://technews.tw/2026/08/11/gan-patent-war-escalates-navitas-countersues-renesas-infringement-mutual-lawsuits-in-month/",
-      "summary": "第三類半導體市場競爭升溫，戰火也延伸至專利領域。氮化鎵（GaN）與碳化矽（SiC）功率半導體廠商納微半導體宣布 [&#8230;]",
-      "date": "2026-08-11T07:54:26+00:00",
-      "sourceId": "technews",
-      "cats": [
-        "market",
-        "process",
-        "material"
-      ]
-    },
-    {
-      "id": "da6c1212c06b",
-      "title": "矽品雲林斗六新廠動土，第一期預計 2028 年完工將導入 CoWoS 先進封裝",
-      "link": "https://technews.tw/2026/08/11/siliconware-breaks-ground-on-new-plant-in-douliu-yunlin/",
-      "summary": "迎向全球 AI 與高效能運算的爆發性需求，日月光投控旗下封測大廠矽品精密 11 日於雲林斗六基地舉行「斗六新廠 [&#8230;]",
-      "date": "2026-08-11T07:50:50+00:00",
-      "sourceId": "technews",
-      "cats": [
-        "market",
-        "process",
-        "material"
-      ]
-    },
-    {
-      "id": "e9c02551fc92",
-      "title": "即便輝達調降 Rubin Ultra 晶片 HBM 容量，2027 年 HBM 仍供不應求",
-      "link": "https://finance.technews.tw/2026/08/11/hbm-will-still-be-in-short-supply-in-2027/",
-      "summary": "根據市場最新分析指出，即便輝達（Nvidia）調降其下一代人工智慧（AI）晶片 Rubin Ultra 的高頻 [&#8230;]",
-      "date": "2026-08-11T07:15:58+00:00",
-      "sourceId": "technews",
-      "cats": [
-        "market",
-        "process",
-        "material"
-      ]
-    },
-    {
-      "id": "0ce61cafec61",
-      "title": "弘塑集團代理日本先進鍵合及精密表面處理設備，布局先進封裝市場",
-      "link": "https://finance.technews.tw/2026/08/11/gptc-is-an-authorized-distributor-of-advanced-japanese-bonding-and-precision-surface-treatment-equipment/",
-      "summary": "人工智慧（AI）與高效能運算（HPC）持續推升先進封裝需求，隨著晶片堆疊、異質整合與背面供電等技術快速發展，鍵 [&#8230;]",
-      "date": "2026-08-11T07:00:46+00:00",
-      "sourceId": "technews",
-      "cats": [
-        "market",
-        "process",
-        "material"
-      ]
-    },
-    {
-      "id": "e696d800da79",
-      "title": "SK 海力士成為日本鎧俠最大股東，但難以取得投票權",
-      "link": "https://finance.technews.tw/2026/08/11/sk-hynix-becomes-the-largest-shareholder-of-kioxia/",
-      "summary": "根據日本經濟新聞的報導，根據日本最大 NAND Flash 快閃記憶體製造商鎧俠（Kioxia）發表官方公告， [&#8230;]",
-      "date": "2026-08-11T06:45:22+00:00",
-      "sourceId": "technews",
-      "cats": [
-        "market",
-        "process",
-        "material"
       ]
     },
     {
