@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-12T07:42:57.654725+00:00",
+  "updated": "2026-08-12T09:18:23.177288+00:00",
   "count": 13,
   "sources": [
     {
@@ -61,6 +61,19 @@
   ],
   "articles": [
     {
+      "id": "b5c6fc075557",
+      "title": "AI 顛覆半導體測試！京元電總經理張高薰：測試定位從供應鏈轉為製程核心",
+      "link": "https://finance.technews.tw/2026/08/12/testing-focus-shifts-from-supply-chain-to-core-process/",
+      "summary": "隨著人工智慧（AI）科技強勢崛起，半導體產業正迎來前所未有的轉型與挑戰。京元電子總經理張高薰在SEMICON [&#8230;]",
+      "date": "2026-08-12T07:50:45+00:00",
+      "sourceId": "technews",
+      "cats": [
+        "market",
+        "process",
+        "material"
+      ]
+    },
+    {
       "id": "3c5b8695a1cb",
       "title": "挪威主權基金最新持股含 SpaceX，另有台積電與輝達",
       "link": "https://finance.technews.tw/2026/08/12/norway-sovereign-fund-latest-holdings-spacex-tsmc-nvidia/",
@@ -92,19 +105,6 @@
       "link": "https://technews.tw/2026/08/12/nvidia-and-local-ai-community-fuel-open-source-models-and-intelligent-agents/",
       "summary": "開放的模型生態系使開發者和 AI 愛好者更能建置客製化、符合自身需求的 Agent 和 AI 應用，NVIDI [&#8230;]",
       "date": "2026-08-12T04:55:10+00:00",
-      "sourceId": "technews",
-      "cats": [
-        "market",
-        "process",
-        "material"
-      ]
-    },
-    {
-      "id": "a8e904901816",
-      "title": "告別低毛利業務？SK 海力士傳脫手中國封裝廠押注 HBM",
-      "link": "https://technews.tw/2026/08/12/why-does-sk-hynix-want-to-sell-its-chip-facility-in-southwest-china/",
-      "summary": "韓國記憶體大廠 SK 海力士（SK hynix）正評估出售位於中國西南部的重慶封裝廠。外界解讀，這是該公司將資 [&#8230;]",
-      "date": "2026-08-12T04:30:29+00:00",
       "sourceId": "technews",
       "cats": [
         "market",
