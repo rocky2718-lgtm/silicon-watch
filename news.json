@@ -1,6 +1,6 @@
 {
-  "updated": "2026-08-12T17:03:59.830358+00:00",
-  "count": 13,
+  "updated": "2026-08-12T19:11:52.902782+00:00",
+  "count": 12,
   "sources": [
     {
       "id": "technews",
@@ -118,19 +118,6 @@
       "link": "https://www.eetimes.com/amd-challenges-gpu-centric-architectures-as-it-takes-aim-at-nvidia-in-robotics/",
       "summary": "AMD’s new SoC for robots combines CPU, GPU, NPU on one chip with unified memory. The post AMD Challenges GPU-Centric Architectures as It Takes Aim at Nvidia in Robotics appeared first on EE Times.",
       "date": "2026-08-11T14:09:45+00:00",
-      "sourceId": "eetimes",
-      "cats": [
-        "process",
-        "material",
-        "equipment"
-      ]
-    },
-    {
-      "id": "04a062b13296",
-      "title": "Leading-edge AI IC designs demand comprehensive HAV methodologies",
-      "link": "https://www.eetimes.com/leading-edge-ai-ic-designs-demand-comprehensive-hav-methodologies/",
-      "summary": "Learn how comprehensive hardware-assisted verification helps AI SoC teams accelerate RTL, software development and system validation. The post Leading-edge AI IC designs demand comprehensive HAV methodologies appeared first on EE Times.",
-      "date": "2026-08-10T13:00:00+00:00",
       "sourceId": "eetimes",
       "cats": [
         "process",
