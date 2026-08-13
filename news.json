@@ -1,6 +1,6 @@
 {
-  "updated": "2026-08-13T11:04:38.851069+00:00",
-  "count": 17,
+  "updated": "2026-08-13T13:34:51.462400+00:00",
+  "count": 18,
   "sources": [
     {
       "id": "technews",
@@ -60,6 +60,19 @@
     }
   ],
   "articles": [
+    {
+      "id": "72d47c373a5e",
+      "title": "Using Agents to Maximize NVIDIA Jetson Memory Usage at the Edge",
+      "link": "https://www.eetimes.com/using-agents-to-maximize-nvidia-jetson-memory-usage-at-the-edge/",
+      "summary": "Discover how NVIDIA Jetson's software optimization stack can reclaim significant memory, enabling teams to run bigger AI workloads at a lower module cost. The post Using Agents to Maximize NVIDIA Jetson Memory Usage at the Edge appeared first on EE Times.",
+      "date": "2026-08-13T12:00:00+00:00",
+      "sourceId": "eetimes",
+      "cats": [
+        "process",
+        "material",
+        "equipment"
+      ]
+    },
     {
       "id": "9f0c4bac9377",
       "title": "群聯邁入 3.0 時代！潘健成揭露從晶片控制到企業級地端總體解決方案的轉型",
