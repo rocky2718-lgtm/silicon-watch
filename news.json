@@ -1,6 +1,6 @@
 {
-  "updated": "2026-08-13T02:34:28.386474+00:00",
-  "count": 19,
+  "updated": "2026-08-13T05:44:55.147444+00:00",
+  "count": 15,
   "sources": [
     {
       "id": "technews",
@@ -61,6 +61,45 @@
   ],
   "articles": [
     {
+      "id": "a52124a8cd07",
+      "title": "英特爾如何藉先進封裝挑戰台積電 AI 製造龍頭，Foveros 3D、EMIB-T 技術曝光",
+      "link": "https://finance.technews.tw/2026/08/13/intels-foveros-3d-and-emib-t-technologies-were-unveiled/",
+      "summary": "隨著人工智慧 （AI） 對晶片運算能力的需求達到前所未有的高度，半導體產業正正式告別依賴單一巨大晶片的時代。先 [&#8230;]",
+      "date": "2026-08-13T04:00:59+00:00",
+      "sourceId": "technews",
+      "cats": [
+        "market",
+        "process",
+        "material"
+      ]
+    },
+    {
+      "id": "77be579bb7fa",
+      "title": "高通 Snapdragon C 規格曝光！電池續航、能效大勝 Intel N250",
+      "link": "https://technews.tw/2026/08/13/qualcomm-snapdragon-c-detail/",
+      "summary": "高通 Snapdragon C 平台近期出現更多產品細節，該平台做為入門級處理器，主要鎖定售價約 300 美元 [&#8230;]",
+      "date": "2026-08-13T03:50:23+00:00",
+      "sourceId": "technews",
+      "cats": [
+        "market",
+        "process",
+        "material"
+      ]
+    },
+    {
+      "id": "627ef604815e",
+      "title": "麥可貝瑞遭軋空？Nebius 財報報喜、股價飆 34%",
+      "link": "https://finance.technews.tw/2026/08/13/nebius-surges-34-on-strong-earnings-report/",
+      "summary": "輝達（Nvidia）擁有近 10% 股權的荷蘭 AI 基礎建設供應商 Nebius Group 最新公布的第二 [&#8230;]",
+      "date": "2026-08-13T03:00:09+00:00",
+      "sourceId": "technews",
+      "cats": [
+        "market",
+        "process",
+        "material"
+      ]
+    },
+    {
       "id": "e977a650591b",
       "title": "輝達推「AI 路由器」NeMo Switchyard，精準分流助企業狂降 74% 成本",
       "link": "https://technews.tw/2026/08/13/nvidia-ai-router-reduces-enterprise-costs/",
@@ -92,97 +131,6 @@
       "link": "https://technews.tw/2026/08/13/intel-ceo-hints-at-return-to-the-memory-business/",
       "summary": "英特爾（Intel）執行長陳立武近日表示，記憶體已不再只是「商品化」業務，而是重新成為具戰略意義的領域，並暗示 [&#8230;]",
       "date": "2026-08-13T02:05:02+00:00",
-      "sourceId": "technews",
-      "cats": [
-        "market",
-        "process",
-        "material"
-      ]
-    },
-    {
-      "id": "08fa637ffe79",
-      "title": "Coherent 財測優  CEO：資料中心日益轉向光通訊",
-      "link": "https://finance.technews.tw/2026/08/13/coherent-corp-reports-fourth-quarter-and-full-year-fiscal-2026-results/",
-      "summary": "輝達（Nvidia Corp.）矽光子共同封裝光學（CPO）供應夥伴 Coherent Corp. 最新公布的 [&#8230;]",
-      "date": "2026-08-13T01:40:36+00:00",
-      "sourceId": "technews",
-      "cats": [
-        "market",
-        "process",
-        "material"
-      ]
-    },
-    {
-      "id": "676037599603",
-      "title": "美推「矽盛世」倡議新計畫，5,000 萬美元外援加速盟友間 AI 關鍵產品流通",
-      "link": "https://technews.tw/2026/08/13/us-launches-effort-to-speed-trade-in-ai-goods-between-allies/",
-      "summary": "美國國務院今天表示，將在巴拿馬建立試行平台，以加速與盟友間的 AI 關鍵產品貿易。這項計畫是美國所主導「矽盛世 [&#8230;]",
-      "date": "2026-08-13T01:35:12+00:00",
-      "sourceId": "technews",
-      "cats": [
-        "market",
-        "process",
-        "material"
-      ]
-    },
-    {
-      "id": "fbeefa94c22e",
-      "title": "MSCI 台股權重「三級跳」狂勝印度！中國 A 股 31 檔新血確立半導體主線",
-      "link": "https://finance.technews.tw/2026/08/13/standard-stocks/",
-      "summary": "MSCI（明晟）最新季度調整出爐，全球標準型指數台股成分股，新增景碩、南亞科、群聯等 6 檔；全球小型股指數台 [&#8230;]",
-      "date": "2026-08-13T01:28:00+00:00",
-      "sourceId": "technews",
-      "cats": [
-        "market",
-        "process",
-        "material"
-      ]
-    },
-    {
-      "id": "9f7fc7c6fbfe",
-      "title": "AI 晶片新秀 Cerebras 財報未達預期  盤後崩近 16%",
-      "link": "https://finance.technews.tw/2026/08/13/cerebras-systems-fast-inference-cloud-business-nearly-quadruples-in-second-quarter-2026/",
-      "summary": "美國 AI 晶片新創公司 Cerebras 財報表現讓市場失望，積壓訂單未見明顯成長，盤後股價崩跌逾 16%。 [&#8230;]",
-      "date": "2026-08-13T01:20:25+00:00",
-      "sourceId": "technews",
-      "cats": [
-        "market",
-        "process",
-        "material"
-      ]
-    },
-    {
-      "id": "e8b42978373c",
-      "title": "超越鎧俠、美光，長江存儲 NAND 市占首登上全球前三",
-      "link": "https://technews.tw/2026/08/13/trendforce-counterpoint-see-nand-flash/",
-      "summary": "隨著 AI 工作負載由訓練逐步轉向推論，帶動企業級 SSD 在 2026 年第二季占全球 NAND 快閃記憶體 [&#8230;]",
-      "date": "2026-08-13T01:02:51+00:00",
-      "sourceId": "technews",
-      "cats": [
-        "market",
-        "process",
-        "material"
-      ]
-    },
-    {
-      "id": "c56f45293509",
-      "title": "SK 海力士印第安納州廠 8/27 動土、2028 下半年量產",
-      "link": "https://technews.tw/2026/08/13/sk-hynix-west-lafayette/",
-      "summary": "韓國記憶體大廠 SK 海力士（SK hynix）將於 8 月 27 日為美國印第安納州西拉法葉（West La [&#8230;]",
-      "date": "2026-08-13T01:00:37+00:00",
-      "sourceId": "technews",
-      "cats": [
-        "market",
-        "process",
-        "material"
-      ]
-    },
-    {
-      "id": "477b42190f21",
-      "title": "Pasqal 攜手 Aeponyx 創量子運算里程碑，首度以光子晶片成功捕獲單一原子",
-      "link": "https://technews.tw/2026/08/13/pasqal-aeponyx-single-atom-capture-photonic-chip/",
-      "summary": "量子運算公司 Pasqal 8 月 10 日宣布，已成功利用光子積體電路（PIC）產生的雷射光，將單一原子捕獲 [&#8230;]",
-      "date": "2026-08-13T00:30:39+00:00",
       "sourceId": "technews",
       "cats": [
         "market",
