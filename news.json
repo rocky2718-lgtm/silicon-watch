@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-13T09:19:22.899626+00:00",
+  "updated": "2026-08-13T11:04:38.851069+00:00",
   "count": 17,
   "sources": [
     {
@@ -60,6 +60,32 @@
     }
   ],
   "articles": [
+    {
+      "id": "9f0c4bac9377",
+      "title": "群聯邁入 3.0 時代！潘健成揭露從晶片控制到企業級地端總體解決方案的轉型",
+      "link": "https://finance.technews.tw/2026/08/13/phisons-transformation-from-chip-control-to-enterprise-level-grounding-solutions/",
+      "summary": "群聯電子執行長潘健成指出，AI正在改變數據的輸出規模，未來將創造出Terabyte（TB）等級的龐大內容，這也 [&#8230;]",
+      "date": "2026-08-13T10:30:56+00:00",
+      "sourceId": "technews",
+      "cats": [
+        "market",
+        "process",
+        "material"
+      ]
+    },
+    {
+      "id": "4f8b5981e8b0",
+      "title": "群聯第二季營收獲利創新高，單季賺近 12 個股本 EPS 大爆發達 118.57 元",
+      "link": "https://finance.technews.tw/2026/08/13/phisons-second-quarter-revenue-and-profit-hit-record-highs/",
+      "summary": "NAND 控制晶片與儲存解決方案領導廠商群聯電子公布第二季合併財務報告。在 AI 相關應用需求持續強勁的帶動下 [&#8230;]",
+      "date": "2026-08-13T10:00:58+00:00",
+      "sourceId": "technews",
+      "cats": [
+        "market",
+        "process",
+        "material"
+      ]
+    },
     {
       "id": "4635709da08e",
       "title": "美國加緊查緝中國取得 AI 算利管道，當前重點防堵租用海外算力",
@@ -131,32 +157,6 @@
       "link": "https://finance.technews.tw/2026/08/13/morgan-stanley-praises-samsung-electro-mechanics-top-pick-stock-soars-15-intraday/",
       "summary": "三星電機（Samsung Electro-Mechanics）今（13）日股價強勢大漲，主要受到摩根士丹利點名 [&#8230;]",
       "date": "2026-08-13T05:50:25+00:00",
-      "sourceId": "technews",
-      "cats": [
-        "market",
-        "process",
-        "material"
-      ]
-    },
-    {
-      "id": "a52124a8cd07",
-      "title": "英特爾如何藉先進封裝挑戰台積電 AI 製造龍頭，Foveros 3D、EMIB-T 技術曝光",
-      "link": "https://finance.technews.tw/2026/08/13/intels-foveros-3d-and-emib-t-technologies-were-unveiled/",
-      "summary": "隨著人工智慧 （AI） 對晶片運算能力的需求達到前所未有的高度，半導體產業正正式告別依賴單一巨大晶片的時代。先 [&#8230;]",
-      "date": "2026-08-13T04:00:59+00:00",
-      "sourceId": "technews",
-      "cats": [
-        "market",
-        "process",
-        "material"
-      ]
-    },
-    {
-      "id": "77be579bb7fa",
-      "title": "高通 Snapdragon C 規格曝光！電池續航、能效大勝 Intel N250",
-      "link": "https://technews.tw/2026/08/13/qualcomm-snapdragon-c-detail/",
-      "summary": "高通 Snapdragon C 平台近期出現更多產品細節，該平台做為入門級處理器，主要鎖定售價約 300 美元 [&#8230;]",
-      "date": "2026-08-13T03:50:23+00:00",
       "sourceId": "technews",
       "cats": [
         "market",
