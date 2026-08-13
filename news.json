@@ -1,6 +1,6 @@
 {
-  "updated": "2026-08-13T07:45:11.076121+00:00",
-  "count": 13,
+  "updated": "2026-08-13T09:19:22.899626+00:00",
+  "count": 17,
   "sources": [
     {
       "id": "technews",
@@ -61,6 +61,71 @@
   ],
   "articles": [
     {
+      "id": "4635709da08e",
+      "title": "美國加緊查緝中國取得 AI 算利管道，當前重點防堵租用海外算力",
+      "link": "https://finance.technews.tw/2026/08/13/the-us-is-intensifying-its-investigation-into-chinese-access-to-ai-computing-resources/",
+      "summary": "美國白宮對中國禁運輝達（Nvidia）先進晶片的政策，目前正面臨一個因 「地理位置」 的重大漏洞。當前中國 A [&#8230;]",
+      "date": "2026-08-13T09:15:28+00:00",
+      "sourceId": "technews",
+      "cats": [
+        "market",
+        "process",
+        "material"
+      ]
+    },
+    {
+      "id": "24fb4fb4b0b0",
+      "title": "記憶體漲太兇衝擊消費需求，元太：全年營收成長下修至 10%~15%",
+      "link": "https://finance.technews.tw/2026/08/13/e-ink-holdings-2026-q2-earnings/",
+      "summary": "元太科技 13 日召開法說會，儘管 2026 上半年營收、營業利益及淨利均創歷年新高，但受到記憶體漲價，衝擊電 [&#8230;]",
+      "date": "2026-08-13T09:09:34+00:00",
+      "sourceId": "technews",
+      "cats": [
+        "market",
+        "process",
+        "material"
+      ]
+    },
+    {
+      "id": "c8262ed2cb87",
+      "title": "聯亞 Q2 每股賺 4.62 元、創單季新高！本季獲利看好增逾兩成",
+      "link": "https://finance.technews.tw/2026/08/13/lmoc-2026-q2-financial-report/",
+      "summary": "聯亞 12 日舉辦第二季法說會，公布第二季及上半年財報。展望第三季，聯亞表示，受惠矽光產品需求強勁，隨著公司跟 [&#8230;]",
+      "date": "2026-08-13T08:54:29+00:00",
+      "sourceId": "technews",
+      "cats": [
+        "market",
+        "process",
+        "material"
+      ]
+    },
+    {
+      "id": "284c310d0f2a",
+      "title": "至上電子整合記憶體、散熱、供電與監控，打造完整 AI 基礎架構方案",
+      "link": "https://technews.tw/2026/08/13/supreme-electronics-integrates-memory-for-ai/",
+      "summary": "代理式 AI、高效運算（HPC）及大型語言模型（LLM）快速發展，帶動企業加速建置 AI 資料中心。而這股熱潮 [&#8230;]",
+      "date": "2026-08-13T08:36:46+00:00",
+      "sourceId": "technews",
+      "cats": [
+        "market",
+        "process",
+        "material"
+      ]
+    },
+    {
+      "id": "ffb3e504aaf6",
+      "title": "加速 AI 工廠部署，施耐德電機攜手 AMD 共同發表首款 Helios 機櫃級參考設計",
+      "link": "https://technews.tw/2026/08/13/schneider-electric-and-amd-jointly-announced-the-first-helios-rack-mount-reference-design/",
+      "summary": "法商施耐德電機與半導體大廠 AMD 共同宣布，正式開發並完成驗證的 AMD Helios 機櫃級解決方案參考設 [&#8230;]",
+      "date": "2026-08-13T08:15:45+00:00",
+      "sourceId": "technews",
+      "cats": [
+        "market",
+        "process",
+        "material"
+      ]
+    },
+    {
       "id": "ddefe895b97d",
       "title": "大摩按讚三星電機列首選  今盤中股價狂飆逾 15%",
       "link": "https://finance.technews.tw/2026/08/13/morgan-stanley-praises-samsung-electro-mechanics-top-pick-stock-soars-15-intraday/",
@@ -92,19 +157,6 @@
       "link": "https://technews.tw/2026/08/13/qualcomm-snapdragon-c-detail/",
       "summary": "高通 Snapdragon C 平台近期出現更多產品細節，該平台做為入門級處理器，主要鎖定售價約 300 美元 [&#8230;]",
       "date": "2026-08-13T03:50:23+00:00",
-      "sourceId": "technews",
-      "cats": [
-        "market",
-        "process",
-        "material"
-      ]
-    },
-    {
-      "id": "627ef604815e",
-      "title": "麥可貝瑞遭軋空？Nebius 財報報喜、股價飆 34%",
-      "link": "https://finance.technews.tw/2026/08/13/nebius-surges-34-on-strong-earnings-report/",
-      "summary": "輝達（Nvidia）擁有近 10% 股權的荷蘭 AI 基礎建設供應商 Nebius Group 最新公布的第二 [&#8230;]",
-      "date": "2026-08-13T03:00:09+00:00",
       "sourceId": "technews",
       "cats": [
         "market",
