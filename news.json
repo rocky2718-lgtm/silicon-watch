@@ -1,6 +1,6 @@
 {
-  "updated": "2026-08-13T05:44:55.147444+00:00",
-  "count": 15,
+  "updated": "2026-08-13T07:45:11.076121+00:00",
+  "count": 13,
   "sources": [
     {
       "id": "technews",
@@ -61,6 +61,19 @@
   ],
   "articles": [
     {
+      "id": "ddefe895b97d",
+      "title": "大摩按讚三星電機列首選  今盤中股價狂飆逾 15%",
+      "link": "https://finance.technews.tw/2026/08/13/morgan-stanley-praises-samsung-electro-mechanics-top-pick-stock-soars-15-intraday/",
+      "summary": "三星電機（Samsung Electro-Mechanics）今（13）日股價強勢大漲，主要受到摩根士丹利點名 [&#8230;]",
+      "date": "2026-08-13T05:50:25+00:00",
+      "sourceId": "technews",
+      "cats": [
+        "market",
+        "process",
+        "material"
+      ]
+    },
+    {
       "id": "a52124a8cd07",
       "title": "英特爾如何藉先進封裝挑戰台積電 AI 製造龍頭，Foveros 3D、EMIB-T 技術曝光",
       "link": "https://finance.technews.tw/2026/08/13/intels-foveros-3d-and-emib-t-technologies-were-unveiled/",
@@ -92,45 +105,6 @@
       "link": "https://finance.technews.tw/2026/08/13/nebius-surges-34-on-strong-earnings-report/",
       "summary": "輝達（Nvidia）擁有近 10% 股權的荷蘭 AI 基礎建設供應商 Nebius Group 最新公布的第二 [&#8230;]",
       "date": "2026-08-13T03:00:09+00:00",
-      "sourceId": "technews",
-      "cats": [
-        "market",
-        "process",
-        "material"
-      ]
-    },
-    {
-      "id": "e977a650591b",
-      "title": "輝達推「AI 路由器」NeMo Switchyard，精準分流助企業狂降 74% 成本",
-      "link": "https://technews.tw/2026/08/13/nvidia-ai-router-reduces-enterprise-costs/",
-      "summary": "為了有效降低企業高昂的 AI 支出，輝達（Nvidia）本週正式推出 NeMo Switchyard 與 Ne [&#8230;]",
-      "date": "2026-08-13T02:30:55+00:00",
-      "sourceId": "technews",
-      "cats": [
-        "market",
-        "process",
-        "material"
-      ]
-    },
-    {
-      "id": "4fcba0b88589",
-      "title": "突破產能與良率瓶頸，三星、SK 海力士掀起半導體設備 AI 化革命",
-      "link": "https://technews.tw/2026/08/13/samsung-sk-hynix-ai-agent-kpi/",
-      "summary": "三星電子與 SK 海力士正全面加速於半導體製造設備中導入「人工智慧代理」（AI agent），並已進入實機場域 [&#8230;]",
-      "date": "2026-08-13T02:10:25+00:00",
-      "sourceId": "technews",
-      "cats": [
-        "market",
-        "process",
-        "material"
-      ]
-    },
-    {
-      "id": "359cc5ae667b",
-      "title": "陳立武：記憶體不再是「商品」，英特爾評估堆疊新架構",
-      "link": "https://technews.tw/2026/08/13/intel-ceo-hints-at-return-to-the-memory-business/",
-      "summary": "英特爾（Intel）執行長陳立武近日表示，記憶體已不再只是「商品化」業務，而是重新成為具戰略意義的領域，並暗示 [&#8230;]",
-      "date": "2026-08-13T02:05:02+00:00",
       "sourceId": "technews",
       "cats": [
         "market",
