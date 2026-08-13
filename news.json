@@ -1,6 +1,6 @@
 {
-  "updated": "2026-08-13T17:03:44.467826+00:00",
-  "count": 17,
+  "updated": "2026-08-13T19:12:44.006040+00:00",
+  "count": 16,
   "sources": [
     {
       "id": "technews",
@@ -175,19 +175,6 @@
         "market",
         "process",
         "material"
-      ]
-    },
-    {
-      "id": "ae271391548a",
-      "title": "Sony-TSMC $4.7B Deal Helps Thwart Samsung, Analysts Say",
-      "link": "https://www.eetimes.com/sony-tsmc-4-7b-deal-helps-thwart-samsung-analysts-say/",
-      "summary": "Sony and TSMC have joined forces to counter Samsung's growing presence in smartphone image sensors, particularly for Apple. The post Sony-TSMC $4.7B Deal Helps Thwart Samsung, Analysts Say appeared first on EE Times.",
-      "date": "2026-08-12T10:06:27+00:00",
-      "sourceId": "eetimes",
-      "cats": [
-        "process",
-        "material",
-        "equipment"
       ]
     },
     {
