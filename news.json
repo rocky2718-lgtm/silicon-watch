@@ -1,6 +1,6 @@
 {
-  "updated": "2026-08-14T02:32:59.134481+00:00",
-  "count": 18,
+  "updated": "2026-08-14T05:42:16.674263+00:00",
+  "count": 16,
   "sources": [
     {
       "id": "technews",
@@ -61,6 +61,71 @@
   ],
   "articles": [
     {
+      "id": "ce45959cc5aa",
+      "title": "寒武紀：第六代晶片架構研發中，聚焦優化大模型",
+      "link": "https://technews.tw/2026/08/14/cambricon-developing-6gen-chip-architecture/",
+      "summary": "綜合中媒報導，中國人工智慧（AI）晶片設計商寒武紀董事長、總經理陳天石於業績說明會上確認第六代智慧處理器微架構 [&#8230;]",
+      "date": "2026-08-14T04:10:12+00:00",
+      "sourceId": "technews",
+      "cats": [
+        "market",
+        "process",
+        "material"
+      ]
+    },
+    {
+      "id": "2999ef7e70f8",
+      "title": "賣鏟子、買礦場又當銀行，輝達「聖經級循環融資」恐藏泡沫危機",
+      "link": "https://finance.technews.tw/2026/08/14/nvidia-is-playing-many-parts-in-the-ai-gold-rush/",
+      "summary": "輝達（Nvidia）正從 AI 熱潮中的晶片供應商，進一步轉型為資金、設備與基礎設施的關鍵樞紐。杜蘭大學（Tu [&#8230;]",
+      "date": "2026-08-14T03:40:59+00:00",
+      "sourceId": "technews",
+      "cats": [
+        "market",
+        "process",
+        "material"
+      ]
+    },
+    {
+      "id": "68ac6a52e9de",
+      "title": "再生晶圓廠 RS 上半年業績破紀錄  惟財測遜、股價崩",
+      "link": "https://finance.technews.tw/2026/08/14/rs-technologies-outlook-disappoints-shares-plunge/",
+      "summary": "增產投資、產量增加，全球再生晶圓大廠 RS Technologies 上半年業績創下歷史新高紀錄，不過 RS [&#8230;]",
+      "date": "2026-08-14T03:30:42+00:00",
+      "sourceId": "technews",
+      "cats": [
+        "market",
+        "process",
+        "material"
+      ]
+    },
+    {
+      "id": "da763d77b4da",
+      "title": "SK 海力士員工成立「統一工會」，目標整合 1.8 萬員工爭取談判權",
+      "link": "https://technews.tw/2026/08/14/sk-hynixs-south-korean-workers-unveil-new-unified-union-amid-stalled-wage-talks/",
+      "summary": "韓國記憶體晶片製造商 SK 海力士（SK hynix）員工於 8 月 13 日成立新的統一勞工組織，試圖整合不 [&#8230;]",
+      "date": "2026-08-14T03:00:47+00:00",
+      "sourceId": "technews",
+      "cats": [
+        "market",
+        "process",
+        "material"
+      ]
+    },
+    {
+      "id": "76f66200c6f6",
+      "title": "瑞銀大膽預測 AMD 將轉向英特爾先進封裝，高盛估輝達伺服器市占依舊領先 AMD",
+      "link": "https://technews.tw/2026/08/14/ubs-expects-amd-to-strike-a-foundry-deal-with-intel/",
+      "summary": "瑞銀最新報告指出，受台積電產能持續吃緊影響，AMD 可能轉向與長期競爭對手英特爾合作，以英特爾晶圓代工與 EM [&#8230;]",
+      "date": "2026-08-14T02:45:10+00:00",
+      "sourceId": "technews",
+      "cats": [
+        "market",
+        "process",
+        "material"
+      ]
+    },
+    {
       "id": "ee10dfdbc5dd",
       "title": "記憶體景氣循環淡化？Sandisk 長期毛利率上看 80%",
       "link": "https://finance.technews.tw/2026/08/14/sandisk-long-term-gross-margin-could-reach-80/",
@@ -92,97 +157,6 @@
       "link": "https://technews.tw/2026/08/14/lam-research-announces-plans-to-invest-more-than-3b-to-expand-global-lab-network/",
       "summary": "美半導體設備大廠科林研發（Lam Research）14 日宣布，未來 5 年計劃投資超過 30 億美元，擴大 [&#8230;]",
       "date": "2026-08-14T01:56:45+00:00",
-      "sourceId": "technews",
-      "cats": [
-        "market",
-        "process",
-        "material"
-      ]
-    },
-    {
-      "id": "01c15b5dbfd8",
-      "title": "樣品認證卡關！三星電機再延玻璃基板投資，恐推至 2028 年後量產",
-      "link": "https://technews.tw/2026/08/14/samsung-electro-mechanics-delay-glass-substrate-investment/",
-      "summary": "韓國三星電機宣布延後半導體玻璃基板投資計畫，原因是客戶對原型產品進行可靠性評估時出現瓶頸，這使三星電機與東友精 [&#8230;]",
-      "date": "2026-08-14T01:27:31+00:00",
-      "sourceId": "technews",
-      "cats": [
-        "market",
-        "process",
-        "material"
-      ]
-    },
-    {
-      "id": "e57caef3d24f",
-      "title": "美商應材財測優於預期，市場期待過高股價跌逾 5%",
-      "link": "https://finance.technews.tw/2026/08/14/applied-materials-announces-third-quarter-2026-results/",
-      "summary": "美國半導體設備製造商「應用材料公司」今天預估第 4 季營收將高於華爾街預期，看好先進人工智慧（AI）晶片需求維 [&#8230;]",
-      "date": "2026-08-14T01:20:37+00:00",
-      "sourceId": "technews",
-      "cats": [
-        "market",
-        "process",
-        "material"
-      ]
-    },
-    {
-      "id": "220a7ff1cd43",
-      "title": "長鑫科技超越騰訊，成為中國市值最高上市公司",
-      "link": "https://finance.technews.tw/2026/08/14/changxin-technology-surpasses-tencent-chinas-most-valuable-public-company/",
-      "summary": "中國 DRAM 龍頭大廠長鑫科技 13 日收盤股價 52.88 元，市值 3 兆 5,367 億人民幣（約新台 [&#8230;]",
-      "date": "2026-08-14T01:00:23+00:00",
-      "sourceId": "technews",
-      "cats": [
-        "market",
-        "process",
-        "material"
-      ]
-    },
-    {
-      "id": "101af1f2f236",
-      "title": "從創新元件到量子運算：閎康科技「晶動未來 × MAFT」揭下一世代半導體技術新局",
-      "link": "https://technews.tw/2026/08/14/matek-maft-future-tech/",
-      "summary": "閎康科技（MA-tek）將於 2026 年 8 月 28 日（五）舉辦晶動未來—從記憶體、矽光子到量子運算的下 [&#8230;]",
-      "date": "2026-08-14T01:00:08+00:00",
-      "sourceId": "technews",
-      "cats": [
-        "market",
-        "process",
-        "material"
-      ]
-    },
-    {
-      "id": "bdccce4d21bb",
-      "title": "AI 熱潮帶動籌資，超微擬透過發債募集 40 億至 50 億美元",
-      "link": "https://finance.technews.tw/2026/08/14/amd-looks-to-raise-4-billion-to-5-billion-in-debt-offering/",
-      "summary": "在科技業掀起一波由人工智慧（AI）投資帶起的籌資熱潮之際，根據消息人士及路透社取得的交易條款，晶片大廠超微（A [&#8230;]",
-      "date": "2026-08-14T00:45:05+00:00",
-      "sourceId": "technews",
-      "cats": [
-        "market",
-        "process",
-        "material"
-      ]
-    },
-    {
-      "id": "6ee25e1cc58d",
-      "title": "NAND 漲價有感，華強北 microSD 卡不標價成新常態",
-      "link": "https://technews.tw/2026/08/14/huaqiangbei-microsd/",
-      "summary": "全球 NAND Flash 市場持續升溫，價格上漲的影響也逐漸反映到終端產品。《科技新報》記者實際走訪中國深圳 [&#8230;]",
-      "date": "2026-08-13T23:31:27+00:00",
-      "sourceId": "technews",
-      "cats": [
-        "market",
-        "process",
-        "material"
-      ]
-    },
-    {
-      "id": "18c33740e84b",
-      "title": "永遠比客戶要求多做 20%，大銀微靠「奈米級定位平台」躍升晶圓代工龍頭神隊友",
-      "link": "https://finance.technews.tw/2026/08/14/hiwin-microsystem-silicon-cowos/",
-      "summary": "一場「意外」，讓晶圓代工龍頭重新認識它；一套「自提二成」哲學，讓它站上矽光子、CoWoS浪潮。 大銀微系統，外 [&#8230;]",
-      "date": "2026-08-13T23:30:29+00:00",
       "sourceId": "technews",
       "cats": [
         "market",
