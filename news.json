@@ -1,6 +1,6 @@
 {
-  "updated": "2026-08-14T14:59:26.458986+00:00",
-  "count": 20,
+  "updated": "2026-08-14T17:00:30.317035+00:00",
+  "count": 18,
   "sources": [
     {
       "id": "technews",
@@ -183,32 +183,6 @@
       "link": "https://ccc.technews.tw/2026/08/14/entire-pixel-11-lineup-runs-on-the-3nm-tensor-g6/",
       "summary": "今年針對 Pixel 11 全系列新機，Google 取消較便宜的 128GB 版本，各款從 256GB 版本 [&#8230;]",
       "date": "2026-08-14T07:24:56+00:00",
-      "sourceId": "technews",
-      "cats": [
-        "market",
-        "process",
-        "material"
-      ]
-    },
-    {
-      "id": "a3d7b873f52f",
-      "title": "輝達 HBM 訂單供不應求，三星 NRD-K 產線轉型 2 奈米基礎晶片代工",
-      "link": "https://technews.tw/2026/08/14/samsung-nrd-k-production-line-transforms-into-basic-chip-foundry/",
-      "summary": "韓國三星傳出將調整其位於器興園區、正在建設中的次世代半導體研發（R&#38;D）園區用途，最新計劃是傾向將該生 [&#8230;]",
-      "date": "2026-08-14T06:45:42+00:00",
-      "sourceId": "technews",
-      "cats": [
-        "market",
-        "process",
-        "material"
-      ]
-    },
-    {
-      "id": "adf1f2250e7b",
-      "title": "Silicon Data 獲 3,050 萬美元融資，攜手 CME 鋪路全球首檔 GPU 期貨",
-      "link": "https://finance.technews.tw/2026/08/14/silicon-data-raises-30-5m-to-benchmark-ai-compute/",
-      "summary": "矽谷資料公司 Silicon Data 於 8 月 12 日宣布完成 3,050 萬美元融資，用於擴大其面向 [&#8230;]",
-      "date": "2026-08-14T06:40:00+00:00",
       "sourceId": "technews",
       "cats": [
         "market",
