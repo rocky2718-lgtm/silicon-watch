@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-14T05:42:16.674263+00:00",
+  "updated": "2026-08-14T07:42:48.145813+00:00",
   "count": 16,
   "sources": [
     {
@@ -61,6 +61,84 @@
   ],
   "articles": [
     {
+      "id": "1d93ed2d9ad2",
+      "title": "推矽光子架構標準化，Lightmatter 等 19 間大廠啟動 CPO 系統架構倡議",
+      "link": "https://technews.tw/2026/08/14/lightmatter-open-silicon-photonics-for-ai-systems/",
+      "summary": "Lightmatter 今（14 日）宣布「Open Silicon Photonics for AI Sys [&#8230;]",
+      "date": "2026-08-14T07:37:35+00:00",
+      "sourceId": "technews",
+      "cats": [
+        "market",
+        "process",
+        "material"
+      ]
+    },
+    {
+      "id": "32fedc9c37c8",
+      "title": "支援與台積電及世界先進合資公司產能需求，NXP 馬來西亞新封裝廠動土",
+      "link": "https://technews.tw/2026/08/14/nxp-breaks-ground-on-new-packaging-plant-in-malaysia/",
+      "summary": "荷蘭商半導體大廠恩智浦半導體（NXP Semiconductors）宣布在馬來西亞八打靈再也（Petaling [&#8230;]",
+      "date": "2026-08-14T07:30:46+00:00",
+      "sourceId": "technews",
+      "cats": [
+        "market",
+        "process",
+        "material"
+      ]
+    },
+    {
+      "id": "ed57b52ac4af",
+      "title": "Tensor G6 採台積電 3 奈米，Google 以工程能力解決記憶體困境",
+      "link": "https://ccc.technews.tw/2026/08/14/entire-pixel-11-lineup-runs-on-the-3nm-tensor-g6/",
+      "summary": "今年針對 Pixel 11 全系列新機，Google 取消較便宜的 128GB 版本，各款從 256GB 版本 [&#8230;]",
+      "date": "2026-08-14T07:24:56+00:00",
+      "sourceId": "technews",
+      "cats": [
+        "market",
+        "process",
+        "material"
+      ]
+    },
+    {
+      "id": "a3d7b873f52f",
+      "title": "輝達 HBM 訂單供不應求，三星 NRD-K 產線轉型 2 奈米基礎晶片代工",
+      "link": "https://technews.tw/2026/08/14/samsung-nrd-k-production-line-transforms-into-basic-chip-foundry/",
+      "summary": "韓國三星傳出將調整其位於器興園區、正在建設中的次世代半導體研發（R&#38;D）園區用途，最新計劃是傾向將該生 [&#8230;]",
+      "date": "2026-08-14T06:45:42+00:00",
+      "sourceId": "technews",
+      "cats": [
+        "market",
+        "process",
+        "material"
+      ]
+    },
+    {
+      "id": "adf1f2250e7b",
+      "title": "Silicon Data 獲 3,050 萬美元融資，攜手 CME 鋪路全球首檔 GPU 期貨",
+      "link": "https://finance.technews.tw/2026/08/14/silicon-data-raises-30-5m-to-benchmark-ai-compute/",
+      "summary": "矽谷資料公司 Silicon Data 於 8 月 12 日宣布完成 3,050 萬美元融資，用於擴大其面向 [&#8230;]",
+      "date": "2026-08-14T06:40:00+00:00",
+      "sourceId": "technews",
+      "cats": [
+        "market",
+        "process",
+        "material"
+      ]
+    },
+    {
+      "id": "6e7e7e815874",
+      "title": "LG 攜手輝達打造新一代雙足人型機器人，2027 年第一季亮相",
+      "link": "https://technews.tw/2026/08/14/lg-nvidia-to-unveil-humanoid-in-next-q1/",
+      "summary": "LG 電子於 2026 年 8 月 14 日表示，將與輝達（NVIDIA）攜手開發下一代雙足人型機器人，目標在 [&#8230;]",
+      "date": "2026-08-14T06:10:02+00:00",
+      "sourceId": "technews",
+      "cats": [
+        "market",
+        "process",
+        "material"
+      ]
+    },
+    {
       "id": "ce45959cc5aa",
       "title": "寒武紀：第六代晶片架構研發中，聚焦優化大模型",
       "link": "https://technews.tw/2026/08/14/cambricon-developing-6gen-chip-architecture/",
@@ -79,84 +157,6 @@
       "link": "https://finance.technews.tw/2026/08/14/nvidia-is-playing-many-parts-in-the-ai-gold-rush/",
       "summary": "輝達（Nvidia）正從 AI 熱潮中的晶片供應商，進一步轉型為資金、設備與基礎設施的關鍵樞紐。杜蘭大學（Tu [&#8230;]",
       "date": "2026-08-14T03:40:59+00:00",
-      "sourceId": "technews",
-      "cats": [
-        "market",
-        "process",
-        "material"
-      ]
-    },
-    {
-      "id": "68ac6a52e9de",
-      "title": "再生晶圓廠 RS 上半年業績破紀錄  惟財測遜、股價崩",
-      "link": "https://finance.technews.tw/2026/08/14/rs-technologies-outlook-disappoints-shares-plunge/",
-      "summary": "增產投資、產量增加，全球再生晶圓大廠 RS Technologies 上半年業績創下歷史新高紀錄，不過 RS [&#8230;]",
-      "date": "2026-08-14T03:30:42+00:00",
-      "sourceId": "technews",
-      "cats": [
-        "market",
-        "process",
-        "material"
-      ]
-    },
-    {
-      "id": "da763d77b4da",
-      "title": "SK 海力士員工成立「統一工會」，目標整合 1.8 萬員工爭取談判權",
-      "link": "https://technews.tw/2026/08/14/sk-hynixs-south-korean-workers-unveil-new-unified-union-amid-stalled-wage-talks/",
-      "summary": "韓國記憶體晶片製造商 SK 海力士（SK hynix）員工於 8 月 13 日成立新的統一勞工組織，試圖整合不 [&#8230;]",
-      "date": "2026-08-14T03:00:47+00:00",
-      "sourceId": "technews",
-      "cats": [
-        "market",
-        "process",
-        "material"
-      ]
-    },
-    {
-      "id": "76f66200c6f6",
-      "title": "瑞銀大膽預測 AMD 將轉向英特爾先進封裝，高盛估輝達伺服器市占依舊領先 AMD",
-      "link": "https://technews.tw/2026/08/14/ubs-expects-amd-to-strike-a-foundry-deal-with-intel/",
-      "summary": "瑞銀最新報告指出，受台積電產能持續吃緊影響，AMD 可能轉向與長期競爭對手英特爾合作，以英特爾晶圓代工與 EM [&#8230;]",
-      "date": "2026-08-14T02:45:10+00:00",
-      "sourceId": "technews",
-      "cats": [
-        "market",
-        "process",
-        "material"
-      ]
-    },
-    {
-      "id": "ee10dfdbc5dd",
-      "title": "記憶體景氣循環淡化？Sandisk 長期毛利率上看 80%",
-      "link": "https://finance.technews.tw/2026/08/14/sandisk-long-term-gross-margin-could-reach-80/",
-      "summary": "Sandisk 在投資人日（Investor Day）公布長期財務模型後，股價應聲飆高。 Seeking Al [&#8230;]",
-      "date": "2026-08-14T02:30:05+00:00",
-      "sourceId": "technews",
-      "cats": [
-        "market",
-        "process",
-        "material"
-      ]
-    },
-    {
-      "id": "87e865cd6fc3",
-      "title": "外資單日買超 757 億押注半導體主線，台股攻上 45,518 點",
-      "link": "https://finance.technews.tw/2026/08/14/stock-market-0813-14/",
-      "summary": "台股 13 日強勢收紅，加權指數收在 45,518 點、上漲 0.88%，三大法人同步偏多，外資單日買超達 7 [&#8230;]",
-      "date": "2026-08-14T02:00:59+00:00",
-      "sourceId": "technews",
-      "cats": [
-        "market",
-        "process",
-        "material"
-      ]
-    },
-    {
-      "id": "298f466591f8",
-      "title": "科林研發宣布投資超過 30 億美元，擴建全球實驗室網絡",
-      "link": "https://technews.tw/2026/08/14/lam-research-announces-plans-to-invest-more-than-3b-to-expand-global-lab-network/",
-      "summary": "美半導體設備大廠科林研發（Lam Research）14 日宣布，未來 5 年計劃投資超過 30 億美元，擴大 [&#8230;]",
-      "date": "2026-08-14T01:56:45+00:00",
       "sourceId": "technews",
       "cats": [
         "market",
