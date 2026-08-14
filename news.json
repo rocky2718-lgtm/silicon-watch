@@ -1,6 +1,6 @@
 {
-  "updated": "2026-08-14T09:14:04.605435+00:00",
-  "count": 18,
+  "updated": "2026-08-14T11:02:36.697386+00:00",
+  "count": 19,
   "sources": [
     {
       "id": "technews",
@@ -60,6 +60,32 @@
     }
   ],
   "articles": [
+    {
+      "id": "7fdb66ca8188",
+      "title": "Semiconductor Equipment Shifts To Build-to-Print Manufacturing",
+      "link": "https://www.eetimes.com/semiconductor-equipment-shifts-to-build-to-print-manufacturing/",
+      "summary": "Semiconductor equipment OEMs look to build-to-print for greater capacity. The post Semiconductor Equipment Shifts To Build-to-Print Manufacturing appeared first on EE Times.",
+      "date": "2026-08-14T10:56:17+00:00",
+      "sourceId": "eetimes",
+      "cats": [
+        "process",
+        "material",
+        "equipment"
+      ]
+    },
+    {
+      "id": "1b455cd8731c",
+      "title": "三星傳導入 Claude Code 加速晶片設計驗證，月餘工作縮短至兩天完成",
+      "link": "https://technews.tw/2026/08/14/samsung-is-reportedly-using-claude-to-speed-up-chip-design/",
+      "summary": "三星電子傳出用人工智慧加速晶片研發流程，將 Anthropic Claude Code 導入半導體設計與驗證。 [&#8230;]",
+      "date": "2026-08-14T10:10:27+00:00",
+      "sourceId": "technews",
+      "cats": [
+        "market",
+        "process",
+        "material"
+      ]
+    },
     {
       "id": "4ae6cca57d82",
       "title": "堅持不退場！輝達 2020 年老將 A100 獲市場青睞，拚戰至 2029 年",
@@ -170,19 +196,6 @@
       "link": "https://finance.technews.tw/2026/08/14/silicon-data-raises-30-5m-to-benchmark-ai-compute/",
       "summary": "矽谷資料公司 Silicon Data 於 8 月 12 日宣布完成 3,050 萬美元融資，用於擴大其面向 [&#8230;]",
       "date": "2026-08-14T06:40:00+00:00",
-      "sourceId": "technews",
-      "cats": [
-        "market",
-        "process",
-        "material"
-      ]
-    },
-    {
-      "id": "6e7e7e815874",
-      "title": "LG 攜手輝達打造新一代雙足人型機器人，2027 年第一季亮相",
-      "link": "https://technews.tw/2026/08/14/lg-nvidia-to-unveil-humanoid-in-next-q1/",
-      "summary": "LG 電子於 2026 年 8 月 14 日表示，將與輝達（NVIDIA）攜手開發下一代雙足人型機器人，目標在 [&#8230;]",
-      "date": "2026-08-14T06:10:02+00:00",
       "sourceId": "technews",
       "cats": [
         "market",
