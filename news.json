@@ -1,6 +1,6 @@
 {
-  "updated": "2026-08-14T07:42:48.145813+00:00",
-  "count": 16,
+  "updated": "2026-08-14T09:14:04.605435+00:00",
+  "count": 18,
   "sources": [
     {
       "id": "technews",
@@ -61,6 +61,58 @@
   ],
   "articles": [
     {
+      "id": "4ae6cca57d82",
+      "title": "堅持不退場！輝達 2020 年老將 A100 獲市場青睞，拚戰至 2029 年",
+      "link": "https://technews.tw/2026/08/14/nvidia-a100-chips-coreweave-2029/",
+      "summary": "輝達（NVIDIA）於 2020 年推出 A100 加速器，一般來說應該已經進入淘汰階段，但至今仍相當耐用，預 [&#8230;]",
+      "date": "2026-08-14T09:08:23+00:00",
+      "sourceId": "technews",
+      "cats": [
+        "market",
+        "process",
+        "material"
+      ]
+    },
+    {
+      "id": "0390d7d8d62c",
+      "title": "高盛憑長期合作關係成輝達融資要角，尋求投資人參與",
+      "link": "https://finance.technews.tw/2026/08/14/goldman-sachs-takes-key-role-in-nvidia-financing/",
+      "summary": "消息人士透露，高盛（Goldman Sachs）憑藉與輝達（Nvidia）長期緊密合作的關係，成功取得參與該公 [&#8230;]",
+      "date": "2026-08-14T08:00:35+00:00",
+      "sourceId": "technews",
+      "cats": [
+        "market",
+        "process",
+        "material"
+      ]
+    },
+    {
+      "id": "469b67033999",
+      "title": "12 吋新廠落腳雲林？南亞科：與主管機關合作，持續評估新廠用地",
+      "link": "https://technews.tw/2026/08/14/nanya-dram-memory-taiwan-factory-rumor/",
+      "summary": "市場消息傳出，南亞科計劃在雲林及屏東各興建全新的 12 吋晶圓廠，切入次世代動態隨機存取記憶體（DRAM）及客 [&#8230;]",
+      "date": "2026-08-14T07:54:00+00:00",
+      "sourceId": "technews",
+      "cats": [
+        "market",
+        "process",
+        "material"
+      ]
+    },
+    {
+      "id": "bfde530bd739",
+      "title": "慧榮完成發行 11.5 億美元，2031 年到期票面利率為 0.00% 之優先可轉換公司債",
+      "link": "https://finance.technews.tw/2026/08/14/simo-completes-issuance-of-convertible-corporate-bonds/",
+      "summary": "NAND 快閃記憶體控制晶片大廠慧榮科技宣布，完成發行本金總額 11.5 億美元、2031 年到期票面利率為 [&#8230;]",
+      "date": "2026-08-14T07:45:04+00:00",
+      "sourceId": "technews",
+      "cats": [
+        "market",
+        "process",
+        "material"
+      ]
+    },
+    {
       "id": "1d93ed2d9ad2",
       "title": "推矽光子架構標準化，Lightmatter 等 19 間大廠啟動 CPO 系統架構倡議",
       "link": "https://technews.tw/2026/08/14/lightmatter-open-silicon-photonics-for-ai-systems/",
@@ -74,9 +126,9 @@
       ]
     },
     {
-      "id": "32fedc9c37c8",
-      "title": "支援與台積電及世界先進合資公司產能需求，NXP 馬來西亞新封裝廠動土",
-      "link": "https://technews.tw/2026/08/14/nxp-breaks-ground-on-new-packaging-plant-in-malaysia/",
+      "id": "04bd94672a17",
+      "title": "支援與台積電及世界先進合資公司產能需求，恩智浦馬來西亞新封裝廠動土",
+      "link": "https://finance.technews.tw/2026/08/14/nxp-breaks-ground-on-new-packaging-plant-in-malaysia/",
       "summary": "荷蘭商半導體大廠恩智浦半導體（NXP Semiconductors）宣布在馬來西亞八打靈再也（Petaling [&#8230;]",
       "date": "2026-08-14T07:30:46+00:00",
       "sourceId": "technews",
@@ -131,32 +183,6 @@
       "link": "https://technews.tw/2026/08/14/lg-nvidia-to-unveil-humanoid-in-next-q1/",
       "summary": "LG 電子於 2026 年 8 月 14 日表示，將與輝達（NVIDIA）攜手開發下一代雙足人型機器人，目標在 [&#8230;]",
       "date": "2026-08-14T06:10:02+00:00",
-      "sourceId": "technews",
-      "cats": [
-        "market",
-        "process",
-        "material"
-      ]
-    },
-    {
-      "id": "ce45959cc5aa",
-      "title": "寒武紀：第六代晶片架構研發中，聚焦優化大模型",
-      "link": "https://technews.tw/2026/08/14/cambricon-developing-6gen-chip-architecture/",
-      "summary": "綜合中媒報導，中國人工智慧（AI）晶片設計商寒武紀董事長、總經理陳天石於業績說明會上確認第六代智慧處理器微架構 [&#8230;]",
-      "date": "2026-08-14T04:10:12+00:00",
-      "sourceId": "technews",
-      "cats": [
-        "market",
-        "process",
-        "material"
-      ]
-    },
-    {
-      "id": "2999ef7e70f8",
-      "title": "賣鏟子、買礦場又當銀行，輝達「聖經級循環融資」恐藏泡沫危機",
-      "link": "https://finance.technews.tw/2026/08/14/nvidia-is-playing-many-parts-in-the-ai-gold-rush/",
-      "summary": "輝達（Nvidia）正從 AI 熱潮中的晶片供應商，進一步轉型為資金、設備與基礎設施的關鍵樞紐。杜蘭大學（Tu [&#8230;]",
-      "date": "2026-08-14T03:40:59+00:00",
       "sourceId": "technews",
       "cats": [
         "market",
