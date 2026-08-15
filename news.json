@@ -1,6 +1,6 @@
 {
-  "updated": "2026-08-14T22:30:53.530427+00:00",
-  "count": 18,
+  "updated": "2026-08-15T01:42:21.616639+00:00",
+  "count": 19,
   "sources": [
     {
       "id": "technews",
@@ -60,6 +60,32 @@
     }
   ],
   "articles": [
+    {
+      "id": "238c541c553f",
+      "title": "瑞銀指出，兩大因素美光標準型記憶體毛利率將上看 9 成超越 HBM",
+      "link": "https://finance.technews.tw/2026/08/15/microns-standard-memory-gross-margin-is-expected-to-surge-to-90-surpassing-hbm/",
+      "summary": "隨著AI伺服器產能吞噬全球半導體產量，傳統記憶體市場正迎來一波爆發性的利潤增長。 外資瑞銀（UBS）最新研究報 [&#8230;]",
+      "date": "2026-08-15T01:00:19+00:00",
+      "sourceId": "technews",
+      "cats": [
+        "market",
+        "process",
+        "material"
+      ]
+    },
+    {
+      "id": "1240a559e02d",
+      "title": "台積電疑問「明明能做為何不出貨？」讓林恩平下定決心！大立光 300 天急行軍搶攻 CPO 幕後",
+      "link": "https://finance.technews.tw/2026/08/15/largan-cpo/",
+      "summary": "昔日股王大立光行事向來低調，但近來在市場熱度升高，外界好奇台灣這家光學巨擘面對手機市場成長停滯，董事長林恩平如 [&#8230;]",
+      "date": "2026-08-15T01:00:08+00:00",
+      "sourceId": "technews",
+      "cats": [
+        "market",
+        "process",
+        "material"
+      ]
+    },
     {
       "id": "dccd5750e0ee",
       "title": "Intel at a Memory Crossroads, Again",
@@ -170,19 +196,6 @@
       "link": "https://finance.technews.tw/2026/08/14/nxp-breaks-ground-on-new-packaging-plant-in-malaysia/",
       "summary": "荷蘭商半導體大廠恩智浦半導體（NXP Semiconductors）宣布在馬來西亞八打靈再也（Petaling [&#8230;]",
       "date": "2026-08-14T07:30:46+00:00",
-      "sourceId": "technews",
-      "cats": [
-        "market",
-        "process",
-        "material"
-      ]
-    },
-    {
-      "id": "ed57b52ac4af",
-      "title": "Tensor G6 採台積電 3 奈米，Google 以工程能力解決記憶體困境",
-      "link": "https://ccc.technews.tw/2026/08/14/entire-pixel-11-lineup-runs-on-the-3nm-tensor-g6/",
-      "summary": "今年針對 Pixel 11 全系列新機，Google 取消較便宜的 128GB 版本，各款從 256GB 版本 [&#8230;]",
-      "date": "2026-08-14T07:24:56+00:00",
       "sourceId": "technews",
       "cats": [
         "market",
