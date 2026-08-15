@@ -1,6 +1,6 @@
 {
-  "updated": "2026-08-15T04:38:54.398565+00:00",
-  "count": 15,
+  "updated": "2026-08-15T06:50:33.283709+00:00",
+  "count": 16,
   "sources": [
     {
       "id": "technews",
@@ -60,6 +60,19 @@
     }
   ],
   "articles": [
+    {
+      "id": "d7a54296f1d2",
+      "title": "輝達持有約 1.228 億股 SpaceX 股權，成為該公司第六大股東促進雙方合作",
+      "link": "https://finance.technews.tw/2026/08/15/nvidia-holds-approximately-122-8-million-shares-of-spacex-equity/",
+      "summary": "半導體大廠輝達（Nvidia）於本週五向美國證券交易委員會（SEC）提交的文件中披露，截至 2026 年第二季 [&#8230;]",
+      "date": "2026-08-15T06:00:44+00:00",
+      "sourceId": "technews",
+      "cats": [
+        "market",
+        "process",
+        "material"
+      ]
+    },
     {
       "id": "7281b536fa74",
       "title": "廣運 50 週年宣告世代交接！董座謝明凱布局 AI 與半導體邁向百年企業",
