@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-15T18:39:47.687826+00:00",
+  "updated": "2026-08-15T20:30:28.228645+00:00",
   "count": 16,
   "sources": [
     {
@@ -61,9 +61,9 @@
   ],
   "articles": [
     {
-      "id": "f9f2930c170a",
-      "title": "台積電、矽品、鴻海等供應鏈加持，輝達宣布 Spectrum-X 以太網路矽光子交換機量產",
-      "link": "https://finance.technews.tw/2026/08/15/nvidia-announces-mass-production-of-spectrum-x-ethernet-silicon-photonics-switches/",
+      "id": "f1737a450faa",
+      "title": "台積電、矽品、鴻海等供應鏈加持，輝達宣布 Spectrum-X 乙太網路矽光子交換機量產",
+      "link": "https://technews.tw/2026/08/15/nvidia-announces-mass-production-of-spectrum-x-ethernet-silicon-photonics-switches/",
       "summary": "隨著 AI 工廠與 GPU 集群規模持續擴大，伺服器間龐大的資料傳輸，導致了高功耗與散熱問題日益嚴峻。為了解決 [&#8230;]",
       "date": "2026-08-15T07:00:23+00:00",
       "sourceId": "technews",
@@ -75,9 +75,9 @@
     },
     {
       "id": "d7a54296f1d2",
-      "title": "輝達持有約 1.228 億股 SpaceX 股權，成為該公司第六大股東促進雙方合作",
+      "title": "輝達持有約 1.228 億股 SpaceX 股權，成第六大股東促進合作",
       "link": "https://finance.technews.tw/2026/08/15/nvidia-holds-approximately-122-8-million-shares-of-spacex-equity/",
-      "summary": "半導體大廠輝達（Nvidia）於本週五向美國證券交易委員會（SEC）提交的文件中披露，截至 2026 年第二季 [&#8230;]",
+      "summary": "半導體大廠輝達（Nvidia）13 日提交美國證券交易委員會（SEC）文件披露，截至 2026 年第二季末，持 [&#8230;]",
       "date": "2026-08-15T06:00:44+00:00",
       "sourceId": "technews",
       "cats": [
