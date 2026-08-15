@@ -1,6 +1,6 @@
 {
-  "updated": "2026-08-15T01:42:21.616639+00:00",
-  "count": 19,
+  "updated": "2026-08-15T02:58:40.978877+00:00",
+  "count": 17,
   "sources": [
     {
       "id": "technews",
@@ -170,32 +170,6 @@
       "link": "https://finance.technews.tw/2026/08/14/simo-completes-issuance-of-convertible-corporate-bonds/",
       "summary": "NAND 快閃記憶體控制晶片大廠慧榮科技宣布，完成發行本金總額 11.5 億美元、2031 年到期票面利率為 [&#8230;]",
       "date": "2026-08-14T07:45:04+00:00",
-      "sourceId": "technews",
-      "cats": [
-        "market",
-        "process",
-        "material"
-      ]
-    },
-    {
-      "id": "1d93ed2d9ad2",
-      "title": "推矽光子架構標準化，Lightmatter 等 19 間大廠啟動 CPO 系統架構倡議",
-      "link": "https://technews.tw/2026/08/14/lightmatter-open-silicon-photonics-for-ai-systems/",
-      "summary": "Lightmatter 今（14 日）宣布「Open Silicon Photonics for AI Sys [&#8230;]",
-      "date": "2026-08-14T07:37:35+00:00",
-      "sourceId": "technews",
-      "cats": [
-        "market",
-        "process",
-        "material"
-      ]
-    },
-    {
-      "id": "04bd94672a17",
-      "title": "支援與台積電及世界先進合資公司產能需求，恩智浦馬來西亞新封裝廠動土",
-      "link": "https://finance.technews.tw/2026/08/14/nxp-breaks-ground-on-new-packaging-plant-in-malaysia/",
-      "summary": "荷蘭商半導體大廠恩智浦半導體（NXP Semiconductors）宣布在馬來西亞八打靈再也（Petaling [&#8230;]",
-      "date": "2026-08-14T07:30:46+00:00",
       "sourceId": "technews",
       "cats": [
         "market",
