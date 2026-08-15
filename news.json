@@ -1,6 +1,6 @@
 {
-  "updated": "2026-08-15T02:58:40.978877+00:00",
-  "count": 17,
+  "updated": "2026-08-15T04:38:54.398565+00:00",
+  "count": 15,
   "sources": [
     {
       "id": "technews",
@@ -60,6 +60,19 @@
     }
   ],
   "articles": [
+    {
+      "id": "7281b536fa74",
+      "title": "廣運 50 週年宣告世代交接！董座謝明凱布局 AI 與半導體邁向百年企業",
+      "link": "https://finance.technews.tw/2026/08/15/century-old-enterprise/",
+      "summary": "廣運今日舉辦 50 週年慶家庭日活動，董事長暨執行長謝明凱表示，廣運在自動化、AI 資料中心水冷散熱、能源及第 [&#8230;]",
+      "date": "2026-08-15T03:01:43+00:00",
+      "sourceId": "technews",
+      "cats": [
+        "market",
+        "process",
+        "material"
+      ]
+    },
     {
       "id": "238c541c553f",
       "title": "瑞銀指出，兩大因素美光標準型記憶體毛利率將上看 9 成超越 HBM",
@@ -131,45 +144,6 @@
       "link": "https://technews.tw/2026/08/14/nvidia-a100-chips-coreweave-2029/",
       "summary": "輝達（NVIDIA）於 2020 年推出 A100 加速器，一般來說應該已經進入淘汰階段，但至今仍相當耐用，預 [&#8230;]",
       "date": "2026-08-14T09:08:23+00:00",
-      "sourceId": "technews",
-      "cats": [
-        "market",
-        "process",
-        "material"
-      ]
-    },
-    {
-      "id": "0390d7d8d62c",
-      "title": "高盛憑長期合作關係成輝達融資要角，尋求投資人參與",
-      "link": "https://finance.technews.tw/2026/08/14/goldman-sachs-takes-key-role-in-nvidia-financing/",
-      "summary": "消息人士透露，高盛（Goldman Sachs）憑藉與輝達（Nvidia）長期緊密合作的關係，成功取得參與該公 [&#8230;]",
-      "date": "2026-08-14T08:00:35+00:00",
-      "sourceId": "technews",
-      "cats": [
-        "market",
-        "process",
-        "material"
-      ]
-    },
-    {
-      "id": "469b67033999",
-      "title": "12 吋新廠落腳雲林？南亞科：與主管機關合作，持續評估新廠用地",
-      "link": "https://technews.tw/2026/08/14/nanya-dram-memory-taiwan-factory-rumor/",
-      "summary": "市場消息傳出，南亞科計劃在雲林及屏東各興建全新的 12 吋晶圓廠，切入次世代動態隨機存取記憶體（DRAM）及客 [&#8230;]",
-      "date": "2026-08-14T07:54:00+00:00",
-      "sourceId": "technews",
-      "cats": [
-        "market",
-        "process",
-        "material"
-      ]
-    },
-    {
-      "id": "bfde530bd739",
-      "title": "慧榮完成發行 11.5 億美元，2031 年到期票面利率為 0.00% 之優先可轉換公司債",
-      "link": "https://finance.technews.tw/2026/08/14/simo-completes-issuance-of-convertible-corporate-bonds/",
-      "summary": "NAND 快閃記憶體控制晶片大廠慧榮科技宣布，完成發行本金總額 11.5 億美元、2031 年到期票面利率為 [&#8230;]",
-      "date": "2026-08-14T07:45:04+00:00",
       "sourceId": "technews",
       "cats": [
         "market",
