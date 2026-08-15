@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-15T06:50:33.283709+00:00",
+  "updated": "2026-08-15T08:37:46.696552+00:00",
   "count": 16,
   "sources": [
     {
@@ -60,6 +60,19 @@
     }
   ],
   "articles": [
+    {
+      "id": "f9f2930c170a",
+      "title": "台積電、矽品、鴻海等供應鏈加持，輝達宣布 Spectrum-X 以太網路矽光子交換機量產",
+      "link": "https://finance.technews.tw/2026/08/15/nvidia-announces-mass-production-of-spectrum-x-ethernet-silicon-photonics-switches/",
+      "summary": "隨著 AI 工廠與 GPU 集群規模持續擴大，伺服器間龐大的資料傳輸，導致了高功耗與散熱問題日益嚴峻。為了解決 [&#8230;]",
+      "date": "2026-08-15T07:00:23+00:00",
+      "sourceId": "technews",
+      "cats": [
+        "market",
+        "process",
+        "material"
+      ]
+    },
     {
       "id": "d7a54296f1d2",
       "title": "輝達持有約 1.228 億股 SpaceX 股權，成為該公司第六大股東促進雙方合作",
@@ -144,19 +157,6 @@
       "link": "https://technews.tw/2026/08/14/samsung-is-reportedly-using-claude-to-speed-up-chip-design/",
       "summary": "三星電子傳出用人工智慧加速晶片研發流程，將 Anthropic Claude Code 導入半導體設計與驗證。 [&#8230;]",
       "date": "2026-08-14T10:10:27+00:00",
-      "sourceId": "technews",
-      "cats": [
-        "market",
-        "process",
-        "material"
-      ]
-    },
-    {
-      "id": "4ae6cca57d82",
-      "title": "堅持不退場！輝達 2020 年老將 A100 獲市場青睞，拚戰至 2029 年",
-      "link": "https://technews.tw/2026/08/14/nvidia-a100-chips-coreweave-2029/",
-      "summary": "輝達（NVIDIA）於 2020 年推出 A100 加速器，一般來說應該已經進入淘汰階段，但至今仍相當耐用，預 [&#8230;]",
-      "date": "2026-08-14T09:08:23+00:00",
       "sourceId": "technews",
       "cats": [
         "market",
