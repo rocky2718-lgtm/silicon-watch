@@ -1,6 +1,6 @@
 {
-  "updated": "2026-08-16T06:51:55.697097+00:00",
-  "count": 16,
+  "updated": "2026-08-16T08:38:17.670887+00:00",
+  "count": 17,
   "sources": [
     {
       "id": "technews",
@@ -60,6 +60,19 @@
     }
   ],
   "articles": [
+    {
+      "id": "107e7814d4c7",
+      "title": "通寶半導體上半年毛利率高達 67%！董事會引私募拚年底送件申請上市",
+      "link": "https://finance.technews.tw/2026/08/16/private-equity-case/",
+      "summary": "通寶半導體公布今年上半年合併營收達 3.2 億元，年增 92%；稅前淨利達 4,807 萬元，年增 57%，毛 [&#8230;]",
+      "date": "2026-08-16T07:32:42+00:00",
+      "sourceId": "technews",
+      "cats": [
+        "market",
+        "process",
+        "material"
+      ]
+    },
     {
       "id": "77052d97d284",
       "title": "又一家 AI 新創完成 900 萬美元募資，Discovered Materials 以 AI 代理開發晶片散熱材料",
