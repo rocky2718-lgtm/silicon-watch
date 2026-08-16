@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-15T22:29:13.148660+00:00",
+  "updated": "2026-08-16T01:49:40.525630+00:00",
   "count": 16,
   "sources": [
     {
@@ -60,6 +60,19 @@
     }
   ],
   "articles": [
+    {
+      "id": "3b11b8c93118",
+      "title": "輝達砸 30 億美元投資 SB Energy！助 OpenAI 建置千億美元資料中心",
+      "link": "https://finance.technews.tw/2026/08/16/sb-energy-softbank/",
+      "summary": "輝達（NVIDIA）目前正與軟銀集團（SoftBank Group）旗下的能源與基礎設施子公司 SB Ener [&#8230;]",
+      "date": "2026-08-16T01:16:19+00:00",
+      "sourceId": "technews",
+      "cats": [
+        "market",
+        "process",
+        "material"
+      ]
+    },
     {
       "id": "f1737a450faa",
       "title": "台積電、矽品、鴻海等供應鏈加持，輝達宣布 Spectrum-X 乙太網路矽光子交換機量產",
@@ -149,19 +162,6 @@
         "process",
         "material",
         "equipment"
-      ]
-    },
-    {
-      "id": "1b455cd8731c",
-      "title": "三星傳導入 Claude Code 加速晶片設計驗證，月餘工作縮短至兩天完成",
-      "link": "https://technews.tw/2026/08/14/samsung-is-reportedly-using-claude-to-speed-up-chip-design/",
-      "summary": "三星電子傳出用人工智慧加速晶片研發流程，將 Anthropic Claude Code 導入半導體設計與驗證。 [&#8230;]",
-      "date": "2026-08-14T10:10:27+00:00",
-      "sourceId": "technews",
-      "cats": [
-        "market",
-        "process",
-        "material"
       ]
     },
     {
