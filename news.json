@@ -1,6 +1,6 @@
 {
-  "updated": "2026-08-16T03:07:28.133823+00:00",
-  "count": 16,
+  "updated": "2026-08-16T04:42:37.284517+00:00",
+  "count": 15,
   "sources": [
     {
       "id": "technews",
@@ -118,19 +118,6 @@
       "link": "https://finance.technews.tw/2026/08/15/microns-standard-memory-gross-margin-is-expected-to-surge-to-90-surpassing-hbm/",
       "summary": "隨著AI伺服器產能吞噬全球半導體產量，傳統記憶體市場正迎來一波爆發性的利潤增長。 外資瑞銀（UBS）最新研究報 [&#8230;]",
       "date": "2026-08-15T01:00:19+00:00",
-      "sourceId": "technews",
-      "cats": [
-        "market",
-        "process",
-        "material"
-      ]
-    },
-    {
-      "id": "1240a559e02d",
-      "title": "台積電疑問「明明能做為何不出貨？」讓林恩平下定決心！大立光 300 天急行軍搶攻 CPO 幕後",
-      "link": "https://finance.technews.tw/2026/08/15/largan-cpo/",
-      "summary": "昔日股王大立光行事向來低調，但近來在市場熱度升高，外界好奇台灣這家光學巨擘面對手機市場成長停滯，董事長林恩平如 [&#8230;]",
-      "date": "2026-08-15T01:00:08+00:00",
       "sourceId": "technews",
       "cats": [
         "market",
