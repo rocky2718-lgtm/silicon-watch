@@ -1,6 +1,6 @@
 {
-  "updated": "2026-08-16T04:42:37.284517+00:00",
-  "count": 15,
+  "updated": "2026-08-16T06:51:55.697097+00:00",
+  "count": 16,
   "sources": [
     {
       "id": "technews",
@@ -61,6 +61,32 @@
   ],
   "articles": [
     {
+      "id": "77052d97d284",
+      "title": "又一家 AI 新創完成 900 萬美元募資，Discovered Materials 以 AI 代理開發晶片散熱材料",
+      "link": "https://technews.tw/2026/08/16/discovered-materials-is-playing-ai-whack-a-mole-to-hunt-cooler-chips/",
+      "summary": "美國半導體材料新創 Discovered Materials 近日完成 900 萬美元種子輪募資，由 Ligh [&#8230;]",
+      "date": "2026-08-16T06:30:32+00:00",
+      "sourceId": "technews",
+      "cats": [
+        "market",
+        "process",
+        "material"
+      ]
+    },
+    {
+      "id": "f2d6456edd65",
+      "title": "13F 報告出爐！波克夏重押 Al、橋水幾乎清倉美光、軟銀砍 7 成台積電",
+      "link": "https://finance.technews.tw/2026/08/16/13f-reports-are-out/",
+      "summary": "美國證券交易委員會（SEC）最新一季「13F 持倉報告」出爐，今年第二季華爾街機構投資人對於半導體、AI 基礎 [&#8230;]",
+      "date": "2026-08-16T06:14:43+00:00",
+      "sourceId": "technews",
+      "cats": [
+        "market",
+        "process",
+        "material"
+      ]
+    },
+    {
       "id": "3b11b8c93118",
       "title": "輝達砸 30 億美元投資 SB Energy！助 OpenAI 建置千億美元資料中心",
       "link": "https://finance.technews.tw/2026/08/16/sb-energy-softbank/",
@@ -105,19 +131,6 @@
       "link": "https://finance.technews.tw/2026/08/15/century-old-enterprise/",
       "summary": "廣運今日舉辦 50 週年慶家庭日活動，董事長暨執行長謝明凱表示，廣運在自動化、AI 資料中心水冷散熱、能源及第 [&#8230;]",
       "date": "2026-08-15T03:01:43+00:00",
-      "sourceId": "technews",
-      "cats": [
-        "market",
-        "process",
-        "material"
-      ]
-    },
-    {
-      "id": "238c541c553f",
-      "title": "瑞銀指出，兩大因素美光標準型記憶體毛利率將上看 9 成超越 HBM",
-      "link": "https://finance.technews.tw/2026/08/15/microns-standard-memory-gross-margin-is-expected-to-surge-to-90-surpassing-hbm/",
-      "summary": "隨著AI伺服器產能吞噬全球半導體產量，傳統記憶體市場正迎來一波爆發性的利潤增長。 外資瑞銀（UBS）最新研究報 [&#8230;]",
-      "date": "2026-08-15T01:00:19+00:00",
       "sourceId": "technews",
       "cats": [
         "market",
