@@ -1,6 +1,6 @@
 {
-  "updated": "2026-08-17T08:53:06.086557+00:00",
-  "count": 14,
+  "updated": "2026-08-17T10:38:56.803666+00:00",
+  "count": 12,
   "sources": [
     {
       "id": "technews",
@@ -79,32 +79,6 @@
       "link": "https://technews.tw/2026/08/17/tianeng-green-energy-partners-kingstate-10-year-contract-supply-550-million-kwh/",
       "summary": "雲豹能源旗下售電子公司天能綠電宣布，與半導體測試大廠欣銓科技續簽綠電轉供合作，雙方簽訂為期 10 年綠電採購合 [&#8230;]",
       "date": "2026-08-17T06:55:40+00:00",
-      "sourceId": "technews",
-      "cats": [
-        "market",
-        "process",
-        "material"
-      ]
-    },
-    {
-      "id": "cc396b88fb8c",
-      "title": "輝達變身 AI 央行？明星經理人 Baker：非循環融資",
-      "link": "https://finance.technews.tw/2026/08/17/nvidia-is-becoming-the-federal-reserve-of-ai/",
-      "summary": "輝達（Nvidia Corp.）對 AI 基礎設夥伴提供 5,000 億美元融資平台，引發循環融資（circu [&#8230;]",
-      "date": "2026-08-17T04:50:05+00:00",
-      "sourceId": "technews",
-      "cats": [
-        "market",
-        "process",
-        "material"
-      ]
-    },
-    {
-      "id": "782468b86894",
-      "title": "記憶體飆漲、日圓貶  日本二手 iPhone 銷量增逾 1 倍",
-      "link": "https://technews.tw/2026/08/17/memory-prices-yen-weakens-japan-used-iphone-sales-double/",
-      "summary": "記憶體價格飆漲、日圓貶值，推升日本二手 iPhone 需求大增，在蘋果（Apple）宣布調漲日本 iPhone [&#8230;]",
-      "date": "2026-08-17T04:10:04+00:00",
       "sourceId": "technews",
       "cats": [
         "market",
