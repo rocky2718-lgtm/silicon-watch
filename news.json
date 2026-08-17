@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-16T22:29:18.173605+00:00",
+  "updated": "2026-08-17T01:47:36.508699+00:00",
   "count": 17,
   "sources": [
     {
@@ -61,6 +61,58 @@
   ],
   "articles": [
     {
+      "id": "92120a352512",
+      "title": "蘋果擬採購中國記憶體晶片，美政府明確反對",
+      "link": "https://technews.tw/2026/08/17/u-s-urges-apple-not-to-buy-chinese-memory-chips/",
+      "summary": "在全球記憶體晶片供應吃緊、價格持續走高之際，蘋果正積極尋找新的供應來源，卻因考慮向中國廠商採購而遭到美國政府明 [&#8230;]",
+      "date": "2026-08-17T01:45:59+00:00",
+      "sourceId": "technews",
+      "cats": [
+        "market",
+        "process",
+        "material"
+      ]
+    },
+    {
+      "id": "1e4542a609c7",
+      "title": "TPU 產量傳下修又爆 VMware 安全漏洞  博通挫近 6%",
+      "link": "https://finance.technews.tw/2026/08/17/tpu-production-cut-vmware-security-vulnerability-broadcom-drops-6-percent/",
+      "summary": "博通（Broadcom）14 日股價走弱，市場謠傳 2026 年下半年、2007 年 Google 張量處理器 [&#8230;]",
+      "date": "2026-08-17T01:00:20+00:00",
+      "sourceId": "technews",
+      "cats": [
+        "market",
+        "process",
+        "material"
+      ]
+    },
+    {
+      "id": "95efda508d30",
+      "title": "Google 傳聯手 AMD 打造第十代 TPU，整合 CPU 核心攻強化學習",
+      "link": "https://technews.tw/2026/08/17/google-reportedly-taps-amd-to-design-next-generation-tpu/",
+      "summary": "根據半導體研究機構 SemiAnalysis 一份研究報告所述，Google 與 AMD 攜手合作，共同開發第 [&#8230;]",
+      "date": "2026-08-17T00:24:53+00:00",
+      "sourceId": "technews",
+      "cats": [
+        "market",
+        "process",
+        "material"
+      ]
+    },
+    {
+      "id": "877074077ae3",
+      "title": "隱身鐵皮屋卻掌握晶片命脈，2026 台灣未上市 100 強：揭密默默暴賺的 AI 供應鏈黑馬",
+      "link": "https://finance.technews.tw/2026/08/17/2026-top-100-unlisted-companies/",
+      "summary": "隱身在桃園龍潭重劃區一條不起眼的巷弄裡，緊鄰半導體封測巨擘美商艾克爾（Amkor）、綠色美妝大廠歐萊德，在兩大 [&#8230;]",
+      "date": "2026-08-16T23:30:44+00:00",
+      "sourceId": "technews",
+      "cats": [
+        "market",
+        "process",
+        "material"
+      ]
+    },
+    {
       "id": "107e7814d4c7",
       "title": "通寶半導體上半年毛利率高達 67%！董事會引私募拚年底送件申請上市",
       "link": "https://finance.technews.tw/2026/08/16/private-equity-case/",
@@ -92,58 +144,6 @@
       "link": "https://finance.technews.tw/2026/08/16/13f-reports-are-out/",
       "summary": "美國證券交易委員會（SEC）最新一季「13F 持倉報告」出爐，今年第二季華爾街機構投資人對於半導體、AI 基礎 [&#8230;]",
       "date": "2026-08-16T06:14:43+00:00",
-      "sourceId": "technews",
-      "cats": [
-        "market",
-        "process",
-        "material"
-      ]
-    },
-    {
-      "id": "3b11b8c93118",
-      "title": "輝達砸 30 億美元投資 SB Energy！助 OpenAI 建置千億美元資料中心",
-      "link": "https://finance.technews.tw/2026/08/16/sb-energy-softbank/",
-      "summary": "輝達（NVIDIA）目前正與軟銀集團（SoftBank Group）旗下的能源與基礎設施子公司 SB Ener [&#8230;]",
-      "date": "2026-08-16T01:16:19+00:00",
-      "sourceId": "technews",
-      "cats": [
-        "market",
-        "process",
-        "material"
-      ]
-    },
-    {
-      "id": "f1737a450faa",
-      "title": "台積電、矽品、鴻海等供應鏈加持，輝達宣布 Spectrum-X 乙太網路矽光子交換機量產",
-      "link": "https://technews.tw/2026/08/15/nvidia-announces-mass-production-of-spectrum-x-ethernet-silicon-photonics-switches/",
-      "summary": "隨著 AI 工廠與 GPU 集群規模持續擴大，伺服器間龐大的資料傳輸，導致了高功耗與散熱問題日益嚴峻。為了解決 [&#8230;]",
-      "date": "2026-08-15T07:00:23+00:00",
-      "sourceId": "technews",
-      "cats": [
-        "market",
-        "process",
-        "material"
-      ]
-    },
-    {
-      "id": "d7a54296f1d2",
-      "title": "輝達持有約 1.228 億股 SpaceX 股權，成第六大股東促進合作",
-      "link": "https://finance.technews.tw/2026/08/15/nvidia-holds-approximately-122-8-million-shares-of-spacex-equity/",
-      "summary": "半導體大廠輝達（Nvidia）13 日提交美國證券交易委員會（SEC）文件披露，截至 2026 年第二季末，持 [&#8230;]",
-      "date": "2026-08-15T06:00:44+00:00",
-      "sourceId": "technews",
-      "cats": [
-        "market",
-        "process",
-        "material"
-      ]
-    },
-    {
-      "id": "7281b536fa74",
-      "title": "廣運 50 週年宣告世代交接！董座謝明凱布局 AI 與半導體邁向百年企業",
-      "link": "https://finance.technews.tw/2026/08/15/century-old-enterprise/",
-      "summary": "廣運今日舉辦 50 週年慶家庭日活動，董事長暨執行長謝明凱表示，廣運在自動化、AI 資料中心水冷散熱、能源及第 [&#8230;]",
-      "date": "2026-08-15T03:01:43+00:00",
       "sourceId": "technews",
       "cats": [
         "market",
