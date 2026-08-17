@@ -1,6 +1,6 @@
 {
-  "updated": "2026-08-17T04:51:55.467202+00:00",
-  "count": 18,
+  "updated": "2026-08-17T07:09:11.217983+00:00",
+  "count": 13,
   "sources": [
     {
       "id": "technews",
@@ -61,6 +61,19 @@
   ],
   "articles": [
     {
+      "id": "13f5c18f4e13",
+      "title": "天能綠電攜欣銓簽 10 年長約、轉供 5.5 億度",
+      "link": "https://technews.tw/2026/08/17/tianeng-green-energy-partners-kingstate-10-year-contract-supply-550-million-kwh/",
+      "summary": "雲豹能源旗下售電子公司天能綠電宣布，與半導體測試大廠欣銓科技續簽綠電轉供合作，雙方簽訂為期 10 年綠電採購合 [&#8230;]",
+      "date": "2026-08-17T06:55:40+00:00",
+      "sourceId": "technews",
+      "cats": [
+        "market",
+        "process",
+        "material"
+      ]
+    },
+    {
       "id": "cc396b88fb8c",
       "title": "輝達變身 AI 央行？明星經理人 Baker：非循環融資",
       "link": "https://finance.technews.tw/2026/08/17/nvidia-is-becoming-the-federal-reserve-of-ai/",
@@ -79,84 +92,6 @@
       "link": "https://technews.tw/2026/08/17/memory-prices-yen-weakens-japan-used-iphone-sales-double/",
       "summary": "記憶體價格飆漲、日圓貶值，推升日本二手 iPhone 需求大增，在蘋果（Apple）宣布調漲日本 iPhone [&#8230;]",
       "date": "2026-08-17T04:10:04+00:00",
-      "sourceId": "technews",
-      "cats": [
-        "market",
-        "process",
-        "material"
-      ]
-    },
-    {
-      "id": "a8eb52148fdd",
-      "title": "AI 代理帶動伺服器 CPU 的 2030 年規模上看 2,100 億美元，AI 專用晶片占比達 86%",
-      "link": "https://finance.technews.tw/2026/08/17/bank-of-america-elevates-ai-chip-forecast-selects-amd-and-nvidia-as-leading-choices/",
-      "summary": "多家研究機構最新預測，AI 代理與推理型工作負載快速擴張，伺服器 CPU 市場正迎來新一輪成長潮，2030 年 [&#8230;]",
-      "date": "2026-08-17T02:20:16+00:00",
-      "sourceId": "technews",
-      "cats": [
-        "market",
-        "process",
-        "material"
-      ]
-    },
-    {
-      "id": "0e89d1bd229c",
-      "title": "劍指 AirPods Max 與 Sony，三星高階耳罩式耳機 Galaxy H1 傳最快 2027 登場",
-      "link": "https://technews.tw/2026/08/17/samsung-is-reportedly-working-on-an-airpods-max-2-rival/",
-      "summary": "三星（Samsung）可能正準備重返多年未碰的全罩式無線耳機市場。根據外媒 SamMobile 報導，最新線索 [&#8230;]",
-      "date": "2026-08-17T02:15:02+00:00",
-      "sourceId": "technews",
-      "cats": [
-        "market",
-        "process",
-        "material"
-      ]
-    },
-    {
-      "id": "77eb7b29166c",
-      "title": "經濟半世紀最強，韓媒：台灣陷入平均值陷阱",
-      "link": "https://finance.technews.tw/2026/08/17/economy-at-strongest-level-in-half-a-century-korean-media-taiwan-caught-in-the-average-trap/",
-      "summary": "台灣經濟正以近 40 年來最快速度成長。第一季 GDP 年增率高達 14.5%，隨著下半年先進晶片與 AI 伺 [&#8230;]",
-      "date": "2026-08-17T02:14:49+00:00",
-      "sourceId": "technews",
-      "cats": [
-        "market",
-        "process",
-        "material"
-      ]
-    },
-    {
-      "id": "de06bf9df611",
-      "title": "外資豪買 453 億無懼美股回檔！加權指數力守 45,500 防線，資金聚焦記憶體與 CPO",
-      "link": "https://finance.technews.tw/2026/08/17/foreign-investors-buy-45-3-billion-despite-us-stock-pullback-taiex-holds-45500-memory-cpo-focus/",
-      "summary": "台股 14 日呈現高檔震盪整理，加權指數小跌 0.46% 收在 45,811 點。儘管大盤微幅回檔，籌碼面卻釋 [&#8230;]",
-      "date": "2026-08-17T02:00:31+00:00",
-      "sourceId": "technews",
-      "cats": [
-        "market",
-        "process",
-        "material"
-      ]
-    },
-    {
-      "id": "86cfe6a126d7",
-      "title": "記憶體大缺貨衝擊售後，SK 海力士以原價退款代替換貨引爭議",
-      "link": "https://technews.tw/2026/08/17/sk-hynix-runs-out-of-replacement-ssds-and-defaults-to-original-purchase-price-refunds/",
-      "summary": "SK 海力士（SK hynix）近期被爆出在處理一宗故障 SSD 的保固申請時，因沒有可供更換的替代品，改以原 [&#8230;]",
-      "date": "2026-08-17T01:55:31+00:00",
-      "sourceId": "technews",
-      "cats": [
-        "market",
-        "process",
-        "material"
-      ]
-    },
-    {
-      "id": "92120a352512",
-      "title": "蘋果擬採購中國記憶體晶片，美政府明確反對",
-      "link": "https://technews.tw/2026/08/17/u-s-urges-apple-not-to-buy-chinese-memory-chips/",
-      "summary": "在全球記憶體晶片供應吃緊、價格持續走高之際，蘋果正積極尋找新的供應來源，卻因考慮向中國廠商採購而遭到美國政府明 [&#8230;]",
-      "date": "2026-08-17T01:45:59+00:00",
       "sourceId": "technews",
       "cats": [
         "market",
