@@ -1,6 +1,6 @@
 {
-  "updated": "2026-08-17T16:36:06.865340+00:00",
-  "count": 13,
+  "updated": "2026-08-17T18:50:15.512209+00:00",
+  "count": 14,
   "sources": [
     {
       "id": "technews",
@@ -60,6 +60,19 @@
     }
   ],
   "articles": [
+    {
+      "id": "9d2cb8c92a86",
+      "title": "Nvidia Bets on the Classical Side of Quantum Computing",
+      "link": "https://www.eetimes.com/nvidia-bets-on-the-classical-side-of-quantum-computing/",
+      "summary": "Nvidia positions classical computing infrastructure as a critical layer in the race to build useful quantum computers. The post Nvidia Bets on the Classical Side of Quantum Computing appeared first on EE Times.",
+      "date": "2026-08-17T18:31:00+00:00",
+      "sourceId": "eetimes",
+      "cats": [
+        "process",
+        "material",
+        "equipment"
+      ]
+    },
     {
       "id": "d1c556df8a60",
       "title": "Tiny eSIM, Global Reach: Simplifying Cellular Connectivity for Consumer Electronics",
