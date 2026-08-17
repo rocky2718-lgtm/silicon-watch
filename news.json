@@ -1,6 +1,6 @@
 {
-  "updated": "2026-08-17T07:09:11.217983+00:00",
-  "count": 13,
+  "updated": "2026-08-17T08:53:06.086557+00:00",
+  "count": 14,
   "sources": [
     {
       "id": "technews",
@@ -60,6 +60,19 @@
     }
   ],
   "articles": [
+    {
+      "id": "da0e9375484d",
+      "title": "記憶體需求夯！三星上半年對中出口額年增 208%，超車美國",
+      "link": "https://technews.tw/2026/08/17/samsung-2026-h1-exports-china-us/",
+      "summary": "今上半年受 AI 熱潮帶動、半導體景氣復甦影響，三星電子對美國與中國的半導體出口額均大幅增加。此外，受惠於 H [&#8230;]",
+      "date": "2026-08-17T07:41:44+00:00",
+      "sourceId": "technews",
+      "cats": [
+        "market",
+        "process",
+        "material"
+      ]
+    },
     {
       "id": "13f5c18f4e13",
       "title": "天能綠電攜欣銓簽 10 年長約、轉供 5.5 億度",
