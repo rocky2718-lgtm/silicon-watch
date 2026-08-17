@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-17T03:07:16.972209+00:00",
+  "updated": "2026-08-17T04:51:55.467202+00:00",
   "count": 18,
   "sources": [
     {
@@ -61,6 +61,32 @@
   ],
   "articles": [
     {
+      "id": "cc396b88fb8c",
+      "title": "輝達變身 AI 央行？明星經理人 Baker：非循環融資",
+      "link": "https://finance.technews.tw/2026/08/17/nvidia-is-becoming-the-federal-reserve-of-ai/",
+      "summary": "輝達（Nvidia Corp.）對 AI 基礎設夥伴提供 5,000 億美元融資平台，引發循環融資（circu [&#8230;]",
+      "date": "2026-08-17T04:50:05+00:00",
+      "sourceId": "technews",
+      "cats": [
+        "market",
+        "process",
+        "material"
+      ]
+    },
+    {
+      "id": "782468b86894",
+      "title": "記憶體飆漲、日圓貶  日本二手 iPhone 銷量增逾 1 倍",
+      "link": "https://technews.tw/2026/08/17/memory-prices-yen-weakens-japan-used-iphone-sales-double/",
+      "summary": "記憶體價格飆漲、日圓貶值，推升日本二手 iPhone 需求大增，在蘋果（Apple）宣布調漲日本 iPhone [&#8230;]",
+      "date": "2026-08-17T04:10:04+00:00",
+      "sourceId": "technews",
+      "cats": [
+        "market",
+        "process",
+        "material"
+      ]
+    },
+    {
       "id": "a8eb52148fdd",
       "title": "AI 代理帶動伺服器 CPU 的 2030 年規模上看 2,100 億美元，AI 專用晶片占比達 86%",
       "link": "https://finance.technews.tw/2026/08/17/bank-of-america-elevates-ai-chip-forecast-selects-amd-and-nvidia-as-leading-choices/",
@@ -87,9 +113,9 @@
       ]
     },
     {
-      "id": "c19aa47600c2",
+      "id": "77eb7b29166c",
       "title": "經濟半世紀最強，韓媒：台灣陷入平均值陷阱",
-      "link": "https://technews.tw/2026/08/17/economy-at-strongest-level-in-half-a-century-korean-media-taiwan-caught-in-the-average-trap/",
+      "link": "https://finance.technews.tw/2026/08/17/economy-at-strongest-level-in-half-a-century-korean-media-taiwan-caught-in-the-average-trap/",
       "summary": "台灣經濟正以近 40 年來最快速度成長。第一季 GDP 年增率高達 14.5%，隨著下半年先進晶片與 AI 伺 [&#8230;]",
       "date": "2026-08-17T02:14:49+00:00",
       "sourceId": "technews",
@@ -131,32 +157,6 @@
       "link": "https://technews.tw/2026/08/17/u-s-urges-apple-not-to-buy-chinese-memory-chips/",
       "summary": "在全球記憶體晶片供應吃緊、價格持續走高之際，蘋果正積極尋找新的供應來源，卻因考慮向中國廠商採購而遭到美國政府明 [&#8230;]",
       "date": "2026-08-17T01:45:59+00:00",
-      "sourceId": "technews",
-      "cats": [
-        "market",
-        "process",
-        "material"
-      ]
-    },
-    {
-      "id": "1e4542a609c7",
-      "title": "TPU 產量傳下修又爆 VMware 安全漏洞  博通挫近 6%",
-      "link": "https://finance.technews.tw/2026/08/17/tpu-production-cut-vmware-security-vulnerability-broadcom-drops-6-percent/",
-      "summary": "博通（Broadcom）14 日股價走弱，市場謠傳 2026 年下半年、2007 年 Google 張量處理器 [&#8230;]",
-      "date": "2026-08-17T01:00:20+00:00",
-      "sourceId": "technews",
-      "cats": [
-        "market",
-        "process",
-        "material"
-      ]
-    },
-    {
-      "id": "95efda508d30",
-      "title": "Google 傳聯手 AMD 打造第十代 TPU，整合 CPU 核心攻強化學習",
-      "link": "https://technews.tw/2026/08/17/google-reportedly-taps-amd-to-design-next-generation-tpu/",
-      "summary": "根據半導體研究機構 SemiAnalysis 一份研究報告所述，Google 與 AMD 攜手合作，共同開發第 [&#8230;]",
-      "date": "2026-08-17T00:24:53+00:00",
       "sourceId": "technews",
       "cats": [
         "market",
