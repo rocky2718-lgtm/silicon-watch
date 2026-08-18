@@ -1,6 +1,6 @@
 {
-  "updated": "2026-08-18T06:56:18.051227+00:00",
-  "count": 15,
+  "updated": "2026-08-18T08:47:04.757836+00:00",
+  "count": 19,
   "sources": [
     {
       "id": "technews",
@@ -61,6 +61,71 @@
   ],
   "articles": [
     {
+      "id": "c42e32b7fadf",
+      "title": "攻國產化商機！亞智完成跨尺寸面板級封裝 ECD 量產布局",
+      "link": "https://technews.tw/2026/08/18/manz-ecd-equipment/",
+      "summary": "半導體面板級封裝設備 Manz 亞智科技今（18 日）宣布，已率先完成 310 mm、510 mm及 700 [&#8230;]",
+      "date": "2026-08-18T08:30:29+00:00",
+      "sourceId": "technews",
+      "cats": [
+        "market",
+        "process",
+        "material"
+      ]
+    },
+    {
+      "id": "955bc67f93fd",
+      "title": "輝達與 LG 機器人合作再升溫，黃仁勳女兒親赴首爾推進「機器人資料工廠」建置",
+      "link": "https://technews.tw/2026/08/18/madison-huang-to-visit-lg-robotics-hub-as-ai-partnership-gains-momentum/",
+      "summary": "韓國 LG 電子與美國晶片大廠輝達（NVIDIA）的合作再度升溫。輝達資深主管、執行長黃仁勳的女兒黃敏珊（Ma [&#8230;]",
+      "date": "2026-08-18T08:30:08+00:00",
+      "sourceId": "technews",
+      "cats": [
+        "market",
+        "process",
+        "material"
+      ]
+    },
+    {
+      "id": "4fd60a513598",
+      "title": "韓媒：除台積電外，多數台灣人對高經濟成長率無感！韓國要引以為鑑",
+      "link": "https://finance.technews.tw/2026/08/18/apart-from-tsmc-most-taiwanese-people-are-indifferent-to-the-high-economic-growth-rate/",
+      "summary": "韓國媒體報導，人工智慧（AI）與先進晶片需求的全球爆發，台灣經濟迎接驚人的成長，但這道亮麗的光環卻未能照亮所有 [&#8230;]",
+      "date": "2026-08-18T07:50:55+00:00",
+      "sourceId": "technews",
+      "cats": [
+        "market",
+        "process",
+        "material"
+      ]
+    },
+    {
+      "id": "faebad2d2196",
+      "title": "新思科技攜手輝達引領自動化代理式 AI 工程變革，產品下半年問世",
+      "link": "https://technews.tw/2026/08/18/synopsys-and-nvidia-lead-the-revolution-in-autonomous-agent-based-ai-engineering/",
+      "summary": "新思科技（Synopsys）在 2026 DAC 大會中，與輝達（NVIDIA）共同發表了針對工程領域的代理式 [&#8230;]",
+      "date": "2026-08-18T07:15:39+00:00",
+      "sourceId": "technews",
+      "cats": [
+        "market",
+        "process",
+        "material"
+      ]
+    },
+    {
+      "id": "143f08b846e9",
+      "title": "群創 EPS 季增近兩倍，加速布局玻璃基板搶攻 AI 封裝商機",
+      "link": "https://finance.technews.tw/2026/08/18/innolux-ai-2/",
+      "summary": "群創今日舉行下半年法人說明會，受惠於持續推動輕資產策略及優化產品組合，帶動獲利能力改善，第二季稅後淨利維持獲利 [&#8230;]",
+      "date": "2026-08-18T07:15:35+00:00",
+      "sourceId": "technews",
+      "cats": [
+        "market",
+        "process",
+        "material"
+      ]
+    },
+    {
       "id": "be91fb934811",
       "title": "瞄準矽光子爆發力！宏遠證主辦聯電 40 億 CB 競價拍賣 8/19 競標",
       "link": "https://finance.technews.tw/2026/08/18/silicon-photon-burst-power/",
@@ -74,24 +139,11 @@
       ]
     },
     {
-      "id": "6e34f5e81a0d",
+      "id": "5c5a587aedaa",
       "title": "2Q26 全球前五大 NAND Flash 品牌合計營收季增 77%，美光排名上升至第三",
-      "link": "https://technews.tw/2026/08/18/2q26-top-5-nand-flash-brands-revenue-up-77-qoq-micron-rises-to-third/",
-      "summary": "根據 TrendForce 最新 NAND Flash 產業研究，2026 年第二季 AI server 拉貨 [&#8230;]",
+      "link": "https://finance.technews.tw/2026/08/18/2q26-top-5-nand-flash-brands-revenue-up-77-qoq-micron-rises-to-third/",
+      "summary": "TrendForce 最新 NAND Flash 產業研究，2026 年第二季 AI 伺服器拉貨力道維持穩健， [&#8230;]",
       "date": "2026-08-18T06:15:48+00:00",
-      "sourceId": "technews",
-      "cats": [
-        "market",
-        "process",
-        "material"
-      ]
-    },
-    {
-      "id": "c73ebbff6a99",
-      "title": "合晶加碼 12 吋矽晶圓，159.5 億元擴產、2027 年月產能達 10 萬片",
-      "link": "https://technews.tw/2026/08/18/12-inch-demand-rebounds-wafer-works-invests-nt-15-95-billion-expansion-targeting-100k-wafers-month-erlin/",
-      "summary": "矽晶圓廠合晶持續擴大 12 吋版圖，董事會通過購置廠務設施及機器設備投資計畫，資本支出上限達 159.5 億元 [&#8230;]",
-      "date": "2026-08-18T03:07:28+00:00",
       "sourceId": "technews",
       "cats": [
         "market",
