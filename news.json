@@ -1,6 +1,6 @@
 {
-  "updated": "2026-08-17T22:31:45.641285+00:00",
-  "count": 14,
+  "updated": "2026-08-18T01:42:13.471790+00:00",
+  "count": 18,
   "sources": [
     {
       "id": "technews",
@@ -61,6 +61,84 @@
   ],
   "articles": [
     {
+      "id": "f739da4faa39",
+      "title": "功率半導體漲價潮再起，台廠 10 月調漲 10%～15%",
+      "link": "https://technews.tw/2026/08/18/power-semiconductor-price-hikes-taiwan-firms-october-10-15-percent/",
+      "summary": "AI 機櫃功率持續攀升，也帶動功率半導體需求升溫，新一波漲價潮逐漸浮現。供應鏈消息指出，受到上游晶圓、導線架及 [&#8230;]",
+      "date": "2026-08-18T01:16:42+00:00",
+      "sourceId": "technews",
+      "cats": [
+        "market",
+        "process",
+        "material"
+      ]
+    },
+    {
+      "id": "427042a68d13",
+      "title": "CPO 商用加速  磷化銦巨擘 AXT 7 月底來飆近 160%",
+      "link": "https://finance.technews.tw/2026/08/18/cpo-commercialization-accelerates-indium-phosphide-giant-axt-stock-soars-nearly-160-since-late-july/",
+      "summary": "受到市場謠傳磷化銦（InP）基板與磊晶醞釀漲價，以及輝達（Nvidia Corp.）透露用於跨機櫃水平擴展（s [&#8230;]",
+      "date": "2026-08-18T01:00:26+00:00",
+      "sourceId": "technews",
+      "cats": [
+        "market",
+        "process",
+        "material"
+      ]
+    },
+    {
+      "id": "30cbf2269980",
+      "title": "川普政府正勸阻蘋果使用中國長鑫存儲產品，帶動美股記憶體類股上漲",
+      "link": "https://finance.technews.tw/2026/08/18/the-trump-administration-is-discouraging-apple-from-using-products-from-chinas-changxin-memory-technologies-co-ltd/",
+      "summary": "在人工智慧（AI）硬體交易樂觀情緒回溫，以及美國政府政策地緣政治因素的共同推動下，記憶體晶片類股在美股18日交 [&#8230;]",
+      "date": "2026-08-18T00:40:59+00:00",
+      "sourceId": "technews",
+      "cats": [
+        "market",
+        "process",
+        "material"
+      ]
+    },
+    {
+      "id": "b2c9d48740c4",
+      "title": "AMD 砸 500 萬英鎊運算資金，支持牛津 BOLD 實驗室 AI 研究",
+      "link": "https://finance.technews.tw/2026/08/18/covering-the-fastest-computers-in-the-world-and-the-people-who-run-them-9/",
+      "summary": "AMD 13 日宣布，與牛津大學簽署合作備忘錄，提供英國開放式學習與探索實驗室（BOLD）尖端人工智慧研究最高 [&#8230;]",
+      "date": "2026-08-18T00:30:38+00:00",
+      "sourceId": "technews",
+      "cats": [
+        "market",
+        "process",
+        "material"
+      ]
+    },
+    {
+      "id": "1439571d0e4f",
+      "title": "馬來西亞 HBM 出貨量激增，直指英特爾先進封裝分食台積電 CoWoS 霸主地位",
+      "link": "https://technews.tw/2026/08/18/intel-advanced-packaging-attack-tsmc-cowos-head-position/",
+      "summary": "根據韓國最新的晶片出口數據與產業分析顯示，全球半導體先進封裝市場正迎來一波重大版圖位移。韓國向馬來西亞出口的高 [&#8230;]",
+      "date": "2026-08-18T00:15:17+00:00",
+      "sourceId": "technews",
+      "cats": [
+        "market",
+        "process",
+        "material"
+      ]
+    },
+    {
+      "id": "25dcceb2935d",
+      "title": "長鑫存儲 DDR5 在 AMD 平台突破 9,000 MT/s 速率，力拚全球三大廠性能",
+      "link": "https://technews.tw/2026/08/18/cxmt-ddr5-amd-breakthrough-9000-mts-speed-rate/",
+      "summary": "中國記憶體龍頭長鑫存儲（CXMT）在 DDR5 研發與生產上取得重大進展，其晶片在 AMD 平台上成功突破 9 [&#8230;]",
+      "date": "2026-08-18T00:00:39+00:00",
+      "sourceId": "technews",
+      "cats": [
+        "market",
+        "process",
+        "material"
+      ]
+    },
+    {
       "id": "9d2cb8c92a86",
       "title": "Nvidia Bets on the Classical Side of Quantum Computing",
       "link": "https://www.eetimes.com/nvidia-bets-on-the-classical-side-of-quantum-computing/",
@@ -97,32 +175,6 @@
         "process",
         "material",
         "equipment"
-      ]
-    },
-    {
-      "id": "da0e9375484d",
-      "title": "記憶體需求夯！三星上半年對中出口額年增 208%，超車美國",
-      "link": "https://technews.tw/2026/08/17/samsung-2026-h1-exports-china-us/",
-      "summary": "今上半年受 AI 熱潮帶動、半導體景氣復甦影響，三星電子對美國與中國的半導體出口額均大幅增加。此外，受惠於 H [&#8230;]",
-      "date": "2026-08-17T07:41:44+00:00",
-      "sourceId": "technews",
-      "cats": [
-        "market",
-        "process",
-        "material"
-      ]
-    },
-    {
-      "id": "13f5c18f4e13",
-      "title": "天能綠電攜欣銓簽 10 年長約、轉供 5.5 億度",
-      "link": "https://technews.tw/2026/08/17/tianeng-green-energy-partners-kingstate-10-year-contract-supply-550-million-kwh/",
-      "summary": "雲豹能源旗下售電子公司天能綠電宣布，與半導體測試大廠欣銓科技續簽綠電轉供合作，雙方簽訂為期 10 年綠電採購合 [&#8230;]",
-      "date": "2026-08-17T06:55:40+00:00",
-      "sourceId": "technews",
-      "cats": [
-        "market",
-        "process",
-        "material"
       ]
     },
     {
