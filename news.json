@@ -1,6 +1,6 @@
 {
-  "updated": "2026-08-18T04:43:09.532801+00:00",
-  "count": 16,
+  "updated": "2026-08-18T06:56:18.051227+00:00",
+  "count": 15,
   "sources": [
     {
       "id": "technews",
@@ -61,50 +61,37 @@
   ],
   "articles": [
     {
+      "id": "be91fb934811",
+      "title": "瞄準矽光子爆發力！宏遠證主辦聯電 40 億 CB 競價拍賣 8/19 競標",
+      "link": "https://finance.technews.tw/2026/08/18/silicon-photon-burst-power/",
+      "summary": "宏遠證券主辦聯電發行國內第二次無擔保轉換公司債，發行總面額 40 億元，競拍底標價為 100 元，最低投標單位 [&#8230;]",
+      "date": "2026-08-18T06:38:42+00:00",
+      "sourceId": "technews",
+      "cats": [
+        "market",
+        "process",
+        "material"
+      ]
+    },
+    {
+      "id": "6e34f5e81a0d",
+      "title": "2Q26 全球前五大 NAND Flash 品牌合計營收季增 77%，美光排名上升至第三",
+      "link": "https://technews.tw/2026/08/18/2q26-top-5-nand-flash-brands-revenue-up-77-qoq-micron-rises-to-third/",
+      "summary": "根據 TrendForce 最新 NAND Flash 產業研究，2026 年第二季 AI server 拉貨 [&#8230;]",
+      "date": "2026-08-18T06:15:48+00:00",
+      "sourceId": "technews",
+      "cats": [
+        "market",
+        "process",
+        "material"
+      ]
+    },
+    {
       "id": "c73ebbff6a99",
       "title": "合晶加碼 12 吋矽晶圓，159.5 億元擴產、2027 年月產能達 10 萬片",
       "link": "https://technews.tw/2026/08/18/12-inch-demand-rebounds-wafer-works-invests-nt-15-95-billion-expansion-targeting-100k-wafers-month-erlin/",
       "summary": "矽晶圓廠合晶持續擴大 12 吋版圖，董事會通過購置廠務設施及機器設備投資計畫，資本支出上限達 159.5 億元 [&#8230;]",
       "date": "2026-08-18T03:07:28+00:00",
-      "sourceId": "technews",
-      "cats": [
-        "market",
-        "process",
-        "material"
-      ]
-    },
-    {
-      "id": "e2660a38ae7a",
-      "title": "Credo 提案為 AI 系統建立開放式小晶片互連標準，致力打破「記憶體牆」瓶頸",
-      "link": "https://technews.tw/2026/08/18/credo-chiplet-ai-systems-break-memory-wall/",
-      "summary": "Credo 宣布，將在開放運算計畫（Open Compute Project，OCP）社群內推動一項全新的互連 [&#8230;]",
-      "date": "2026-08-18T02:50:33+00:00",
-      "sourceId": "technews",
-      "cats": [
-        "market",
-        "process",
-        "material"
-      ]
-    },
-    {
-      "id": "1dfd35452fef",
-      "title": "迎戰掌機漲價潮，英特爾布局平價版 Panther Lake 晶片搶攻入門市場",
-      "link": "https://technews.tw/2026/08/18/intels-panther-lake-lineup-may-soon-get-a-budget-chip-for-gaming-handhelds/",
-      "summary": "市場傳出，英特爾（Intel）正在為遊戲掌機準備一款更便宜的 Panther Lake 晶片，鎖定預算型 Wi [&#8230;]",
-      "date": "2026-08-18T02:45:45+00:00",
-      "sourceId": "technews",
-      "cats": [
-        "market",
-        "process",
-        "material"
-      ]
-    },
-    {
-      "id": "79a21468bd39",
-      "title": "美伊利空難撼半導體！台指期夜盤破四萬六，ABF 與矽光子領強攻",
-      "link": "https://finance.technews.tw/2026/08/18/us-incident-jolts-semiconductor-taiwan-futures-night-46000-abf-silicon-photonics-rally/",
-      "summary": "儘管地緣政治陰霾籠罩使美股三大指數承壓，但半導體族群展現極佳的抗震韌性，費半指數逆勢勁揚 1.64%、台積電 [&#8230;]",
-      "date": "2026-08-18T02:00:54+00:00",
       "sourceId": "technews",
       "cats": [
         "market",
