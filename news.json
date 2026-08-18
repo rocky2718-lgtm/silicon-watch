@@ -1,6 +1,6 @@
 {
-  "updated": "2026-08-18T08:47:04.757836+00:00",
-  "count": 19,
+  "updated": "2026-08-18T10:36:20.603119+00:00",
+  "count": 20,
   "sources": [
     {
       "id": "technews",
@@ -61,6 +61,32 @@
   ],
   "articles": [
     {
+      "id": "b529cfb46f8c",
+      "title": "聯亞矽光產品出貨續增！外資法人齊點讚，目標價喊上 4000 元",
+      "link": "https://technews.tw/2026/08/18/investors-see-landmark-2026-q2-financial-report/",
+      "summary": "聯亞先前舉辦第二季法說會，展望後市，公司表示，隨著產能與後段代工廠產能持續開出，預期矽光產品出貨量在未來數季皆 [&#8230;]",
+      "date": "2026-08-18T09:27:25+00:00",
+      "sourceId": "technews",
+      "cats": [
+        "market",
+        "process",
+        "material"
+      ]
+    },
+    {
+      "id": "6fe49968e517",
+      "title": "安葆半導體、AIDC 客戶需求齊發，鴻海高雄資料中心專案啟動",
+      "link": "https://technews.tw/2026/08/18/ample-customer-base-expands-us-factory-boom-semiconductor-data-center-demand/",
+      "summary": "半導體與 AI 資料中心建置需求持續升溫，系統整合廠安葆客戶版圖也跟著擴大。董事長陳志復表示，目前除主要晶圓代 [&#8230;]",
+      "date": "2026-08-18T08:59:43+00:00",
+      "sourceId": "technews",
+      "cats": [
+        "market",
+        "process",
+        "material"
+      ]
+    },
+    {
       "id": "c42e32b7fadf",
       "title": "攻國產化商機！亞智完成跨尺寸面板級封裝 ECD 量產布局",
       "link": "https://technews.tw/2026/08/18/manz-ecd-equipment/",
@@ -75,7 +101,7 @@
     },
     {
       "id": "955bc67f93fd",
-      "title": "輝達與 LG 機器人合作再升溫，黃仁勳女兒親赴首爾推進「機器人資料工廠」建置",
+      "title": "輝達與 LG 機器人合作再升溫，黃仁勳女兒親赴首爾建置「機器人資料工廠」",
       "link": "https://technews.tw/2026/08/18/madison-huang-to-visit-lg-robotics-hub-as-ai-partnership-gains-momentum/",
       "summary": "韓國 LG 電子與美國晶片大廠輝達（NVIDIA）的合作再度升溫。輝達資深主管、執行長黃仁勳的女兒黃敏珊（Ma [&#8230;]",
       "date": "2026-08-18T08:30:08+00:00",
@@ -131,19 +157,6 @@
       "link": "https://finance.technews.tw/2026/08/18/silicon-photon-burst-power/",
       "summary": "宏遠證券主辦聯電發行國內第二次無擔保轉換公司債，發行總面額 40 億元，競拍底標價為 100 元，最低投標單位 [&#8230;]",
       "date": "2026-08-18T06:38:42+00:00",
-      "sourceId": "technews",
-      "cats": [
-        "market",
-        "process",
-        "material"
-      ]
-    },
-    {
-      "id": "5c5a587aedaa",
-      "title": "2Q26 全球前五大 NAND Flash 品牌合計營收季增 77%，美光排名上升至第三",
-      "link": "https://finance.technews.tw/2026/08/18/2q26-top-5-nand-flash-brands-revenue-up-77-qoq-micron-rises-to-third/",
-      "summary": "TrendForce 最新 NAND Flash 產業研究，2026 年第二季 AI 伺服器拉貨力道維持穩健， [&#8230;]",
-      "date": "2026-08-18T06:15:48+00:00",
       "sourceId": "technews",
       "cats": [
         "market",
