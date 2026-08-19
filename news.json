@@ -1,6 +1,6 @@
 {
-  "updated": "2026-08-19T08:47:06.654071+00:00",
-  "count": 18,
+  "updated": "2026-08-19T10:35:52.983263+00:00",
+  "count": 20,
   "sources": [
     {
       "id": "technews",
@@ -60,6 +60,45 @@
     }
   ],
   "articles": [
+    {
+      "id": "0ba6118aaf8d",
+      "title": "先進封裝是「硬需求」！倍利科看好量測／檢測需求，營收拚逐月成長",
+      "link": "https://technews.tw/2026/08/19/v5-technologies-2026-q2-financial-report/",
+      "summary": "倍利科技今（19 日）舉行法說會，並公告上半年營收 14 億元，較 2022 年上半年約 1.3 億元成長近 [&#8230;]",
+      "date": "2026-08-19T09:52:34+00:00",
+      "sourceId": "technews",
+      "cats": [
+        "market",
+        "process",
+        "material"
+      ]
+    },
+    {
+      "id": "1daf1cd39ac7",
+      "title": "研調：記憶體荒波及，Q2 全球平板出貨年減 12.3%",
+      "link": "https://technews.tw/2026/08/19/research-memory-shortage-q2-global-tablet-shipments-12-3-yoy-drop/",
+      "summary": "綜合中媒報導，根據 IDC 今日發布《全球季度個人運算裝置追蹤報告》顯示，今年第二季全球平板電腦出貨量降至 3 [&#8230;]",
+      "date": "2026-08-19T09:10:01+00:00",
+      "sourceId": "technews",
+      "cats": [
+        "market",
+        "process",
+        "material"
+      ]
+    },
+    {
+      "id": "73a5e407a6db",
+      "title": "應材 SEMICON Taiwan 論壇聚焦半導體關鍵技術；Qnity 執行長首登大師論壇開講",
+      "link": "https://technews.tw/2026/08/19/semicon-taiwan-2026-applied-materials-qnity/",
+      "summary": "受到 AI 推動，半導體產業正邁向 3D 結構與系統級整合的新階段，創新模式也從單點技術突破，轉向材料、製程、 [&#8230;]",
+      "date": "2026-08-19T08:57:02+00:00",
+      "sourceId": "technews",
+      "cats": [
+        "market",
+        "process",
+        "material"
+      ]
+    },
     {
       "id": "a134db562ba0",
       "title": "台亞集團小金雞續接棒！和亞智慧 9 月中上櫃，跨半導體、CPO 與實體 AI",
@@ -131,19 +170,6 @@
       "link": "https://finance.technews.tw/2026/08/19/mikrosystem/",
       "summary": "上銀今年參與「2026 台北國際自動化工業大展」，董事長卓文恒表示，目前交期已拉長至 6 個月，預計產能滿載至 [&#8230;]",
       "date": "2026-08-19T06:08:22+00:00",
-      "sourceId": "technews",
-      "cats": [
-        "market",
-        "process",
-        "material"
-      ]
-    },
-    {
-      "id": "cd87b51d622c",
-      "title": "金融時報：輝達 H200 晶片抵中國，助 AI 業者追趕美國",
-      "link": "https://technews.tw/2026/08/19/china-eases-limits-on-nvidia-h200-chips-as-ai-race-escalates/",
-      "summary": "英國《金融時報》報導，少量輝達（Nvidia）H200 晶片已獲准進入中國，與此同時，北京當局正試圖協助中國主 [&#8230;]",
-      "date": "2026-08-19T05:05:08+00:00",
       "sourceId": "technews",
       "cats": [
         "market",
