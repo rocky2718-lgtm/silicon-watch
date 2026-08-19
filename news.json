@@ -1,6 +1,6 @@
 {
-  "updated": "2026-08-19T03:04:53.919864+00:00",
-  "count": 19,
+  "updated": "2026-08-19T04:43:59.205586+00:00",
+  "count": 20,
   "sources": [
     {
       "id": "technews",
@@ -61,6 +61,84 @@
   ],
   "articles": [
     {
+      "id": "7a835071267f",
+      "title": "輝達礦卡只需軟體破解就能解鎖 VRAM，8GB 舊卡擴充最高至 64GB",
+      "link": "https://technews.tw/2026/08/19/nvidia-crypto-mining-gpus-hacked-to-restore-locked-away-vram/",
+      "summary": "輝達（Nvidia）2021 年推出、加密貨幣專用的 CMP 170HX，近日因純軟體破解法重新受關注。新工具 [&#8230;]",
+      "date": "2026-08-19T04:10:38+00:00",
+      "sourceId": "technews",
+      "cats": [
+        "market",
+        "process",
+        "material"
+      ]
+    },
+    {
+      "id": "d1d9a7a92ee0",
+      "title": "小米 Q2 經調整獲利減 43%  盧偉冰：H2 記憶體漲價料趨緩",
+      "link": "https://finance.technews.tw/2026/08/19/xiaomi-q2-adjusted-profit-falls-43-year-over-year/",
+      "summary": "綜合港媒及中媒報導，小米公布 2026 年第二季收入 1,089.22 億元（人民幣，下同）、年減 6.1%； [&#8230;]",
+      "date": "2026-08-19T03:50:01+00:00",
+      "sourceId": "technews",
+      "cats": [
+        "market",
+        "process",
+        "material"
+      ]
+    },
+    {
+      "id": "7db98060ce97",
+      "title": "Cerebras 推新 AI 伺服器，台積電 5 奈米打造挑戰輝達",
+      "link": "https://technews.tw/2026/08/19/cerebras-cs-4/",
+      "summary": "Cerebras Systems 今天宣布新一代伺服器硬體 CS-4，號稱能加快 AI 聊天機器人的回應速度。 [&#8230;]",
+      "date": "2026-08-19T03:20:35+00:00",
+      "sourceId": "technews",
+      "cats": [
+        "market",
+        "process",
+        "material"
+      ]
+    },
+    {
+      "id": "1abad3da4fe7",
+      "title": "兩個機架可比 570 個，AMD 預告 2030 年 AI 系統能效狂飆 20 倍",
+      "link": "https://technews.tw/2026/08/19/amd-claims-its-2026-rack-scale-ai-solution-is-4x-more-energy-efficient-than-its-2024-ai-platform/",
+      "summary": "AMD 在最新估算中表示，其 2026 年的機架級 AI 解決方案，相較 2024 年基準可達到 4 倍能源效 [&#8230;]",
+      "date": "2026-08-19T03:10:34+00:00",
+      "sourceId": "technews",
+      "cats": [
+        "market",
+        "process",
+        "material"
+      ]
+    },
+    {
+      "id": "18b606b38216",
+      "title": "廣運五大事業齊發！在手訂單 66.6 億元、半導體物流占比飆至 30%",
+      "link": "https://finance.technews.tw/2026/08/19/nvidia-cloudxr/",
+      "summary": "廣運今年參與「2026 台北國際自動化工業大展」，總經理柯智鈞表示，廣運全力推動「五大事業布局」，搶攻半導體與 [&#8230;]",
+      "date": "2026-08-19T03:08:05+00:00",
+      "sourceId": "technews",
+      "cats": [
+        "market",
+        "process",
+        "material"
+      ]
+    },
+    {
+      "id": "26177989777c",
+      "title": "精材下半年營運拚優於上半年！股價今續低迷，法人看好後市送暖",
+      "link": "https://technews.tw/2026/08/19/xintec-2026-q2-financial-report/",
+      "summary": "台積電轉投資封測廠精材在法說會後表現低迷，昨（18 日）逆勢反彈一度觸及漲停，今日再度開低並在平盤以下徘徊，暫 [&#8230;]",
+      "date": "2026-08-19T03:05:04+00:00",
+      "sourceId": "technews",
+      "cats": [
+        "market",
+        "process",
+        "material"
+      ]
+    },
+    {
       "id": "7b0ceb04d437",
       "title": "英特爾要投入新世代記憶體堆疊技術研發，業界關心是否顛覆市場生態",
       "link": "https://technews.tw/2026/08/19/intel-to-invest-in-next-generation-memory-stacking-technology-research-and-development/",
@@ -79,71 +157,6 @@
       "link": "https://finance.technews.tw/2026/08/19/sox-plunges-tsmc-under-pressure-funds-shift-traditional-industries-high-performing-electronics-hedging/",
       "summary": "台股 18 日雖微幅收紅 0.10% 至 45,857 點，但三大法人合計大砍近 258 億元，資金明顯由電子 [&#8230;]",
       "date": "2026-08-19T02:00:10+00:00",
-      "sourceId": "technews",
-      "cats": [
-        "market",
-        "process",
-        "material"
-      ]
-    },
-    {
-      "id": "c78a043d9529",
-      "title": "輝達財報前 CDS 利差突破前高、市場憂循環融資",
-      "link": "https://finance.technews.tw/2026/08/19/semiconductor-stocks-face-renewed-selling-pressure-as-credit-stress-returns/",
-      "summary": "輝達（Nvidia Corp.）的信用違約交換（CDS）利差持續擴大、已超越 7 月底的前波高，暗示信貸市場變 [&#8230;]",
-      "date": "2026-08-19T01:30:08+00:00",
-      "sourceId": "technews",
-      "cats": [
-        "market",
-        "process",
-        "material"
-      ]
-    },
-    {
-      "id": "3ff717c84ce9",
-      "title": "AI 時代封裝才是關鍵戰場，ASMPT 用 TCB、Hybrid Bonding、CPO 三線布局強化先進封裝的定位",
-      "link": "https://technews.tw/2026/08/19/asmpt-tcb-hybrid-bonding-cpo-advanced-packaging/",
-      "summary": "談到半導體設備領域，ASML 肯定是大家都不陌生的名字，但鮮少人知道，在封裝設備領域已耕耘超過五十年的 ASM [&#8230;]",
-      "date": "2026-08-19T01:00:57+00:00",
-      "sourceId": "technews",
-      "cats": [
-        "market",
-        "process",
-        "material"
-      ]
-    },
-    {
-      "id": "fd3f3abce356",
-      "title": "美晶片股大跌，國債走低恐長期衝擊經濟",
-      "link": "https://finance.technews.tw/2026/08/19/us-chip-stocks-plunge-treasury-yields-fall-long-term-economic-impact/",
-      "summary": "美股今天面臨國債拋售壓力，3 大指數走低，費半指數大跌。AI 產業資金需求龐大，發債規模擠壓傳統國債市場，企業 [&#8230;]",
-      "date": "2026-08-19T01:00:07+00:00",
-      "sourceId": "technews",
-      "cats": [
-        "market",
-        "process",
-        "material"
-      ]
-    },
-    {
-      "id": "878b85576e1e",
-      "title": "投資市場憂慮氣氛再起，英特爾、AMD 兩大處理器巨擘股價遭空方狙擊",
-      "link": "https://finance.technews.tw/2026/08/19/intel-and-amd-the-two-processor-giants-saw-their-stock-prices-attacked-by-short-sellers/",
-      "summary": "受到市場整體拋售潮波及，兩大處理器巨擘英特爾與 AMD 在週二美國股市中股價重挫。其中，英特爾股價下跌逾 7% [&#8230;]",
-      "date": "2026-08-19T00:45:38+00:00",
-      "sourceId": "technews",
-      "cats": [
-        "market",
-        "process",
-        "material"
-      ]
-    },
-    {
-      "id": "e542a2e86f37",
-      "title": "輝達建構 AI 產業護城河改變模式，從晶片換成資本",
-      "link": "https://finance.technews.tw/2026/08/19/nvidia-is-building-a-moat-around-its-ai-industry-changing-the-business-model/",
-      "summary": "在生成式人工智慧（AI）熱潮爆發近四年後，晶片龍頭輝達（Nvidia）憑藉早期的巨大領先優勢，一躍成為全球市值 [&#8230;]",
-      "date": "2026-08-19T00:15:19+00:00",
       "sourceId": "technews",
       "cats": [
         "market",
