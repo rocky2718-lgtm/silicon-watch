@@ -1,6 +1,6 @@
 {
-  "updated": "2026-08-19T10:35:52.983263+00:00",
-  "count": 20,
+  "updated": "2026-08-19T13:00:44.622223+00:00",
+  "count": 19,
   "sources": [
     {
       "id": "technews",
@@ -209,19 +209,6 @@
       "link": "https://www.eetimes.com/automotive-functional-safety-why-asil-compliance-starts-with-electromagnetic-design/",
       "summary": "Automotive electronic systems face relentless pressure to meet electromagnetic compatibility (EMC), signal integrity (SI), and power integrity (PI) targets while satisfying strict ASIL safety requirements. Too often, engineers discover problems late: EMC failures surface during vehicle integration, ",
       "date": "2026-08-17T14:00:00+00:00",
-      "sourceId": "eetimes",
-      "cats": [
-        "process",
-        "material",
-        "equipment"
-      ]
-    },
-    {
-      "id": "dccd5750e0ee",
-      "title": "Intel at a Memory Crossroads, Again",
-      "link": "https://www.eetimes.com/intel-at-a-memory-crossroads-again/",
-      "summary": "The CPU specialist heeds a memory comeback while memory chips transform from commodity to AI gold rush. The post Intel at a Memory Crossroads, Again appeared first on EE Times.",
-      "date": "2026-08-14T13:01:36+00:00",
       "sourceId": "eetimes",
       "cats": [
         "process",
