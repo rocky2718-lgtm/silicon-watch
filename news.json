@@ -1,6 +1,6 @@
 {
-  "updated": "2026-08-19T01:44:24.011503+00:00",
-  "count": 20,
+  "updated": "2026-08-19T03:04:53.919864+00:00",
+  "count": 19,
   "sources": [
     {
       "id": "technews",
@@ -61,6 +61,32 @@
   ],
   "articles": [
     {
+      "id": "7b0ceb04d437",
+      "title": "英特爾要投入新世代記憶體堆疊技術研發，業界關心是否顛覆市場生態",
+      "link": "https://technews.tw/2026/08/19/intel-to-invest-in-next-generation-memory-stacking-technology-research-and-development/",
+      "summary": "隨著人工智慧（AI）的蓬勃發展，記憶體已成為決定半導體性能的關鍵技術，這使得處理器巨擘英特爾（Intel）重新 [&#8230;]",
+      "date": "2026-08-19T02:45:49+00:00",
+      "sourceId": "technews",
+      "cats": [
+        "market",
+        "process",
+        "material"
+      ]
+    },
+    {
+      "id": "f490b1dccdef",
+      "title": "費半崩跌台積電承壓，資金急轉傳產與績優電子避險",
+      "link": "https://finance.technews.tw/2026/08/19/sox-plunges-tsmc-under-pressure-funds-shift-traditional-industries-high-performing-electronics-hedging/",
+      "summary": "台股 18 日雖微幅收紅 0.10% 至 45,857 點，但三大法人合計大砍近 258 億元，資金明顯由電子 [&#8230;]",
+      "date": "2026-08-19T02:00:10+00:00",
+      "sourceId": "technews",
+      "cats": [
+        "market",
+        "process",
+        "material"
+      ]
+    },
+    {
       "id": "c78a043d9529",
       "title": "輝達財報前 CDS 利差突破前高、市場憂循環融資",
       "link": "https://finance.technews.tw/2026/08/19/semiconductor-stocks-face-renewed-selling-pressure-as-credit-stress-returns/",
@@ -118,45 +144,6 @@
       "link": "https://finance.technews.tw/2026/08/19/nvidia-is-building-a-moat-around-its-ai-industry-changing-the-business-model/",
       "summary": "在生成式人工智慧（AI）熱潮爆發近四年後，晶片龍頭輝達（Nvidia）憑藉早期的巨大領先優勢，一躍成為全球市值 [&#8230;]",
       "date": "2026-08-19T00:15:19+00:00",
-      "sourceId": "technews",
-      "cats": [
-        "market",
-        "process",
-        "material"
-      ]
-    },
-    {
-      "id": "b529cfb46f8c",
-      "title": "聯亞矽光產品出貨續增！外資法人齊點讚，目標價喊上 4000 元",
-      "link": "https://technews.tw/2026/08/18/investors-see-landmark-2026-q2-financial-report/",
-      "summary": "聯亞先前舉辦第二季法說會，展望後市，公司表示，隨著產能與後段代工廠產能持續開出，預期矽光產品出貨量在未來數季皆 [&#8230;]",
-      "date": "2026-08-18T09:27:25+00:00",
-      "sourceId": "technews",
-      "cats": [
-        "market",
-        "process",
-        "material"
-      ]
-    },
-    {
-      "id": "6fe49968e517",
-      "title": "安葆半導體、AIDC 客戶需求齊發，鴻海高雄資料中心專案啟動",
-      "link": "https://technews.tw/2026/08/18/ample-customer-base-expands-us-factory-boom-semiconductor-data-center-demand/",
-      "summary": "半導體與 AI 資料中心建置需求持續升溫，系統整合廠安葆客戶版圖也跟著擴大。董事長陳志復表示，目前除主要晶圓代 [&#8230;]",
-      "date": "2026-08-18T08:59:43+00:00",
-      "sourceId": "technews",
-      "cats": [
-        "market",
-        "process",
-        "material"
-      ]
-    },
-    {
-      "id": "c42e32b7fadf",
-      "title": "攻國產化商機！亞智完成跨尺寸面板級封裝 ECD 量產布局",
-      "link": "https://technews.tw/2026/08/18/manz-ecd-equipment/",
-      "summary": "半導體面板級封裝設備 Manz 亞智科技今（18 日）宣布，已率先完成 310 mm、510 mm及 700 [&#8230;]",
-      "date": "2026-08-18T08:30:29+00:00",
       "sourceId": "technews",
       "cats": [
         "market",
