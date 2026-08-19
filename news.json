@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-18T22:31:33.301353+00:00",
+  "updated": "2026-08-19T01:44:24.011503+00:00",
   "count": 20,
   "sources": [
     {
@@ -61,6 +61,71 @@
   ],
   "articles": [
     {
+      "id": "c78a043d9529",
+      "title": "輝達財報前 CDS 利差突破前高、市場憂循環融資",
+      "link": "https://finance.technews.tw/2026/08/19/semiconductor-stocks-face-renewed-selling-pressure-as-credit-stress-returns/",
+      "summary": "輝達（Nvidia Corp.）的信用違約交換（CDS）利差持續擴大、已超越 7 月底的前波高，暗示信貸市場變 [&#8230;]",
+      "date": "2026-08-19T01:30:08+00:00",
+      "sourceId": "technews",
+      "cats": [
+        "market",
+        "process",
+        "material"
+      ]
+    },
+    {
+      "id": "3ff717c84ce9",
+      "title": "AI 時代封裝才是關鍵戰場，ASMPT 用 TCB、Hybrid Bonding、CPO 三線布局強化先進封裝的定位",
+      "link": "https://technews.tw/2026/08/19/asmpt-tcb-hybrid-bonding-cpo-advanced-packaging/",
+      "summary": "談到半導體設備領域，ASML 肯定是大家都不陌生的名字，但鮮少人知道，在封裝設備領域已耕耘超過五十年的 ASM [&#8230;]",
+      "date": "2026-08-19T01:00:57+00:00",
+      "sourceId": "technews",
+      "cats": [
+        "market",
+        "process",
+        "material"
+      ]
+    },
+    {
+      "id": "fd3f3abce356",
+      "title": "美晶片股大跌，國債走低恐長期衝擊經濟",
+      "link": "https://finance.technews.tw/2026/08/19/us-chip-stocks-plunge-treasury-yields-fall-long-term-economic-impact/",
+      "summary": "美股今天面臨國債拋售壓力，3 大指數走低，費半指數大跌。AI 產業資金需求龐大，發債規模擠壓傳統國債市場，企業 [&#8230;]",
+      "date": "2026-08-19T01:00:07+00:00",
+      "sourceId": "technews",
+      "cats": [
+        "market",
+        "process",
+        "material"
+      ]
+    },
+    {
+      "id": "878b85576e1e",
+      "title": "投資市場憂慮氣氛再起，英特爾、AMD 兩大處理器巨擘股價遭空方狙擊",
+      "link": "https://finance.technews.tw/2026/08/19/intel-and-amd-the-two-processor-giants-saw-their-stock-prices-attacked-by-short-sellers/",
+      "summary": "受到市場整體拋售潮波及，兩大處理器巨擘英特爾與 AMD 在週二美國股市中股價重挫。其中，英特爾股價下跌逾 7% [&#8230;]",
+      "date": "2026-08-19T00:45:38+00:00",
+      "sourceId": "technews",
+      "cats": [
+        "market",
+        "process",
+        "material"
+      ]
+    },
+    {
+      "id": "e542a2e86f37",
+      "title": "輝達建構 AI 產業護城河改變模式，從晶片換成資本",
+      "link": "https://finance.technews.tw/2026/08/19/nvidia-is-building-a-moat-around-its-ai-industry-changing-the-business-model/",
+      "summary": "在生成式人工智慧（AI）熱潮爆發近四年後，晶片龍頭輝達（Nvidia）憑藉早期的巨大領先優勢，一躍成為全球市值 [&#8230;]",
+      "date": "2026-08-19T00:15:19+00:00",
+      "sourceId": "technews",
+      "cats": [
+        "market",
+        "process",
+        "material"
+      ]
+    },
+    {
       "id": "b529cfb46f8c",
       "title": "聯亞矽光產品出貨續增！外資法人齊點讚，目標價喊上 4000 元",
       "link": "https://technews.tw/2026/08/18/investors-see-landmark-2026-q2-financial-report/",
@@ -92,71 +157,6 @@
       "link": "https://technews.tw/2026/08/18/manz-ecd-equipment/",
       "summary": "半導體面板級封裝設備 Manz 亞智科技今（18 日）宣布，已率先完成 310 mm、510 mm及 700 [&#8230;]",
       "date": "2026-08-18T08:30:29+00:00",
-      "sourceId": "technews",
-      "cats": [
-        "market",
-        "process",
-        "material"
-      ]
-    },
-    {
-      "id": "955bc67f93fd",
-      "title": "輝達與 LG 機器人合作再升溫，黃仁勳女兒親赴首爾建置「機器人資料工廠」",
-      "link": "https://technews.tw/2026/08/18/madison-huang-to-visit-lg-robotics-hub-as-ai-partnership-gains-momentum/",
-      "summary": "韓國 LG 電子與美國晶片大廠輝達（NVIDIA）的合作再度升溫。輝達資深主管、執行長黃仁勳的女兒黃敏珊（Ma [&#8230;]",
-      "date": "2026-08-18T08:30:08+00:00",
-      "sourceId": "technews",
-      "cats": [
-        "market",
-        "process",
-        "material"
-      ]
-    },
-    {
-      "id": "4fd60a513598",
-      "title": "韓媒：除台積電外，多數台灣人對高經濟成長率無感！韓國要引以為鑑",
-      "link": "https://finance.technews.tw/2026/08/18/apart-from-tsmc-most-taiwanese-people-are-indifferent-to-the-high-economic-growth-rate/",
-      "summary": "韓國媒體報導，人工智慧（AI）與先進晶片需求的全球爆發，台灣經濟迎接驚人的成長，但這道亮麗的光環卻未能照亮所有 [&#8230;]",
-      "date": "2026-08-18T07:50:55+00:00",
-      "sourceId": "technews",
-      "cats": [
-        "market",
-        "process",
-        "material"
-      ]
-    },
-    {
-      "id": "faebad2d2196",
-      "title": "新思科技攜手輝達引領自動化代理式 AI 工程變革，產品下半年問世",
-      "link": "https://technews.tw/2026/08/18/synopsys-and-nvidia-lead-the-revolution-in-autonomous-agent-based-ai-engineering/",
-      "summary": "新思科技（Synopsys）在 2026 DAC 大會中，與輝達（NVIDIA）共同發表了針對工程領域的代理式 [&#8230;]",
-      "date": "2026-08-18T07:15:39+00:00",
-      "sourceId": "technews",
-      "cats": [
-        "market",
-        "process",
-        "material"
-      ]
-    },
-    {
-      "id": "143f08b846e9",
-      "title": "群創 EPS 季增近兩倍，加速布局玻璃基板搶攻 AI 封裝商機",
-      "link": "https://finance.technews.tw/2026/08/18/innolux-ai-2/",
-      "summary": "群創今日舉行下半年法人說明會，受惠於持續推動輕資產策略及優化產品組合，帶動獲利能力改善，第二季稅後淨利維持獲利 [&#8230;]",
-      "date": "2026-08-18T07:15:35+00:00",
-      "sourceId": "technews",
-      "cats": [
-        "market",
-        "process",
-        "material"
-      ]
-    },
-    {
-      "id": "be91fb934811",
-      "title": "瞄準矽光子爆發力！宏遠證主辦聯電 40 億 CB 競價拍賣 8/19 競標",
-      "link": "https://finance.technews.tw/2026/08/18/silicon-photon-burst-power/",
-      "summary": "宏遠證券主辦聯電發行國內第二次無擔保轉換公司債，發行總面額 40 億元，競拍底標價為 100 元，最低投標單位 [&#8230;]",
-      "date": "2026-08-18T06:38:42+00:00",
       "sourceId": "technews",
       "cats": [
         "market",
