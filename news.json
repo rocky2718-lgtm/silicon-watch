@@ -1,6 +1,6 @@
 {
-  "updated": "2026-08-19T06:56:12.909862+00:00",
-  "count": 20,
+  "updated": "2026-08-19T08:47:06.654071+00:00",
+  "count": 18,
   "sources": [
     {
       "id": "technews",
@@ -61,6 +61,45 @@
   ],
   "articles": [
     {
+      "id": "a134db562ba0",
+      "title": "台亞集團小金雞續接棒！和亞智慧 9 月中上櫃，跨半導體、CPO 與實體 AI",
+      "link": "https://technews.tw/2026/08/19/nstc-taiwan-september/",
+      "summary": "台亞半導體旗下和亞智慧今（19 日）舉行上櫃前業績發表會，預計 9 月中旬正式上櫃，繼星亞視覺後，成為台亞集團 [&#8230;]",
+      "date": "2026-08-19T08:40:05+00:00",
+      "sourceId": "technews",
+      "cats": [
+        "market",
+        "process",
+        "material"
+      ]
+    },
+    {
+      "id": "c1d246cf5873",
+      "title": "專用治具勝過靈巧手！達明破解 Sim-to-Real 落差通吃半導體與造船業",
+      "link": "https://finance.technews.tw/2026/08/19/real-sim-real/",
+      "summary": "達明機器人今年參與「2026 台北國際自動化工業大展」，董事長何世池表示，面對物理 AI 從虛擬驗證走向真實產 [&#8230;]",
+      "date": "2026-08-19T07:21:58+00:00",
+      "sourceId": "technews",
+      "cats": [
+        "market",
+        "process",
+        "material"
+      ]
+    },
+    {
+      "id": "586a2c9ec340",
+      "title": "大摩預期 2026 年接下來兩季，技術較成熟 DRAM 及 NAND 記憶體價格仍將飆漲",
+      "link": "https://technews.tw/2026/08/19/prices-for-dram-and-nand-memory-despite-their-more-mature-technologies-are-expected-to-continue-to-soar/",
+      "summary": "根據外資大摩 (摩根士丹利，Morgan Stanley) 的最新報告指出，標準型 DRAM 與 NAND 記 [&#8230;]",
+      "date": "2026-08-19T07:15:14+00:00",
+      "sourceId": "technews",
+      "cats": [
+        "market",
+        "process",
+        "material"
+      ]
+    },
+    {
       "id": "28eb1ae1b225",
       "title": "日本 Socionext 採用英特爾 18A-P 製程、股價重摔",
       "link": "https://finance.technews.tw/2026/08/19/socionext-broadens-soc-roadmap-with-intel-18a-p-process-technology/",
@@ -113,58 +152,6 @@
       ]
     },
     {
-      "id": "66000607779d",
-      "title": "輝達自由現金流穩  美銀抱屈、喊股價遭低估 50%",
-      "link": "https://finance.technews.tw/2026/08/19/nvidia-stock-has-55-percent-upside-analyst-says-heres-what-investors-miss/",
-      "summary": "美國銀行（Bank of America）認為，投資人可能過度放大 AI 龍頭輝達（Nvidia Corp.） [&#8230;]",
-      "date": "2026-08-19T05:00:27+00:00",
-      "sourceId": "technews",
-      "cats": [
-        "market",
-        "process",
-        "material"
-      ]
-    },
-    {
-      "id": "229db98064ad",
-      "title": "AI 硬體進入「推論」決戰期！通用 GPU 不再萬能，客製化 ASIC 成市場新寵",
-      "link": "https://technews.tw/2026/08/19/custom-ai-chips/",
-      "summary": "AI 熱潮過去主要仰賴 GPU、CPU 與大量 HBM 和 DRAM 撐起運算需求，但隨著重心逐步轉向推論，客 [&#8230;]",
-      "date": "2026-08-19T04:50:17+00:00",
-      "sourceId": "technews",
-      "cats": [
-        "market",
-        "process",
-        "material"
-      ]
-    },
-    {
-      "id": "7a835071267f",
-      "title": "輝達礦卡只需軟體破解就能解鎖 VRAM，8GB 舊卡擴充最高至 64GB",
-      "link": "https://technews.tw/2026/08/19/nvidia-crypto-mining-gpus-hacked-to-restore-locked-away-vram/",
-      "summary": "輝達（Nvidia）2021 年推出、加密貨幣專用的 CMP 170HX，近日因純軟體破解法重新受關注。新工具 [&#8230;]",
-      "date": "2026-08-19T04:10:38+00:00",
-      "sourceId": "technews",
-      "cats": [
-        "market",
-        "process",
-        "material"
-      ]
-    },
-    {
-      "id": "d1d9a7a92ee0",
-      "title": "小米 Q2 經調整獲利減 43%  盧偉冰：H2 記憶體漲價料趨緩",
-      "link": "https://finance.technews.tw/2026/08/19/xiaomi-q2-adjusted-profit-falls-43-year-over-year/",
-      "summary": "綜合港媒及中媒報導，小米公布 2026 年第二季收入 1,089.22 億元（人民幣，下同）、年減 6.1%； [&#8230;]",
-      "date": "2026-08-19T03:50:01+00:00",
-      "sourceId": "technews",
-      "cats": [
-        "market",
-        "process",
-        "material"
-      ]
-    },
-    {
       "id": "9d2cb8c92a86",
       "title": "Nvidia Bets on the Classical Side of Quantum Computing",
       "link": "https://www.eetimes.com/nvidia-bets-on-the-classical-side-of-quantum-computing/",
@@ -209,19 +196,6 @@
       "link": "https://www.eetimes.com/intel-at-a-memory-crossroads-again/",
       "summary": "The CPU specialist heeds a memory comeback while memory chips transform from commodity to AI gold rush. The post Intel at a Memory Crossroads, Again appeared first on EE Times.",
       "date": "2026-08-14T13:01:36+00:00",
-      "sourceId": "eetimes",
-      "cats": [
-        "process",
-        "material",
-        "equipment"
-      ]
-    },
-    {
-      "id": "7fdb66ca8188",
-      "title": "Semiconductor Equipment Shifts To Build-to-Print Manufacturing",
-      "link": "https://www.eetimes.com/semiconductor-equipment-shifts-to-build-to-print-manufacturing/",
-      "summary": "Semiconductor equipment OEMs look to build-to-print for greater capacity. The post Semiconductor Equipment Shifts To Build-to-Print Manufacturing appeared first on EE Times.",
-      "date": "2026-08-14T10:56:17+00:00",
       "sourceId": "eetimes",
       "cats": [
         "process",
