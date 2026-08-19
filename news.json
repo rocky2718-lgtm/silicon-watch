@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-19T04:43:59.205586+00:00",
+  "updated": "2026-08-19T06:56:12.909862+00:00",
   "count": 20,
   "sources": [
     {
@@ -61,6 +61,84 @@
   ],
   "articles": [
     {
+      "id": "28eb1ae1b225",
+      "title": "日本 Socionext 採用英特爾 18A-P 製程、股價重摔",
+      "link": "https://finance.technews.tw/2026/08/19/socionext-broadens-soc-roadmap-with-intel-18a-p-process-technology/",
+      "summary": "日本晶片設計商 Socionext 採用英特爾（Intel）「18A-P」製程技術，用來研發客製化系統單晶片（ [&#8230;]",
+      "date": "2026-08-19T06:30:46+00:00",
+      "sourceId": "technews",
+      "cats": [
+        "market",
+        "process",
+        "material"
+      ]
+    },
+    {
+      "id": "da1d1af8069e",
+      "title": "狂挖輝達人才＋借力台積電  晶片新創 Etched 估值飆",
+      "link": "https://technews.tw/2026/08/19/a-21-billion-kids-in-chips-startup-is-scooping-up-nvidia-talent/",
+      "summary": "AI 晶片新創商 Etched 正加速挑戰輝達（Nvidia Corp.）霸主地位，不僅大舉挖角輝達工程師，更 [&#8230;]",
+      "date": "2026-08-19T06:10:43+00:00",
+      "sourceId": "technews",
+      "cats": [
+        "market",
+        "process",
+        "material"
+      ]
+    },
+    {
+      "id": "fd742deb3491",
+      "title": "搶灘矽光子 CPO 商機！上銀產能滿載至明年首季、機器人占比達 12%",
+      "link": "https://finance.technews.tw/2026/08/19/mikrosystem/",
+      "summary": "上銀今年參與「2026 台北國際自動化工業大展」，董事長卓文恒表示，目前交期已拉長至 6 個月，預計產能滿載至 [&#8230;]",
+      "date": "2026-08-19T06:08:22+00:00",
+      "sourceId": "technews",
+      "cats": [
+        "market",
+        "process",
+        "material"
+      ]
+    },
+    {
+      "id": "cd87b51d622c",
+      "title": "金融時報：輝達 H200 晶片抵中國，助 AI 業者追趕美國",
+      "link": "https://technews.tw/2026/08/19/china-eases-limits-on-nvidia-h200-chips-as-ai-race-escalates/",
+      "summary": "英國《金融時報》報導，少量輝達（Nvidia）H200 晶片已獲准進入中國，與此同時，北京當局正試圖協助中國主 [&#8230;]",
+      "date": "2026-08-19T05:05:08+00:00",
+      "sourceId": "technews",
+      "cats": [
+        "market",
+        "process",
+        "material"
+      ]
+    },
+    {
+      "id": "66000607779d",
+      "title": "輝達自由現金流穩  美銀抱屈、喊股價遭低估 50%",
+      "link": "https://finance.technews.tw/2026/08/19/nvidia-stock-has-55-percent-upside-analyst-says-heres-what-investors-miss/",
+      "summary": "美國銀行（Bank of America）認為，投資人可能過度放大 AI 龍頭輝達（Nvidia Corp.） [&#8230;]",
+      "date": "2026-08-19T05:00:27+00:00",
+      "sourceId": "technews",
+      "cats": [
+        "market",
+        "process",
+        "material"
+      ]
+    },
+    {
+      "id": "229db98064ad",
+      "title": "AI 硬體進入「推論」決戰期！通用 GPU 不再萬能，客製化 ASIC 成市場新寵",
+      "link": "https://technews.tw/2026/08/19/custom-ai-chips/",
+      "summary": "AI 熱潮過去主要仰賴 GPU、CPU 與大量 HBM 和 DRAM 撐起運算需求，但隨著重心逐步轉向推論，客 [&#8230;]",
+      "date": "2026-08-19T04:50:17+00:00",
+      "sourceId": "technews",
+      "cats": [
+        "market",
+        "process",
+        "material"
+      ]
+    },
+    {
       "id": "7a835071267f",
       "title": "輝達礦卡只需軟體破解就能解鎖 VRAM，8GB 舊卡擴充最高至 64GB",
       "link": "https://technews.tw/2026/08/19/nvidia-crypto-mining-gpus-hacked-to-restore-locked-away-vram/",
@@ -79,84 +157,6 @@
       "link": "https://finance.technews.tw/2026/08/19/xiaomi-q2-adjusted-profit-falls-43-year-over-year/",
       "summary": "綜合港媒及中媒報導，小米公布 2026 年第二季收入 1,089.22 億元（人民幣，下同）、年減 6.1%； [&#8230;]",
       "date": "2026-08-19T03:50:01+00:00",
-      "sourceId": "technews",
-      "cats": [
-        "market",
-        "process",
-        "material"
-      ]
-    },
-    {
-      "id": "7db98060ce97",
-      "title": "Cerebras 推新 AI 伺服器，台積電 5 奈米打造挑戰輝達",
-      "link": "https://technews.tw/2026/08/19/cerebras-cs-4/",
-      "summary": "Cerebras Systems 今天宣布新一代伺服器硬體 CS-4，號稱能加快 AI 聊天機器人的回應速度。 [&#8230;]",
-      "date": "2026-08-19T03:20:35+00:00",
-      "sourceId": "technews",
-      "cats": [
-        "market",
-        "process",
-        "material"
-      ]
-    },
-    {
-      "id": "1abad3da4fe7",
-      "title": "兩個機架可比 570 個，AMD 預告 2030 年 AI 系統能效狂飆 20 倍",
-      "link": "https://technews.tw/2026/08/19/amd-claims-its-2026-rack-scale-ai-solution-is-4x-more-energy-efficient-than-its-2024-ai-platform/",
-      "summary": "AMD 在最新估算中表示，其 2026 年的機架級 AI 解決方案，相較 2024 年基準可達到 4 倍能源效 [&#8230;]",
-      "date": "2026-08-19T03:10:34+00:00",
-      "sourceId": "technews",
-      "cats": [
-        "market",
-        "process",
-        "material"
-      ]
-    },
-    {
-      "id": "18b606b38216",
-      "title": "廣運五大事業齊發！在手訂單 66.6 億元、半導體物流占比飆至 30%",
-      "link": "https://finance.technews.tw/2026/08/19/nvidia-cloudxr/",
-      "summary": "廣運今年參與「2026 台北國際自動化工業大展」，總經理柯智鈞表示，廣運全力推動「五大事業布局」，搶攻半導體與 [&#8230;]",
-      "date": "2026-08-19T03:08:05+00:00",
-      "sourceId": "technews",
-      "cats": [
-        "market",
-        "process",
-        "material"
-      ]
-    },
-    {
-      "id": "26177989777c",
-      "title": "精材下半年營運拚優於上半年！股價今續低迷，法人看好後市送暖",
-      "link": "https://technews.tw/2026/08/19/xintec-2026-q2-financial-report/",
-      "summary": "台積電轉投資封測廠精材在法說會後表現低迷，昨（18 日）逆勢反彈一度觸及漲停，今日再度開低並在平盤以下徘徊，暫 [&#8230;]",
-      "date": "2026-08-19T03:05:04+00:00",
-      "sourceId": "technews",
-      "cats": [
-        "market",
-        "process",
-        "material"
-      ]
-    },
-    {
-      "id": "7b0ceb04d437",
-      "title": "英特爾要投入新世代記憶體堆疊技術研發，業界關心是否顛覆市場生態",
-      "link": "https://technews.tw/2026/08/19/intel-to-invest-in-next-generation-memory-stacking-technology-research-and-development/",
-      "summary": "隨著人工智慧（AI）的蓬勃發展，記憶體已成為決定半導體性能的關鍵技術，這使得處理器巨擘英特爾（Intel）重新 [&#8230;]",
-      "date": "2026-08-19T02:45:49+00:00",
-      "sourceId": "technews",
-      "cats": [
-        "market",
-        "process",
-        "material"
-      ]
-    },
-    {
-      "id": "f490b1dccdef",
-      "title": "費半崩跌台積電承壓，資金急轉傳產與績優電子避險",
-      "link": "https://finance.technews.tw/2026/08/19/sox-plunges-tsmc-under-pressure-funds-shift-traditional-industries-high-performing-electronics-hedging/",
-      "summary": "台股 18 日雖微幅收紅 0.10% 至 45,857 點，但三大法人合計大砍近 258 億元，資金明顯由電子 [&#8230;]",
-      "date": "2026-08-19T02:00:10+00:00",
       "sourceId": "technews",
       "cats": [
         "market",
