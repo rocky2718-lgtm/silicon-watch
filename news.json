@@ -1,6 +1,6 @@
 {
-  "updated": "2026-08-19T22:32:01.711066+00:00",
-  "count": 19,
+  "updated": "2026-08-20T01:43:05.044262+00:00",
+  "count": 16,
   "sources": [
     {
       "id": "technews",
@@ -61,11 +61,11 @@
   ],
   "articles": [
     {
-      "id": "0ba6118aaf8d",
-      "title": "先進封裝是「硬需求」！倍利科看好量測／檢測需求，營收拚逐月成長",
-      "link": "https://technews.tw/2026/08/19/v5-technologies-2026-q2-financial-report/",
-      "summary": "倍利科技今（19 日）舉行法說會，並公告上半年營收 14 億元，較 2022 年上半年約 1.3 億元成長近 [&#8230;]",
-      "date": "2026-08-19T09:52:34+00:00",
+      "id": "332710d9a611",
+      "title": "中國 AI 企業繞道東南亞，遠端取用輝達高階晶片算力",
+      "link": "https://technews.tw/2026/08/20/chinese-ai-firms-are-tapping-banned-nvidia-chips-through-southeast-asian-data-centers/",
+      "summary": "多家中國人工智慧企業被指透過泰國、馬來西亞、日本及其他東南亞地區的資料中心，遠端取得遭美國限制的輝達（Nvid [&#8230;]",
+      "date": "2026-08-20T01:30:02+00:00",
       "sourceId": "technews",
       "cats": [
         "market",
@@ -74,11 +74,11 @@
       ]
     },
     {
-      "id": "1daf1cd39ac7",
-      "title": "研調：記憶體荒波及，Q2 全球平板出貨年減 12.3%",
-      "link": "https://technews.tw/2026/08/19/research-memory-shortage-q2-global-tablet-shipments-12-3-yoy-drop/",
-      "summary": "綜合中媒報導，根據 IDC 今日發布《全球季度個人運算裝置追蹤報告》顯示，今年第二季全球平板電腦出貨量降至 3 [&#8230;]",
-      "date": "2026-08-19T09:10:01+00:00",
+      "id": "9fd9d616074f",
+      "title": "Wolfspeed 財報後崩  AI 業務成長未抵消虧損疑慮",
+      "link": "https://finance.technews.tw/2026/08/20/wolfspeed-reports-financial-results-for-the-fourth-quarter-of-fiscal-2026/",
+      "summary": "美國功率晶片大廠 Wolfspeed 上季財報好壞參半，AI 資料中心業務銷售額強勁成長，但公司仍深陷虧損，碳 [&#8230;]",
+      "date": "2026-08-20T00:40:47+00:00",
       "sourceId": "technews",
       "cats": [
         "market",
@@ -87,11 +87,11 @@
       ]
     },
     {
-      "id": "73a5e407a6db",
-      "title": "應材 SEMICON Taiwan 論壇聚焦半導體關鍵技術；Qnity 執行長首登大師論壇開講",
-      "link": "https://technews.tw/2026/08/19/semicon-taiwan-2026-applied-materials-qnity/",
-      "summary": "受到 AI 推動，半導體產業正邁向 3D 結構與系統級整合的新階段，創新模式也從單點技術突破，轉向材料、製程、 [&#8230;]",
-      "date": "2026-08-19T08:57:02+00:00",
+      "id": "693e41f18cb7",
+      "title": "華爾街六巨頭，為什麼願意替輝達客戶找錢？",
+      "link": "https://technews.tw/2026/08/20/why-wall-street-is-willing-to-finance-nvidia-customers/",
+      "summary": "GPU 需求仍旺盛之際，輝達（Nvidia）卻開始替顧客操心「買晶片的錢從哪裡來」的問題。8 月 10 日，輝 [&#8230;]",
+      "date": "2026-08-20T00:10:05+00:00",
       "sourceId": "technews",
       "cats": [
         "market",
@@ -100,11 +100,11 @@
       ]
     },
     {
-      "id": "a134db562ba0",
-      "title": "台亞集團小金雞續接棒！和亞智慧 9 月中上櫃，跨半導體、CPO 與實體 AI",
-      "link": "https://technews.tw/2026/08/19/nstc-taiwan-september/",
-      "summary": "台亞半導體旗下和亞智慧今（19 日）舉行上櫃前業績發表會，預計 9 月中旬正式上櫃，繼星亞視覺後，成為台亞集團 [&#8230;]",
-      "date": "2026-08-19T08:40:05+00:00",
+      "id": "1a63c6627f96",
+      "title": "台積電亞利桑那廠單季營收破台幣 400 億元，占全公司營收比例超過 4%",
+      "link": "https://finance.technews.tw/2026/08/20/tsmcs-arizona-plants-quarterly-revenue-exceeded-nt40-billion/",
+      "summary": "根據外資美銀最新數據顯示，台積電美國亞利桑那州晶圓廠正持續提高其在全公司整體營收與獲利的占比。儘管在計畫啟動之 [&#8230;]",
+      "date": "2026-08-20T00:00:59+00:00",
       "sourceId": "technews",
       "cats": [
         "market",
@@ -113,11 +113,11 @@
       ]
     },
     {
-      "id": "c1d246cf5873",
-      "title": "專用治具勝過靈巧手！達明破解 Sim-to-Real 落差通吃半導體與造船業",
-      "link": "https://finance.technews.tw/2026/08/19/real-sim-real/",
-      "summary": "達明機器人今年參與「2026 台北國際自動化工業大展」，董事長何世池表示，面對物理 AI 從虛擬驗證走向真實產 [&#8230;]",
-      "date": "2026-08-19T07:21:58+00:00",
+      "id": "22ec8acc2ee4",
+      "title": "台積電訂單外溢效應，三星要調漲晶圓代工價格",
+      "link": "https://finance.technews.tw/2026/08/20/samsung-to-raise-wafer-foundry-prices/",
+      "summary": "由於晶圓代工龍頭台積電產能持續吃緊，迫使 IC 設計業者積極尋求替代產能，韓國三星傳出已調漲其晶圓代工製造價格 [&#8230;]",
+      "date": "2026-08-19T23:20:10+00:00",
       "sourceId": "technews",
       "cats": [
         "market",
@@ -126,50 +126,11 @@
       ]
     },
     {
-      "id": "586a2c9ec340",
-      "title": "大摩預期 2026 年接下來兩季，技術較成熟 DRAM 及 NAND 記憶體價格仍將飆漲",
-      "link": "https://technews.tw/2026/08/19/prices-for-dram-and-nand-memory-despite-their-more-mature-technologies-are-expected-to-continue-to-soar/",
-      "summary": "根據外資大摩 (摩根士丹利，Morgan Stanley) 的最新報告指出，標準型 DRAM 與 NAND 記 [&#8230;]",
-      "date": "2026-08-19T07:15:14+00:00",
-      "sourceId": "technews",
-      "cats": [
-        "market",
-        "process",
-        "material"
-      ]
-    },
-    {
-      "id": "28eb1ae1b225",
-      "title": "日本 Socionext 採用英特爾 18A-P 製程、股價重摔",
-      "link": "https://finance.technews.tw/2026/08/19/socionext-broadens-soc-roadmap-with-intel-18a-p-process-technology/",
-      "summary": "日本晶片設計商 Socionext 採用英特爾（Intel）「18A-P」製程技術，用來研發客製化系統單晶片（ [&#8230;]",
-      "date": "2026-08-19T06:30:46+00:00",
-      "sourceId": "technews",
-      "cats": [
-        "market",
-        "process",
-        "material"
-      ]
-    },
-    {
-      "id": "da1d1af8069e",
-      "title": "狂挖輝達人才＋借力台積電  晶片新創 Etched 估值飆",
-      "link": "https://technews.tw/2026/08/19/a-21-billion-kids-in-chips-startup-is-scooping-up-nvidia-talent/",
-      "summary": "AI 晶片新創商 Etched 正加速挑戰輝達（Nvidia Corp.）霸主地位，不僅大舉挖角輝達工程師，更 [&#8230;]",
-      "date": "2026-08-19T06:10:43+00:00",
-      "sourceId": "technews",
-      "cats": [
-        "market",
-        "process",
-        "material"
-      ]
-    },
-    {
-      "id": "fd742deb3491",
-      "title": "搶灘矽光子 CPO 商機！上銀產能滿載至明年首季、機器人占比達 12%",
-      "link": "https://finance.technews.tw/2026/08/19/mikrosystem/",
-      "summary": "上銀今年參與「2026 台北國際自動化工業大展」，董事長卓文恒表示，目前交期已拉長至 6 個月，預計產能滿載至 [&#8230;]",
-      "date": "2026-08-19T06:08:22+00:00",
+      "id": "87a90ef69d42",
+      "title": "Google 與 Marvell 達成認股合作協議，消息衝擊 Broadcom 股價下跌 5%",
+      "link": "https://finance.technews.tw/2026/08/20/google-and-marvell-reach-share-subscription-agreement/",
+      "summary": "為因應人工智慧（AI）客製化晶片需求的爆發性成長，Google 正式與晶片大廠 Marvell Technol [&#8230;]",
+      "date": "2026-08-19T22:45:17+00:00",
       "sourceId": "technews",
       "cats": [
         "market",
