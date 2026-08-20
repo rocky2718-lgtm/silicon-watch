@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-20T01:43:05.044262+00:00",
+  "updated": "2026-08-20T03:04:17.675119+00:00",
   "count": 16,
   "sources": [
     {
@@ -61,6 +61,32 @@
   ],
   "articles": [
     {
+      "id": "d3a211f6e9c1",
+      "title": "晶片愈做愈大，漢高新一代 cDAF 搶攻先進封裝散熱",
+      "link": "https://technews.tw/2026/08/20/henkel-cdaf-advanced-packaging-thermal-management-larger-chips/",
+      "summary": "AI 晶片散熱挑戰持續升高，材料大廠漢高（Henkel）宣布推出新一代導電晶片黏著膜（cDAF）LOCTITE [&#8230;]",
+      "date": "2026-08-20T02:45:11+00:00",
+      "sourceId": "technews",
+      "cats": [
+        "market",
+        "process",
+        "material"
+      ]
+    },
+    {
+      "id": "03ad73ac21a3",
+      "title": "黃仁勳跨足社群化身「AI 老師」，親揭輝達 AI 帝國商業盤算",
+      "link": "https://technews.tw/2026/08/20/jensen-huang-social-media/",
+      "summary": "輝達（Nvidia）執行長黃仁勳近期開始活躍於社群媒體。自上個月加入 X 以來，他談論的話題涵蓋老舊晶片汰換、 [&#8230;]",
+      "date": "2026-08-20T02:20:37+00:00",
+      "sourceId": "technews",
+      "cats": [
+        "market",
+        "process",
+        "material"
+      ]
+    },
+    {
       "id": "332710d9a611",
       "title": "中國 AI 企業繞道東南亞，遠端取用輝達高階晶片算力",
       "link": "https://technews.tw/2026/08/20/chinese-ai-firms-are-tapping-banned-nvidia-chips-through-southeast-asian-data-centers/",
@@ -105,32 +131,6 @@
       "link": "https://finance.technews.tw/2026/08/20/tsmcs-arizona-plants-quarterly-revenue-exceeded-nt40-billion/",
       "summary": "根據外資美銀最新數據顯示，台積電美國亞利桑那州晶圓廠正持續提高其在全公司整體營收與獲利的占比。儘管在計畫啟動之 [&#8230;]",
       "date": "2026-08-20T00:00:59+00:00",
-      "sourceId": "technews",
-      "cats": [
-        "market",
-        "process",
-        "material"
-      ]
-    },
-    {
-      "id": "22ec8acc2ee4",
-      "title": "台積電訂單外溢效應，三星要調漲晶圓代工價格",
-      "link": "https://finance.technews.tw/2026/08/20/samsung-to-raise-wafer-foundry-prices/",
-      "summary": "由於晶圓代工龍頭台積電產能持續吃緊，迫使 IC 設計業者積極尋求替代產能，韓國三星傳出已調漲其晶圓代工製造價格 [&#8230;]",
-      "date": "2026-08-19T23:20:10+00:00",
-      "sourceId": "technews",
-      "cats": [
-        "market",
-        "process",
-        "material"
-      ]
-    },
-    {
-      "id": "87a90ef69d42",
-      "title": "Google 與 Marvell 達成認股合作協議，消息衝擊 Broadcom 股價下跌 5%",
-      "link": "https://finance.technews.tw/2026/08/20/google-and-marvell-reach-share-subscription-agreement/",
-      "summary": "為因應人工智慧（AI）客製化晶片需求的爆發性成長，Google 正式與晶片大廠 Marvell Technol [&#8230;]",
-      "date": "2026-08-19T22:45:17+00:00",
       "sourceId": "technews",
       "cats": [
         "market",
