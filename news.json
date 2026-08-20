@@ -1,6 +1,6 @@
 {
-  "updated": "2026-08-20T03:04:17.675119+00:00",
-  "count": 16,
+  "updated": "2026-08-20T04:45:02.549960+00:00",
+  "count": 14,
   "sources": [
     {
       "id": "technews",
@@ -61,6 +61,19 @@
   ],
   "articles": [
     {
+      "id": "9e1cbd4632a2",
+      "title": "獲 Anthropic 晶片大單！AI 新創 Fractile 擬以 65 億美元估值募資 6 億美元",
+      "link": "https://technews.tw/2026/08/20/fractile-anthropic-6-5-billion-value/",
+      "summary": "AI 晶片新創 Fractile 在與 Anthropic 達成供貨協議後，正洽談新一輪融資，使 Fracti [&#8230;]",
+      "date": "2026-08-20T03:54:05+00:00",
+      "sourceId": "technews",
+      "cats": [
+        "market",
+        "process",
+        "material"
+      ]
+    },
+    {
       "id": "d3a211f6e9c1",
       "title": "晶片愈做愈大，漢高新一代 cDAF 搶攻先進封裝散熱",
       "link": "https://technews.tw/2026/08/20/henkel-cdaf-advanced-packaging-thermal-management-larger-chips/",
@@ -92,45 +105,6 @@
       "link": "https://technews.tw/2026/08/20/chinese-ai-firms-are-tapping-banned-nvidia-chips-through-southeast-asian-data-centers/",
       "summary": "多家中國人工智慧企業被指透過泰國、馬來西亞、日本及其他東南亞地區的資料中心，遠端取得遭美國限制的輝達（Nvid [&#8230;]",
       "date": "2026-08-20T01:30:02+00:00",
-      "sourceId": "technews",
-      "cats": [
-        "market",
-        "process",
-        "material"
-      ]
-    },
-    {
-      "id": "9fd9d616074f",
-      "title": "Wolfspeed 財報後崩  AI 業務成長未抵消虧損疑慮",
-      "link": "https://finance.technews.tw/2026/08/20/wolfspeed-reports-financial-results-for-the-fourth-quarter-of-fiscal-2026/",
-      "summary": "美國功率晶片大廠 Wolfspeed 上季財報好壞參半，AI 資料中心業務銷售額強勁成長，但公司仍深陷虧損，碳 [&#8230;]",
-      "date": "2026-08-20T00:40:47+00:00",
-      "sourceId": "technews",
-      "cats": [
-        "market",
-        "process",
-        "material"
-      ]
-    },
-    {
-      "id": "693e41f18cb7",
-      "title": "華爾街六巨頭，為什麼願意替輝達客戶找錢？",
-      "link": "https://technews.tw/2026/08/20/why-wall-street-is-willing-to-finance-nvidia-customers/",
-      "summary": "GPU 需求仍旺盛之際，輝達（Nvidia）卻開始替顧客操心「買晶片的錢從哪裡來」的問題。8 月 10 日，輝 [&#8230;]",
-      "date": "2026-08-20T00:10:05+00:00",
-      "sourceId": "technews",
-      "cats": [
-        "market",
-        "process",
-        "material"
-      ]
-    },
-    {
-      "id": "1a63c6627f96",
-      "title": "台積電亞利桑那廠單季營收破台幣 400 億元，占全公司營收比例超過 4%",
-      "link": "https://finance.technews.tw/2026/08/20/tsmcs-arizona-plants-quarterly-revenue-exceeded-nt40-billion/",
-      "summary": "根據外資美銀最新數據顯示，台積電美國亞利桑那州晶圓廠正持續提高其在全公司整體營收與獲利的占比。儘管在計畫啟動之 [&#8230;]",
-      "date": "2026-08-20T00:00:59+00:00",
       "sourceId": "technews",
       "cats": [
         "market",
