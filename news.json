@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-20T06:57:18.736129+00:00",
+  "updated": "2026-08-20T08:48:57.714184+00:00",
   "count": 14,
   "sources": [
     {
@@ -61,8 +61,34 @@
   ],
   "articles": [
     {
+      "id": "bd891998fc6c",
+      "title": "IC 設計、CPO 客戶同步拉貨，晶呈科技 TGV 跨入量產",
+      "link": "https://technews.tw/2026/08/20/crystalwise-technology-tgv-mass-production-driven-by-ic-design-cpo-client-demand/",
+      "summary": "半導體特化材料廠晶呈科積極拓展玻璃通孔（TGV）新事業，受惠 AI 晶片、先進封裝及共同封裝光學（CPO）需求 [&#8230;]",
+      "date": "2026-08-20T08:48:08+00:00",
+      "sourceId": "technews",
+      "cats": [
+        "market",
+        "process",
+        "material"
+      ]
+    },
+    {
+      "id": "edce9ea126be",
+      "title": "中鋼頂級矽鋼片加持！富田「自研機器狗」打入高爐與半導體廠巡檢",
+      "link": "https://finance.technews.tw/2026/08/20/second-generation-robot-dog/",
+      "summary": "富田電機今年參與「2026 台北國際自動化工業大展」，董事長張金鋒表示，富田成功切入低空載具、機器人關節模組與 [&#8230;]",
+      "date": "2026-08-20T06:42:50+00:00",
+      "sourceId": "technews",
+      "cats": [
+        "market",
+        "process",
+        "material"
+      ]
+    },
+    {
       "id": "56df14cd4b6e",
-      "title": "聯發科股價一度下跌逾 4%，這要從 Google與 Marvell 最新簽訂協議談起",
+      "title": "聯發科股價一度下跌逾 4%，要從 Google與 Marvell 最新簽訂協議談起",
       "link": "https://finance.technews.tw/2026/08/20/googles-agreement-with-marvell-may-affect-mediatek/",
       "summary": "為因應人工智慧（AI）客製化晶片需求的爆發性成長，Google 正式擴大與晶片大廠 Marvell 的合作關係 [&#8230;]",
       "date": "2026-08-20T05:50:08+00:00",
@@ -79,32 +105,6 @@
       "link": "https://finance.technews.tw/2026/08/20/generac-shares-surge-54-on-ai-data-center-demand/",
       "summary": "AI 資料中心建置潮夯翻天，不只帶飛晶片與伺服器，也開始外溢到電力設備產業。美國發電機大廠 Generac 宣 [&#8230;]",
       "date": "2026-08-20T05:30:13+00:00",
-      "sourceId": "technews",
-      "cats": [
-        "market",
-        "process",
-        "material"
-      ]
-    },
-    {
-      "id": "9e1cbd4632a2",
-      "title": "獲 Anthropic 晶片大單！AI 新創 Fractile 擬以 65 億美元估值募資 6 億美元",
-      "link": "https://technews.tw/2026/08/20/fractile-anthropic-6-5-billion-value/",
-      "summary": "AI 晶片新創 Fractile 在與 Anthropic 達成供貨協議後，正洽談新一輪融資，使 Fracti [&#8230;]",
-      "date": "2026-08-20T03:54:05+00:00",
-      "sourceId": "technews",
-      "cats": [
-        "market",
-        "process",
-        "material"
-      ]
-    },
-    {
-      "id": "d3a211f6e9c1",
-      "title": "晶片愈做愈大，漢高新一代 cDAF 搶攻先進封裝散熱",
-      "link": "https://technews.tw/2026/08/20/henkel-cdaf-advanced-packaging-thermal-management-larger-chips/",
-      "summary": "AI 晶片散熱挑戰持續升高，材料大廠漢高（Henkel）宣布推出新一代導電晶片黏著膜（cDAF）LOCTITE [&#8230;]",
-      "date": "2026-08-20T02:45:11+00:00",
       "sourceId": "technews",
       "cats": [
         "market",
