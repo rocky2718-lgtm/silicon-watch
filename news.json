@@ -1,6 +1,6 @@
 {
-  "updated": "2026-08-20T08:48:57.714184+00:00",
-  "count": 14,
+  "updated": "2026-08-20T10:37:47.588801+00:00",
+  "count": 15,
   "sources": [
     {
       "id": "technews",
@@ -61,6 +61,45 @@
   ],
   "articles": [
     {
+      "id": "20d2be642c70",
+      "title": "應材攜柏克萊加速 AI 晶片創新，強化半導體材料工程與製程技術",
+      "link": "https://technews.tw/2026/08/20/applied-materials-epic-berkeley/",
+      "summary": "應用材料宣布，美國加州大學柏克萊分校將以研究合作夥伴身分加入矽谷 EPIC 中心，共同推動多項具有重大影響力的 [&#8230;]",
+      "date": "2026-08-20T09:54:10+00:00",
+      "sourceId": "technews",
+      "cats": [
+        "market",
+        "process",
+        "material"
+      ]
+    },
+    {
+      "id": "3bc31e6160cf",
+      "title": "量子電腦量產障礙突破，低溫濺鍍技術形成高導電率薄膜",
+      "link": "https://technews.tw/2026/08/20/tantalum-qubit-krypton-gas/",
+      "summary": "要讓量子電腦真正走出實驗室進入商業化量產，廠商需掌握 2 樣技術：高品質超導材料，以及一套可靠運作的奈米製程。 [&#8230;]",
+      "date": "2026-08-20T09:26:51+00:00",
+      "sourceId": "technews",
+      "cats": [
+        "market",
+        "process",
+        "material"
+      ]
+    },
+    {
+      "id": "9a9803830d56",
+      "title": "韓廠：2027 年記憶體供應仍是供不應求，中國廠商動向是關鍵",
+      "link": "https://finance.technews.tw/2026/08/20/memory-supply-will-remain-insufficient-in-2027/",
+      "summary": "隨著 AI 應用爆發，全球記憶體與半導體供應鏈正迎來關鍵的結構性轉變。韓國企業級 SSD 控制器大廠 FADU [&#8230;]",
+      "date": "2026-08-20T09:15:12+00:00",
+      "sourceId": "technews",
+      "cats": [
+        "market",
+        "process",
+        "material"
+      ]
+    },
+    {
       "id": "bd891998fc6c",
       "title": "IC 設計、CPO 客戶同步拉貨，晶呈科技 TGV 跨入量產",
       "link": "https://technews.tw/2026/08/20/crystalwise-technology-tgv-mass-production-driven-by-ic-design-cpo-client-demand/",
@@ -79,32 +118,6 @@
       "link": "https://finance.technews.tw/2026/08/20/second-generation-robot-dog/",
       "summary": "富田電機今年參與「2026 台北國際自動化工業大展」，董事長張金鋒表示，富田成功切入低空載具、機器人關節模組與 [&#8230;]",
       "date": "2026-08-20T06:42:50+00:00",
-      "sourceId": "technews",
-      "cats": [
-        "market",
-        "process",
-        "material"
-      ]
-    },
-    {
-      "id": "56df14cd4b6e",
-      "title": "聯發科股價一度下跌逾 4%，要從 Google與 Marvell 最新簽訂協議談起",
-      "link": "https://finance.technews.tw/2026/08/20/googles-agreement-with-marvell-may-affect-mediatek/",
-      "summary": "為因應人工智慧（AI）客製化晶片需求的爆發性成長，Google 正式擴大與晶片大廠 Marvell 的合作關係 [&#8230;]",
-      "date": "2026-08-20T05:50:08+00:00",
-      "sourceId": "technews",
-      "cats": [
-        "market",
-        "process",
-        "material"
-      ]
-    },
-    {
-      "id": "c77e8ceb9e2b",
-      "title": "AI 外溢效應  發電機大廠 Generac 股價今年漲 54%",
-      "link": "https://finance.technews.tw/2026/08/20/generac-shares-surge-54-on-ai-data-center-demand/",
-      "summary": "AI 資料中心建置潮夯翻天，不只帶飛晶片與伺服器，也開始外溢到電力設備產業。美國發電機大廠 Generac 宣 [&#8230;]",
-      "date": "2026-08-20T05:30:13+00:00",
       "sourceId": "technews",
       "cats": [
         "market",
