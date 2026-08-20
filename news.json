@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-20T04:45:02.549960+00:00",
+  "updated": "2026-08-20T06:57:18.736129+00:00",
   "count": 14,
   "sources": [
     {
@@ -61,6 +61,32 @@
   ],
   "articles": [
     {
+      "id": "56df14cd4b6e",
+      "title": "聯發科股價一度下跌逾 4%，這要從 Google與 Marvell 最新簽訂協議談起",
+      "link": "https://finance.technews.tw/2026/08/20/googles-agreement-with-marvell-may-affect-mediatek/",
+      "summary": "為因應人工智慧（AI）客製化晶片需求的爆發性成長，Google 正式擴大與晶片大廠 Marvell 的合作關係 [&#8230;]",
+      "date": "2026-08-20T05:50:08+00:00",
+      "sourceId": "technews",
+      "cats": [
+        "market",
+        "process",
+        "material"
+      ]
+    },
+    {
+      "id": "c77e8ceb9e2b",
+      "title": "AI 外溢效應  發電機大廠 Generac 股價今年漲 54%",
+      "link": "https://finance.technews.tw/2026/08/20/generac-shares-surge-54-on-ai-data-center-demand/",
+      "summary": "AI 資料中心建置潮夯翻天，不只帶飛晶片與伺服器，也開始外溢到電力設備產業。美國發電機大廠 Generac 宣 [&#8230;]",
+      "date": "2026-08-20T05:30:13+00:00",
+      "sourceId": "technews",
+      "cats": [
+        "market",
+        "process",
+        "material"
+      ]
+    },
+    {
       "id": "9e1cbd4632a2",
       "title": "獲 Anthropic 晶片大單！AI 新創 Fractile 擬以 65 億美元估值募資 6 億美元",
       "link": "https://technews.tw/2026/08/20/fractile-anthropic-6-5-billion-value/",
@@ -79,32 +105,6 @@
       "link": "https://technews.tw/2026/08/20/henkel-cdaf-advanced-packaging-thermal-management-larger-chips/",
       "summary": "AI 晶片散熱挑戰持續升高，材料大廠漢高（Henkel）宣布推出新一代導電晶片黏著膜（cDAF）LOCTITE [&#8230;]",
       "date": "2026-08-20T02:45:11+00:00",
-      "sourceId": "technews",
-      "cats": [
-        "market",
-        "process",
-        "material"
-      ]
-    },
-    {
-      "id": "03ad73ac21a3",
-      "title": "黃仁勳跨足社群化身「AI 老師」，親揭輝達 AI 帝國商業盤算",
-      "link": "https://technews.tw/2026/08/20/jensen-huang-social-media/",
-      "summary": "輝達（Nvidia）執行長黃仁勳近期開始活躍於社群媒體。自上個月加入 X 以來，他談論的話題涵蓋老舊晶片汰換、 [&#8230;]",
-      "date": "2026-08-20T02:20:37+00:00",
-      "sourceId": "technews",
-      "cats": [
-        "market",
-        "process",
-        "material"
-      ]
-    },
-    {
-      "id": "332710d9a611",
-      "title": "中國 AI 企業繞道東南亞，遠端取用輝達高階晶片算力",
-      "link": "https://technews.tw/2026/08/20/chinese-ai-firms-are-tapping-banned-nvidia-chips-through-southeast-asian-data-centers/",
-      "summary": "多家中國人工智慧企業被指透過泰國、馬來西亞、日本及其他東南亞地區的資料中心，遠端取得遭美國限制的輝達（Nvid [&#8230;]",
-      "date": "2026-08-20T01:30:02+00:00",
       "sourceId": "technews",
       "cats": [
         "market",
