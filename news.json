@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-21T13:02:12.982090+00:00",
+  "updated": "2026-08-21T14:42:16.340152+00:00",
   "count": 17,
   "sources": [
     {
@@ -60,6 +60,19 @@
     }
   ],
   "articles": [
+    {
+      "id": "a302b2f74146",
+      "title": "China’s NAND Specialist YMTC Moves Closer to IPO",
+      "link": "https://www.eetimes.com/chinas-nand-specialist-ymtc-moves-closer-to-ipo/",
+      "summary": "YMTC must raise capital to explore demand for AI-driven memory while balancing domestic and overseas markets. The post China’s NAND Specialist YMTC Moves Closer to IPO appeared first on EE Times.",
+      "date": "2026-08-21T13:51:09+00:00",
+      "sourceId": "eetimes",
+      "cats": [
+        "process",
+        "material",
+        "equipment"
+      ]
+    },
     {
       "id": "7dfc77899f3f",
       "title": "先進封裝推升檢量測需求，法人看好倍利科與大廠合作已築護城河",
@@ -170,19 +183,6 @@
       "link": "https://www.eetimes.com/nvidia-bets-on-the-classical-side-of-quantum-computing/",
       "summary": "Nvidia positions classical computing infrastructure as a critical layer in the race to build useful quantum computers. The post Nvidia Bets on the Classical Side of Quantum Computing appeared first on EE Times.",
       "date": "2026-08-17T18:31:00+00:00",
-      "sourceId": "eetimes",
-      "cats": [
-        "process",
-        "material",
-        "equipment"
-      ]
-    },
-    {
-      "id": "d1c556df8a60",
-      "title": "Tiny eSIM, Global Reach: Simplifying Cellular Connectivity for Consumer Electronics",
-      "link": "https://www.eetimes.com/tiny-esim-global-reach-simplifying-cellular-connectivity-for-consumer-electronics/",
-      "summary": "Join this webinar and discover the OPTIGA™ Connect Consumer OC1230, the world's smallest, ultra-low-power eSIM solution built on Infineon's TEGRION™ 28 nm tech. The post Tiny eSIM, Global Reach: Simplifying Cellular Connectivity for Consumer Electronics appeared first on EE Times.",
-      "date": "2026-08-17T14:29:25+00:00",
       "sourceId": "eetimes",
       "cats": [
         "process",
