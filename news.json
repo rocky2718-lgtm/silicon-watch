@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-20T22:35:31.088377+00:00",
+  "updated": "2026-08-21T01:48:39.348501+00:00",
   "count": 16,
   "sources": [
     {
@@ -61,6 +61,45 @@
   ],
   "articles": [
     {
+      "id": "fcfc295bca1b",
+      "title": "美光加碼 100 億美元，在美新設 AI 記憶體研發中心",
+      "link": "https://finance.technews.tw/2026/08/21/micron-unveils-micron-research-labs/",
+      "summary": "美光科技 20 日表示，計劃十年內在愛達荷州波伊西（Boise）新設的研究中心投入 100 億美元（約新台幣 [&#8230;]",
+      "date": "2026-08-21T01:30:45+00:00",
+      "sourceId": "technews",
+      "cats": [
+        "market",
+        "process",
+        "material"
+      ]
+    },
+    {
+      "id": "3c51b65dd9b3",
+      "title": "繼 SK 海力士買庫藏股，三星傳將推 2 兆多元股東回饋計畫",
+      "link": "https://finance.technews.tw/2026/08/21/samsung-reportedly-2-trillion-won-shareholder-return-plan-after-sk-hynix-buyback/",
+      "summary": "繼韓國記憶體晶片大廠 SK 海力士 19 日宣布大規模庫藏股計畫，韓國媒體 20 日報導，對手三星也將在月底宣 [&#8230;]",
+      "date": "2026-08-21T00:40:03+00:00",
+      "sourceId": "technews",
+      "cats": [
+        "market",
+        "process",
+        "material"
+      ]
+    },
+    {
+      "id": "cf8bd91301b7",
+      "title": "晶片走向系統、先進封裝成關鍵戰場！Rapidus：晶圓代工、基板、OSAT 廠競爭加劇",
+      "link": "https://technews.tw/2026/08/21/rapidus-ocp-apac-summit-2026/",
+      "summary": "隨著 AI 浪潮推動半導體產業從「晶片」走向「系統」，先進封裝的重要性也快速提升。Rapidus Design [&#8230;]",
+      "date": "2026-08-21T00:30:34+00:00",
+      "sourceId": "technews",
+      "cats": [
+        "market",
+        "process",
+        "material"
+      ]
+    },
+    {
       "id": "c4550b046347",
       "title": "Google 擴大結盟 Marvell 衝擊聯發科股價？外資：市場過度聯想",
       "link": "https://finance.technews.tw/2026/08/20/foreign-investors-believe-that-the-speculation-that-googles-expanded-alliance-with-marvell-will-impact-mediateks-stock-price-is-an-overreaction/",
@@ -92,45 +131,6 @@
       "link": "https://technews.tw/2026/08/20/tantalum-qubit-krypton-gas/",
       "summary": "要讓量子電腦真正走出實驗室進入商業化量產，廠商需掌握 2 樣技術：高品質超導材料，以及一套可靠運作的奈米製程。 [&#8230;]",
       "date": "2026-08-20T09:26:51+00:00",
-      "sourceId": "technews",
-      "cats": [
-        "market",
-        "process",
-        "material"
-      ]
-    },
-    {
-      "id": "9a9803830d56",
-      "title": "韓廠：2027 年記憶體供應仍是供不應求，中國廠商動向是關鍵",
-      "link": "https://finance.technews.tw/2026/08/20/memory-supply-will-remain-insufficient-in-2027/",
-      "summary": "隨著 AI 應用爆發，全球記憶體與半導體供應鏈正迎來關鍵的結構性轉變。韓國企業級 SSD 控制器大廠 FADU [&#8230;]",
-      "date": "2026-08-20T09:15:12+00:00",
-      "sourceId": "technews",
-      "cats": [
-        "market",
-        "process",
-        "material"
-      ]
-    },
-    {
-      "id": "bd891998fc6c",
-      "title": "IC 設計、CPO 客戶同步拉貨，晶呈科技 TGV 跨入量產",
-      "link": "https://technews.tw/2026/08/20/crystalwise-technology-tgv-mass-production-driven-by-ic-design-cpo-client-demand/",
-      "summary": "半導體特化材料廠晶呈科積極拓展玻璃通孔（TGV）新事業，受惠 AI 晶片、先進封裝及共同封裝光學（CPO）需求 [&#8230;]",
-      "date": "2026-08-20T08:48:08+00:00",
-      "sourceId": "technews",
-      "cats": [
-        "market",
-        "process",
-        "material"
-      ]
-    },
-    {
-      "id": "edce9ea126be",
-      "title": "中鋼頂級矽鋼片加持！富田「自研機器狗」打入高爐與半導體廠巡檢",
-      "link": "https://finance.technews.tw/2026/08/20/second-generation-robot-dog/",
-      "summary": "富田電機今年參與「2026 台北國際自動化工業大展」，董事長張金鋒表示，富田成功切入低空載具、機器人關節模組與 [&#8230;]",
-      "date": "2026-08-20T06:42:50+00:00",
       "sourceId": "technews",
       "cats": [
         "market",
