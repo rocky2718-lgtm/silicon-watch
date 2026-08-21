@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-21T06:58:54.059118+00:00",
+  "updated": "2026-08-21T08:50:28.450578+00:00",
   "count": 15,
   "sources": [
     {
@@ -61,6 +61,32 @@
   ],
   "articles": [
     {
+      "id": "dbd17f18e762",
+      "title": "韓擬設百兆韓圜未來基金，晶片稅收支援青年與 AI",
+      "link": "https://finance.technews.tw/2026/08/21/south-korea-100-trillion-won-future-fund-chip-tax-youth-ai-support/",
+      "summary": "韓國企劃財政部今天表示，政府計劃成立新基金，將半導體產業蓬勃發展帶來的稅收盈餘投入支持年輕世代，並投資人工智慧 [&#8230;]",
+      "date": "2026-08-21T07:40:19+00:00",
+      "sourceId": "technews",
+      "cats": [
+        "market",
+        "process",
+        "material"
+      ]
+    },
+    {
+      "id": "b3bb6566e16a",
+      "title": "研調：三星今年有望重奪智慧手機市場龍頭寶座",
+      "link": "https://technews.tw/2026/08/21/samsung-expected-reclaim-top-spot-smartphone-market-this-year/",
+      "summary": "綜合港媒報導，Counterpoint Research 行業報告顯示，三星電子（Samsung）今年將反超其 [&#8230;]",
+      "date": "2026-08-21T07:10:45+00:00",
+      "sourceId": "technews",
+      "cats": [
+        "market",
+        "process",
+        "material"
+      ]
+    },
+    {
       "id": "c7e60cb50db2",
       "title": "1H26 全球電視出貨量年增 1.3%，品牌兩極化加劇、RGB Mini LED 商業化邁步",
       "link": "https://finance.technews.tw/2026/08/21/1h26-rgb-mini-led-tv/",
@@ -113,19 +139,6 @@
       ]
     },
     {
-      "id": "d0f3feedb6be",
-      "title": "彭博：博通洽談逾 600 億美元債務融資，為 AI 建設籌資",
-      "link": "https://finance.technews.tw/2026/08/21/bloomberg-broadcom-60-billion-debt-financing-ai-buildout/",
-      "summary": "彭博（Bloomberg News）20 日引述知情人士報導，博通公司（Broadcom）正與一群貸款機構洽談 [&#8230;]",
-      "date": "2026-08-21T02:50:14+00:00",
-      "sourceId": "technews",
-      "cats": [
-        "market",
-        "process",
-        "material"
-      ]
-    },
-    {
       "id": "9d2cb8c92a86",
       "title": "Nvidia Bets on the Classical Side of Quantum Computing",
       "link": "https://www.eetimes.com/nvidia-bets-on-the-classical-side-of-quantum-computing/",
@@ -144,19 +157,6 @@
       "link": "https://www.eetimes.com/tiny-esim-global-reach-simplifying-cellular-connectivity-for-consumer-electronics/",
       "summary": "Join this webinar and discover the OPTIGA™ Connect Consumer OC1230, the world's smallest, ultra-low-power eSIM solution built on Infineon's TEGRION™ 28 nm tech. The post Tiny eSIM, Global Reach: Simplifying Cellular Connectivity for Consumer Electronics appeared first on EE Times.",
       "date": "2026-08-17T14:29:25+00:00",
-      "sourceId": "eetimes",
-      "cats": [
-        "process",
-        "material",
-        "equipment"
-      ]
-    },
-    {
-      "id": "ee116f0ea58f",
-      "title": "Automotive Functional Safety: Why ASIL Compliance Starts with Electromagnetic Design",
-      "link": "https://www.eetimes.com/automotive-functional-safety-why-asil-compliance-starts-with-electromagnetic-design/",
-      "summary": "Automotive electronic systems face relentless pressure to meet electromagnetic compatibility (EMC), signal integrity (SI), and power integrity (PI) targets while satisfying strict ASIL safety requirements. Too often, engineers discover problems late: EMC failures surface during vehicle integration, ",
-      "date": "2026-08-17T14:00:00+00:00",
       "sourceId": "eetimes",
       "cats": [
         "process",
