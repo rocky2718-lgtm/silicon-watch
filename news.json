@@ -1,6 +1,6 @@
 {
-  "updated": "2026-08-21T03:10:06.670665+00:00",
-  "count": 17,
+  "updated": "2026-08-21T04:47:24.647507+00:00",
+  "count": 15,
   "sources": [
     {
       "id": "technews",
@@ -61,6 +61,32 @@
   ],
   "articles": [
     {
+      "id": "311b94072b8a",
+      "title": "韓媒：SK 海力士擬砸「數十兆」在日本蓋記憶體工廠",
+      "link": "https://technews.tw/2026/08/21/sk-hynix-may-build-new-memory-fab-in-japan/",
+      "summary": "據韓媒指出，韓國記憶體大廠 SK 海力士（SK Hynix）擬投資數十兆韓圜，在日本宮城縣興建記憶體工廠。不過 [&#8230;]",
+      "date": "2026-08-21T04:20:59+00:00",
+      "sourceId": "technews",
+      "cats": [
+        "market",
+        "process",
+        "material"
+      ]
+    },
+    {
+      "id": "f09a8d03da1f",
+      "title": "中國 AI 晶片程式能力卡關，企業被迫「極限壓榨」稀缺輝達算力",
+      "link": "https://technews.tw/2026/08/21/china-ai-chip-programming-bottlenecks/",
+      "summary": "中國人工智慧（AI）產業正處於從模型研發全面跨入「大規模部署」的關鍵階段，伴隨而來的是日益顯著的算力壓力。為了 [&#8230;]",
+      "date": "2026-08-21T03:40:40+00:00",
+      "sourceId": "technews",
+      "cats": [
+        "market",
+        "process",
+        "material"
+      ]
+    },
+    {
       "id": "d0f3feedb6be",
       "title": "彭博：博通洽談逾 600 億美元債務融資，為 AI 建設籌資",
       "link": "https://finance.technews.tw/2026/08/21/bloomberg-broadcom-60-billion-debt-financing-ai-buildout/",
@@ -92,58 +118,6 @@
       "link": "https://finance.technews.tw/2026/08/21/us-bond-yields-jump-drag-dow-jones-quarterly-moving-average-defense-battle-memory-abf/",
       "summary": "台股 20 日雖重挫 1.30% 收在 44,719 點，但外資逆勢大舉買超 73.2 億元，資金高度集中於記 [&#8230;]",
       "date": "2026-08-21T02:00:00+00:00",
-      "sourceId": "technews",
-      "cats": [
-        "market",
-        "process",
-        "material"
-      ]
-    },
-    {
-      "id": "fcfc295bca1b",
-      "title": "美光加碼 100 億美元，在美新設 AI 記憶體研發中心",
-      "link": "https://finance.technews.tw/2026/08/21/micron-unveils-micron-research-labs/",
-      "summary": "美光科技 20 日表示，計劃十年內在愛達荷州波伊西（Boise）新設的研究中心投入 100 億美元（約新台幣 [&#8230;]",
-      "date": "2026-08-21T01:30:45+00:00",
-      "sourceId": "technews",
-      "cats": [
-        "market",
-        "process",
-        "material"
-      ]
-    },
-    {
-      "id": "6263ac3e657d",
-      "title": "傳年底小量出貨中國專用 LPU，輝達否認：無相關規劃",
-      "link": "https://technews.tw/2026/08/21/nvidia-denies-china-specific-lpu-shipments-year-end/",
-      "summary": "輝達（Nvidia）20 日否認科技媒體 The Information 指他們計劃今年底前開始出貨一款為中國 [&#8230;]",
-      "date": "2026-08-21T01:10:00+00:00",
-      "sourceId": "technews",
-      "cats": [
-        "market",
-        "process",
-        "material"
-      ]
-    },
-    {
-      "id": "3c51b65dd9b3",
-      "title": "繼 SK 海力士買庫藏股，三星傳將推 2 兆多元股東回饋計畫",
-      "link": "https://finance.technews.tw/2026/08/21/samsung-reportedly-2-trillion-won-shareholder-return-plan-after-sk-hynix-buyback/",
-      "summary": "繼韓國記憶體晶片大廠 SK 海力士 19 日宣布大規模庫藏股計畫，韓國媒體 20 日報導，對手三星也將在月底宣 [&#8230;]",
-      "date": "2026-08-21T00:40:03+00:00",
-      "sourceId": "technews",
-      "cats": [
-        "market",
-        "process",
-        "material"
-      ]
-    },
-    {
-      "id": "cf8bd91301b7",
-      "title": "晶片走向系統、先進封裝成關鍵戰場！Rapidus：晶圓代工、基板、OSAT 廠競爭加劇",
-      "link": "https://technews.tw/2026/08/21/rapidus-ocp-apac-summit-2026/",
-      "summary": "隨著 AI 浪潮推動半導體產業從「晶片」走向「系統」，先進封裝的重要性也快速提升。Rapidus Design [&#8230;]",
-      "date": "2026-08-21T00:30:34+00:00",
       "sourceId": "technews",
       "cats": [
         "market",
