@@ -1,6 +1,6 @@
 {
-  "updated": "2026-08-21T08:50:28.450578+00:00",
-  "count": 15,
+  "updated": "2026-08-21T10:37:18.341943+00:00",
+  "count": 17,
   "sources": [
     {
       "id": "technews",
@@ -61,6 +61,45 @@
   ],
   "articles": [
     {
+      "id": "7dfc77899f3f",
+      "title": "先進封裝推升檢量測需求，法人看好倍利科與大廠合作已築護城河",
+      "link": "https://technews.tw/2026/08/21/taiwan-investors-see-v5-technologies/",
+      "summary": "倍利科近日舉辦第二季法說會，董事長林坤禧表示先進封裝是一種硬需求，看好量檢測需求。法人則認為，隨著站點增加、單 [&#8230;]",
+      "date": "2026-08-21T10:22:53+00:00",
+      "sourceId": "technews",
+      "cats": [
+        "market",
+        "process",
+        "material"
+      ]
+    },
+    {
+      "id": "8283c64e2498",
+      "title": "日月光：攜手在地半導體材料供應鏈，為台灣築起20年防禦高牆",
+      "link": "https://finance.technews.tw/2026/08/21/by-joining-hands-with-the-local-semiconductor-materials-supply-chain-a-20-year-defensive-wall-has-been-built-for-taiwan/",
+      "summary": "隨著AI浪潮引爆全球半導體商機，封測龍頭日月光投控（ASE）積極呼籲強化在地供應鏈韌性。日月光副總經理黃義從在 [&#8230;]",
+      "date": "2026-08-21T09:30:44+00:00",
+      "sourceId": "technews",
+      "cats": [
+        "market",
+        "process",
+        "material"
+      ]
+    },
+    {
+      "id": "c23ffcded995",
+      "title": "半導體材料邁向新紀元！徐秀蘭：台灣隱形冠軍要走向世界定義材料新標準",
+      "link": "https://finance.technews.tw/2026/08/21/taiwans-hidden-champion-aims-to-define-new-standards-for-materials-on-the-world-stage/",
+      "summary": "隨著全球半導體技術快速更迭，半導體材料產業正迎來一場深刻的典範轉移。SEMI半導體材料聯盟共同主席暨環球晶圓董 [&#8230;]",
+      "date": "2026-08-21T09:10:48+00:00",
+      "sourceId": "technews",
+      "cats": [
+        "market",
+        "process",
+        "material"
+      ]
+    },
+    {
       "id": "dbd17f18e762",
       "title": "韓擬設百兆韓圜未來基金，晶片稅收支援青年與 AI",
       "link": "https://finance.technews.tw/2026/08/21/south-korea-100-trillion-won-future-fund-chip-tax-youth-ai-support/",
@@ -118,19 +157,6 @@
       "link": "https://technews.tw/2026/08/21/sk-hynix-may-build-new-memory-fab-in-japan/",
       "summary": "據韓媒指出，韓國記憶體大廠 SK 海力士（SK Hynix）擬投資數十兆韓圜，在日本宮城縣興建記憶體工廠。不過 [&#8230;]",
       "date": "2026-08-21T04:20:59+00:00",
-      "sourceId": "technews",
-      "cats": [
-        "market",
-        "process",
-        "material"
-      ]
-    },
-    {
-      "id": "f09a8d03da1f",
-      "title": "中國 AI 晶片寫程式卡關，企業被迫「極限壓榨」稀缺輝達算力",
-      "link": "https://technews.tw/2026/08/21/china-ai-chip-programming-bottlenecks/",
-      "summary": "中國人工智慧（AI）產業正處於從模型研發全面跨入「大規模部署」的關鍵階段，伴隨而來的是日益顯著的算力壓力。為了 [&#8230;]",
-      "date": "2026-08-21T03:40:40+00:00",
       "sourceId": "technews",
       "cats": [
         "market",
