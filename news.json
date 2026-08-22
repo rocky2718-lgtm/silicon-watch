@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-22T06:52:30.896651+00:00",
+  "updated": "2026-08-22T08:39:05.691567+00:00",
   "count": 19,
   "sources": [
     {
@@ -61,6 +61,19 @@
   ],
   "articles": [
     {
+      "id": "4ee40df29f35",
+      "title": "日月光子公司 ISE Labs 購入加州矽谷建物，為碼美國在地半導體製造布局",
+      "link": "https://finance.technews.tw/2026/08/22/ase-technology-holding-co-ltd-ise-labs-acquires-building-in-silicon-valley-california/",
+      "summary": "全球半導體封測龍頭日月光投控21日代全資子公司ISE Labs發布重訊指出，宣布其董事會已於美國時間20日決議 [&#8230;]",
+      "date": "2026-08-22T07:00:10+00:00",
+      "sourceId": "technews",
+      "cats": [
+        "market",
+        "process",
+        "material"
+      ]
+    },
+    {
       "id": "21f64f86fcba",
       "title": "挖角 Google TPU 創始大將，藉人才、技術、資金 Anthropic 佈局自主研發 AI 晶片",
       "link": "https://finance.technews.tw/2026/08/22/anthropic-is-developing-its-own-ai-chips/",
@@ -101,7 +114,7 @@
     },
     {
       "id": "b033c7b72fdb",
-      "title": "輝達即將公布最新財報，中國市場動態受市場關注",
+      "title": "輝達即將公布財報，中國市場動態受市場關注",
       "link": "https://finance.technews.tw/2026/08/22/nvidia-is-about-to-release-its-latest-financial-report/",
       "summary": "輝達（Nvidia）即將於 26 日公布 2027 財年第二季財報，市場對其最新業績報持高度期待。而儘管股價短 [&#8230;]",
       "date": "2026-08-22T02:00:30+00:00",
@@ -183,19 +196,6 @@
       "link": "https://finance.technews.tw/2026/08/21/by-joining-hands-with-the-local-semiconductor-materials-supply-chain-a-20-year-defensive-wall-has-been-built-for-taiwan/",
       "summary": "隨著AI浪潮引爆全球半導體商機，封測龍頭日月光投控（ASE）積極呼籲強化在地供應鏈韌性。日月光副總經理黃義從在 [&#8230;]",
       "date": "2026-08-21T09:30:44+00:00",
-      "sourceId": "technews",
-      "cats": [
-        "market",
-        "process",
-        "material"
-      ]
-    },
-    {
-      "id": "c23ffcded995",
-      "title": "半導體材料邁向新紀元！徐秀蘭：台灣隱形冠軍要走向世界定義材料新標準",
-      "link": "https://finance.technews.tw/2026/08/21/taiwans-hidden-champion-aims-to-define-new-standards-for-materials-on-the-world-stage/",
-      "summary": "隨著全球半導體技術快速更迭，半導體材料產業正迎來一場深刻的典範轉移。SEMI半導體材料聯盟共同主席暨環球晶圓董 [&#8230;]",
-      "date": "2026-08-21T09:10:48+00:00",
       "sourceId": "technews",
       "cats": [
         "market",
