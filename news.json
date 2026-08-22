@@ -1,6 +1,6 @@
 {
-  "updated": "2026-08-21T22:32:06.849098+00:00",
-  "count": 16,
+  "updated": "2026-08-22T01:41:48.669081+00:00",
+  "count": 18,
   "sources": [
     {
       "id": "technews",
@@ -60,6 +60,45 @@
     }
   ],
   "articles": [
+    {
+      "id": "f26966ccaa75",
+      "title": "AI 推升 PIC 代工狂潮，聯電挾 12 吋量產優勢決戰高塔、格羅方德",
+      "link": "https://finance.technews.tw/2026/08/22/umc-joins-battle-competing-tower-globalfoundries/",
+      "summary": "AI 資料中心加速建置，除了台積電通吃 AI 晶片代工商機，高速互連也引發成熟製程的矽光子產能吃緊，聯電正以黑 [&#8230;]",
+      "date": "2026-08-22T01:00:51+00:00",
+      "sourceId": "technews",
+      "cats": [
+        "market",
+        "process",
+        "material"
+      ]
+    },
+    {
+      "id": "ea9282b03dbe",
+      "title": "博通將融資超過 700 億美元，強化布局非輝達 AI 晶片市場布局",
+      "link": "https://finance.technews.tw/2026/08/22/broadcom-to-raise-over-70-billion/",
+      "summary": "晶片設計大廠博通（Broadcom）傳出正與金融機構展開深入談判，計畫籌集高達 700 億至 800 億美元的 [&#8230;]",
+      "date": "2026-08-22T01:00:23+00:00",
+      "sourceId": "technews",
+      "cats": [
+        "market",
+        "process",
+        "material"
+      ]
+    },
+    {
+      "id": "7962f6e7cacd",
+      "title": "1.5 萬美元押中 Snap 爆賺 3 千多萬，矽谷私校掀起「校園創投」熱潮",
+      "link": "https://finance.technews.tw/2026/08/22/these-silicon-valley-schools-run-their-own-venture-capital-funds/",
+      "summary": "矽谷部分私立學校近年掀起「校園創投」風潮，將募款晚宴與義賣拍賣轉化為投資未上市公司的小型創投基金。這些基金多由 [&#8230;]",
+      "date": "2026-08-22T00:30:17+00:00",
+      "sourceId": "technews",
+      "cats": [
+        "market",
+        "process",
+        "material"
+      ]
+    },
     {
       "id": "a302b2f74146",
       "title": "China’s NAND Specialist YMTC Moves Closer to IPO",
@@ -144,19 +183,6 @@
       "link": "https://finance.technews.tw/2026/08/21/1h26-rgb-mini-led-tv/",
       "summary": "TrendForce 最新電視產業研究，2026 年第二季全球電視市場持續受記憶體價格走揚、品牌提前布局下半年 [&#8230;]",
       "date": "2026-08-21T06:35:10+00:00",
-      "sourceId": "technews",
-      "cats": [
-        "market",
-        "process",
-        "material"
-      ]
-    },
-    {
-      "id": "ddb3991ff3b1",
-      "title": "阿里平頭哥 AI 晶片續放量，二代晶片擬 H2 將開始流片",
-      "link": "https://technews.tw/2026/08/21/thead-2nd-gen-chip-set-to-tape-out-in-h2/",
-      "summary": "綜合中媒報導，阿里巴巴公布截至 2026 年 6 月底止第一季財報後，集團 CEO 吳泳銘於分析師電話會上預計 [&#8230;]",
-      "date": "2026-08-21T05:00:11+00:00",
       "sourceId": "technews",
       "cats": [
         "market",
