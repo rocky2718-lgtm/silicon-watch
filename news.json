@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-22T03:01:13.991477+00:00",
+  "updated": "2026-08-22T04:40:45.583172+00:00",
   "count": 18,
   "sources": [
     {
@@ -60,6 +60,19 @@
     }
   ],
   "articles": [
+    {
+      "id": "1cfb49426ec4",
+      "title": "半導體市場需求強烈，富士軟片擴建關鍵化學品產線",
+      "link": "https://finance.technews.tw/2026/08/22/fujifilm-expands-key-chemical-production-line/",
+      "summary": "隨著全球人工智慧（AI）資料中心大舉擴建，半導體供應鏈出現瓶頸與短缺，傳統相機與辦公事務機大廠富士軟片 (Fu [&#8230;]",
+      "date": "2026-08-22T04:00:26+00:00",
+      "sourceId": "technews",
+      "cats": [
+        "market",
+        "process",
+        "material"
+      ]
+    },
     {
       "id": "b033c7b72fdb",
       "title": "輝達即將公布最新財報，中國市場動態受市場關注",
@@ -170,19 +183,6 @@
       "link": "https://finance.technews.tw/2026/08/21/south-korea-100-trillion-won-future-fund-chip-tax-youth-ai-support/",
       "summary": "韓國企劃財政部今天表示，政府計劃成立新基金，將半導體產業蓬勃發展帶來的稅收盈餘投入支持年輕世代，並投資人工智慧 [&#8230;]",
       "date": "2026-08-21T07:40:19+00:00",
-      "sourceId": "technews",
-      "cats": [
-        "market",
-        "process",
-        "material"
-      ]
-    },
-    {
-      "id": "b3bb6566e16a",
-      "title": "研調：三星今年有望重奪智慧手機市場龍頭寶座",
-      "link": "https://technews.tw/2026/08/21/samsung-expected-reclaim-top-spot-smartphone-market-this-year/",
-      "summary": "綜合港媒報導，Counterpoint Research 行業報告顯示，三星電子（Samsung）今年將反超其 [&#8230;]",
-      "date": "2026-08-21T07:10:45+00:00",
       "sourceId": "technews",
       "cats": [
         "market",
