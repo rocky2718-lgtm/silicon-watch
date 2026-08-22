@@ -1,6 +1,6 @@
 {
-  "updated": "2026-08-22T04:40:45.583172+00:00",
-  "count": 18,
+  "updated": "2026-08-22T06:52:30.896651+00:00",
+  "count": 19,
   "sources": [
     {
       "id": "technews",
@@ -60,6 +60,32 @@
     }
   ],
   "articles": [
+    {
+      "id": "21f64f86fcba",
+      "title": "挖角 Google TPU 創始大將，藉人才、技術、資金 Anthropic 佈局自主研發 AI 晶片",
+      "link": "https://finance.technews.tw/2026/08/22/anthropic-is-developing-its-own-ai-chips/",
+      "summary": "隨著人工智慧（AI）領域競爭白熱化，開發知名 AI 科技廠商 Anthropic 正式宣告進軍半導體領域。An [&#8230;]",
+      "date": "2026-08-22T06:00:10+00:00",
+      "sourceId": "technews",
+      "cats": [
+        "market",
+        "process",
+        "material"
+      ]
+    },
+    {
+      "id": "b91a894b5f2c",
+      "title": "10 年投資百億美元設立研究實驗室，美光罕見為記憶體產業布局下一步",
+      "link": "https://finance.technews.tw/2026/08/22/micron-makes-a-rare-move-to-plan-the-next-step-in-the-memory-industry/",
+      "summary": "記憶體大廠美光日前宣布了一項在記憶體晶片產業中相當罕見的重大戰略決定，也就是計劃在未來十年內投資高達 100 [&#8230;]",
+      "date": "2026-08-22T05:00:56+00:00",
+      "sourceId": "technews",
+      "cats": [
+        "market",
+        "process",
+        "material"
+      ]
+    },
     {
       "id": "1cfb49426ec4",
       "title": "半導體市場需求強烈，富士軟片擴建關鍵化學品產線",
@@ -130,7 +156,7 @@
       "title": "China’s NAND Specialist YMTC Moves Closer to IPO",
       "link": "https://www.eetimes.com/chinas-nand-specialist-ymtc-moves-closer-to-ipo/",
       "summary": "YMTC must raise capital to explore demand for AI-driven memory while balancing domestic and overseas markets. The post China’s NAND Specialist YMTC Moves Closer to IPO appeared first on EE Times.",
-      "date": "2026-08-21T13:51:09+00:00",
+      "date": "2026-08-21T18:00:00+00:00",
       "sourceId": "eetimes",
       "cats": [
         "process",
@@ -170,19 +196,6 @@
       "link": "https://finance.technews.tw/2026/08/21/taiwans-hidden-champion-aims-to-define-new-standards-for-materials-on-the-world-stage/",
       "summary": "隨著全球半導體技術快速更迭，半導體材料產業正迎來一場深刻的典範轉移。SEMI半導體材料聯盟共同主席暨環球晶圓董 [&#8230;]",
       "date": "2026-08-21T09:10:48+00:00",
-      "sourceId": "technews",
-      "cats": [
-        "market",
-        "process",
-        "material"
-      ]
-    },
-    {
-      "id": "dbd17f18e762",
-      "title": "韓擬設百兆韓圜未來基金，晶片稅收支援青年與 AI",
-      "link": "https://finance.technews.tw/2026/08/21/south-korea-100-trillion-won-future-fund-chip-tax-youth-ai-support/",
-      "summary": "韓國企劃財政部今天表示，政府計劃成立新基金，將半導體產業蓬勃發展帶來的稅收盈餘投入支持年輕世代，並投資人工智慧 [&#8230;]",
-      "date": "2026-08-21T07:40:19+00:00",
       "sourceId": "technews",
       "cats": [
         "market",
