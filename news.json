@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-22T22:29:30.157423+00:00",
+  "updated": "2026-08-23T01:51:29.474906+00:00",
   "count": 18,
   "sources": [
     {
@@ -60,6 +60,19 @@
     }
   ],
   "articles": [
+    {
+      "id": "c7905bd1bb45",
+      "title": "群創法說焦點「騰籠換鳥」！未回應台積電 CoPoS 合作問題，TGV 玻璃基板最快 2028 年量產",
+      "link": "https://technews.tw/2026/08/23/innolux-earnings-call-26q2/",
+      "summary": "《財訊》報導，群創 18 日舉行線上法說會，外界關注的焦點包括 FOPLP（扇出型面板級封裝）量產狀況、玻璃基 [&#8230;]",
+      "date": "2026-08-23T01:00:46+00:00",
+      "sourceId": "technews",
+      "cats": [
+        "market",
+        "process",
+        "material"
+      ]
+    },
     {
       "id": "4ee40df29f35",
       "title": "日月光子公司 ISE Labs 購入加州矽谷建物，為碼美國在地半導體製造布局",
@@ -175,19 +188,6 @@
         "process",
         "material",
         "equipment"
-      ]
-    },
-    {
-      "id": "7dfc77899f3f",
-      "title": "先進封裝推升檢量測需求，法人看好倍利科與大廠合作已築護城河",
-      "link": "https://technews.tw/2026/08/21/taiwan-investors-see-v5-technologies/",
-      "summary": "倍利科近日舉辦第二季法說會，董事長林坤禧表示先進封裝是一種硬需求，看好量檢測需求。法人則認為，隨著站點增加、單 [&#8230;]",
-      "date": "2026-08-21T10:22:53+00:00",
-      "sourceId": "technews",
-      "cats": [
-        "market",
-        "process",
-        "material"
       ]
     },
     {
