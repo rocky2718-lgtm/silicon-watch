@@ -1,6 +1,6 @@
 {
-  "updated": "2026-08-23T01:51:29.474906+00:00",
-  "count": 18,
+  "updated": "2026-08-23T03:10:20.103422+00:00",
+  "count": 16,
   "sources": [
     {
       "id": "technews",
@@ -60,6 +60,19 @@
     }
   ],
   "articles": [
+    {
+      "id": "e482afb74d65",
+      "title": "記憶體成本攀升，NVIDIA 明年起調漲 AI 伺服器價格、漲幅逾 15%",
+      "link": "https://technews.tw/2026/08/23/nvidia-notifies-customers-of-ai-related-price-hikes-above-15-percent/",
+      "summary": "NVIDIA 部分大型客戶已被告知，隨著記憶體成本大幅飆升，搭載 NVIDIA 晶片的 AI 伺服器價格將調漲 [&#8230;]",
+      "date": "2026-08-23T02:29:41+00:00",
+      "sourceId": "technews",
+      "cats": [
+        "market",
+        "process",
+        "material"
+      ]
+    },
     {
       "id": "c7905bd1bb45",
       "title": "群創法說焦點「騰籠換鳥」！未回應台積電 CoPoS 合作問題，TGV 玻璃基板最快 2028 年量產",
@@ -131,45 +144,6 @@
       "link": "https://finance.technews.tw/2026/08/22/nvidia-is-about-to-release-its-latest-financial-report/",
       "summary": "輝達（Nvidia）即將於 26 日公布 2027 財年第二季財報，市場對其最新業績報持高度期待。而儘管股價短 [&#8230;]",
       "date": "2026-08-22T02:00:30+00:00",
-      "sourceId": "technews",
-      "cats": [
-        "market",
-        "process",
-        "material"
-      ]
-    },
-    {
-      "id": "f26966ccaa75",
-      "title": "AI 推升 PIC 代工狂潮，聯電挾 12 吋量產優勢決戰高塔、格羅方德",
-      "link": "https://finance.technews.tw/2026/08/22/umc-joins-battle-competing-tower-globalfoundries/",
-      "summary": "AI 資料中心加速建置，除了台積電通吃 AI 晶片代工商機，高速互連也引發成熟製程的矽光子產能吃緊，聯電正以黑 [&#8230;]",
-      "date": "2026-08-22T01:00:51+00:00",
-      "sourceId": "technews",
-      "cats": [
-        "market",
-        "process",
-        "material"
-      ]
-    },
-    {
-      "id": "ea9282b03dbe",
-      "title": "博通將融資超過 700 億美元，強化布局非輝達 AI 晶片市場布局",
-      "link": "https://finance.technews.tw/2026/08/22/broadcom-to-raise-over-70-billion/",
-      "summary": "晶片設計大廠博通（Broadcom）傳出正與金融機構展開深入談判，計畫籌集高達 700 億至 800 億美元的 [&#8230;]",
-      "date": "2026-08-22T01:00:23+00:00",
-      "sourceId": "technews",
-      "cats": [
-        "market",
-        "process",
-        "material"
-      ]
-    },
-    {
-      "id": "7962f6e7cacd",
-      "title": "1.5 萬美元押中 Snap 爆賺 3 千多萬，矽谷私校掀起「校園創投」熱潮",
-      "link": "https://finance.technews.tw/2026/08/22/these-silicon-valley-schools-run-their-own-venture-capital-funds/",
-      "summary": "矽谷部分私立學校近年掀起「校園創投」風潮，將募款晚宴與義賣拍賣轉化為投資未上市公司的小型創投基金。這些基金多由 [&#8230;]",
-      "date": "2026-08-22T00:30:17+00:00",
       "sourceId": "technews",
       "cats": [
         "market",
