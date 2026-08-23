@@ -1,6 +1,6 @@
 {
-  "updated": "2026-08-23T04:44:55.587908+00:00",
-  "count": 16,
+  "updated": "2026-08-23T06:53:08.855548+00:00",
+  "count": 15,
   "sources": [
     {
       "id": "technews",
@@ -131,19 +131,6 @@
       "link": "https://finance.technews.tw/2026/08/22/fujifilm-expands-key-chemical-production-line/",
       "summary": "隨著全球人工智慧（AI）資料中心大舉擴建，半導體供應鏈出現瓶頸與短缺，傳統相機與辦公事務機大廠富士軟片 (Fu [&#8230;]",
       "date": "2026-08-22T04:00:26+00:00",
-      "sourceId": "technews",
-      "cats": [
-        "market",
-        "process",
-        "material"
-      ]
-    },
-    {
-      "id": "b033c7b72fdb",
-      "title": "輝達即將公布財報，中國市場動態受市場關注",
-      "link": "https://finance.technews.tw/2026/08/22/nvidia-is-about-to-release-its-latest-financial-report/",
-      "summary": "輝達（Nvidia）即將於 26 日公布 2027 財年第二季財報，市場對其最新業績報持高度期待。而儘管股價短 [&#8230;]",
-      "date": "2026-08-22T02:00:30+00:00",
       "sourceId": "technews",
       "cats": [
         "market",
