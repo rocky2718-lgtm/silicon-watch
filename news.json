@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-23T06:53:08.855548+00:00",
+  "updated": "2026-08-23T08:39:12.319958+00:00",
   "count": 15,
   "sources": [
     {
@@ -61,6 +61,19 @@
   ],
   "articles": [
     {
+      "id": "0c1f601c7552",
+      "title": "韓國晶片貿易順差飆新高，半導體出口受惠 AI 熱潮",
+      "link": "https://technews.tw/2026/08/23/south-korea-s-chip-boom-is-incredible/",
+      "summary": "AI 已將韓國的晶片產業，轉變成一個具全球規模的產業。 總體經濟和資本市場分析刊物 The Kobeissi [&#8230;]",
+      "date": "2026-08-23T08:19:53+00:00",
+      "sourceId": "technews",
+      "cats": [
+        "market",
+        "process",
+        "material"
+      ]
+    },
+    {
       "id": "e482afb74d65",
       "title": "記憶體成本攀升，NVIDIA 明年起調漲 AI 伺服器價格、漲幅逾 15%",
       "link": "https://technews.tw/2026/08/23/nvidia-notifies-customers-of-ai-related-price-hikes-above-15-percent/",
@@ -118,19 +131,6 @@
       "link": "https://finance.technews.tw/2026/08/22/micron-makes-a-rare-move-to-plan-the-next-step-in-the-memory-industry/",
       "summary": "記憶體大廠美光日前宣布了一項在記憶體晶片產業中相當罕見的重大戰略決定，也就是計劃在未來十年內投資高達 100 [&#8230;]",
       "date": "2026-08-22T05:00:56+00:00",
-      "sourceId": "technews",
-      "cats": [
-        "market",
-        "process",
-        "material"
-      ]
-    },
-    {
-      "id": "1cfb49426ec4",
-      "title": "半導體市場需求強烈，富士軟片擴建關鍵化學品產線",
-      "link": "https://finance.technews.tw/2026/08/22/fujifilm-expands-key-chemical-production-line/",
-      "summary": "隨著全球人工智慧（AI）資料中心大舉擴建，半導體供應鏈出現瓶頸與短缺，傳統相機與辦公事務機大廠富士軟片 (Fu [&#8230;]",
-      "date": "2026-08-22T04:00:26+00:00",
       "sourceId": "technews",
       "cats": [
         "market",
