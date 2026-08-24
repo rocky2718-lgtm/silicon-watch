@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-24T08:57:02.842798+00:00",
+  "updated": "2026-08-24T10:43:32.972361+00:00",
   "count": 15,
   "sources": [
     {
@@ -61,9 +61,35 @@
   ],
   "articles": [
     {
-      "id": "7f812c1fcf63",
-      "title": "三星確認 HBM4E 速度衝上 16 Gbps，單疊頻寬高達 4 TB/s",
-      "link": "https://finance.technews.tw/2026/08/24/samsung-confirms-hbm4e-speeds-reach-16-gbps/",
+      "id": "2ed4db0f5b88",
+      "title": "三星曝HBM「三階段」演進：Base Die 突破瓶頸、擴充容量，最終邁向 zHBM",
+      "link": "https://technews.tw/2026/08/24/samsung-hot-chips-2026-hbm-and-zhbm/",
+      "summary": "隨著 HBM 面臨頻寬、功耗與封裝尺寸等多重瓶頸，三星積極尋求下一代 HBM 架構的突破。從近期三星在 Hot [&#8230;]",
+      "date": "2026-08-24T09:48:50+00:00",
+      "sourceId": "technews",
+      "cats": [
+        "market",
+        "process",
+        "material"
+      ]
+    },
+    {
+      "id": "bb0b4643e425",
+      "title": "小米發表自研晶片玄戒 O3，路透：將採台積電 3 奈米製程",
+      "link": "https://technews.tw/2026/08/24/xiaomi-unveils-self-developed-xuanjie-o3-chip-reuters-reports-tsmc-3nm-process/",
+      "summary": "中國智慧型手機製造商小米今天發表新款自主研發晶片「玄戒 O3」（Xring O3）；兩名知情人士透露，這款新晶 [&#8230;]",
+      "date": "2026-08-24T09:00:18+00:00",
+      "sourceId": "technews",
+      "cats": [
+        "market",
+        "process",
+        "material"
+      ]
+    },
+    {
+      "id": "89097e6adb07",
+      "title": "三星確認 HBM4E 速度衝上 16Gbps，單疊頻寬高達 4TB/s",
+      "link": "https://technews.tw/2026/08/24/samsung-confirms-hbm4e-speeds-reach-16-gbps/",
       "summary": "在近日舉行的 Hot Chips 2026 大會前瞻計畫中，韓國三星代表證實，公司正積極準備出貨最新一代高頻寬 [&#8230;]",
       "date": "2026-08-24T08:50:07+00:00",
       "sourceId": "technews",
@@ -118,32 +144,6 @@
       "link": "https://technews.tw/2026/08/24/sk-hynix-hot-chips-2026-hbm/",
       "summary": "SK 海力士正加速推進高頻寬記憶體（HBM）先進封裝技術布局，並將封裝視為推動下一世代 HBM 效能提升的關鍵 [&#8230;]",
       "date": "2026-08-24T07:40:16+00:00",
-      "sourceId": "technews",
-      "cats": [
-        "market",
-        "process",
-        "material"
-      ]
-    },
-    {
-      "id": "77432fef2217",
-      "title": "輝達傳洽談投資 Perplexity，估值逾 9,583 億元",
-      "link": "https://technews.tw/2026/08/24/nvidia-perplexity-investment-valuation-over-958-3-billion-yuan/",
-      "summary": "科技媒體 The Information 今天引述消息人士報導，人工智慧（AI）晶片巨人輝達（Nvidia）， [&#8230;]",
-      "date": "2026-08-24T06:00:52+00:00",
-      "sourceId": "technews",
-      "cats": [
-        "market",
-        "process",
-        "material"
-      ]
-    },
-    {
-      "id": "34183af8004b",
-      "title": "美國將向荷蘭施壓，禁止 ASML 出售 DUV 設備與服務給中國",
-      "link": "https://finance.technews.tw/2026/08/24/the-united-states-has-banned-asml-from-selling-duv-equipment-and-services-to-china/",
-      "summary": "近期美中科技戰再升溫，全球唯一製造最複雜晶片所需微影設備的荷蘭半導體設備代廠艾司摩爾（ASML），其為此次事件 [&#8230;]",
-      "date": "2026-08-24T05:50:10+00:00",
       "sourceId": "technews",
       "cats": [
         "market",
