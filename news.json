@@ -1,6 +1,6 @@
 {
-  "updated": "2026-08-24T03:11:20.984586+00:00",
-  "count": 16,
+  "updated": "2026-08-24T04:53:53.390214+00:00",
+  "count": 17,
   "sources": [
     {
       "id": "technews",
@@ -61,6 +61,58 @@
   ],
   "articles": [
     {
+      "id": "c381e17b1264",
+      "title": "股東回饋規模未達市場期待，三星電子股價重挫 8%",
+      "link": "https://finance.technews.tw/2026/08/24/samsung-electronics-stock-plunges-8-shareholder-returns-fall-short-market-expectations/",
+      "summary": "韓國三星電子（Samsung Electronics）股價今天早盤大跌 8%，這家韓國晶片製造商上週宣布新股東 [&#8230;]",
+      "date": "2026-08-24T04:40:35+00:00",
+      "sourceId": "technews",
+      "cats": [
+        "market",
+        "process",
+        "material"
+      ]
+    },
+    {
+      "id": "1770788030d7",
+      "title": "攸關美股命脈，輝達 8/26 財報估季收 920 億美元創新高",
+      "link": "https://finance.technews.tw/2026/08/24/nvidia-august-26-earnings-us-stock-market-crucial-record-92b-revenue/",
+      "summary": "輝達（Nvidia）將於美國當地時間 26 日公布最新財報與半導體需求展望。分析師預期輝達第二季營收將上看創紀 [&#8230;]",
+      "date": "2026-08-24T04:30:48+00:00",
+      "sourceId": "technews",
+      "cats": [
+        "market",
+        "process",
+        "material"
+      ]
+    },
+    {
+      "id": "0f15dcfb74de",
+      "title": "三星新晶片 Exynos 2700 給力  傳效能全面壓過高通",
+      "link": "https://technews.tw/2026/08/24/samsung-new-exynos-2700-chip-reportedly-outperforms-qualcomm-across-board/",
+      "summary": "三星電子（Samsung Electronics）自研手機晶片 Exynos 近年持續追趕高通（Qualcom [&#8230;]",
+      "date": "2026-08-24T04:20:09+00:00",
+      "sourceId": "technews",
+      "cats": [
+        "market",
+        "process",
+        "material"
+      ]
+    },
+    {
+      "id": "8afec4b95e3a",
+      "title": "受惠輝達 CPO 需求，波若威 Shuffle Box Q4 拼放量",
+      "link": "https://technews.tw/2026/08/24/browave-shuffle-box-set-to-ramp-up-in-q4/",
+      "summary": "隨輝達（NVIDIA）積極推進 CPO 架構，供應鏈商機逐步發酵，光通訊廠波若威入列輝達矽光子供應鏈夥伴，其布 [&#8230;]",
+      "date": "2026-08-24T03:20:51+00:00",
+      "sourceId": "technews",
+      "cats": [
+        "market",
+        "process",
+        "material"
+      ]
+    },
+    {
       "id": "9fc0a638f0ec",
       "title": "逃離加州「富豪稅」，矽谷大老集體出走引爆千億級資產大挪移",
       "link": "https://finance.technews.tw/2026/08/24/silicon-valley-tycoons-flee-california-wealth-tax-hundred-billion-dollar-asset-exodus/",
@@ -101,49 +153,10 @@
     },
     {
       "id": "58d0342b282d",
-      "title": "美光示警：AI 記憶體牆危機加劇，HBM 故障佔 Meta Llama 3 訓練中斷近兩成",
+      "title": "美光示警：AI 記憶體牆危機加劇，HBM 故障佔 Meta Llama 3 訓練中斷近二成",
       "link": "https://finance.technews.tw/2026/08/24/the-ai-%e2%80%8b%e2%80%8bmemory-wall-crisis-is-intensifying/",
       "summary": "隨著大型語言模型（LLM）持續演進，AI 系統的算力正以前所未有的速度成長，但記憶體卻已成為限制整體效能的關鍵 [&#8230;]",
       "date": "2026-08-24T01:50:11+00:00",
-      "sourceId": "technews",
-      "cats": [
-        "market",
-        "process",
-        "material"
-      ]
-    },
-    {
-      "id": "1165714938c6",
-      "title": "AI 算力競賽進入下半場 PUE / WUE 指標成 AI 資料中心下一波競爭焦點",
-      "link": "https://technews.tw/2026/08/24/ai-pue-wue-ai-data-centers/",
-      "summary": "「買得到晶片，不代表運轉得了算力。」這句話，正逐漸成為 AI 資料中心時代最真實的寫照。過去，企業建置資料中心 [&#8230;]",
-      "date": "2026-08-24T01:00:34+00:00",
-      "sourceId": "technews",
-      "cats": [
-        "market",
-        "process",
-        "material"
-      ]
-    },
-    {
-      "id": "41d7ee0c10df",
-      "title": "日政府傳擬對晶圓代工廠 Rapidus 追加出資 1,500 億",
-      "link": "https://finance.technews.tw/2026/08/24/jp-gov-invest-rapidus-more/",
-      "summary": "日本官民合作設立的晶圓代工廠 Rapidus 目標 2027 年度下半年量產 2 奈米晶片。而傳出日本政府計畫 [&#8230;]",
-      "date": "2026-08-24T00:50:19+00:00",
-      "sourceId": "technews",
-      "cats": [
-        "market",
-        "process",
-        "material"
-      ]
-    },
-    {
-      "id": "b86b2829082e",
-      "title": "苦熬當醫師不如去台積電？理組生「棄醫從電機」揭露科技業百萬年薪的磁吸效應",
-      "link": "https://technews.tw/2026/08/24/university-stem-major-preferences-5-year-change-ee-hot-cs-cold-tsing-hua-professor-student-trend-concerns/",
-      "summary": "全台掀半導體熱，高中生不只鑽研股市，就連大學理組志願序也迎接五年未見的「大洗牌」，十大熱門科系，七個都是電機系 [&#8230;]",
-      "date": "2026-08-24T00:10:04+00:00",
       "sourceId": "technews",
       "cats": [
         "market",
