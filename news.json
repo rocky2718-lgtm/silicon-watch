@@ -1,6 +1,6 @@
 {
-  "updated": "2026-08-24T04:53:53.390214+00:00",
-  "count": 17,
+  "updated": "2026-08-24T07:12:32.839047+00:00",
+  "count": 15,
   "sources": [
     {
       "id": "technews",
@@ -61,6 +61,32 @@
   ],
   "articles": [
     {
+      "id": "77432fef2217",
+      "title": "輝達傳洽談投資 Perplexity，估值逾 9,583 億元",
+      "link": "https://technews.tw/2026/08/24/nvidia-perplexity-investment-valuation-over-958-3-billion-yuan/",
+      "summary": "科技媒體 The Information 今天引述消息人士報導，人工智慧（AI）晶片巨人輝達（Nvidia）， [&#8230;]",
+      "date": "2026-08-24T06:00:52+00:00",
+      "sourceId": "technews",
+      "cats": [
+        "market",
+        "process",
+        "material"
+      ]
+    },
+    {
+      "id": "34183af8004b",
+      "title": "美國將向荷蘭施壓，禁止 ASML 出售 DUV 設備與服務給中國",
+      "link": "https://finance.technews.tw/2026/08/24/the-united-states-has-banned-asml-from-selling-duv-equipment-and-services-to-china/",
+      "summary": "近期美中科技戰再升溫，全球唯一製造最複雜晶片所需微影設備的荷蘭半導體設備代廠艾司摩爾（ASML），其為此次事件 [&#8230;]",
+      "date": "2026-08-24T05:50:10+00:00",
+      "sourceId": "technews",
+      "cats": [
+        "market",
+        "process",
+        "material"
+      ]
+    },
+    {
       "id": "c381e17b1264",
       "title": "股東回饋規模未達市場期待，三星電子股價重挫 8%",
       "link": "https://finance.technews.tw/2026/08/24/samsung-electronics-stock-plunges-8-shareholder-returns-fall-short-market-expectations/",
@@ -105,58 +131,6 @@
       "link": "https://technews.tw/2026/08/24/browave-shuffle-box-set-to-ramp-up-in-q4/",
       "summary": "隨輝達（NVIDIA）積極推進 CPO 架構，供應鏈商機逐步發酵，光通訊廠波若威入列輝達矽光子供應鏈夥伴，其布 [&#8230;]",
       "date": "2026-08-24T03:20:51+00:00",
-      "sourceId": "technews",
-      "cats": [
-        "market",
-        "process",
-        "material"
-      ]
-    },
-    {
-      "id": "9fc0a638f0ec",
-      "title": "逃離加州「富豪稅」，矽谷大老集體出走引爆千億級資產大挪移",
-      "link": "https://finance.technews.tw/2026/08/24/silicon-valley-tycoons-flee-california-wealth-tax-hundred-billion-dollar-asset-exodus/",
-      "summary": "隨著加州與華盛頓州相繼推動針對高資產族群的加稅方案，美國西岸富豪轉往佛羅里達州的趨勢愈發明顯。這波由稅制驅動的 [&#8230;]",
-      "date": "2026-08-24T02:40:49+00:00",
-      "sourceId": "technews",
-      "cats": [
-        "market",
-        "process",
-        "material"
-      ]
-    },
-    {
-      "id": "06dcfa9512cc",
-      "title": "不讓中國專美於前，輝達砸 1,911 億打造開放權重模型",
-      "link": "https://technews.tw/2026/08/24/nvidia-invests-191-1-billion-open-weight-models-challenge-china-dominance/",
-      "summary": "知情人士表示，輝達（Nvidia）打算利用本週達成的一項 60 億美元（約新台幣 1,911 億元）協議，打造 [&#8230;]",
-      "date": "2026-08-24T02:20:39+00:00",
-      "sourceId": "technews",
-      "cats": [
-        "market",
-        "process",
-        "material"
-      ]
-    },
-    {
-      "id": "37336f2ba377",
-      "title": "中國長江存儲啟動科創板上市進程，預計將籌資人民幣 330 億元",
-      "link": "https://finance.technews.tw/2026/08/24/ymtc-initiates-its-listing-process-on-the-science-and-technology-innovation-board/",
-      "summary": "中國快閃記憶體龍頭企業長江存儲已正式啟動於上海證券交易所科創板的上市進程。根據官方最新申報文件，該公司在第一季 [&#8230;]",
-      "date": "2026-08-24T02:00:59+00:00",
-      "sourceId": "technews",
-      "cats": [
-        "market",
-        "process",
-        "material"
-      ]
-    },
-    {
-      "id": "58d0342b282d",
-      "title": "美光示警：AI 記憶體牆危機加劇，HBM 故障佔 Meta Llama 3 訓練中斷近二成",
-      "link": "https://finance.technews.tw/2026/08/24/the-ai-%e2%80%8b%e2%80%8bmemory-wall-crisis-is-intensifying/",
-      "summary": "隨著大型語言模型（LLM）持續演進，AI 系統的算力正以前所未有的速度成長，但記憶體卻已成為限制整體效能的關鍵 [&#8230;]",
-      "date": "2026-08-24T01:50:11+00:00",
       "sourceId": "technews",
       "cats": [
         "market",
