@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-24T07:12:32.839047+00:00",
+  "updated": "2026-08-24T08:57:02.842798+00:00",
   "count": 15,
   "sources": [
     {
@@ -61,6 +61,71 @@
   ],
   "articles": [
     {
+      "id": "7f812c1fcf63",
+      "title": "三星確認 HBM4E 速度衝上 16 Gbps，單疊頻寬高達 4 TB/s",
+      "link": "https://finance.technews.tw/2026/08/24/samsung-confirms-hbm4e-speeds-reach-16-gbps/",
+      "summary": "在近日舉行的 Hot Chips 2026 大會前瞻計畫中，韓國三星代表證實，公司正積極準備出貨最新一代高頻寬 [&#8230;]",
+      "date": "2026-08-24T08:50:07+00:00",
+      "sourceId": "technews",
+      "cats": [
+        "market",
+        "process",
+        "material"
+      ]
+    },
+    {
+      "id": "6dfeafdbb37e",
+      "title": "韓國記憶體雙雄繼續擴充中國 NAND 產能，2027 年達成產能增加目標",
+      "link": "https://finance.technews.tw/2026/08/24/south-koreas-two-memory-chip-giants-are-putting-pressure-on-china-to-expand-its-production-capacity/",
+      "summary": "韓國記憶體雙雄正顯著加強對中國境內NAND快閃記憶體（Nand Flash）生產基地的投資。其中，三星電子已具 [&#8230;]",
+      "date": "2026-08-24T08:30:42+00:00",
+      "sourceId": "technews",
+      "cats": [
+        "market",
+        "process",
+        "material"
+      ]
+    },
+    {
+      "id": "33a44eea3f27",
+      "title": "Nvidia’s Inference Pivot Reaches Rebellions in Korea",
+      "link": "https://www.eetimes.com/nvidia-inference-pivot-reaches-rebellions-in-korea/",
+      "summary": "Nvidia is reportedly in talks with Korean inference upstart Rebellions about a technical partnership, investment, or acquisition. The post Nvidia’s Inference Pivot Reaches Rebellions in Korea appeared first on EE Times.",
+      "date": "2026-08-24T08:07:18+00:00",
+      "sourceId": "eetimes",
+      "cats": [
+        "process",
+        "material",
+        "equipment"
+      ]
+    },
+    {
+      "id": "72588ff110cf",
+      "title": "台積電全球用電再攀高：2025 年近 288 億度，約台灣全年用電一成",
+      "link": "https://technews.tw/2026/08/24/tsmc-global-power-consumption-climbs-2025-28-8-billion-kwh-10-percent-taiwan-annual-total/",
+      "summary": "台積電最新永續報告書出爐。隨 AI 與先進製程需求高速成長，晶圓廠競爭不只拚製程與產能，背後龐大的電力需求也成 [&#8230;]",
+      "date": "2026-08-24T07:40:49+00:00",
+      "sourceId": "technews",
+      "cats": [
+        "market",
+        "process",
+        "material"
+      ]
+    },
+    {
+      "id": "978a7a1ce69e",
+      "title": "SK 海力士揭 HBM 下一代技術藍圖！TSV 數量翻倍，導入先進封裝拚「3D 封裝結構」",
+      "link": "https://technews.tw/2026/08/24/sk-hynix-hot-chips-2026-hbm/",
+      "summary": "SK 海力士正加速推進高頻寬記憶體（HBM）先進封裝技術布局，並將封裝視為推動下一世代 HBM 效能提升的關鍵 [&#8230;]",
+      "date": "2026-08-24T07:40:16+00:00",
+      "sourceId": "technews",
+      "cats": [
+        "market",
+        "process",
+        "material"
+      ]
+    },
+    {
       "id": "77432fef2217",
       "title": "輝達傳洽談投資 Perplexity，估值逾 9,583 億元",
       "link": "https://technews.tw/2026/08/24/nvidia-perplexity-investment-valuation-over-958-3-billion-yuan/",
@@ -87,76 +152,11 @@
       ]
     },
     {
-      "id": "c381e17b1264",
-      "title": "股東回饋規模未達市場期待，三星電子股價重挫 8%",
-      "link": "https://finance.technews.tw/2026/08/24/samsung-electronics-stock-plunges-8-shareholder-returns-fall-short-market-expectations/",
-      "summary": "韓國三星電子（Samsung Electronics）股價今天早盤大跌 8%，這家韓國晶片製造商上週宣布新股東 [&#8230;]",
-      "date": "2026-08-24T04:40:35+00:00",
-      "sourceId": "technews",
-      "cats": [
-        "market",
-        "process",
-        "material"
-      ]
-    },
-    {
-      "id": "1770788030d7",
-      "title": "攸關美股命脈，輝達 8/26 財報估季收 920 億美元創新高",
-      "link": "https://finance.technews.tw/2026/08/24/nvidia-august-26-earnings-us-stock-market-crucial-record-92b-revenue/",
-      "summary": "輝達（Nvidia）將於美國當地時間 26 日公布最新財報與半導體需求展望。分析師預期輝達第二季營收將上看創紀 [&#8230;]",
-      "date": "2026-08-24T04:30:48+00:00",
-      "sourceId": "technews",
-      "cats": [
-        "market",
-        "process",
-        "material"
-      ]
-    },
-    {
-      "id": "0f15dcfb74de",
-      "title": "三星新晶片 Exynos 2700 給力  傳效能全面壓過高通",
-      "link": "https://technews.tw/2026/08/24/samsung-new-exynos-2700-chip-reportedly-outperforms-qualcomm-across-board/",
-      "summary": "三星電子（Samsung Electronics）自研手機晶片 Exynos 近年持續追趕高通（Qualcom [&#8230;]",
-      "date": "2026-08-24T04:20:09+00:00",
-      "sourceId": "technews",
-      "cats": [
-        "market",
-        "process",
-        "material"
-      ]
-    },
-    {
-      "id": "8afec4b95e3a",
-      "title": "受惠輝達 CPO 需求，波若威 Shuffle Box Q4 拼放量",
-      "link": "https://technews.tw/2026/08/24/browave-shuffle-box-set-to-ramp-up-in-q4/",
-      "summary": "隨輝達（NVIDIA）積極推進 CPO 架構，供應鏈商機逐步發酵，光通訊廠波若威入列輝達矽光子供應鏈夥伴，其布 [&#8230;]",
-      "date": "2026-08-24T03:20:51+00:00",
-      "sourceId": "technews",
-      "cats": [
-        "market",
-        "process",
-        "material"
-      ]
-    },
-    {
       "id": "a302b2f74146",
       "title": "China’s NAND Specialist YMTC Moves Closer to IPO",
       "link": "https://www.eetimes.com/chinas-nand-specialist-ymtc-moves-closer-to-ipo/",
       "summary": "YMTC must raise capital to explore demand for AI-driven memory while balancing domestic and overseas markets. The post China’s NAND Specialist YMTC Moves Closer to IPO appeared first on EE Times.",
       "date": "2026-08-21T18:00:00+00:00",
-      "sourceId": "eetimes",
-      "cats": [
-        "process",
-        "material",
-        "equipment"
-      ]
-    },
-    {
-      "id": "9d2cb8c92a86",
-      "title": "Nvidia Bets on the Classical Side of Quantum Computing",
-      "link": "https://www.eetimes.com/nvidia-bets-on-the-classical-side-of-quantum-computing/",
-      "summary": "Nvidia positions classical computing infrastructure as a critical layer in the race to build useful quantum computers. The post Nvidia Bets on the Classical Side of Quantum Computing appeared first on EE Times.",
-      "date": "2026-08-17T18:31:00+00:00",
       "sourceId": "eetimes",
       "cats": [
         "process",
