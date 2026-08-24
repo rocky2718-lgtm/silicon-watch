@@ -1,6 +1,6 @@
 {
-  "updated": "2026-08-23T22:29:35.316861+00:00",
-  "count": 15,
+  "updated": "2026-08-24T01:49:11.203226+00:00",
+  "count": 14,
   "sources": [
     {
       "id": "technews",
@@ -61,76 +61,63 @@
   ],
   "articles": [
     {
+      "id": "1165714938c6",
+      "title": "AI 算力競賽進入下半場 PUE / WUE 指標成 AI 資料中心下一波競爭焦點",
+      "link": "https://technews.tw/2026/08/24/ai-pue-wue-ai-data-centers/",
+      "summary": "「買得到晶片，不代表運轉得了算力。」這句話，正逐漸成為 AI 資料中心時代最真實的寫照。過去，企業建置資料中心 [&#8230;]",
+      "date": "2026-08-24T01:00:34+00:00",
+      "sourceId": "technews",
+      "cats": [
+        "market",
+        "process",
+        "material"
+      ]
+    },
+    {
+      "id": "41d7ee0c10df",
+      "title": "日政府傳擬對晶圓代工廠 Rapidus 追加出資 1,500 億",
+      "link": "https://finance.technews.tw/2026/08/24/jp-gov-invest-rapidus-more/",
+      "summary": "日本官民合作設立的晶圓代工廠 Rapidus 目標 2027 年度下半年量產 2 奈米晶片。而傳出日本政府計畫 [&#8230;]",
+      "date": "2026-08-24T00:50:19+00:00",
+      "sourceId": "technews",
+      "cats": [
+        "market",
+        "process",
+        "material"
+      ]
+    },
+    {
+      "id": "b86b2829082e",
+      "title": "苦熬當醫師不如去台積電？理組生「棄醫從電機」揭露科技業百萬年薪的磁吸效應",
+      "link": "https://technews.tw/2026/08/24/university-stem-major-preferences-5-year-change-ee-hot-cs-cold-tsing-hua-professor-student-trend-concerns/",
+      "summary": "全台掀半導體熱，高中生不只鑽研股市，就連大學理組志願序也迎接五年未見的「大洗牌」，十大熱門科系，七個都是電機系 [&#8230;]",
+      "date": "2026-08-24T00:10:04+00:00",
+      "sourceId": "technews",
+      "cats": [
+        "market",
+        "process",
+        "material"
+      ]
+    },
+    {
+      "id": "68962d848996",
+      "title": "AMD 收購 Taalas，AI 推論放眼異質運算與模型專用晶片時代",
+      "link": "https://finance.technews.tw/2026/08/24/amd-acquires-taalas-to-advance-compute-solutions-for-rapidly-growing-ai-inference-market/",
+      "summary": "AMD 6 日宣布收購加拿大 AI 晶片新創 Taalas，補強專用模型推論。生成式 AI、AI 代理與即時 [&#8230;]",
+      "date": "2026-08-23T23:00:41+00:00",
+      "sourceId": "technews",
+      "cats": [
+        "market",
+        "process",
+        "material"
+      ]
+    },
+    {
       "id": "0c1f601c7552",
       "title": "韓國晶片貿易順差飆新高，半導體出口受惠 AI 熱潮",
       "link": "https://technews.tw/2026/08/23/south-korea-s-chip-boom-is-incredible/",
       "summary": "AI 已將韓國的晶片產業，轉變成一個具全球規模的產業。 總體經濟和資本市場分析刊物 The Kobeissi [&#8230;]",
       "date": "2026-08-23T08:19:53+00:00",
-      "sourceId": "technews",
-      "cats": [
-        "market",
-        "process",
-        "material"
-      ]
-    },
-    {
-      "id": "e482afb74d65",
-      "title": "記憶體成本攀升，NVIDIA 明年起調漲 AI 伺服器價格、漲幅逾 15%",
-      "link": "https://technews.tw/2026/08/23/nvidia-notifies-customers-of-ai-related-price-hikes-above-15-percent/",
-      "summary": "NVIDIA 部分大型客戶已被告知，隨著記憶體成本大幅飆升，搭載 NVIDIA 晶片的 AI 伺服器價格將調漲 [&#8230;]",
-      "date": "2026-08-23T02:29:41+00:00",
-      "sourceId": "technews",
-      "cats": [
-        "market",
-        "process",
-        "material"
-      ]
-    },
-    {
-      "id": "c7905bd1bb45",
-      "title": "群創法說焦點「騰籠換鳥」！未回應台積電 CoPoS 合作問題，TGV 玻璃基板最快 2028 年量產",
-      "link": "https://technews.tw/2026/08/23/innolux-earnings-call-26q2/",
-      "summary": "《財訊》報導，群創 18 日舉行線上法說會，外界關注的焦點包括 FOPLP（扇出型面板級封裝）量產狀況、玻璃基 [&#8230;]",
-      "date": "2026-08-23T01:00:46+00:00",
-      "sourceId": "technews",
-      "cats": [
-        "market",
-        "process",
-        "material"
-      ]
-    },
-    {
-      "id": "4ee40df29f35",
-      "title": "日月光子公司 ISE Labs 購入加州矽谷建物，為碼美國在地半導體製造布局",
-      "link": "https://finance.technews.tw/2026/08/22/ase-technology-holding-co-ltd-ise-labs-acquires-building-in-silicon-valley-california/",
-      "summary": "全球半導體封測龍頭日月光投控21日代全資子公司ISE Labs發布重訊指出，宣布其董事會已於美國時間20日決議 [&#8230;]",
-      "date": "2026-08-22T07:00:10+00:00",
-      "sourceId": "technews",
-      "cats": [
-        "market",
-        "process",
-        "material"
-      ]
-    },
-    {
-      "id": "92b263737ae4",
-      "title": "挖角 Google TPU 創辦大將，Anthropic 以人才、技術、資金佈局自研 AI 晶片",
-      "link": "https://technews.tw/2026/08/22/anthropic-is-developing-its-own-ai-chips/",
-      "summary": "隨著人工智慧（AI）領域競爭白熱化，開發知名 AI 科技廠商 Anthropic 正式宣告進軍半導體領域。An [&#8230;]",
-      "date": "2026-08-22T06:00:10+00:00",
-      "sourceId": "technews",
-      "cats": [
-        "market",
-        "process",
-        "material"
-      ]
-    },
-    {
-      "id": "b91a894b5f2c",
-      "title": "十年投資百億美元設立研究實驗室，美光罕見為記憶體產業布局下一步",
-      "link": "https://finance.technews.tw/2026/08/22/micron-makes-a-rare-move-to-plan-the-next-step-in-the-memory-industry/",
-      "summary": "記憶體大廠美光日前宣布了一項在記憶體晶片產業中相當罕見的重大戰略決定，也就是計劃在未來十年內投資高達 100 [&#8230;]",
-      "date": "2026-08-22T05:00:56+00:00",
       "sourceId": "technews",
       "cats": [
         "market",
