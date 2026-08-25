@@ -1,6 +1,6 @@
 {
-  "updated": "2026-08-25T04:47:07.182632+00:00",
-  "count": 15,
+  "updated": "2026-08-25T06:59:47.898395+00:00",
+  "count": 17,
   "sources": [
     {
       "id": "technews",
@@ -61,6 +61,45 @@
   ],
   "articles": [
     {
+      "id": "b6d88cf4415e",
+      "title": "台積電再生水用量達 2,353 萬噸，水務商機持續擴大",
+      "link": "https://technews.tw/2026/08/25/tsmc-recycled-water-consumption-23-53-million-tons-water-resource-supply-chain-focus/",
+      "summary": "隨 AI 與先進製程產能持續擴張，水資源也成為支撐半導體製造的重要基礎。台積電最新永續報告書指出，2025 年 [&#8230;]",
+      "date": "2026-08-25T06:11:44+00:00",
+      "sourceId": "technews",
+      "cats": [
+        "market",
+        "process",
+        "material"
+      ]
+    },
+    {
+      "id": "2ecf1658d321",
+      "title": "鎖定先進封裝與真空製程，億仕登精密系統於 2026 台北自動化展推出兩大新品",
+      "link": "https://technews.tw/2026/08/25/isdn-precision-system-apextwin-mff/",
+      "summary": "因應先進封裝及高精密製程設備的需求，億仕登精密系統（ISDN Precision System）將於今年（20 [&#8230;]",
+      "date": "2026-08-25T06:00:39+00:00",
+      "sourceId": "technews",
+      "cats": [
+        "market",
+        "process",
+        "material"
+      ]
+    },
+    {
+      "id": "357f3b19f700",
+      "title": "算力、HBM 與 CPO 就是缺！安聯亞洲半導體主動式 ETF 自 9/16 開募",
+      "link": "https://finance.technews.tw/2026/08/25/00412a/",
+      "summary": "迎接 AI 浪潮，搶買市場最受關注的三大瓶頸，包括 GPU 所代表的算力需求、高頻寬記憶體（HBM）所代表的儲 [&#8230;]",
+      "date": "2026-08-25T05:36:35+00:00",
+      "sourceId": "technews",
+      "cats": [
+        "market",
+        "process",
+        "material"
+      ]
+    },
+    {
       "id": "a928decb16cb",
       "title": "SK 海力士工會否決薪資協議，獎金改發股票成爭議焦點",
       "link": "https://finance.technews.tw/2026/08/25/sk-hynix-union-rejects-wage-deal-stock-bonus-dispute/",
@@ -118,19 +157,6 @@
       "link": "https://finance.technews.tw/2026/08/25/analysts-expect-the-semiconductor-asic-market-to-reach-a-certain-level-in-2026/",
       "summary": "隨著全球 AI 晶片需求持續白熱化，大廠在客製化特殊應用晶片（ASIC）的布局正迎來新一輪洗牌。根據廣發證券（ [&#8230;]",
       "date": "2026-08-25T03:00:34+00:00",
-      "sourceId": "technews",
-      "cats": [
-        "market",
-        "process",
-        "material"
-      ]
-    },
-    {
-      "id": "75c39ef9a64c",
-      "title": "國會女股神又出手  裴洛西砸錢重押 Bloom、Intel",
-      "link": "https://finance.technews.tw/2026/08/25/pelosi-bloom-intel/",
-      "summary": "有「國會女股神」之稱、現年 86 歲的美國眾議院前議長裴洛西 (Nancy Pelosi) 揭露，近期她曾大舉 [&#8230;]",
-      "date": "2026-08-25T01:40:32+00:00",
       "sourceId": "technews",
       "cats": [
         "market",
