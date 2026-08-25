@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-25T10:40:11.917765+00:00",
+  "updated": "2026-08-25T13:01:19.371673+00:00",
   "count": 17,
   "sources": [
     {
@@ -60,6 +60,32 @@
     }
   ],
   "articles": [
+    {
+      "id": "a7bc89f7da9a",
+      "title": "漢測前 7 月營收超越 2025 全年，記憶體、先進封裝、矽光子三大新市場為成長動力",
+      "link": "https://finance.technews.tw/2026/08/25/hantests-revenue-in-the-first-seven-months-exceeded-its-total-revenue-for-2025/",
+      "summary": "半導體晶圓測試解決方案大廠漢民測試 (簡稱漢測) 26日舉辦上櫃前業績發表會 。受惠於AI與高效能運算（HPC [&#8230;]",
+      "date": "2026-08-25T12:45:03+00:00",
+      "sourceId": "technews",
+      "cats": [
+        "market",
+        "process",
+        "material"
+      ]
+    },
+    {
+      "id": "faa736001001",
+      "title": "記憶體合約價持續飆升，2027 年占主要 CSP 資本支出比重估高達 68%",
+      "link": "https://finance.technews.tw/2026/08/25/dram-nand-flash-2027-csp-68pa/",
+      "summary": "TrendForce 最新記憶體產業研究，全球主要雲端服務供應商（CSP）為加速建置 AI 基礎設施，資本支出 [&#8230;]",
+      "date": "2026-08-25T10:00:46+00:00",
+      "sourceId": "technews",
+      "cats": [
+        "market",
+        "process",
+        "material"
+      ]
+    },
     {
       "id": "c11fb0cc986d",
       "title": "愛立信攜聯發科、AT&T，完成北美首例先進移動性功能實網試驗",
@@ -136,32 +162,6 @@
         "process",
         "material",
         "equipment"
-      ]
-    },
-    {
-      "id": "b6d88cf4415e",
-      "title": "台積電再生水用量達 2,353 萬噸，水務商機持續擴大",
-      "link": "https://technews.tw/2026/08/25/tsmc-recycled-water-consumption-23-53-million-tons-water-resource-supply-chain-focus/",
-      "summary": "隨 AI 與先進製程產能持續擴張，水資源也成為支撐半導體製造的重要基礎。台積電最新永續報告書指出，2025 年 [&#8230;]",
-      "date": "2026-08-25T06:11:44+00:00",
-      "sourceId": "technews",
-      "cats": [
-        "market",
-        "process",
-        "material"
-      ]
-    },
-    {
-      "id": "2ecf1658d321",
-      "title": "鎖定先進封裝與真空製程，億仕登精密系統於 2026 台北自動化展推出兩大新品",
-      "link": "https://technews.tw/2026/08/25/isdn-precision-system-apextwin-mff/",
-      "summary": "因應先進封裝及高精密製程設備的需求，億仕登精密系統（ISDN Precision System）將於今年（20 [&#8230;]",
-      "date": "2026-08-25T06:00:39+00:00",
-      "sourceId": "technews",
-      "cats": [
-        "market",
-        "process",
-        "material"
       ]
     },
     {
