@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-25T08:52:02.839287+00:00",
+  "updated": "2026-08-25T10:40:11.917765+00:00",
   "count": 17,
   "sources": [
     {
@@ -61,6 +61,45 @@
   ],
   "articles": [
     {
+      "id": "c11fb0cc986d",
+      "title": "愛立信攜聯發科、AT&T，完成北美首例先進移動性功能實網試驗",
+      "link": "https://technews.tw/2026/08/25/ericsson-att-mediatek-ran-network/",
+      "summary": "愛立信攜手 AT&#38;T、聯發科技，在採用愛立信無線接取網路（RAN）技術的 AT&#38;T 網路上，完 [&#8230;]",
+      "date": "2026-08-25T09:56:06+00:00",
+      "sourceId": "technews",
+      "cats": [
+        "market",
+        "process",
+        "material"
+      ]
+    },
+    {
+      "id": "9c0e23a03069",
+      "title": "高明鐵卡位 CPO 封裝量產！攜光循科技展示 120 通道 FAU-PIC 自動化對位平台",
+      "link": "https://technews.tw/2026/08/25/gmt-global-semicon-taiwan-2026/",
+      "summary": "生成式 AI 推升算力需求暴增，共同封裝光學（CPO）與 AI 晶片間光互連（OCI）成為下世代光電整合的核心 [&#8230;]",
+      "date": "2026-08-25T09:37:34+00:00",
+      "sourceId": "technews",
+      "cats": [
+        "market",
+        "process",
+        "material"
+      ]
+    },
+    {
+      "id": "98b44ad7cc64",
+      "title": "京都大學打造耐 600°C SiC 電晶體！標準離子佈植解決漏電、電壓漂移問題",
+      "link": "https://technews.tw/2026/08/25/kyoto-university-600c-temperatures-transistor/",
+      "summary": "日本京都大學研究團隊成功開發出一款可在 600°C 高溫下運作的碳化矽（SiC）電晶體，採用商業晶圓廠廣泛使用 [&#8230;]",
+      "date": "2026-08-25T08:58:53+00:00",
+      "sourceId": "technews",
+      "cats": [
+        "market",
+        "process",
+        "material"
+      ]
+    },
+    {
       "id": "19144b5dcbd2",
       "title": "自家 AI 基礎建設還不夠用？Meta 每年狂砸數億美元向微軟買算力救援",
       "link": "https://finance.technews.tw/2026/08/25/meta-self-developed-ai-insufficient/",
@@ -118,45 +157,6 @@
       "link": "https://technews.tw/2026/08/25/isdn-precision-system-apextwin-mff/",
       "summary": "因應先進封裝及高精密製程設備的需求，億仕登精密系統（ISDN Precision System）將於今年（20 [&#8230;]",
       "date": "2026-08-25T06:00:39+00:00",
-      "sourceId": "technews",
-      "cats": [
-        "market",
-        "process",
-        "material"
-      ]
-    },
-    {
-      "id": "357f3b19f700",
-      "title": "算力、HBM 與 CPO 就是缺！安聯亞洲半導體主動式 ETF 自 9/16 開募",
-      "link": "https://finance.technews.tw/2026/08/25/00412a/",
-      "summary": "迎接 AI 浪潮，搶買市場最受關注的三大瓶頸，包括 GPU 所代表的算力需求、高頻寬記憶體（HBM）所代表的儲 [&#8230;]",
-      "date": "2026-08-25T05:36:35+00:00",
-      "sourceId": "technews",
-      "cats": [
-        "market",
-        "process",
-        "material"
-      ]
-    },
-    {
-      "id": "a928decb16cb",
-      "title": "SK 海力士工會否決薪資協議，獎金改發股票成爭議焦點",
-      "link": "https://finance.technews.tw/2026/08/25/sk-hynix-union-rejects-wage-deal-stock-bonus-dispute/",
-      "summary": "消息人士透露，韓國記憶體晶片大廠 SK 海力士（SK Hynix）工會成員今天以些微差距否決 1 項臨時薪資協 [&#8230;]",
-      "date": "2026-08-25T04:40:21+00:00",
-      "sourceId": "technews",
-      "cats": [
-        "market",
-        "process",
-        "material"
-      ]
-    },
-    {
-      "id": "dbe386f1cdd4",
-      "title": "特斯拉 AI 晶片人才持續流失，硬體資深總監轉戰新創 DensityAI",
-      "link": "https://technews.tw/2026/08/25/tesla-ai-chip-talent-drain/",
-      "summary": "特斯拉（Tesla）再度面臨關鍵技術人才流失。最新消息指出，前特斯拉 AI 硬體設計資深總監 Shishuan [&#8230;]",
-      "date": "2026-08-25T04:20:41+00:00",
       "sourceId": "technews",
       "cats": [
         "market",
