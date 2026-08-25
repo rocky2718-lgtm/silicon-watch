@@ -1,6 +1,6 @@
 {
-  "updated": "2026-08-24T22:34:19.034340+00:00",
-  "count": 15,
+  "updated": "2026-08-25T01:43:26.218563+00:00",
+  "count": 19,
   "sources": [
     {
       "id": "technews",
@@ -61,50 +61,128 @@
   ],
   "articles": [
     {
+      "id": "75c39ef9a64c",
+      "title": "國會女股神又出手  裴洛西砸錢重押 Bloom、Intel",
+      "link": "https://finance.technews.tw/2026/08/25/pelosi-bloom-intel/",
+      "summary": "有「國會女股神」之稱、現年 86 歲的美國眾議院前議長裴洛西 (Nancy Pelosi) 揭露，近期她曾大舉 [&#8230;]",
+      "date": "2026-08-25T01:40:32+00:00",
+      "sourceId": "technews",
+      "cats": [
+        "market",
+        "process",
+        "material"
+      ]
+    },
+    {
+      "id": "31a6a3553612",
+      "title": "傳川普考慮放行蘋果採購中國記憶體、美韓股跳水",
+      "link": "https://finance.technews.tw/2026/08/25/trump-reportedly-weighs-allowing-apple-to-buy-chinese-memory-us-south-korean-stocks-dive/",
+      "summary": "網傳華府可能會在中國國家主席習近平 9 月前往美國與川普會面後，鬆口讓蘋果 (Apple Inc.) 向中國記 [&#8230;]",
+      "date": "2026-08-25T01:20:09+00:00",
+      "sourceId": "technews",
+      "cats": [
+        "market",
+        "process",
+        "material"
+      ]
+    },
+    {
+      "id": "cf22f11c29b8",
+      "title": "台積電員工 114 年均薪福利 433 萬元，全球逾 85% 員工購股",
+      "link": "https://finance.technews.tw/2026/08/25/tsmc-employees-average-annual-salary-benefits-2025-nt4-33-million-85-global-employees-stock-purchase/",
+      "summary": "台積電 114 年度永續報告書統計，從民國 109~114 年，台積電每年員工整體薪資福利費用總額，由約新台幣 [&#8230;]",
+      "date": "2026-08-25T01:00:57+00:00",
+      "sourceId": "technews",
+      "cats": [
+        "market",
+        "process",
+        "material"
+      ]
+    },
+    {
+      "id": "5921fae9bbaf",
+      "title": "瑞薩車用晶片工廠產能恢復至地震前水準",
+      "link": "https://technews.tw/2026/08/25/renesas-automotive-chip-factory-production-capacity-recovers-pre-earthquake-levels/",
+      "summary": "瑞薩電子 (Renesas Electronics) 兩座車用晶片工廠受 7 月 28 日發生的熊本地震影響而 [&#8230;]",
+      "date": "2026-08-25T00:50:47+00:00",
+      "sourceId": "technews",
+      "cats": [
+        "market",
+        "process",
+        "material"
+      ]
+    },
+    {
+      "id": "a3ee00375d17",
+      "title": "矽晶圓傳光效率逼近光纖！加州理工研發超低損耗光波導，可見光性能提升 20 倍",
+      "link": "https://technews.tw/2026/08/25/caltech-breakthrough-brings-fiber-optic-performance-to-silicon-chips/",
+      "summary": "加州理工學院宣布，已成功在矽晶圓打造接近光纖效率的超低損耗光傳輸路徑，讓晶片光訊號在可見光波段的表現大幅領先現 [&#8230;]",
+      "date": "2026-08-25T00:30:28+00:00",
+      "sourceId": "technews",
+      "cats": [
+        "market",
+        "process",
+        "material"
+      ]
+    },
+    {
+      "id": "3b256e3584f0",
+      "title": "強震撼不動矽島！台積電熊本二廠加速動工，日本汽車與工業晶片如何逆襲全球？",
+      "link": "https://finance.technews.tw/2026/08/25/japan-silicon-island-shows-resilience-after-major-earthquake/",
+      "summary": "面對日本九州近期遭遇的強烈地震考驗，日本半導體產業展現出令全球驚嘆的營運持續能力（BCP）與抗震韌性。台積電（ [&#8230;]",
+      "date": "2026-08-25T00:00:35+00:00",
+      "sourceId": "technews",
+      "cats": [
+        "market",
+        "process",
+        "material"
+      ]
+    },
+    {
+      "id": "4056633c1c3f",
+      "title": "中國長鑫存儲 2027 年產能賣光，蘋果要取得足夠記憶體很吃力",
+      "link": "https://finance.technews.tw/2026/08/25/cxmts-2027-production-capacity-sold-out/",
+      "summary": "科技大廠蘋果蘋果（Apple）目前正努力尋求將中國動態隨機存取記憶體（DRAM）大廠長鑫存儲（CXMT）納入其 [&#8230;]",
+      "date": "2026-08-24T23:00:58+00:00",
+      "sourceId": "technews",
+      "cats": [
+        "market",
+        "process",
+        "material"
+      ]
+    },
+    {
+      "id": "c9b41bd39574",
+      "title": "英特爾 18A-P 製程突破，技術革新重塑 Diamond Rapids 處理器與資料中心效能",
+      "link": "https://finance.technews.tw/2026/08/25/intels-18a-p-process-breakthrough/",
+      "summary": "根據半導體研究機構 The Futurum Group 的最新報告，英特爾（Intel）下一代資料中心伺服器處 [&#8230;]",
+      "date": "2026-08-24T23:00:48+00:00",
+      "sourceId": "technews",
+      "cats": [
+        "market",
+        "process",
+        "material"
+      ]
+    },
+    {
+      "id": "5efa86ccdc8f",
+      "title": "IBM 藉 2 奈米製程，建構全球首款雙指令集架構大型主機處理器",
+      "link": "https://finance.technews.tw/2026/08/25/ibm-builds-the-worlds-first-dual-instruction-set-architecture-mainframe-processor/",
+      "summary": "在一年一度的 Hot Chips 2026 科技大會上，藍色巨人 IBM 推出了全球首款雙指令集架構（Dual [&#8230;]",
+      "date": "2026-08-24T23:00:07+00:00",
+      "sourceId": "technews",
+      "cats": [
+        "market",
+        "process",
+        "material"
+      ]
+    },
+    {
       "id": "2ed4db0f5b88",
       "title": "三星曝HBM「三階段」演進：Base Die 突破瓶頸、擴充容量，最終邁向 zHBM",
       "link": "https://technews.tw/2026/08/24/samsung-hot-chips-2026-hbm-and-zhbm/",
       "summary": "隨著 HBM 面臨頻寬、功耗與封裝尺寸等多重瓶頸，三星積極尋求下一代 HBM 架構的突破。從近期三星在 Hot [&#8230;]",
       "date": "2026-08-24T09:48:50+00:00",
-      "sourceId": "technews",
-      "cats": [
-        "market",
-        "process",
-        "material"
-      ]
-    },
-    {
-      "id": "bb0b4643e425",
-      "title": "小米發表自研晶片玄戒 O3，路透：將採台積電 3 奈米製程",
-      "link": "https://technews.tw/2026/08/24/xiaomi-unveils-self-developed-xuanjie-o3-chip-reuters-reports-tsmc-3nm-process/",
-      "summary": "中國智慧型手機製造商小米今天發表新款自主研發晶片「玄戒 O3」（Xring O3）；兩名知情人士透露，這款新晶 [&#8230;]",
-      "date": "2026-08-24T09:00:18+00:00",
-      "sourceId": "technews",
-      "cats": [
-        "market",
-        "process",
-        "material"
-      ]
-    },
-    {
-      "id": "89097e6adb07",
-      "title": "三星確認 HBM4E 速度衝上 16Gbps，單疊頻寬高達 4TB/s",
-      "link": "https://technews.tw/2026/08/24/samsung-confirms-hbm4e-speeds-reach-16-gbps/",
-      "summary": "在近日舉行的 Hot Chips 2026 大會前瞻計畫中，韓國三星代表證實，公司正積極準備出貨最新一代高頻寬 [&#8230;]",
-      "date": "2026-08-24T08:50:07+00:00",
-      "sourceId": "technews",
-      "cats": [
-        "market",
-        "process",
-        "material"
-      ]
-    },
-    {
-      "id": "6dfeafdbb37e",
-      "title": "韓國記憶體雙雄繼續擴充中國 NAND 產能，2027 年達成產能增加目標",
-      "link": "https://finance.technews.tw/2026/08/24/south-koreas-two-memory-chip-giants-are-putting-pressure-on-china-to-expand-its-production-capacity/",
-      "summary": "韓國記憶體雙雄正顯著加強對中國境內NAND快閃記憶體（Nand Flash）生產基地的投資。其中，三星電子已具 [&#8230;]",
-      "date": "2026-08-24T08:30:42+00:00",
       "sourceId": "technews",
       "cats": [
         "market",
@@ -123,32 +201,6 @@
         "process",
         "material",
         "equipment"
-      ]
-    },
-    {
-      "id": "72588ff110cf",
-      "title": "台積電全球用電再攀高：2025 年近 288 億度，約台灣全年用電一成",
-      "link": "https://technews.tw/2026/08/24/tsmc-global-power-consumption-climbs-2025-28-8-billion-kwh-10-percent-taiwan-annual-total/",
-      "summary": "台積電最新永續報告書出爐。隨 AI 與先進製程需求高速成長，晶圓廠競爭不只拚製程與產能，背後龐大的電力需求也成 [&#8230;]",
-      "date": "2026-08-24T07:40:49+00:00",
-      "sourceId": "technews",
-      "cats": [
-        "market",
-        "process",
-        "material"
-      ]
-    },
-    {
-      "id": "978a7a1ce69e",
-      "title": "SK 海力士揭 HBM 下一代技術藍圖！TSV 數量翻倍，導入先進封裝拚「3D 封裝結構」",
-      "link": "https://technews.tw/2026/08/24/sk-hynix-hot-chips-2026-hbm/",
-      "summary": "SK 海力士正加速推進高頻寬記憶體（HBM）先進封裝技術布局，並將封裝視為推動下一世代 HBM 效能提升的關鍵 [&#8230;]",
-      "date": "2026-08-24T07:40:16+00:00",
-      "sourceId": "technews",
-      "cats": [
-        "market",
-        "process",
-        "material"
       ]
     },
     {
