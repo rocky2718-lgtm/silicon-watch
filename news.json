@@ -1,6 +1,6 @@
 {
-  "updated": "2026-08-25T03:06:42.261724+00:00",
-  "count": 16,
+  "updated": "2026-08-25T04:47:07.182632+00:00",
+  "count": 15,
   "sources": [
     {
       "id": "technews",
@@ -61,6 +61,58 @@
   ],
   "articles": [
     {
+      "id": "a928decb16cb",
+      "title": "SK 海力士工會否決薪資協議，獎金改發股票成爭議焦點",
+      "link": "https://finance.technews.tw/2026/08/25/sk-hynix-union-rejects-wage-deal-stock-bonus-dispute/",
+      "summary": "消息人士透露，韓國記憶體晶片大廠 SK 海力士（SK Hynix）工會成員今天以些微差距否決 1 項臨時薪資協 [&#8230;]",
+      "date": "2026-08-25T04:40:21+00:00",
+      "sourceId": "technews",
+      "cats": [
+        "market",
+        "process",
+        "material"
+      ]
+    },
+    {
+      "id": "dbe386f1cdd4",
+      "title": "特斯拉 AI 晶片人才持續流失，硬體資深總監轉戰新創 DensityAI",
+      "link": "https://technews.tw/2026/08/25/tesla-ai-chip-talent-drain/",
+      "summary": "特斯拉（Tesla）再度面臨關鍵技術人才流失。最新消息指出，前特斯拉 AI 硬體設計資深總監 Shishuan [&#8230;]",
+      "date": "2026-08-25T04:20:41+00:00",
+      "sourceId": "technews",
+      "cats": [
+        "market",
+        "process",
+        "material"
+      ]
+    },
+    {
+      "id": "368a5048c37f",
+      "title": "阿里巴巴籌資百億美元衝刺 AI 競賽，全新影片生成模型 Wan3.0 亮相",
+      "link": "https://technews.tw/2026/08/25/alibaba-ai-model-wan3-0/",
+      "summary": "阿里巴巴在完成約 102 億美元的香港配股後，隨即正式推出最新 AI 影片生成模型 Wan3.0，顯示這家中國 [&#8230;]",
+      "date": "2026-08-25T03:40:53+00:00",
+      "sourceId": "technews",
+      "cats": [
+        "market",
+        "process",
+        "material"
+      ]
+    },
+    {
+      "id": "8ae6ae01d583",
+      "title": "SpaceX 攜輝達  馬斯克：太空 AI 資料中心明年升空",
+      "link": "https://technews.tw/2026/08/25/musk-space-ai-data-centers-to-launch-next-year/",
+      "summary": "SpaceX 宣布與輝達（Nvidia）建立全新合作關係，準備加速推動太空 AI 資料中心計畫，預計最快 20 [&#8230;]",
+      "date": "2026-08-25T03:20:24+00:00",
+      "sourceId": "technews",
+      "cats": [
+        "market",
+        "process",
+        "material"
+      ]
+    },
+    {
       "id": "3ec584a6aa4c",
       "title": "法人預期 2026 年半導體 ASIC 市場，聯發科、Marvell 與英特爾前景看俏",
       "link": "https://finance.technews.tw/2026/08/25/analysts-expect-the-semiconductor-asic-market-to-reach-a-certain-level-in-2026/",
@@ -79,71 +131,6 @@
       "link": "https://finance.technews.tw/2026/08/25/pelosi-bloom-intel/",
       "summary": "有「國會女股神」之稱、現年 86 歲的美國眾議院前議長裴洛西 (Nancy Pelosi) 揭露，近期她曾大舉 [&#8230;]",
       "date": "2026-08-25T01:40:32+00:00",
-      "sourceId": "technews",
-      "cats": [
-        "market",
-        "process",
-        "material"
-      ]
-    },
-    {
-      "id": "31a6a3553612",
-      "title": "傳川普考慮放行蘋果採購中國記憶體、美韓股跳水",
-      "link": "https://finance.technews.tw/2026/08/25/trump-reportedly-weighs-allowing-apple-to-buy-chinese-memory-us-south-korean-stocks-dive/",
-      "summary": "網傳華府可能會在中國國家主席習近平 9 月前往美國與川普會面後，鬆口讓蘋果 (Apple Inc.) 向中國記 [&#8230;]",
-      "date": "2026-08-25T01:20:09+00:00",
-      "sourceId": "technews",
-      "cats": [
-        "market",
-        "process",
-        "material"
-      ]
-    },
-    {
-      "id": "cf22f11c29b8",
-      "title": "台積電員工 114 年均薪福利 433 萬元，全球逾 85% 員工購股",
-      "link": "https://finance.technews.tw/2026/08/25/tsmc-employees-average-annual-salary-benefits-2025-nt4-33-million-85-global-employees-stock-purchase/",
-      "summary": "台積電 114 年度永續報告書統計，從民國 109~114 年，台積電每年員工整體薪資福利費用總額，由約新台幣 [&#8230;]",
-      "date": "2026-08-25T01:00:57+00:00",
-      "sourceId": "technews",
-      "cats": [
-        "market",
-        "process",
-        "material"
-      ]
-    },
-    {
-      "id": "5921fae9bbaf",
-      "title": "瑞薩車用晶片工廠產能恢復至地震前水準",
-      "link": "https://technews.tw/2026/08/25/renesas-automotive-chip-factory-production-capacity-recovers-pre-earthquake-levels/",
-      "summary": "瑞薩電子 (Renesas Electronics) 兩座車用晶片工廠受 7 月 28 日發生的熊本地震影響而 [&#8230;]",
-      "date": "2026-08-25T00:50:47+00:00",
-      "sourceId": "technews",
-      "cats": [
-        "market",
-        "process",
-        "material"
-      ]
-    },
-    {
-      "id": "a3ee00375d17",
-      "title": "矽晶圓傳光效率逼近光纖！加州理工研發超低損耗光波導，可見光性能提升 20 倍",
-      "link": "https://technews.tw/2026/08/25/caltech-breakthrough-brings-fiber-optic-performance-to-silicon-chips/",
-      "summary": "加州理工學院宣布，已成功在矽晶圓打造接近光纖效率的超低損耗光傳輸路徑，讓晶片光訊號在可見光波段的表現大幅領先現 [&#8230;]",
-      "date": "2026-08-25T00:30:28+00:00",
-      "sourceId": "technews",
-      "cats": [
-        "market",
-        "process",
-        "material"
-      ]
-    },
-    {
-      "id": "3b256e3584f0",
-      "title": "強震撼不動矽島！台積電熊本二廠加速動工，日本汽車與工業晶片如何逆襲全球？",
-      "link": "https://finance.technews.tw/2026/08/25/japan-silicon-island-shows-resilience-after-major-earthquake/",
-      "summary": "面對日本九州近期遭遇的強烈地震考驗，日本半導體產業展現出令全球驚嘆的營運持續能力（BCP）與抗震韌性。台積電（ [&#8230;]",
-      "date": "2026-08-25T00:00:35+00:00",
       "sourceId": "technews",
       "cats": [
         "market",
