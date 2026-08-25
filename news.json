@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-25T06:59:47.898395+00:00",
+  "updated": "2026-08-25T08:52:02.839287+00:00",
   "count": 17,
   "sources": [
     {
@@ -61,6 +61,45 @@
   ],
   "articles": [
     {
+      "id": "19144b5dcbd2",
+      "title": "自家 AI 基礎建設還不夠用？Meta 每年狂砸數億美元向微軟買算力救援",
+      "link": "https://finance.technews.tw/2026/08/25/meta-self-developed-ai-insufficient/",
+      "summary": "Meta 每年向 Microsoft Azure 旗下的 Foundry 平台購買 AI 模型服務，金額高達數 [&#8230;]",
+      "date": "2026-08-25T07:41:11+00:00",
+      "sourceId": "technews",
+      "cats": [
+        "market",
+        "process",
+        "material"
+      ]
+    },
+    {
+      "id": "e2e02c97063f",
+      "title": "英特爾闡述代理式 AI 架構布局，三新世代產品搶攻市場",
+      "link": "https://technews.tw/2026/08/25/intel-outlines-its-agent-based-ai-architecture-strategy/",
+      "summary": "英特爾 (intel) 於Hot Chips 2026展示三款針對代理式AI與企業級工作負載所設計的架構，包含 [&#8230;]",
+      "date": "2026-08-25T07:15:14+00:00",
+      "sourceId": "technews",
+      "cats": [
+        "market",
+        "process",
+        "material"
+      ]
+    },
+    {
+      "id": "2edebd0d7da0",
+      "title": "TSMC’s HBM-Packaging Yield Issues Help Intel, Analysts Say",
+      "link": "https://www.eetimes.com/tsmcs-hbm-packaging-yield-issues-help-intel-analysts-say/",
+      "summary": "TSMC’s CoWoS bottlenecks could hand Intel a foundry opening as AI chipmakers eye EMIB and new memory tech. The post TSMC’s HBM-Packaging Yield Issues Help Intel, Analysts Say appeared first on EE Times.",
+      "date": "2026-08-25T07:00:00+00:00",
+      "sourceId": "eetimes",
+      "cats": [
+        "process",
+        "material",
+        "equipment"
+      ]
+    },
+    {
       "id": "b6d88cf4415e",
       "title": "台積電再生水用量達 2,353 萬噸，水務商機持續擴大",
       "link": "https://technews.tw/2026/08/25/tsmc-recycled-water-consumption-23-53-million-tons-water-resource-supply-chain-focus/",
@@ -118,45 +157,6 @@
       "link": "https://technews.tw/2026/08/25/tesla-ai-chip-talent-drain/",
       "summary": "特斯拉（Tesla）再度面臨關鍵技術人才流失。最新消息指出，前特斯拉 AI 硬體設計資深總監 Shishuan [&#8230;]",
       "date": "2026-08-25T04:20:41+00:00",
-      "sourceId": "technews",
-      "cats": [
-        "market",
-        "process",
-        "material"
-      ]
-    },
-    {
-      "id": "368a5048c37f",
-      "title": "阿里巴巴籌資百億美元衝刺 AI 競賽，全新影片生成模型 Wan3.0 亮相",
-      "link": "https://technews.tw/2026/08/25/alibaba-ai-model-wan3-0/",
-      "summary": "阿里巴巴在完成約 102 億美元的香港配股後，隨即正式推出最新 AI 影片生成模型 Wan3.0，顯示這家中國 [&#8230;]",
-      "date": "2026-08-25T03:40:53+00:00",
-      "sourceId": "technews",
-      "cats": [
-        "market",
-        "process",
-        "material"
-      ]
-    },
-    {
-      "id": "8ae6ae01d583",
-      "title": "SpaceX 攜輝達  馬斯克：太空 AI 資料中心明年升空",
-      "link": "https://technews.tw/2026/08/25/musk-space-ai-data-centers-to-launch-next-year/",
-      "summary": "SpaceX 宣布與輝達（Nvidia）建立全新合作關係，準備加速推動太空 AI 資料中心計畫，預計最快 20 [&#8230;]",
-      "date": "2026-08-25T03:20:24+00:00",
-      "sourceId": "technews",
-      "cats": [
-        "market",
-        "process",
-        "material"
-      ]
-    },
-    {
-      "id": "3ec584a6aa4c",
-      "title": "法人預期 2026 年半導體 ASIC 市場，聯發科、Marvell 與英特爾前景看俏",
-      "link": "https://finance.technews.tw/2026/08/25/analysts-expect-the-semiconductor-asic-market-to-reach-a-certain-level-in-2026/",
-      "summary": "隨著全球 AI 晶片需求持續白熱化，大廠在客製化特殊應用晶片（ASIC）的布局正迎來新一輪洗牌。根據廣發證券（ [&#8230;]",
-      "date": "2026-08-25T03:00:34+00:00",
       "sourceId": "technews",
       "cats": [
         "market",
