@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-26T07:00:37.828311+00:00",
+  "updated": "2026-08-26T08:53:25.037002+00:00",
   "count": 14,
   "sources": [
     {
@@ -61,6 +61,45 @@
   ],
   "articles": [
     {
+      "id": "a86f6f7a24f8",
+      "title": "東京威力科創上半年營收創下同期新高，積極布局面板級封裝領域搶攻 AI 商機",
+      "link": "https://finance.technews.tw/2026/08/26/tels-revenue-hit-a-record-high-for-the-same-period-in-the-first-half-of-the-year/",
+      "summary": "隨著生成式AI與高效能運算(HPC)浪潮席捲全球，帶動半導體先進製程與先進封裝需求爆發式成長，世界半導體貿易統 [&#8230;]",
+      "date": "2026-08-26T08:50:20+00:00",
+      "sourceId": "technews",
+      "cats": [
+        "market",
+        "process",
+        "material"
+      ]
+    },
+    {
+      "id": "e6176c3c01e8",
+      "title": "外資看好輝達將公布最強勁單季財報，將帶動台積電 ADR 股價大幅上攻",
+      "link": "https://finance.technews.tw/2026/08/26/nvidias-upcoming-strong-quarterly-earnings-report-drives-tsmc-adr-share-price-up-sharply/",
+      "summary": "輝達（Nvidia）即將於台北時間 27 日美股收盤後公布最新一季財報。這場被市場譽為「歷史性」的財報披露，不 [&#8230;]",
+      "date": "2026-08-26T08:30:52+00:00",
+      "sourceId": "technews",
+      "cats": [
+        "market",
+        "process",
+        "material"
+      ]
+    },
+    {
+      "id": "8e128e57cd56",
+      "title": "輝達即將公布最新單季財報前夕，市場更關心融資模式後續長尾效應",
+      "link": "https://finance.technews.tw/2026/08/26/the-market-is-concerned-about-the-long-tail-effect-of-nvidias-financing-model/",
+      "summary": "輝達（Nvidia）即將在台北時間27日清晨公布最新一季財報，市場預期其季度營收將達 921.8 億美元，較2 [&#8230;]",
+      "date": "2026-08-26T08:15:47+00:00",
+      "sourceId": "technews",
+      "cats": [
+        "market",
+        "process",
+        "material"
+      ]
+    },
+    {
       "id": "4b85f4da77c4",
       "title": "長江存儲劍指三星、SK 海力士  2027 年拚 NAND 龍頭",
       "link": "https://technews.tw/2026/08/26/ymtc-targets-nand-leadership-by-end-of-2027/",
@@ -79,45 +118,6 @@
       "link": "https://technews.tw/2026/08/26/castrol-on-pg25-coolant-validated-nvidia-ai-data-center-infrastructure/",
       "summary": "Castrol 宣布其兩款晶片直接冷卻液──Castrol ON PG25 與 PG25T──已雙雙通過驗證， [&#8230;]",
       "date": "2026-08-26T06:00:46+00:00",
-      "sourceId": "technews",
-      "cats": [
-        "market",
-        "process",
-        "material"
-      ]
-    },
-    {
-      "id": "5ecce09a3744",
-      "title": "長鑫、長江無意大量供貨，仍盼獲「蘋果供應商」招牌背書自家實力",
-      "link": "https://technews.tw/2026/08/26/cxmt-and-ymtc-china-apple-memory/",
-      "summary": "從市場消息來看，中國兩大記憶體巨頭長鑫存儲和長江存儲無意成為蘋果供應鏈中的關鍵助力，但仍希望透過「蘋果」這個招 [&#8230;]",
-      "date": "2026-08-26T03:35:57+00:00",
-      "sourceId": "technews",
-      "cats": [
-        "market",
-        "process",
-        "material"
-      ]
-    },
-    {
-      "id": "13d93fe87ae3",
-      "title": "OpenAI 自研晶片首測數據曝光，推理效能超越 NVIDIA GB200 / GB300",
-      "link": "https://technews.tw/2026/08/26/jalapeno-is-working-first-party-silicon-with-measured-results/",
-      "summary": "在史丹佛大學舉辦的 Hot Chips 大會上，OpenAI 公開首款客製化 AI 晶片「Jalapeño」更 [&#8230;]",
-      "date": "2026-08-26T03:14:05+00:00",
-      "sourceId": "technews",
-      "cats": [
-        "market",
-        "process",
-        "material"
-      ]
-    },
-    {
-      "id": "a1f747cf9743",
-      "title": "要一次賺回上次賠的！韓國散戶於輝達財報發布前狂抄底費半指數 3 倍槓桿 ETF",
-      "link": "https://finance.technews.tw/2026/08/26/south-korean-retail-investors-aggressively-bought-3x-leveraged-etfs-based-on-the-ftse-100-index-before-the-earnings-release/",
-      "summary": "隨著全球AI晶片龍頭輝達（Nvidia）即將於美國時間26日發布最新財報，市場普遍將此視為檢驗AI熱潮能否延續 [&#8230;]",
-      "date": "2026-08-26T03:00:25+00:00",
       "sourceId": "technews",
       "cats": [
         "market",
