@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-26T10:41:59.664436+00:00",
+  "updated": "2026-08-26T13:06:34.789910+00:00",
   "count": 16,
   "sources": [
     {
@@ -60,6 +60,19 @@
     }
   ],
   "articles": [
+    {
+      "id": "026c83559b69",
+      "title": "From Days to Minutes: Accelerating 3D IC Debug with Agentic AI",
+      "link": "https://www.eetimes.com/from-days-to-minutes-accelerating-3d-ic-debug-with-agentic-ai/",
+      "summary": "Discover how agentic AI cuts 3D IC debugging from days to minutes. Learn multi-agent orchestration techniques to accelerate end-to-end root cause analysis. The post From Days to Minutes: Accelerating 3D IC Debug with Agentic AI appeared first on EE Times.",
+      "date": "2026-08-26T13:00:00+00:00",
+      "sourceId": "eetimes",
+      "cats": [
+        "process",
+        "material",
+        "equipment"
+      ]
+    },
     {
       "id": "7996d680b460",
       "title": "SEMICON Taiwan 專家齊聚：科林研發談 AI 製程難題、TEL 揭面板級封裝兩大挑戰",
@@ -157,19 +170,6 @@
       "link": "https://www.eetimes.com/tsmcs-hbm-packaging-yield-issues-help-intel-analysts-say/",
       "summary": "TSMC’s CoWoS bottlenecks could hand Intel a foundry opening as AI chipmakers eye EMIB and new memory tech. The post TSMC’s HBM-Packaging Yield Issues Help Intel, Analysts Say appeared first on EE Times.",
       "date": "2026-08-25T07:00:00+00:00",
-      "sourceId": "eetimes",
-      "cats": [
-        "process",
-        "material",
-        "equipment"
-      ]
-    },
-    {
-      "id": "33a44eea3f27",
-      "title": "Nvidia’s Inference Pivot Reaches Rebellions in Korea",
-      "link": "https://www.eetimes.com/nvidia-inference-pivot-reaches-rebellions-in-korea/",
-      "summary": "Nvidia is reportedly in talks with Korean inference upstart Rebellions about a technical partnership, investment, or acquisition. The post Nvidia’s Inference Pivot Reaches Rebellions in Korea appeared first on EE Times.",
-      "date": "2026-08-24T08:07:18+00:00",
       "sourceId": "eetimes",
       "cats": [
         "process",
