@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-26T01:49:14.221362+00:00",
+  "updated": "2026-08-26T03:13:02.272238+00:00",
   "count": 17,
   "sources": [
     {
@@ -61,6 +61,58 @@
   ],
   "articles": [
     {
+      "id": "a1f747cf9743",
+      "title": "要一次賺回上次賠的！韓國散戶於輝達財報發布前狂超底費半指數 3 倍槓桿 ETF",
+      "link": "https://finance.technews.tw/2026/08/26/south-korean-retail-investors-aggressively-bought-3x-leveraged-etfs-based-on-the-ftse-100-index-before-the-earnings-release/",
+      "summary": "隨著全球AI晶片龍頭輝達（Nvidia）即將於美國時間26日發布最新財報，市場普遍將此視為檢驗AI熱潮能否延續 [&#8230;]",
+      "date": "2026-08-26T03:00:25+00:00",
+      "sourceId": "technews",
+      "cats": [
+        "market",
+        "process",
+        "material"
+      ]
+    },
+    {
+      "id": "9ae17e2f2f73",
+      "title": "AMD 伺服器 CPU 市占明年超車 Intel？獲喊強力買進",
+      "link": "https://finance.technews.tw/2026/08/26/amd-cpu-over-intel/",
+      "summary": "超微 (AMD) 有望在規模超過 2,000 億美元的伺服器 CPU 市場取得優勢，喜獲華爾街分析師給予「強力 [&#8230;]",
+      "date": "2026-08-26T02:20:38+00:00",
+      "sourceId": "technews",
+      "cats": [
+        "market",
+        "process",
+        "material"
+      ]
+    },
+    {
+      "id": "16345c262ad0",
+      "title": "輝達挾 5,000 億融資即將公布財報！盤點 11 檔「高含輝」ETF 誰最香？",
+      "link": "https://finance.technews.tw/2026/08/26/blackstone-brookfield/",
+      "summary": "輝達（NVIDIA）將於美東時間 8 月 26 日盤後公布財報，受到 GPU 供需持續緊張影響，市場普遍認為其 [&#8230;]",
+      "date": "2026-08-26T02:16:00+00:00",
+      "sourceId": "technews",
+      "cats": [
+        "market",
+        "process",
+        "material"
+      ]
+    },
+    {
+      "id": "237b623cc8c6",
+      "title": "台積電 ADR 收紅提振多頭士氣，資金強勢點火 CPO 與 ABF 族群",
+      "link": "https://finance.technews.tw/2026/08/26/tsmc-adr-gains-boosts-bullish-sentiment-funds-ignite-cpo-abf-sectors/",
+      "summary": "台股 25 日呈現先殺後拉的高檔洗盤格局，加權指數盤中震盪後下跌 1.02% 收在 44,762.32 點。然 [&#8230;]",
+      "date": "2026-08-26T02:00:48+00:00",
+      "sourceId": "technews",
+      "cats": [
+        "market",
+        "process",
+        "material"
+      ]
+    },
+    {
       "id": "5fc2e2aaf306",
       "title": "M6 玩 3A 大作有多讚？〈Cyberpunk 2077：終極版〉跑出 M4 兩倍表現",
       "link": "https://technews.tw/2026/08/26/cyberpunk-2077-m6-3a/",
@@ -75,7 +127,7 @@
     },
     {
       "id": "65199751fdd0",
-      "title": "韓國承諾投資延宕美國氣噗噗，記憶體雙雄將見川普啟動新一輪談判",
+      "title": "韓國承諾投資延宕美國氣噗噗，記憶體雙雄將見川普啟動新談判",
       "link": "https://finance.technews.tw/2026/08/26/south-koreas-investment-commitments-delay-us-anger/",
       "summary": "根據南韓媒體朝鮮日報的報導，隨著半導體供應鏈面臨的壓力持續升高，美國政府正與南韓政府進行密切協商，期盼能在美國 [&#8230;]",
       "date": "2026-08-26T01:20:46+00:00",
@@ -92,58 +144,6 @@
       "link": "https://finance.technews.tw/2026/08/26/chips-tech-war-french-media-china-poaching-taiwan-talent-ip-theft/",
       "summary": "法國快訊週刊 24 日刊登題為「中國與台灣的晶片戰爭：北京如何企圖從龍頭企業台積電竊密」報導，AI 戰爭中，中 [&#8230;]",
       "date": "2026-08-26T00:50:05+00:00",
-      "sourceId": "technews",
-      "cats": [
-        "market",
-        "process",
-        "material"
-      ]
-    },
-    {
-      "id": "bb71f7cf78c6",
-      "title": "淺談 AMD 推出 4GB VRAM 的 RX 9050：是頭殼壞去還是權宜之計？",
-      "link": "https://technews.tw/2026/08/26/amd-rx-9050-4gb-vram-crazy-decision-pragmatic-stopgap/",
-      "summary": "AMD 近日推出入門級 RDNA 4 顯示卡 Radeon RX 9050，零售版配備 8GB VRAM，但另 [&#8230;]",
-      "date": "2026-08-25T23:50:48+00:00",
-      "sourceId": "technews",
-      "cats": [
-        "market",
-        "process",
-        "material"
-      ]
-    },
-    {
-      "id": "cefacbeed5e6",
-      "title": "外資估中國先進半導體自給率十年內大幅提升，從 8% 上升到 66%",
-      "link": "https://finance.technews.tw/2026/08/26/foreign-investors-expect-chinas-self-sufficiency-rate-in-advanced-semiconductors-to-increase-significantly-within-10-years/",
-      "summary": "隨著人工智慧（AI）半導體需求迎來爆發式成長，中國正積極加速擴建先進製程產能。根據外資報告預期，中國 7 奈米 [&#8230;]",
-      "date": "2026-08-25T23:30:54+00:00",
-      "sourceId": "technews",
-      "cats": [
-        "market",
-        "process",
-        "material"
-      ]
-    },
-    {
-      "id": "2817039df991",
-      "title": "輝達全新機器人設計運算平台 Jetson Orin Nano 2 發表，效能提升兩倍 2027上半年上市",
-      "link": "https://finance.technews.tw/2026/08/26/nvidia-unveils-its-new-jetson-orin-nano-2-robotics-design-computing-platform/",
-      "summary": "輝達 （NVIDIA） 發表了專為無人機與家用機器人等設備設計的入門級機器人運算電腦 「Jetson Orin [&#8230;]",
-      "date": "2026-08-25T23:00:56+00:00",
-      "sourceId": "technews",
-      "cats": [
-        "market",
-        "process",
-        "material"
-      ]
-    },
-    {
-      "id": "a7bc89f7da9a",
-      "title": "漢測前七月營收超越 2025 全年，記憶體、先進封裝、矽光子三大新市場為成長動力",
-      "link": "https://finance.technews.tw/2026/08/25/hantests-revenue-in-the-first-seven-months-exceeded-its-total-revenue-for-2025/",
-      "summary": "半導體晶圓測試解決方案大廠漢民測試 (簡稱漢測) 26日舉辦上櫃前業績發表會 。受惠於AI與高效能運算（HPC [&#8230;]",
-      "date": "2026-08-25T12:45:03+00:00",
       "sourceId": "technews",
       "cats": [
         "market",
