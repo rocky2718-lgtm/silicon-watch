@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-25T22:35:00.878045+00:00",
+  "updated": "2026-08-26T01:49:14.221362+00:00",
   "count": 17,
   "sources": [
     {
@@ -61,89 +61,89 @@
   ],
   "articles": [
     {
+      "id": "5fc2e2aaf306",
+      "title": "M6 玩 3A 大作有多讚？〈Cyberpunk 2077：終極版〉跑出 M4 兩倍表現",
+      "link": "https://technews.tw/2026/08/26/cyberpunk-2077-m6-3a/",
+      "summary": "隨著蘋果正式推出首款採用 2 奈米製程的 M6 晶片，不少人關注的不只是 AI 或生產力表現，Apple Si [&#8230;]",
+      "date": "2026-08-26T01:44:22+00:00",
+      "sourceId": "technews",
+      "cats": [
+        "market",
+        "process",
+        "material"
+      ]
+    },
+    {
+      "id": "65199751fdd0",
+      "title": "韓國承諾投資延宕美國氣噗噗，記憶體雙雄將見川普啟動新一輪談判",
+      "link": "https://finance.technews.tw/2026/08/26/south-koreas-investment-commitments-delay-us-anger/",
+      "summary": "根據南韓媒體朝鮮日報的報導，隨著半導體供應鏈面臨的壓力持續升高，美國政府正與南韓政府進行密切協商，期盼能在美國 [&#8230;]",
+      "date": "2026-08-26T01:20:46+00:00",
+      "sourceId": "technews",
+      "cats": [
+        "market",
+        "process",
+        "material"
+      ]
+    },
+    {
+      "id": "8321ebdfd07c",
+      "title": "晶片為科技戰焦點，法媒關注中國挖角台灣人才竊密",
+      "link": "https://finance.technews.tw/2026/08/26/chips-tech-war-french-media-china-poaching-taiwan-talent-ip-theft/",
+      "summary": "法國快訊週刊 24 日刊登題為「中國與台灣的晶片戰爭：北京如何企圖從龍頭企業台積電竊密」報導，AI 戰爭中，中 [&#8230;]",
+      "date": "2026-08-26T00:50:05+00:00",
+      "sourceId": "technews",
+      "cats": [
+        "market",
+        "process",
+        "material"
+      ]
+    },
+    {
+      "id": "bb71f7cf78c6",
+      "title": "淺談 AMD 推出 4GB VRAM 的 RX 9050：是頭殼壞去還是權宜之計？",
+      "link": "https://technews.tw/2026/08/26/amd-rx-9050-4gb-vram-crazy-decision-pragmatic-stopgap/",
+      "summary": "AMD 近日推出入門級 RDNA 4 顯示卡 Radeon RX 9050，零售版配備 8GB VRAM，但另 [&#8230;]",
+      "date": "2026-08-25T23:50:48+00:00",
+      "sourceId": "technews",
+      "cats": [
+        "market",
+        "process",
+        "material"
+      ]
+    },
+    {
+      "id": "cefacbeed5e6",
+      "title": "外資估中國先進半導體自給率十年內大幅提升，從 8% 上升到 66%",
+      "link": "https://finance.technews.tw/2026/08/26/foreign-investors-expect-chinas-self-sufficiency-rate-in-advanced-semiconductors-to-increase-significantly-within-10-years/",
+      "summary": "隨著人工智慧（AI）半導體需求迎來爆發式成長，中國正積極加速擴建先進製程產能。根據外資報告預期，中國 7 奈米 [&#8230;]",
+      "date": "2026-08-25T23:30:54+00:00",
+      "sourceId": "technews",
+      "cats": [
+        "market",
+        "process",
+        "material"
+      ]
+    },
+    {
+      "id": "2817039df991",
+      "title": "輝達全新機器人設計運算平台 Jetson Orin Nano 2 發表，效能提升兩倍 2027上半年上市",
+      "link": "https://finance.technews.tw/2026/08/26/nvidia-unveils-its-new-jetson-orin-nano-2-robotics-design-computing-platform/",
+      "summary": "輝達 （NVIDIA） 發表了專為無人機與家用機器人等設備設計的入門級機器人運算電腦 「Jetson Orin [&#8230;]",
+      "date": "2026-08-25T23:00:56+00:00",
+      "sourceId": "technews",
+      "cats": [
+        "market",
+        "process",
+        "material"
+      ]
+    },
+    {
       "id": "a7bc89f7da9a",
-      "title": "漢測前 7 月營收超越 2025 全年，記憶體、先進封裝、矽光子三大新市場為成長動力",
+      "title": "漢測前七月營收超越 2025 全年，記憶體、先進封裝、矽光子三大新市場為成長動力",
       "link": "https://finance.technews.tw/2026/08/25/hantests-revenue-in-the-first-seven-months-exceeded-its-total-revenue-for-2025/",
       "summary": "半導體晶圓測試解決方案大廠漢民測試 (簡稱漢測) 26日舉辦上櫃前業績發表會 。受惠於AI與高效能運算（HPC [&#8230;]",
       "date": "2026-08-25T12:45:03+00:00",
-      "sourceId": "technews",
-      "cats": [
-        "market",
-        "process",
-        "material"
-      ]
-    },
-    {
-      "id": "faa736001001",
-      "title": "記憶體合約價持續飆升，2027 年占主要 CSP 資本支出比重估高達 68%",
-      "link": "https://finance.technews.tw/2026/08/25/dram-nand-flash-2027-csp-68pa/",
-      "summary": "TrendForce 最新記憶體產業研究，全球主要雲端服務供應商（CSP）為加速建置 AI 基礎設施，資本支出 [&#8230;]",
-      "date": "2026-08-25T10:00:46+00:00",
-      "sourceId": "technews",
-      "cats": [
-        "market",
-        "process",
-        "material"
-      ]
-    },
-    {
-      "id": "c11fb0cc986d",
-      "title": "愛立信攜聯發科、AT&T，完成北美首例先進移動性功能實網試驗",
-      "link": "https://technews.tw/2026/08/25/ericsson-att-mediatek-ran-network/",
-      "summary": "愛立信攜手 AT&#38;T、聯發科技，在採用愛立信無線接取網路（RAN）技術的 AT&#38;T 網路上，完 [&#8230;]",
-      "date": "2026-08-25T09:56:06+00:00",
-      "sourceId": "technews",
-      "cats": [
-        "market",
-        "process",
-        "material"
-      ]
-    },
-    {
-      "id": "9c0e23a03069",
-      "title": "高明鐵卡位 CPO 封裝量產！攜光循科技展示 120 通道 FAU-PIC 自動化對位平台",
-      "link": "https://technews.tw/2026/08/25/gmt-global-semicon-taiwan-2026/",
-      "summary": "生成式 AI 推升算力需求暴增，共同封裝光學（CPO）與 AI 晶片間光互連（OCI）成為下世代光電整合的核心 [&#8230;]",
-      "date": "2026-08-25T09:37:34+00:00",
-      "sourceId": "technews",
-      "cats": [
-        "market",
-        "process",
-        "material"
-      ]
-    },
-    {
-      "id": "98b44ad7cc64",
-      "title": "京都大學打造耐 600°C SiC 電晶體！標準離子佈植解決漏電、電壓漂移問題",
-      "link": "https://technews.tw/2026/08/25/kyoto-university-600c-temperatures-transistor/",
-      "summary": "日本京都大學研究團隊成功開發出一款可在 600°C 高溫下運作的碳化矽（SiC）電晶體，採用商業晶圓廠廣泛使用 [&#8230;]",
-      "date": "2026-08-25T08:58:53+00:00",
-      "sourceId": "technews",
-      "cats": [
-        "market",
-        "process",
-        "material"
-      ]
-    },
-    {
-      "id": "19144b5dcbd2",
-      "title": "自家 AI 基礎建設還不夠用？Meta 每年狂砸數億美元向微軟買算力救援",
-      "link": "https://finance.technews.tw/2026/08/25/meta-self-developed-ai-insufficient/",
-      "summary": "Meta 每年向 Microsoft Azure 旗下的 Foundry 平台購買 AI 模型服務，金額高達數 [&#8230;]",
-      "date": "2026-08-25T07:41:11+00:00",
-      "sourceId": "technews",
-      "cats": [
-        "market",
-        "process",
-        "material"
-      ]
-    },
-    {
-      "id": "e2e02c97063f",
-      "title": "英特爾闡述代理式 AI 架構布局，三新世代產品搶攻市場",
-      "link": "https://technews.tw/2026/08/25/intel-outlines-its-agent-based-ai-architecture-strategy/",
-      "summary": "英特爾 (intel) 於Hot Chips 2026展示三款針對代理式AI與企業級工作負載所設計的架構，包含 [&#8230;]",
-      "date": "2026-08-25T07:15:14+00:00",
       "sourceId": "technews",
       "cats": [
         "market",
