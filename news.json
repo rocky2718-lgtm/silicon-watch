@@ -1,6 +1,6 @@
 {
-  "updated": "2026-08-26T08:53:25.037002+00:00",
-  "count": 14,
+  "updated": "2026-08-26T10:41:59.664436+00:00",
+  "count": 16,
   "sources": [
     {
       "id": "technews",
@@ -61,6 +61,45 @@
   ],
   "articles": [
     {
+      "id": "7996d680b460",
+      "title": "SEMICON Taiwan 專家齊聚：科林研發談 AI 製程難題、TEL 揭面板級封裝兩大挑戰",
+      "link": "https://technews.tw/2026/08/26/lam-research-tel-semicon-taiwan-2026/",
+      "summary": "隨著 SEMICON Taiwan 2026 即將到來，多間半導體設備大廠也分享即將亮相的產品。其中，科林研發 [&#8230;]",
+      "date": "2026-08-26T09:30:27+00:00",
+      "sourceId": "technews",
+      "cats": [
+        "market",
+        "process",
+        "material"
+      ]
+    },
+    {
+      "id": "c8e6380148c2",
+      "title": "力成：FOPLP 明年中量產，CPO 方案 2027 年量產",
+      "link": "https://technews.tw/2026/08/26/powertech-to-mass-produce-foplp-by-mid-2027/",
+      "summary": "半導體封測廠力成下午在竹科 P11 廠舉行媒體技術交流會，展望先進封裝進展，力成指出，扇出型面板封裝（FOPL [&#8230;]",
+      "date": "2026-08-26T09:20:00+00:00",
+      "sourceId": "technews",
+      "cats": [
+        "market",
+        "process",
+        "material"
+      ]
+    },
+    {
+      "id": "f575e209271f",
+      "title": "Qnity 啟諾迪推新平台整合四大材料技術，解決高密度 3D 封裝挑戰",
+      "link": "https://technews.tw/2026/08/26/qnity-electronics-new-platform/",
+      "summary": "啟諾迪電子（Qnity Electronics，簡稱 Qnity）宣布推出一個可規模化的材料解決方案平台，該平 [&#8230;]",
+      "date": "2026-08-26T09:14:54+00:00",
+      "sourceId": "technews",
+      "cats": [
+        "market",
+        "process",
+        "material"
+      ]
+    },
+    {
       "id": "a86f6f7a24f8",
       "title": "東京威力科創上半年營收創下同期新高，積極布局面板級封裝領域搶攻 AI 商機",
       "link": "https://finance.technews.tw/2026/08/26/tels-revenue-hit-a-record-high-for-the-same-period-in-the-first-half-of-the-year/",
@@ -105,19 +144,6 @@
       "link": "https://technews.tw/2026/08/26/ymtc-targets-nand-leadership-by-end-of-2027/",
       "summary": "中國記憶體大廠長江存儲（YMTC）劍指韓國三星電子（Samsung Electroncis）與 SK 海力士（ [&#8230;]",
       "date": "2026-08-26T06:50:00+00:00",
-      "sourceId": "technews",
-      "cats": [
-        "market",
-        "process",
-        "material"
-      ]
-    },
-    {
-      "id": "29cd34a2c23f",
-      "title": "Castrol ON PG25 冷卻液已通過 NVIDIA AI 工廠及資料中心基礎設施驗證",
-      "link": "https://technews.tw/2026/08/26/castrol-on-pg25-coolant-validated-nvidia-ai-data-center-infrastructure/",
-      "summary": "Castrol 宣布其兩款晶片直接冷卻液──Castrol ON PG25 與 PG25T──已雙雙通過驗證， [&#8230;]",
-      "date": "2026-08-26T06:00:46+00:00",
       "sourceId": "technews",
       "cats": [
         "market",
