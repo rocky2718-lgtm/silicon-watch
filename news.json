@@ -1,6 +1,6 @@
 {
-  "updated": "2026-08-26T14:51:26.869791+00:00",
-  "count": 16,
+  "updated": "2026-08-26T16:52:31.772277+00:00",
+  "count": 15,
   "sources": [
     {
       "id": "technews",
@@ -144,19 +144,6 @@
       "link": "https://finance.technews.tw/2026/08/26/the-market-is-concerned-about-the-long-tail-effect-of-nvidias-financing-model/",
       "summary": "輝達（Nvidia）即將在台北時間27日清晨公布最新一季財報，市場預期其季度營收將達 921.8 億美元，較2 [&#8230;]",
       "date": "2026-08-26T08:15:47+00:00",
-      "sourceId": "technews",
-      "cats": [
-        "market",
-        "process",
-        "material"
-      ]
-    },
-    {
-      "id": "4b85f4da77c4",
-      "title": "長江存儲劍指三星、SK 海力士  2027 年拚 NAND 龍頭",
-      "link": "https://technews.tw/2026/08/26/ymtc-targets-nand-leadership-by-end-of-2027/",
-      "summary": "中國記憶體大廠長江存儲（YMTC）劍指韓國三星電子（Samsung Electroncis）與 SK 海力士（ [&#8230;]",
-      "date": "2026-08-26T06:50:00+00:00",
       "sourceId": "technews",
       "cats": [
         "market",
