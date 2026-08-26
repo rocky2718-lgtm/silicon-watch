@@ -1,6 +1,6 @@
 {
-  "updated": "2026-08-26T19:55:42.550465+00:00",
-  "count": 15,
+  "updated": "2026-08-26T23:18:02.813759+00:00",
+  "count": 17,
   "sources": [
     {
       "id": "technews",
@@ -60,6 +60,32 @@
     }
   ],
   "articles": [
+    {
+      "id": "a6d8475faefb",
+      "title": "聯電近期募資頻頻，瞄準矽光子與特殊製程產能擴充因應市場需求",
+      "link": "https://finance.technews.tw/2026/08/27/umc-has-been-raising-funds-frequently-recently/",
+      "summary": "晶圓代工大廠聯電近期在資本市場展開積極的籌資行動。繼國內發行面額新台幣40億元的第二次無擔保轉換公司債（CB） [&#8230;]",
+      "date": "2026-08-26T23:00:46+00:00",
+      "sourceId": "technews",
+      "cats": [
+        "market",
+        "process",
+        "material"
+      ]
+    },
+    {
+      "id": "29123c4063af",
+      "title": "輝達繳出營收年增 106% 新高財報，第三季還要創新高且 2027 年營收將年增 70% 帶動股價翻紅上漲",
+      "link": "https://finance.technews.tw/2026/08/27/nvidia-reports-record-revenue-growth-of-106-year-on-year/",
+      "summary": "晶片大廠輝達 （NVIDIA） 公布了截至 2026 年 7 月 26 日的 2027 財年第二季財務業績。受 [&#8230;]",
+      "date": "2026-08-26T22:01:03+00:00",
+      "sourceId": "technews",
+      "cats": [
+        "market",
+        "process",
+        "material"
+      ]
+    },
     {
       "id": "026c83559b69",
       "title": "From Days to Minutes: Accelerating 3D IC Debug with Agentic AI",
