@@ -1,6 +1,6 @@
 {
-  "updated": "2026-08-26T04:48:35.198561+00:00",
-  "count": 16,
+  "updated": "2026-08-26T07:00:37.828311+00:00",
+  "count": 14,
   "sources": [
     {
       "id": "technews",
@@ -61,6 +61,32 @@
   ],
   "articles": [
     {
+      "id": "4b85f4da77c4",
+      "title": "長江存儲劍指三星、SK 海力士  2027 年拚 NAND 龍頭",
+      "link": "https://technews.tw/2026/08/26/ymtc-targets-nand-leadership-by-end-of-2027/",
+      "summary": "中國記憶體大廠長江存儲（YMTC）劍指韓國三星電子（Samsung Electroncis）與 SK 海力士（ [&#8230;]",
+      "date": "2026-08-26T06:50:00+00:00",
+      "sourceId": "technews",
+      "cats": [
+        "market",
+        "process",
+        "material"
+      ]
+    },
+    {
+      "id": "29cd34a2c23f",
+      "title": "Castrol ON PG25 冷卻液已通過 NVIDIA AI 工廠及資料中心基礎設施驗證",
+      "link": "https://technews.tw/2026/08/26/castrol-on-pg25-coolant-validated-nvidia-ai-data-center-infrastructure/",
+      "summary": "Castrol 宣布其兩款晶片直接冷卻液──Castrol ON PG25 與 PG25T──已雙雙通過驗證， [&#8230;]",
+      "date": "2026-08-26T06:00:46+00:00",
+      "sourceId": "technews",
+      "cats": [
+        "market",
+        "process",
+        "material"
+      ]
+    },
+    {
       "id": "5ecce09a3744",
       "title": "長鑫、長江無意大量供貨，仍盼獲「蘋果供應商」招牌背書自家實力",
       "link": "https://technews.tw/2026/08/26/cxmt-and-ymtc-china-apple-memory/",
@@ -100,45 +126,6 @@
       ]
     },
     {
-      "id": "9ae17e2f2f73",
-      "title": "AMD 伺服器 CPU 市占明年超車 Intel？獲喊強力買進",
-      "link": "https://finance.technews.tw/2026/08/26/amd-cpu-over-intel/",
-      "summary": "超微 (AMD) 有望在規模超過 2,000 億美元的伺服器 CPU 市場取得優勢，喜獲華爾街分析師給予「強力 [&#8230;]",
-      "date": "2026-08-26T02:20:38+00:00",
-      "sourceId": "technews",
-      "cats": [
-        "market",
-        "process",
-        "material"
-      ]
-    },
-    {
-      "id": "16345c262ad0",
-      "title": "輝達挾 5,000 億融資即將公布財報！盤點 11 檔「高含輝」ETF 誰最香？",
-      "link": "https://finance.technews.tw/2026/08/26/blackstone-brookfield/",
-      "summary": "輝達（NVIDIA）將於美東時間 8 月 26 日盤後公布財報，受到 GPU 供需持續緊張影響，市場普遍認為其 [&#8230;]",
-      "date": "2026-08-26T02:16:00+00:00",
-      "sourceId": "technews",
-      "cats": [
-        "market",
-        "process",
-        "material"
-      ]
-    },
-    {
-      "id": "237b623cc8c6",
-      "title": "台積電 ADR 收紅提振多頭士氣，資金強勢點火 CPO 與 ABF 族群",
-      "link": "https://finance.technews.tw/2026/08/26/tsmc-adr-gains-boosts-bullish-sentiment-funds-ignite-cpo-abf-sectors/",
-      "summary": "台股 25 日呈現先殺後拉的高檔洗盤格局，加權指數盤中震盪後下跌 1.02% 收在 44,762.32 點。然 [&#8230;]",
-      "date": "2026-08-26T02:00:48+00:00",
-      "sourceId": "technews",
-      "cats": [
-        "market",
-        "process",
-        "material"
-      ]
-    },
-    {
       "id": "2edebd0d7da0",
       "title": "TSMC’s HBM-Packaging Yield Issues Help Intel, Analysts Say",
       "link": "https://www.eetimes.com/tsmcs-hbm-packaging-yield-issues-help-intel-analysts-say/",
@@ -157,19 +144,6 @@
       "link": "https://www.eetimes.com/nvidia-inference-pivot-reaches-rebellions-in-korea/",
       "summary": "Nvidia is reportedly in talks with Korean inference upstart Rebellions about a technical partnership, investment, or acquisition. The post Nvidia’s Inference Pivot Reaches Rebellions in Korea appeared first on EE Times.",
       "date": "2026-08-24T08:07:18+00:00",
-      "sourceId": "eetimes",
-      "cats": [
-        "process",
-        "material",
-        "equipment"
-      ]
-    },
-    {
-      "id": "a302b2f74146",
-      "title": "China’s NAND Specialist YMTC Moves Closer to IPO",
-      "link": "https://www.eetimes.com/chinas-nand-specialist-ymtc-moves-closer-to-ipo/",
-      "summary": "YMTC must raise capital to explore demand for AI-driven memory while balancing domestic and overseas markets. The post China’s NAND Specialist YMTC Moves Closer to IPO appeared first on EE Times.",
-      "date": "2026-08-21T18:00:00+00:00",
       "sourceId": "eetimes",
       "cats": [
         "process",
