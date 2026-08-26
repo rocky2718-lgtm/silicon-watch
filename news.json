@@ -1,6 +1,6 @@
 {
-  "updated": "2026-08-26T03:13:02.272238+00:00",
-  "count": 17,
+  "updated": "2026-08-26T04:48:35.198561+00:00",
+  "count": 16,
   "sources": [
     {
       "id": "technews",
@@ -61,8 +61,34 @@
   ],
   "articles": [
     {
+      "id": "5ecce09a3744",
+      "title": "長鑫、長江無意大量供貨，仍盼獲「蘋果供應商」招牌背書自家實力",
+      "link": "https://technews.tw/2026/08/26/cxmt-and-ymtc-china-apple-memory/",
+      "summary": "從市場消息來看，中國兩大記憶體巨頭長鑫存儲和長江存儲無意成為蘋果供應鏈中的關鍵助力，但仍希望透過「蘋果」這個招 [&#8230;]",
+      "date": "2026-08-26T03:35:57+00:00",
+      "sourceId": "technews",
+      "cats": [
+        "market",
+        "process",
+        "material"
+      ]
+    },
+    {
+      "id": "13d93fe87ae3",
+      "title": "OpenAI 自研晶片首測數據曝光，推理效能超越 NVIDIA GB200 / GB300",
+      "link": "https://technews.tw/2026/08/26/jalapeno-is-working-first-party-silicon-with-measured-results/",
+      "summary": "在史丹佛大學舉辦的 Hot Chips 大會上，OpenAI 公開首款客製化 AI 晶片「Jalapeño」更 [&#8230;]",
+      "date": "2026-08-26T03:14:05+00:00",
+      "sourceId": "technews",
+      "cats": [
+        "market",
+        "process",
+        "material"
+      ]
+    },
+    {
       "id": "a1f747cf9743",
-      "title": "要一次賺回上次賠的！韓國散戶於輝達財報發布前狂超底費半指數 3 倍槓桿 ETF",
+      "title": "要一次賺回上次賠的！韓國散戶於輝達財報發布前狂抄底費半指數 3 倍槓桿 ETF",
       "link": "https://finance.technews.tw/2026/08/26/south-korean-retail-investors-aggressively-bought-3x-leveraged-etfs-based-on-the-ftse-100-index-before-the-earnings-release/",
       "summary": "隨著全球AI晶片龍頭輝達（Nvidia）即將於美國時間26日發布最新財報，市場普遍將此視為檢驗AI熱潮能否延續 [&#8230;]",
       "date": "2026-08-26T03:00:25+00:00",
@@ -105,45 +131,6 @@
       "link": "https://finance.technews.tw/2026/08/26/tsmc-adr-gains-boosts-bullish-sentiment-funds-ignite-cpo-abf-sectors/",
       "summary": "台股 25 日呈現先殺後拉的高檔洗盤格局，加權指數盤中震盪後下跌 1.02% 收在 44,762.32 點。然 [&#8230;]",
       "date": "2026-08-26T02:00:48+00:00",
-      "sourceId": "technews",
-      "cats": [
-        "market",
-        "process",
-        "material"
-      ]
-    },
-    {
-      "id": "5fc2e2aaf306",
-      "title": "M6 玩 3A 大作有多讚？〈Cyberpunk 2077：終極版〉跑出 M4 兩倍表現",
-      "link": "https://technews.tw/2026/08/26/cyberpunk-2077-m6-3a/",
-      "summary": "隨著蘋果正式推出首款採用 2 奈米製程的 M6 晶片，不少人關注的不只是 AI 或生產力表現，Apple Si [&#8230;]",
-      "date": "2026-08-26T01:44:22+00:00",
-      "sourceId": "technews",
-      "cats": [
-        "market",
-        "process",
-        "material"
-      ]
-    },
-    {
-      "id": "65199751fdd0",
-      "title": "韓國承諾投資延宕美國氣噗噗，記憶體雙雄將見川普啟動新談判",
-      "link": "https://finance.technews.tw/2026/08/26/south-koreas-investment-commitments-delay-us-anger/",
-      "summary": "根據南韓媒體朝鮮日報的報導，隨著半導體供應鏈面臨的壓力持續升高，美國政府正與南韓政府進行密切協商，期盼能在美國 [&#8230;]",
-      "date": "2026-08-26T01:20:46+00:00",
-      "sourceId": "technews",
-      "cats": [
-        "market",
-        "process",
-        "material"
-      ]
-    },
-    {
-      "id": "8321ebdfd07c",
-      "title": "晶片為科技戰焦點，法媒關注中國挖角台灣人才竊密",
-      "link": "https://finance.technews.tw/2026/08/26/chips-tech-war-french-media-china-poaching-taiwan-talent-ip-theft/",
-      "summary": "法國快訊週刊 24 日刊登題為「中國與台灣的晶片戰爭：北京如何企圖從龍頭企業台積電竊密」報導，AI 戰爭中，中 [&#8230;]",
-      "date": "2026-08-26T00:50:05+00:00",
       "sourceId": "technews",
       "cats": [
         "market",
