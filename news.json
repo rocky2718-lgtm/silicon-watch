@@ -1,6 +1,6 @@
 {
-  "updated": "2026-08-27T09:19:15.934222+00:00",
-  "count": 14,
+  "updated": "2026-08-27T20:16:31.885666+00:00",
+  "count": 16,
   "sources": [
     {
       "id": "technews",
@@ -61,6 +61,45 @@
   ],
   "articles": [
     {
+      "id": "2f7a20a36e93",
+      "title": "Qualcomm Bets Open-Source AI Software Can Break Nvidia’s Lock-In",
+      "link": "https://www.eetimes.com/qualcomm-bets-open-source-ai-software-can-break-nvidias-lock-in/",
+      "summary": "Modular aims to separate AI software from silicon choice, giving Qualcomm and other challengers a shot at Nvidia-dominated workloads. The post Qualcomm Bets Open-Source AI Software Can Break Nvidia’s Lock-In appeared first on EE Times.",
+      "date": "2026-08-27T18:09:20+00:00",
+      "sourceId": "eetimes",
+      "cats": [
+        "process",
+        "material",
+        "equipment"
+      ]
+    },
+    {
+      "id": "73ec4609afb7",
+      "title": "光電融合成 AI 資料中心新戰場！NVIDIA、博通領軍，日媒揭關鍵業者版圖",
+      "link": "https://technews.tw/2026/08/27/japan-cpo-supply-chain/",
+      "summary": "隨著生成式 AI 快速普及，資料傳輸成為下一階段基礎建設的重要課題，根據日媒 XTECH 最新整理指出，目前光 [&#8230;]",
+      "date": "2026-08-27T09:42:51+00:00",
+      "sourceId": "technews",
+      "cats": [
+        "market",
+        "process",
+        "material"
+      ]
+    },
+    {
+      "id": "24eacfcf4fb6",
+      "title": "輝達財報粉碎 AI 泡沫論！高含輝 009820 狂飆近 10% 霸榜納指 ETF",
+      "link": "https://finance.technews.tw/2026/08/27/009820-etf/",
+      "summary": "輝達（NVIDIA）今日盤後公布的財報表現亮眼，並預告 2028 財年仍將成長逾 70%，激勵股價大漲，帶動相 [&#8230;]",
+      "date": "2026-08-27T09:21:08+00:00",
+      "sourceId": "technews",
+      "cats": [
+        "market",
+        "process",
+        "material"
+      ]
+    },
+    {
       "id": "d3fcab837e67",
       "title": "InP 需求續強！IET-KY 看下半年展望強勁，與半導體設備大廠談 MBE 機台方案",
       "link": "https://technews.tw/2026/08/27/iet-ky-2026-q2-financial-report/",
@@ -118,19 +157,6 @@
       "link": "https://finance.technews.tw/2026/08/27/memory-costs-squeeze-profits-hp-shares-plunge-over-9/",
       "summary": "知名個人電腦（PC）與印表機大廠惠普（HP）26 日揭曉最新財報，受惠 AI PC 買氣熱絡，上季業績優於市場 [&#8230;]",
       "date": "2026-08-27T06:20:43+00:00",
-      "sourceId": "technews",
-      "cats": [
-        "market",
-        "process",
-        "material"
-      ]
-    },
-    {
-      "id": "890b85d9a772",
-      "title": "輝達推出 NVHBM：頻寬提升 30%、功耗降低 15%，AWS 搶先合作",
-      "link": "https://technews.tw/2026/08/27/nvidia-nvhbm-30-bandwidth-boost-15-power-reduction-aws-first-partner/",
-      "summary": "輝達宣布擴展 NVLink Fusion 平台，推出新一代高頻寬記憶體技術 NVHBM，首度將輝達客製化記憶體 [&#8230;]",
-      "date": "2026-08-27T05:45:23+00:00",
       "sourceId": "technews",
       "cats": [
         "market",
