@@ -1,6 +1,6 @@
 {
-  "updated": "2026-08-26T23:18:02.813759+00:00",
-  "count": 17,
+  "updated": "2026-08-27T09:19:15.934222+00:00",
+  "count": 14,
   "sources": [
     {
       "id": "technews",
@@ -61,11 +61,11 @@
   ],
   "articles": [
     {
-      "id": "a6d8475faefb",
-      "title": "聯電近期募資頻頻，瞄準矽光子與特殊製程產能擴充因應市場需求",
-      "link": "https://finance.technews.tw/2026/08/27/umc-has-been-raising-funds-frequently-recently/",
-      "summary": "晶圓代工大廠聯電近期在資本市場展開積極的籌資行動。繼國內發行面額新台幣40億元的第二次無擔保轉換公司債（CB） [&#8230;]",
-      "date": "2026-08-26T23:00:46+00:00",
+      "id": "d3fcab837e67",
+      "title": "InP 需求續強！IET-KY 看下半年展望強勁，與半導體設備大廠談 MBE 機台方案",
+      "link": "https://technews.tw/2026/08/27/iet-ky-2026-q2-financial-report/",
+      "summary": "IET-KY 今（27 日）舉辦法說會，展望下半年，IET-KY 董事長高永中指出，砷化鎵第二季已開始恢復，預 [&#8230;]",
+      "date": "2026-08-27T09:09:50+00:00",
       "sourceId": "technews",
       "cats": [
         "market",
@@ -74,11 +74,63 @@
       ]
     },
     {
-      "id": "29123c4063af",
-      "title": "輝達繳出營收年增 106% 新高財報，第三季還要創新高且 2027 年營收將年增 70% 帶動股價翻紅上漲",
-      "link": "https://finance.technews.tw/2026/08/27/nvidia-reports-record-revenue-growth-of-106-year-on-year/",
-      "summary": "晶片大廠輝達 （NVIDIA） 公布了截至 2026 年 7 月 26 日的 2027 財年第二季財務業績。受 [&#8230;]",
-      "date": "2026-08-26T22:01:03+00:00",
+      "id": "c927a713caad",
+      "title": "涉嫌走私輝達晶片進中國，新加坡 Apex 物流遭美調查",
+      "link": "https://technews.tw/2026/08/27/singapore-apex-logistics-us-investigation-alleged-nvidia-chip-smuggling-china/",
+      "summary": "彭博引述知情人士說法指出，美國政府正調查新加坡物流公司 Apex Logistics 是否協助將輝達（Nvid [&#8230;]",
+      "date": "2026-08-27T08:50:43+00:00",
+      "sourceId": "technews",
+      "cats": [
+        "market",
+        "process",
+        "material"
+      ]
+    },
+    {
+      "id": "267e9ffe2599",
+      "title": "結合台積電 2 奈米與 3D 封裝，富士通 144 核處理器 Monaka 細節曝光",
+      "link": "https://technews.tw/2026/08/27/fujitsus-monaka-chip/",
+      "summary": "富士通（Fujitsu）在 Hot Chips 2026 公布新一代伺服器處理器 Monaka 的更多細節，這 [&#8230;]",
+      "date": "2026-08-27T06:40:18+00:00",
+      "sourceId": "technews",
+      "cats": [
+        "market",
+        "process",
+        "material"
+      ]
+    },
+    {
+      "id": "48e986606f04",
+      "title": "打破資產同向波動宿命！第一金攜歐洲 M&G 推全球動態入息多重資產基金",
+      "link": "https://finance.technews.tw/2026/08/27/mg-investments/",
+      "summary": "當所有人都想著作多半導體，AI 泡沫化的風險就持續增高，第一金投信今日發表全球動態入息多重資產基金，鎖定運用 [&#8230;]",
+      "date": "2026-08-27T06:36:45+00:00",
+      "sourceId": "technews",
+      "cats": [
+        "market",
+        "process",
+        "material"
+      ]
+    },
+    {
+      "id": "40dc69838046",
+      "title": "AI PC 熱賣難敵記憶體成本壓頂  惠普盤後跌逾 9%",
+      "link": "https://finance.technews.tw/2026/08/27/memory-costs-squeeze-profits-hp-shares-plunge-over-9/",
+      "summary": "知名個人電腦（PC）與印表機大廠惠普（HP）26 日揭曉最新財報，受惠 AI PC 買氣熱絡，上季業績優於市場 [&#8230;]",
+      "date": "2026-08-27T06:20:43+00:00",
+      "sourceId": "technews",
+      "cats": [
+        "market",
+        "process",
+        "material"
+      ]
+    },
+    {
+      "id": "890b85d9a772",
+      "title": "輝達推出 NVHBM：頻寬提升 30%、功耗降低 15%，AWS 搶先合作",
+      "link": "https://technews.tw/2026/08/27/nvidia-nvhbm-30-bandwidth-boost-15-power-reduction-aws-first-partner/",
+      "summary": "輝達宣布擴展 NVLink Fusion 平台，推出新一代高頻寬記憶體技術 NVHBM，首度將輝達客製化記憶體 [&#8230;]",
+      "date": "2026-08-27T05:45:23+00:00",
       "sourceId": "technews",
       "cats": [
         "market",
@@ -92,97 +144,6 @@
       "link": "https://www.eetimes.com/from-days-to-minutes-accelerating-3d-ic-debug-with-agentic-ai/",
       "summary": "Discover how agentic AI cuts 3D IC debugging from days to minutes. Learn multi-agent orchestration techniques to accelerate end-to-end root cause analysis. The post From Days to Minutes: Accelerating 3D IC Debug with Agentic AI appeared first on EE Times.",
       "date": "2026-08-26T13:00:00+00:00",
-      "sourceId": "eetimes",
-      "cats": [
-        "process",
-        "material",
-        "equipment"
-      ]
-    },
-    {
-      "id": "7996d680b460",
-      "title": "SEMICON Taiwan 專家齊聚：科林研發談 AI 製程難題、TEL 揭面板級封裝兩大挑戰",
-      "link": "https://technews.tw/2026/08/26/lam-research-tel-semicon-taiwan-2026/",
-      "summary": "隨著 SEMICON Taiwan 2026 即將到來，多間半導體設備大廠也分享即將亮相的產品。其中，科林研發 [&#8230;]",
-      "date": "2026-08-26T09:30:27+00:00",
-      "sourceId": "technews",
-      "cats": [
-        "market",
-        "process",
-        "material"
-      ]
-    },
-    {
-      "id": "c8e6380148c2",
-      "title": "力成：FOPLP 明年中量產，CPO 方案 2027 年量產",
-      "link": "https://technews.tw/2026/08/26/powertech-to-mass-produce-foplp-by-mid-2027/",
-      "summary": "半導體封測廠力成下午在竹科 P11 廠舉行媒體技術交流會，展望先進封裝進展，力成指出，扇出型面板封裝（FOPL [&#8230;]",
-      "date": "2026-08-26T09:20:00+00:00",
-      "sourceId": "technews",
-      "cats": [
-        "market",
-        "process",
-        "material"
-      ]
-    },
-    {
-      "id": "f575e209271f",
-      "title": "Qnity 啟諾迪推新平台整合四大材料技術，解決高密度 3D 封裝挑戰",
-      "link": "https://technews.tw/2026/08/26/qnity-electronics-new-platform/",
-      "summary": "啟諾迪電子（Qnity Electronics，簡稱 Qnity）宣布推出一個可規模化的材料解決方案平台，該平 [&#8230;]",
-      "date": "2026-08-26T09:14:54+00:00",
-      "sourceId": "technews",
-      "cats": [
-        "market",
-        "process",
-        "material"
-      ]
-    },
-    {
-      "id": "a86f6f7a24f8",
-      "title": "東京威力科創上半年營收創下同期新高，積極布局面板級封裝領域搶攻 AI 商機",
-      "link": "https://finance.technews.tw/2026/08/26/tels-revenue-hit-a-record-high-for-the-same-period-in-the-first-half-of-the-year/",
-      "summary": "隨著生成式AI與高效能運算(HPC)浪潮席捲全球，帶動半導體先進製程與先進封裝需求爆發式成長，世界半導體貿易統 [&#8230;]",
-      "date": "2026-08-26T08:50:20+00:00",
-      "sourceId": "technews",
-      "cats": [
-        "market",
-        "process",
-        "material"
-      ]
-    },
-    {
-      "id": "e6176c3c01e8",
-      "title": "外資看好輝達將公布最強勁單季財報，將帶動台積電 ADR 股價大幅上攻",
-      "link": "https://finance.technews.tw/2026/08/26/nvidias-upcoming-strong-quarterly-earnings-report-drives-tsmc-adr-share-price-up-sharply/",
-      "summary": "輝達（Nvidia）即將於台北時間 27 日美股收盤後公布最新一季財報。這場被市場譽為「歷史性」的財報披露，不 [&#8230;]",
-      "date": "2026-08-26T08:30:52+00:00",
-      "sourceId": "technews",
-      "cats": [
-        "market",
-        "process",
-        "material"
-      ]
-    },
-    {
-      "id": "8e128e57cd56",
-      "title": "輝達即將公布最新單季財報前夕，市場更關心融資模式後續長尾效應",
-      "link": "https://finance.technews.tw/2026/08/26/the-market-is-concerned-about-the-long-tail-effect-of-nvidias-financing-model/",
-      "summary": "輝達（Nvidia）即將在台北時間27日清晨公布最新一季財報，市場預期其季度營收將達 921.8 億美元，較2 [&#8230;]",
-      "date": "2026-08-26T08:15:47+00:00",
-      "sourceId": "technews",
-      "cats": [
-        "market",
-        "process",
-        "material"
-      ]
-    },
-    {
-      "id": "2edebd0d7da0",
-      "title": "TSMC’s HBM-Packaging Yield Issues Help Intel, Analysts Say",
-      "link": "https://www.eetimes.com/tsmcs-hbm-packaging-yield-issues-help-intel-analysts-say/",
-      "summary": "TSMC’s CoWoS bottlenecks could hand Intel a foundry opening as AI chipmakers eye EMIB and new memory tech. The post TSMC’s HBM-Packaging Yield Issues Help Intel, Analysts Say appeared first on EE Times.",
-      "date": "2026-08-25T07:00:00+00:00",
       "sourceId": "eetimes",
       "cats": [
         "process",
