@@ -1,6 +1,6 @@
 {
-  "updated": "2026-08-28T06:03:40.099535+00:00",
-  "count": 16,
+  "updated": "2026-08-28T20:09:35.453216+00:00",
+  "count": 17,
   "sources": [
     {
       "id": "technews",
@@ -61,11 +61,11 @@
   ],
   "articles": [
     {
-      "id": "b16ebb372c62",
-      "title": "蘋果不會放棄推 M6 Pro、M6 Max 晶片，傳導入新封裝技術",
-      "link": "https://technews.tw/2026/08/28/apple-m6-pro-m6-max-soic-mh-wmcm/",
-      "summary": "日前市場傳出蘋果可能跳過 M6 Pro、M6 Max，將重點放在 M7 系列晶片，不過最新消息指出，蘋果並未放 [&#8230;]",
-      "date": "2026-08-28T05:49:35+00:00",
+      "id": "5bc0fc139e19",
+      "title": "台積電菜鳥員工爆料季獎金開獎有感增加，財報已顯示單季總額年增 50.7%",
+      "link": "https://finance.technews.tw/2026/08/28/tsmc-q2-employee-bonuses-nt36-billion-up-50-percent-yoy/",
+      "summary": "台積電第二季員工分紅今日入帳，又有台積電員工在網路上爆料季獎金開獎有感增加，單季按照個人考績領取約四至六個月不 [&#8230;]",
+      "date": "2026-08-28T14:00:33+00:00",
       "sourceId": "technews",
       "cats": [
         "market",
@@ -74,11 +74,11 @@
       ]
     },
     {
-      "id": "6021c2a941e6",
-      "title": "劍指 1a 製程！長鑫存儲成功導入 HKMG 技術，突破 DRAM 微縮限制",
-      "link": "https://technews.tw/2026/08/28/cxmt-hafnium-dram-transistors/",
-      "summary": "中國 DRAM 大廠長鑫存儲加速追趕三星、SK 海力士與美光等全球記憶體大廠，根據最新錫錫，長鑫存儲成功將一種 [&#8230;]",
-      "date": "2026-08-28T03:15:30+00:00",
+      "id": "f266d828ab81",
+      "title": "AI 搶記憶體產能，Google 要求 Android 應用程式降低占用系統資源",
+      "link": "https://technews.tw/2026/08/28/reducing-memory-usage-and-improving-device-migration/",
+      "summary": "因應 AI 資料中心帶動的記憶體供應吃緊，Google 準備為 Android 應用程式和遊戲設下更嚴格的資源 [&#8230;]",
+      "date": "2026-08-28T10:04:28+00:00",
       "sourceId": "technews",
       "cats": [
         "market",
@@ -87,11 +87,11 @@
       ]
     },
     {
-      "id": "319e1d5a2a96",
-      "title": "AI 兩週就搞定晶片設計，Architect Labs 挑戰「無設計」時代",
-      "link": "https://technews.tw/2026/08/28/architect-labs-leverages-ai-for-rapid-redwood-chip-design/",
-      "summary": "AI 加速滲透晶片產業。新創公司 Architect Labs 近日表示，用 AI 兩週內完成名為 Redwo [&#8230;]",
-      "date": "2026-08-28T03:10:41+00:00",
+      "id": "c0fd1cd765fd",
+      "title": "德國赴台參加半導體展，鎖定晶片設計、先進封裝",
+      "link": "https://technews.tw/2026/08/28/germany-in-semicon-taiwan-2026/",
+      "summary": "德國聯邦外貿與投資署（GTAI）下週將赴台參加台灣國際半導體展。半導體專家梅耶（Martin Mayer）今天 [&#8230;]",
+      "date": "2026-08-28T10:00:47+00:00",
       "sourceId": "technews",
       "cats": [
         "market",
@@ -100,11 +100,11 @@
       ]
     },
     {
-      "id": "7a544959c39b",
-      "title": "避反壟斷審查與控制權爭議，輝達暫停 AI 雲端分潤計畫",
-      "link": "https://technews.tw/2026/08/28/nvidia-suspends-ai-cloud-revenue-sharing-program/",
-      "summary": "據《華爾街日報》引述知情人士報導，AI 晶片大廠輝達（Nvidia）已暫停部分針對 AI 雲端服務供應商的分潤 [&#8230;]",
-      "date": "2026-08-28T02:20:58+00:00",
+      "id": "6b910766d439",
+      "title": "NVIDIA AI 機櫃產品世代交替，估 2027 年 NVL72 產值貢獻可突破 7,100 億美元",
+      "link": "https://finance.technews.tw/2026/08/28/nvidia-nvl72-over-710000000000usd-2027/",
+      "summary": "TrendForce 最新 AI 伺服器產業研究，GB300 整櫃型方案已成為今年 NVIDIA 出貨主力，需 [&#8230;]",
+      "date": "2026-08-28T09:15:35+00:00",
       "sourceId": "technews",
       "cats": [
         "market",
@@ -113,11 +113,11 @@
       ]
     },
     {
-      "id": "0e8769c0195b",
-      "title": "AI 出貨關鍵大洗牌！法人揭 CoWoS 瓶頸掀 ABF 產能競標戰",
-      "link": "https://finance.technews.tw/2026/08/28/cowososat/",
-      "summary": "受惠 AI 及 HPC 平台推動，法人預估 ABF 與 BT 載板雙雙進入結構性成長期，而 2026 年 AI [&#8230;]",
-      "date": "2026-08-28T02:12:52+00:00",
+      "id": "3b26f50c8e42",
+      "title": "弘塑投資青輝先進材料資金到位，推動台灣混合鍵合在地化",
+      "link": "https://technews.tw/2026/08/28/gptc-japan-bonding/",
+      "summary": "半導體濕製程設備大廠弘塑科技宣布，繼旗下子公司佳霖科技取得日本青輝半導體株式會社產品代理權後，針對青輝先進材料 [&#8230;]",
+      "date": "2026-08-28T07:18:15+00:00",
       "sourceId": "technews",
       "cats": [
         "market",
@@ -126,11 +126,11 @@
       ]
     },
     {
-      "id": "89aadf0861f8",
-      "title": "MSI XpertStation WS300 搭載 NVIDIA DGX Station 架構正式出貨",
-      "link": "https://technews.tw/2026/08/28/msi-xpertstation-ws300/",
-      "summary": "MSI 微星科技今日宣布，搭載 NVIDIA DGX Station 架構的 XpertStation WS3 [&#8230;]",
-      "date": "2026-08-28T02:05:14+00:00",
+      "id": "905bfdda20d5",
+      "title": "木頭姊 AI 晶片股換血  賣 AMD、搶進博通與 Cerebras",
+      "link": "https://finance.technews.tw/2026/08/28/cathie-wood-gradually-cuts-amd-stake/",
+      "summary": "明星基金經理人凱薩琳伍德（Cathie Wood、台灣稱木頭姊）掌管的方舟投資（Ark Invest），近日大 [&#8230;]",
+      "date": "2026-08-28T07:00:05+00:00",
       "sourceId": "technews",
       "cats": [
         "market",
@@ -139,11 +139,24 @@
       ]
     },
     {
-      "id": "7289fb7519bf",
-      "title": "輝達供不應求引爆 AI 擴產浪潮，法人重壓散熱與記憶體引領台股衝高",
-      "link": "https://finance.technews.tw/2026/08/28/nvidia-ai-boom-sparks-thermal-memory-demand-institutional-investors-drive-taiwan-stocks/",
-      "summary": "27 日台股強勢收在 45,832 點，三大法人大買 627 億元，外資單日狂掃 490.9 億元呈罕見強攻。 [&#8230;]",
-      "date": "2026-08-28T02:00:37+00:00",
+      "id": "8eeb9b521a6f",
+      "title": "記憶體、晶片價格倒掛，入門智慧手機受衝擊恐最大",
+      "link": "https://technews.tw/2026/08/28/entry-level-smartphones-hit-hardest-by-memory-costs/",
+      "summary": "綜合中媒報導，手機記憶體與晶片價格出現「倒掛」的情況，據中國數位博主「數碼閒聊站」透露，目前 12GB + 2 [&#8230;]",
+      "date": "2026-08-28T06:50:56+00:00",
+      "sourceId": "technews",
+      "cats": [
+        "market",
+        "process",
+        "material"
+      ]
+    },
+    {
+      "id": "d555165909ba",
+      "title": "矽晶圓將大幅漲價？券商看旺 SUMCO、調升目標價",
+      "link": "https://technews.tw/2026/08/28/silicon-wafer-prices-surge-brokers-bullish-sumco-raise-target-price/",
+      "summary": "矽晶圓將大幅漲價？券商看旺日本矽晶圓大廠 SUMCO，調升目標價。SUMCO 今日股價聞訊走揚。 日經新聞28 [&#8230;]",
+      "date": "2026-08-28T06:40:48+00:00",
       "sourceId": "technews",
       "cats": [
         "market",
