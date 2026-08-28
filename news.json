@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-27T20:16:31.885666+00:00",
+  "updated": "2026-08-28T06:03:40.099535+00:00",
   "count": 16,
   "sources": [
     {
@@ -61,6 +61,97 @@
   ],
   "articles": [
     {
+      "id": "b16ebb372c62",
+      "title": "蘋果不會放棄推 M6 Pro、M6 Max 晶片，傳導入新封裝技術",
+      "link": "https://technews.tw/2026/08/28/apple-m6-pro-m6-max-soic-mh-wmcm/",
+      "summary": "日前市場傳出蘋果可能跳過 M6 Pro、M6 Max，將重點放在 M7 系列晶片，不過最新消息指出，蘋果並未放 [&#8230;]",
+      "date": "2026-08-28T05:49:35+00:00",
+      "sourceId": "technews",
+      "cats": [
+        "market",
+        "process",
+        "material"
+      ]
+    },
+    {
+      "id": "6021c2a941e6",
+      "title": "劍指 1a 製程！長鑫存儲成功導入 HKMG 技術，突破 DRAM 微縮限制",
+      "link": "https://technews.tw/2026/08/28/cxmt-hafnium-dram-transistors/",
+      "summary": "中國 DRAM 大廠長鑫存儲加速追趕三星、SK 海力士與美光等全球記憶體大廠，根據最新錫錫，長鑫存儲成功將一種 [&#8230;]",
+      "date": "2026-08-28T03:15:30+00:00",
+      "sourceId": "technews",
+      "cats": [
+        "market",
+        "process",
+        "material"
+      ]
+    },
+    {
+      "id": "319e1d5a2a96",
+      "title": "AI 兩週就搞定晶片設計，Architect Labs 挑戰「無設計」時代",
+      "link": "https://technews.tw/2026/08/28/architect-labs-leverages-ai-for-rapid-redwood-chip-design/",
+      "summary": "AI 加速滲透晶片產業。新創公司 Architect Labs 近日表示，用 AI 兩週內完成名為 Redwo [&#8230;]",
+      "date": "2026-08-28T03:10:41+00:00",
+      "sourceId": "technews",
+      "cats": [
+        "market",
+        "process",
+        "material"
+      ]
+    },
+    {
+      "id": "7a544959c39b",
+      "title": "避反壟斷審查與控制權爭議，輝達暫停 AI 雲端分潤計畫",
+      "link": "https://technews.tw/2026/08/28/nvidia-suspends-ai-cloud-revenue-sharing-program/",
+      "summary": "據《華爾街日報》引述知情人士報導，AI 晶片大廠輝達（Nvidia）已暫停部分針對 AI 雲端服務供應商的分潤 [&#8230;]",
+      "date": "2026-08-28T02:20:58+00:00",
+      "sourceId": "technews",
+      "cats": [
+        "market",
+        "process",
+        "material"
+      ]
+    },
+    {
+      "id": "0e8769c0195b",
+      "title": "AI 出貨關鍵大洗牌！法人揭 CoWoS 瓶頸掀 ABF 產能競標戰",
+      "link": "https://finance.technews.tw/2026/08/28/cowososat/",
+      "summary": "受惠 AI 及 HPC 平台推動，法人預估 ABF 與 BT 載板雙雙進入結構性成長期，而 2026 年 AI [&#8230;]",
+      "date": "2026-08-28T02:12:52+00:00",
+      "sourceId": "technews",
+      "cats": [
+        "market",
+        "process",
+        "material"
+      ]
+    },
+    {
+      "id": "89aadf0861f8",
+      "title": "MSI XpertStation WS300 搭載 NVIDIA DGX Station 架構正式出貨",
+      "link": "https://technews.tw/2026/08/28/msi-xpertstation-ws300/",
+      "summary": "MSI 微星科技今日宣布，搭載 NVIDIA DGX Station 架構的 XpertStation WS3 [&#8230;]",
+      "date": "2026-08-28T02:05:14+00:00",
+      "sourceId": "technews",
+      "cats": [
+        "market",
+        "process",
+        "material"
+      ]
+    },
+    {
+      "id": "7289fb7519bf",
+      "title": "輝達供不應求引爆 AI 擴產浪潮，法人重壓散熱與記憶體引領台股衝高",
+      "link": "https://finance.technews.tw/2026/08/28/nvidia-ai-boom-sparks-thermal-memory-demand-institutional-investors-drive-taiwan-stocks/",
+      "summary": "27 日台股強勢收在 45,832 點，三大法人大買 627 億元，外資單日狂掃 490.9 億元呈罕見強攻。 [&#8230;]",
+      "date": "2026-08-28T02:00:37+00:00",
+      "sourceId": "technews",
+      "cats": [
+        "market",
+        "process",
+        "material"
+      ]
+    },
+    {
       "id": "2f7a20a36e93",
       "title": "Qualcomm Bets Open-Source AI Software Can Break Nvidia’s Lock-In",
       "link": "https://www.eetimes.com/qualcomm-bets-open-source-ai-software-can-break-nvidias-lock-in/",
@@ -71,97 +162,6 @@
         "process",
         "material",
         "equipment"
-      ]
-    },
-    {
-      "id": "73ec4609afb7",
-      "title": "光電融合成 AI 資料中心新戰場！NVIDIA、博通領軍，日媒揭關鍵業者版圖",
-      "link": "https://technews.tw/2026/08/27/japan-cpo-supply-chain/",
-      "summary": "隨著生成式 AI 快速普及，資料傳輸成為下一階段基礎建設的重要課題，根據日媒 XTECH 最新整理指出，目前光 [&#8230;]",
-      "date": "2026-08-27T09:42:51+00:00",
-      "sourceId": "technews",
-      "cats": [
-        "market",
-        "process",
-        "material"
-      ]
-    },
-    {
-      "id": "24eacfcf4fb6",
-      "title": "輝達財報粉碎 AI 泡沫論！高含輝 009820 狂飆近 10% 霸榜納指 ETF",
-      "link": "https://finance.technews.tw/2026/08/27/009820-etf/",
-      "summary": "輝達（NVIDIA）今日盤後公布的財報表現亮眼，並預告 2028 財年仍將成長逾 70%，激勵股價大漲，帶動相 [&#8230;]",
-      "date": "2026-08-27T09:21:08+00:00",
-      "sourceId": "technews",
-      "cats": [
-        "market",
-        "process",
-        "material"
-      ]
-    },
-    {
-      "id": "d3fcab837e67",
-      "title": "InP 需求續強！IET-KY 看下半年展望強勁，與半導體設備大廠談 MBE 機台方案",
-      "link": "https://technews.tw/2026/08/27/iet-ky-2026-q2-financial-report/",
-      "summary": "IET-KY 今（27 日）舉辦法說會，展望下半年，IET-KY 董事長高永中指出，砷化鎵第二季已開始恢復，預 [&#8230;]",
-      "date": "2026-08-27T09:09:50+00:00",
-      "sourceId": "technews",
-      "cats": [
-        "market",
-        "process",
-        "material"
-      ]
-    },
-    {
-      "id": "c927a713caad",
-      "title": "涉嫌走私輝達晶片進中國，新加坡 Apex 物流遭美調查",
-      "link": "https://technews.tw/2026/08/27/singapore-apex-logistics-us-investigation-alleged-nvidia-chip-smuggling-china/",
-      "summary": "彭博引述知情人士說法指出，美國政府正調查新加坡物流公司 Apex Logistics 是否協助將輝達（Nvid [&#8230;]",
-      "date": "2026-08-27T08:50:43+00:00",
-      "sourceId": "technews",
-      "cats": [
-        "market",
-        "process",
-        "material"
-      ]
-    },
-    {
-      "id": "267e9ffe2599",
-      "title": "結合台積電 2 奈米與 3D 封裝，富士通 144 核處理器 Monaka 細節曝光",
-      "link": "https://technews.tw/2026/08/27/fujitsus-monaka-chip/",
-      "summary": "富士通（Fujitsu）在 Hot Chips 2026 公布新一代伺服器處理器 Monaka 的更多細節，這 [&#8230;]",
-      "date": "2026-08-27T06:40:18+00:00",
-      "sourceId": "technews",
-      "cats": [
-        "market",
-        "process",
-        "material"
-      ]
-    },
-    {
-      "id": "48e986606f04",
-      "title": "打破資產同向波動宿命！第一金攜歐洲 M&G 推全球動態入息多重資產基金",
-      "link": "https://finance.technews.tw/2026/08/27/mg-investments/",
-      "summary": "當所有人都想著作多半導體，AI 泡沫化的風險就持續增高，第一金投信今日發表全球動態入息多重資產基金，鎖定運用 [&#8230;]",
-      "date": "2026-08-27T06:36:45+00:00",
-      "sourceId": "technews",
-      "cats": [
-        "market",
-        "process",
-        "material"
-      ]
-    },
-    {
-      "id": "40dc69838046",
-      "title": "AI PC 熱賣難敵記憶體成本壓頂  惠普盤後跌逾 9%",
-      "link": "https://finance.technews.tw/2026/08/27/memory-costs-squeeze-profits-hp-shares-plunge-over-9/",
-      "summary": "知名個人電腦（PC）與印表機大廠惠普（HP）26 日揭曉最新財報，受惠 AI PC 買氣熱絡，上季業績優於市場 [&#8230;]",
-      "date": "2026-08-27T06:20:43+00:00",
-      "sourceId": "technews",
-      "cats": [
-        "market",
-        "process",
-        "material"
       ]
     },
     {
