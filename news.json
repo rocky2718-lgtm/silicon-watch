@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-28T20:09:35.453216+00:00",
+  "updated": "2026-08-29T03:37:53.706372+00:00",
   "count": 17,
   "sources": [
     {
@@ -61,6 +61,58 @@
   ],
   "articles": [
     {
+      "id": "f92934e44692",
+      "title": "黃仁勳藉一場大缺貨改寫比賽規則，記憶體廠紅利沒預期那麼高了",
+      "link": "https://technews.tw/2026/08/29/nvidia-changes-the-rules-of-the-ai-%e2%80%8b%e2%80%8bchip-memory-competition/",
+      "summary": "根據近期產業消息，輝達下一代旗艦晶片 Rubin Ultra 的記憶體配置正在進行降規格測試。 原本市場期待它 [&#8230;]",
+      "date": "2026-08-29T02:00:10+00:00",
+      "sourceId": "technews",
+      "cats": [
+        "market",
+        "process",
+        "material"
+      ]
+    },
+    {
+      "id": "ab4702683fa6",
+      "title": "不只做鞋膠！南寶挾一甲子功力華麗轉型，強攻半導體與 AI 封裝材料",
+      "link": "https://technews.tw/2026/08/29/nanpao-enters-semiconductor-materials-to-unlock-new-growth-curve/",
+      "summary": "南寶用一甲子時間，不斷累積創新高分子材料技術，挾 3 年賺兩股本的傲人成績，要在半導體先進封裝、AI 銅箔基板 [&#8230;]",
+      "date": "2026-08-29T01:00:22+00:00",
+      "sourceId": "technews",
+      "cats": [
+        "market",
+        "process",
+        "material"
+      ]
+    },
+    {
+      "id": "a003ab2e1323",
+      "title": "美光台灣工會醞釀罷工獲 8 成支持！不滿獎金分紅落後三星、SK 海力士",
+      "link": "https://finance.technews.tw/2026/08/29/ipp/",
+      "summary": "受惠全球 AI 浪潮與高頻寬記憶體（HBM）需求增加，美光（Micron）近期創營收與獲利新高，但美光台灣廠區 [&#8230;]",
+      "date": "2026-08-29T00:28:37+00:00",
+      "sourceId": "technews",
+      "cats": [
+        "market",
+        "process",
+        "material"
+      ]
+    },
+    {
+      "id": "afca03660fe6",
+      "title": "要輝達不要變電所？北部電網瀕臨超載，25% 民眾錯把「歸零核能」當主力，揭開台灣電力三大真相",
+      "link": "https://technews.tw/2026/08/29/taiwan-public-lacks-understanding-of-power-grid/",
+      "summary": "全球 AI 晶片霸主輝達（NVIDIA）海外總部「星群」基地落腳北投士林科技園區，成為輝達最重要的研發與製造樞 [&#8230;]",
+      "date": "2026-08-29T00:00:09+00:00",
+      "sourceId": "technews",
+      "cats": [
+        "market",
+        "process",
+        "material"
+      ]
+    },
+    {
       "id": "5bc0fc139e19",
       "title": "台積電菜鳥員工爆料季獎金開獎有感增加，財報已顯示單季總額年增 50.7%",
       "link": "https://finance.technews.tw/2026/08/28/tsmc-q2-employee-bonuses-nt36-billion-up-50-percent-yoy/",
@@ -105,58 +157,6 @@
       "link": "https://finance.technews.tw/2026/08/28/nvidia-nvl72-over-710000000000usd-2027/",
       "summary": "TrendForce 最新 AI 伺服器產業研究，GB300 整櫃型方案已成為今年 NVIDIA 出貨主力，需 [&#8230;]",
       "date": "2026-08-28T09:15:35+00:00",
-      "sourceId": "technews",
-      "cats": [
-        "market",
-        "process",
-        "material"
-      ]
-    },
-    {
-      "id": "3b26f50c8e42",
-      "title": "弘塑投資青輝先進材料資金到位，推動台灣混合鍵合在地化",
-      "link": "https://technews.tw/2026/08/28/gptc-japan-bonding/",
-      "summary": "半導體濕製程設備大廠弘塑科技宣布，繼旗下子公司佳霖科技取得日本青輝半導體株式會社產品代理權後，針對青輝先進材料 [&#8230;]",
-      "date": "2026-08-28T07:18:15+00:00",
-      "sourceId": "technews",
-      "cats": [
-        "market",
-        "process",
-        "material"
-      ]
-    },
-    {
-      "id": "905bfdda20d5",
-      "title": "木頭姊 AI 晶片股換血  賣 AMD、搶進博通與 Cerebras",
-      "link": "https://finance.technews.tw/2026/08/28/cathie-wood-gradually-cuts-amd-stake/",
-      "summary": "明星基金經理人凱薩琳伍德（Cathie Wood、台灣稱木頭姊）掌管的方舟投資（Ark Invest），近日大 [&#8230;]",
-      "date": "2026-08-28T07:00:05+00:00",
-      "sourceId": "technews",
-      "cats": [
-        "market",
-        "process",
-        "material"
-      ]
-    },
-    {
-      "id": "8eeb9b521a6f",
-      "title": "記憶體、晶片價格倒掛，入門智慧手機受衝擊恐最大",
-      "link": "https://technews.tw/2026/08/28/entry-level-smartphones-hit-hardest-by-memory-costs/",
-      "summary": "綜合中媒報導，手機記憶體與晶片價格出現「倒掛」的情況，據中國數位博主「數碼閒聊站」透露，目前 12GB + 2 [&#8230;]",
-      "date": "2026-08-28T06:50:56+00:00",
-      "sourceId": "technews",
-      "cats": [
-        "market",
-        "process",
-        "material"
-      ]
-    },
-    {
-      "id": "d555165909ba",
-      "title": "矽晶圓將大幅漲價？券商看旺 SUMCO、調升目標價",
-      "link": "https://technews.tw/2026/08/28/silicon-wafer-prices-surge-brokers-bullish-sumco-raise-target-price/",
-      "summary": "矽晶圓將大幅漲價？券商看旺日本矽晶圓大廠 SUMCO，調升目標價。SUMCO 今日股價聞訊走揚。 日經新聞28 [&#8230;]",
-      "date": "2026-08-28T06:40:48+00:00",
       "sourceId": "technews",
       "cats": [
         "market",
