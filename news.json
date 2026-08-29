@@ -1,6 +1,6 @@
 {
-  "updated": "2026-08-29T10:59:11.904963+00:00",
-  "count": 20,
+  "updated": "2026-08-29T16:38:31.227023+00:00",
+  "count": 18,
   "sources": [
     {
       "id": "technews",
@@ -170,32 +170,6 @@
       "link": "https://technews.tw/2026/08/28/reducing-memory-usage-and-improving-device-migration/",
       "summary": "因應 AI 資料中心帶動的記憶體供應吃緊，Google 準備為 Android 應用程式和遊戲設下更嚴格的資源 [&#8230;]",
       "date": "2026-08-28T10:04:28+00:00",
-      "sourceId": "technews",
-      "cats": [
-        "market",
-        "process",
-        "material"
-      ]
-    },
-    {
-      "id": "c0fd1cd765fd",
-      "title": "德國赴台參加半導體展，鎖定晶片設計、先進封裝",
-      "link": "https://technews.tw/2026/08/28/germany-in-semicon-taiwan-2026/",
-      "summary": "德國聯邦外貿與投資署（GTAI）下週將赴台參加台灣國際半導體展。半導體專家梅耶（Martin Mayer）今天 [&#8230;]",
-      "date": "2026-08-28T10:00:47+00:00",
-      "sourceId": "technews",
-      "cats": [
-        "market",
-        "process",
-        "material"
-      ]
-    },
-    {
-      "id": "6b910766d439",
-      "title": "NVIDIA AI 機櫃產品世代交替，估 2027 年 NVL72 產值貢獻可突破 7,100 億美元",
-      "link": "https://finance.technews.tw/2026/08/28/nvidia-nvl72-over-710000000000usd-2027/",
-      "summary": "TrendForce 最新 AI 伺服器產業研究，GB300 整櫃型方案已成為今年 NVIDIA 出貨主力，需 [&#8230;]",
-      "date": "2026-08-28T09:15:35+00:00",
       "sourceId": "technews",
       "cats": [
         "market",
