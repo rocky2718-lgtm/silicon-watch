@@ -1,6 +1,6 @@
 {
-  "updated": "2026-08-29T20:50:25.262001+00:00",
-  "count": 18,
+  "updated": "2026-08-30T00:04:32.522954+00:00",
+  "count": 17,
   "sources": [
     {
       "id": "technews",
@@ -157,19 +157,6 @@
       "link": "https://finance.technews.tw/2026/08/28/tsmc-q2-employee-bonuses-nt36-billion-up-50-percent-yoy/",
       "summary": "台積電第二季員工分紅今日入帳，又有台積電員工在網路上爆料季獎金開獎有感增加，單季按照個人考績領取約四至六個月不 [&#8230;]",
       "date": "2026-08-28T14:00:33+00:00",
-      "sourceId": "technews",
-      "cats": [
-        "market",
-        "process",
-        "material"
-      ]
-    },
-    {
-      "id": "f266d828ab81",
-      "title": "AI 搶記憶體產能，Google 要求 Android 應用程式降低占用系統資源",
-      "link": "https://technews.tw/2026/08/28/reducing-memory-usage-and-improving-device-migration/",
-      "summary": "因應 AI 資料中心帶動的記憶體供應吃緊，Google 準備為 Android 應用程式和遊戲設下更嚴格的資源 [&#8230;]",
-      "date": "2026-08-28T10:04:28+00:00",
       "sourceId": "technews",
       "cats": [
         "market",
