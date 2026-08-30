@@ -1,6 +1,6 @@
 {
-  "updated": "2026-08-30T08:13:38.703592+00:00",
-  "count": 14,
+  "updated": "2026-08-30T14:46:18.049538+00:00",
+  "count": 13,
   "sources": [
     {
       "id": "technews",
@@ -105,19 +105,6 @@
       "link": "https://technews.tw/2026/08/29/tech-giants-ai-slop/",
       "summary": "矽谷近來一面加強清理所謂的「AI 垃圾內容」（AI Slop），一面卻沒有放慢擁抱生成式技術的腳步。從音樂、社 [&#8230;]",
       "date": "2026-08-29T07:30:19+00:00",
-      "sourceId": "technews",
-      "cats": [
-        "market",
-        "process",
-        "material"
-      ]
-    },
-    {
-      "id": "6ba3e0215664",
-      "title": "不滿遭強扣「中國軍方公司」大帽！中國晶片巨頭長鑫存儲狀告五角大廈",
-      "link": "https://finance.technews.tw/2026/08/29/cxmt/",
-      "summary": "中國頂尖記憶體晶片製造商長鑫存儲（CXMT）今日向美國華盛頓哥倫比亞特區聯邦地方法院提起訴訟，控告美國國防部將 [&#8230;]",
-      "date": "2026-08-29T06:06:49+00:00",
       "sourceId": "technews",
       "cats": [
         "market",
