@@ -1,6 +1,6 @@
 {
-  "updated": "2026-08-30T22:38:09.716851+00:00",
-  "count": 13,
+  "updated": "2026-08-31T05:16:03.825008+00:00",
+  "count": 19,
   "sources": [
     {
       "id": "technews",
@@ -61,11 +61,11 @@
   ],
   "articles": [
     {
-      "id": "c019bfc4a513",
-      "title": "TechInsights 深度分析麒麟 9030 Pro，設備代差仍難以彌補",
-      "link": "https://technews.tw/2026/08/30/techinsight-analyze-kirin-9030-pro/",
-      "summary": "知名晶片逆向工程機構 TechInsights 最新釋出華為旗艦處理器「麒麟 9030 Pro」的完整製程分析 [&#8230;]",
-      "date": "2026-08-30T02:57:34+00:00",
+      "id": "cbf4e1f5297a",
+      "title": "OpenAI、Anthropic 狂搶，數萬台 Mac mini、Mac Studio 成 AI 新寵",
+      "link": "https://technews.tw/2026/08/31/openai-anthropic-mac-mini-mac-studio/",
+      "summary": "過去提到 AI 硬體，市場焦點往往落在 Nvidia GPU 與大型 AI 伺服器身上，但現在連小巧的 Mac [&#8230;]",
+      "date": "2026-08-31T04:48:26+00:00",
       "sourceId": "technews",
       "cats": [
         "market",
@@ -74,11 +74,11 @@
       ]
     },
     {
-      "id": "3f218ad9d1fa",
-      "title": "「半導體材料聯盟」盛大成立，徐秀蘭：現在是台灣半導體業拯救「材料侏儒困境」的最好時機",
-      "link": "https://finance.technews.tw/2026/08/30/semi-taiwan-materials-alliance/",
-      "summary": "SEMICON 半導體展前夕，SEMI 國際半導體產業協會 21 日邀請 34 家國內外業者，舉行「半導體材料 [&#8230;]",
-      "date": "2026-08-30T02:00:10+00:00",
+      "id": "439c45788720",
+      "title": "挾 PCB 優勢進軍半導體，泰國推「Siam Silica」戰略搶占 AI 硬體商機",
+      "link": "https://technews.tw/2026/08/31/thailand-ai-revolution/",
+      "summary": "全球 AI 與資料中心投資熱潮持續發燒，泰國正積極把握這波歷史機遇。除了挾帶既有的印刷電路板（PCB）製造優勢 [&#8230;]",
+      "date": "2026-08-31T04:00:53+00:00",
       "sourceId": "technews",
       "cats": [
         "market",
@@ -87,11 +87,11 @@
       ]
     },
     {
-      "id": "5c8451a927cf",
-      "title": "輝達財報出爐股價跌轉升！但擔保金額超越單季營收，輝達循環融資風險成焦點",
-      "link": "https://finance.technews.tw/2026/08/29/nvidia-earnings-stock-rebound-jensen-huang-revolving-financing-concern/",
-      "summary": "輝達公布財報又救全村！盤後除美股股價漲過 4%，也帶動美股美光、台積電台股 27 日上攻。第二季營收達 962 [&#8230;]",
-      "date": "2026-08-29T08:00:47+00:00",
+      "id": "c6178cd8acd6",
+      "title": "台積電不再獨占 SK 海力士 HBM 訂單？傳 Intel 分杯羹",
+      "link": "https://technews.tw/2026/08/31/tsmc-no-longer-monopolizes-sk-hynix-hbm-orders-intel-reportedly-gets-share/",
+      "summary": "韓媒傳出，SK 海力士（SK Hynix）打算分散高頻寬記憶體（HBM）所需的基底晶粒（Base Die）供應 [&#8230;]",
+      "date": "2026-08-31T03:40:12+00:00",
       "sourceId": "technews",
       "cats": [
         "market",
@@ -100,11 +100,89 @@
       ]
     },
     {
-      "id": "553c206caa51",
-      "title": "科技巨頭的兩手策略：嚴打「AI 垃圾」，卻加速擁抱生成式未來",
-      "link": "https://technews.tw/2026/08/29/tech-giants-ai-slop/",
-      "summary": "矽谷近來一面加強清理所謂的「AI 垃圾內容」（AI Slop），一面卻沒有放慢擁抱生成式技術的腳步。從音樂、社 [&#8230;]",
-      "date": "2026-08-29T07:30:19+00:00",
+      "id": "8094d43de6d3",
+      "title": "反對比爾蓋茲「AI 稅」構想，黃仁勳：人工智慧將淨創造更多就業機會",
+      "link": "https://technews.tw/2026/08/31/jensen-huang-refutes-bill-gates/",
+      "summary": "針對人工智慧（AI）帶來的就業衝擊與稅制改革，輝達（Nvidia）執行長黃仁勳近日明確表態。他強調自己並不排斥 [&#8230;]",
+      "date": "2026-08-31T03:30:30+00:00",
+      "sourceId": "technews",
+      "cats": [
+        "market",
+        "process",
+        "material"
+      ]
+    },
+    {
+      "id": "47277f60e4d2",
+      "title": "匯聚全球創投目光！Fluv 奪 2026 TSWC 冠軍前進矽谷新創世界盃",
+      "link": "https://finance.technews.tw/2026/08/31/tswc/",
+      "summary": "備受全球新創圈矚目的「2026 Taiwan Startup World Cup Taipei（TSWC）」台 [&#8230;]",
+      "date": "2026-08-31T03:06:46+00:00",
+      "sourceId": "technews",
+      "cats": [
+        "market",
+        "process",
+        "material"
+      ]
+    },
+    {
+      "id": "ec472854c47a",
+      "title": "NVIDIA DLSS 5 神經渲染外流版實測，畫質潛力驚人但硬體負擔沉重",
+      "link": "https://technews.tw/2026/08/31/nvidia-dlss-5-neural-rendering-leaked-version-tested/",
+      "summary": "輝達（NVIDIA）尚未正式發布的 DLSS 5 技術，近期因〈NBA 2K27〉PC 早期版本內藏檔案外洩而 [&#8230;]",
+      "date": "2026-08-31T03:00:58+00:00",
+      "sourceId": "technews",
+      "cats": [
+        "market",
+        "process",
+        "material"
+      ]
+    },
+    {
+      "id": "ed7d0da7ca55",
+      "title": "台積電規劃 3DFabric、HBM4 與 COUPE 聯手，2029 年推升 AI 晶片算力飆升 50 倍",
+      "link": "https://technews.tw/2026/08/31/tsmc-plans-to-collaborate-with-3d-fabric-hbm4-and-coupe/",
+      "summary": "隨著生成式 AI 自「創新週期」跨入「工業規模化」時代，台積電高效能運算業務開發處處長兼全球 AI 與 HPC [&#8230;]",
+      "date": "2026-08-31T02:15:10+00:00",
+      "sourceId": "technews",
+      "cats": [
+        "market",
+        "process",
+        "material"
+      ]
+    },
+    {
+      "id": "ae30770c0587",
+      "title": "毛利率不如預期，矽力外資維持減碼、新 SPS 成後續關鍵",
+      "link": "https://technews.tw/2026/08/31/silergy-gross-margin-disappoints-foreign-investors-underweight-new-sps-key-future/",
+      "summary": "矽力-KY 第二季營收明顯回升，不過毛利率表現低於市場預期。外資最新報告指出，矽力第二季毛利率降至 47%，低 [&#8230;]",
+      "date": "2026-08-31T02:06:31+00:00",
+      "sourceId": "technews",
+      "cats": [
+        "market",
+        "process",
+        "material"
+      ]
+    },
+    {
+      "id": "c9d5da5d8059",
+      "title": "AI 熱潮撐不起消費，高盛示警韓國「K 型循環」隱憂",
+      "link": "https://technews.tw/2026/08/31/south-korea-may-be-getting-too-old-to-take-advantage-of-its-ai-boom/",
+      "summary": "韓國正站在人工智慧熱潮的風口上，三星電子（Samsung Electronics）與 SK 海力士（SK Hy [&#8230;]",
+      "date": "2026-08-31T02:05:58+00:00",
+      "sourceId": "technews",
+      "cats": [
+        "market",
+        "process",
+        "material"
+      ]
+    },
+    {
+      "id": "72c8eebbebf9",
+      "title": "外資狂買 417 億鎖定晶圓雙雄，聯茂法說與欣興事件成觀盤核心",
+      "link": "https://finance.technews.tw/2026/08/31/foreign-investors-buy-41-7b-ntd-wafer-foundries-elite-material-investor-conf-unimicron-event-focus/",
+      "summary": "台股 28 日加權指數收在 45,975 點，外資單日大舉買超 417.5 億元，資金高度集中於台積電與聯電。 [&#8230;]",
+      "date": "2026-08-31T02:00:59+00:00",
       "sourceId": "technews",
       "cats": [
         "market",
