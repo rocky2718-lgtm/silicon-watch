@@ -1,6 +1,6 @@
 {
-  "updated": "2026-08-31T05:16:03.825008+00:00",
-  "count": 19,
+  "updated": "2026-08-31T13:28:00.791281+00:00",
+  "count": 18,
   "sources": [
     {
       "id": "technews",
@@ -61,11 +61,11 @@
   ],
   "articles": [
     {
-      "id": "cbf4e1f5297a",
-      "title": "OpenAI、Anthropic 狂搶，數萬台 Mac mini、Mac Studio 成 AI 新寵",
-      "link": "https://technews.tw/2026/08/31/openai-anthropic-mac-mini-mac-studio/",
-      "summary": "過去提到 AI 硬體，市場焦點往往落在 Nvidia GPU 與大型 AI 伺服器身上，但現在連小巧的 Mac [&#8230;]",
-      "date": "2026-08-31T04:48:26+00:00",
+      "id": "b645918a59b8",
+      "title": "台積電揭 COUPE 藍圖：光源、調變器、SOA 全整合，進一步挑戰「光學中介層」",
+      "link": "https://technews.tw/2026/08/31/tsmc-coupe-semicon-taiwan-2026/",
+      "summary": "台積電副專案處長陳明發今（31）日在 SEMICON Taiwan 2026 矽光子國際論壇表示，會中除了分享 [&#8230;]",
+      "date": "2026-08-31T12:40:22+00:00",
       "sourceId": "technews",
       "cats": [
         "market",
@@ -74,11 +74,11 @@
       ]
     },
     {
-      "id": "439c45788720",
-      "title": "挾 PCB 優勢進軍半導體，泰國推「Siam Silica」戰略搶占 AI 硬體商機",
-      "link": "https://technews.tw/2026/08/31/thailand-ai-revolution/",
-      "summary": "全球 AI 與資料中心投資熱潮持續發燒，泰國正積極把握這波歷史機遇。除了挾帶既有的印刷電路板（PCB）製造優勢 [&#8230;]",
-      "date": "2026-08-31T04:00:53+00:00",
+      "id": "042a46497992",
+      "title": "SEMICON Taiwan 2026 大師論壇暨全球生態系高峰會，首度爆場加開",
+      "link": "https://technews.tw/2026/08/31/semicon-taiwan-2026/",
+      "summary": "AI 時代的半導體產業變革，正從單點技術突破邁向全球生態系協作。 呼應這股趨勢，SEMICON Taiwan [&#8230;]",
+      "date": "2026-08-31T09:48:31+00:00",
       "sourceId": "technews",
       "cats": [
         "market",
@@ -87,11 +87,11 @@
       ]
     },
     {
-      "id": "c6178cd8acd6",
-      "title": "台積電不再獨占 SK 海力士 HBM 訂單？傳 Intel 分杯羹",
-      "link": "https://technews.tw/2026/08/31/tsmc-no-longer-monopolizes-sk-hynix-hbm-orders-intel-reportedly-gets-share/",
-      "summary": "韓媒傳出，SK 海力士（SK Hynix）打算分散高頻寬記憶體（HBM）所需的基底晶粒（Base Die）供應 [&#8230;]",
-      "date": "2026-08-31T03:40:12+00:00",
+      "id": "e0b448cec064",
+      "title": "AI 資料中心「神經系統」是光學！徐國晉：矽光子將成光收發器主流",
+      "link": "https://technews.tw/2026/08/31/semi-tsmc-silicon-photonics-global-summit/",
+      "summary": "國際半導體產業協會（SEMI）與矽光子產業協會今（31 日）共同舉辦矽光子國際論壇，台積電先進封裝技術發展副總 [&#8230;]",
+      "date": "2026-08-31T09:36:20+00:00",
       "sourceId": "technews",
       "cats": [
         "market",
@@ -100,11 +100,11 @@
       ]
     },
     {
-      "id": "8094d43de6d3",
-      "title": "反對比爾蓋茲「AI 稅」構想，黃仁勳：人工智慧將淨創造更多就業機會",
-      "link": "https://technews.tw/2026/08/31/jensen-huang-refutes-bill-gates/",
-      "summary": "針對人工智慧（AI）帶來的就業衝擊與稅制改革，輝達（Nvidia）執行長黃仁勳近日明確表態。他強調自己並不排斥 [&#8230;]",
-      "date": "2026-08-31T03:30:30+00:00",
+      "id": "10fffcfef9d0",
+      "title": "吳田玉：AI 使台灣半導體產業迎接黃金轉型期關鍵時刻",
+      "link": "https://finance.technews.tw/2026/08/31/ai-is-ushering-in-a-critical-moment-for-taiwans-semiconductor-industry-to-enter-a-golden-transformation-period/",
+      "summary": "日月光半導體營運長吳田玉在 SEMI TAIWAN 2026 展前記者會上表專題演說時表示，台灣舉全國之力助推 [&#8230;]",
+      "date": "2026-08-31T08:15:40+00:00",
       "sourceId": "technews",
       "cats": [
         "market",
@@ -113,11 +113,11 @@
       ]
     },
     {
-      "id": "47277f60e4d2",
-      "title": "匯聚全球創投目光！Fluv 奪 2026 TSWC 冠軍前進矽谷新創世界盃",
-      "link": "https://finance.technews.tw/2026/08/31/tswc/",
-      "summary": "備受全球新創圈矚目的「2026 Taiwan Startup World Cup Taipei（TSWC）」台 [&#8230;]",
-      "date": "2026-08-31T03:06:46+00:00",
+      "id": "e9c85c3b6359",
+      "title": "二手市場、維修需求支撐，2026 年全球智慧手機面板出貨量估年減幅度收斂至 2.5%",
+      "link": "https://technews.tw/2026/08/31/global-smartphone-panel-shipments-annual-decline-narrows-2-5-2026-used-market-repair-demand-support/",
+      "summary": "根據 TrendForce 最新面板產業研究，儘管記憶體供給短缺、價格吃緊加劇智慧手機供應鏈成本壓力，更影響手 [&#8230;]",
+      "date": "2026-08-31T07:25:49+00:00",
       "sourceId": "technews",
       "cats": [
         "market",
@@ -126,11 +126,11 @@
       ]
     },
     {
-      "id": "ec472854c47a",
-      "title": "NVIDIA DLSS 5 神經渲染外流版實測，畫質潛力驚人但硬體負擔沉重",
-      "link": "https://technews.tw/2026/08/31/nvidia-dlss-5-neural-rendering-leaked-version-tested/",
-      "summary": "輝達（NVIDIA）尚未正式發布的 DLSS 5 技術，近期因〈NBA 2K27〉PC 早期版本內藏檔案外洩而 [&#8230;]",
-      "date": "2026-08-31T03:00:58+00:00",
+      "id": "8cb07211fb90",
+      "title": "一座大型半導體廠要 3~4 萬顆閥門！捷流高科技 AI 基建接單飆增 15%",
+      "link": "https://finance.technews.tw/2026/08/31/gas-control/",
+      "summary": "捷流閥業總經理錢佩玲今日表示，一座大型半導體廠通常需配置約 3~4 萬顆閥門，以目前整體在手訂單來看，包括半導 [&#8230;]",
+      "date": "2026-08-31T07:12:13+00:00",
       "sourceId": "technews",
       "cats": [
         "market",
@@ -139,11 +139,11 @@
       ]
     },
     {
-      "id": "ed7d0da7ca55",
-      "title": "台積電規劃 3DFabric、HBM4 與 COUPE 聯手，2029 年推升 AI 晶片算力飆升 50 倍",
-      "link": "https://technews.tw/2026/08/31/tsmc-plans-to-collaborate-with-3d-fabric-hbm4-and-coupe/",
-      "summary": "隨著生成式 AI 自「創新週期」跨入「工業規模化」時代，台積電高效能運算業務開發處處長兼全球 AI 與 HPC [&#8230;]",
-      "date": "2026-08-31T02:15:10+00:00",
+      "id": "64df23bf9dcd",
+      "title": "全球半導體產值 2030 年突破 2 兆美元！SEMI：台灣靠垂直生態系搶占關鍵位置",
+      "link": "https://technews.tw/2026/08/31/semi-held-semicon-taiwan-2026/",
+      "summary": "SEMI 國際半導體產業協會今（31 日）舉辦 SEMICON Taiwan 2026 展前記者會，SEMI [&#8230;]",
+      "date": "2026-08-31T07:03:26+00:00",
       "sourceId": "technews",
       "cats": [
         "market",
@@ -152,11 +152,11 @@
       ]
     },
     {
-      "id": "ae30770c0587",
-      "title": "毛利率不如預期，矽力外資維持減碼、新 SPS 成後續關鍵",
-      "link": "https://technews.tw/2026/08/31/silergy-gross-margin-disappoints-foreign-investors-underweight-new-sps-key-future/",
-      "summary": "矽力-KY 第二季營收明顯回升，不過毛利率表現低於市場預期。外資最新報告指出，矽力第二季毛利率降至 47%，低 [&#8230;]",
-      "date": "2026-08-31T02:06:31+00:00",
+      "id": "d323e0f3ff6d",
+      "title": "家登精密布局美日，邱銘乾直指台廠應以全球視野迎戰半導體新局",
+      "link": "https://technews.tw/2026/08/31/gudengs-strategic-layout-in-the-us-and-japan/",
+      "summary": "在全球半導體供應鏈面臨地緣政治拉鋸與重組之際，晶圓傳送載具龍頭大廠家登精密董事長邱銘乾載譽媒體聚會時，深入剖析 [&#8230;]",
+      "date": "2026-08-31T06:50:38+00:00",
       "sourceId": "technews",
       "cats": [
         "market",
@@ -165,11 +165,11 @@
       ]
     },
     {
-      "id": "c9d5da5d8059",
-      "title": "AI 熱潮撐不起消費，高盛示警韓國「K 型循環」隱憂",
-      "link": "https://technews.tw/2026/08/31/south-korea-may-be-getting-too-old-to-take-advantage-of-its-ai-boom/",
-      "summary": "韓國正站在人工智慧熱潮的風口上，三星電子（Samsung Electronics）與 SK 海力士（SK Hy [&#8230;]",
-      "date": "2026-08-31T02:05:58+00:00",
+      "id": "be2570320225",
+      "title": "埃米時代圖形化革命，imec 揭示 High-NA EUV 邁向 2041 年技術藍圖",
+      "link": "https://technews.tw/2026/08/31/imec-unveils-its-technology-roadmap-for-high-na-euv-towards-2041/",
+      "summary": "在半導體微縮技術進入原子級尺度的關鍵轉折點，全球領先的半導體研發中心 imec 於 SEMICON Taiwa [&#8230;]",
+      "date": "2026-08-31T06:30:12+00:00",
       "sourceId": "technews",
       "cats": [
         "market",
@@ -178,11 +178,11 @@
       ]
     },
     {
-      "id": "72c8eebbebf9",
-      "title": "外資狂買 417 億鎖定晶圓雙雄，聯茂法說與欣興事件成觀盤核心",
-      "link": "https://finance.technews.tw/2026/08/31/foreign-investors-buy-41-7b-ntd-wafer-foundries-elite-material-investor-conf-unimicron-event-focus/",
-      "summary": "台股 28 日加權指數收在 45,975 點，外資單日大舉買超 417.5 億元，資金高度集中於台積電與聯電。 [&#8230;]",
-      "date": "2026-08-31T02:00:59+00:00",
+      "id": "f67d14869997",
+      "title": "康寧 SEMICON Taiwan 大秀先進光學技術，聚焦 CPO、玻璃基板等新解方",
+      "link": "https://technews.tw/2026/08/31/corning-semicon-taiwan-2026/",
+      "summary": "康寧 SEMICON Taiwan 2026 將展出應用於半導體架構與製程的先進玻璃與材料解決方案，涵蓋半導體 [&#8230;]",
+      "date": "2026-08-31T06:29:55+00:00",
       "sourceId": "technews",
       "cats": [
         "market",
@@ -196,19 +196,6 @@
       "link": "https://www.eetimes.com/qualcomm-bets-open-source-ai-software-can-break-nvidias-lock-in/",
       "summary": "Modular aims to separate AI software from silicon choice, giving Qualcomm and other challengers a shot at Nvidia-dominated workloads. The post Qualcomm Bets Open-Source AI Software Can Break Nvidia’s Lock-In appeared first on EE Times.",
       "date": "2026-08-27T18:09:20+00:00",
-      "sourceId": "eetimes",
-      "cats": [
-        "process",
-        "material",
-        "equipment"
-      ]
-    },
-    {
-      "id": "026c83559b69",
-      "title": "From Days to Minutes: Accelerating 3D IC Debug with Agentic AI",
-      "link": "https://www.eetimes.com/from-days-to-minutes-accelerating-3d-ic-debug-with-agentic-ai/",
-      "summary": "Discover how agentic AI cuts 3D IC debugging from days to minutes. Learn multi-agent orchestration techniques to accelerate end-to-end root cause analysis. The post From Days to Minutes: Accelerating 3D IC Debug with Agentic AI appeared first on EE Times.",
-      "date": "2026-08-26T13:00:00+00:00",
       "sourceId": "eetimes",
       "cats": [
         "process",
