@@ -1,6 +1,6 @@
 {
-  "updated": "2026-08-31T19:56:13.137282+00:00",
-  "count": 17,
+  "updated": "2026-08-31T23:43:59.365877+00:00",
+  "count": 16,
   "sources": [
     {
       "id": "technews",
@@ -60,6 +60,19 @@
     }
   ],
   "articles": [
+    {
+      "id": "6e0b3cc35b9b",
+      "title": "搶搭 AI 供應鏈多頭列車！實測元大證券「投資先生 APP」簡易模式，零股下單防呆又流暢",
+      "link": "https://finance.technews.tw/2026/09/01/yuanta-commercial-bankinvestment-master-app/",
+      "summary": "當台股加權指數一次次改寫歷史新高、今年以來指數大漲逾五成，其中 AI 題材從記憶體、電源散熱、CPO、載板、被 [&#8230;]",
+      "date": "2026-08-31T23:30:55+00:00",
+      "sourceId": "technews",
+      "cats": [
+        "market",
+        "process",
+        "material"
+      ]
+    },
     {
       "id": "78fdaea49e7c",
       "title": "輝達聯發科深化合作，黃仁勳、蔡力行揭密 35 億美元投資與全方位改寫 AI 產業規則邏輯",
@@ -144,32 +157,6 @@
       "link": "https://finance.technews.tw/2026/08/31/gas-control/",
       "summary": "捷流閥業總經理錢佩玲今日表示，一座大型半導體廠通常需配置約 3~4 萬顆閥門，以目前整體在手訂單來看，包括半導 [&#8230;]",
       "date": "2026-08-31T07:12:13+00:00",
-      "sourceId": "technews",
-      "cats": [
-        "market",
-        "process",
-        "material"
-      ]
-    },
-    {
-      "id": "64df23bf9dcd",
-      "title": "全球半導體產值 2030 年突破 2 兆美元！SEMI：台灣靠垂直生態系搶占關鍵位置",
-      "link": "https://technews.tw/2026/08/31/semi-held-semicon-taiwan-2026/",
-      "summary": "SEMI 國際半導體產業協會今（31 日）舉辦 SEMICON Taiwan 2026 展前記者會，SEMI [&#8230;]",
-      "date": "2026-08-31T07:03:26+00:00",
-      "sourceId": "technews",
-      "cats": [
-        "market",
-        "process",
-        "material"
-      ]
-    },
-    {
-      "id": "d323e0f3ff6d",
-      "title": "家登精密布局美日，邱銘乾直指台廠應以全球視野迎戰半導體新局",
-      "link": "https://technews.tw/2026/08/31/gudengs-strategic-layout-in-the-us-and-japan/",
-      "summary": "在全球半導體供應鏈面臨地緣政治拉鋸與重組之際，晶圓傳送載具龍頭大廠家登精密董事長邱銘乾載譽媒體聚會時，深入剖析 [&#8230;]",
-      "date": "2026-08-31T06:50:38+00:00",
       "sourceId": "technews",
       "cats": [
         "market",
