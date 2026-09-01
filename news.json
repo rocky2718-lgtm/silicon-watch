@@ -1,6 +1,6 @@
 {
-  "updated": "2026-08-31T23:43:59.365877+00:00",
-  "count": 16,
+  "updated": "2026-09-01T04:51:20.234466+00:00",
+  "count": 18,
   "sources": [
     {
       "id": "technews",
@@ -61,11 +61,11 @@
   ],
   "articles": [
     {
-      "id": "6e0b3cc35b9b",
-      "title": "搶搭 AI 供應鏈多頭列車！實測元大證券「投資先生 APP」簡易模式，零股下單防呆又流暢",
-      "link": "https://finance.technews.tw/2026/09/01/yuanta-commercial-bankinvestment-master-app/",
-      "summary": "當台股加權指數一次次改寫歷史新高、今年以來指數大漲逾五成，其中 AI 題材從記憶體、電源散熱、CPO、載板、被 [&#8230;]",
-      "date": "2026-08-31T23:30:55+00:00",
+      "id": "f517869e4d80",
+      "title": "High NA EUV 邁向高量產時代，ASML 揭密先進技術藍圖與高經濟效益",
+      "link": "https://finance.technews.tw/2026/09/01/high-na-euv-moving-towards-the-era-of-high-volume-production/",
+      "summary": "在 2026 年 SEMICON Taiwan 先進製程科技論壇上，全球半導體曝光機龍頭 ASML（艾司摩爾） [&#8230;]",
+      "date": "2026-09-01T04:40:36+00:00",
       "sourceId": "technews",
       "cats": [
         "market",
@@ -74,11 +74,11 @@
       ]
     },
     {
-      "id": "78fdaea49e7c",
-      "title": "輝達聯發科深化合作，黃仁勳、蔡力行揭密 35 億美元投資與全方位改寫 AI 產業規則邏輯",
-      "link": "https://finance.technews.tw/2026/09/01/nvidia-and-mediatek-deepen-cooperation/",
-      "summary": "半導體大廠輝達（NVIDIA）與聯發科技（MediaTek）於 2026 年 8 月 31 日共同宣布深化長期 [&#8230;]",
-      "date": "2026-08-31T19:00:50+00:00",
+      "id": "06e4ce7e4487",
+      "title": "矽光子晶圓需求激增  基板大廠 Soitec 鎖定長約",
+      "link": "https://technews.tw/2026/09/01/soitec-locks-customers-into-multi-year-deals-as-ai-wafer-demand-surges/",
+      "summary": "隨著 AI 資料中心帶動矽光子晶圓需求激增，法國矽晶圓基板大廠 Soitec 正在與客戶簽訂多年期協議，以固定 [&#8230;]",
+      "date": "2026-09-01T04:20:49+00:00",
       "sourceId": "technews",
       "cats": [
         "market",
@@ -87,11 +87,11 @@
       ]
     },
     {
-      "id": "b645918a59b8",
-      "title": "台積電揭 COUPE 藍圖：光源、調變器、SOA 全整合，進一步挑戰「光學中介層」",
-      "link": "https://technews.tw/2026/08/31/tsmc-coupe-semicon-taiwan-2026/",
-      "summary": "台積電副專案處長陳明發今（31）日在 SEMICON Taiwan 2026 矽光子國際論壇表示，會中除了分享 [&#8230;]",
-      "date": "2026-08-31T12:40:22+00:00",
+      "id": "c0fd1d469c7b",
+      "title": "長鑫存儲 LPDDR6 宣布量產，首發搭載小米 18 Fold 摺疊旗艦手機",
+      "link": "https://technews.tw/2026/09/01/chinas-cxmt-beats-western-chipmakers-to-announcement-of-lpddr6-mass-production/",
+      "summary": "中國記憶體晶片廠長鑫存儲（CXMT）宣布，旗下最新一代行動記憶體 LPDDR6 已進入量產，並將首次搭載於小米 [&#8230;]",
+      "date": "2026-09-01T04:10:01+00:00",
       "sourceId": "technews",
       "cats": [
         "market",
@@ -100,11 +100,11 @@
       ]
     },
     {
-      "id": "042a46497992",
-      "title": "SEMICON Taiwan 2026 大師論壇暨全球生態系高峰會，首度爆場加開",
-      "link": "https://technews.tw/2026/08/31/semicon-taiwan-2026/",
-      "summary": "AI 時代的半導體產業變革，正從單點技術突破邁向全球生態系協作。 呼應這股趨勢，SEMICON Taiwan [&#8230;]",
-      "date": "2026-08-31T09:48:31+00:00",
+      "id": "daaef63cf7ea",
+      "title": "應對 AI 與地緣政治新局，徐秀蘭：台灣建構信賴半導體生態系",
+      "link": "https://finance.technews.tw/2026/09/01/taiwan-builds-a-trustworthy-semiconductor-ecosystem/",
+      "summary": "隨著人工智慧（AI）技術爆發與全球地緣政治局勢變遷，半導體關鍵材料矽晶圓的戰略地位日益顯著。環球晶圓（Glob [&#8230;]",
+      "date": "2026-09-01T04:00:38+00:00",
       "sourceId": "technews",
       "cats": [
         "market",
@@ -113,11 +113,11 @@
       ]
     },
     {
-      "id": "e0b448cec064",
-      "title": "AI 資料中心「神經系統」是光學！徐國晉：矽光子將成光收發器主流",
-      "link": "https://technews.tw/2026/08/31/semi-tsmc-silicon-photonics-global-summit/",
-      "summary": "國際半導體產業協會（SEMI）與矽光子產業協會今（31 日）共同舉辦矽光子國際論壇，台積電先進封裝技術發展副總 [&#8230;]",
-      "date": "2026-08-31T09:36:20+00:00",
+      "id": "24bacb97396d",
+      "title": "傳長鑫開始試產 HBM3E，可能於數週內進入量產",
+      "link": "https://technews.tw/2026/09/01/cxmt-hbm3e-trial-production-mass-production-weeks/",
+      "summary": "綜合中媒及港媒報導，據外媒引述知情人士報導，長鑫存儲已開始小批量生產 HBM3E 記憶體，其為用於人工智慧晶片 [&#8230;]",
+      "date": "2026-09-01T03:50:26+00:00",
       "sourceId": "technews",
       "cats": [
         "market",
@@ -126,11 +126,11 @@
       ]
     },
     {
-      "id": "10fffcfef9d0",
-      "title": "吳田玉：AI 使台灣半導體產業迎接黃金轉型期關鍵時刻",
-      "link": "https://finance.technews.tw/2026/08/31/ai-is-ushering-in-a-critical-moment-for-taiwans-semiconductor-industry-to-enter-a-golden-transformation-period/",
-      "summary": "日月光半導體營運長吳田玉在 SEMI TAIWAN 2026 展前記者會上表專題演說時表示，台灣舉全國之力助推 [&#8230;]",
-      "date": "2026-08-31T08:15:40+00:00",
+      "id": "e6e5960d4482",
+      "title": "SanDisk 尾盤突狂拉  MSCI納入、被動買盤助攻",
+      "link": "https://finance.technews.tw/2026/09/01/dear-sandisk-stock-fans-mark-your-calendars-for-august-31/",
+      "summary": "快閃記憶體模組供應商 Sandisk Corp.週一（8 月 31 日）尾盤股價突然由黑翻紅、終場勁揚逾 5% [&#8230;]",
+      "date": "2026-09-01T03:40:33+00:00",
       "sourceId": "technews",
       "cats": [
         "market",
@@ -139,11 +139,11 @@
       ]
     },
     {
-      "id": "e9c85c3b6359",
-      "title": "二手市場、維修需求支撐，2026 年全球智慧手機面板出貨量估年減幅度收斂至 2.5%",
-      "link": "https://technews.tw/2026/08/31/global-smartphone-panel-shipments-annual-decline-narrows-2-5-2026-used-market-repair-demand-support/",
-      "summary": "根據 TrendForce 最新面板產業研究，儘管記憶體供給短缺、價格吃緊加劇智慧手機供應鏈成本壓力，更影響手 [&#8230;]",
-      "date": "2026-08-31T07:25:49+00:00",
+      "id": "ed0cb55f0e71",
+      "title": "環球晶布局先進封裝與矽光子，徐秀蘭強調未來兩年營運成長值得期待",
+      "link": "https://finance.technews.tw/2026/09/01/globalwafers-is-strategically-positioning-itself-in-advanced-packaging-and-silicon-photonics/",
+      "summary": "半導體矽晶圓大廠環球晶（GlobalWafers）在先進技術與產能布局上展現強勁成長動能。董事長徐秀蘭指出，受 [&#8230;]",
+      "date": "2026-09-01T03:15:05+00:00",
       "sourceId": "technews",
       "cats": [
         "market",
@@ -152,11 +152,37 @@
       ]
     },
     {
-      "id": "8cb07211fb90",
-      "title": "一座大型半導體廠要 3~4 萬顆閥門！捷流高科技 AI 基建接單飆增 15%",
-      "link": "https://finance.technews.tw/2026/08/31/gas-control/",
-      "summary": "捷流閥業總經理錢佩玲今日表示，一座大型半導體廠通常需配置約 3~4 萬顆閥門，以目前整體在手訂單來看，包括半導 [&#8230;]",
-      "date": "2026-08-31T07:12:13+00:00",
+      "id": "d55a695b1f04",
+      "title": "君帆上半年接單半導體增 8％！揮軍 SEMICON 搶攻高階商機",
+      "link": "https://finance.technews.tw/2026/09/01/cool-drive/",
+      "summary": "君帆工業今年上半年電子及半導體相關訂單較去年同期成長約 8%，預告將參與「SEMICON Taiwan 202 [&#8230;]",
+      "date": "2026-09-01T03:12:48+00:00",
+      "sourceId": "technews",
+      "cats": [
+        "market",
+        "process",
+        "material"
+      ]
+    },
+    {
+      "id": "d724270632e1",
+      "title": "美國擬推 AI 出口新規，防堵中國跨境承租輝達 GPU",
+      "link": "https://technews.tw/2026/09/01/us-commerce-block-china-ai/",
+      "summary": "傳聞美國商務部正著手研擬全新的 AI 出口管制新規，未來的防堵目標將從單純的「實體晶片出口」，擴大至全面封殺中 [&#8230;]",
+      "date": "2026-09-01T02:20:47+00:00",
+      "sourceId": "technews",
+      "cats": [
+        "market",
+        "process",
+        "material"
+      ]
+    },
+    {
+      "id": "c2efff8f0057",
+      "title": "未上市先賣光！輝達 RTX Spark 掀搶購潮，華碩、微星急向輝達追單",
+      "link": "https://technews.tw/2026/09/01/asus-and-msis-initial-rtx-spark-laptop-shipments-have-reportedly-sold-out/",
+      "summary": "輝達（NVIDIA）與聯發科（MediaTek）合作開發的 RTX Spark 平台，尚未正式上市就已在筆電市 [&#8230;]",
+      "date": "2026-09-01T02:15:22+00:00",
       "sourceId": "technews",
       "cats": [
         "market",
