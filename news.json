@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-01T04:51:20.234466+00:00",
+  "updated": "2026-09-01T11:31:51.199465+00:00",
   "count": 18,
   "sources": [
     {
@@ -61,11 +61,11 @@
   ],
   "articles": [
     {
-      "id": "f517869e4d80",
-      "title": "High NA EUV 邁向高量產時代，ASML 揭密先進技術藍圖與高經濟效益",
-      "link": "https://finance.technews.tw/2026/09/01/high-na-euv-moving-towards-the-era-of-high-volume-production/",
-      "summary": "在 2026 年 SEMICON Taiwan 先進製程科技論壇上，全球半導體曝光機龍頭 ASML（艾司摩爾） [&#8230;]",
-      "date": "2026-09-01T04:40:36+00:00",
+      "id": "4b6f9a428b54",
+      "title": "台北街頭都懂高科技，微軟雲端建設總經理：台灣讓自研晶片成真",
+      "link": "https://finance.technews.tw/2026/09/01/alistair-speirs-interview/",
+      "summary": "微軟 1 月推出第二代自研 AI 晶片 Maia 200，採用台積電 3 奈米製程打造。微軟 Azure 全球 [&#8230;]",
+      "date": "2026-09-01T10:40:37+00:00",
       "sourceId": "technews",
       "cats": [
         "market",
@@ -74,11 +74,11 @@
       ]
     },
     {
-      "id": "06e4ce7e4487",
-      "title": "矽光子晶圓需求激增  基板大廠 Soitec 鎖定長約",
-      "link": "https://technews.tw/2026/09/01/soitec-locks-customers-into-multi-year-deals-as-ai-wafer-demand-surges/",
-      "summary": "隨著 AI 資料中心帶動矽光子晶圓需求激增，法國矽晶圓基板大廠 Soitec 正在與客戶簽訂多年期協議，以固定 [&#8230;]",
-      "date": "2026-09-01T04:20:49+00:00",
+      "id": "c4959acecb5e",
+      "title": "群創 Chip Last 擬 2027 年下半量產，攻 AI 商機",
+      "link": "https://technews.tw/2026/09/01/innolux-chip-last-mass-production-h2-2027-ai-business-opportunities/",
+      "summary": "面板廠群創今天宣布，憑著大尺寸面板製程、精密加工及量產經驗，繼布局扇出型面板級封裝（FOPLP）晶片優先（Ch [&#8230;]",
+      "date": "2026-09-01T10:20:49+00:00",
       "sourceId": "technews",
       "cats": [
         "market",
@@ -87,11 +87,11 @@
       ]
     },
     {
-      "id": "c0fd1d469c7b",
-      "title": "長鑫存儲 LPDDR6 宣布量產，首發搭載小米 18 Fold 摺疊旗艦手機",
-      "link": "https://technews.tw/2026/09/01/chinas-cxmt-beats-western-chipmakers-to-announcement-of-lpddr6-mass-production/",
-      "summary": "中國記憶體晶片廠長鑫存儲（CXMT）宣布，旗下最新一代行動記憶體 LPDDR6 已進入量產，並將首次搭載於小米 [&#8230;]",
-      "date": "2026-09-01T04:10:01+00:00",
+      "id": "4a86ee890369",
+      "title": "深化台歐合作！侯永清剖析海外建廠挑戰，倡導台灣科學園區模式成解決方案",
+      "link": "https://finance.technews.tw/2026/09/01/hou-yongqing-analyzes-the-challenges-of-building-factories-overseas/",
+      "summary": "隨著全球供應鏈重組，半導體安全已升級為經濟安全層級。在「2026 年歐盟投資論壇」中，包括工研院、台積電、鴻海 [&#8230;]",
+      "date": "2026-09-01T09:40:27+00:00",
       "sourceId": "technews",
       "cats": [
         "market",
@@ -100,11 +100,11 @@
       ]
     },
     {
-      "id": "daaef63cf7ea",
-      "title": "應對 AI 與地緣政治新局，徐秀蘭：台灣建構信賴半導體生態系",
-      "link": "https://finance.technews.tw/2026/09/01/taiwan-builds-a-trustworthy-semiconductor-ecosystem/",
-      "summary": "隨著人工智慧（AI）技術爆發與全球地緣政治局勢變遷，半導體關鍵材料矽晶圓的戰略地位日益顯著。環球晶圓（Glob [&#8230;]",
-      "date": "2026-09-01T04:00:38+00:00",
+      "id": "e92dcbb6f2c0",
+      "title": "KV 快取成 AI 推理最大瓶頸！SK 海力士：記憶體角色正往運算延伸",
+      "link": "https://technews.tw/2026/09/01/sk-hynix-semicon-taiwan-2026/",
+      "summary": "SK 海力士資深副總（Senior Vice President）Hoshik Kim 今（1 日）在 SEM [&#8230;]",
+      "date": "2026-09-01T09:21:09+00:00",
       "sourceId": "technews",
       "cats": [
         "market",
@@ -113,11 +113,11 @@
       ]
     },
     {
-      "id": "24bacb97396d",
-      "title": "傳長鑫開始試產 HBM3E，可能於數週內進入量產",
-      "link": "https://technews.tw/2026/09/01/cxmt-hbm3e-trial-production-mass-production-weeks/",
-      "summary": "綜合中媒及港媒報導，據外媒引述知情人士報導，長鑫存儲已開始小批量生產 HBM3E 記憶體，其為用於人工智慧晶片 [&#8230;]",
-      "date": "2026-09-01T03:50:26+00:00",
+      "id": "d699949e8cf9",
+      "title": "工會醞釀罷工！台灣美光聲明 10 月公布歷年最高績效獎金",
+      "link": "https://finance.technews.tw/2026/09/01/micron-taiwan-announced-that-it-will-announce-its-highest-performance-bonus-in-history-this-october/",
+      "summary": "受惠全球人工智慧（AI）浪潮與高頻寬記憶體（HBM）需求增加，美光（Micron）近期營收與獲利創下新高。然而 [&#8230;]",
+      "date": "2026-09-01T09:15:08+00:00",
       "sourceId": "technews",
       "cats": [
         "market",
@@ -126,11 +126,11 @@
       ]
     },
     {
-      "id": "e6e5960d4482",
-      "title": "SanDisk 尾盤突狂拉  MSCI納入、被動買盤助攻",
-      "link": "https://finance.technews.tw/2026/09/01/dear-sandisk-stock-fans-mark-your-calendars-for-august-31/",
-      "summary": "快閃記憶體模組供應商 Sandisk Corp.週一（8 月 31 日）尾盤股價突然由黑翻紅、終場勁揚逾 5% [&#8230;]",
-      "date": "2026-09-01T03:40:33+00:00",
+      "id": "d8d58ef2296a",
+      "title": "三星提出 CUBE 策略！2028 年推 zNAND-O 樣品、擬拚 zHBM 實現商業化",
+      "link": "https://technews.tw/2026/09/01/samsung-memory-semicon-taiwan-2026/",
+      "summary": "三星電子記憶體產品規劃部門副總裁 Jangseok Choi（崔璋石）於 SEMICON Taiwan 記憶體 [&#8230;]",
+      "date": "2026-09-01T08:22:24+00:00",
       "sourceId": "technews",
       "cats": [
         "market",
@@ -139,11 +139,24 @@
       ]
     },
     {
-      "id": "ed0cb55f0e71",
-      "title": "環球晶布局先進封裝與矽光子，徐秀蘭強調未來兩年營運成長值得期待",
-      "link": "https://finance.technews.tw/2026/09/01/globalwafers-is-strategically-positioning-itself-in-advanced-packaging-and-silicon-photonics/",
-      "summary": "半導體矽晶圓大廠環球晶（GlobalWafers）在先進技術與產能布局上展現強勁成長動能。董事長徐秀蘭指出，受 [&#8230;]",
-      "date": "2026-09-01T03:15:05+00:00",
+      "id": "91102333c022",
+      "title": "SK Hynix’s $4B HBM Project Targets U.S. Chipmaking Gap",
+      "link": "https://www.eetimes.com/sk-hynixs-4b-hbm-project-targets-u-s-chipmaking-gap/",
+      "summary": "SK Hynix’s $4B Indiana HBM fab aims to plug America’s AI chip packaging hole and build a Purdue-backed supply chain by 2029. The post SK Hynix’s $4B HBM Project Targets U.S. Chipmaking Gap appeared first on EE Times.",
+      "date": "2026-09-01T07:47:37+00:00",
+      "sourceId": "eetimes",
+      "cats": [
+        "process",
+        "material",
+        "equipment"
+      ]
+    },
+    {
+      "id": "591007e5b699",
+      "title": "受記憶體影響，多家中國手機品牌同步漲價",
+      "link": "https://technews.tw/2026/09/01/chinese-smartphone-brands-increase-prices-memory-impact/",
+      "summary": "受全球記憶體漲價影響，中國多家品牌手機今天集體漲價，包含華為、小米、榮耀，部分機型漲幅在 200 元至 1,0 [&#8230;]",
+      "date": "2026-09-01T07:20:24+00:00",
       "sourceId": "technews",
       "cats": [
         "market",
@@ -152,11 +165,11 @@
       ]
     },
     {
-      "id": "d55a695b1f04",
-      "title": "君帆上半年接單半導體增 8％！揮軍 SEMICON 搶攻高階商機",
-      "link": "https://finance.technews.tw/2026/09/01/cool-drive/",
-      "summary": "君帆工業今年上半年電子及半導體相關訂單較去年同期成長約 8%，預告將參與「SEMICON Taiwan 202 [&#8230;]",
-      "date": "2026-09-01T03:12:48+00:00",
+      "id": "269322dbb812",
+      "title": "半導體從單晶片轉向系統整合微縮，台積電全維度技術微縮藍圖因應需求",
+      "link": "https://technews.tw/2026/09/01/tsmcs-comprehensive-technology-roadmap-addresses-demand/",
+      "summary": "隨著人工智慧（AI）浪潮席捲全球，半導體技術的微縮焦點已正式從單晶片（SoC）轉向「系統整合微縮」。在 SEM [&#8230;]",
+      "date": "2026-09-01T07:10:27+00:00",
       "sourceId": "technews",
       "cats": [
         "market",
@@ -165,24 +178,11 @@
       ]
     },
     {
-      "id": "d724270632e1",
-      "title": "美國擬推 AI 出口新規，防堵中國跨境承租輝達 GPU",
-      "link": "https://technews.tw/2026/09/01/us-commerce-block-china-ai/",
-      "summary": "傳聞美國商務部正著手研擬全新的 AI 出口管制新規，未來的防堵目標將從單純的「實體晶片出口」，擴大至全面封殺中 [&#8230;]",
-      "date": "2026-09-01T02:20:47+00:00",
-      "sourceId": "technews",
-      "cats": [
-        "market",
-        "process",
-        "material"
-      ]
-    },
-    {
-      "id": "c2efff8f0057",
-      "title": "未上市先賣光！輝達 RTX Spark 掀搶購潮，華碩、微星急向輝達追單",
-      "link": "https://technews.tw/2026/09/01/asus-and-msis-initial-rtx-spark-laptop-shipments-have-reportedly-sold-out/",
-      "summary": "輝達（NVIDIA）與聯發科（MediaTek）合作開發的 RTX Spark 平台，尚未正式上市就已在筆電市 [&#8230;]",
-      "date": "2026-09-01T02:15:22+00:00",
+      "id": "038ec5657f9f",
+      "title": "Anthropic 簽 350 億美元雲端大單，輝達供晶片兼持租約",
+      "link": "https://technews.tw/2026/09/01/anthropic-secures-3-5-billion-cloud-deal-nvidia-supplies-chips-holds-lease/",
+      "summary": "消息人士透露，人工智慧（AI）開發商 Anthropic 已與輝達（Nvidia）支持的雲端服務商 Lambd [&#8230;]",
+      "date": "2026-09-01T06:50:02+00:00",
       "sourceId": "technews",
       "cats": [
         "market",
