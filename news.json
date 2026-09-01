@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-01T16:29:13.505681+00:00",
+  "updated": "2026-09-01T20:56:25.436871+00:00",
   "count": 20,
   "sources": [
     {
@@ -60,6 +60,19 @@
     }
   ],
   "articles": [
+    {
+      "id": "64fb7082480f",
+      "title": "How AI Is Reshaping the Global Semiconductor Patent Landscape",
+      "link": "https://www.eetimes.com/how-ai-is-reshaping-the-global-semiconductor-patent-landscape/",
+      "summary": "AI is turning chip patents into a geopolitical battle for dominance, from Nvidia’s CUDA moat to China’s filing surge. The post How AI Is Reshaping the Global Semiconductor Patent Landscape appeared first on EE Times.",
+      "date": "2026-09-01T16:32:49+00:00",
+      "sourceId": "eetimes",
+      "cats": [
+        "process",
+        "material",
+        "equipment"
+      ]
+    },
     {
       "id": "b74a561044c0",
       "title": "The Future of Cable Testing: Why Intelligent Automation is Replacing Manual Validation",
@@ -175,19 +188,6 @@
         "market",
         "process",
         "material"
-      ]
-    },
-    {
-      "id": "91102333c022",
-      "title": "SK Hynix’s $4B HBM Project Targets U.S. Chipmaking Gap",
-      "link": "https://www.eetimes.com/sk-hynixs-4b-hbm-project-targets-u-s-chipmaking-gap/",
-      "summary": "SK Hynix’s $4B Indiana HBM fab aims to plug America’s AI chip packaging hole and build a Purdue-backed supply chain by 2029. The post SK Hynix’s $4B HBM Project Targets U.S. Chipmaking Gap appeared first on EE Times.",
-      "date": "2026-09-01T07:47:37+00:00",
-      "sourceId": "eetimes",
-      "cats": [
-        "process",
-        "material",
-        "equipment"
       ]
     },
     {
