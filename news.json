@@ -1,6 +1,6 @@
 {
-  "updated": "2026-09-02T11:06:51.292529+00:00",
-  "count": 24,
+  "updated": "2026-09-02T16:27:53.071869+00:00",
+  "count": 23,
   "sources": [
     {
       "id": "technews",
@@ -261,19 +261,6 @@
       "link": "https://www.eetimes.com/the-future-of-cable-testing-why-intelligent-automation-is-replacing-manual-validation/",
       "summary": "This whitepaper examines the limitations of manual cable validation processes and explores how automated testing strategies help address common engineering and manufacturing pain points. Topics include improving test repeatability, reducing operator-dependent variability, minimizing setup time, stre",
       "date": "2026-09-01T14:39:23+00:00",
-      "sourceId": "eetimes",
-      "cats": [
-        "process",
-        "material",
-        "equipment"
-      ]
-    },
-    {
-      "id": "f6a4ba37d1f0",
-      "title": "From Silos to Systems, from Data to Insight : Unlocking Organizational Knowledge and Winning in the AI Era with Keysight SOS Enterprise",
-      "link": "https://www.eetimes.com/from-silos-to-systems-from-data-to-insight-unlocking-organizational-knowledge-and-winning-in-the-ai-era-with-keysight-sos-enterprise/",
-      "summary": "The white paper introduces Keysight SOS Enterprise as an AI-ready engineering data and IP management platform designed to help semiconductor and electronics companies centrally manage, govern, and secure design data across global teams. It provides version control, IP traceability, role-based access",
-      "date": "2026-09-01T14:00:00+00:00",
       "sourceId": "eetimes",
       "cats": [
         "process",
