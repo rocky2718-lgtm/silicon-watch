@@ -1,6 +1,6 @@
 {
-  "updated": "2026-09-02T04:17:59.765678+00:00",
-  "count": 22,
+  "updated": "2026-09-02T11:06:51.292529+00:00",
+  "count": 24,
   "sources": [
     {
       "id": "technews",
@@ -61,6 +61,175 @@
   ],
   "articles": [
     {
+      "id": "0d0fdc7eb2ba",
+      "title": "蔡力行談台灣 AI 時代獨特價值，彈性、速度、規模並攜手夥伴共創多贏",
+      "link": "https://finance.technews.tw/2026/09/02/mediatek-discusses-the-unique-value-of-taiwan-in-the-ai-%e2%80%8b%e2%80%8bera/",
+      "summary": "在 SEMI Taiwan 2026 大師論壇上，聯發科副董事長暨執行長蔡力行暢談過去三、四十年間台灣在全球科 [&#8230;]",
+      "date": "2026-09-02T10:30:44+00:00",
+      "sourceId": "technews",
+      "cats": [
+        "market",
+        "process",
+        "material"
+      ]
+    },
+    {
+      "id": "f8717cdc087c",
+      "title": "外資精選台灣 100 強榜單出爐，前十大皆為 AI 供應鏈",
+      "link": "https://finance.technews.tw/2026/09/02/taiwan-fini-100/",
+      "summary": "台灣董事學會舉辦的「2026 外資精選台灣 100 強」今天舉行頒獎典禮，台積電蟬聯冠軍，台達電和日月光緊追在 [&#8230;]",
+      "date": "2026-09-02T10:20:18+00:00",
+      "sourceId": "technews",
+      "cats": [
+        "market",
+        "process",
+        "material"
+      ]
+    },
+    {
+      "id": "e45bbe34d4a2",
+      "title": "AI 需求無止境！台積電侯永清親揭全球建廠潮與半導體供應鏈挑戰",
+      "link": "https://finance.technews.tw/2026/09/02/tsmc-reveals-global-factory-construction-boom-and-semiconductor-supply-chain-challenges/",
+      "summary": "在 SEMICON Taiwan 2026 大師論壇上，台積電資深副總經理暨副共同營運長侯永清指出，AI 的發 [&#8230;]",
+      "date": "2026-09-02T10:15:51+00:00",
+      "sourceId": "technews",
+      "cats": [
+        "market",
+        "process",
+        "material"
+      ]
+    },
+    {
+      "id": "d25a4a8fc2c0",
+      "title": "從底層晶片把關資安，Google 升級 Android 數位身分聯盟降低門檻",
+      "link": "https://infosecu.technews.tw/2026/09/02/google-safer-android-digital-identity-protection/",
+      "summary": "Google 持續致力於將 Android 手機打造成更安全的數位身分載具。根據最新消息，Google 已將原 [&#8230;]",
+      "date": "2026-09-02T10:00:31+00:00",
+      "sourceId": "technews",
+      "cats": [
+        "market",
+        "process",
+        "material"
+      ]
+    },
+    {
+      "id": "865e45473044",
+      "title": "台積電侯永清揭 AI 產能兩大挑戰！欣興簡山傑談「載板」成突圍關鍵",
+      "link": "https://finance.technews.tw/2026/09/02/two-major-challenges/",
+      "summary": "SEMICON TAIWAN 今日舉辦大師論壇暨全球生態系高峰會，由日月光半導體執行長吳田玉主持，齊聚台積電資 [&#8230;]",
+      "date": "2026-09-02T09:51:00+00:00",
+      "sourceId": "technews",
+      "cats": [
+        "market",
+        "process",
+        "material"
+      ]
+    },
+    {
+      "id": "888b37c6ef69",
+      "title": "蔡力行指聯發科兩大策略投資都是對台灣的信心，強調台積電產能沒問題",
+      "link": "https://finance.technews.tw/2026/09/02/mediateks-two-major-strategic-investments-both-reflect-its-confidence-in-taiwan/",
+      "summary": "聯發科副董事長暨執行長蔡力行於 SEMI Taiwan 2026 大師論壇後接受媒體聯訪，針對近期備受矚目的策 [&#8230;]",
+      "date": "2026-09-02T09:50:26+00:00",
+      "sourceId": "technews",
+      "cats": [
+        "market",
+        "process",
+        "material"
+      ]
+    },
+    {
+      "id": "0ed55e8df07e",
+      "title": "博通軟體主管稱 Arm 伺服器要取得市佔至少得花三年，VMware 不必急著支援",
+      "link": "https://technews.tw/2026/09/02/arm-in-the-enterprise-is-at-least-three-years-away-says-broadcom-software-boss/",
+      "summary": "博通（Broadcom）新上任的軟體事業主管維拉加（Ram Velaga）表示，Arm 伺服器要在企業市場取得 [&#8230;]",
+      "date": "2026-09-02T09:50:17+00:00",
+      "sourceId": "technews",
+      "cats": [
+        "market",
+        "process",
+        "material"
+      ]
+    },
+    {
+      "id": "56c8159a215b",
+      "title": "乙太網是 AI 基礎設施最佳技術！博通談 CPO 光源封裝挑戰、兩大光互連路線差異",
+      "link": "https://technews.tw/2026/09/02/broadcom-semicon-taiwan-asad-khamisy/",
+      "summary": "Semicon Taiwan 於今（2 日）盛大開幕，談到乙太網在 AI 基礎設施中的角色，博通資深副總裁暨核 [&#8230;]",
+      "date": "2026-09-02T09:46:43+00:00",
+      "sourceId": "technews",
+      "cats": [
+        "market",
+        "process",
+        "material"
+      ]
+    },
+    {
+      "id": "4349962b96a9",
+      "title": "科林研發看 CPO 瓶頸在「材料」，面板級封裝尺寸長期將走向標準化",
+      "link": "https://technews.tw/2026/09/02/lam-research-semicon-taiwan-2026/",
+      "summary": "AI 帶動先進封裝需求快速升溫，半導體設備大廠科林研發（Lam Research）今（2 日）在 Semico [&#8230;]",
+      "date": "2026-09-02T08:49:29+00:00",
+      "sourceId": "technews",
+      "cats": [
+        "market",
+        "process",
+        "material"
+      ]
+    },
+    {
+      "id": "157f9a222dd4",
+      "title": "銳澤 AI 擴廠在手訂單飆破 30 億元！下半年美日布局營運動能陸續發酵",
+      "link": "https://finance.technews.tw/2026/09/02/world-fab-forecast/",
+      "summary": "銳澤實業今年參與 SEMICON Taiwan 2026 國際半導體展，董事長梁進利表示，為擴大搶進全球化擴建 [&#8230;]",
+      "date": "2026-09-02T08:38:33+00:00",
+      "sourceId": "technews",
+      "cats": [
+        "market",
+        "process",
+        "material"
+      ]
+    },
+    {
+      "id": "f9dd12aa57a6",
+      "title": "台灣成半導體關鍵樞紐！TEL 加碼在台投資、擴大徵才",
+      "link": "https://technews.tw/2026/09/02/tel-semicom-taiwan-2026/",
+      "summary": "全球半導體設備大廠東京威力科創（TEL）台灣總裁仲間誠二今（2）日表示，台灣已成為全球半導體產業的重要樞紐，隨 [&#8230;]",
+      "date": "2026-09-02T08:33:23+00:00",
+      "sourceId": "technews",
+      "cats": [
+        "market",
+        "process",
+        "material"
+      ]
+    },
+    {
+      "id": "1f61d33a68aa",
+      "title": "搶次世代高階封裝！東佑達結盟日商駿河攻 AI 矽光子 CPO 光耦合對位設備",
+      "link": "https://finance.technews.tw/2026/09/02/metrology/",
+      "summary": "東佑達自動化今年參與 SEMICON Taiwan 2026 國際半導體展，會中攜手日商駿河精機推進新一代 C [&#8230;]",
+      "date": "2026-09-02T08:08:26+00:00",
+      "sourceId": "technews",
+      "cats": [
+        "market",
+        "process",
+        "material"
+      ]
+    },
+    {
+      "id": "ce7457505a4f",
+      "title": "企業布局 AI 半導體封裝與固態電力轉換發展，搶占 2030 年兆級綠色運算商機",
+      "link": "https://finance.technews.tw/2026/09/02/deploying-ai-semiconductor-packaging-and-solid-state-power-conversion-development/",
+      "summary": "隨著人工智慧（AI）科技強勢崛起，半導體前瞻封裝與電力轉換系統迎接歷史性的技術變革。包括經濟部產業技術司司長郭 [&#8230;]",
+      "date": "2026-09-02T07:30:14+00:00",
+      "sourceId": "technews",
+      "cats": [
+        "market",
+        "process",
+        "material"
+      ]
+    },
+    {
       "id": "08c26472de6d",
       "title": "From Silos to Systems, from Data to Insight: Unlocking Organizational Knowledge and Winning in the AI Era with Keysight SOS Enterprise",
       "link": "https://www.eetimes.com/from-silos-to-systems-from-data-to-insight/",
@@ -71,149 +240,6 @@
         "process",
         "material",
         "equipment"
-      ]
-    },
-    {
-      "id": "1072a0419210",
-      "title": "友達旗下宇沛擴大半導體布局，晶圓代工大廠檢測案拚明年出貨",
-      "link": "https://finance.technews.tw/2026/09/02/aet-group/",
-      "summary": "友達近年積極擴大顯示器以外事業布局，旗下子公司宇沛永續也將半導體產業列為重要市場。宇沛永續董事長暨總經理李孝忠 [&#8230;]",
-      "date": "2026-09-02T03:38:28+00:00",
-      "sourceId": "technews",
-      "cats": [
-        "market",
-        "process",
-        "material"
-      ]
-    },
-    {
-      "id": "7f63f8168989",
-      "title": "Arm 祭出 CEO 高額獎勵方案，顧問公司大表不滿建議股東投反對票",
-      "link": "https://finance.technews.tw/2026/09/02/arm-faces-potential-shareholder-revolt-over-ceos-excessive-800-million-pay-package/",
-      "summary": "英國晶片設計公司 Arm 面臨潛在的股東反彈。公司擬在 9 月 9 日股東會，請股東表決執行長瑞恩·哈斯（Re [&#8230;]",
-      "date": "2026-09-02T03:20:13+00:00",
-      "sourceId": "technews",
-      "cats": [
-        "market",
-        "process",
-        "material"
-      ]
-    },
-    {
-      "id": "2f2dc91559cf",
-      "title": "英特爾 14A 製程改善速度 12 年來最快，財務長稱越來越多客戶有興趣",
-      "link": "https://technews.tw/2026/09/02/intels-david-zinsner-says-14a-improving-fastest-since-2012-node/",
-      "summary": "英特爾（Intel）財務長辛斯納（David Zinsner）近日在德意志銀行 2026 科技會議表示，Int [&#8230;]",
-      "date": "2026-09-02T03:00:37+00:00",
-      "sourceId": "technews",
-      "cats": [
-        "market",
-        "process",
-        "material"
-      ]
-    },
-    {
-      "id": "c129dca24fd3",
-      "title": "廣運明年半導體物流接單挑戰 20 億！盛新材料首度亮相 12 吋碳化矽晶球",
-      "link": "https://finance.technews.tw/2026/09/02/amhs/",
-      "summary": "廣運今年參與 SEMICON Taiwan 2026 國際半導體展，總經理柯智鈞表示，半導體物流已接獲封測廠訂 [&#8230;]",
-      "date": "2026-09-02T02:51:39+00:00",
-      "sourceId": "technews",
-      "cats": [
-        "market",
-        "process",
-        "material"
-      ]
-    },
-    {
-      "id": "34fab56abccf",
-      "title": "Meta 釋出即時語音感測模型 Muse Voice Transcribe，精準辨識 20+ 人與 70 種語言",
-      "link": "https://technews.tw/2026/09/02/meta-muse-voice-transcribe/",
-      "summary": "Meta 旗下的超級智慧實驗室（Meta Superintelligence Labs）於 1 日正式推出團隊 [&#8230;]",
-      "date": "2026-09-02T02:30:15+00:00",
-      "sourceId": "technews",
-      "cats": [
-        "market",
-        "process",
-        "material"
-      ]
-    },
-    {
-      "id": "0a65bf33991b",
-      "title": "迎戰萬針級 AI 晶片測試！景美 SEMICON 秀 40 微米極限微鑽孔技術",
-      "link": "https://finance.technews.tw/2026/09/02/ate-stiffener/",
-      "summary": "景美科技今年參與 SEMICON Taiwan 2026 國際半導體展，展示「上下導板細微鑽孔、探針卡結構組件 [&#8230;]",
-      "date": "2026-09-02T02:16:24+00:00",
-      "sourceId": "technews",
-      "cats": [
-        "market",
-        "process",
-        "material"
-      ]
-    },
-    {
-      "id": "1a9d9a2a8a27",
-      "title": "SK：與鎧俠共同生產為選項之一、考慮在日設廠",
-      "link": "https://technews.tw/2026/09/02/sk-kioxia-joint-production-japan-plant/",
-      "summary": "旗下擁有半導體大廠 SK 海力士（SK Hynix）的 SK 集團會長表示，與日本 NAND 型快閃記憶體（F [&#8230;]",
-      "date": "2026-09-02T02:15:00+00:00",
-      "sourceId": "technews",
-      "cats": [
-        "market",
-        "process",
-        "material"
-      ]
-    },
-    {
-      "id": "6e4f5f9db8d9",
-      "title": "輝達結盟聯發科引爆 ASIC 行情！三大法人狂掃 566 億，大盤迎戰 46,000 點防線",
-      "link": "https://finance.technews.tw/2026/09/02/nvidia-mediatek-alliance-fuels-asic-boom-institutions-sweep-56-6b-market-targets-46000/",
-      "summary": "1 日台股靠 NVIDIA 入股聯發科利多，三大法人大買 566.4 億元，大盤逆勢收在 46,128.47 [&#8230;]",
-      "date": "2026-09-02T02:00:54+00:00",
-      "sourceId": "technews",
-      "cats": [
-        "market",
-        "process",
-        "material"
-      ]
-    },
-    {
-      "id": "b9e02af37d5f",
-      "title": "亞利桑那州商務代表團為何今年三度訪台？除了半導體還看中什麼？",
-      "link": "https://technews.tw/2026/09/02/arizona-business-delegation-visits-taiwan-for-the-third-time-this-year/",
-      "summary": "隨著台積電在美國亞利桑那州鳳凰城歷史性投資的持續推進，由美國亞利桑那州重要經貿官員與商學領袖組成的代表團於本週 [&#8230;]",
-      "date": "2026-09-02T01:45:12+00:00",
-      "sourceId": "technews",
-      "cats": [
-        "market",
-        "process",
-        "material"
-      ]
-    },
-    {
-      "id": "d50bdb28dc34",
-      "title": "Intel Mac 退場倒數，蘋果已通知開發者可移除支援英特爾",
-      "link": "https://technews.tw/2026/09/02/intel-mac-bye/",
-      "summary": "蘋果逐步結束英特爾（Intel）Mac 時代，現在連 Mac App Store 的開發規範也正式鬆綁；該公司 [&#8230;]",
-      "date": "2026-09-02T01:36:15+00:00",
-      "sourceId": "technews",
-      "cats": [
-        "market",
-        "process",
-        "material"
-      ]
-    },
-    {
-      "id": "949833bb8328",
-      "title": "直擊半導體製程痛點！君帆耐酸鹼、無 VOC 客製元件 SEMICON 亮相",
-      "link": "https://finance.technews.tw/2026/09/02/voc/",
-      "summary": "君帆工業今年參與 SEMICON Taiwan 2026 國際半導體展，聚焦半導體設備特殊製程環境與精密作動需 [&#8230;]",
-      "date": "2026-09-02T01:32:43+00:00",
-      "sourceId": "technews",
-      "cats": [
-        "market",
-        "process",
-        "material"
       ]
     },
     {
