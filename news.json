@@ -1,6 +1,6 @@
 {
-  "updated": "2026-09-01T23:57:40.676287+00:00",
-  "count": 19,
+  "updated": "2026-09-02T04:17:59.765678+00:00",
+  "count": 22,
   "sources": [
     {
       "id": "technews",
@@ -61,11 +61,154 @@
   ],
   "articles": [
     {
-      "id": "20394bb3e08b",
-      "title": "淺談〈GTA 6〉現象：遊戲市場絲毫不受漲價影響？",
-      "link": "https://ccc.technews.tw/2026/09/02/gta-6-phenomenon-gaming-market-immune-price-hikes/",
-      "summary": "這幾年 PC 與遊戲主機市場有個很明顯的共同趨勢：什麼都在漲。顯示卡變貴、記憶體變貴、SSD 成本上升，連 S [&#8230;]",
-      "date": "2026-09-01T23:50:12+00:00",
+      "id": "08c26472de6d",
+      "title": "From Silos to Systems, from Data to Insight: Unlocking Organizational Knowledge and Winning in the AI Era with Keysight SOS Enterprise",
+      "link": "https://www.eetimes.com/from-silos-to-systems-from-data-to-insight/",
+      "summary": "The white paper introduces Keysight SOS Enterprise as an AI-ready engineering data and IP management platform designed to help semiconductor and electronics companies centrally manage, govern, and secure design data across global teams. It provides version control, IP traceability, role-based access",
+      "date": "2026-09-02T03:41:26+00:00",
+      "sourceId": "eetimes",
+      "cats": [
+        "process",
+        "material",
+        "equipment"
+      ]
+    },
+    {
+      "id": "1072a0419210",
+      "title": "友達旗下宇沛擴大半導體布局，晶圓代工大廠檢測案拚明年出貨",
+      "link": "https://finance.technews.tw/2026/09/02/aet-group/",
+      "summary": "友達近年積極擴大顯示器以外事業布局，旗下子公司宇沛永續也將半導體產業列為重要市場。宇沛永續董事長暨總經理李孝忠 [&#8230;]",
+      "date": "2026-09-02T03:38:28+00:00",
+      "sourceId": "technews",
+      "cats": [
+        "market",
+        "process",
+        "material"
+      ]
+    },
+    {
+      "id": "7f63f8168989",
+      "title": "Arm 祭出 CEO 高額獎勵方案，顧問公司大表不滿建議股東投反對票",
+      "link": "https://finance.technews.tw/2026/09/02/arm-faces-potential-shareholder-revolt-over-ceos-excessive-800-million-pay-package/",
+      "summary": "英國晶片設計公司 Arm 面臨潛在的股東反彈。公司擬在 9 月 9 日股東會，請股東表決執行長瑞恩·哈斯（Re [&#8230;]",
+      "date": "2026-09-02T03:20:13+00:00",
+      "sourceId": "technews",
+      "cats": [
+        "market",
+        "process",
+        "material"
+      ]
+    },
+    {
+      "id": "2f2dc91559cf",
+      "title": "英特爾 14A 製程改善速度 12 年來最快，財務長稱越來越多客戶有興趣",
+      "link": "https://technews.tw/2026/09/02/intels-david-zinsner-says-14a-improving-fastest-since-2012-node/",
+      "summary": "英特爾（Intel）財務長辛斯納（David Zinsner）近日在德意志銀行 2026 科技會議表示，Int [&#8230;]",
+      "date": "2026-09-02T03:00:37+00:00",
+      "sourceId": "technews",
+      "cats": [
+        "market",
+        "process",
+        "material"
+      ]
+    },
+    {
+      "id": "c129dca24fd3",
+      "title": "廣運明年半導體物流接單挑戰 20 億！盛新材料首度亮相 12 吋碳化矽晶球",
+      "link": "https://finance.technews.tw/2026/09/02/amhs/",
+      "summary": "廣運今年參與 SEMICON Taiwan 2026 國際半導體展，總經理柯智鈞表示，半導體物流已接獲封測廠訂 [&#8230;]",
+      "date": "2026-09-02T02:51:39+00:00",
+      "sourceId": "technews",
+      "cats": [
+        "market",
+        "process",
+        "material"
+      ]
+    },
+    {
+      "id": "34fab56abccf",
+      "title": "Meta 釋出即時語音感測模型 Muse Voice Transcribe，精準辨識 20+ 人與 70 種語言",
+      "link": "https://technews.tw/2026/09/02/meta-muse-voice-transcribe/",
+      "summary": "Meta 旗下的超級智慧實驗室（Meta Superintelligence Labs）於 1 日正式推出團隊 [&#8230;]",
+      "date": "2026-09-02T02:30:15+00:00",
+      "sourceId": "technews",
+      "cats": [
+        "market",
+        "process",
+        "material"
+      ]
+    },
+    {
+      "id": "0a65bf33991b",
+      "title": "迎戰萬針級 AI 晶片測試！景美 SEMICON 秀 40 微米極限微鑽孔技術",
+      "link": "https://finance.technews.tw/2026/09/02/ate-stiffener/",
+      "summary": "景美科技今年參與 SEMICON Taiwan 2026 國際半導體展，展示「上下導板細微鑽孔、探針卡結構組件 [&#8230;]",
+      "date": "2026-09-02T02:16:24+00:00",
+      "sourceId": "technews",
+      "cats": [
+        "market",
+        "process",
+        "material"
+      ]
+    },
+    {
+      "id": "1a9d9a2a8a27",
+      "title": "SK：與鎧俠共同生產為選項之一、考慮在日設廠",
+      "link": "https://technews.tw/2026/09/02/sk-kioxia-joint-production-japan-plant/",
+      "summary": "旗下擁有半導體大廠 SK 海力士（SK Hynix）的 SK 集團會長表示，與日本 NAND 型快閃記憶體（F [&#8230;]",
+      "date": "2026-09-02T02:15:00+00:00",
+      "sourceId": "technews",
+      "cats": [
+        "market",
+        "process",
+        "material"
+      ]
+    },
+    {
+      "id": "6e4f5f9db8d9",
+      "title": "輝達結盟聯發科引爆 ASIC 行情！三大法人狂掃 566 億，大盤迎戰 46,000 點防線",
+      "link": "https://finance.technews.tw/2026/09/02/nvidia-mediatek-alliance-fuels-asic-boom-institutions-sweep-56-6b-market-targets-46000/",
+      "summary": "1 日台股靠 NVIDIA 入股聯發科利多，三大法人大買 566.4 億元，大盤逆勢收在 46,128.47 [&#8230;]",
+      "date": "2026-09-02T02:00:54+00:00",
+      "sourceId": "technews",
+      "cats": [
+        "market",
+        "process",
+        "material"
+      ]
+    },
+    {
+      "id": "b9e02af37d5f",
+      "title": "亞利桑那州商務代表團為何今年三度訪台？除了半導體還看中什麼？",
+      "link": "https://technews.tw/2026/09/02/arizona-business-delegation-visits-taiwan-for-the-third-time-this-year/",
+      "summary": "隨著台積電在美國亞利桑那州鳳凰城歷史性投資的持續推進，由美國亞利桑那州重要經貿官員與商學領袖組成的代表團於本週 [&#8230;]",
+      "date": "2026-09-02T01:45:12+00:00",
+      "sourceId": "technews",
+      "cats": [
+        "market",
+        "process",
+        "material"
+      ]
+    },
+    {
+      "id": "d50bdb28dc34",
+      "title": "Intel Mac 退場倒數，蘋果已通知開發者可移除支援英特爾",
+      "link": "https://technews.tw/2026/09/02/intel-mac-bye/",
+      "summary": "蘋果逐步結束英特爾（Intel）Mac 時代，現在連 Mac App Store 的開發規範也正式鬆綁；該公司 [&#8230;]",
+      "date": "2026-09-02T01:36:15+00:00",
+      "sourceId": "technews",
+      "cats": [
+        "market",
+        "process",
+        "material"
+      ]
+    },
+    {
+      "id": "949833bb8328",
+      "title": "直擊半導體製程痛點！君帆耐酸鹼、無 VOC 客製元件 SEMICON 亮相",
+      "link": "https://finance.technews.tw/2026/09/02/voc/",
+      "summary": "君帆工業今年參與 SEMICON Taiwan 2026 國際半導體展，聚焦半導體設備特殊製程環境與精密作動需 [&#8230;]",
+      "date": "2026-09-02T01:32:43+00:00",
       "sourceId": "technews",
       "cats": [
         "market",
@@ -110,110 +253,6 @@
         "process",
         "material",
         "equipment"
-      ]
-    },
-    {
-      "id": "bd83f24a1228",
-      "title": "供應鏈成本飆升！高通 9 月起調漲晶片價格，漲幅達雙位數",
-      "link": "https://technews.tw/2026/09/01/qualcomm-raising-chip-prices/",
-      "summary": "晶片大廠高通將自 9 月 1 日起調漲晶片價格，漲幅達雙位數。據外媒報導，高通早在今年 7 月已通知客戶，9 [&#8230;]",
-      "date": "2026-09-01T11:45:25+00:00",
-      "sourceId": "technews",
-      "cats": [
-        "market",
-        "process",
-        "material"
-      ]
-    },
-    {
-      "id": "4b6f9a428b54",
-      "title": "台北街頭都懂高科技，微軟雲端建設總經理：台灣讓自研晶片成真",
-      "link": "https://finance.technews.tw/2026/09/01/alistair-speirs-interview/",
-      "summary": "微軟 1 月推出第二代自研 AI 晶片 Maia 200，採用台積電 3 奈米製程打造。微軟 Azure 全球 [&#8230;]",
-      "date": "2026-09-01T10:40:37+00:00",
-      "sourceId": "technews",
-      "cats": [
-        "market",
-        "process",
-        "material"
-      ]
-    },
-    {
-      "id": "c4959acecb5e",
-      "title": "群創 Chip Last 擬 2027 年下半量產，攻 AI 商機",
-      "link": "https://technews.tw/2026/09/01/innolux-chip-last-mass-production-h2-2027-ai-business-opportunities/",
-      "summary": "面板廠群創今天宣布，憑著大尺寸面板製程、精密加工及量產經驗，繼布局扇出型面板級封裝（FOPLP）晶片優先（Ch [&#8230;]",
-      "date": "2026-09-01T10:20:49+00:00",
-      "sourceId": "technews",
-      "cats": [
-        "market",
-        "process",
-        "material"
-      ]
-    },
-    {
-      "id": "11809583bb1c",
-      "title": "深化台歐合作！侯永清剖析海外建廠挑戰，倡導台灣科學園區模式成解決方案",
-      "link": "https://technews.tw/2026/09/01/hou-yongqing-analyzes-the-challenges-of-building-factories-overseas/",
-      "summary": "隨著全球供應鏈重組，半導體安全已升級為經濟安全層級。在「2026 年歐盟投資論壇」中，包括工研院、台積電、鴻海 [&#8230;]",
-      "date": "2026-09-01T09:40:27+00:00",
-      "sourceId": "technews",
-      "cats": [
-        "market",
-        "process",
-        "material"
-      ]
-    },
-    {
-      "id": "e92dcbb6f2c0",
-      "title": "KV 快取成 AI 推理最大瓶頸！SK 海力士：記憶體角色正往運算延伸",
-      "link": "https://technews.tw/2026/09/01/sk-hynix-semicon-taiwan-2026/",
-      "summary": "SK 海力士資深副總（Senior Vice President）Hoshik Kim 今（1 日）在 SEM [&#8230;]",
-      "date": "2026-09-01T09:21:09+00:00",
-      "sourceId": "technews",
-      "cats": [
-        "market",
-        "process",
-        "material"
-      ]
-    },
-    {
-      "id": "d699949e8cf9",
-      "title": "工會醞釀罷工！台灣美光聲明 10 月公布歷年最高績效獎金",
-      "link": "https://finance.technews.tw/2026/09/01/micron-taiwan-announced-that-it-will-announce-its-highest-performance-bonus-in-history-this-october/",
-      "summary": "受惠全球人工智慧（AI）浪潮與高頻寬記憶體（HBM）需求增加，美光（Micron）近期營收與獲利創下新高。然而 [&#8230;]",
-      "date": "2026-09-01T09:15:08+00:00",
-      "sourceId": "technews",
-      "cats": [
-        "market",
-        "process",
-        "material"
-      ]
-    },
-    {
-      "id": "d8d58ef2296a",
-      "title": "三星提出 CUBE 策略！2028 年推 zNAND-O 樣品、擬拚 zHBM 實現商業化",
-      "link": "https://technews.tw/2026/09/01/samsung-memory-semicon-taiwan-2026/",
-      "summary": "三星電子記憶體產品規劃部門副總裁 Jangseok Choi（崔璋石）於 SEMICON Taiwan 記憶體 [&#8230;]",
-      "date": "2026-09-01T08:22:24+00:00",
-      "sourceId": "technews",
-      "cats": [
-        "market",
-        "process",
-        "material"
-      ]
-    },
-    {
-      "id": "591007e5b699",
-      "title": "受記憶體影響，多家中國手機品牌同步漲價",
-      "link": "https://technews.tw/2026/09/01/chinese-smartphone-brands-increase-prices-memory-impact/",
-      "summary": "受全球記憶體漲價影響，中國多家品牌手機今天集體漲價，包含華為、小米、榮耀，部分機型漲幅在 200 元至 1,0 [&#8230;]",
-      "date": "2026-09-01T07:20:24+00:00",
-      "sourceId": "technews",
-      "cats": [
-        "market",
-        "process",
-        "material"
       ]
     },
     {
