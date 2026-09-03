@@ -1,6 +1,6 @@
 {
-  "updated": "2026-09-02T20:55:41.507842+00:00",
-  "count": 24,
+  "updated": "2026-09-03T00:00:24.068249+00:00",
+  "count": 23,
   "sources": [
     {
       "id": "technews",
@@ -60,6 +60,32 @@
     }
   ],
   "articles": [
+    {
+      "id": "78fd04de15c4",
+      "title": "AI 不只搶電，現在也開始搶錢：日本企業融資成本恐被 AI 推高",
+      "link": "https://finance.technews.tw/2026/09/03/global-bond-markets-put-governments-on-notice-over-fiscal-inflation-risks/",
+      "summary": "人工智慧帶動的算力競賽，競爭焦點正從爭奪晶片，與搶奪電力，進一步延燒至全球資本市場。為了興建超大型資料中心、採 [&#8230;]",
+      "date": "2026-09-03T00:00:02+00:00",
+      "sourceId": "technews",
+      "cats": [
+        "market",
+        "process",
+        "material"
+      ]
+    },
+    {
+      "id": "6c0d9ea1fa0a",
+      "title": "TIER IV 跨足硬體戰略！雙軌布局開源自駕晶片與瑞薩量產方案",
+      "link": "https://technews.tw/2026/09/03/tier-iv-and-renesas-develop-mass-production-solution/",
+      "summary": "自駕軟體開源廠商 TIER IV 宣布兩大硬體重要合作，除了加入日本 JST 計畫，開發並開源專為端到端（E2 [&#8230;]",
+      "date": "2026-09-02T23:00:34+00:00",
+      "sourceId": "technews",
+      "cats": [
+        "market",
+        "process",
+        "material"
+      ]
+    },
     {
       "id": "8b4a193c2590",
       "title": "Mercedes Spinout Athos Closes Its Doors",
@@ -139,9 +165,9 @@
       ]
     },
     {
-      "id": "888b37c6ef69",
+      "id": "f92425751d25",
       "title": "蔡力行指聯發科兩大策略投資都是對台灣的信心，強調台積電產能沒問題",
-      "link": "https://finance.technews.tw/2026/09/02/mediateks-two-major-strategic-investments-both-reflect-its-confidence-in-taiwan/",
+      "link": "https://technews.tw/2026/09/02/mediateks-two-major-strategic-investments-both-reflect-its-confidence-in-taiwan/",
       "summary": "聯發科副董事長暨執行長蔡力行於 SEMI Taiwan 2026 大師論壇後接受媒體聯訪，針對近期備受矚目的策 [&#8230;]",
       "date": "2026-09-02T09:50:26+00:00",
       "sourceId": "technews",
@@ -196,45 +222,6 @@
       "link": "https://finance.technews.tw/2026/09/02/world-fab-forecast/",
       "summary": "銳澤實業今年參與 SEMICON Taiwan 2026 國際半導體展，董事長梁進利表示，為擴大搶進全球化擴建 [&#8230;]",
       "date": "2026-09-02T08:38:33+00:00",
-      "sourceId": "technews",
-      "cats": [
-        "market",
-        "process",
-        "material"
-      ]
-    },
-    {
-      "id": "f9dd12aa57a6",
-      "title": "台灣成半導體關鍵樞紐！TEL 加碼在台投資、擴大徵才",
-      "link": "https://technews.tw/2026/09/02/tel-semicom-taiwan-2026/",
-      "summary": "全球半導體設備大廠東京威力科創（TEL）台灣總裁仲間誠二今（2）日表示，台灣已成為全球半導體產業的重要樞紐，隨 [&#8230;]",
-      "date": "2026-09-02T08:33:23+00:00",
-      "sourceId": "technews",
-      "cats": [
-        "market",
-        "process",
-        "material"
-      ]
-    },
-    {
-      "id": "1f61d33a68aa",
-      "title": "搶次世代高階封裝！東佑達結盟日商駿河攻 AI 矽光子 CPO 光耦合對位設備",
-      "link": "https://finance.technews.tw/2026/09/02/metrology/",
-      "summary": "東佑達自動化今年參與 SEMICON Taiwan 2026 國際半導體展，會中攜手日商駿河精機推進新一代 C [&#8230;]",
-      "date": "2026-09-02T08:08:26+00:00",
-      "sourceId": "technews",
-      "cats": [
-        "market",
-        "process",
-        "material"
-      ]
-    },
-    {
-      "id": "ce7457505a4f",
-      "title": "企業布局 AI 半導體封裝與固態電力轉換發展，搶占 2030 年兆級綠色運算商機",
-      "link": "https://finance.technews.tw/2026/09/02/deploying-ai-semiconductor-packaging-and-solid-state-power-conversion-development/",
-      "summary": "隨著人工智慧（AI）科技強勢崛起，半導體前瞻封裝與電力轉換系統迎接歷史性的技術變革。包括經濟部產業技術司司長郭 [&#8230;]",
-      "date": "2026-09-02T07:30:14+00:00",
       "sourceId": "technews",
       "cats": [
         "market",
