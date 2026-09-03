@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-03T12:45:58.122726+00:00",
+  "updated": "2026-09-03T17:46:24.079993+00:00",
   "count": 16,
   "sources": [
     {
@@ -60,6 +60,32 @@
     }
   ],
   "articles": [
+    {
+      "id": "bd9d143b56f1",
+      "title": "TechWorks Aligns U.K. Semiconductors Under UKSIA Umbrella",
+      "link": "https://www.eetimes.com/techworks-aligns-u-k-semiconductors-under-uksia-umbrella/",
+      "summary": "TechWorks corrals U.K. chip groups under UKSIA as funding surges 65% and 700 execs swarm London. The post TechWorks Aligns U.K. Semiconductors Under UKSIA Umbrella appeared first on EE Times.",
+      "date": "2026-09-03T13:46:01+00:00",
+      "sourceId": "eetimes",
+      "cats": [
+        "process",
+        "material",
+        "equipment"
+      ]
+    },
+    {
+      "id": "48fde496a3f5",
+      "title": "搶攻 AI 先進封裝！K&S 看好混合鍵合、TCB 技術走向「共生」非取代",
+      "link": "https://technews.tw/2026/09/03/kulicke-and-soffa-semicon-taiwan-2026/",
+      "summary": "庫力索法（Kulicke and Soffa，簡稱 K&#38;S）在這次 Semicon Taiwan 展會 [&#8230;]",
+      "date": "2026-09-03T12:56:47+00:00",
+      "sourceId": "technews",
+      "cats": [
+        "market",
+        "process",
+        "material"
+      ]
+    },
     {
       "id": "472c7afa9a39",
       "title": "完成 170 億元在台投資！默克：持續深化在地布局、與台灣夥伴合作",
@@ -126,19 +152,6 @@
       ]
     },
     {
-      "id": "6fb71ec42ee9",
-      "title": "先進晶片背後的「隱藏學問」，綠色製造成另一場競賽",
-      "link": "https://technews.tw/2026/09/03/advanced-chips-hidden-science-green-manufacturing-new-race/",
-      "summary": "一顆先進晶片要順利出廠，背後拚的不只有曝光、蝕刻、沉積等製程技術，水、電、空調甚至廢氣處理同樣缺一不可。隨 A [&#8230;]",
-      "date": "2026-09-03T06:06:45+00:00",
-      "sourceId": "technews",
-      "cats": [
-        "market",
-        "process",
-        "material"
-      ]
-    },
-    {
       "id": "8b4a193c2590",
       "title": "Mercedes Spinout Athos Closes Its Doors",
       "link": "https://www.eetimes.com/mercedes-spinout-athos-closes-its-doors/",
@@ -157,19 +170,6 @@
       "link": "https://www.eetimes.com/from-silos-to-systems-from-data-to-insight/",
       "summary": "The white paper introduces Keysight SOS Enterprise as an AI-ready engineering data and IP management platform designed to help semiconductor and electronics companies centrally manage, govern, and secure design data across global teams. It provides version control, IP traceability, role-based access",
       "date": "2026-09-02T03:41:26+00:00",
-      "sourceId": "eetimes",
-      "cats": [
-        "process",
-        "material",
-        "equipment"
-      ]
-    },
-    {
-      "id": "64fb7082480f",
-      "title": "How AI Is Reshaping the Global Semiconductor Patent Landscape",
-      "link": "https://www.eetimes.com/how-ai-is-reshaping-the-global-semiconductor-patent-landscape/",
-      "summary": "AI is turning chip patents into a geopolitical battle for dominance, from Nvidia’s CUDA moat to China’s filing surge. The post How AI Is Reshaping the Global Semiconductor Patent Landscape appeared first on EE Times.",
-      "date": "2026-09-01T16:32:49+00:00",
       "sourceId": "eetimes",
       "cats": [
         "process",
