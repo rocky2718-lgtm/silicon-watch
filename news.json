@@ -1,6 +1,6 @@
 {
-  "updated": "2026-09-03T00:00:24.068249+00:00",
-  "count": 23,
+  "updated": "2026-09-03T07:06:03.513523+00:00",
+  "count": 15,
   "sources": [
     {
       "id": "technews",
@@ -61,11 +61,11 @@
   ],
   "articles": [
     {
-      "id": "78fd04de15c4",
-      "title": "AI 不只搶電，現在也開始搶錢：日本企業融資成本恐被 AI 推高",
-      "link": "https://finance.technews.tw/2026/09/03/global-bond-markets-put-governments-on-notice-over-fiscal-inflation-risks/",
-      "summary": "人工智慧帶動的算力競賽，競爭焦點正從爭奪晶片，與搶奪電力，進一步延燒至全球資本市場。為了興建超大型資料中心、採 [&#8230;]",
-      "date": "2026-09-03T00:00:02+00:00",
+      "id": "63d0f0ddc738",
+      "title": "搶 AI 算力話語權！希格諾攜 GMI Cloud 部署 72 台 NVIDIA B300 落地",
+      "link": "https://finance.technews.tw/2026/09/03/gmi-cloud-b300/",
+      "summary": "希格諾科技與全球 AI 雲端服務商 GMI Cloud 今日宣布完成策略合作協議簽署，雙方第一階段將在台灣建置 [&#8230;]",
+      "date": "2026-09-03T06:48:47+00:00",
       "sourceId": "technews",
       "cats": [
         "market",
@@ -74,11 +74,37 @@
       ]
     },
     {
-      "id": "6c0d9ea1fa0a",
-      "title": "TIER IV 跨足硬體戰略！雙軌布局開源自駕晶片與瑞薩量產方案",
-      "link": "https://technews.tw/2026/09/03/tier-iv-and-renesas-develop-mass-production-solution/",
-      "summary": "自駕軟體開源廠商 TIER IV 宣布兩大硬體重要合作，除了加入日本 JST 計畫，開發並開源專為端到端（E2 [&#8230;]",
-      "date": "2026-09-02T23:00:34+00:00",
+      "id": "6fb71ec42ee9",
+      "title": "先進晶片背後的「隱藏學問」，綠色製造成另一場競賽",
+      "link": "https://technews.tw/2026/09/03/advanced-chips-hidden-science-green-manufacturing-new-race/",
+      "summary": "一顆先進晶片要順利出廠，背後拚的不只有曝光、蝕刻、沉積等製程技術，水、電、空調甚至廢氣處理同樣缺一不可。隨 A [&#8230;]",
+      "date": "2026-09-03T06:06:45+00:00",
+      "sourceId": "technews",
+      "cats": [
+        "market",
+        "process",
+        "material"
+      ]
+    },
+    {
+      "id": "286a00ca85b7",
+      "title": "晶呈科技「玻璃黑科技」是什麼？扛起 AI 先進封裝和 CPO",
+      "link": "https://technews.tw/2026/09/03/kintron-technology-glass-black-tech-ai-advanced-packaging-cpo/",
+      "summary": "AI 晶片持續朝大型化、高密度封裝發展，高速互連需求同步攀升，玻璃材料正由先進封裝一路延伸至 CPO（共同封裝 [&#8230;]",
+      "date": "2026-09-03T04:37:21+00:00",
+      "sourceId": "technews",
+      "cats": [
+        "market",
+        "process",
+        "material"
+      ]
+    },
+    {
+      "id": "c7b618cf3e2f",
+      "title": "中探針高頻端子打入 AI 伺服器供應！明年半導體製程營收占比衝破 4 成",
+      "link": "https://finance.technews.tw/2026/09/03/clean-sheet-mems/",
+      "summary": "中探針今年參與 SEMICON Taiwan 2026 國際半導體展，總經理馮明欽表示，針對新一代 AI 伺服 [&#8230;]",
+      "date": "2026-09-03T03:45:07+00:00",
       "sourceId": "technews",
       "cats": [
         "market",
@@ -97,136 +123,6 @@
         "process",
         "material",
         "equipment"
-      ]
-    },
-    {
-      "id": "0d0fdc7eb2ba",
-      "title": "蔡力行談台灣 AI 時代獨特價值，彈性、速度、規模並攜手夥伴共創多贏",
-      "link": "https://finance.technews.tw/2026/09/02/mediatek-discusses-the-unique-value-of-taiwan-in-the-ai-%e2%80%8b%e2%80%8bera/",
-      "summary": "在 SEMI Taiwan 2026 大師論壇上，聯發科副董事長暨執行長蔡力行暢談過去三、四十年間台灣在全球科 [&#8230;]",
-      "date": "2026-09-02T10:30:44+00:00",
-      "sourceId": "technews",
-      "cats": [
-        "market",
-        "process",
-        "material"
-      ]
-    },
-    {
-      "id": "f8717cdc087c",
-      "title": "外資精選台灣 100 強榜單出爐，前十大皆為 AI 供應鏈",
-      "link": "https://finance.technews.tw/2026/09/02/taiwan-fini-100/",
-      "summary": "台灣董事學會舉辦的「2026 外資精選台灣 100 強」今天舉行頒獎典禮，台積電蟬聯冠軍，台達電和日月光緊追在 [&#8230;]",
-      "date": "2026-09-02T10:20:18+00:00",
-      "sourceId": "technews",
-      "cats": [
-        "market",
-        "process",
-        "material"
-      ]
-    },
-    {
-      "id": "e45bbe34d4a2",
-      "title": "AI 需求無止境！台積電侯永清親揭全球建廠潮與半導體供應鏈挑戰",
-      "link": "https://finance.technews.tw/2026/09/02/tsmc-reveals-global-factory-construction-boom-and-semiconductor-supply-chain-challenges/",
-      "summary": "在 SEMICON Taiwan 2026 大師論壇上，台積電資深副總經理暨副共同營運長侯永清指出，AI 的發 [&#8230;]",
-      "date": "2026-09-02T10:15:51+00:00",
-      "sourceId": "technews",
-      "cats": [
-        "market",
-        "process",
-        "material"
-      ]
-    },
-    {
-      "id": "d25a4a8fc2c0",
-      "title": "從底層晶片把關資安，Google 升級 Android 數位身分聯盟降低門檻",
-      "link": "https://infosecu.technews.tw/2026/09/02/google-safer-android-digital-identity-protection/",
-      "summary": "Google 持續致力於將 Android 手機打造成更安全的數位身分載具。根據最新消息，Google 已將原 [&#8230;]",
-      "date": "2026-09-02T10:00:31+00:00",
-      "sourceId": "technews",
-      "cats": [
-        "market",
-        "process",
-        "material"
-      ]
-    },
-    {
-      "id": "865e45473044",
-      "title": "台積電侯永清揭 AI 產能兩大挑戰！欣興簡山傑談「載板」成突圍關鍵",
-      "link": "https://finance.technews.tw/2026/09/02/two-major-challenges/",
-      "summary": "SEMICON TAIWAN 今日舉辦大師論壇暨全球生態系高峰會，由日月光半導體執行長吳田玉主持，齊聚台積電資 [&#8230;]",
-      "date": "2026-09-02T09:51:00+00:00",
-      "sourceId": "technews",
-      "cats": [
-        "market",
-        "process",
-        "material"
-      ]
-    },
-    {
-      "id": "f92425751d25",
-      "title": "蔡力行指聯發科兩大策略投資都是對台灣的信心，強調台積電產能沒問題",
-      "link": "https://technews.tw/2026/09/02/mediateks-two-major-strategic-investments-both-reflect-its-confidence-in-taiwan/",
-      "summary": "聯發科副董事長暨執行長蔡力行於 SEMI Taiwan 2026 大師論壇後接受媒體聯訪，針對近期備受矚目的策 [&#8230;]",
-      "date": "2026-09-02T09:50:26+00:00",
-      "sourceId": "technews",
-      "cats": [
-        "market",
-        "process",
-        "material"
-      ]
-    },
-    {
-      "id": "0ed55e8df07e",
-      "title": "博通軟體主管稱 Arm 伺服器要取得市佔至少得花三年，VMware 不必急著支援",
-      "link": "https://technews.tw/2026/09/02/arm-in-the-enterprise-is-at-least-three-years-away-says-broadcom-software-boss/",
-      "summary": "博通（Broadcom）新上任的軟體事業主管維拉加（Ram Velaga）表示，Arm 伺服器要在企業市場取得 [&#8230;]",
-      "date": "2026-09-02T09:50:17+00:00",
-      "sourceId": "technews",
-      "cats": [
-        "market",
-        "process",
-        "material"
-      ]
-    },
-    {
-      "id": "56c8159a215b",
-      "title": "乙太網是 AI 基礎設施最佳技術！博通談 CPO 光源封裝挑戰、兩大光互連路線差異",
-      "link": "https://technews.tw/2026/09/02/broadcom-semicon-taiwan-asad-khamisy/",
-      "summary": "Semicon Taiwan 於今（2 日）盛大開幕，談到乙太網在 AI 基礎設施中的角色，博通資深副總裁暨核 [&#8230;]",
-      "date": "2026-09-02T09:46:43+00:00",
-      "sourceId": "technews",
-      "cats": [
-        "market",
-        "process",
-        "material"
-      ]
-    },
-    {
-      "id": "4349962b96a9",
-      "title": "科林研發看 CPO 瓶頸在「材料」，面板級封裝尺寸長期將走向標準化",
-      "link": "https://technews.tw/2026/09/02/lam-research-semicon-taiwan-2026/",
-      "summary": "AI 帶動先進封裝需求快速升溫，半導體設備大廠科林研發（Lam Research）今（2 日）在 Semico [&#8230;]",
-      "date": "2026-09-02T08:49:29+00:00",
-      "sourceId": "technews",
-      "cats": [
-        "market",
-        "process",
-        "material"
-      ]
-    },
-    {
-      "id": "157f9a222dd4",
-      "title": "銳澤 AI 擴廠在手訂單飆破 30 億元！下半年美日布局營運動能陸續發酵",
-      "link": "https://finance.technews.tw/2026/09/02/world-fab-forecast/",
-      "summary": "銳澤實業今年參與 SEMICON Taiwan 2026 國際半導體展，董事長梁進利表示，為擴大搶進全球化擴建 [&#8230;]",
-      "date": "2026-09-02T08:38:33+00:00",
-      "sourceId": "technews",
-      "cats": [
-        "market",
-        "process",
-        "material"
       ]
     },
     {
