@@ -1,6 +1,6 @@
 {
-  "updated": "2026-09-03T20:54:03.952700+00:00",
-  "count": 16,
+  "updated": "2026-09-03T23:55:43.230757+00:00",
+  "count": 18,
   "sources": [
     {
       "id": "technews",
@@ -60,6 +60,32 @@
     }
   ],
   "articles": [
+    {
+      "id": "2e3013e8ed0d",
+      "title": "淺談 DGX Spark vs. RTX Spark：不同 OS 就等於不同產品嗎？",
+      "link": "https://technews.tw/2026/09/04/dgx-spark-vs-rtx-spark/",
+      "summary": "NVIDIA 近年積極把 AI 算力從資料中心往桌面與個人裝置推進，而 DGX Spark 與 RTX Spa [&#8230;]",
+      "date": "2026-09-03T23:50:07+00:00",
+      "sourceId": "technews",
+      "cats": [
+        "market",
+        "process",
+        "material"
+      ]
+    },
+    {
+      "id": "ae5fb07ec1a2",
+      "title": "AI 頻寬瓶頸內移記憶體：SK 海力士與三星雙路線改寫 HBM 角色",
+      "link": "https://technews.tw/2026/09/04/ai-bandwidth-bottleneck-memory-integration-sk-hynix-samsung-dual-strategies-redefine-hbm-role/",
+      "summary": "SK 海力士與全球研究團隊 8 月 19 日在《Nature Electronics》發表「高效能運算與 AI [&#8230;]",
+      "date": "2026-09-03T23:00:50+00:00",
+      "sourceId": "technews",
+      "cats": [
+        "market",
+        "process",
+        "material"
+      ]
+    },
     {
       "id": "bd9d143b56f1",
       "title": "TechWorks Aligns U.K. Semiconductors Under UKSIA Umbrella",
