@@ -1,6 +1,6 @@
 {
-  "updated": "2026-09-03T07:06:03.513523+00:00",
-  "count": 15,
+  "updated": "2026-09-03T12:45:58.122726+00:00",
+  "count": 16,
   "sources": [
     {
       "id": "technews",
@@ -61,11 +61,63 @@
   ],
   "articles": [
     {
-      "id": "63d0f0ddc738",
-      "title": "搶 AI 算力話語權！希格諾攜 GMI Cloud 部署 72 台 NVIDIA B300 落地",
-      "link": "https://finance.technews.tw/2026/09/03/gmi-cloud-b300/",
-      "summary": "希格諾科技與全球 AI 雲端服務商 GMI Cloud 今日宣布完成策略合作協議簽署，雙方第一階段將在台灣建置 [&#8230;]",
-      "date": "2026-09-03T06:48:47+00:00",
+      "id": "472c7afa9a39",
+      "title": "完成 170 億元在台投資！默克：持續深化在地布局、與台灣夥伴合作",
+      "link": "https://technews.tw/2026/09/03/merck-semicon-taiwan-2026/",
+      "summary": "面對日益複雜的晶片架構，與對系統級效能大幅提升的需求，默克今（3 日）於 SEMICON Taiwan 202 [&#8230;]",
+      "date": "2026-09-03T12:19:13+00:00",
+      "sourceId": "technews",
+      "cats": [
+        "market",
+        "process",
+        "material"
+      ]
+    },
+    {
+      "id": "44b8f7308874",
+      "title": "應材揭先進封裝挑戰：CPO 超怕「熱」，每個元件都有脾氣還會位移",
+      "link": "https://technews.tw/2026/09/03/applied-materials-semicon-taiwan-2026/",
+      "summary": "應用材料（Applied Materials）今（3 日）在 Semicon Taiwan 期間舉辦小型研討會 [&#8230;]",
+      "date": "2026-09-03T09:55:24+00:00",
+      "sourceId": "technews",
+      "cats": [
+        "market",
+        "process",
+        "material"
+      ]
+    },
+    {
+      "id": "d20947d0f8c2",
+      "title": "經長：台廠追加 200 億美元赴美投資，聚焦半導體 AI 伺服器",
+      "link": "https://finance.technews.tw/2026/09/03/minister-taiwanese-firms-add-20-billion-us-investment-semiconductors-ai-servers/",
+      "summary": "美國商務部長盧特尼克（Howard Lutnick）表示，台灣將再宣布加碼投資美國。經濟部長龔明鑫今天表示，盧 [&#8230;]",
+      "date": "2026-09-03T09:30:48+00:00",
+      "sourceId": "technews",
+      "cats": [
+        "market",
+        "process",
+        "material"
+      ]
+    },
+    {
+      "id": "ee169315598b",
+      "title": "記憶體推升 iPhone 18 系列成本，AI 與定價成換機關鍵",
+      "link": "https://technews.tw/2026/09/03/memory-drives-up-iphone-18-series-costs-ai-pricing-key-upgrades/",
+      "summary": "根據 TrendForce 最新手機產業研究指出，蘋果（Apple）自 2026 年起將調整產品發表節奏，拆分 [&#8230;]",
+      "date": "2026-09-03T09:20:40+00:00",
+      "sourceId": "technews",
+      "cats": [
+        "market",
+        "process",
+        "material"
+      ]
+    },
+    {
+      "id": "9ae547cc44eb",
+      "title": "辛耘第二季獲利創單季新高，自製設備與再生晶圓營收首度超越代理",
+      "link": "https://finance.technews.tw/2026/09/03/xinyuns-second-quarter-profit-hit-a-new-quarterly-high/",
+      "summary": "隨著人工智慧（AI）與高效能運算（HPC）應用的爆發，半導體先進製程與先進封裝需求持續噴發，半導體設備大廠辛耘 [&#8230;]",
+      "date": "2026-09-03T09:15:56+00:00",
       "sourceId": "technews",
       "cats": [
         "market",
@@ -79,32 +131,6 @@
       "link": "https://technews.tw/2026/09/03/advanced-chips-hidden-science-green-manufacturing-new-race/",
       "summary": "一顆先進晶片要順利出廠，背後拚的不只有曝光、蝕刻、沉積等製程技術，水、電、空調甚至廢氣處理同樣缺一不可。隨 A [&#8230;]",
       "date": "2026-09-03T06:06:45+00:00",
-      "sourceId": "technews",
-      "cats": [
-        "market",
-        "process",
-        "material"
-      ]
-    },
-    {
-      "id": "286a00ca85b7",
-      "title": "晶呈科技「玻璃黑科技」是什麼？扛起 AI 先進封裝和 CPO",
-      "link": "https://technews.tw/2026/09/03/kintron-technology-glass-black-tech-ai-advanced-packaging-cpo/",
-      "summary": "AI 晶片持續朝大型化、高密度封裝發展，高速互連需求同步攀升，玻璃材料正由先進封裝一路延伸至 CPO（共同封裝 [&#8230;]",
-      "date": "2026-09-03T04:37:21+00:00",
-      "sourceId": "technews",
-      "cats": [
-        "market",
-        "process",
-        "material"
-      ]
-    },
-    {
-      "id": "c7b618cf3e2f",
-      "title": "中探針高頻端子打入 AI 伺服器供應！明年半導體製程營收占比衝破 4 成",
-      "link": "https://finance.technews.tw/2026/09/03/clean-sheet-mems/",
-      "summary": "中探針今年參與 SEMICON Taiwan 2026 國際半導體展，總經理馮明欽表示，針對新一代 AI 伺服 [&#8230;]",
-      "date": "2026-09-03T03:45:07+00:00",
       "sourceId": "technews",
       "cats": [
         "market",
@@ -144,19 +170,6 @@
       "link": "https://www.eetimes.com/how-ai-is-reshaping-the-global-semiconductor-patent-landscape/",
       "summary": "AI is turning chip patents into a geopolitical battle for dominance, from Nvidia’s CUDA moat to China’s filing surge. The post How AI Is Reshaping the Global Semiconductor Patent Landscape appeared first on EE Times.",
       "date": "2026-09-01T16:32:49+00:00",
-      "sourceId": "eetimes",
-      "cats": [
-        "process",
-        "material",
-        "equipment"
-      ]
-    },
-    {
-      "id": "b74a561044c0",
-      "title": "The Future of Cable Testing: Why Intelligent Automation is Replacing Manual Validation",
-      "link": "https://www.eetimes.com/the-future-of-cable-testing-why-intelligent-automation-is-replacing-manual-validation/",
-      "summary": "This whitepaper examines the limitations of manual cable validation processes and explores how automated testing strategies help address common engineering and manufacturing pain points. Topics include improving test repeatability, reducing operator-dependent variability, minimizing setup time, stre",
-      "date": "2026-09-01T14:39:23+00:00",
       "sourceId": "eetimes",
       "cats": [
         "process",
