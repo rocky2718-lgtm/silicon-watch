@@ -1,6 +1,6 @@
 {
-  "updated": "2026-09-04T04:17:14.539398+00:00",
-  "count": 16,
+  "updated": "2026-09-04T11:05:03.047446+00:00",
+  "count": 13,
   "sources": [
     {
       "id": "technews",
@@ -61,11 +61,11 @@
   ],
   "articles": [
     {
-      "id": "fbc72eb7070f",
-      "title": "AI 需求旺  基板大廠 Soitec 上修財測、股價飆",
-      "link": "https://finance.technews.tw/2026/09/04/soitec-raises-guidance-shares-surge/",
-      "summary": "法國半導體材料大廠 Soitec 大幅調升財測，主因受惠於 AI 資料中心對矽光子產品的強勁需求；股價聞訊跳漲 [&#8230;]",
-      "date": "2026-09-04T04:00:42+00:00",
+      "id": "e69d5c672e88",
+      "title": "POCO F9 系列登台，搭載雙晶片、185Hz 螢幕與 Bose 聲學調校",
+      "link": "https://technews.tw/2026/09/04/poco-f9-ultra-pro/",
+      "summary": "POCO 今日在台推出 POCO F9 Ultra 與 POCO F9 Pro 兩款新機，主打雙晶片架構、高更 [&#8230;]",
+      "date": "2026-09-04T08:25:50+00:00",
       "sourceId": "technews",
       "cats": [
         "market",
@@ -74,11 +74,11 @@
       ]
     },
     {
-      "id": "5229a5562c5a",
-      "title": "NAND Flash 需求增長速度前所未見、鎧俠股價飆漲",
-      "link": "https://technews.tw/2026/09/04/nand-flash-demand-unprecedented-kioxia-shares-soar/",
-      "summary": "NAND 型快閃記憶體（Flash Memory）需求增長速度前所未見，鎧俠（Kioxia）舉行技術說明會，介 [&#8230;]",
-      "date": "2026-09-04T03:10:58+00:00",
+      "id": "b6b2b1964c91",
+      "title": "打破韓美三大廠壟斷，長鑫存儲 DRAM 市占首破 10%",
+      "link": "https://technews.tw/2026/09/04/cxmt-hits-10-percent-dram-share/",
+      "summary": "韓國央行最新報告指出，隨著三星電子與 SK 海力士加速擴建國內生產設施，韓國在記憶體晶片領域相對中國的領先優勢 [&#8230;]",
+      "date": "2026-09-04T08:25:45+00:00",
       "sourceId": "technews",
       "cats": [
         "market",
@@ -87,11 +87,11 @@
       ]
     },
     {
-      "id": "46cff0591dc4",
-      "title": "不只懂技術更要扛業績，英特爾廢除 Fellow 頭銜轉向「可量化戰績」",
-      "link": "https://finance.technews.tw/2026/09/04/intel-abolishes-fellow-title/",
-      "summary": "英特爾（Intel）近日證實，將取消沿用 44 年的最高技術榮譽「院士」（Fellow）頭銜，未來旗下頂尖研究 [&#8230;]",
-      "date": "2026-09-04T02:50:39+00:00",
+      "id": "68f30e07c7d7",
+      "title": "記憶體價格飆漲，調研：2026 年全球智慧型手機價格平均上漲 15%",
+      "link": "https://technews.tw/2026/09/04/2026-smartphone-price-increase/",
+      "summary": "據調研機構 Counterpoint Research 最新《全球智慧型手機價格趨勢》研究，受到全球記憶體與零 [&#8230;]",
+      "date": "2026-09-04T07:47:26+00:00",
       "sourceId": "technews",
       "cats": [
         "market",
@@ -100,37 +100,11 @@
       ]
     },
     {
-      "id": "a815bd45a184",
-      "title": "專訪》晶呈科玻璃新事業踩油門，先進製程營收占比拚 9 成",
-      "link": "https://technews.tw/2026/09/04/jck-new-glass-business-accelerates-advanced-process-revenue-90-percent/",
-      "summary": "晶呈科技營運目標從「333」升級至「J39」。董事長陳亞理表示，公司過去以年營收成長 30％、毛利率 3 成、 [&#8230;]",
-      "date": "2026-09-04T02:48:13+00:00",
-      "sourceId": "technews",
-      "cats": [
-        "market",
-        "process",
-        "material"
-      ]
-    },
-    {
-      "id": "192440ebd5df",
-      "title": "搶攻資安商機，首款國產後量子密碼應用處理晶片亮相",
-      "link": "https://infosecu.technews.tw/2026/09/04/secpaas-pqc-chip/",
-      "summary": "因應量子運算快速發展下的密碼資安危機，在數發部數產署指導下，工研院攜手匯智安全科技，完成國內首款支援 3 項 [&#8230;]",
-      "date": "2026-09-04T02:20:16+00:00",
-      "sourceId": "technews",
-      "cats": [
-        "market",
-        "process",
-        "material"
-      ]
-    },
-    {
-      "id": "873240fbb69e",
-      "title": "NVIDIA 斥資 130 億美元收購 Hugging Face，共拓開放模型生態系",
-      "link": "https://finance.technews.tw/2026/09/04/nvidia-to-acquire-hugging-face/",
-      "summary": "經過數週傳聞，NVIDIA 同意以 129.3 億美元正式收購機器學習平台 Hugging Face，持續跨足 [&#8230;]",
-      "date": "2026-09-04T02:09:54+00:00",
+      "id": "fdcbd7a1441f",
+      "title": "杜邦分拆更具優勢！Qnity 靠「大、廣、強」整合策略布局半導體材料",
+      "link": "https://technews.tw/2026/09/04/qnity-2026-semicon-taiwan/",
+      "summary": "自美國百年化工大廠杜邦（Dupont）分拆獨立上市的啟諾迪（Qnity），亦跟進擴大在台產能投資。亞太區總裁陳 [&#8230;]",
+      "date": "2026-09-04T07:43:11+00:00",
       "sourceId": "technews",
       "cats": [
         "market",
@@ -157,19 +131,6 @@
       "link": "https://www.eetimes.com/mercedes-spinout-athos-closes-its-doors/",
       "summary": "The startup was unable to secure the financing required to continue commercialising its chiplet-based technology The post Mercedes Spinout Athos Closes Its Doors appeared first on EE Times.",
       "date": "2026-09-02T17:07:04+00:00",
-      "sourceId": "eetimes",
-      "cats": [
-        "process",
-        "material",
-        "equipment"
-      ]
-    },
-    {
-      "id": "08c26472de6d",
-      "title": "From Silos to Systems, from Data to Insight: Unlocking Organizational Knowledge and Winning in the AI Era with Keysight SOS Enterprise",
-      "link": "https://www.eetimes.com/from-silos-to-systems-from-data-to-insight/",
-      "summary": "The white paper introduces Keysight SOS Enterprise as an AI-ready engineering data and IP management platform designed to help semiconductor and electronics companies centrally manage, govern, and secure design data across global teams. It provides version control, IP traceability, role-based access",
-      "date": "2026-09-02T03:41:26+00:00",
       "sourceId": "eetimes",
       "cats": [
         "process",
