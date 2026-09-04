@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-04T11:05:03.047446+00:00",
+  "updated": "2026-09-04T16:13:21.025479+00:00",
   "count": 13,
   "sources": [
     {
@@ -61,6 +61,32 @@
   ],
   "articles": [
     {
+      "id": "e941ab97f1bc",
+      "title": "華邦電 8 月營收年增一口氣提升 289.43%，前八個月營收也增加逾 177%",
+      "link": "https://finance.technews.tw/2026/09/04/winbond-electronics-august-revenue-surged-289-43-year-on-year/",
+      "summary": "記憶體大廠華邦電公布包含新唐科技等子公司在內的 2026 年 8 月合併營收，金額衝上新台幣 273.09 億 [&#8230;]",
+      "date": "2026-09-04T13:50:56+00:00",
+      "sourceId": "technews",
+      "cats": [
+        "market",
+        "process",
+        "material"
+      ]
+    },
+    {
+      "id": "0c1370dcabb1",
+      "title": "勞資雙方進行首次調解！美光：雖暫無共識但已為後續對話保留空間",
+      "link": "https://finance.technews.tw/2026/09/04/the-labor-and-management-parties-held-their-first-mediation/",
+      "summary": "受惠於全球人工智慧（AI）浪潮與高頻寬記憶體（HBM）需求激增，美光（Micron）近期營收與獲利創下新高。然 [&#8230;]",
+      "date": "2026-09-04T13:15:19+00:00",
+      "sourceId": "technews",
+      "cats": [
+        "market",
+        "process",
+        "material"
+      ]
+    },
+    {
       "id": "e69d5c672e88",
       "title": "POCO F9 系列登台，搭載雙晶片、185Hz 螢幕與 Bose 聲學調校",
       "link": "https://technews.tw/2026/09/04/poco-f9-ultra-pro/",
@@ -79,32 +105,6 @@
       "link": "https://technews.tw/2026/09/04/cxmt-hits-10-percent-dram-share/",
       "summary": "韓國央行最新報告指出，隨著三星電子與 SK 海力士加速擴建國內生產設施，韓國在記憶體晶片領域相對中國的領先優勢 [&#8230;]",
       "date": "2026-09-04T08:25:45+00:00",
-      "sourceId": "technews",
-      "cats": [
-        "market",
-        "process",
-        "material"
-      ]
-    },
-    {
-      "id": "68f30e07c7d7",
-      "title": "記憶體價格飆漲，調研：2026 年全球智慧型手機價格平均上漲 15%",
-      "link": "https://technews.tw/2026/09/04/2026-smartphone-price-increase/",
-      "summary": "據調研機構 Counterpoint Research 最新《全球智慧型手機價格趨勢》研究，受到全球記憶體與零 [&#8230;]",
-      "date": "2026-09-04T07:47:26+00:00",
-      "sourceId": "technews",
-      "cats": [
-        "market",
-        "process",
-        "material"
-      ]
-    },
-    {
-      "id": "fdcbd7a1441f",
-      "title": "杜邦分拆更具優勢！Qnity 靠「大、廣、強」整合策略布局半導體材料",
-      "link": "https://technews.tw/2026/09/04/qnity-2026-semicon-taiwan/",
-      "summary": "自美國百年化工大廠杜邦（Dupont）分拆獨立上市的啟諾迪（Qnity），亦跟進擴大在台產能投資。亞太區總裁陳 [&#8230;]",
-      "date": "2026-09-04T07:43:11+00:00",
       "sourceId": "technews",
       "cats": [
         "market",
