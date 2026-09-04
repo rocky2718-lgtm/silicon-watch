@@ -1,6 +1,6 @@
 {
-  "updated": "2026-09-03T23:55:43.230757+00:00",
-  "count": 18,
+  "updated": "2026-09-04T04:17:14.539398+00:00",
+  "count": 16,
   "sources": [
     {
       "id": "technews",
@@ -61,11 +61,11 @@
   ],
   "articles": [
     {
-      "id": "2e3013e8ed0d",
-      "title": "淺談 DGX Spark vs. RTX Spark：不同 OS 就等於不同產品嗎？",
-      "link": "https://technews.tw/2026/09/04/dgx-spark-vs-rtx-spark/",
-      "summary": "NVIDIA 近年積極把 AI 算力從資料中心往桌面與個人裝置推進，而 DGX Spark 與 RTX Spa [&#8230;]",
-      "date": "2026-09-03T23:50:07+00:00",
+      "id": "fbc72eb7070f",
+      "title": "AI 需求旺  基板大廠 Soitec 上修財測、股價飆",
+      "link": "https://finance.technews.tw/2026/09/04/soitec-raises-guidance-shares-surge/",
+      "summary": "法國半導體材料大廠 Soitec 大幅調升財測，主因受惠於 AI 資料中心對矽光子產品的強勁需求；股價聞訊跳漲 [&#8230;]",
+      "date": "2026-09-04T04:00:42+00:00",
       "sourceId": "technews",
       "cats": [
         "market",
@@ -74,11 +74,63 @@
       ]
     },
     {
-      "id": "ae5fb07ec1a2",
-      "title": "AI 頻寬瓶頸內移記憶體：SK 海力士與三星雙路線改寫 HBM 角色",
-      "link": "https://technews.tw/2026/09/04/ai-bandwidth-bottleneck-memory-integration-sk-hynix-samsung-dual-strategies-redefine-hbm-role/",
-      "summary": "SK 海力士與全球研究團隊 8 月 19 日在《Nature Electronics》發表「高效能運算與 AI [&#8230;]",
-      "date": "2026-09-03T23:00:50+00:00",
+      "id": "5229a5562c5a",
+      "title": "NAND Flash 需求增長速度前所未見、鎧俠股價飆漲",
+      "link": "https://technews.tw/2026/09/04/nand-flash-demand-unprecedented-kioxia-shares-soar/",
+      "summary": "NAND 型快閃記憶體（Flash Memory）需求增長速度前所未見，鎧俠（Kioxia）舉行技術說明會，介 [&#8230;]",
+      "date": "2026-09-04T03:10:58+00:00",
+      "sourceId": "technews",
+      "cats": [
+        "market",
+        "process",
+        "material"
+      ]
+    },
+    {
+      "id": "46cff0591dc4",
+      "title": "不只懂技術更要扛業績，英特爾廢除 Fellow 頭銜轉向「可量化戰績」",
+      "link": "https://finance.technews.tw/2026/09/04/intel-abolishes-fellow-title/",
+      "summary": "英特爾（Intel）近日證實，將取消沿用 44 年的最高技術榮譽「院士」（Fellow）頭銜，未來旗下頂尖研究 [&#8230;]",
+      "date": "2026-09-04T02:50:39+00:00",
+      "sourceId": "technews",
+      "cats": [
+        "market",
+        "process",
+        "material"
+      ]
+    },
+    {
+      "id": "a815bd45a184",
+      "title": "專訪》晶呈科玻璃新事業踩油門，先進製程營收占比拚 9 成",
+      "link": "https://technews.tw/2026/09/04/jck-new-glass-business-accelerates-advanced-process-revenue-90-percent/",
+      "summary": "晶呈科技營運目標從「333」升級至「J39」。董事長陳亞理表示，公司過去以年營收成長 30％、毛利率 3 成、 [&#8230;]",
+      "date": "2026-09-04T02:48:13+00:00",
+      "sourceId": "technews",
+      "cats": [
+        "market",
+        "process",
+        "material"
+      ]
+    },
+    {
+      "id": "192440ebd5df",
+      "title": "搶攻資安商機，首款國產後量子密碼應用處理晶片亮相",
+      "link": "https://infosecu.technews.tw/2026/09/04/secpaas-pqc-chip/",
+      "summary": "因應量子運算快速發展下的密碼資安危機，在數發部數產署指導下，工研院攜手匯智安全科技，完成國內首款支援 3 項 [&#8230;]",
+      "date": "2026-09-04T02:20:16+00:00",
+      "sourceId": "technews",
+      "cats": [
+        "market",
+        "process",
+        "material"
+      ]
+    },
+    {
+      "id": "873240fbb69e",
+      "title": "NVIDIA 斥資 130 億美元收購 Hugging Face，共拓開放模型生態系",
+      "link": "https://finance.technews.tw/2026/09/04/nvidia-to-acquire-hugging-face/",
+      "summary": "經過數週傳聞，NVIDIA 同意以 129.3 億美元正式收購機器學習平台 Hugging Face，持續跨足 [&#8230;]",
+      "date": "2026-09-04T02:09:54+00:00",
       "sourceId": "technews",
       "cats": [
         "market",
@@ -97,84 +149,6 @@
         "process",
         "material",
         "equipment"
-      ]
-    },
-    {
-      "id": "48fde496a3f5",
-      "title": "搶攻 AI 先進封裝！K&S 看好混合鍵合、TCB 技術走向「共生」非取代",
-      "link": "https://technews.tw/2026/09/03/kulicke-and-soffa-semicon-taiwan-2026/",
-      "summary": "庫力索法（Kulicke and Soffa，簡稱 K&#38;S）在這次 Semicon Taiwan 展會 [&#8230;]",
-      "date": "2026-09-03T12:56:47+00:00",
-      "sourceId": "technews",
-      "cats": [
-        "market",
-        "process",
-        "material"
-      ]
-    },
-    {
-      "id": "472c7afa9a39",
-      "title": "完成 170 億元在台投資！默克：持續深化在地布局、與台灣夥伴合作",
-      "link": "https://technews.tw/2026/09/03/merck-semicon-taiwan-2026/",
-      "summary": "面對日益複雜的晶片架構，與對系統級效能大幅提升的需求，默克今（3 日）於 SEMICON Taiwan 202 [&#8230;]",
-      "date": "2026-09-03T12:19:13+00:00",
-      "sourceId": "technews",
-      "cats": [
-        "market",
-        "process",
-        "material"
-      ]
-    },
-    {
-      "id": "44b8f7308874",
-      "title": "應材揭先進封裝挑戰：CPO 超怕「熱」，每個元件都有脾氣還會位移",
-      "link": "https://technews.tw/2026/09/03/applied-materials-semicon-taiwan-2026/",
-      "summary": "應用材料（Applied Materials）今（3 日）在 Semicon Taiwan 期間舉辦小型研討會 [&#8230;]",
-      "date": "2026-09-03T09:55:24+00:00",
-      "sourceId": "technews",
-      "cats": [
-        "market",
-        "process",
-        "material"
-      ]
-    },
-    {
-      "id": "d20947d0f8c2",
-      "title": "經長：台廠追加 200 億美元赴美投資，聚焦半導體 AI 伺服器",
-      "link": "https://finance.technews.tw/2026/09/03/minister-taiwanese-firms-add-20-billion-us-investment-semiconductors-ai-servers/",
-      "summary": "美國商務部長盧特尼克（Howard Lutnick）表示，台灣將再宣布加碼投資美國。經濟部長龔明鑫今天表示，盧 [&#8230;]",
-      "date": "2026-09-03T09:30:48+00:00",
-      "sourceId": "technews",
-      "cats": [
-        "market",
-        "process",
-        "material"
-      ]
-    },
-    {
-      "id": "ee169315598b",
-      "title": "記憶體推升 iPhone 18 系列成本，AI 與定價成換機關鍵",
-      "link": "https://technews.tw/2026/09/03/memory-drives-up-iphone-18-series-costs-ai-pricing-key-upgrades/",
-      "summary": "根據 TrendForce 最新手機產業研究指出，蘋果（Apple）自 2026 年起將調整產品發表節奏，拆分 [&#8230;]",
-      "date": "2026-09-03T09:20:40+00:00",
-      "sourceId": "technews",
-      "cats": [
-        "market",
-        "process",
-        "material"
-      ]
-    },
-    {
-      "id": "9ae547cc44eb",
-      "title": "辛耘第二季獲利創單季新高，自製設備與再生晶圓營收首度超越代理",
-      "link": "https://finance.technews.tw/2026/09/03/xinyuns-second-quarter-profit-hit-a-new-quarterly-high/",
-      "summary": "隨著人工智慧（AI）與高效能運算（HPC）應用的爆發，半導體先進製程與先進封裝需求持續噴發，半導體設備大廠辛耘 [&#8230;]",
-      "date": "2026-09-03T09:15:56+00:00",
-      "sourceId": "technews",
-      "cats": [
-        "market",
-        "process",
-        "material"
       ]
     },
     {
