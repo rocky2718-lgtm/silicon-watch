@@ -1,6 +1,6 @@
 {
-  "updated": "2026-09-05T04:11:09.042202+00:00",
-  "count": 13,
+  "updated": "2026-09-05T10:26:37.118246+00:00",
+  "count": 16,
   "sources": [
     {
       "id": "technews",
@@ -61,6 +61,71 @@
   ],
   "articles": [
     {
+      "id": "f5369f4e7eb2",
+      "title": "解析黃仁勳七大領導魅力，獲得輝達全體員工近乎 99% 壓倒性支持",
+      "link": "https://finance.technews.tw/2026/09/05/analyzing-the-seven-leadership-charisma-of-jensen-huang-of-nvidia/",
+      "summary": "美國知名求職招聘網站 Glassdoor 公布「2026 年最佳 CEO 50 人」名單，輝達（NVIDIA） [&#8230;]",
+      "date": "2026-09-05T08:45:57+00:00",
+      "sourceId": "technews",
+      "cats": [
+        "market",
+        "process",
+        "material"
+      ]
+    },
+    {
+      "id": "f782306bdb52",
+      "title": "AI 熱潮造就新富豪，財顧揭矽谷新貴套現避險的四大節稅招數",
+      "link": "https://finance.technews.tw/2026/09/05/new-wealth-financial-strategies/",
+      "summary": "人工智慧（AI）熱潮持續推升矽谷科技員工身價，但也讓高估值與泡沫疑慮同步加劇。來自 OpenAI、Anthro [&#8230;]",
+      "date": "2026-09-05T07:30:40+00:00",
+      "sourceId": "technews",
+      "cats": [
+        "market",
+        "process",
+        "material"
+      ]
+    },
+    {
+      "id": "ed374c49f8a8",
+      "title": "印度最大代表團抵台，補助加政策吸引台商投資建構全球半導體韌性鏈",
+      "link": "https://finance.technews.tw/2026/09/05/indias-largest-delegation-arrives-in-taiwan/",
+      "summary": "由印度電子資訊部次長 S. Krishnan 率領的印度史上最大規模半導體代表團，隨行包括印度半導體任務（IS [&#8230;]",
+      "date": "2026-09-05T07:00:48+00:00",
+      "sourceId": "technews",
+      "cats": [
+        "market",
+        "process",
+        "material"
+      ]
+    },
+    {
+      "id": "e255f890cb10",
+      "title": "均英精密推自動化終測系統 GTK-SPT1，提升記憶體 DRAM 模組測試無人化",
+      "link": "https://technews.tw/2026/09/05/gentk-gtk-spt1/",
+      "summary": "均英精密推出GTK-SPT1自動化終測系統，提升記憶體模組 DDR4、DDR5 量產階段的終測效率。AI 伺服 [&#8230;]",
+      "date": "2026-09-05T06:00:42+00:00",
+      "sourceId": "technews",
+      "cats": [
+        "market",
+        "process",
+        "material"
+      ]
+    },
+    {
+      "id": "658b39322609",
+      "title": "半導體海外建廠缺它不可！余鉦鋒學徒轉型科技老闆，垚鋐全球佈局營收看旺至 2030 年",
+      "link": "https://finance.technews.tw/2026/09/05/yaohongs-global-expansion-projects-strong-revenue-growth-until-2030/",
+      "summary": "在半導體供應鏈全球化與地緣政治波動的浪潮中，垚鋐系統科技憑藉其在氣體與化學品供應系統「二次配」領域的專業技術， [&#8230;]",
+      "date": "2026-09-05T06:00:17+00:00",
+      "sourceId": "technews",
+      "cats": [
+        "market",
+        "process",
+        "material"
+      ]
+    },
+    {
       "id": "3bfb05521933",
       "title": "晶片愈疊愈熱怎麼辦？德國創浦出手：預告 2028 年將微冷卻結構直接打入 3D 晶片",
       "link": "https://finance.technews.tw/2026/09/05/trumpf/",
@@ -79,32 +144,6 @@
       "link": "https://finance.technews.tw/2026/09/05/micron-will-increase-its-hbm-production-capacity-to-100000-wafers-by-the-end-of-the-year/",
       "summary": "為了縮小與競爭對手的差距，記憶體大廠美光科技（Micron）正全力加碼人工智慧（AI）記憶體的生產。根據韓國媒 [&#8230;]",
       "date": "2026-09-05T01:00:30+00:00",
-      "sourceId": "technews",
-      "cats": [
-        "market",
-        "process",
-        "material"
-      ]
-    },
-    {
-      "id": "e941ab97f1bc",
-      "title": "華邦電 8 月營收年增一口氣提升 289.43%，前八個月營收也增加逾 177%",
-      "link": "https://finance.technews.tw/2026/09/04/winbond-electronics-august-revenue-surged-289-43-year-on-year/",
-      "summary": "記憶體大廠華邦電公布包含新唐科技等子公司在內的 2026 年 8 月合併營收，金額衝上新台幣 273.09 億 [&#8230;]",
-      "date": "2026-09-04T13:50:56+00:00",
-      "sourceId": "technews",
-      "cats": [
-        "market",
-        "process",
-        "material"
-      ]
-    },
-    {
-      "id": "0c1370dcabb1",
-      "title": "勞資雙方進行首次調解！美光：雖暫無共識但已為後續對話保留空間",
-      "link": "https://finance.technews.tw/2026/09/04/the-labor-and-management-parties-held-their-first-mediation/",
-      "summary": "受惠於全球人工智慧（AI）浪潮與高頻寬記憶體（HBM）需求激增，美光（Micron）近期營收與獲利創下新高。然 [&#8230;]",
-      "date": "2026-09-04T13:15:19+00:00",
       "sourceId": "technews",
       "cats": [
         "market",
