@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-04T23:54:33.825232+00:00",
+  "updated": "2026-09-05T04:11:09.042202+00:00",
   "count": 13,
   "sources": [
     {
@@ -61,6 +61,32 @@
   ],
   "articles": [
     {
+      "id": "3bfb05521933",
+      "title": "晶片愈疊愈熱怎麼辦？德國創浦出手：預告 2028 年將微冷卻結構直接打入 3D 晶片",
+      "link": "https://finance.technews.tw/2026/09/05/trumpf/",
+      "summary": "台積電要生產最先進晶片，少不了 ASML（艾司摩爾）的 EUV（極紫外光）曝光機；而在 ASML 的 EUV [&#8230;]",
+      "date": "2026-09-05T01:00:41+00:00",
+      "sourceId": "technews",
+      "cats": [
+        "market",
+        "process",
+        "material"
+      ]
+    },
+    {
+      "id": "eb853d7ecd5a",
+      "title": "美光年底前將 HBM 產能提升至 10 萬片，正進行新加坡與台灣產線擴產動作",
+      "link": "https://finance.technews.tw/2026/09/05/micron-will-increase-its-hbm-production-capacity-to-100000-wafers-by-the-end-of-the-year/",
+      "summary": "為了縮小與競爭對手的差距，記憶體大廠美光科技（Micron）正全力加碼人工智慧（AI）記憶體的生產。根據韓國媒 [&#8230;]",
+      "date": "2026-09-05T01:00:30+00:00",
+      "sourceId": "technews",
+      "cats": [
+        "market",
+        "process",
+        "material"
+      ]
+    },
+    {
       "id": "e941ab97f1bc",
       "title": "華邦電 8 月營收年增一口氣提升 289.43%，前八個月營收也增加逾 177%",
       "link": "https://finance.technews.tw/2026/09/04/winbond-electronics-august-revenue-surged-289-43-year-on-year/",
@@ -79,32 +105,6 @@
       "link": "https://finance.technews.tw/2026/09/04/the-labor-and-management-parties-held-their-first-mediation/",
       "summary": "受惠於全球人工智慧（AI）浪潮與高頻寬記憶體（HBM）需求激增，美光（Micron）近期營收與獲利創下新高。然 [&#8230;]",
       "date": "2026-09-04T13:15:19+00:00",
-      "sourceId": "technews",
-      "cats": [
-        "market",
-        "process",
-        "material"
-      ]
-    },
-    {
-      "id": "e69d5c672e88",
-      "title": "POCO F9 系列登台，搭載雙晶片、185Hz 螢幕與 Bose 聲學調校",
-      "link": "https://technews.tw/2026/09/04/poco-f9-ultra-pro/",
-      "summary": "POCO 今日在台推出 POCO F9 Ultra 與 POCO F9 Pro 兩款新機，主打雙晶片架構、高更 [&#8230;]",
-      "date": "2026-09-04T08:25:50+00:00",
-      "sourceId": "technews",
-      "cats": [
-        "market",
-        "process",
-        "material"
-      ]
-    },
-    {
-      "id": "b6b2b1964c91",
-      "title": "打破韓美三大廠壟斷，長鑫存儲 DRAM 市占首破 10%",
-      "link": "https://technews.tw/2026/09/04/cxmt-hits-10-percent-dram-share/",
-      "summary": "韓國央行最新報告指出，隨著三星電子與 SK 海力士加速擴建國內生產設施，韓國在記憶體晶片領域相對中國的領先優勢 [&#8230;]",
-      "date": "2026-09-04T08:25:45+00:00",
       "sourceId": "technews",
       "cats": [
         "market",
