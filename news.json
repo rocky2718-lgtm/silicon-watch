@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-05T22:01:07.428437+00:00",
+  "updated": "2026-09-06T04:19:08.502427+00:00",
   "count": 17,
   "sources": [
     {
@@ -60,6 +60,32 @@
     }
   ],
   "articles": [
+    {
+      "id": "dbb76269d35a",
+      "title": "Lean3 駕艙機車高雄初登場，中南部買氣超車北部跌破團隊眼鏡",
+      "link": "https://technews.tw/2026/09/06/lean3-debuts-kaohsiung-why-pre-order-demand-stronger-central-southern-taiwan/",
+      "summary": "在高雄登場的 2026 亞灣新創大南方活動現場，「駕艙機車」Lean3 首度以實車現身，不少民眾排隊體驗靜態試 [&#8230;]",
+      "date": "2026-09-06T03:00:59+00:00",
+      "sourceId": "technews",
+      "cats": [
+        "market",
+        "process",
+        "material"
+      ]
+    },
+    {
+      "id": "0e1956e081e3",
+      "title": "欣興董座簡山傑揭 AI 供應鏈隱憂：載板產能告急，攜客戶十度赴日催料",
+      "link": "https://technews.tw/2026/09/06/unimicron-visits-suppliers-more-than-10-times-to-expand-capacity/",
+      "summary": "AI 算力需求狂飆，全球半導體供應鏈的瓶頸正從晶圓製造、先進封裝一路往上游蔓延。欣興新任董事長簡山傑上任後首度 [&#8230;]",
+      "date": "2026-09-06T01:00:38+00:00",
+      "sourceId": "technews",
+      "cats": [
+        "market",
+        "process",
+        "material"
+      ]
+    },
     {
       "id": "5306522f2fa4",
       "title": "聯發科連兩天包場六福村舉行家庭日，韋禮安、戴愛玲陪 2.5 萬員工眷屬同樂",
@@ -131,32 +157,6 @@
       "link": "https://finance.technews.tw/2026/09/05/yaohongs-global-expansion-projects-strong-revenue-growth-until-2030/",
       "summary": "在半導體供應鏈全球化與地緣政治波動的浪潮中，垚鋐系統科技憑藉其在氣體與化學品供應系統「二次配」領域的專業技術， [&#8230;]",
       "date": "2026-09-05T06:00:17+00:00",
-      "sourceId": "technews",
-      "cats": [
-        "market",
-        "process",
-        "material"
-      ]
-    },
-    {
-      "id": "3bfb05521933",
-      "title": "晶片愈疊愈熱怎麼辦？德國創浦出手：預告 2028 年將微冷卻結構直接打入 3D 晶片",
-      "link": "https://finance.technews.tw/2026/09/05/trumpf/",
-      "summary": "台積電要生產最先進晶片，少不了 ASML（艾司摩爾）的 EUV（極紫外光）曝光機；而在 ASML 的 EUV [&#8230;]",
-      "date": "2026-09-05T01:00:41+00:00",
-      "sourceId": "technews",
-      "cats": [
-        "market",
-        "process",
-        "material"
-      ]
-    },
-    {
-      "id": "eb853d7ecd5a",
-      "title": "美光年底前將 HBM 產能提升至 10 萬片，正進行新加坡與台灣產線擴產動作",
-      "link": "https://finance.technews.tw/2026/09/05/micron-will-increase-its-hbm-production-capacity-to-100000-wafers-by-the-end-of-the-year/",
-      "summary": "為了縮小與競爭對手的差距，記憶體大廠美光科技（Micron）正全力加碼人工智慧（AI）記憶體的生產。根據韓國媒 [&#8230;]",
-      "date": "2026-09-05T01:00:30+00:00",
       "sourceId": "technews",
       "cats": [
         "market",
