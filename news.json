@@ -1,6 +1,6 @@
 {
-  "updated": "2026-09-07T12:16:02.257105+00:00",
-  "count": 15,
+  "updated": "2026-09-07T18:41:11.784844+00:00",
+  "count": 16,
   "sources": [
     {
       "id": "technews",
@@ -60,6 +60,32 @@
     }
   ],
   "articles": [
+    {
+      "id": "c939d22c28a3",
+      "title": "Nvidia Acquires HuggingFace for $12.9B",
+      "link": "https://www.eetimes.com/nvidia-acquires-huggingface-for-12-9b/",
+      "summary": "The open-source model hub will be acquired by the world’s biggest compute provider. The post Nvidia Acquires HuggingFace for $12.9B appeared first on EE Times.",
+      "date": "2026-09-07T15:58:00+00:00",
+      "sourceId": "eetimes",
+      "cats": [
+        "process",
+        "material",
+        "equipment"
+      ]
+    },
+    {
+      "id": "813575149bab",
+      "title": "Why Microcooling Will Be a Critical Enabler of Agentic AI",
+      "link": "https://www.eetimes.com/why-microcooling-will-be-a-critical-enabler-of-agentic-ai/",
+      "summary": "Agentic AI won’t thrive on raw compute alone; tiny devices need microcooling to beat heat and sustain intelligence. The post Why Microcooling Will Be a Critical Enabler of Agentic AI appeared first on EE Times.",
+      "date": "2026-09-07T13:19:14+00:00",
+      "sourceId": "eetimes",
+      "cats": [
+        "process",
+        "material",
+        "equipment"
+      ]
+    },
     {
       "id": "2b653e34b706",
       "title": "昇陽半導體8月營收5.05 億元",
@@ -144,19 +170,6 @@
       "link": "https://www.eetimes.com/techworks-aligns-u-k-semiconductors-under-uksia-umbrella/",
       "summary": "TechWorks corrals U.K. chip groups under UKSIA as funding surges 65% and 700 execs swarm London. The post TechWorks Aligns U.K. Semiconductors Under UKSIA Umbrella appeared first on EE Times.",
       "date": "2026-09-03T13:46:01+00:00",
-      "sourceId": "eetimes",
-      "cats": [
-        "process",
-        "material",
-        "equipment"
-      ]
-    },
-    {
-      "id": "8b4a193c2590",
-      "title": "Mercedes Spinout Athos Closes Its Doors",
-      "link": "https://www.eetimes.com/mercedes-spinout-athos-closes-its-doors/",
-      "summary": "The startup was unable to secure the financing required to continue commercialising its chiplet-based technology The post Mercedes Spinout Athos Closes Its Doors appeared first on EE Times.",
-      "date": "2026-09-02T17:07:04+00:00",
       "sourceId": "eetimes",
       "cats": [
         "process",
