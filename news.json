@@ -1,6 +1,6 @@
 {
-  "updated": "2026-09-07T04:18:21.008223+00:00",
-  "count": 17,
+  "updated": "2026-09-07T12:16:02.257105+00:00",
+  "count": 15,
   "sources": [
     {
       "id": "technews",
@@ -61,11 +61,11 @@
   ],
   "articles": [
     {
-      "id": "f7ec52bcaa0d",
-      "title": "阿布達比 AI 公司 G42 尋求美資入主或重組，以突破出口管制確保 AI 晶片供應",
-      "link": "https://finance.technews.tw/2026/09/07/abu-dhabis-g42-weighs-us-ownership-to-safeguard-ai-chip-access/",
-      "summary": "阿布達比人工智慧公司 G42 考慮以企業重組，換取更穩定的先進晶片供應。知情人士透露，公司高層已就美國投資人入 [&#8230;]",
-      "date": "2026-09-07T04:00:47+00:00",
+      "id": "2b653e34b706",
+      "title": "昇陽半導體8月營收5.05 億元",
+      "link": "https://finance.technews.tw/2026/09/07/psi-8028-202608-financial-report/",
+      "summary": "昇陽半導體（8028）今（7）日公布 8 月營收，達 5.05 億元，較 7 月成長 -1.8%，較去年同期成 [&#8230;]",
+      "date": "2026-09-07T10:20:05+00:00",
       "sourceId": "technews",
       "cats": [
         "market",
@@ -74,11 +74,11 @@
       ]
     },
     {
-      "id": "7a4c1063a033",
-      "title": "納入日經 225 成分股  JX 金屬、KOKUSAI 飆漲",
-      "link": "https://finance.technews.tw/2026/09/07/jx-advanced-metals-kokusai-capcom-join-nikkei-225-index/",
-      "summary": "日經 225 指數成分股進行定期調整，剔除 3 檔個股，納入半導體材料商 JX 金屬（JX Advanced [&#8230;]",
-      "date": "2026-09-07T03:20:35+00:00",
+      "id": "7cfd8ccdaaad",
+      "title": "光譜新分析表明水星極缺矽，表面二氧化矽含量僅 37%",
+      "link": "https://technews.tw/2026/09/07/mercury-surface-silicon-dioxide/",
+      "summary": "和以二氧化矽成分為主的地球地殼不同，新研究指出水星表面二氧化矽含量僅 37%，比之前估計低了整整 25%，這也 [&#8230;]",
+      "date": "2026-09-07T10:03:46+00:00",
       "sourceId": "technews",
       "cats": [
         "market",
@@ -87,11 +87,11 @@
       ]
     },
     {
-      "id": "0f90e83cf111",
-      "title": "日本「半導體廠」營收創高  台積電子公司飆增 142 倍",
-      "link": "https://technews.tw/2026/09/07/japan-semiconductor-record-revenue-tsmc-subsidiary-142x-surge/",
-      "summary": "AI 需求加持，帶動日本「半導體相關廠商」營收創高，其中台積電日本子公司 Japan Advanced Sem [&#8230;]",
-      "date": "2026-09-07T02:45:33+00:00",
+      "id": "bb2a0bcc14bb",
+      "title": "封測及測試介面廠 8 月營收創新高，AI 和 HPC 晶片助攻",
+      "link": "https://finance.technews.tw/2026/09/07/osat-test-interface-firms-record-august-revenue-ai-hpc-chips/",
+      "summary": "半導體封測廠及測試介面廠今天陸續公布 8 月營收，力成、京元電子、矽格、穎崴、漢民測試 8 月營收均創單月新高 [&#8230;]",
+      "date": "2026-09-07T10:00:30+00:00",
       "sourceId": "technews",
       "cats": [
         "market",
@@ -100,11 +100,11 @@
       ]
     },
     {
-      "id": "d2ac645dde2f",
-      "title": "AI 引爆晶片荒，IFA 展前示警：今年買手機、遊戲機準備多掏錢",
-      "link": "https://technews.tw/2026/09/07/ai-chips-spark-price-hikes-electronic-products/",
-      "summary": "全球人工智慧（AI）熱潮正使記憶體晶片供應鏈陷入緊繃，並逐漸反映在消費性電子的終端售價上。市場研究機構與產業分 [&#8230;]",
-      "date": "2026-09-07T02:40:54+00:00",
+      "id": "1c30f4311846",
+      "title": "解鎖 3D 堆疊挑戰 HBM 痛點！南亞科旗下補丁科 9/16 以 740 元登興櫃",
+      "link": "https://finance.technews.tw/2026/09/07/processor/",
+      "summary": "南亞科小金雞補丁科技預計 9 月 16 日以每股參考價 740 元登錄興櫃，董事長丁達剛表示，目前 NRE（委 [&#8230;]",
+      "date": "2026-09-07T09:25:00+00:00",
       "sourceId": "technews",
       "cats": [
         "market",
@@ -113,11 +113,11 @@
       ]
     },
     {
-      "id": "db9ab79647c5",
-      "title": "Sandisk、AXT 獲標普青睞納指數  消息揭露前齊飆",
-      "link": "https://finance.technews.tw/2026/09/07/sandisk-axt-sp-index-inclusion-surge-news-disclosure/",
-      "summary": "標普道瓊指數公司（S&#38;P Dow Jones Indices）公布最新季度指數調整，快閃記憶體模組供應 [&#8230;]",
-      "date": "2026-09-07T02:30:01+00:00",
+      "id": "70976f750be3",
+      "title": "矽格8月營收月增2.7%",
+      "link": "https://finance.technews.tw/2026/09/07/sigurd-6257-202608-financial-report/",
+      "summary": "矽格（6257）公布 8 月合併營收 20.69 億元，較上（7）月成長 2.7%，與去年同期相比為年增 28 [&#8230;]",
+      "date": "2026-09-07T09:00:04+00:00",
       "sourceId": "technews",
       "cats": [
         "market",
@@ -126,42 +126,16 @@
       ]
     },
     {
-      "id": "4c769c64ba94",
-      "title": "美中半導體專利戰持續！長江存儲在美控告美光 27 項專利侵權使美光陷入苦戰",
-      "link": "https://technews.tw/2026/09/07/ymtc-sues-micron-for-27-patent-infringements-in-the-us/",
-      "summary": "美國記憶體晶片大廠美光（Micron）正面臨中國長江存儲（YMTC）在美國本土發起的一場極具挑戰性的專利侵權訴 [&#8230;]",
-      "date": "2026-09-07T02:20:00+00:00",
-      "sourceId": "technews",
+      "id": "c23cdf1ee7e2",
+      "title": "Kioxia’s Flash-for-DRAM Initiative Eyes AI Workloads",
+      "link": "https://www.eetimes.com/kioxias-flash-for-dram-initiative-eyes-ai-workloads/",
+      "summary": "The CXL-attached memory expansion uses NAND flash optimized for high-speed processing alongside AI compute devices. The post Kioxia&#8217;s Flash-for-DRAM Initiative Eyes AI Workloads appeared first on EE Times.",
+      "date": "2026-09-07T08:01:30+00:00",
+      "sourceId": "eetimes",
       "cats": [
-        "market",
         "process",
-        "material"
-      ]
-    },
-    {
-      "id": "ac42cdc326b9",
-      "title": "外資狂掃 500 億點火電子股，被動元件與先進封裝族群迎來爆發",
-      "link": "https://finance.technews.tw/2026/09/07/foreign-investors-50-billion-electronics-passive-components-advanced-packaging-boom/",
-      "summary": "台股 4 日多頭全面大反攻，加權指數勁揚 1.51% 收在 46,551 點。外資單日大舉買超 562.1 億 [&#8230;]",
-      "date": "2026-09-07T02:00:29+00:00",
-      "sourceId": "technews",
-      "cats": [
-        "market",
-        "process",
-        "material"
-      ]
-    },
-    {
-      "id": "860a5e43d96e",
-      "title": "台積電矽谷 OIP 論壇召開，串聯矽光子與 3D 先進封裝技術以突破 AI 晶片極限",
-      "link": "https://technews.tw/2026/09/07/tsmc-silicon-valley-oip-forum-held/",
-      "summary": "人工智慧（AI）硬體需求持續發酵，全球半導體代工龍頭台積電於矽谷舉辦年度「開放創新平台（OIP）論壇」。本次論 [&#8230;]",
-      "date": "2026-09-07T02:00:02+00:00",
-      "sourceId": "technews",
-      "cats": [
-        "market",
-        "process",
-        "material"
+        "material",
+        "equipment"
       ]
     },
     {
