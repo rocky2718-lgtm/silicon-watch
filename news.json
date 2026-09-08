@@ -1,6 +1,6 @@
 {
-  "updated": "2026-09-08T16:31:03.388406+00:00",
-  "count": 20,
+  "updated": "2026-09-08T21:02:09.217224+00:00",
+  "count": 22,
   "sources": [
     {
       "id": "technews",
@@ -61,6 +61,19 @@
   ],
   "articles": [
     {
+      "id": "dc33dc5ccd81",
+      "title": "Strategy Paper Urges Canada to Add Semiconductors to AI Strategy",
+      "link": "https://www.eetimes.com/strategy-paper-urges-canada-to-add-semiconductors-to-ai-strategy/",
+      "summary": "Canada’s sovereign AI ambitions will fall short unless procurement, talent, funding, and existing semiconductor strengths are aligned behind domestic hardware capability. The post Strategy Paper Urges Canada to Add Semiconductors to AI Strategy appeared first on EE Times.",
+      "date": "2026-09-08T19:00:00+00:00",
+      "sourceId": "eetimes",
+      "cats": [
+        "process",
+        "material",
+        "equipment"
+      ]
+    },
+    {
       "id": "9497e998c827",
       "title": "The Pragmatic Path to Achieving CRA Compliance and Securing Your Access to the EU Market",
       "link": "https://www.eetimes.com/the-pragmatic-path-to-achieving-cra-compliance-and-securing-your-access-to-the-eu-market/",
@@ -92,6 +105,19 @@
       "link": "https://finance.technews.tw/2026/09/08/asml-breaks-ground-on-its-second-large-scale-industrial-park-to-meet-expansion-needs/",
       "summary": "全球半導體曝光機大廠艾司摩爾（ASML）於 2026 年 9 月 8 日，在荷蘭埃因霍溫的「北智慧港工業園區（ [&#8230;]",
       "date": "2026-09-08T12:15:44+00:00",
+      "sourceId": "technews",
+      "cats": [
+        "market",
+        "process",
+        "material"
+      ]
+    },
+    {
+      "id": "88589d798070",
+      "title": "客戶現階段即可運用 High NA EUV，英特爾和 ASML 已製造超過一百萬片晶圓",
+      "link": "https://finance.technews.tw/2026/09/08/intel-and-asml-have-manufactured-more-than-one-million-wafers/",
+      "summary": "英特爾晶圓代工（Intel Foundry）和ASML迄今已製造超過一百萬片晶圓，協助客戶現階段即可運用Hig [&#8230;]",
+      "date": "2026-09-08T12:00:35+00:00",
       "sourceId": "technews",
       "cats": [
         "market",
