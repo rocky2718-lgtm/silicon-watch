@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-08T11:05:28.908354+00:00",
+  "updated": "2026-09-08T16:31:03.388406+00:00",
   "count": 20,
   "sources": [
     {
@@ -60,6 +60,45 @@
     }
   ],
   "articles": [
+    {
+      "id": "9497e998c827",
+      "title": "The Pragmatic Path to Achieving CRA Compliance and Securing Your Access to the EU Market",
+      "link": "https://www.eetimes.com/the-pragmatic-path-to-achieving-cra-compliance-and-securing-your-access-to-the-eu-market/",
+      "summary": "As the EU Cyber Resilience Act (CRA) approaches, IoT manufacturers face stringent cybersecurity requirements across the entire product lifecycle. MediaTek, together with our strategic partners, invites you to this exclusive webinar to explore how the CRA reshapes the IoT landscape and gain actionabl",
+      "date": "2026-09-08T14:39:23+00:00",
+      "sourceId": "eetimes",
+      "cats": [
+        "process",
+        "material",
+        "equipment"
+      ]
+    },
+    {
+      "id": "2196e378ccb0",
+      "title": "任正非與朱一鳴翻臉！華為因竊取長鑫存儲數據被逮，未來將難拿到折扣價記憶體",
+      "link": "https://finance.technews.tw/2026/09/08/huawei-and-changxin-memory-have-fallen-out/",
+      "summary": "中國半導體業界近期傳出重大商業糾紛，據市場消息指出，中國科技大廠華為與記憶體龍頭長鑫存儲因「數據竊取」疑雲而關 [&#8230;]",
+      "date": "2026-09-08T12:45:41+00:00",
+      "sourceId": "technews",
+      "cats": [
+        "market",
+        "process",
+        "material"
+      ]
+    },
+    {
+      "id": "9db4af778431",
+      "title": "ASML 第二座大型工業園區動土因應擴產需求，預計 2029 年落成啟用",
+      "link": "https://finance.technews.tw/2026/09/08/asml-breaks-ground-on-its-second-large-scale-industrial-park-to-meet-expansion-needs/",
+      "summary": "全球半導體曝光機大廠艾司摩爾（ASML）於 2026 年 9 月 8 日，在荷蘭埃因霍溫的「北智慧港工業園區（ [&#8230;]",
+      "date": "2026-09-08T12:15:44+00:00",
+      "sourceId": "technews",
+      "cats": [
+        "market",
+        "process",
+        "material"
+      ]
+    },
     {
       "id": "b9e6b5447142",
       "title": "旺矽8月營收20.48 億元",
@@ -152,32 +191,6 @@
       ]
     },
     {
-      "id": "97e2ca1706ef",
-      "title": "矽統8月營收月增26.6%",
-      "link": "https://finance.technews.tw/2026/09/08/sis-2363-202608-financial-report/",
-      "summary": "矽統（2363）公布 8 月合併營收 5.12 億元，較上（7）月成長 26.6%，與去年同期相比為年增 81 [&#8230;]",
-      "date": "2026-09-08T08:30:07+00:00",
-      "sourceId": "technews",
-      "cats": [
-        "market",
-        "process",
-        "material"
-      ]
-    },
-    {
-      "id": "c61cacf125c3",
-      "title": "記憶體成本飆升、消費疲軟，印度三星裁近百名主管",
-      "link": "https://technews.tw/2026/09/08/samsung-india-cuts-100-executives-over-memory-cost-surge-weak-demand/",
-      "summary": "由於記憶體成本拉高、消費者需求疲軟、利潤受到擠壓等因素，印度三星分批裁撤電視和家電器部門的員工，並要求 80 [&#8230;]",
-      "date": "2026-09-08T08:20:41+00:00",
-      "sourceId": "technews",
-      "cats": [
-        "market",
-        "process",
-        "material"
-      ]
-    },
-    {
       "id": "c939d22c28a3",
       "title": "Nvidia Acquires HuggingFace for $12.9B",
       "link": "https://www.eetimes.com/nvidia-acquires-huggingface-for-12-9b/",
@@ -209,19 +222,6 @@
       "link": "https://www.eetimes.com/kioxias-flash-for-dram-initiative-eyes-ai-workloads/",
       "summary": "The CXL-attached memory expansion uses NAND flash optimized for high-speed processing alongside AI compute devices. The post Kioxia&#8217;s Flash-for-DRAM Initiative Eyes AI Workloads appeared first on EE Times.",
       "date": "2026-09-07T08:01:30+00:00",
-      "sourceId": "eetimes",
-      "cats": [
-        "process",
-        "material",
-        "equipment"
-      ]
-    },
-    {
-      "id": "bd9d143b56f1",
-      "title": "TechWorks Aligns U.K. Semiconductors Under UKSIA Umbrella",
-      "link": "https://www.eetimes.com/techworks-aligns-u-k-semiconductors-under-uksia-umbrella/",
-      "summary": "TechWorks corrals U.K. chip groups under UKSIA as funding surges 65% and 700 execs swarm London. The post TechWorks Aligns U.K. Semiconductors Under UKSIA Umbrella appeared first on EE Times.",
-      "date": "2026-09-03T13:46:01+00:00",
       "sourceId": "eetimes",
       "cats": [
         "process",
