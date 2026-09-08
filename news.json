@@ -1,6 +1,6 @@
 {
-  "updated": "2026-09-07T22:44:48.676110+00:00",
-  "count": 16,
+  "updated": "2026-09-08T04:18:51.902318+00:00",
+  "count": 19,
   "sources": [
     {
       "id": "technews",
@@ -61,6 +61,110 @@
   ],
   "articles": [
     {
+      "id": "96ecd089c957",
+      "title": "AI 新創 Ineffable 延攬 6 位重量級共同創辦人，劍指超級智慧獲輝達、Google 重金押注",
+      "link": "https://technews.tw/2026/09/08/ai-startup-ineffable-intelligence-recruits-veteran-talent/",
+      "summary": "總部位於倫敦的 AI 新創 Ineffable Intelligence 近期再度擴編核心團隊，宣布一口氣新增 [&#8230;]",
+      "date": "2026-09-08T03:40:09+00:00",
+      "sourceId": "technews",
+      "cats": [
+        "market",
+        "process",
+        "material"
+      ]
+    },
+    {
+      "id": "e3c7cf9b787d",
+      "title": "不顧美國反對，馬來西亞傾向採用華為 AI 晶片打造主權 AI",
+      "link": "https://technews.tw/2026/09/08/malaysia-eyes-huawei-chips-for-ai-project-despite-us-warning/",
+      "summary": "馬來西亞正考慮在主權人工智慧計畫中採用華為技術公司的 AI 晶片。若這項計畫成真，將代表華為在國際 AI 競逐 [&#8230;]",
+      "date": "2026-09-08T03:20:27+00:00",
+      "sourceId": "technews",
+      "cats": [
+        "market",
+        "process",
+        "material"
+      ]
+    },
+    {
+      "id": "2c8657227e05",
+      "title": "AI 有望破解癌症解方，安謀執行長憂晶片短缺拖累研發",
+      "link": "https://technews.tw/2026/09/08/ai-cancer-cures-slowed-by-chip-shortage-says-uks-biggest-tech-boss/",
+      "summary": "英國晶片設計大廠安謀執行長表示，人工智慧（AI）將能找到人類終其一生都無法找到的癌症解方，但礙於各類晶片短缺， [&#8230;]",
+      "date": "2026-09-08T03:15:14+00:00",
+      "sourceId": "technews",
+      "cats": [
+        "market",
+        "process",
+        "material"
+      ]
+    },
+    {
+      "id": "0fba65dce960",
+      "title": "韓央升息、韓國股民恐撤美股？費半緊盯韓圜走勢",
+      "link": "https://finance.technews.tw/2026/09/08/chip-stock-investors-beware-these-charts-could-warn-of-further-weakness-ahead/",
+      "summary": "美國費城半導體指數（SOX）已自 6 月高點回落約 20%，專家認為，投資人除了關注 AI 基本面，也應盯緊美 [&#8230;]",
+      "date": "2026-09-08T02:45:14+00:00",
+      "sourceId": "technews",
+      "cats": [
+        "market",
+        "process",
+        "material"
+      ]
+    },
+    {
+      "id": "a85a22f0eb21",
+      "title": "英矽智能 AI 藥物 rentosertib 意外發現，治肺纖維化同時可能逆轉生理年齡",
+      "link": "https://technews.tw/2026/09/08/study-suggests-ai-generated-drug-could-slow-aging/",
+      "summary": "英矽智能（Insilico Medicine）最新公布的研究顯示，該公司以生成式 AI 設計的候選藥物 ren [&#8230;]",
+      "date": "2026-09-08T02:40:36+00:00",
+      "sourceId": "technews",
+      "cats": [
+        "market",
+        "process",
+        "material"
+      ]
+    },
+    {
+      "id": "4151601f465e",
+      "title": "AI 晶片成最強外交後盾，台灣強打「民主供應鏈」深化美歐日合作",
+      "link": "https://finance.technews.tw/2026/09/08/taiwan-ai-chip-diplomacy/",
+      "summary": "台灣正將其在全球人工智慧（AI）晶片供應鏈中的絕對主導權，轉化為深化國際連結的「晶片外交」籌碼。面對美、歐、日 [&#8230;]",
+      "date": "2026-09-08T02:10:35+00:00",
+      "sourceId": "technews",
+      "cats": [
+        "market",
+        "process",
+        "material"
+      ]
+    },
+    {
+      "id": "b13410ad7407",
+      "title": "類比 IC 工程師 172 萬稱霸高薪榜！半導體月缺 4.7 萬人美加外派創高",
+      "link": "https://finance.technews.tw/2026/09/08/analog-ic/",
+      "summary": "104 人力銀行今日發布《2026 半導體業人才報告書》，半導體每月徵才 4.7 萬人，年增逾 2 成，最新趨 [&#8230;]",
+      "date": "2026-09-08T02:10:21+00:00",
+      "sourceId": "technews",
+      "cats": [
+        "market",
+        "process",
+        "material"
+      ]
+    },
+    {
+      "id": "842b1d90e412",
+      "title": "費半狂飆台積 ADR 暴衝！三大法人豪買千億攻破四萬七，聚焦晶圓代工與 ASIC",
+      "link": "https://finance.technews.tw/2026/09/08/sox-tsmc-adr-surge-institutions-buy-billions-break-47000-focus-wafer-foundry-asic/",
+      "summary": "台股 7 日在三大法人狂掃超過 1,100 億元帶動下，呈現強勢跳空大漲，加權指數狂飆 775 點（+1.67 [&#8230;]",
+      "date": "2026-09-08T02:00:04+00:00",
+      "sourceId": "technews",
+      "cats": [
+        "market",
+        "process",
+        "material"
+      ]
+    },
+    {
       "id": "c939d22c28a3",
       "title": "Nvidia Acquires HuggingFace for $12.9B",
       "link": "https://www.eetimes.com/nvidia-acquires-huggingface-for-12-9b/",
@@ -84,71 +188,6 @@
         "process",
         "material",
         "equipment"
-      ]
-    },
-    {
-      "id": "2b653e34b706",
-      "title": "昇陽半導體8月營收5.05 億元",
-      "link": "https://finance.technews.tw/2026/09/07/psi-8028-202608-financial-report/",
-      "summary": "昇陽半導體（8028）今（7）日公布 8 月營收，達 5.05 億元，較 7 月成長 -1.8%，較去年同期成 [&#8230;]",
-      "date": "2026-09-07T10:20:05+00:00",
-      "sourceId": "technews",
-      "cats": [
-        "market",
-        "process",
-        "material"
-      ]
-    },
-    {
-      "id": "7cfd8ccdaaad",
-      "title": "光譜新分析表明水星極缺矽，表面二氧化矽含量僅 37%",
-      "link": "https://technews.tw/2026/09/07/mercury-surface-silicon-dioxide/",
-      "summary": "和以二氧化矽成分為主的地球地殼不同，新研究指出水星表面二氧化矽含量僅 37%，比之前估計低了整整 25%，這也 [&#8230;]",
-      "date": "2026-09-07T10:03:46+00:00",
-      "sourceId": "technews",
-      "cats": [
-        "market",
-        "process",
-        "material"
-      ]
-    },
-    {
-      "id": "bb2a0bcc14bb",
-      "title": "封測及測試介面廠 8 月營收創新高，AI 和 HPC 晶片助攻",
-      "link": "https://finance.technews.tw/2026/09/07/osat-test-interface-firms-record-august-revenue-ai-hpc-chips/",
-      "summary": "半導體封測廠及測試介面廠今天陸續公布 8 月營收，力成、京元電子、矽格、穎崴、漢民測試 8 月營收均創單月新高 [&#8230;]",
-      "date": "2026-09-07T10:00:30+00:00",
-      "sourceId": "technews",
-      "cats": [
-        "market",
-        "process",
-        "material"
-      ]
-    },
-    {
-      "id": "1c30f4311846",
-      "title": "解鎖 3D 堆疊挑戰 HBM 痛點！南亞科旗下補丁科 9/16 以 740 元登興櫃",
-      "link": "https://finance.technews.tw/2026/09/07/processor/",
-      "summary": "南亞科小金雞補丁科技預計 9 月 16 日以每股參考價 740 元登錄興櫃，董事長丁達剛表示，目前 NRE（委 [&#8230;]",
-      "date": "2026-09-07T09:25:00+00:00",
-      "sourceId": "technews",
-      "cats": [
-        "market",
-        "process",
-        "material"
-      ]
-    },
-    {
-      "id": "70976f750be3",
-      "title": "矽格8月營收月增2.7%",
-      "link": "https://finance.technews.tw/2026/09/07/sigurd-6257-202608-financial-report/",
-      "summary": "矽格（6257）公布 8 月合併營收 20.69 億元，較上（7）月成長 2.7%，與去年同期相比為年增 28 [&#8230;]",
-      "date": "2026-09-07T09:00:04+00:00",
-      "sourceId": "technews",
-      "cats": [
-        "market",
-        "process",
-        "material"
       ]
     },
     {
