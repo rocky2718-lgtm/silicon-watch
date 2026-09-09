@@ -1,6 +1,6 @@
 {
-  "updated": "2026-09-08T21:02:09.217224+00:00",
-  "count": 22,
+  "updated": "2026-09-09T00:00:24.938542+00:00",
+  "count": 24,
   "sources": [
     {
       "id": "technews",
@@ -61,6 +61,45 @@
   ],
   "articles": [
     {
+      "id": "4c043a76aa9a",
+      "title": "High NA EUV》台積電聯手 ASML 開發 12 吋光罩，解決 High NA EUV 曝光減半瓶頸",
+      "link": "https://finance.technews.tw/2026/09/09/tsmc-and-asml-collaborate-to-develop-12-inch-photomasks/",
+      "summary": "半導體業界迎接重大技術變革！為了讓最新一代微影設備能夠順利印製出人工智慧（AI）產業中面積最大的晶片，微影設備 [&#8230;]",
+      "date": "2026-09-08T22:00:46+00:00",
+      "sourceId": "technews",
+      "cats": [
+        "market",
+        "process",
+        "material"
+      ]
+    },
+    {
+      "id": "7f0c27324e1f",
+      "title": "High NA EUV》台積電 2030 年起導入 High-NA EUV 技術，A10 製程預期成首發受矚目",
+      "link": "https://finance.technews.tw/2026/09/09/tsmc-will-begin-implementing-high-na-euv-technology-starting-in-2030/",
+      "summary": "雖然這幾年來，晶圓代工龍頭台積電一直極力避免公開評論其採用高數值孔徑極紫外光（High-NA EUV）顯影技術 [&#8230;]",
+      "date": "2026-09-08T22:00:13+00:00",
+      "sourceId": "technews",
+      "cats": [
+        "market",
+        "process",
+        "material"
+      ]
+    },
+    {
+      "id": "bd038b8851e5",
+      "title": "High NA EUV》台積電攜手 ASML 推進 High-NA EUV，台灣供應鏈完成卡位將進而受惠",
+      "link": "https://finance.technews.tw/2026/09/09/tsmc-and-asml-advance-high-na-euv/",
+      "summary": "隨著全球半導體先進製程持續微縮，高數值孔徑極紫外光（High-NA EUV）微影技術的導入時程已成為產業關鍵風 [&#8230;]",
+      "date": "2026-09-08T22:00:11+00:00",
+      "sourceId": "technews",
+      "cats": [
+        "market",
+        "process",
+        "material"
+      ]
+    },
+    {
       "id": "dc33dc5ccd81",
       "title": "Strategy Paper Urges Canada to Add Semiconductors to AI Strategy",
       "link": "https://www.eetimes.com/strategy-paper-urges-canada-to-add-semiconductors-to-ai-strategy/",
@@ -100,9 +139,9 @@
       ]
     },
     {
-      "id": "9db4af778431",
+      "id": "c9f95249d09e",
       "title": "ASML 第二座大型工業園區動土因應擴產需求，預計 2029 年落成啟用",
-      "link": "https://finance.technews.tw/2026/09/08/asml-breaks-ground-on-its-second-large-scale-industrial-park-to-meet-expansion-needs/",
+      "link": "https://technews.tw/2026/09/08/asml-breaks-ground-on-its-second-large-scale-industrial-park-to-meet-expansion-needs/",
       "summary": "全球半導體曝光機大廠艾司摩爾（ASML）於 2026 年 9 月 8 日，在荷蘭埃因霍溫的「北智慧港工業園區（ [&#8230;]",
       "date": "2026-09-08T12:15:44+00:00",
       "sourceId": "technews",
@@ -196,19 +235,6 @@
       "link": "https://technews.tw/2026/09/08/mic-see-2026-h2-shortage/",
       "summary": "資策會產業情報研究所（MIC）今（8 日）發布資通訊產業趨勢預測，2026 年全球前十大市值業者已由 AI 算 [&#8230;]",
       "date": "2026-09-08T08:57:34+00:00",
-      "sourceId": "technews",
-      "cats": [
-        "market",
-        "process",
-        "material"
-      ]
-    },
-    {
-      "id": "7b9f25dcb66a",
-      "title": "WSJ：長鑫存儲聚焦智慧手機，DRAM 市占率衝上 10%",
-      "link": "https://technews.tw/2026/09/08/cxmt-market-share-climbs/",
-      "summary": "中國記憶體大廠長鑫存儲近日強調，公司加快在高階記憶體市場進展，目前 DRAM 產品需求強勁，也將持續投資下一世 [&#8230;]",
-      "date": "2026-09-08T08:38:43+00:00",
       "sourceId": "technews",
       "cats": [
         "market",
