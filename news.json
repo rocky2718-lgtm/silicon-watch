@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-09T17:45:19.165533+00:00",
+  "updated": "2026-09-09T20:50:47.330890+00:00",
   "count": 13,
   "sources": [
     {
@@ -61,6 +61,19 @@
   ],
   "articles": [
     {
+      "id": "472059dd4bf0",
+      "title": "iPhone 18 Pro、Pro Max 登場，台灣售價漲幅最低 5 千元",
+      "link": "https://technews.tw/2026/09/10/iphone-18-pro-pro-max-price-increase/",
+      "summary": "蘋果稍早正式推出 iPhone 18 Pro、iPhone 18 Pro Max，新機雖然換上 2 奈米 A2 [&#8230;]",
+      "date": "2026-09-09T20:03:42+00:00",
+      "sourceId": "technews",
+      "cats": [
+        "market",
+        "process",
+        "material"
+      ]
+    },
+    {
       "id": "e02076ea5151",
       "title": "日月光投控 8 月營收續創新高，AI 先進封測扮要角",
       "link": "https://finance.technews.tw/2026/09/09/ase-fr-2608/",
@@ -118,19 +131,6 @@
       "link": "https://www.eetimes.com/the-pragmatic-path-to-achieving-cra-compliance-and-securing-your-access-to-the-eu-market/",
       "summary": "As the EU Cyber Resilience Act (CRA) approaches, IoT manufacturers face stringent cybersecurity requirements across the entire product lifecycle. MediaTek, together with our strategic partners, invites you to this exclusive webinar to explore how the CRA reshapes the IoT landscape and gain actionabl",
       "date": "2026-09-08T14:39:23+00:00",
-      "sourceId": "eetimes",
-      "cats": [
-        "process",
-        "material",
-        "equipment"
-      ]
-    },
-    {
-      "id": "c939d22c28a3",
-      "title": "Nvidia Acquires HuggingFace for $12.9B",
-      "link": "https://www.eetimes.com/nvidia-acquires-huggingface-for-12-9b/",
-      "summary": "The open-source model hub will be acquired by the world’s biggest compute provider. The post Nvidia Acquires HuggingFace for $12.9B appeared first on EE Times.",
-      "date": "2026-09-07T15:58:00+00:00",
       "sourceId": "eetimes",
       "cats": [
         "process",
