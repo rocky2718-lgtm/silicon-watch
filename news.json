@@ -1,6 +1,6 @@
 {
-  "updated": "2026-09-09T00:00:24.938542+00:00",
-  "count": 24,
+  "updated": "2026-09-09T07:18:24.525261+00:00",
+  "count": 14,
   "sources": [
     {
       "id": "technews",
@@ -61,11 +61,11 @@
   ],
   "articles": [
     {
-      "id": "4c043a76aa9a",
-      "title": "High NA EUV》台積電聯手 ASML 開發 12 吋光罩，解決 High NA EUV 曝光減半瓶頸",
-      "link": "https://finance.technews.tw/2026/09/09/tsmc-and-asml-collaborate-to-develop-12-inch-photomasks/",
-      "summary": "半導體業界迎接重大技術變革！為了讓最新一代微影設備能夠順利印製出人工智慧（AI）產業中面積最大的晶片，微影設備 [&#8230;]",
-      "date": "2026-09-08T22:00:46+00:00",
+      "id": "8202843cbe4f",
+      "title": "鎧俠 CEO 罕見喊「漲夠了」，憂 NAND 價格飆升反傷市場動能",
+      "link": "https://technews.tw/2026/09/09/kioxia-ceo-declares-nand-prices-have-risen-enough/",
+      "summary": "鎧俠（Kioxia）執行長太田裕雄（Hiroo Ota）近日釋出罕見的降溫訊號，表示 NAND 價格「已經漲得 [&#8230;]",
+      "date": "2026-09-09T06:10:06+00:00",
       "sourceId": "technews",
       "cats": [
         "market",
@@ -74,24 +74,11 @@
       ]
     },
     {
-      "id": "7f0c27324e1f",
-      "title": "High NA EUV》台積電 2030 年起導入 High-NA EUV 技術，A10 製程預期成首發受矚目",
-      "link": "https://finance.technews.tw/2026/09/09/tsmc-will-begin-implementing-high-na-euv-technology-starting-in-2030/",
-      "summary": "雖然這幾年來，晶圓代工龍頭台積電一直極力避免公開評論其採用高數值孔徑極紫外光（High-NA EUV）顯影技術 [&#8230;]",
-      "date": "2026-09-08T22:00:13+00:00",
-      "sourceId": "technews",
-      "cats": [
-        "market",
-        "process",
-        "material"
-      ]
-    },
-    {
-      "id": "bd038b8851e5",
-      "title": "High NA EUV》台積電攜手 ASML 推進 High-NA EUV，台灣供應鏈完成卡位將進而受惠",
-      "link": "https://finance.technews.tw/2026/09/09/tsmc-and-asml-advance-high-na-euv/",
-      "summary": "隨著全球半導體先進製程持續微縮，高數值孔徑極紫外光（High-NA EUV）微影技術的導入時程已成為產業關鍵風 [&#8230;]",
-      "date": "2026-09-08T22:00:11+00:00",
+      "id": "e1fa954f1a34",
+      "title": "和 SK 海力士共同生產？鎧俠：不是那麼容易",
+      "link": "https://technews.tw/2026/09/09/kioxia-sees-low-chances-of-joint-production-with-sk-hynix/",
+      "summary": "旗下擁有半導體大廠 SK 海力士（SK Hynix）的 SK 集團會長日前表示，和日本 NAND 型快閃記憶體 [&#8230;]",
+      "date": "2026-09-09T04:30:36+00:00",
       "sourceId": "technews",
       "cats": [
         "market",
@@ -123,123 +110,6 @@
         "process",
         "material",
         "equipment"
-      ]
-    },
-    {
-      "id": "2196e378ccb0",
-      "title": "任正非與朱一鳴翻臉！華為因竊取長鑫存儲數據被逮，未來將難拿到折扣價記憶體",
-      "link": "https://finance.technews.tw/2026/09/08/huawei-and-changxin-memory-have-fallen-out/",
-      "summary": "中國半導體業界近期傳出重大商業糾紛，據市場消息指出，中國科技大廠華為與記憶體龍頭長鑫存儲因「數據竊取」疑雲而關 [&#8230;]",
-      "date": "2026-09-08T12:45:41+00:00",
-      "sourceId": "technews",
-      "cats": [
-        "market",
-        "process",
-        "material"
-      ]
-    },
-    {
-      "id": "c9f95249d09e",
-      "title": "ASML 第二座大型工業園區動土因應擴產需求，預計 2029 年落成啟用",
-      "link": "https://technews.tw/2026/09/08/asml-breaks-ground-on-its-second-large-scale-industrial-park-to-meet-expansion-needs/",
-      "summary": "全球半導體曝光機大廠艾司摩爾（ASML）於 2026 年 9 月 8 日，在荷蘭埃因霍溫的「北智慧港工業園區（ [&#8230;]",
-      "date": "2026-09-08T12:15:44+00:00",
-      "sourceId": "technews",
-      "cats": [
-        "market",
-        "process",
-        "material"
-      ]
-    },
-    {
-      "id": "88589d798070",
-      "title": "客戶現階段即可運用 High NA EUV，英特爾和 ASML 已製造超過一百萬片晶圓",
-      "link": "https://finance.technews.tw/2026/09/08/intel-and-asml-have-manufactured-more-than-one-million-wafers/",
-      "summary": "英特爾晶圓代工（Intel Foundry）和ASML迄今已製造超過一百萬片晶圓，協助客戶現階段即可運用Hig [&#8230;]",
-      "date": "2026-09-08T12:00:35+00:00",
-      "sourceId": "technews",
-      "cats": [
-        "market",
-        "process",
-        "material"
-      ]
-    },
-    {
-      "id": "b9e6b5447142",
-      "title": "旺矽8月營收20.48 億元",
-      "link": "https://finance.technews.tw/2026/09/08/mpi-6223-202608-financial-report/",
-      "summary": "旺矽（6223）今（8）日公布 8 月營收，達 20.48 億元，較 7 月成長 13.4%，較去年同期成長 [&#8230;]",
-      "date": "2026-09-08T10:20:04+00:00",
-      "sourceId": "technews",
-      "cats": [
-        "market",
-        "process",
-        "material"
-      ]
-    },
-    {
-      "id": "3db0de45c219",
-      "title": "光罩8月營收4.94 億元",
-      "link": "https://finance.technews.tw/2026/09/08/tmc-2338-202608-financial-report/",
-      "summary": "光罩（2338）今（8）日公布 8 月營收，達 4.94 億元，較 7 月成長 -2.2%，較去年同期成長 - [&#8230;]",
-      "date": "2026-09-08T10:10:04+00:00",
-      "sourceId": "technews",
-      "cats": [
-        "market",
-        "process",
-        "material"
-      ]
-    },
-    {
-      "id": "e5b7c5d925e9",
-      "title": "AI 熱潮推升韓國電力需求，路透：需增建 20 座核反應爐",
-      "link": "https://technews.tw/2026/09/08/ai-boom-boosts-south-korea-power-demand-reuters-20-new-nuclear-reactors-needed/",
-      "summary": "韓國氣候能源環境部長金星煥指出，受晶片製造大廠三星電子和 SK 海力士擴大產能及新建人工智慧（AI）資料中心等 [&#8230;]",
-      "date": "2026-09-08T10:00:08+00:00",
-      "sourceId": "technews",
-      "cats": [
-        "market",
-        "process",
-        "material"
-      ]
-    },
-    {
-      "id": "2fa76b4d518b",
-      "title": "長鑫科技：下半年 DRAM 供給緊缺將延續",
-      "link": "https://technews.tw/2026/09/08/cxmt-dram-lack-26h2/",
-      "summary": "全球第四大的中國 DRAM 大廠長鑫科技公司（長鑫存儲）高級副總裁、財務負責人黃丹陽 7 日在業績說明會表示， [&#8230;]",
-      "date": "2026-09-08T09:40:15+00:00",
-      "sourceId": "technews",
-      "cats": [
-        "market",
-        "process",
-        "material"
-      ]
-    },
-    {
-      "id": "43291306232c",
-      "title": "安葆 8 月營收 6.79 億元、年增 67.7%，進入傳統旺季",
-      "link": "https://finance.technews.tw/2026/09/08/ample-august-revenue-679m-up-67-7-h2-peak-season/",
-      "summary": "半導體與 AI 資料中心電力基建需求持續升溫，系統整合廠安葆 8 月營收達 6.79 億元，較去年同期 4.0 [&#8230;]",
-      "date": "2026-09-08T09:35:22+00:00",
-      "sourceId": "technews",
-      "cats": [
-        "market",
-        "process",
-        "material"
-      ]
-    },
-    {
-      "id": "91a67b7d5e16",
-      "title": "零組件供需緊繃至 2028 年！MIC：僅 NAND 明年底緩解，消費型產品恐遭排擠",
-      "link": "https://technews.tw/2026/09/08/mic-see-2026-h2-shortage/",
-      "summary": "資策會產業情報研究所（MIC）今（8 日）發布資通訊產業趨勢預測，2026 年全球前十大市值業者已由 AI 算 [&#8230;]",
-      "date": "2026-09-08T08:57:34+00:00",
-      "sourceId": "technews",
-      "cats": [
-        "market",
-        "process",
-        "material"
       ]
     },
     {
