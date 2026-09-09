@@ -1,6 +1,6 @@
 {
-  "updated": "2026-09-09T07:18:24.525261+00:00",
-  "count": 14,
+  "updated": "2026-09-09T12:54:08.560824+00:00",
+  "count": 13,
   "sources": [
     {
       "id": "technews",
@@ -61,11 +61,11 @@
   ],
   "articles": [
     {
-      "id": "8202843cbe4f",
-      "title": "鎧俠 CEO 罕見喊「漲夠了」，憂 NAND 價格飆升反傷市場動能",
-      "link": "https://technews.tw/2026/09/09/kioxia-ceo-declares-nand-prices-have-risen-enough/",
-      "summary": "鎧俠（Kioxia）執行長太田裕雄（Hiroo Ota）近日釋出罕見的降溫訊號，表示 NAND 價格「已經漲得 [&#8230;]",
-      "date": "2026-09-09T06:10:06+00:00",
+      "id": "e02076ea5151",
+      "title": "日月光投控 8 月營收續創新高，AI 先進封測扮要角",
+      "link": "https://finance.technews.tw/2026/09/09/ase-fr-2608/",
+      "summary": "半導體封測大廠日月光投控今天公布 8 月自結合併營收新台幣 822.47 億元，月增 11.47%、年增 45 [&#8230;]",
+      "date": "2026-09-09T10:30:09+00:00",
       "sourceId": "technews",
       "cats": [
         "market",
@@ -74,11 +74,24 @@
       ]
     },
     {
-      "id": "e1fa954f1a34",
-      "title": "和 SK 海力士共同生產？鎧俠：不是那麼容易",
-      "link": "https://technews.tw/2026/09/09/kioxia-sees-low-chances-of-joint-production-with-sk-hynix/",
-      "summary": "旗下擁有半導體大廠 SK 海力士（SK Hynix）的 SK 集團會長日前表示，和日本 NAND 型快閃記憶體 [&#8230;]",
-      "date": "2026-09-09T04:30:36+00:00",
+      "id": "7312b0f6e51c",
+      "title": "群聯 8 月與前八個月合併營收雙創歷史新高，8 月營收年增高達 377%",
+      "link": "https://finance.technews.tw/2026/09/09/phisons-consolidated-revenue-for-august-and-the-first-eight-months-both-hit-record-highs/",
+      "summary": "NAND 控制晶片暨 AI 應用儲存解決方案整合服務廠商群聯公佈了2026 年 8 月份營運結果，合併營收達新 [&#8230;]",
+      "date": "2026-09-09T09:00:59+00:00",
+      "sourceId": "technews",
+      "cats": [
+        "market",
+        "process",
+        "material"
+      ]
+    },
+    {
+      "id": "f195da973473",
+      "title": "生產 HBM 比 DRAM 難多了！中國長鑫存儲 HBM3 良率最佳僅 30%",
+      "link": "https://technews.tw/2026/09/09/chinas-changxin-memory-technologies-co-ltd-has-the-best-hbm3-yield-rate-at-only-30/",
+      "summary": "市場消息指出，中國記憶體大廠長鑫存儲（CXMT）在高頻寬記憶體（HBM）的生產上正面臨嚴重的良率與封裝挑戰。由 [&#8230;]",
+      "date": "2026-09-09T08:45:58+00:00",
       "sourceId": "technews",
       "cats": [
         "market",
@@ -118,32 +131,6 @@
       "link": "https://www.eetimes.com/nvidia-acquires-huggingface-for-12-9b/",
       "summary": "The open-source model hub will be acquired by the world’s biggest compute provider. The post Nvidia Acquires HuggingFace for $12.9B appeared first on EE Times.",
       "date": "2026-09-07T15:58:00+00:00",
-      "sourceId": "eetimes",
-      "cats": [
-        "process",
-        "material",
-        "equipment"
-      ]
-    },
-    {
-      "id": "813575149bab",
-      "title": "Why Microcooling Will Be a Critical Enabler of Agentic AI",
-      "link": "https://www.eetimes.com/why-microcooling-will-be-a-critical-enabler-of-agentic-ai/",
-      "summary": "Agentic AI won’t thrive on raw compute alone; tiny devices need microcooling to beat heat and sustain intelligence. The post Why Microcooling Will Be a Critical Enabler of Agentic AI appeared first on EE Times.",
-      "date": "2026-09-07T13:19:14+00:00",
-      "sourceId": "eetimes",
-      "cats": [
-        "process",
-        "material",
-        "equipment"
-      ]
-    },
-    {
-      "id": "c23cdf1ee7e2",
-      "title": "Kioxia’s Flash-for-DRAM Initiative Eyes AI Workloads",
-      "link": "https://www.eetimes.com/kioxias-flash-for-dram-initiative-eyes-ai-workloads/",
-      "summary": "The CXL-attached memory expansion uses NAND flash optimized for high-speed processing alongside AI compute devices. The post Kioxia&#8217;s Flash-for-DRAM Initiative Eyes AI Workloads appeared first on EE Times.",
-      "date": "2026-09-07T08:01:30+00:00",
       "sourceId": "eetimes",
       "cats": [
         "process",
