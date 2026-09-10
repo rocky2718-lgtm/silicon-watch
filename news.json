@@ -1,6 +1,6 @@
 {
-  "updated": "2026-09-10T17:38:08.643800+00:00",
-  "count": 16,
+  "updated": "2026-09-10T20:45:42.364372+00:00",
+  "count": 15,
   "sources": [
     {
       "id": "technews",
@@ -162,19 +162,6 @@
         "market",
         "process",
         "material"
-      ]
-    },
-    {
-      "id": "dc33dc5ccd81",
-      "title": "Strategy Paper Urges Canada to Add Semiconductors to AI Strategy",
-      "link": "https://www.eetimes.com/strategy-paper-urges-canada-to-add-semiconductors-to-ai-strategy/",
-      "summary": "Canada’s sovereign AI ambitions will fall short unless procurement, talent, funding, and existing semiconductor strengths are aligned behind domestic hardware capability. The post Strategy Paper Urges Canada to Add Semiconductors to AI Strategy appeared first on EE Times.",
-      "date": "2026-09-08T19:00:00+00:00",
-      "sourceId": "eetimes",
-      "cats": [
-        "process",
-        "material",
-        "equipment"
       ]
     },
     {
