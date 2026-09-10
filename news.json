@@ -1,6 +1,6 @@
 {
-  "updated": "2026-09-10T00:02:27.033438+00:00",
-  "count": 12,
+  "updated": "2026-09-10T07:14:36.316265+00:00",
+  "count": 13,
   "sources": [
     {
       "id": "technews",
@@ -61,11 +61,11 @@
   ],
   "articles": [
     {
-      "id": "a9404a038e19",
-      "title": "2026 年電腦螢幕的市場研究與分析",
-      "link": "https://technews.tw/2026/09/10/2026-computer-monitor-market-research-and-analysis/",
-      "summary": "隨著 2026 下半年記憶體產能短缺與排擠效應持續加劇，這股逆風已進一步向上游延燒，導致影像處理晶片的交付週期 [&#8230;]",
-      "date": "2026-09-09T23:00:24+00:00",
+      "id": "07fd6be374db",
+      "title": "矽力*-KY8月營收24.17 億元",
+      "link": "https://finance.technews.tw/2026/09/10/silergy-6415-202608-financial-report/",
+      "summary": "矽力*-KY（6415）今（10）日公布 8 月營收，達 24.17 億元，較 7 月成長 2.5%，較去年同 [&#8230;]",
+      "date": "2026-09-10T06:50:08+00:00",
       "sourceId": "technews",
       "cats": [
         "market",
@@ -74,11 +74,11 @@
       ]
     },
     {
-      "id": "472059dd4bf0",
-      "title": "iPhone 18 Pro、Pro Max 登場，台灣售價漲幅最低 5 千元",
-      "link": "https://technews.tw/2026/09/10/iphone-18-pro-pro-max-price-increase/",
-      "summary": "蘋果稍早正式推出 iPhone 18 Pro、iPhone 18 Pro Max，新機雖然換上 2 奈米 A2 [&#8230;]",
-      "date": "2026-09-09T20:03:42+00:00",
+      "id": "75c10806cb1c",
+      "title": "日韓記憶體需求旺，晶呈科技 8 月營收 1.3 億元、年增逾 9 成",
+      "link": "https://finance.technews.tw/2026/09/10/japan-korea-memory-demand-boosts-crystalwise-technology-august-revenue-130-million-up-90-percent/",
+      "summary": "晶呈科技公布 2026 年 8 月合併營收 1.30 億元，月增 23.93%、年增 93.12%；累計前 8 [&#8230;]",
+      "date": "2026-09-10T06:40:04+00:00",
       "sourceId": "technews",
       "cats": [
         "market",
@@ -87,11 +87,24 @@
       ]
     },
     {
-      "id": "e02076ea5151",
-      "title": "日月光投控 8 月營收續創新高，AI 先進封測扮要角",
-      "link": "https://finance.technews.tw/2026/09/09/ase-fr-2608/",
-      "summary": "半導體封測大廠日月光投控今天公布 8 月自結合併營收新台幣 822.47 億元，月增 11.47%、年增 45 [&#8230;]",
-      "date": "2026-09-09T10:30:09+00:00",
+      "id": "8b71152d9ad0",
+      "title": "茂矽8月營收1.81 億元",
+      "link": "https://finance.technews.tw/2026/09/10/mvi-2342-202608-financial-report/",
+      "summary": "茂矽（2342）今（10）日公布 8 月營收，達 1.81 億元，較 7 月成長 -1.5%，較去年同期成長 [&#8230;]",
+      "date": "2026-09-10T06:10:07+00:00",
+      "sourceId": "technews",
+      "cats": [
+        "market",
+        "process",
+        "material"
+      ]
+    },
+    {
+      "id": "43ae5402edad",
+      "title": "台積電8月營收5,148.05 億元",
+      "link": "https://finance.technews.tw/2026/09/10/tsmc-2330-202608-financial-report/",
+      "summary": "台積電（2330）今（10）日公布 8 月營收，達 5,148.05 億元，較 7 月成長 10.1%，較去年 [&#8230;]",
+      "date": "2026-09-10T06:10:05+00:00",
       "sourceId": "technews",
       "cats": [
         "market",
