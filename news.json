@@ -1,6 +1,6 @@
 {
-  "updated": "2026-09-10T12:51:52.006668+00:00",
-  "count": 15,
+  "updated": "2026-09-10T17:38:08.643800+00:00",
+  "count": 16,
   "sources": [
     {
       "id": "technews",
@@ -60,6 +60,32 @@
     }
   ],
   "articles": [
+    {
+      "id": "6086a28bc868",
+      "title": "恆星風吹出的宇宙氣泡，哈伯望遠鏡揭開大麥哲倫雲 N44 星雲的誕生祕密",
+      "link": "https://technews.tw/2026/09/10/star-formation-region-in-the-large-magellanic-cloud/",
+      "summary": "美國太空總署哈伯太空望遠鏡近期釋出了大麥哲倫雲內部一片名為 LHA 120-N44（簡稱 N44）星雲的最新影 [&#8230;]",
+      "date": "2026-09-10T13:56:15+00:00",
+      "sourceId": "technews",
+      "cats": [
+        "market",
+        "process",
+        "material"
+      ]
+    },
+    {
+      "id": "fda38c8c138e",
+      "title": "Proven: Actions Technology’s End-to-End Audio Architecture Tames Sound’s “Black Magic”",
+      "link": "https://www.eetimes.com/proven-actions-technologys-end-to-end-audio-architecture-tames-sounds-black-magic/",
+      "summary": "Whether in the mass consumer market or the high-end professional audio segment, sound quality remains the defining factor that separates one product from another. Consumers’ appetite for better audio has never waned. According to Qualcomm&#8217;s 2023 State of Sound report, 73% of consumers prioriti",
+      "date": "2026-09-10T13:00:00+00:00",
+      "sourceId": "eetimes",
+      "cats": [
+        "process",
+        "material",
+        "equipment"
+      ]
+    },
     {
       "id": "dddcab585e02",
       "title": "ADI Snaps Alif Semiconductor to Push AI into Physical Systems",
@@ -144,19 +170,6 @@
       "link": "https://www.eetimes.com/strategy-paper-urges-canada-to-add-semiconductors-to-ai-strategy/",
       "summary": "Canada’s sovereign AI ambitions will fall short unless procurement, talent, funding, and existing semiconductor strengths are aligned behind domestic hardware capability. The post Strategy Paper Urges Canada to Add Semiconductors to AI Strategy appeared first on EE Times.",
       "date": "2026-09-08T19:00:00+00:00",
-      "sourceId": "eetimes",
-      "cats": [
-        "process",
-        "material",
-        "equipment"
-      ]
-    },
-    {
-      "id": "9497e998c827",
-      "title": "The Pragmatic Path to Achieving CRA Compliance and Securing Your Access to the EU Market",
-      "link": "https://www.eetimes.com/the-pragmatic-path-to-achieving-cra-compliance-and-securing-your-access-to-the-eu-market/",
-      "summary": "As the EU Cyber Resilience Act (CRA) approaches, IoT manufacturers face stringent cybersecurity requirements across the entire product lifecycle. MediaTek, together with our strategic partners, invites you to this exclusive webinar to explore how the CRA reshapes the IoT landscape and gain actionabl",
-      "date": "2026-09-08T14:39:23+00:00",
       "sourceId": "eetimes",
       "cats": [
         "process",
