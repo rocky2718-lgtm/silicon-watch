@@ -1,6 +1,6 @@
 {
-  "updated": "2026-09-10T20:45:42.364372+00:00",
-  "count": 15,
+  "updated": "2026-09-10T23:57:50.549364+00:00",
+  "count": 18,
   "sources": [
     {
       "id": "technews",
@@ -60,6 +60,45 @@
     }
   ],
   "articles": [
+    {
+      "id": "b87d904967a9",
+      "title": "變壓器供不應求，士電在手訂單破 600 億元",
+      "link": "https://technews.tw/2026/09/11/transformer-shortage-shidian-orders-exceed-nt60-billion/",
+      "summary": "士林電機受惠台電強韌電網、半導體及 AI 資料中心擴建需求，重電訂單持續升溫。士電昨法說會表示，目前在手訂單已 [&#8230;]",
+      "date": "2026-09-10T23:53:50+00:00",
+      "sourceId": "technews",
+      "cats": [
+        "market",
+        "process",
+        "material"
+      ]
+    },
+    {
+      "id": "7710bc442515",
+      "title": "淺談 NVIDIA PAIR：串聯地端算力成為趨勢",
+      "link": "https://technews.tw/2026/09/11/nvidia-pair/",
+      "summary": "今年 IFA 時 NVIDIA 除了再次強調 RTX Spark Windows PC 將在 10 月上市，另 [&#8230;]",
+      "date": "2026-09-10T23:50:02+00:00",
+      "sourceId": "technews",
+      "cats": [
+        "market",
+        "process",
+        "material"
+      ]
+    },
+    {
+      "id": "0f3560e69d74",
+      "title": "AI 先驅庫茲維爾加入 Subsense，用吸入奈米粒子打造免開顱腦機介面",
+      "link": "https://technews.tw/2026/09/11/ai-visionary-ray-kurzweil-joins-neurotech-startup-subsense-as-product-and-vision-advisor/",
+      "summary": "AI 先驅雷‧庫茲維爾（Ray Kurzweil）宣布加入矽谷新創 Subsense，擔任產品與願景顧問。這家 [&#8230;]",
+      "date": "2026-09-10T23:20:01+00:00",
+      "sourceId": "technews",
+      "cats": [
+        "market",
+        "process",
+        "material"
+      ]
+    },
     {
       "id": "6086a28bc868",
       "title": "恆星風吹出的宇宙氣泡，哈伯望遠鏡揭開大麥哲倫雲 N44 星雲的誕生祕密",
