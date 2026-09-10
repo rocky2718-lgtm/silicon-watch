@@ -1,6 +1,6 @@
 {
-  "updated": "2026-09-09T20:50:47.330890+00:00",
-  "count": 13,
+  "updated": "2026-09-10T00:02:27.033438+00:00",
+  "count": 12,
   "sources": [
     {
       "id": "technews",
@@ -61,6 +61,19 @@
   ],
   "articles": [
     {
+      "id": "a9404a038e19",
+      "title": "2026 年電腦螢幕的市場研究與分析",
+      "link": "https://technews.tw/2026/09/10/2026-computer-monitor-market-research-and-analysis/",
+      "summary": "隨著 2026 下半年記憶體產能短缺與排擠效應持續加劇，這股逆風已進一步向上游延燒，導致影像處理晶片的交付週期 [&#8230;]",
+      "date": "2026-09-09T23:00:24+00:00",
+      "sourceId": "technews",
+      "cats": [
+        "market",
+        "process",
+        "material"
+      ]
+    },
+    {
       "id": "472059dd4bf0",
       "title": "iPhone 18 Pro、Pro Max 登場，台灣售價漲幅最低 5 千元",
       "link": "https://technews.tw/2026/09/10/iphone-18-pro-pro-max-price-increase/",
@@ -79,32 +92,6 @@
       "link": "https://finance.technews.tw/2026/09/09/ase-fr-2608/",
       "summary": "半導體封測大廠日月光投控今天公布 8 月自結合併營收新台幣 822.47 億元，月增 11.47%、年增 45 [&#8230;]",
       "date": "2026-09-09T10:30:09+00:00",
-      "sourceId": "technews",
-      "cats": [
-        "market",
-        "process",
-        "material"
-      ]
-    },
-    {
-      "id": "7312b0f6e51c",
-      "title": "群聯 8 月與前八個月合併營收雙創歷史新高，8 月營收年增高達 377%",
-      "link": "https://finance.technews.tw/2026/09/09/phisons-consolidated-revenue-for-august-and-the-first-eight-months-both-hit-record-highs/",
-      "summary": "NAND 控制晶片暨 AI 應用儲存解決方案整合服務廠商群聯公佈了2026 年 8 月份營運結果，合併營收達新 [&#8230;]",
-      "date": "2026-09-09T09:00:59+00:00",
-      "sourceId": "technews",
-      "cats": [
-        "market",
-        "process",
-        "material"
-      ]
-    },
-    {
-      "id": "f195da973473",
-      "title": "生產 HBM 比 DRAM 難多了！中國長鑫存儲 HBM3 良率最佳僅 30%",
-      "link": "https://technews.tw/2026/09/09/chinas-changxin-memory-technologies-co-ltd-has-the-best-hbm3-yield-rate-at-only-30/",
-      "summary": "市場消息指出，中國記憶體大廠長鑫存儲（CXMT）在高頻寬記憶體（HBM）的生產上正面臨嚴重的良率與封裝挑戰。由 [&#8230;]",
-      "date": "2026-09-09T08:45:58+00:00",
       "sourceId": "technews",
       "cats": [
         "market",
