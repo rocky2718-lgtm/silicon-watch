@@ -1,6 +1,6 @@
 {
-  "updated": "2026-09-10T07:14:36.316265+00:00",
-  "count": 13,
+  "updated": "2026-09-10T12:51:52.006668+00:00",
+  "count": 15,
   "sources": [
     {
       "id": "technews",
@@ -61,11 +61,24 @@
   ],
   "articles": [
     {
-      "id": "07fd6be374db",
-      "title": "矽力*-KY8月營收24.17 億元",
-      "link": "https://finance.technews.tw/2026/09/10/silergy-6415-202608-financial-report/",
-      "summary": "矽力*-KY（6415）今（10）日公布 8 月營收，達 24.17 億元，較 7 月成長 2.5%，較去年同 [&#8230;]",
-      "date": "2026-09-10T06:50:08+00:00",
+      "id": "dddcab585e02",
+      "title": "ADI Snaps Alif Semiconductor to Push AI into Physical Systems",
+      "link": "https://www.eetimes.com/adi-snaps-alif-semiconductor-to-push-ai-into-physical-systems/",
+      "summary": "The $1.35 billion deal marks another edge AI leap of faith, combining analog sensing with low-power AI processors. The post ADI Snaps Alif Semiconductor to Push AI into Physical Systems appeared first on EE Times.",
+      "date": "2026-09-10T11:00:00+00:00",
+      "sourceId": "eetimes",
+      "cats": [
+        "process",
+        "material",
+        "equipment"
+      ]
+    },
+    {
+      "id": "7a8166477c21",
+      "title": "創近 50 個月高點！力積電 8 月營收突破 70 億元大關，年增 76%",
+      "link": "https://technews.tw/2026/09/10/psmc-2026-aug-revenue/",
+      "summary": "晶圓代工大廠力積電今（10 日）公告 8 月合併營收 70.09 億元，月增 5.1%、年增 76.19%，單 [&#8230;]",
+      "date": "2026-09-10T09:46:22+00:00",
       "sourceId": "technews",
       "cats": [
         "market",
@@ -74,11 +87,11 @@
       ]
     },
     {
-      "id": "75c10806cb1c",
-      "title": "日韓記憶體需求旺，晶呈科技 8 月營收 1.3 億元、年增逾 9 成",
-      "link": "https://finance.technews.tw/2026/09/10/japan-korea-memory-demand-boosts-crystalwise-technology-august-revenue-130-million-up-90-percent/",
-      "summary": "晶呈科技公布 2026 年 8 月合併營收 1.30 億元，月增 23.93%、年增 93.12%；累計前 8 [&#8230;]",
-      "date": "2026-09-10T06:40:04+00:00",
+      "id": "0231808909bc",
+      "title": "新天璣處理器發表前先送大禮，聯發科 8 月營收創單月歷史新紀錄",
+      "link": "https://finance.technews.tw/2026/09/10/mediateks-august-revenue-hit-a-new-monthly-record/",
+      "summary": "IC 設計龍頭聯發科技公布2026 年 8 月份合併營收報告，單月營收衝上新台幣 641.83 億 元，月增 [&#8230;]",
+      "date": "2026-09-10T09:30:50+00:00",
       "sourceId": "technews",
       "cats": [
         "market",
@@ -87,11 +100,11 @@
       ]
     },
     {
-      "id": "8b71152d9ad0",
-      "title": "茂矽8月營收1.81 億元",
-      "link": "https://finance.technews.tw/2026/09/10/mvi-2342-202608-financial-report/",
-      "summary": "茂矽（2342）今（10）日公布 8 月營收，達 1.81 億元，較 7 月成長 -1.5%，較去年同期成長 [&#8230;]",
-      "date": "2026-09-10T06:10:07+00:00",
+      "id": "e72ab10c61cc",
+      "title": "聯發科8月營收月增32.4%",
+      "link": "https://finance.technews.tw/2026/09/10/mtk-2454-202608-financial-report/",
+      "summary": "聯發科（2454）公布 8 月合併營收 641.83 億元，較上（7）月成長 32.4%，與去年同期相比為年增 [&#8230;]",
+      "date": "2026-09-10T09:10:05+00:00",
       "sourceId": "technews",
       "cats": [
         "market",
@@ -100,11 +113,24 @@
       ]
     },
     {
-      "id": "43ae5402edad",
-      "title": "台積電8月營收5,148.05 億元",
-      "link": "https://finance.technews.tw/2026/09/10/tsmc-2330-202608-financial-report/",
-      "summary": "台積電（2330）今（10）日公布 8 月營收，達 5,148.05 億元，較 7 月成長 10.1%，較去年 [&#8230;]",
-      "date": "2026-09-10T06:10:05+00:00",
+      "id": "f7cbaa807440",
+      "title": "無畏玻璃基板來勢洶洶！Resonac 揭先進封裝「三大挑戰」：有機基板短期難取代",
+      "link": "https://technews.tw/2026/09/10/resonac-cto-hidenori-abe-interview/",
+      "summary": "隨著先進封裝尺寸不斷放大，也讓材料面臨更多新挑戰。日本電子材料大廠 Resonac 技術長 Hidenori [&#8230;]",
+      "date": "2026-09-10T08:59:36+00:00",
+      "sourceId": "technews",
+      "cats": [
+        "market",
+        "process",
+        "material"
+      ]
+    },
+    {
+      "id": "434f69869540",
+      "title": "ADI 砸 13.5 億美元收購 Alif，補強 Edge AI 市場",
+      "link": "https://technews.tw/2026/09/10/adi-acquires-alif-1-35-billion-strengthening-edge-ai-market/",
+      "summary": "AI 戰場正從資料中心一路走向終端設備。類比晶片大廠亞德諾半導體（ADI）宣布，將以 13.5 億美元現金收購 [&#8230;]",
+      "date": "2026-09-10T08:49:33+00:00",
       "sourceId": "technews",
       "cats": [
         "market",
