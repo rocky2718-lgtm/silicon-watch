@@ -1,6 +1,6 @@
 {
-  "updated": "2026-09-10T23:57:50.549364+00:00",
-  "count": 18,
+  "updated": "2026-09-11T04:26:55.307053+00:00",
+  "count": 16,
   "sources": [
     {
       "id": "technews",
@@ -61,11 +61,11 @@
   ],
   "articles": [
     {
-      "id": "b87d904967a9",
-      "title": "變壓器供不應求，士電在手訂單破 600 億元",
-      "link": "https://technews.tw/2026/09/11/transformer-shortage-shidian-orders-exceed-nt60-billion/",
-      "summary": "士林電機受惠台電強韌電網、半導體及 AI 資料中心擴建需求，重電訂單持續升溫。士電昨法說會表示，目前在手訂單已 [&#8230;]",
-      "date": "2026-09-10T23:53:50+00:00",
+      "id": "e80e6f2545a6",
+      "title": "中國高純度石英獲 DRAM 廠認證，高階石英坩堝仍受制美國",
+      "link": "https://technews.tw/2026/09/11/chinese-quartz-approved-for-china-dram-manufacturing/",
+      "summary": "中國高純度石英（HPQ）生產商江蘇，已經向科林研發、東京威力科創（TEL）等主要半導體設備商供應。根據市場消息 [&#8230;]",
+      "date": "2026-09-11T04:10:53+00:00",
       "sourceId": "technews",
       "cats": [
         "market",
@@ -74,11 +74,11 @@
       ]
     },
     {
-      "id": "7710bc442515",
-      "title": "淺談 NVIDIA PAIR：串聯地端算力成為趨勢",
-      "link": "https://technews.tw/2026/09/11/nvidia-pair/",
-      "summary": "今年 IFA 時 NVIDIA 除了再次強調 RTX Spark Windows PC 將在 10 月上市，另 [&#8230;]",
-      "date": "2026-09-10T23:50:02+00:00",
+      "id": "f9d4a2ea6426",
+      "title": "半導體巨擘 ASML 穩居全球供應鏈核心，解析 EUV 技術與新世代製程布局",
+      "link": "https://finance.technews.tw/2026/09/11/asml-core-semiconductor-industry/",
+      "summary": "荷蘭半導體設備大廠 ASML 再次成為全球晶片產業的矚目焦點。成立於 1984 年、總部設於荷蘭南部維爾德霍芬 [&#8230;]",
+      "date": "2026-09-11T03:00:41+00:00",
       "sourceId": "technews",
       "cats": [
         "market",
@@ -87,11 +87,11 @@
       ]
     },
     {
-      "id": "0f3560e69d74",
-      "title": "AI 先驅庫茲維爾加入 Subsense，用吸入奈米粒子打造免開顱腦機介面",
-      "link": "https://technews.tw/2026/09/11/ai-visionary-ray-kurzweil-joins-neurotech-startup-subsense-as-product-and-vision-advisor/",
-      "summary": "AI 先驅雷‧庫茲維爾（Ray Kurzweil）宣布加入矽谷新創 Subsense，擔任產品與願景顧問。這家 [&#8230;]",
-      "date": "2026-09-10T23:20:01+00:00",
+      "id": "3aff66f3fdb3",
+      "title": "拯救電鍍良率與換液成本！瑞霸獲半導體與載板大廠認證包單",
+      "link": "https://finance.technews.tw/2026/09/11/sn-ag/",
+      "summary": "瑞霸科技半導體化學藥水檢測設備與電化學檢測儀，由志聖旗下代理商樂林科技代理，成功取得國內一線半導體設備大廠及載 [&#8230;]",
+      "date": "2026-09-11T02:21:42+00:00",
       "sourceId": "technews",
       "cats": [
         "market",
@@ -100,11 +100,50 @@
       ]
     },
     {
-      "id": "6086a28bc868",
-      "title": "恆星風吹出的宇宙氣泡，哈伯望遠鏡揭開大麥哲倫雲 N44 星雲的誕生祕密",
-      "link": "https://technews.tw/2026/09/10/star-formation-region-in-the-large-magellanic-cloud/",
-      "summary": "美國太空總署哈伯太空望遠鏡近期釋出了大麥哲倫雲內部一片名為 LHA 120-N44（簡稱 N44）星雲的最新影 [&#8230;]",
-      "date": "2026-09-10T13:56:15+00:00",
+      "id": "2af409c1ebe1",
+      "title": "輝達明年營收拚增 70% 上看 6,800 億美元，黃仁勳揭最大瓶頸：是供應而非需求",
+      "link": "https://finance.technews.tw/2026/09/11/jensen-huang-explains-nvidias-revenue-growth/",
+      "summary": "輝達（Nvidia）執行長黃仁勳 10 日出席「高盛 Communacopia 與科技論壇」時，對外釋出強勁的 [&#8230;]",
+      "date": "2026-09-11T02:10:04+00:00",
+      "sourceId": "technews",
+      "cats": [
+        "market",
+        "process",
+        "material"
+      ]
+    },
+    {
+      "id": "96402b3354c7",
+      "title": "費半跳水衝擊台股力守 4 萬 7 關卡，台積電創高營收力抗空軍",
+      "link": "https://finance.technews.tw/2026/09/11/us-bond-yields-near-5-philly-semi-plunges-tsmc-adr-pressure-tsmc-record-august-revenue-defense/",
+      "summary": "台股 10 日在投信獨撐大局下，加權指數微幅收高 0.16% 至 47,183 點，勉強守住四萬七大關，但三大 [&#8230;]",
+      "date": "2026-09-11T02:00:54+00:00",
+      "sourceId": "technews",
+      "cats": [
+        "market",
+        "process",
+        "material"
+      ]
+    },
+    {
+      "id": "730e640ccc15",
+      "title": "最新》美光獎酬創紀錄！台灣員工每人 100 萬元感謝獎金，初階工程師平均薪資達 340 萬元",
+      "link": "https://finance.technews.tw/2026/09/11/micron-taiwan-employees-each-receive-a-nt1-million-appreciation-bonus/",
+      "summary": "記憶體大廠美光宣布，將向全球逾 6 萬名同仁發放 FY26 獎酬，以肯定公司 2026 年的卓越成果。此次獎酬 [&#8230;]",
+      "date": "2026-09-11T01:37:53+00:00",
+      "sourceId": "technews",
+      "cats": [
+        "market",
+        "process",
+        "material"
+      ]
+    },
+    {
+      "id": "80c7725bba5d",
+      "title": "花旗看好聯電未來四大關鍵引擎成長，力挺買進評等目標價 125 元",
+      "link": "https://finance.technews.tw/2026/09/11/citigroup-is-optimistic-about-umcs-four-key-growth-engines-for-the-future/",
+      "summary": "根據花旗環球證券發布最新研究報告指出，晶圓代工大廠聯電在出席其全球 TMT 會議後，釋出晶圓代工需求顯著回溫的 [&#8230;]",
+      "date": "2026-09-11T01:30:20+00:00",
       "sourceId": "technews",
       "cats": [
         "market",
@@ -136,71 +175,6 @@
         "process",
         "material",
         "equipment"
-      ]
-    },
-    {
-      "id": "7a8166477c21",
-      "title": "創近 50 個月高點！力積電 8 月營收突破 70 億元大關，年增 76%",
-      "link": "https://technews.tw/2026/09/10/psmc-2026-aug-revenue/",
-      "summary": "晶圓代工大廠力積電今（10 日）公告 8 月合併營收 70.09 億元，月增 5.1%、年增 76.19%，單 [&#8230;]",
-      "date": "2026-09-10T09:46:22+00:00",
-      "sourceId": "technews",
-      "cats": [
-        "market",
-        "process",
-        "material"
-      ]
-    },
-    {
-      "id": "0231808909bc",
-      "title": "新天璣處理器發表前先送大禮，聯發科 8 月營收創單月歷史新紀錄",
-      "link": "https://finance.technews.tw/2026/09/10/mediateks-august-revenue-hit-a-new-monthly-record/",
-      "summary": "IC 設計龍頭聯發科技公布2026 年 8 月份合併營收報告，單月營收衝上新台幣 641.83 億 元，月增 [&#8230;]",
-      "date": "2026-09-10T09:30:50+00:00",
-      "sourceId": "technews",
-      "cats": [
-        "market",
-        "process",
-        "material"
-      ]
-    },
-    {
-      "id": "e72ab10c61cc",
-      "title": "聯發科8月營收月增32.4%",
-      "link": "https://finance.technews.tw/2026/09/10/mtk-2454-202608-financial-report/",
-      "summary": "聯發科（2454）公布 8 月合併營收 641.83 億元，較上（7）月成長 32.4%，與去年同期相比為年增 [&#8230;]",
-      "date": "2026-09-10T09:10:05+00:00",
-      "sourceId": "technews",
-      "cats": [
-        "market",
-        "process",
-        "material"
-      ]
-    },
-    {
-      "id": "f7cbaa807440",
-      "title": "無畏玻璃基板來勢洶洶！Resonac 揭先進封裝「三大挑戰」：有機基板短期難取代",
-      "link": "https://technews.tw/2026/09/10/resonac-cto-hidenori-abe-interview/",
-      "summary": "隨著先進封裝尺寸不斷放大，也讓材料面臨更多新挑戰。日本電子材料大廠 Resonac 技術長 Hidenori [&#8230;]",
-      "date": "2026-09-10T08:59:36+00:00",
-      "sourceId": "technews",
-      "cats": [
-        "market",
-        "process",
-        "material"
-      ]
-    },
-    {
-      "id": "434f69869540",
-      "title": "ADI 砸 13.5 億美元收購 Alif，補強 Edge AI 市場",
-      "link": "https://technews.tw/2026/09/10/adi-acquires-alif-1-35-billion-strengthening-edge-ai-market/",
-      "summary": "AI 戰場正從資料中心一路走向終端設備。類比晶片大廠亞德諾半導體（ADI）宣布，將以 13.5 億美元現金收購 [&#8230;]",
-      "date": "2026-09-10T08:49:33+00:00",
-      "sourceId": "technews",
-      "cats": [
-        "market",
-        "process",
-        "material"
       ]
     },
     {
