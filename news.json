@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-11T04:26:55.307053+00:00",
+  "updated": "2026-09-11T11:05:20.861281+00:00",
   "count": 16,
   "sources": [
     {
@@ -61,11 +61,11 @@
   ],
   "articles": [
     {
-      "id": "e80e6f2545a6",
-      "title": "中國高純度石英獲 DRAM 廠認證，高階石英坩堝仍受制美國",
-      "link": "https://technews.tw/2026/09/11/chinese-quartz-approved-for-china-dram-manufacturing/",
-      "summary": "中國高純度石英（HPQ）生產商江蘇，已經向科林研發、東京威力科創（TEL）等主要半導體設備商供應。根據市場消息 [&#8230;]",
-      "date": "2026-09-11T04:10:53+00:00",
+      "id": "981f648f14b9",
+      "title": "傳統斷路器也要升級？800 V 帶動 SiC SSCB 新商機",
+      "link": "https://technews.tw/2026/09/11/traditional-circuit-breakers-upgrade-800v-drives-sic-sscb-opportunities/",
+      "summary": "AI 資料中心朝 800 V 高壓直流供電發展，連斷路器也開始走向半導體化。英飛凌（Infineon）與 So [&#8230;]",
+      "date": "2026-09-11T08:10:31+00:00",
       "sourceId": "technews",
       "cats": [
         "market",
@@ -74,11 +74,11 @@
       ]
     },
     {
-      "id": "f9d4a2ea6426",
-      "title": "半導體巨擘 ASML 穩居全球供應鏈核心，解析 EUV 技術與新世代製程布局",
-      "link": "https://finance.technews.tw/2026/09/11/asml-core-semiconductor-industry/",
-      "summary": "荷蘭半導體設備大廠 ASML 再次成為全球晶片產業的矚目焦點。成立於 1984 年、總部設於荷蘭南部維爾德霍芬 [&#8230;]",
-      "date": "2026-09-11T03:00:41+00:00",
+      "id": "477ef03511ab",
+      "title": "長鑫存儲啟動積極擴產，目標挑戰三星與 SK 海力士 60 萬到 70 萬片月產能",
+      "link": "https://technews.tw/2026/09/11/changxin-memory-initiates-active-capacity-expansion/",
+      "summary": "中國最大 DRAM 製造商長鑫存儲（CXMT）已正式啟動設備投資準備，近期該公司不僅針對新晶圓廠（Fab）設備 [&#8230;]",
+      "date": "2026-09-11T07:45:01+00:00",
       "sourceId": "technews",
       "cats": [
         "market",
@@ -87,11 +87,11 @@
       ]
     },
     {
-      "id": "3aff66f3fdb3",
-      "title": "拯救電鍍良率與換液成本！瑞霸獲半導體與載板大廠認證包單",
-      "link": "https://finance.technews.tw/2026/09/11/sn-ag/",
-      "summary": "瑞霸科技半導體化學藥水檢測設備與電化學檢測儀，由志聖旗下代理商樂林科技代理，成功取得國內一線半導體設備大廠及載 [&#8230;]",
-      "date": "2026-09-11T02:21:42+00:00",
+      "id": "6ee04b3d5120",
+      "title": "d-Matrix 攜手 NVIDIA 採用 NVLink Fusion，加速 Raptor XPU 向 AI 工廠部署",
+      "link": "https://finance.technews.tw/2026/09/11/d-matrix-partners-with-nvidia-to-adopt-nvlink-fusion/",
+      "summary": "人工智慧（AI）推論晶片製造商 d-Matrix 宣布採用 NVIDIA 的 NVLink Fusion 技術 [&#8230;]",
+      "date": "2026-09-11T07:00:17+00:00",
       "sourceId": "technews",
       "cats": [
         "market",
@@ -100,11 +100,11 @@
       ]
     },
     {
-      "id": "2af409c1ebe1",
-      "title": "輝達明年營收拚增 70% 上看 6,800 億美元，黃仁勳揭最大瓶頸：是供應而非需求",
-      "link": "https://finance.technews.tw/2026/09/11/jensen-huang-explains-nvidias-revenue-growth/",
-      "summary": "輝達（Nvidia）執行長黃仁勳 10 日出席「高盛 Communacopia 與科技論壇」時，對外釋出強勁的 [&#8230;]",
-      "date": "2026-09-11T02:10:04+00:00",
+      "id": "084f537d9ad2",
+      "title": "2Q26 全球前十大 IC 設計廠營收年增 73%，AMD 擠進前三名",
+      "link": "https://technews.tw/2026/09/11/top-10-global-ic-design-firms-revenue-73-yoy-2q26-amd-top-three/",
+      "summary": "根據 TrendForce 最新 IC 設計產業研究，隨著 AI 相關應用擴張，GPU、CPU、ASIC、互連 [&#8230;]",
+      "date": "2026-09-11T06:45:35+00:00",
       "sourceId": "technews",
       "cats": [
         "market",
@@ -113,11 +113,11 @@
       ]
     },
     {
-      "id": "96402b3354c7",
-      "title": "費半跳水衝擊台股力守 4 萬 7 關卡，台積電創高營收力抗空軍",
-      "link": "https://finance.technews.tw/2026/09/11/us-bond-yields-near-5-philly-semi-plunges-tsmc-adr-pressure-tsmc-record-august-revenue-defense/",
-      "summary": "台股 10 日在投信獨撐大局下，加權指數微幅收高 0.16% 至 47,183 點，勉強守住四萬七大關，但三大 [&#8230;]",
-      "date": "2026-09-11T02:00:54+00:00",
+      "id": "237fd81c2cbb",
+      "title": "日本 Rapidus 擬進軍太空，預計 2040 年在月球建半導體廠",
+      "link": "https://technews.tw/2026/09/11/rapidus-japan-space-moon-semiconductor-factory-2040/",
+      "summary": "以國產化次世代半導體為目標的日本 Rapidus 公司社長小池淳義，10 日在美國發表演講時透露，公司計劃在 [&#8230;]",
+      "date": "2026-09-11T06:10:50+00:00",
       "sourceId": "technews",
       "cats": [
         "market",
@@ -126,11 +126,11 @@
       ]
     },
     {
-      "id": "730e640ccc15",
-      "title": "最新》美光獎酬創紀錄！台灣員工每人 100 萬元感謝獎金，初階工程師平均薪資達 340 萬元",
-      "link": "https://finance.technews.tw/2026/09/11/micron-taiwan-employees-each-receive-a-nt1-million-appreciation-bonus/",
-      "summary": "記憶體大廠美光宣布，將向全球逾 6 萬名同仁發放 FY26 獎酬，以肯定公司 2026 年的卓越成果。此次獎酬 [&#8230;]",
-      "date": "2026-09-11T01:37:53+00:00",
+      "id": "775808d0bb78",
+      "title": "擁美系 PQC 大單、機器人市場！通寶半導體 8 月營收強彈 579%",
+      "link": "https://finance.technews.tw/2026/09/11/sinchip-pqc/",
+      "summary": "通寶半導體公告 8 月營收達 6,224 萬元，年增 579.28%；累計前 8 月營收達 4.22 億元，年 [&#8230;]",
+      "date": "2026-09-11T06:02:12+00:00",
       "sourceId": "technews",
       "cats": [
         "market",
@@ -139,11 +139,11 @@
       ]
     },
     {
-      "id": "80c7725bba5d",
-      "title": "花旗看好聯電未來四大關鍵引擎成長，力挺買進評等目標價 125 元",
-      "link": "https://finance.technews.tw/2026/09/11/citigroup-is-optimistic-about-umcs-four-key-growth-engines-for-the-future/",
-      "summary": "根據花旗環球證券發布最新研究報告指出，晶圓代工大廠聯電在出席其全球 TMT 會議後，釋出晶圓代工需求顯著回溫的 [&#8230;]",
-      "date": "2026-09-11T01:30:20+00:00",
+      "id": "24492e522b28",
+      "title": "全球首創「多器官晶片」問世：重現腫瘤擴散、加速抗癌新藥開發",
+      "link": "https://technews.tw/2026/09/11/chip-reveals-cancer-cells-spread/",
+      "summary": "癌症致死的主因往往不是原發腫瘤，而是癌細胞隨血液擴散至遠端器官的「轉移」過程，這導致了至少三分之二的癌症死亡案 [&#8230;]",
+      "date": "2026-09-11T05:00:38+00:00",
       "sourceId": "technews",
       "cats": [
         "market",
