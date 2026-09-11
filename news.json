@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-11T11:05:20.861281+00:00",
+  "updated": "2026-09-11T16:20:48.503897+00:00",
   "count": 16,
   "sources": [
     {
@@ -60,6 +60,19 @@
     }
   ],
   "articles": [
+    {
+      "id": "85a63f845260",
+      "title": "Should Standards Trump Innovation?",
+      "link": "https://www.eetimes.com/should-standards-trump-innovation/",
+      "summary": "Standards shouldn’t muzzle RFID’s next leap: Gen2X keeps Gen2 compatibility while boosting range, speed, and reliability. The post Should Standards Trump Innovation? appeared first on EE Times.",
+      "date": "2026-09-11T13:52:31+00:00",
+      "sourceId": "eetimes",
+      "cats": [
+        "process",
+        "material",
+        "equipment"
+      ]
+    },
     {
       "id": "981f648f14b9",
       "title": "傳統斷路器也要升級？800 V 帶動 SiC SSCB 新商機",
@@ -131,19 +144,6 @@
       "link": "https://finance.technews.tw/2026/09/11/sinchip-pqc/",
       "summary": "通寶半導體公告 8 月營收達 6,224 萬元，年增 579.28%；累計前 8 月營收達 4.22 億元，年 [&#8230;]",
       "date": "2026-09-11T06:02:12+00:00",
-      "sourceId": "technews",
-      "cats": [
-        "market",
-        "process",
-        "material"
-      ]
-    },
-    {
-      "id": "24492e522b28",
-      "title": "全球首創「多器官晶片」問世：重現腫瘤擴散、加速抗癌新藥開發",
-      "link": "https://technews.tw/2026/09/11/chip-reveals-cancer-cells-spread/",
-      "summary": "癌症致死的主因往往不是原發腫瘤，而是癌細胞隨血液擴散至遠端器官的「轉移」過程，這導致了至少三分之二的癌症死亡案 [&#8230;]",
-      "date": "2026-09-11T05:00:38+00:00",
       "sourceId": "technews",
       "cats": [
         "market",
