@@ -1,6 +1,6 @@
 {
-  "updated": "2026-09-11T20:52:00.711600+00:00",
-  "count": 16,
+  "updated": "2026-09-12T00:04:46.027686+00:00",
+  "count": 18,
   "sources": [
     {
       "id": "technews",
@@ -60,6 +60,32 @@
     }
   ],
   "articles": [
+    {
+      "id": "bcbd4f114455",
+      "title": "台積電拋 STCO 大計：先進封裝要「一起解題」，不再各自為政",
+      "link": "https://technews.tw/2026/09/12/tsmc-stco-concept-aims-to-integrate-taiwan-semiconductor-supply-chain/",
+      "summary": "國際半導體展期間，台積電拋出「系統技術協同最佳化」（STCO）概念，正面迎擊先進封裝領域面臨的眾多挑戰，也被台 [&#8230;]",
+      "date": "2026-09-12T00:00:03+00:00",
+      "sourceId": "technews",
+      "cats": [
+        "market",
+        "process",
+        "material"
+      ]
+    },
+    {
+      "id": "125542577d37",
+      "title": "Fabships Aim to Exploit ‘Free’ Space Vacuum for Compound Semiconductor Substrates",
+      "link": "https://www.eetimes.com/fabships-aim-to-exploit-free-space-vacuum-for-compound-semiconductor-substrates/",
+      "summary": "Space is the next frontier for semiconductor manufacturing, as startup Besxar, founded by an ex-OpenAI technical director, completed its first SpaceX flight and recovered wafer samples without contamination. The post Fabships Aim to Exploit ‘Free’ Space Vacuum for Compound Semiconductor Substrates a",
+      "date": "2026-09-11T21:00:00+00:00",
+      "sourceId": "eetimes",
+      "cats": [
+        "process",
+        "material",
+        "equipment"
+      ]
+    },
     {
       "id": "85a63f845260",
       "title": "Should Standards Trump Innovation?",
