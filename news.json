@@ -1,6 +1,6 @@
 {
-  "updated": "2026-09-12T07:05:43.648442+00:00",
-  "count": 19,
+  "updated": "2026-09-12T12:06:55.891479+00:00",
+  "count": 17,
   "sources": [
     {
       "id": "technews",
@@ -162,32 +162,6 @@
         "process",
         "material",
         "equipment"
-      ]
-    },
-    {
-      "id": "981f648f14b9",
-      "title": "傳統斷路器也要升級？800 V 帶動 SiC SSCB 新商機",
-      "link": "https://technews.tw/2026/09/11/traditional-circuit-breakers-upgrade-800v-drives-sic-sscb-opportunities/",
-      "summary": "AI 資料中心朝 800 V 高壓直流供電發展，連斷路器也開始走向半導體化。英飛凌（Infineon）與 So [&#8230;]",
-      "date": "2026-09-11T08:10:31+00:00",
-      "sourceId": "technews",
-      "cats": [
-        "market",
-        "process",
-        "material"
-      ]
-    },
-    {
-      "id": "477ef03511ab",
-      "title": "長鑫存儲啟動積極擴產，目標挑戰三星與 SK 海力士 60 萬到 70 萬片月產能",
-      "link": "https://technews.tw/2026/09/11/changxin-memory-initiates-active-capacity-expansion/",
-      "summary": "中國最大 DRAM 製造商長鑫存儲（CXMT）已正式啟動設備投資準備，近期該公司不僅針對新晶圓廠（Fab）設備 [&#8230;]",
-      "date": "2026-09-11T07:45:01+00:00",
-      "sourceId": "technews",
-      "cats": [
-        "market",
-        "process",
-        "material"
       ]
     },
     {
