@@ -1,6 +1,6 @@
 {
-  "updated": "2026-09-12T00:04:46.027686+00:00",
-  "count": 18,
+  "updated": "2026-09-12T07:05:43.648442+00:00",
+  "count": 19,
   "sources": [
     {
       "id": "technews",
@@ -61,6 +61,71 @@
   ],
   "articles": [
     {
+      "id": "33ccf0f4557b",
+      "title": "SEMICON Taiwan：薩克森邦定位為全球半導體產業的歐洲首要樞紐",
+      "link": "https://finance.technews.tw/2026/09/12/semicon-taiwan-saxony-europe-premier-semiconductor-hub/",
+      "summary": "在 SEMICON Taiwan 展會上，德國薩克森邦展示「Silicon Saxony」這座歐洲規模最大的微 [&#8230;]",
+      "date": "2026-09-12T06:00:59+00:00",
+      "sourceId": "technews",
+      "cats": [
+        "market",
+        "process",
+        "material"
+      ]
+    },
+    {
+      "id": "dbb747a3d1a9",
+      "title": "台積電 CoWoS 產能供不應求，聯電、Amkor 等受惠 AI 訂單外溢",
+      "link": "https://technews.tw/2026/09/12/tsmc-cowos-capacity/",
+      "summary": "根據市場消息，台積電可能在 2028 年將 CoWoS 產能提升至 2026 年水準的兩倍，由於產能擴充需要時 [&#8230;]",
+      "date": "2026-09-12T05:30:09+00:00",
+      "sourceId": "technews",
+      "cats": [
+        "market",
+        "process",
+        "material"
+      ]
+    },
+    {
+      "id": "118a7eb08700",
+      "title": "挑戰輝達、博通！華為首秀 7.2T NPO 解方，搶攻光互連標準話語權",
+      "link": "https://technews.tw/2026/09/12/huawei-new-optical-tech-standard/",
+      "summary": "中國科技巨頭華為 10 日發布自有光通訊技術標準，向輝達（NVIDIA）與博通發起挑戰，希望在這項技術領域獲得 [&#8230;]",
+      "date": "2026-09-12T03:35:00+00:00",
+      "sourceId": "technews",
+      "cats": [
+        "market",
+        "process",
+        "material"
+      ]
+    },
+    {
+      "id": "f13da0292032",
+      "title": "Google 晶片大神降臨 SEMICON Taiwan 開示：瓶頸每天都不同，台廠人人有機會當主角",
+      "link": "https://technews.tw/2026/09/12/google-amin-vahdat-interview/",
+      "summary": "AI 發展的瓶頸是什麼？未來會有更多客製化晶片嗎？又，下一個可能改變 AI 發展的關鍵技術突破會是什麼？ Go [&#8230;]",
+      "date": "2026-09-12T02:00:04+00:00",
+      "sourceId": "technews",
+      "cats": [
+        "market",
+        "process",
+        "material"
+      ]
+    },
+    {
+      "id": "14d4c693facf",
+      "title": "挑戰史上最大 IPO 規模！傳輝達正洽談投資 Anthropic 最高 100 億美元",
+      "link": "https://technews.tw/2026/09/12/nvidia-in-talks-to-invest-in-anthropics-ipo/",
+      "summary": "據路透社報導，輝達（NVIDIA）考慮在 Anthropic 首次公開募股（IPO）中投資最高 100 億美元 [&#8230;]",
+      "date": "2026-09-12T01:34:59+00:00",
+      "sourceId": "technews",
+      "cats": [
+        "market",
+        "process",
+        "material"
+      ]
+    },
+    {
       "id": "bcbd4f114455",
       "title": "台積電拋 STCO 大計：先進封裝要「一起解題」，不再各自為政",
       "link": "https://technews.tw/2026/09/12/tsmc-stco-concept-aims-to-integrate-taiwan-semiconductor-supply-chain/",
@@ -118,58 +183,6 @@
       "link": "https://technews.tw/2026/09/11/changxin-memory-initiates-active-capacity-expansion/",
       "summary": "中國最大 DRAM 製造商長鑫存儲（CXMT）已正式啟動設備投資準備，近期該公司不僅針對新晶圓廠（Fab）設備 [&#8230;]",
       "date": "2026-09-11T07:45:01+00:00",
-      "sourceId": "technews",
-      "cats": [
-        "market",
-        "process",
-        "material"
-      ]
-    },
-    {
-      "id": "6ee04b3d5120",
-      "title": "d-Matrix 攜手 NVIDIA 採用 NVLink Fusion，加速 Raptor XPU 向 AI 工廠部署",
-      "link": "https://finance.technews.tw/2026/09/11/d-matrix-partners-with-nvidia-to-adopt-nvlink-fusion/",
-      "summary": "人工智慧（AI）推論晶片製造商 d-Matrix 宣布採用 NVIDIA 的 NVLink Fusion 技術 [&#8230;]",
-      "date": "2026-09-11T07:00:17+00:00",
-      "sourceId": "technews",
-      "cats": [
-        "market",
-        "process",
-        "material"
-      ]
-    },
-    {
-      "id": "084f537d9ad2",
-      "title": "2Q26 全球前十大 IC 設計廠營收年增 73%，AMD 擠進前三名",
-      "link": "https://technews.tw/2026/09/11/top-10-global-ic-design-firms-revenue-73-yoy-2q26-amd-top-three/",
-      "summary": "根據 TrendForce 最新 IC 設計產業研究，隨著 AI 相關應用擴張，GPU、CPU、ASIC、互連 [&#8230;]",
-      "date": "2026-09-11T06:45:35+00:00",
-      "sourceId": "technews",
-      "cats": [
-        "market",
-        "process",
-        "material"
-      ]
-    },
-    {
-      "id": "237fd81c2cbb",
-      "title": "日本 Rapidus 擬進軍太空，預計 2040 年在月球建半導體廠",
-      "link": "https://technews.tw/2026/09/11/rapidus-japan-space-moon-semiconductor-factory-2040/",
-      "summary": "以國產化次世代半導體為目標的日本 Rapidus 公司社長小池淳義，10 日在美國發表演講時透露，公司計劃在 [&#8230;]",
-      "date": "2026-09-11T06:10:50+00:00",
-      "sourceId": "technews",
-      "cats": [
-        "market",
-        "process",
-        "material"
-      ]
-    },
-    {
-      "id": "775808d0bb78",
-      "title": "擁美系 PQC 大單、機器人市場！通寶半導體 8 月營收強彈 579%",
-      "link": "https://finance.technews.tw/2026/09/11/sinchip-pqc/",
-      "summary": "通寶半導體公告 8 月營收達 6,224 萬元，年增 579.28%；累計前 8 月營收達 4.22 億元，年 [&#8230;]",
-      "date": "2026-09-11T06:02:12+00:00",
       "sourceId": "technews",
       "cats": [
         "market",
