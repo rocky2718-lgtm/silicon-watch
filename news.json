@@ -1,6 +1,6 @@
 {
-  "updated": "2026-09-12T23:54:44.047954+00:00",
-  "count": 17,
+  "updated": "2026-09-13T04:33:14.259583+00:00",
+  "count": 16,
   "sources": [
     {
       "id": "technews",
@@ -118,19 +118,6 @@
       "link": "https://technews.tw/2026/09/12/nvidia-in-talks-to-invest-in-anthropics-ipo/",
       "summary": "據路透社報導，輝達（NVIDIA）考慮在 Anthropic 首次公開募股（IPO）中投資最高 100 億美元 [&#8230;]",
       "date": "2026-09-12T01:34:59+00:00",
-      "sourceId": "technews",
-      "cats": [
-        "market",
-        "process",
-        "material"
-      ]
-    },
-    {
-      "id": "bcbd4f114455",
-      "title": "台積電拋 STCO 大計：先進封裝要「一起解題」，不再各自為政",
-      "link": "https://technews.tw/2026/09/12/tsmc-stco-concept-aims-to-integrate-taiwan-semiconductor-supply-chain/",
-      "summary": "國際半導體展期間，台積電拋出「系統技術協同最佳化」（STCO）概念，正面迎擊先進封裝領域面臨的眾多挑戰，也被台 [&#8230;]",
-      "date": "2026-09-12T00:00:03+00:00",
       "sourceId": "technews",
       "cats": [
         "market",
