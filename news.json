@@ -1,6 +1,6 @@
 {
-  "updated": "2026-09-13T04:33:14.259583+00:00",
-  "count": 16,
+  "updated": "2026-09-13T11:37:34.229988+00:00",
+  "count": 13,
   "sources": [
     {
       "id": "technews",
@@ -79,45 +79,6 @@
       "link": "https://technews.tw/2026/09/12/tsmc-cowos-capacity/",
       "summary": "根據市場消息，台積電可能在 2028 年將 CoWoS 產能提升至 2026 年水準的兩倍，由於產能擴充需要時 [&#8230;]",
       "date": "2026-09-12T05:30:09+00:00",
-      "sourceId": "technews",
-      "cats": [
-        "market",
-        "process",
-        "material"
-      ]
-    },
-    {
-      "id": "118a7eb08700",
-      "title": "挑戰輝達、博通！華為首秀 7.2T NPO 解方，搶攻光互連標準話語權",
-      "link": "https://technews.tw/2026/09/12/huawei-new-optical-tech-standard/",
-      "summary": "中國科技巨頭華為 10 日發布自有光通訊技術標準，向輝達（NVIDIA）與博通發起挑戰，希望在這項技術領域獲得 [&#8230;]",
-      "date": "2026-09-12T03:35:00+00:00",
-      "sourceId": "technews",
-      "cats": [
-        "market",
-        "process",
-        "material"
-      ]
-    },
-    {
-      "id": "f13da0292032",
-      "title": "Google 晶片大神降臨 SEMICON Taiwan 開示：瓶頸每天都不同，台廠人人有機會當主角",
-      "link": "https://technews.tw/2026/09/12/google-amin-vahdat-interview/",
-      "summary": "AI 發展的瓶頸是什麼？未來會有更多客製化晶片嗎？又，下一個可能改變 AI 發展的關鍵技術突破會是什麼？ Go [&#8230;]",
-      "date": "2026-09-12T02:00:04+00:00",
-      "sourceId": "technews",
-      "cats": [
-        "market",
-        "process",
-        "material"
-      ]
-    },
-    {
-      "id": "14d4c693facf",
-      "title": "挑戰史上最大 IPO 規模！傳輝達正洽談投資 Anthropic 最高 100 億美元",
-      "link": "https://technews.tw/2026/09/12/nvidia-in-talks-to-invest-in-anthropics-ipo/",
-      "summary": "據路透社報導，輝達（NVIDIA）考慮在 Anthropic 首次公開募股（IPO）中投資最高 100 億美元 [&#8230;]",
-      "date": "2026-09-12T01:34:59+00:00",
       "sourceId": "technews",
       "cats": [
         "market",
