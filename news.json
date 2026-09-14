@@ -1,6 +1,6 @@
 {
-  "updated": "2026-09-14T00:02:41.110370+00:00",
-  "count": 11,
+  "updated": "2026-09-14T07:49:51.993542+00:00",
+  "count": 16,
   "sources": [
     {
       "id": "technews",
@@ -60,6 +60,71 @@
     }
   ],
   "articles": [
+    {
+      "id": "e3983eadd16a",
+      "title": "搶 AI 玻璃基板商機！富強鑫攜韓國中科先峰引進高階 TGV 封裝設備",
+      "link": "https://finance.technews.tw/2026/09/14/glass-substrate/",
+      "summary": "富強鑫今日宣布跨足半導體產業，正式與韓國技術先驅中科先峰（China Korea Smart Technolo [&#8230;]",
+      "date": "2026-09-14T07:32:51+00:00",
+      "sourceId": "technews",
+      "cats": [
+        "market",
+        "process",
+        "material"
+      ]
+    },
+    {
+      "id": "929fb56e982f",
+      "title": "2H26 NOR Flash 價格走勢分化，高容量產品漲幅上看 90 至 110%",
+      "link": "https://technews.tw/2026/09/14/2h26-nor-flash-price-trends-diverge-high-capacity-products-90-110-price-hikes/",
+      "summary": "根據 TrendForce 最新記憶體產業研究，NOR Flash 市場正經歷近十年來最重要的供需結構轉變；在 [&#8230;]",
+      "date": "2026-09-14T06:20:04+00:00",
+      "sourceId": "technews",
+      "cats": [
+        "market",
+        "process",
+        "material"
+      ]
+    },
+    {
+      "id": "b19a53d350a1",
+      "title": "材料技術成半導體下一戰場！應材用 AI 加速研發，盼突破晶片微縮極限",
+      "link": "https://technews.tw/2026/09/14/applied-materials-japan/",
+      "summary": "隨著現有晶片微縮技術逐漸逼近極限，半導體產業需要採用新材料才能持續推進，應用材料（Applied Materi [&#8230;]",
+      "date": "2026-09-14T05:51:02+00:00",
+      "sourceId": "technews",
+      "cats": [
+        "market",
+        "process",
+        "material"
+      ]
+    },
+    {
+      "id": "84b03e602b24",
+      "title": "看好 CPU 需求！富士通最快明年出口 2 奈米 AI 晶片，交由台積電代工",
+      "link": "https://technews.tw/2026/09/14/fujitsu-to-export-ai-chips-built-on-supercomputer-tech-to-us-asia/",
+      "summary": "富士通最快明年向美國及亞洲出口其超級電腦「富岳」（Fugaku）技術開發的 AI 半導體。據日經報導，富士通將 [&#8230;]",
+      "date": "2026-09-14T04:10:03+00:00",
+      "sourceId": "technews",
+      "cats": [
+        "market",
+        "process",
+        "material"
+      ]
+    },
+    {
+      "id": "02c5a6e87c9c",
+      "title": "AI 用電成能源新課題，台灣 APEC 秀儲能、電網與綠能布局",
+      "link": "https://technews.tw/2026/09/14/ai-power-new-energy-challenge-taiwan-apec-storage-grid-green-energy-layout/",
+      "summary": "AI、半導體及資料中心快速擴張，電力需求與能源安全成為各國關注焦點。經濟部次長賴建信日前出席於中國北京舉行的第 [&#8230;]",
+      "date": "2026-09-14T03:32:57+00:00",
+      "sourceId": "technews",
+      "cats": [
+        "market",
+        "process",
+        "material"
+      ]
+    },
     {
       "id": "125542577d37",
       "title": "Fabships Aim to Exploit ‘Free’ Space Vacuum for Compound Semiconductor Substrates",
