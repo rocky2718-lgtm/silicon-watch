@@ -1,6 +1,6 @@
 {
-  "updated": "2026-09-14T07:49:51.993542+00:00",
-  "count": 16,
+  "updated": "2026-09-14T14:57:25.478827+00:00",
+  "count": 17,
   "sources": [
     {
       "id": "technews",
@@ -61,6 +61,45 @@
   ],
   "articles": [
     {
+      "id": "a80a7b8919ae",
+      "title": "矽品傳亞利桑那州布局將定案，台廠在美先進封測受矚",
+      "link": "https://finance.technews.tw/2026/09/14/spil-in-usa/",
+      "summary": "半導體封測大廠日月光投控旗下矽品精密，傳出在美國亞利桑那州投資設廠規劃進入最後階段，短期內將定案，有機會提供後 [&#8230;]",
+      "date": "2026-09-14T10:20:20+00:00",
+      "sourceId": "technews",
+      "cats": [
+        "market",
+        "process",
+        "material"
+      ]
+    },
+    {
+      "id": "b4dc71fbf130",
+      "title": "EUV 訂單強、High NA 加速導入！路透：ASML 龍頭地位延續至 2030 年",
+      "link": "https://technews.tw/2026/09/14/asml-high-na-euv-customers/",
+      "summary": "全球半導體曝光機大廠艾司摩爾（ASML）於 2026 年 9 月 8 日，在荷蘭埃因霍溫的「北智慧港工業園區（ [&#8230;]",
+      "date": "2026-09-14T09:58:53+00:00",
+      "sourceId": "technews",
+      "cats": [
+        "market",
+        "process",
+        "material"
+      ]
+    },
+    {
+      "id": "a409e94988e1",
+      "title": "MLCC 龍頭村田攻 AI 晶片垂直供電，iPaS 明年量產",
+      "link": "https://technews.tw/2026/09/14/ai-chip-current-increases-murata-integrates-capacitors-substrates-vertical-power-delivery/",
+      "summary": "為減少電力傳輸的損耗，電源也開始從晶片周圍往「正下方」移動。全球積層陶瓷電容（MLCC）龍頭村田製作所計劃明年 [&#8230;]",
+      "date": "2026-09-14T08:16:38+00:00",
+      "sourceId": "technews",
+      "cats": [
+        "market",
+        "process",
+        "material"
+      ]
+    },
+    {
       "id": "e3983eadd16a",
       "title": "搶 AI 玻璃基板商機！富強鑫攜韓國中科先峰引進高階 TGV 封裝設備",
       "link": "https://finance.technews.tw/2026/09/14/glass-substrate/",
@@ -75,9 +114,9 @@
     },
     {
       "id": "929fb56e982f",
-      "title": "2H26 NOR Flash 價格走勢分化，高容量產品漲幅上看 90 至 110%",
+      "title": "2H26 NOR Flash 價格走勢分化，高容量產品漲幅上看 90%~110%",
       "link": "https://technews.tw/2026/09/14/2h26-nor-flash-price-trends-diverge-high-capacity-products-90-110-price-hikes/",
-      "summary": "根據 TrendForce 最新記憶體產業研究，NOR Flash 市場正經歷近十年來最重要的供需結構轉變；在 [&#8230;]",
+      "summary": "TrendForce 最新記憶體產業研究，NOR Flash 市場正經歷近十年來最重要的供需結構轉變；AI 占 [&#8230;]",
       "date": "2026-09-14T06:20:04+00:00",
       "sourceId": "technews",
       "cats": [
@@ -92,32 +131,6 @@
       "link": "https://technews.tw/2026/09/14/applied-materials-japan/",
       "summary": "隨著現有晶片微縮技術逐漸逼近極限，半導體產業需要採用新材料才能持續推進，應用材料（Applied Materi [&#8230;]",
       "date": "2026-09-14T05:51:02+00:00",
-      "sourceId": "technews",
-      "cats": [
-        "market",
-        "process",
-        "material"
-      ]
-    },
-    {
-      "id": "84b03e602b24",
-      "title": "看好 CPU 需求！富士通最快明年出口 2 奈米 AI 晶片，交由台積電代工",
-      "link": "https://technews.tw/2026/09/14/fujitsu-to-export-ai-chips-built-on-supercomputer-tech-to-us-asia/",
-      "summary": "富士通最快明年向美國及亞洲出口其超級電腦「富岳」（Fugaku）技術開發的 AI 半導體。據日經報導，富士通將 [&#8230;]",
-      "date": "2026-09-14T04:10:03+00:00",
-      "sourceId": "technews",
-      "cats": [
-        "market",
-        "process",
-        "material"
-      ]
-    },
-    {
-      "id": "02c5a6e87c9c",
-      "title": "AI 用電成能源新課題，台灣 APEC 秀儲能、電網與綠能布局",
-      "link": "https://technews.tw/2026/09/14/ai-power-new-energy-challenge-taiwan-apec-storage-grid-green-energy-layout/",
-      "summary": "AI、半導體及資料中心快速擴張，電力需求與能源安全成為各國關注焦點。經濟部次長賴建信日前出席於中國北京舉行的第 [&#8230;]",
-      "date": "2026-09-14T03:32:57+00:00",
       "sourceId": "technews",
       "cats": [
         "market",
