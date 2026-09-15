@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-15T00:27:10.298470+00:00",
+  "updated": "2026-09-15T07:35:31.534144+00:00",
   "count": 15,
   "sources": [
     {
@@ -61,11 +61,11 @@
   ],
   "articles": [
     {
-      "id": "69419f2a2206",
-      "title": "新 S11 晶片讓蘋果手錶 AI 效能大躍進，4 核 NPU 與 4GB 記憶體的強力加持",
-      "link": "https://technews.tw/2026/09/15/apple-watch-chipsets-faced-years-of-neglect-with-subpar-improvements/",
-      "summary": "長久以來，Apple Watch 所採用的系統級封裝（SiP）不僅效能普通，即使升級也是漸進式的些微改款。Ap [&#8230;]",
-      "date": "2026-09-15T00:20:50+00:00",
+      "id": "8f0e054d2fb0",
+      "title": "聯發科發表首款 2 奈米旗艦 5G Agentic AI 天璣 9600 Pro 晶片，AI 性能提升 51%",
+      "link": "https://technews.tw/2026/09/15/mediatek-unveils-its-first-2nm-flagship-5g-agent-ai-dimensity-9600-pro-chip/",
+      "summary": "聯發科發表天璣 9600 系列旗艦 5G Agentic AI 晶片天璣 9600 Pro 及天璣 9600 [&#8230;]",
+      "date": "2026-09-15T07:31:31+00:00",
       "sourceId": "technews",
       "cats": [
         "market",
@@ -74,11 +74,11 @@
       ]
     },
     {
-      "id": "a80a7b8919ae",
-      "title": "矽品傳亞利桑那州布局將定案，台廠在美先進封測受矚",
-      "link": "https://finance.technews.tw/2026/09/14/spil-in-usa/",
-      "summary": "半導體封測大廠日月光投控旗下矽品精密，傳出在美國亞利桑那州投資設廠規劃進入最後階段，短期內將定案，有機會提供後 [&#8230;]",
-      "date": "2026-09-14T10:20:20+00:00",
+      "id": "9c1037b09264",
+      "title": "聯發科天璣 9600 Pro 多項降低佔用記憶體技術，終端裝置有望 10 月到手",
+      "link": "https://technews.tw/2026/09/15/mediatek-dimensity-9600-pro-features-multiple-technologies-to-reduce-memory-usage/",
+      "summary": "聯發科 15 日發表首款採用台積電 2 奈米製程的旗艦 5G Agentic AI 晶片天璣 9600 Pro [&#8230;]",
+      "date": "2026-09-15T07:31:27+00:00",
       "sourceId": "technews",
       "cats": [
         "market",
@@ -87,11 +87,11 @@
       ]
     },
     {
-      "id": "b4dc71fbf130",
-      "title": "EUV 訂單強、High NA 加速導入！路透：ASML 龍頭地位延續至 2030 年",
-      "link": "https://technews.tw/2026/09/14/asml-high-na-euv-customers/",
-      "summary": "全球半導體曝光機大廠艾司摩爾（ASML）於 2026 年 9 月 8 日，在荷蘭埃因霍溫的「北智慧港工業園區（ [&#8230;]",
-      "date": "2026-09-14T09:58:53+00:00",
+      "id": "ef150293f89b",
+      "title": "工研院創新日登場，聚焦 AI 時代能源與永續技術",
+      "link": "https://technews.tw/2026/09/15/itri-innovation-day-launches-energy-sustainability-technologies-ai-era/",
+      "summary": "台灣產業用電占比高，隨半導體與 AI 資料中心持續發展，如何在增加能源供給之外，提高用電效率與調度能力，也成為 [&#8230;]",
+      "date": "2026-09-15T07:29:44+00:00",
       "sourceId": "technews",
       "cats": [
         "market",
@@ -100,11 +100,11 @@
       ]
     },
     {
-      "id": "a409e94988e1",
-      "title": "MLCC 龍頭村田攻 AI 晶片垂直供電，iPaS 明年量產",
-      "link": "https://technews.tw/2026/09/14/ai-chip-current-increases-murata-integrates-capacitors-substrates-vertical-power-delivery/",
-      "summary": "為減少電力傳輸的損耗，電源也開始從晶片周圍往「正下方」移動。全球積層陶瓷電容（MLCC）龍頭村田製作所計劃明年 [&#8230;]",
-      "date": "2026-09-14T08:16:38+00:00",
+      "id": "775a8d476ca3",
+      "title": "光通訊、航太雙引擎成主要動能！瑞銀喊買穩懋、目標價上看 500 元",
+      "link": "https://technews.tw/2026/09/15/ubs-see-win-semiconductors/",
+      "summary": "歐系外資瑞銀（UBS）出具最新報告指出，穩懋半導體可望掌握基礎建設與光通訊業務持續成長所帶來的機會，給予「買進 [&#8230;]",
+      "date": "2026-09-15T07:05:26+00:00",
       "sourceId": "technews",
       "cats": [
         "market",
@@ -113,11 +113,24 @@
       ]
     },
     {
-      "id": "e3983eadd16a",
-      "title": "搶 AI 玻璃基板商機！富強鑫攜韓國中科先峰引進高階 TGV 封裝設備",
-      "link": "https://finance.technews.tw/2026/09/14/glass-substrate/",
-      "summary": "富強鑫今日宣布跨足半導體產業，正式與韓國技術先驅中科先峰（China Korea Smart Technolo [&#8230;]",
-      "date": "2026-09-14T07:32:51+00:00",
+      "id": "a9611be18048",
+      "title": "台積電營運長接力進校園！米玉傑今赴台大開講、秦永沛下月接棒成大",
+      "link": "https://technews.tw/2026/09/15/ntu-tsmc-talent/",
+      "summary": "聯合報成立 75 週年，今（15 日）在台大舉辦「跨世代共問 AI 時代共答」論壇，邀請自台大電機系畢業的米玉 [&#8230;]",
+      "date": "2026-09-15T06:36:36+00:00",
+      "sourceId": "technews",
+      "cats": [
+        "market",
+        "process",
+        "material"
+      ]
+    },
+    {
+      "id": "24699260b6c2",
+      "title": "輝達推量子開源平台新技術，助研發速度提升 7 倍",
+      "link": "https://technews.tw/2026/09/15/nvidia-expands-open-source-cuda-q-platform-for-fault-tolerant-quantum-computing/",
+      "summary": "人工智慧（AI）晶片大廠輝達（NVIDIA）加速布局量子運算，今天宣布擴展旗下開源 CUDA-Q 平台，在 I [&#8230;]",
+      "date": "2026-09-15T03:50:25+00:00",
       "sourceId": "technews",
       "cats": [
         "market",
@@ -144,19 +157,6 @@
       "link": "https://www.eetimes.com/should-standards-trump-innovation/",
       "summary": "Standards shouldn’t muzzle RFID’s next leap: Gen2X keeps Gen2 compatibility while boosting range, speed, and reliability. The post Should Standards Trump Innovation? appeared first on EE Times.",
       "date": "2026-09-11T13:52:31+00:00",
-      "sourceId": "eetimes",
-      "cats": [
-        "process",
-        "material",
-        "equipment"
-      ]
-    },
-    {
-      "id": "fda38c8c138e",
-      "title": "Proven: Actions Technology’s End-to-End Audio Architecture Tames Sound’s “Black Magic”",
-      "link": "https://www.eetimes.com/proven-actions-technologys-end-to-end-audio-architecture-tames-sounds-black-magic/",
-      "summary": "Whether in the mass consumer market or the high-end professional audio segment, sound quality remains the defining factor that separates one product from another. Consumers’ appetite for better audio has never waned. According to Qualcomm&#8217;s 2023 State of Sound report, 73% of consumers prioriti",
-      "date": "2026-09-10T13:00:00+00:00",
       "sourceId": "eetimes",
       "cats": [
         "process",
