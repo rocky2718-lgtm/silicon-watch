@@ -1,6 +1,6 @@
 {
-  "updated": "2026-09-14T20:15:39.460624+00:00",
-  "count": 9,
+  "updated": "2026-09-15T00:27:10.298470+00:00",
+  "count": 15,
   "sources": [
     {
       "id": "technews",
@@ -61,6 +61,19 @@
   ],
   "articles": [
     {
+      "id": "69419f2a2206",
+      "title": "新 S11 晶片讓蘋果手錶 AI 效能大躍進，4 核 NPU 與 4GB 記憶體的強力加持",
+      "link": "https://technews.tw/2026/09/15/apple-watch-chipsets-faced-years-of-neglect-with-subpar-improvements/",
+      "summary": "長久以來，Apple Watch 所採用的系統級封裝（SiP）不僅效能普通，即使升級也是漸進式的些微改款。Ap [&#8230;]",
+      "date": "2026-09-15T00:20:50+00:00",
+      "sourceId": "technews",
+      "cats": [
+        "market",
+        "process",
+        "material"
+      ]
+    },
+    {
       "id": "a80a7b8919ae",
       "title": "矽品傳亞利桑那州布局將定案，台廠在美先進封測受矚",
       "link": "https://finance.technews.tw/2026/09/14/spil-in-usa/",
@@ -113,32 +126,6 @@
       ]
     },
     {
-      "id": "929fb56e982f",
-      "title": "2H26 NOR Flash 價格走勢分化，高容量產品漲幅上看 90%~110%",
-      "link": "https://technews.tw/2026/09/14/2h26-nor-flash-price-trends-diverge-high-capacity-products-90-110-price-hikes/",
-      "summary": "TrendForce 最新記憶體產業研究，NOR Flash 市場正經歷近十年來最重要的供需結構轉變；AI 占 [&#8230;]",
-      "date": "2026-09-14T06:20:04+00:00",
-      "sourceId": "technews",
-      "cats": [
-        "market",
-        "process",
-        "material"
-      ]
-    },
-    {
-      "id": "b19a53d350a1",
-      "title": "材料技術成半導體下一戰場！應材用 AI 加速研發，盼突破晶片微縮極限",
-      "link": "https://technews.tw/2026/09/14/applied-materials-japan/",
-      "summary": "隨著現有晶片微縮技術逐漸逼近極限，半導體產業需要採用新材料才能持續推進，應用材料（Applied Materi [&#8230;]",
-      "date": "2026-09-14T05:51:02+00:00",
-      "sourceId": "technews",
-      "cats": [
-        "market",
-        "process",
-        "material"
-      ]
-    },
-    {
       "id": "125542577d37",
       "title": "Fabships Aim to Exploit ‘Free’ Space Vacuum for Compound Semiconductor Substrates",
       "link": "https://www.eetimes.com/fabships-aim-to-exploit-free-space-vacuum-for-compound-semiconductor-substrates/",
@@ -174,6 +161,97 @@
       "cats": [
         "process",
         "material",
+        "equipment"
+      ]
+    },
+    {
+      "id": "fb91bb3083a8",
+      "title": "Another Giant Leap: The Rubin CPX Specialized Accelerator & Rack",
+      "link": "https://semianalysis.com/2025/09/10/another-giant-leap-the-rubin-cpx-specialized-accelerator-rack/",
+      "summary": "Nvidia announced the Rubin CPX, a solution that is specifically designed to be optimized for the prefill phase, with the single-die Rubin CPX heavily emphasizing compute FLOPS over memory bandwidth. This is a game changer for inference, and its significance is surpassed only by the March 2024 announ",
+      "date": "2025-09-10T19:57:18+00:00",
+      "sourceId": "semianalysis",
+      "cats": [
+        "process",
+        "market",
+        "equipment"
+      ]
+    },
+    {
+      "id": "8fdb407959b5",
+      "title": "Huawei Ascend Production Ramp: Die Banks, TSMC Continued Production, HBM is The Bottleneck",
+      "link": "https://semianalysis.com/2025/09/08/huawei-ascend-production-ramp/",
+      "summary": "Compute is the lifeblood of AI. He who controls the spice controls the universe the compute will control the production of tokens and reap the benefits of AI. Without compute you do not have a seat at the table. The United States technology community is all in on compute and AI as the next platform ",
+      "date": "2025-09-08T09:54:57+00:00",
+      "sourceId": "semianalysis",
+      "cats": [
+        "process",
+        "market",
+        "equipment"
+      ]
+    },
+    {
+      "id": "4d1d636eb5c1",
+      "title": "H100 vs GB200 NVL72 Training Benchmarks – Power, TCO, and Reliability Analysis, Software Improvement Over Time",
+      "link": "https://semianalysis.com/2025/08/20/h100-vs-gb200-nvl72-training-benchmarks/",
+      "summary": "Frontier model training has pushed GPUs and AI systems to their absolute limits, making cost, efficiency, power, performance per TCO, and reliability central to the discussion on effective training. The Hopper vs Blackwell comparisons are not as simple as Nvidia would have you believe. In this repor",
+      "date": "2025-08-20T04:56:35+00:00",
+      "sourceId": "semianalysis",
+      "cats": [
+        "process",
+        "market",
+        "equipment"
+      ]
+    },
+    {
+      "id": "b13ecf27cefb",
+      "title": "Scaling the Memory Wall: The Rise and Roadmap of HBM",
+      "link": "https://semianalysis.com/2025/08/12/scaling-the-memory-wall-the-rise-and-roadmap-of-hbm/",
+      "summary": "The first portion of this report will explain HBM, the manufacturing process, dynamics between vendors, KVCache offload, disaggregated prefill decode, and wide / high-rank EP. The rest of the report will dive deeply into the future of HBM. We will cover the revolutionary change coming to HBM4 with c",
+      "date": "2025-08-12T01:16:06+00:00",
+      "sourceId": "semianalysis",
+      "cats": [
+        "process",
+        "market",
+        "equipment"
+      ]
+    },
+    {
+      "id": "4da2f0c9f207",
+      "title": "Robotics Levels of Autonomy",
+      "link": "https://semianalysis.com/2025/07/30/robotics-levels-of-autonomy/",
+      "summary": "Robots have powered manufacturing for decades, yet they stayed single-purpose and thrived only in perfect settings. Previous attempts at intelligent machines overpromised and underdelivered. But they were too early. Today, modern AI paradigms convert most robot roadblocks into data problems and push",
+      "date": "2025-07-30T17:02:25+00:00",
+      "sourceId": "semianalysis",
+      "cats": [
+        "process",
+        "market",
+        "equipment"
+      ]
+    },
+    {
+      "id": "0409fbe555b7",
+      "title": "Intel 18A Details & Cost, Future of DRAM 4F2 vs 3D, Backside Power Adoption (or Not), China’s FlipFET, Digital Twins from Atoms to Fabs, and More",
+      "link": "https://semianalysis.com/2025/07/21/vlsi2025/",
+      "summary": "Long time readers will recall that SemiAnalysis covers more than just datacenters and AMD. Today we’re back to semiconductors with a tech-focused roundup of the best from this year’s VLSI conference, the premiere design and integration. That includes the latest in chips manufacturing: fab digital tw",
+      "date": "2025-07-21T14:23:37+00:00",
+      "sourceId": "semianalysis",
+      "cats": [
+        "process",
+        "market",
+        "equipment"
+      ]
+    },
+    {
+      "id": "9f42602799fd",
+      "title": "Meta Superintelligence – Leadership Compute, Talent, and Data",
+      "link": "https://semianalysis.com/2025/07/11/meta-superintelligence-leadership-compute-talent-and-data/",
+      "summary": "Meta’s shocking purchase of 49% of Scale AI at a ~$30B valuation shows that money is of no concern for the $100B annual cashflow ad machine. Despite seemingly unlimited resources, Meta has been falling behind foundation labs in model performance.",
+      "date": "2025-07-11T20:12:19+00:00",
+      "sourceId": "semianalysis",
+      "cats": [
+        "process",
+        "market",
         "equipment"
       ]
     }
