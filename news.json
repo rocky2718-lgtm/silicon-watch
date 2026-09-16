@@ -1,6 +1,6 @@
 {
-  "updated": "2026-09-16T11:20:45.336096+00:00",
-  "count": 15,
+  "updated": "2026-09-16T16:41:01.643607+00:00",
+  "count": 16,
   "sources": [
     {
       "id": "technews",
@@ -60,6 +60,19 @@
     }
   ],
   "articles": [
+    {
+      "id": "db258022e474",
+      "title": "Edge-first Architectures for Building and Campus Safety and Security",
+      "link": "https://www.eetimes.com/edge-first-architectures-for-building-and-campus-safety-and-security/",
+      "summary": "Join us to explore how Qualcomm Technologies edge-first architecture is built to bring AI processing directly to cameras, gateways, and on-premises systems. The post Edge-first Architectures for Building and Campus Safety and Security appeared first on EE Times.",
+      "date": "2026-09-16T15:53:12+00:00",
+      "sourceId": "eetimes",
+      "cats": [
+        "process",
+        "material",
+        "equipment"
+      ]
+    },
     {
       "id": "ca9d96f8c3fa",
       "title": "代理 AI 改變行動運算架構！高通 Hexagon NPU 強化記憶體容量增 50%",
