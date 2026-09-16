@@ -1,6 +1,6 @@
 {
-  "updated": "2026-09-15T22:49:59.766894+00:00",
-  "count": 17,
+  "updated": "2026-09-16T04:35:13.268530+00:00",
+  "count": 16,
   "sources": [
     {
       "id": "technews",
@@ -61,11 +61,11 @@
   ],
   "articles": [
     {
-      "id": "8e51f12366c6",
-      "title": "消去法選電機系、一路走進台積電！魏哲家：我從張忠謀董事長身上學到，首先要好好「聽」",
-      "link": "https://technews.tw/2026/09/15/ccwei-tsmc-ntu/",
-      "summary": "台積電董事長暨總裁魏哲家今（15 日）以視訊致詞的方式參加台大的「跨世代共問 AI 時代共答」論壇，並分享自己 [&#8230;]",
-      "date": "2026-09-15T10:36:45+00:00",
+      "id": "f765e852c36d",
+      "title": "AI 代理加速晶片設計！中國華大九天談 Agentic EDA 三布局，盼建本土生態系",
+      "link": "https://technews.tw/2026/09/16/china-eda-empyrean-technology-see-agentic-eda/",
+      "summary": "中國電子設計自動化（EDA）業者「華大九天」（Empyrean Technology）正運用 AI 代理加速晶 [&#8230;]",
+      "date": "2026-09-16T04:11:30+00:00",
       "sourceId": "technews",
       "cats": [
         "market",
@@ -74,11 +74,11 @@
       ]
     },
     {
-      "id": "50c66846cbfa",
-      "title": "台灣沒有台積電會怎樣？米玉傑妙答大哉問：「人」才是關鍵",
-      "link": "https://technews.tw/2026/09/15/tsmc-ntu-ai-personality-qa/",
-      "summary": "台積電營運長米玉傑今（15 日）在「跨世代共問 AI 時代」論壇被問到許多大哉問，例如「台灣如果沒有台積電會怎 [&#8230;]",
-      "date": "2026-09-15T10:10:52+00:00",
+      "id": "73555d43caa1",
+      "title": "三星注資力挺，荷蘭 AI 晶片新創 Euclyd 狂吸 2.31 億美元融資",
+      "link": "https://technews.tw/2026/09/16/dutch-ai-chipmaker-euclyd-pulled-in-231-million-with-samsungs-backing/",
+      "summary": "荷蘭 AI 晶片新創公司 Euclyd 宣布完成 2.31 億美元融資，三星參與支持，顯示市場對 AI 晶片替 [&#8230;]",
+      "date": "2026-09-16T04:10:07+00:00",
       "sourceId": "technews",
       "cats": [
         "market",
@@ -87,11 +87,11 @@
       ]
     },
     {
-      "id": "b09ab6e7b944",
-      "title": "台積電找人才看什麼？米玉傑揭三大特質：願扛責任、敢做決定、待人公平",
-      "link": "https://technews.tw/2026/09/15/tsmc-ntu-qa/",
-      "summary": "台積電營運長米玉傑今（15 日）重返母校台灣大學，出席「跨世代共問 AI 時代」論壇，並與學弟妹進行問答，並分 [&#8230;]",
-      "date": "2026-09-15T08:25:51+00:00",
+      "id": "a688c2c26678",
+      "title": "SK 海力士勞資達共識，績效獎金敲定「五成現金＋五成股票」",
+      "link": "https://technews.tw/2026/09/16/sk-hynix-union-approves-wage-agreement/",
+      "summary": "韓國半導體巨擘 SK 海力士（SK hynix）的勞資談判迎來破冰轉折。公司工會於 16 日正式表決通過修訂後 [&#8230;]",
+      "date": "2026-09-16T03:45:51+00:00",
       "sourceId": "technews",
       "cats": [
         "market",
@@ -100,11 +100,11 @@
       ]
     },
     {
-      "id": "33de7daac6a1",
-      "title": "無懼 AI 退燒雜音，博通陳福陽霸氣預告：2028 營收上看 2,300 億美元",
-      "link": "https://finance.technews.tw/2026/09/15/broadcom-refutes-ai-demand-slowdown/",
-      "summary": "近期市場頻傳「人工智慧（AI）需求可能降溫」的擔憂，但博通（Broadcom）執行長陳福陽 （Hock Tan [&#8230;]",
-      "date": "2026-09-15T08:10:17+00:00",
+      "id": "db5b5ed69d9a",
+      "title": "中國記憶體加速追趕！長鑫 DRAM 落後兩年，長江 NAND 竟只差一年",
+      "link": "https://technews.tw/2026/09/16/china-narrows-hbm-nand-and-dram-gap-with-korea/",
+      "summary": "韓國半導體產業協會（KSIA）近日量化中國在半導體技術上追趕西方的驚人速度，指出 NAND 巨頭長江存儲與 D [&#8230;]",
+      "date": "2026-09-16T02:35:47+00:00",
       "sourceId": "technews",
       "cats": [
         "market",
@@ -113,11 +113,11 @@
       ]
     },
     {
-      "id": "b07f3ad65991",
-      "title": "華碩全球 AI Tech 高峰會前進韓國，攜手 NVIDIA 加速 AI 工廠落地",
-      "link": "https://technews.tw/2026/09/15/asus-ai-tech-korea-nvidia/",
-      "summary": "AI 基礎設施走向全新階段，隨著 AI 營運從實驗階段走向自主程度日益升高，支撐這些 AI 工作負載的系統越趨 [&#8230;]",
-      "date": "2026-09-15T07:50:24+00:00",
+      "id": "d7c27264e688",
+      "title": "台積電 27 分填息，季除息後 23 次當天填息",
+      "link": "https://finance.technews.tw/2026/09/16/tsmc-fills-dividend-27-minutes-23-same-day-fills-quarterly-ex-dividend/",
+      "summary": "晶圓代工廠台積電 2026 年第 1 季現金股利今天除息，每股現金股利 7.00000137 元，股價開低走高 [&#8230;]",
+      "date": "2026-09-16T02:25:51+00:00",
       "sourceId": "technews",
       "cats": [
         "market",
@@ -126,11 +126,11 @@
       ]
     },
     {
-      "id": "8f0e054d2fb0",
-      "title": "聯發科發表首款 2 奈米旗艦 5G Agentic AI 天璣 9600 Pro 晶片，AI 性能提升 51%",
-      "link": "https://technews.tw/2026/09/15/mediatek-unveils-its-first-2nm-flagship-5g-agent-ai-dimensity-9600-pro-chip/",
-      "summary": "聯發科發表天璣 9600 系列旗艦 5G Agentic AI 晶片天璣 9600 Pro 及天璣 9600 [&#8230;]",
-      "date": "2026-09-15T07:31:31+00:00",
+      "id": "89f680455716",
+      "title": "三星衝刺 HBM 產能，DDR5 模組全面擴大委外代工、協力廠急擴產",
+      "link": "https://technews.tw/2026/09/16/samsung-expands-memory-outsourcing/",
+      "summary": "為了將資源集中於高附加價值的高頻寬記憶體（HBM）等先進產品，三星電子正全面調整記憶體產能配置，計劃將通用型 [&#8230;]",
+      "date": "2026-09-16T02:20:13+00:00",
       "sourceId": "technews",
       "cats": [
         "market",
@@ -139,11 +139,11 @@
       ]
     },
     {
-      "id": "9c1037b09264",
-      "title": "聯發科天璣 9600 Pro 多項降低佔用記憶體技術，終端裝置有望 10 月到手",
-      "link": "https://technews.tw/2026/09/15/mediatek-dimensity-9600-pro-features-multiple-technologies-to-reduce-memory-usage/",
-      "summary": "聯發科 15 日發表首款採用台積電 2 奈米製程的旗艦 5G Agentic AI 晶片天璣 9600 Pro [&#8230;]",
-      "date": "2026-09-15T07:31:27+00:00",
+      "id": "1cab42d13337",
+      "title": "美光展示全球首款 512GB DDR5 RDIMM，單一伺服器記憶體容量衝上 12TB",
+      "link": "https://technews.tw/2026/09/16/micron-packs-512gb-of-ultra-fast-ddr5-ram-into-a-single-server-slot/",
+      "summary": "美光科技（Micron）於 15 日宣布，已在多個伺服器平台上成功展示全球首款 512GB DDR5 RDIM [&#8230;]",
+      "date": "2026-09-16T02:10:48+00:00",
       "sourceId": "technews",
       "cats": [
         "market",
@@ -152,11 +152,11 @@
       ]
     },
     {
-      "id": "ef150293f89b",
-      "title": "工研院創新日登場，聚焦 AI 時代能源與永續技術",
-      "link": "https://technews.tw/2026/09/15/itri-innovation-day-launches-energy-sustainability-technologies-ai-era/",
-      "summary": "台灣產業用電占比高，隨半導體與 AI 資料中心持續發展，如何在增加能源供給之外，提高用電效率與調度能力，也成為 [&#8230;]",
-      "date": "2026-09-15T07:29:44+00:00",
+      "id": "e31b857e2a82",
+      "title": "黃仁勳駁 AI 新監管：產品堪慮就別推、市場會把關",
+      "link": "https://technews.tw/2026/09/16/we-do-not-need-ai-regulation-leave-safety-to-us-nvidias-jensen-huang-says/",
+      "summary": "輝達（Nvidia）執行長黃仁勳（Jensen Huang）直言，人工智慧（AI）不需要新的法律或監管規範，主 [&#8230;]",
+      "date": "2026-09-16T02:05:56+00:00",
       "sourceId": "technews",
       "cats": [
         "market",
@@ -165,24 +165,11 @@
       ]
     },
     {
-      "id": "775a8d476ca3",
-      "title": "光通訊、航太雙引擎成主要動能！瑞銀喊買穩懋、目標價上看 500 元",
-      "link": "https://technews.tw/2026/09/15/ubs-see-win-semiconductors/",
-      "summary": "歐系外資瑞銀（UBS）出具最新報告指出，穩懋半導體可望掌握基礎建設與光通訊業務持續成長所帶來的機會，給予「買進 [&#8230;]",
-      "date": "2026-09-15T07:05:26+00:00",
-      "sourceId": "technews",
-      "cats": [
-        "market",
-        "process",
-        "material"
-      ]
-    },
-    {
-      "id": "a9611be18048",
-      "title": "台積電營運長接力進校園！米玉傑今赴台大開講、秦永沛下月接棒成大",
-      "link": "https://technews.tw/2026/09/15/ntu-tsmc-talent/",
-      "summary": "聯合報成立 75 週年，今（15 日）在台大舉辦「跨世代共問 AI 時代共答」論壇，邀請自台大電機系畢業的米玉 [&#8230;]",
-      "date": "2026-09-15T06:36:36+00:00",
+      "id": "4907257077c4",
+      "title": "輝達 RTX 5090 顯卡飆破 19 萬元，中國企業「整板掃貨」引發全球大缺貨",
+      "link": "https://technews.tw/2026/09/16/rtx-5090-price-past-190000/",
+      "summary": "輝達（NVIDIA）旗艦顯示卡 GeForce RTX 5090 的零售價格近期持續失控，市場報價已從原本 1 [&#8230;]",
+      "date": "2026-09-16T02:00:39+00:00",
       "sourceId": "technews",
       "cats": [
         "market",
