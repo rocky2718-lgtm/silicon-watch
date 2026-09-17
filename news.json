@@ -1,6 +1,6 @@
 {
-  "updated": "2026-09-17T13:20:18.732438+00:00",
-  "count": 15,
+  "updated": "2026-09-17T18:07:16.950500+00:00",
+  "count": 14,
   "sources": [
     {
       "id": "technews",
@@ -131,19 +131,6 @@
       "link": "https://technews.tw/2026/09/17/ai-infrastructure-summit-memory-scarcity-focus-hbf-hbc-new-technologies/",
       "summary": "AI 基礎設施峰會在矽谷舉行，科技巨頭聚焦產業瓶頸。任職 Google 的圖靈獎得主派特森指出第一大瓶頸是記憶 [&#8230;]",
       "date": "2026-09-17T05:40:34+00:00",
-      "sourceId": "technews",
-      "cats": [
-        "market",
-        "process",
-        "material"
-      ]
-    },
-    {
-      "id": "41b049e07194",
-      "title": "小摩升評 Soitec、目標價翻倍  看好矽光子爆發",
-      "link": "https://technews.tw/2026/09/17/jpmorgan-upgrades-soitec-rating-and-price-target/",
-      "summary": "摩根大通（JPMorgan，小摩）調升法國半導體材料大廠 Soitec 的投資評等，目標價翻倍至 200 歐元 [&#8230;]",
-      "date": "2026-09-17T05:30:18+00:00",
       "sourceId": "technews",
       "cats": [
         "market",
