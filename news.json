@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-16T21:11:51.914736+00:00",
+  "updated": "2026-09-17T00:17:16.890936+00:00",
   "count": 16,
   "sources": [
     {
@@ -60,6 +60,19 @@
     }
   ],
   "articles": [
+    {
+      "id": "d7e9d5921471",
+      "title": "安葆台南二廠動土，儲能電池櫃年產能上看 3,000 櫃",
+      "link": "https://technews.tw/2026/09/17/anbao-tainan-second-plant-groundbreaking-energy-storage-battery-cabinets-annual-capacity-3000-units/",
+      "summary": "因應半導體擴廠與 AI 資料中心電力需求持續成長，安葆昨（16）日舉行台南永康二廠動土典禮，新廠基地約 1,0 [&#8230;]",
+      "date": "2026-09-17T00:15:28+00:00",
+      "sourceId": "technews",
+      "cats": [
+        "market",
+        "process",
+        "material"
+      ]
+    },
     {
       "id": "db258022e474",
       "title": "Edge-first Architectures for Building and Campus Safety and Security",
@@ -157,19 +170,6 @@
       "link": "https://technews.tw/2026/09/16/intel-18a-yield-80-analysts-mass-production-stability-improved/",
       "summary": "市場最新消息指出，英特爾先進製程的進展持續受到關注。中國金融機構 GF 證券分析師 Jeff Pu 在最新報告 [&#8230;]",
       "date": "2026-09-16T07:20:47+00:00",
-      "sourceId": "technews",
-      "cats": [
-        "market",
-        "process",
-        "material"
-      ]
-    },
-    {
-      "id": "6666e05d81ab",
-      "title": "AI 降速疑慮罩頂  甲骨文、新雲端業者遭拋售",
-      "link": "https://finance.technews.tw/2026/09/16/oracles-stock-falls-for-the-fifth-day-in-a-row/",
-      "summary": "半導體股近日從 AI 開發降速疑慮引發的拋售潮反彈，但甲骨文（Oracle）以及 CoreWeave 等新雲端 [&#8230;]",
-      "date": "2026-09-16T05:50:44+00:00",
       "sourceId": "technews",
       "cats": [
         "market",
