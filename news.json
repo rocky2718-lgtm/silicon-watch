@@ -1,6 +1,6 @@
 {
-  "updated": "2026-09-17T18:07:16.950500+00:00",
-  "count": 14,
+  "updated": "2026-09-17T22:47:52.539878+00:00",
+  "count": 15,
   "sources": [
     {
       "id": "technews",
@@ -60,6 +60,19 @@
     }
   ],
   "articles": [
+    {
+      "id": "9395cab55df7",
+      "title": "U.S. Awards Anderon $1B for Quantum Wafer Manufacturing",
+      "link": "https://www.eetimes.com/u-s-awards-anderon-1b-for-quantum-wafer-manufacturing/",
+      "summary": "Washington bets $1B on IBM’s Anderon to forge quantum wafers on U.S. soil as the race leaves labs behind. The post U.S. Awards Anderon $1B for Quantum Wafer Manufacturing appeared first on EE Times.",
+      "date": "2026-09-17T22:00:00+00:00",
+      "sourceId": "eetimes",
+      "cats": [
+        "process",
+        "material",
+        "equipment"
+      ]
+    },
     {
       "id": "ff66daba7f67",
       "title": "SK Hynix’s Intel Liaisons: What You Need to Know",
