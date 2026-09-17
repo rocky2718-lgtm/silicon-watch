@@ -1,6 +1,6 @@
 {
-  "updated": "2026-09-17T00:17:16.890936+00:00",
-  "count": 16,
+  "updated": "2026-09-17T07:31:26.155536+00:00",
+  "count": 12,
   "sources": [
     {
       "id": "technews",
@@ -61,11 +61,50 @@
   ],
   "articles": [
     {
-      "id": "d7e9d5921471",
-      "title": "安葆台南二廠動土，儲能電池櫃年產能上看 3,000 櫃",
-      "link": "https://technews.tw/2026/09/17/anbao-tainan-second-plant-groundbreaking-energy-storage-battery-cabinets-annual-capacity-3000-units/",
-      "summary": "因應半導體擴廠與 AI 資料中心電力需求持續成長，安葆昨（16）日舉行台南永康二廠動土典禮，新廠基地約 1,0 [&#8230;]",
-      "date": "2026-09-17T00:15:28+00:00",
+      "id": "77d1eb4cc5fb",
+      "title": "AI 基礎設施峰會記憶體荒成焦點，HBF、HBC 新技術受矚",
+      "link": "https://technews.tw/2026/09/17/ai-infrastructure-summit-memory-scarcity-focus-hbf-hbc-new-technologies/",
+      "summary": "AI 基礎設施峰會在矽谷舉行，科技巨頭聚焦產業瓶頸。任職 Google 的圖靈獎得主派特森指出第一大瓶頸是記憶 [&#8230;]",
+      "date": "2026-09-17T05:40:34+00:00",
+      "sourceId": "technews",
+      "cats": [
+        "market",
+        "process",
+        "material"
+      ]
+    },
+    {
+      "id": "41b049e07194",
+      "title": "小摩升評 Soitec、目標價翻倍  看好矽光子爆發",
+      "link": "https://technews.tw/2026/09/17/jpmorgan-upgrades-soitec-rating-and-price-target/",
+      "summary": "摩根大通（JPMorgan，小摩）調升法國半導體材料大廠 Soitec 的投資評等，目標價翻倍至 200 歐元 [&#8230;]",
+      "date": "2026-09-17T05:30:18+00:00",
+      "sourceId": "technews",
+      "cats": [
+        "market",
+        "process",
+        "material"
+      ]
+    },
+    {
+      "id": "4ed1387b6d52",
+      "title": "愛立信、聯發科完成 5G 定位精準度，加速自駕車、無人機等應用突破",
+      "link": "https://technews.tw/2026/09/17/ericsson-mtk-gnss/",
+      "summary": "愛立信與聯發科成功完成全球首例基於 3GPP 標準的全球導航衛星系統（GNSS）即時動態定位（Real-Tim [&#8230;]",
+      "date": "2026-09-17T04:24:04+00:00",
+      "sourceId": "technews",
+      "cats": [
+        "market",
+        "process",
+        "material"
+      ]
+    },
+    {
+      "id": "332c9b0c01c8",
+      "title": "串聯 4,000 顆處理器！華為 Ascend 960 首導入 NPO，靠「堆晶片」拚超大算力",
+      "link": "https://technews.tw/2026/09/17/huawei-unveils-new-ai-tech/",
+      "summary": "根據中媒《南華早報》報導，華為今（17 日）發布最新 Ascend 960 SuperPoD 運算叢集和升級版 [&#8230;]",
+      "date": "2026-09-17T04:01:17+00:00",
       "sourceId": "technews",
       "cats": [
         "market",
@@ -84,97 +123,6 @@
         "process",
         "material",
         "equipment"
-      ]
-    },
-    {
-      "id": "ca9d96f8c3fa",
-      "title": "代理 AI 改變行動運算架構！高通 Hexagon NPU 強化記憶體容量增 50%",
-      "link": "https://technews.tw/2026/09/16/qualcomm-hexagon-npu-and-agentic-ai/",
-      "summary": "隨著代理式 AI 發展，行動裝置對 AI 運算架構的需求也正在改變。相較於過去主要依靠單一大型模型處理任務，代 [&#8230;]",
-      "date": "2026-09-16T10:18:22+00:00",
-      "sourceId": "technews",
-      "cats": [
-        "market",
-        "process",
-        "material"
-      ]
-    },
-    {
-      "id": "54eba6f67466",
-      "title": "記憶體短缺延燒至 2027 年！中小型手機、筆電業者改產品設計、搶貨",
-      "link": "https://technews.tw/2026/09/16/smaller-phone-and-laptop-makers-memory/",
-      "summary": "隨著供應鏈材料持續短缺，中小型手機與筆電業者正重新設計產品、檢測進貨晶片以防假貨，並將成本轉嫁給消費者。業者預 [&#8230;]",
-      "date": "2026-09-16T10:02:49+00:00",
-      "sourceId": "technews",
-      "cats": [
-        "market",
-        "process",
-        "material"
-      ]
-    },
-    {
-      "id": "9d344b5aa248",
-      "title": "為 X500 Pro 系列暖身，vivo 攜聯發科搶全球首發天璣 9600 Pro",
-      "link": "https://technews.tw/2026/09/16/vivo-x500-pro-dimensity-9600-pro/",
-      "summary": "vivo 今日正式宣布接下來將推出的 X500 Pro 系列旗艦手機，將再度攜手聯發科技全球首發搭載最新一代聯 [&#8230;]",
-      "date": "2026-09-16T08:33:19+00:00",
-      "sourceId": "technews",
-      "cats": [
-        "market",
-        "process",
-        "material"
-      ]
-    },
-    {
-      "id": "97ed7111ea03",
-      "title": "鄧白氏台中小企業菁英獎揭曉，1,053 家企業入選、首增半導體產業獎",
-      "link": "https://finance.technews.tw/2026/09/16/2026-dnb/",
-      "summary": "AI 浪潮持續推升先進晶片、材料、設備、封裝與測試需求，半導體競爭也從單一企業逐步走向完整生態系競爭。美商鄧白 [&#8230;]",
-      "date": "2026-09-16T07:50:23+00:00",
-      "sourceId": "technews",
-      "cats": [
-        "market",
-        "process",
-        "material"
-      ]
-    },
-    {
-      "id": "8ca688d91f83",
-      "title": "先進製程帶動濕法設備升級，盛美半導體拓展 Ultra C Tahoe 多工藝平台",
-      "link": "https://technews.tw/2026/09/16/acm-research-ultra-c-tahoe/",
-      "summary": "隨著半導體先進製程持續微縮，晶圓清洗的重要性也隨之提高。從先進邏輯的 FinFET、GAA 電晶體，到持續增加 [&#8230;]",
-      "date": "2026-09-16T07:44:48+00:00",
-      "sourceId": "technews",
-      "cats": [
-        "market",
-        "process",
-        "material"
-      ]
-    },
-    {
-      "id": "38cada7c6f4b",
-      "title": "SK 海力士傳洽 Intel 赴美製造  先進記憶體恐卡關？",
-      "link": "https://technews.tw/2026/09/16/sk-hynix-reportedly-in-talks-with-intel-for-us-manufacturing/",
-      "summary": "韓國記憶體巨擘 SK 海力士（SK Hynix）傳出正在與英特爾（Intel）洽談合作，可能首度在美國生產記憶 [&#8230;]",
-      "date": "2026-09-16T07:30:18+00:00",
-      "sourceId": "technews",
-      "cats": [
-        "market",
-        "process",
-        "material"
-      ]
-    },
-    {
-      "id": "c5d2c4fd0d58",
-      "title": "英特爾 18A 良率衝上 80%，分析師：量產穩定度明顯改善",
-      "link": "https://technews.tw/2026/09/16/intel-18a-yield-80-analysts-mass-production-stability-improved/",
-      "summary": "市場最新消息指出，英特爾先進製程的進展持續受到關注。中國金融機構 GF 證券分析師 Jeff Pu 在最新報告 [&#8230;]",
-      "date": "2026-09-16T07:20:47+00:00",
-      "sourceId": "technews",
-      "cats": [
-        "market",
-        "process",
-        "material"
       ]
     },
     {
