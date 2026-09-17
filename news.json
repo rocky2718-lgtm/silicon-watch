@@ -1,6 +1,6 @@
 {
-  "updated": "2026-09-17T07:31:26.155536+00:00",
-  "count": 12,
+  "updated": "2026-09-17T13:20:18.732438+00:00",
+  "count": 15,
   "sources": [
     {
       "id": "technews",
@@ -61,6 +61,71 @@
   ],
   "articles": [
     {
+      "id": "ff66daba7f67",
+      "title": "SK Hynix’s Intel Liaisons: What You Need to Know",
+      "link": "https://www.eetimes.com/sk-hynixs-intel-liaisons-what-you-need-to-know/",
+      "summary": "The deal between Intel and SK Hynix seems imminent not because of technology business imperatives, but because of geopolitical factors. The post SK Hynix’s Intel Liaisons: What You Need to Know appeared first on EE Times.",
+      "date": "2026-09-17T11:30:00+00:00",
+      "sourceId": "eetimes",
+      "cats": [
+        "process",
+        "material",
+        "equipment"
+      ]
+    },
+    {
+      "id": "10ee84174512",
+      "title": "Salesforce 攜手 NVIDIA 推 CRM 推理模型，執行長駁 SaaS 末日論",
+      "link": "https://technews.tw/2026/09/17/salesforce-announces-crm-reasoning-model-koa/",
+      "summary": "Salesforce 年度大會 Dreamforce 2026 於美國舊金山舉行，會中宣布攜手 NVIDIA [&#8230;]",
+      "date": "2026-09-17T10:49:25+00:00",
+      "sourceId": "technews",
+      "cats": [
+        "market",
+        "process",
+        "material"
+      ]
+    },
+    {
+      "id": "2933672a4166",
+      "title": "日本旭化成前主管涉竊半導體機密，技術流向中國企業",
+      "link": "https://finance.technews.tw/2026/09/17/asahi-kasei-executive-stole-semiconductor-secrets-tech-to-china/",
+      "summary": "日本愛知縣警方今天以涉嫌違反「不正競爭防止法」的洩漏營業祕密，逮捕石化大廠旭化成前員工古川祥一。旭化成表示，遭 [&#8230;]",
+      "date": "2026-09-17T10:40:29+00:00",
+      "sourceId": "technews",
+      "cats": [
+        "market",
+        "process",
+        "material"
+      ]
+    },
+    {
+      "id": "d673b513f0c2",
+      "title": "No Summer Lull for Semiconductors",
+      "link": "https://www.eetimes.com/no-summer-lull-for-semiconductors/",
+      "summary": "There was a time when summer slowed the semiconductor news cycle. Not this year. The post No Summer Lull for Semiconductors appeared first on EE Times.",
+      "date": "2026-09-17T08:03:34+00:00",
+      "sourceId": "eetimes",
+      "cats": [
+        "process",
+        "material",
+        "equipment"
+      ]
+    },
+    {
+      "id": "51e653136485",
+      "title": "5,500 億美元投資協議一環！傳日美洽談建晶片廠，將由格羅方德營運",
+      "link": "https://technews.tw/2026/09/17/japan-us-discussing-chip-factory/",
+      "summary": "根據日經報導，日本與美國正就興建一座半導體工廠進行磋商，該計畫是兩國達成的 5,500 億美元投資協議的一環。 [&#8230;]",
+      "date": "2026-09-17T07:34:24+00:00",
+      "sourceId": "technews",
+      "cats": [
+        "market",
+        "process",
+        "material"
+      ]
+    },
+    {
       "id": "77d1eb4cc5fb",
       "title": "AI 基礎設施峰會記憶體荒成焦點，HBF、HBC 新技術受矚",
       "link": "https://technews.tw/2026/09/17/ai-infrastructure-summit-memory-scarcity-focus-hbf-hbc-new-technologies/",
@@ -79,32 +144,6 @@
       "link": "https://technews.tw/2026/09/17/jpmorgan-upgrades-soitec-rating-and-price-target/",
       "summary": "摩根大通（JPMorgan，小摩）調升法國半導體材料大廠 Soitec 的投資評等，目標價翻倍至 200 歐元 [&#8230;]",
       "date": "2026-09-17T05:30:18+00:00",
-      "sourceId": "technews",
-      "cats": [
-        "market",
-        "process",
-        "material"
-      ]
-    },
-    {
-      "id": "4ed1387b6d52",
-      "title": "愛立信、聯發科完成 5G 定位精準度，加速自駕車、無人機等應用突破",
-      "link": "https://technews.tw/2026/09/17/ericsson-mtk-gnss/",
-      "summary": "愛立信與聯發科成功完成全球首例基於 3GPP 標準的全球導航衛星系統（GNSS）即時動態定位（Real-Tim [&#8230;]",
-      "date": "2026-09-17T04:24:04+00:00",
-      "sourceId": "technews",
-      "cats": [
-        "market",
-        "process",
-        "material"
-      ]
-    },
-    {
-      "id": "332c9b0c01c8",
-      "title": "串聯 4,000 顆處理器！華為 Ascend 960 首導入 NPO，靠「堆晶片」拚超大算力",
-      "link": "https://technews.tw/2026/09/17/huawei-unveils-new-ai-tech/",
-      "summary": "根據中媒《南華早報》報導，華為今（17 日）發布最新 Ascend 960 SuperPoD 運算叢集和升級版 [&#8230;]",
-      "date": "2026-09-17T04:01:17+00:00",
       "sourceId": "technews",
       "cats": [
         "market",
