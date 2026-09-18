@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-18T11:02:17.020253+00:00",
+  "updated": "2026-09-18T16:16:47.322998+00:00",
   "count": 19,
   "sources": [
     {
@@ -60,6 +60,19 @@
     }
   ],
   "articles": [
+    {
+      "id": "72d038fc804a",
+      "title": "AI Demand Will Keep DRAM Market Under Pressure",
+      "link": "https://www.eetimes.com/ai-demand-will-keep-dram-market-under-pressure/",
+      "summary": "AI infrastructure spending is driving DRAM shortages that will continue through 2027, pushing consumer electronics makers further down priority lists. The post AI Demand Will Keep DRAM Market Under Pressure appeared first on EE Times.",
+      "date": "2026-09-18T12:00:00+00:00",
+      "sourceId": "eetimes",
+      "cats": [
+        "process",
+        "material",
+        "equipment"
+      ]
+    },
     {
       "id": "95bf3d5ca093",
       "title": "繞道突破美晶片封鎖：中科院藉 GAA 創新延壽 DUV，5 奈米密度成短期極限",
@@ -144,19 +157,6 @@
       "link": "https://finance.technews.tw/2026/09/18/ai-chip-packaging-breaks-reticle-limits-cowos-l-remains-mainstream-advanced-packaging-until-2028/",
       "summary": "根據 TrendForce 最新半導體先進封裝產業研究，隨著 GPU 業者、超大型雲端服務供應商（CSP）持續 [&#8230;]",
       "date": "2026-09-18T07:20:27+00:00",
-      "sourceId": "technews",
-      "cats": [
-        "market",
-        "process",
-        "material"
-      ]
-    },
-    {
-      "id": "a321d5f5c9ac",
-      "title": "加州聖荷西想打造「AI 科技首都」掀地方居民反彈",
-      "link": "https://technews.tw/2026/09/18/san-jose-ca-aims-to-become-ai-tech-capital-faces-local-backlash/",
-      "summary": "全球科技中心矽谷大力發展 AI，背後環境代價成為爭論不休的議題。北加州聖荷西（San Jose）近年積極招商， [&#8230;]",
-      "date": "2026-09-18T04:50:32+00:00",
       "sourceId": "technews",
       "cats": [
         "market",
