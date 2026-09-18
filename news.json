@@ -1,6 +1,6 @@
 {
-  "updated": "2026-09-18T04:25:38.553120+00:00",
-  "count": 28,
+  "updated": "2026-09-18T11:02:17.020253+00:00",
+  "count": 19,
   "sources": [
     {
       "id": "technews",
@@ -61,11 +61,11 @@
   ],
   "articles": [
     {
-      "id": "365c2521ddde",
-      "title": "不只做後段封測，泰國喊話：要切入半導體前端晶片製造",
-      "link": "https://technews.tw/2026/09/18/thailand-must-invest-in-front-end-chip-production/",
-      "summary": "泰國投資促進機構近日表示，泰國若要在半導體產業鏈中提升競爭力，不能只停留在後段製程，還必須進一步投入前端晶片製 [&#8230;]",
-      "date": "2026-09-18T04:20:31+00:00",
+      "id": "95bf3d5ca093",
+      "title": "繞道突破美晶片封鎖：中科院藉 GAA 創新延壽 DUV，5 奈米密度成短期極限",
+      "link": "https://technews.tw/2026/09/18/china-duv-breakthrough-5nm-advance/",
+      "summary": "中國科學院（中科院）近日發表一項新型全環繞式閘極（GAA）電晶體架構，標榜即便使用較舊的深紫外光（DUV）微影 [&#8230;]",
+      "date": "2026-09-18T09:00:36+00:00",
       "sourceId": "technews",
       "cats": [
         "market",
@@ -74,11 +74,11 @@
       ]
     },
     {
-      "id": "ff0ff9c96782",
-      "title": "台積電漲價效應？傳 AMD 晶片 Q4 全面喊漲 10%",
-      "link": "https://technews.tw/2026/09/18/amd-notifies-partners-of-10-percent-price-hike/",
-      "summary": "市場謠傳，超微（AMD）準備於第四季將晶片價格調漲約 10%，主要是受到台積電漲價影響。 Wccftech、T [&#8230;]",
-      "date": "2026-09-18T04:00:42+00:00",
+      "id": "9a179600d846",
+      "title": "Forge Nano 押注台灣，打造先進 ALD 設備生產基地",
+      "link": "https://technews.tw/2026/09/18/forgenano-picks-taiwan-for-next-gen-equipment-production/",
+      "summary": "美國晶片製造設備商 Forge Nano 執行長告訴「日經亞洲」（Nikkei Asia），公司已選定台灣作為 [&#8230;]",
+      "date": "2026-09-18T08:50:46+00:00",
       "sourceId": "technews",
       "cats": [
         "market",
@@ -87,11 +87,11 @@
       ]
     },
     {
-      "id": "441febe33cf6",
-      "title": "黃仁勳：輝達明年晶片銷售量將翻倍",
-      "link": "https://technews.tw/2026/09/18/jensen-huang-says-nvidia-will-sell-twice-as-many-chips-next-year/",
-      "summary": "美國財經媒體 CNBC 報導，輝達（Nvidia）執行長黃仁勳今天表示，輝達明年售出的晶片數量將增加一倍。 這 [&#8230;]",
-      "date": "2026-09-18T03:40:53+00:00",
+      "id": "d333ebadaa4a",
+      "title": "傳長鑫擬進軍 NAND 市場，挑戰三星／長江存儲",
+      "link": "https://technews.tw/2026/09/18/chinas-cxmt-eyes-flash-memory-push-amid-global-shortage/",
+      "summary": "綜合港媒引用路透社報導，據知情人士透露，中國動態隨機存取記憶體（DRAM）龍頭長鑫科技旗下長鑫存儲技術（CXM [&#8230;]",
+      "date": "2026-09-18T08:20:46+00:00",
       "sourceId": "technews",
       "cats": [
         "market",
@@ -100,11 +100,11 @@
       ]
     },
     {
-      "id": "b64683e750ce",
-      "title": "矽谷 AI 安全戰局延燒，亞馬遜拒踩煞車：嚴格測試才是解方",
-      "link": "https://infosecu.technews.tw/2026/09/18/amazon-refuses-to-slow-down-ai-development/",
-      "summary": "亞馬遜於 17 日針對人工智慧（AI）安全議題正式表態，呼籲 AI 實驗室應確保模型經過嚴格測試，並建立強固的 [&#8230;]",
-      "date": "2026-09-18T03:30:29+00:00",
+      "id": "aefdeeba9843",
+      "title": "台積龍潭設埃米廠過頭關，後續還有環評、水電等挑戰",
+      "link": "https://technews.tw/2026/09/18/tsmc-longtan-a-fab-clears-first-hurdle-eia-water-electricity-challenges/",
+      "summary": "睽違三年後，台積電決定重返龍潭設廠。國發會 17 日審議通過「新竹科學園區龍潭園區擴建計畫」草案，台積電供應鏈 [&#8230;]",
+      "date": "2026-09-18T08:02:03+00:00",
       "sourceId": "technews",
       "cats": [
         "market",
@@ -113,11 +113,24 @@
       ]
     },
     {
-      "id": "4871bd270175",
-      "title": "安森美推出 EPP 嵌入式電源平台，功率密度最高提升 5 倍",
-      "link": "https://technews.tw/2026/09/18/onsemi-epp-embedded-power-platform-5x-power-density-boost/",
-      "summary": "功率半導體大廠安森美宣布推出嵌入式電源平台（Embedded Power Platform，EPP），以矽晶圓 [&#8230;]",
-      "date": "2026-09-18T03:30:23+00:00",
+      "id": "1723d8f39cb9",
+      "title": "Piecing Together the Indian Electronics and Semiconductor Ecosystem",
+      "link": "https://www.eetimes.com/piecing-together-the-indian-electronics-and-semiconductor-ecosystem/",
+      "summary": "India Semiconductor Mission 2.0, quantum computing with IBM, neuromorphic chips, and deep-tech startups: six stories on how India’s chip ecosystem is taking shape. The post Piecing Together the Indian Electronics and Semiconductor Ecosystem appeared first on EE Times.",
+      "date": "2026-09-18T08:00:00+00:00",
+      "sourceId": "eetimes",
+      "cats": [
+        "process",
+        "material",
+        "equipment"
+      ]
+    },
+    {
+      "id": "323ed7100184",
+      "title": "800V 後的新戰場：Vicor 搶攻垂直供電、股價飆近 18%",
+      "link": "https://technews.tw/2026/09/18/800v-new-battlefield-vicor-vertical-power-delivery-stock-surges-18/",
+      "summary": "隨 AI 晶片功耗持續攀升，垂直供電（Vertical Power Delivery，VPD）技術成為電源大廠 [&#8230;]",
+      "date": "2026-09-18T07:34:57+00:00",
       "sourceId": "technews",
       "cats": [
         "market",
@@ -126,11 +139,11 @@
       ]
     },
     {
-      "id": "a112a09d3e2c",
-      "title": "CPO 鬼故事嚇崩 CCL 三雄！大摩霸氣喊台光電、台燿逢低就是買點",
-      "link": "https://finance.technews.tw/2026/09/18/ghost-stories/",
-      "summary": "針對市場對共同封裝光學（CPO）技術可能取代高階銅箔基板（CCL）的疑慮，導致昨日台光電、台燿、聯茂股價明顯承 [&#8230;]",
-      "date": "2026-09-18T03:21:14+00:00",
+      "id": "3f47489387ae",
+      "title": "AI 晶片封裝突破光罩極限，CoWoS-L 穩居先進封裝主流至 2028 年",
+      "link": "https://finance.technews.tw/2026/09/18/ai-chip-packaging-breaks-reticle-limits-cowos-l-remains-mainstream-advanced-packaging-until-2028/",
+      "summary": "根據 TrendForce 最新半導體先進封裝產業研究，隨著 GPU 業者、超大型雲端服務供應商（CSP）持續 [&#8230;]",
+      "date": "2026-09-18T07:20:27+00:00",
       "sourceId": "technews",
       "cats": [
         "market",
@@ -139,141 +152,11 @@
       ]
     },
     {
-      "id": "9b8af55b10ce",
-      "title": "AI 基建燒錢  CoreWeave 發行可轉債籌 30 億美元",
-      "link": "https://finance.technews.tw/2026/09/18/coreweave-launches-3-billion-convertible-debt-sale/",
-      "summary": "AI 基礎建設瘋狂燒錢，背後有重量級靠山輝達（NVIDIA）的 AI 雲端運算商 CoreWeave 17 日 [&#8230;]",
-      "date": "2026-09-18T03:20:30+00:00",
-      "sourceId": "technews",
-      "cats": [
-        "market",
-        "process",
-        "material"
-      ]
-    },
-    {
-      "id": "b1716ed8edf8",
-      "title": "解決 AI 代理暴走危機的最佳解藥，「AI 監管 AI」成矽谷基礎設施新寵",
-      "link": "https://technews.tw/2026/09/18/ai-managing-ai/",
-      "summary": "隨著 AI 代理程式（AI Agents）逐漸成為企業工作流程的核心，如何確保它們不會出錯、失控或表現不穩，正 [&#8230;]",
-      "date": "2026-09-18T02:50:27+00:00",
-      "sourceId": "technews",
-      "cats": [
-        "market",
-        "process",
-        "material"
-      ]
-    },
-    {
-      "id": "c770babf48bc",
-      "title": "傳台積電 A14 明年 Q1 試產  2 / 3 奈米產能續升",
-      "link": "https://technews.tw/2026/09/18/tsmc-a14-rumored-q1-trial-production-next-year-2-3nm-capacity-continues-rise/",
-      "summary": "台積電先進製程進展再傳捷報!根據供應鏈透露，台積電已於今年第二季啟動 1.4 奈米（A14） CyberShu [&#8230;]",
-      "date": "2026-09-18T02:45:53+00:00",
-      "sourceId": "technews",
-      "cats": [
-        "market",
-        "process",
-        "material"
-      ]
-    },
-    {
-      "id": "efe5576dd551",
-      "title": "三星顯示器社長：摺疊 OLED 技術韓仍居冠，籲防範中國避免重演 LCD 敗局",
-      "link": "https://technews.tw/2026/09/18/samsung-display-president-yi-chung-warns-against-repeat-of-lcd-decline/",
-      "summary": "三星顯示器（Samsung Display）社長兼韓國顯示產業協會會長李清（Chung Yi，音譯）17 日在 [&#8230;]",
-      "date": "2026-09-18T02:40:55+00:00",
-      "sourceId": "technews",
-      "cats": [
-        "market",
-        "process",
-        "material"
-      ]
-    },
-    {
-      "id": "8ee8485ecc26",
-      "title": "假道東南亞、暗藏空殼公司，美報告揭輝達 AI 晶片輸中黑幕",
-      "link": "https://technews.tw/2026/09/18/nvidia-ai-chip-smuggling-china/",
-      "summary": "美國非營利監控機構 C4ADS 於 17 日發布最新報告，揭露儘管美國嚴管輝達（Nvidia）高階 AI 晶片 [&#8230;]",
-      "date": "2026-09-18T02:30:08+00:00",
-      "sourceId": "technews",
-      "cats": [
-        "market",
-        "process",
-        "material"
-      ]
-    },
-    {
-      "id": "1e334730a69b",
-      "title": "AI 擴產潮遇人力瓶頸，美半導體業 2030 年恐面臨逾 15 萬人才缺口",
-      "link": "https://technews.tw/2026/09/18/us-semiconductor-labor-shortage/",
-      "summary": "隨著 AI 晶片需求迎來爆發式成長，美國半導體產業正全面加速擴產，然而人才供給卻出現嚴重斷層。根據麥肯錫（Mc [&#8230;]",
-      "date": "2026-09-18T02:10:37+00:00",
-      "sourceId": "technews",
-      "cats": [
-        "market",
-        "process",
-        "material"
-      ]
-    },
-    {
-      "id": "3a0980bb69c2",
-      "title": "不是矽谷、華爾街，美國富豪都是一些解決日常生活小事的人",
-      "link": "https://technews.tw/2026/09/18/its-not-silicon-valley-or-wall-street-americas-wealthy-are-people-who-solve-the-small-everyday-problems-of-daily-life/",
-      "summary": "提到美國富豪，人們往往想到矽谷科技創業家、華爾街基金經理人，或靠股票暴富的投資客，但最新研究發現，美國龐大的富 [&#8230;]",
-      "date": "2026-09-18T02:08:50+00:00",
-      "sourceId": "technews",
-      "cats": [
-        "market",
-        "process",
-        "material"
-      ]
-    },
-    {
-      "id": "dde18151f5b0",
-      "title": "HBM 不再是唯一解方！AI 推理重組記憶體階層",
-      "link": "https://technews.tw/2026/09/18/hbm-ai-training-inference/",
-      "summary": "隨著 Test-time Scaling 展開，AI 產業重心正從訓練（Training）快速轉向推理（Inf [&#8230;]",
-      "date": "2026-09-18T02:00:18+00:00",
-      "sourceId": "technews",
-      "cats": [
-        "market",
-        "process",
-        "material"
-      ]
-    },
-    {
-      "id": "9895899998e1",
-      "title": "Fed 升息靴子落地美股強升，台積電帶頭衝刺 AI 供應鏈",
-      "link": "https://finance.technews.tw/2026/09/18/fed-rate-hike-confirmed-us-stocks-surge-tsmc-leads-ai-supply-chain-charge/",
-      "summary": "美聯儲（Fed）宣布升息 1 碼後，市場利空不跌反而選擇正面消化，隔夜美股四大指數全面走高，創下近 6 週以來 [&#8230;]",
-      "date": "2026-09-18T02:00:04+00:00",
-      "sourceId": "technews",
-      "cats": [
-        "market",
-        "process",
-        "material"
-      ]
-    },
-    {
-      "id": "d002b868d123",
-      "title": "AI 折舊論遭打臉？Nebius 傳再漲價、連 H100 也漲租",
-      "link": "https://technews.tw/2026/09/18/nebius-hikes-ai-cloud-prices-again-as-demand-for-computing-power-soars/",
-      "summary": "市場傳出，荷蘭 AI 基礎建設供應商 Nebius Group 近期通知客戶，將調高一系列 AI 晶片的隨需租 [&#8230;]",
-      "date": "2026-09-18T01:40:51+00:00",
-      "sourceId": "technews",
-      "cats": [
-        "market",
-        "process",
-        "material"
-      ]
-    },
-    {
-      "id": "63b9f8e58c65",
-      "title": "安世半導體切割中國母公司聞泰科技，攜手印度塔塔電子生產晶片",
-      "link": "https://technews.tw/2026/09/18/nexperia-and-tata-electronics-announce-strategic-partnership-across-semiconductor-manufacturing-technology-and-innovation/",
-      "summary": "荷蘭晶片製造商安世半導體（Nexperia）與塔塔電子今天宣布合作計畫，未來將在印度共同生產與封裝晶片，展現與 [&#8230;]",
-      "date": "2026-09-18T01:30:04+00:00",
+      "id": "a321d5f5c9ac",
+      "title": "加州聖荷西想打造「AI 科技首都」掀地方居民反彈",
+      "link": "https://technews.tw/2026/09/18/san-jose-ca-aims-to-become-ai-tech-capital-faces-local-backlash/",
+      "summary": "全球科技中心矽谷大力發展 AI，背後環境代價成為爭論不休的議題。北加州聖荷西（San Jose）近年積極招商， [&#8230;]",
+      "date": "2026-09-18T04:50:32+00:00",
       "sourceId": "technews",
       "cats": [
         "market",
