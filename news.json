@@ -1,6 +1,6 @@
 {
-  "updated": "2026-09-19T00:07:17.972838+00:00",
-  "count": 19,
+  "updated": "2026-09-19T07:15:43.752992+00:00",
+  "count": 21,
   "sources": [
     {
       "id": "technews",
@@ -61,6 +61,58 @@
   ],
   "articles": [
     {
+      "id": "88a0b24a7c34",
+      "title": "矽光子走出資料中心跨界發威，搶攻自駕、生醫與國防高利基商機",
+      "link": "https://technews.tw/2026/09/19/silicon-photonics-next-stop-autonomous-vehicle-eyes-biomedical-sensor-chips-drone-compasses/",
+      "summary": "在生成式 AI 帶動下，半導體產業焦點多集中於資料中心伺服器的「光進銅退」。然而，受限於雲端大廠的高度集中與嚴 [&#8230;]",
+      "date": "2026-09-19T06:00:59+00:00",
+      "sourceId": "technews",
+      "cats": [
+        "market",
+        "process",
+        "material"
+      ]
+    },
+    {
+      "id": "cc01db177071",
+      "title": "AIC 攜手 AMD 深化 AI 基礎設施合作，於 AMD 台北嵌入式高峰會展現多元運算平台實力",
+      "link": "https://technews.tw/2026/09/19/aic-deepens-ai-infrastructure-partnership-with-amd/",
+      "summary": "全球 AI 基礎設施需求持續快速成長，AIC 營邦企業將於 9 月 16 日參與 AMD 台北嵌入式高峰會（A [&#8230;]",
+      "date": "2026-09-19T06:00:19+00:00",
+      "sourceId": "technews",
+      "cats": [
+        "market",
+        "process",
+        "material"
+      ]
+    },
+    {
+      "id": "bffb6f75a75d",
+      "title": "宏碁陳俊聖盼升息緩解記憶體漲風！施振榮拋「新王道」駕馭 AI 亂象",
+      "link": "https://finance.technews.tw/2026/09/19/surge-in-memory-prices/",
+      "summary": "宏碁創辦人、智榮基金會董事長施振榮提出「王道思想」至今已 50 個年頭，今日舉辦王道 50「王道經營與 AI [&#8230;]",
+      "date": "2026-09-19T03:42:29+00:00",
+      "sourceId": "technews",
+      "cats": [
+        "market",
+        "process",
+        "material"
+      ]
+    },
+    {
+      "id": "565d3c3accf9",
+      "title": "從喊「還用不到」到排進量產，台積啟用新曝光機，台廠誰受惠？",
+      "link": "https://technews.tw/2026/09/19/tsmc-high-na-euv/",
+      "summary": "一台要價 4 億美元（約新台幣 127 億元）、台積電曾公開說「還用不到」的 High-NA EUV（高數值孔 [&#8230;]",
+      "date": "2026-09-19T02:00:30+00:00",
+      "sourceId": "technews",
+      "cats": [
+        "market",
+        "process",
+        "material"
+      ]
+    },
+    {
       "id": "40496fb1bccc",
       "title": "Intel Puts High-NA EUV into Production, but Stitching Still Has Something to Prove",
       "link": "https://www.eetimes.com/intel-puts-high-na-euv-into-production-but-stitching-still-has-something-to-prove/",
@@ -88,7 +140,7 @@
     },
     {
       "id": "95bf3d5ca093",
-      "title": "繞道突破美晶片封鎖：中科院藉 GAA 創新延壽 DUV，5 奈米密度成短期極限",
+      "title": "繞道突破美晶片封鎖：中國科學院藉 GAA 創新延壽 DUV，5 奈米密度成短期極限",
       "link": "https://technews.tw/2026/09/18/china-duv-breakthrough-5nm-advance/",
       "summary": "中國科學院（中科院）近日發表一項新型全環繞式閘極（GAA）電晶體架構，標榜即便使用較舊的深紫外光（DUV）微影 [&#8230;]",
       "date": "2026-09-18T09:00:36+00:00",
@@ -149,32 +201,6 @@
         "process",
         "material",
         "equipment"
-      ]
-    },
-    {
-      "id": "323ed7100184",
-      "title": "800V 後的新戰場：Vicor 搶攻垂直供電、股價飆近 18%",
-      "link": "https://technews.tw/2026/09/18/800v-new-battlefield-vicor-vertical-power-delivery-stock-surges-18/",
-      "summary": "隨 AI 晶片功耗持續攀升，垂直供電（Vertical Power Delivery，VPD）技術成為電源大廠 [&#8230;]",
-      "date": "2026-09-18T07:34:57+00:00",
-      "sourceId": "technews",
-      "cats": [
-        "market",
-        "process",
-        "material"
-      ]
-    },
-    {
-      "id": "3f47489387ae",
-      "title": "AI 晶片封裝突破光罩極限，CoWoS-L 穩居先進封裝主流至 2028 年",
-      "link": "https://finance.technews.tw/2026/09/18/ai-chip-packaging-breaks-reticle-limits-cowos-l-remains-mainstream-advanced-packaging-until-2028/",
-      "summary": "根據 TrendForce 最新半導體先進封裝產業研究，隨著 GPU 業者、超大型雲端服務供應商（CSP）持續 [&#8230;]",
-      "date": "2026-09-18T07:20:27+00:00",
-      "sourceId": "technews",
-      "cats": [
-        "market",
-        "process",
-        "material"
       ]
     },
     {
