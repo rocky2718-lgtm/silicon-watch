@@ -1,6 +1,6 @@
 {
-  "updated": "2026-09-19T12:26:24.541950+00:00",
-  "count": 19,
+  "updated": "2026-09-19T17:08:55.807022+00:00",
+  "count": 17,
   "sources": [
     {
       "id": "technews",
@@ -136,32 +136,6 @@
         "process",
         "material",
         "equipment"
-      ]
-    },
-    {
-      "id": "95bf3d5ca093",
-      "title": "繞道突破美晶片封鎖：中國科學院藉 GAA 創新延壽 DUV，5 奈米密度成短期極限",
-      "link": "https://technews.tw/2026/09/18/china-duv-breakthrough-5nm-advance/",
-      "summary": "中國科學院（中科院）近日發表一項新型全環繞式閘極（GAA）電晶體架構，標榜即便使用較舊的深紫外光（DUV）微影 [&#8230;]",
-      "date": "2026-09-18T09:00:36+00:00",
-      "sourceId": "technews",
-      "cats": [
-        "market",
-        "process",
-        "material"
-      ]
-    },
-    {
-      "id": "9a179600d846",
-      "title": "Forge Nano 押注台灣，打造先進 ALD 設備生產基地",
-      "link": "https://technews.tw/2026/09/18/forgenano-picks-taiwan-for-next-gen-equipment-production/",
-      "summary": "美國晶片製造設備商 Forge Nano 執行長告訴「日經亞洲」（Nikkei Asia），公司已選定台灣作為 [&#8230;]",
-      "date": "2026-09-18T08:50:46+00:00",
-      "sourceId": "technews",
-      "cats": [
-        "market",
-        "process",
-        "material"
       ]
     },
     {
