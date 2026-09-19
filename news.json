@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-18T20:48:17.302893+00:00",
+  "updated": "2026-09-19T00:07:17.972838+00:00",
   "count": 19,
   "sources": [
     {
@@ -60,6 +60,19 @@
     }
   ],
   "articles": [
+    {
+      "id": "40496fb1bccc",
+      "title": "Intel Puts High-NA EUV into Production, but Stitching Still Has Something to Prove",
+      "link": "https://www.eetimes.com/intel-puts-high-na-euv-into-production-but-stitching-still-has-something-to-prove/",
+      "summary": "Panther Lake validates High NA in manufacturing, while electrical stitching and larger masks remain the next hurdles. The post Intel Puts High-NA EUV into Production, but Stitching Still Has Something to Prove appeared first on EE Times.",
+      "date": "2026-09-18T22:00:00+00:00",
+      "sourceId": "eetimes",
+      "cats": [
+        "process",
+        "material",
+        "equipment"
+      ]
+    },
     {
       "id": "72d038fc804a",
       "title": "AI Demand Will Keep DRAM Market Under Pressure",
@@ -196,19 +209,6 @@
       "link": "https://www.eetimes.com/no-summer-lull-for-semiconductors/",
       "summary": "There was a time when summer slowed the semiconductor news cycle. Not this year. The post No Summer Lull for Semiconductors appeared first on EE Times.",
       "date": "2026-09-17T08:03:34+00:00",
-      "sourceId": "eetimes",
-      "cats": [
-        "process",
-        "material",
-        "equipment"
-      ]
-    },
-    {
-      "id": "db258022e474",
-      "title": "Edge-first Architectures for Building and Campus Safety and Security",
-      "link": "https://www.eetimes.com/edge-first-architectures-for-building-and-campus-safety-and-security/",
-      "summary": "Join us to explore how Qualcomm Technologies edge-first architecture is built to bring AI processing directly to cameras, gateways, and on-premises systems. The post Edge-first Architectures for Building and Campus Safety and Security appeared first on EE Times.",
-      "date": "2026-09-16T15:53:12+00:00",
       "sourceId": "eetimes",
       "cats": [
         "process",
