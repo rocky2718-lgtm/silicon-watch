@@ -1,6 +1,6 @@
 {
-  "updated": "2026-09-19T07:15:43.752992+00:00",
-  "count": 21,
+  "updated": "2026-09-19T12:26:24.541950+00:00",
+  "count": 19,
   "sources": [
     {
       "id": "technews",
@@ -157,32 +157,6 @@
       "link": "https://technews.tw/2026/09/18/forgenano-picks-taiwan-for-next-gen-equipment-production/",
       "summary": "美國晶片製造設備商 Forge Nano 執行長告訴「日經亞洲」（Nikkei Asia），公司已選定台灣作為 [&#8230;]",
       "date": "2026-09-18T08:50:46+00:00",
-      "sourceId": "technews",
-      "cats": [
-        "market",
-        "process",
-        "material"
-      ]
-    },
-    {
-      "id": "d333ebadaa4a",
-      "title": "傳長鑫擬進軍 NAND 市場，挑戰三星／長江存儲",
-      "link": "https://technews.tw/2026/09/18/chinas-cxmt-eyes-flash-memory-push-amid-global-shortage/",
-      "summary": "綜合港媒引用路透社報導，據知情人士透露，中國動態隨機存取記憶體（DRAM）龍頭長鑫科技旗下長鑫存儲技術（CXM [&#8230;]",
-      "date": "2026-09-18T08:20:46+00:00",
-      "sourceId": "technews",
-      "cats": [
-        "market",
-        "process",
-        "material"
-      ]
-    },
-    {
-      "id": "aefdeeba9843",
-      "title": "台積龍潭設埃米廠過頭關，後續還有環評、水電等挑戰",
-      "link": "https://technews.tw/2026/09/18/tsmc-longtan-a-fab-clears-first-hurdle-eia-water-electricity-challenges/",
-      "summary": "睽違三年後，台積電決定重返龍潭設廠。國發會 17 日審議通過「新竹科學園區龍潭園區擴建計畫」草案，台積電供應鏈 [&#8230;]",
-      "date": "2026-09-18T08:02:03+00:00",
       "sourceId": "technews",
       "cats": [
         "market",
