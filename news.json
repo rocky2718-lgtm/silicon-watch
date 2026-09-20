@@ -1,6 +1,6 @@
 {
-  "updated": "2026-09-20T07:41:05.949524+00:00",
-  "count": 17,
+  "updated": "2026-09-20T13:00:19.842914+00:00",
+  "count": 16,
   "sources": [
     {
       "id": "technews",
@@ -92,19 +92,6 @@
       "link": "https://technews.tw/2026/09/19/aic-deepens-ai-infrastructure-partnership-with-amd/",
       "summary": "全球 AI 基礎設施需求持續快速成長，AIC 營邦企業將於 9 月 16 日參與 AMD 台北嵌入式高峰會（A [&#8230;]",
       "date": "2026-09-19T06:00:19+00:00",
-      "sourceId": "technews",
-      "cats": [
-        "market",
-        "process",
-        "material"
-      ]
-    },
-    {
-      "id": "bffb6f75a75d",
-      "title": "宏碁陳俊聖盼升息緩解記憶體漲風！施振榮拋「新王道」駕馭 AI 亂象",
-      "link": "https://finance.technews.tw/2026/09/19/surge-in-memory-prices/",
-      "summary": "宏碁創辦人、智榮基金會董事長施振榮提出「王道思想」至今已 50 個年頭，今日舉辦王道 50「王道經營與 AI [&#8230;]",
-      "date": "2026-09-19T03:42:29+00:00",
       "sourceId": "technews",
       "cats": [
         "market",
