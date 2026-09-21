@@ -1,6 +1,6 @@
 {
-  "updated": "2026-09-20T20:40:45.479217+00:00",
-  "count": 16,
+  "updated": "2026-09-21T00:05:30.361082+00:00",
+  "count": 18,
   "sources": [
     {
       "id": "technews",
@@ -61,37 +61,63 @@
   ],
   "articles": [
     {
+      "id": "ecdfddada2ce",
+      "title": "淺談 Hot Chips 2026：自研晶片當道",
+      "link": "https://technews.tw/2026/09/21/hot-chips-2026-ai-silicon-trend/",
+      "summary": "如果要用一句話總結今年 Hot Chips 2026，「自研晶片當道」大概是筆者認為最明顯的趨勢。現在比的已經 [&#8230;]",
+      "date": "2026-09-20T23:50:43+00:00",
+      "sourceId": "technews",
+      "cats": [
+        "market",
+        "process",
+        "material"
+      ]
+    },
+    {
+      "id": "dfc1c727972d",
+      "title": "長鑫存儲第五代 DRAM 技術平台量產，晶圓產出提升至少 50%",
+      "link": "https://technews.tw/2026/09/21/cxmt-announces-mass-production-of-5th-generation-dram-technology-platform/",
+      "summary": "中國最大 DRAM 製造商長鑫存儲（CXMT）20 日正式宣布，第五代 DRAM 技術平台進入量產，同步展出以 [&#8230;]",
+      "date": "2026-09-20T23:49:09+00:00",
+      "sourceId": "technews",
+      "cats": [
+        "market",
+        "process",
+        "material"
+      ]
+    },
+    {
+      "id": "99e7cae14a8a",
+      "title": "Google 為何甘願分食 Gemini 的算力？自己用最划算卻把 AI 晶片賣給 Anthropic 的答案是這個",
+      "link": "https://technews.tw/2026/09/21/why-google-willing-share-geminis-computing-power/",
+      "summary": "AI 資本支出過高的隱憂下，Google Cloud 執行長庫里安（Thomas Kurian）在日前舉辦的高 [&#8230;]",
+      "date": "2026-09-20T23:30:38+00:00",
+      "sourceId": "technews",
+      "cats": [
+        "market",
+        "process",
+        "material"
+      ]
+    },
+    {
+      "id": "fd45033bb523",
+      "title": "不當縮小版日月光，台灣「封測小巨人」狂吃 AI 外溢訂單的突圍之道",
+      "link": "https://finance.technews.tw/2026/09/21/taiwanese-osat-little-giants-ase-spil-chipmos-niche-battlegrounds-tsmc-ase-advanced-packaging-investment/",
+      "summary": "2026 年，全球封裝測試業正上演一場罕見的資本競賽。 日月光、Amkor、力成、長電科技、通富微電與京元電子 [&#8230;]",
+      "date": "2026-09-20T23:10:16+00:00",
+      "sourceId": "technews",
+      "cats": [
+        "market",
+        "process",
+        "material"
+      ]
+    },
+    {
       "id": "4b166d2962c1",
       "title": "CPO 產品結構持續演進，均英精密 FAU 客製檢測從抽樣導入量產測試",
       "link": "https://technews.tw/2026/09/20/gen-precision-brings-custom-fau-testing-into-mass-production-testing/",
       "summary": "均英精密持續擴大共同封裝光學（CPO）檢測布局，針對光纖陣列單元（FAU）及其零配件的高精度與客製化檢測需求， [&#8230;]",
       "date": "2026-09-20T06:00:08+00:00",
-      "sourceId": "technews",
-      "cats": [
-        "market",
-        "process",
-        "material"
-      ]
-    },
-    {
-      "id": "88a0b24a7c34",
-      "title": "矽光子走出資料中心跨界發威，搶攻自駕、生醫與國防高利基商機",
-      "link": "https://technews.tw/2026/09/19/silicon-photonics-next-stop-autonomous-vehicle-eyes-biomedical-sensor-chips-drone-compasses/",
-      "summary": "在生成式 AI 帶動下，半導體產業焦點多集中於資料中心伺服器的「光進銅退」。然而，受限於雲端大廠的高度集中與嚴 [&#8230;]",
-      "date": "2026-09-19T06:00:59+00:00",
-      "sourceId": "technews",
-      "cats": [
-        "market",
-        "process",
-        "material"
-      ]
-    },
-    {
-      "id": "cc01db177071",
-      "title": "AIC 攜手 AMD 深化 AI 基礎設施合作，於 AMD 台北嵌入式高峰會展現多元運算平台實力",
-      "link": "https://technews.tw/2026/09/19/aic-deepens-ai-infrastructure-partnership-with-amd/",
-      "summary": "全球 AI 基礎設施需求持續快速成長，AIC 營邦企業將於 9 月 16 日參與 AMD 台北嵌入式高峰會（A [&#8230;]",
-      "date": "2026-09-19T06:00:19+00:00",
       "sourceId": "technews",
       "cats": [
         "market",
