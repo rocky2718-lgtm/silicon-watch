@@ -1,6 +1,6 @@
 {
-  "updated": "2026-09-21T00:05:30.361082+00:00",
-  "count": 18,
+  "updated": "2026-09-21T07:53:34.243177+00:00",
+  "count": 22,
   "sources": [
     {
       "id": "technews",
@@ -61,11 +61,24 @@
   ],
   "articles": [
     {
-      "id": "ecdfddada2ce",
-      "title": "淺談 Hot Chips 2026：自研晶片當道",
-      "link": "https://technews.tw/2026/09/21/hot-chips-2026-ai-silicon-trend/",
-      "summary": "如果要用一句話總結今年 Hot Chips 2026，「自研晶片當道」大概是筆者認為最明顯的趨勢。現在比的已經 [&#8230;]",
-      "date": "2026-09-20T23:50:43+00:00",
+      "id": "787e17892f67",
+      "title": "AI, Crypto Mining Expose Global Compute Infrastructure Constraints",
+      "link": "https://www.eetimes.com/ai-crypto-mining-expose-global-compute-infrastructure-constraints/",
+      "summary": "Global semiconductor bottlenecks, multi-year foundry lead times, and rising trade friction leave European compute infrastructure supply-constrained amid surging AI and blockchain hardware demand. The post AI, Crypto Mining Expose Global Compute Infrastructure Constraints appeared first on EE Times.",
+      "date": "2026-09-21T07:50:44+00:00",
+      "sourceId": "eetimes",
+      "cats": [
+        "process",
+        "material",
+        "equipment"
+      ]
+    },
+    {
+      "id": "d090384146cc",
+      "title": "台積電藉產能建構無能人能敵市場護城河，本益比仍落後有望上漲",
+      "link": "https://finance.technews.tw/2026/09/21/tsmc-leverages-its-production-capacity-to-build-an-unparalleled-market-moat/",
+      "summary": "市場消息指出，全球晶圓代工龍頭台積電憑藉龐大的產能優勢與技術壁壘，已建構起對手難以跨越的「鋼鐵護城河」。隨著全 [&#8230;]",
+      "date": "2026-09-21T07:30:34+00:00",
       "sourceId": "technews",
       "cats": [
         "market",
@@ -74,11 +87,11 @@
       ]
     },
     {
-      "id": "dfc1c727972d",
-      "title": "長鑫存儲第五代 DRAM 技術平台量產，晶圓產出提升至少 50%",
-      "link": "https://technews.tw/2026/09/21/cxmt-announces-mass-production-of-5th-generation-dram-technology-platform/",
-      "summary": "中國最大 DRAM 製造商長鑫存儲（CXMT）20 日正式宣布，第五代 DRAM 技術平台進入量產，同步展出以 [&#8230;]",
-      "date": "2026-09-20T23:49:09+00:00",
+      "id": "39cd6ef362fe",
+      "title": "外資單日爆買台股 869 億元！00904、00892 績效暴衝逾 400%",
+      "link": "https://finance.technews.tw/2026/09/21/00892/",
+      "summary": "受惠美國政府力挺、AI 企業盈利成長，帶旺美股牛市續揚，激勵台灣半導體 ETF 績效翻紅，近 4 年表現最好的 [&#8230;]",
+      "date": "2026-09-21T07:02:46+00:00",
       "sourceId": "technews",
       "cats": [
         "market",
@@ -87,11 +100,11 @@
       ]
     },
     {
-      "id": "99e7cae14a8a",
-      "title": "Google 為何甘願分食 Gemini 的算力？自己用最划算卻把 AI 晶片賣給 Anthropic 的答案是這個",
-      "link": "https://technews.tw/2026/09/21/why-google-willing-share-geminis-computing-power/",
-      "summary": "AI 資本支出過高的隱憂下，Google Cloud 執行長庫里安（Thomas Kurian）在日前舉辦的高 [&#8230;]",
-      "date": "2026-09-20T23:30:38+00:00",
+      "id": "ec536c5b7693",
+      "title": "告別雲端連網！A20 Pro 實測：iPhone 18 Pro 成功於本機直跑 270 億參數大模型",
+      "link": "https://technews.tw/2026/09/21/apples-a20-pro-demonstrated-to-be-an-on-device-ai-beast/",
+      "summary": "蘋果最新一代 A20 Pro 晶片近日在端側人工智慧測試中展現明顯優勢。根據最新示範，搭載 A20 Pro 的 [&#8230;]",
+      "date": "2026-09-21T06:40:04+00:00",
       "sourceId": "technews",
       "cats": [
         "market",
@@ -100,11 +113,11 @@
       ]
     },
     {
-      "id": "fd45033bb523",
-      "title": "不當縮小版日月光，台灣「封測小巨人」狂吃 AI 外溢訂單的突圍之道",
-      "link": "https://finance.technews.tw/2026/09/21/taiwanese-osat-little-giants-ase-spil-chipmos-niche-battlegrounds-tsmc-ase-advanced-packaging-investment/",
-      "summary": "2026 年，全球封裝測試業正上演一場罕見的資本競賽。 日月光、Amkor、力成、長電科技、通富微電與京元電子 [&#8230;]",
-      "date": "2026-09-20T23:10:16+00:00",
+      "id": "4dc4beaa59e5",
+      "title": "功率半導體漲價接力賽開跑！安森美 10 月調價，台廠最快第四季跟上",
+      "link": "https://technews.tw/2026/09/21/power-semiconductor-giant-raises-prices-onsemi-adjusts-upwards-taiwanese-manufacturers-to-follow-q4/",
+      "summary": "全球功率半導體漲價潮持續延燒。繼德州儀器、瑞薩陸續傳出調價消息後，安森美也傳出漲價通知，預計 10 月 10 [&#8230;]",
+      "date": "2026-09-21T06:26:23+00:00",
       "sourceId": "technews",
       "cats": [
         "market",
@@ -113,11 +126,50 @@
       ]
     },
     {
-      "id": "4b166d2962c1",
-      "title": "CPO 產品結構持續演進，均英精密 FAU 客製檢測從抽樣導入量產測試",
-      "link": "https://technews.tw/2026/09/20/gen-precision-brings-custom-fau-testing-into-mass-production-testing/",
-      "summary": "均英精密持續擴大共同封裝光學（CPO）檢測布局，針對光纖陣列單元（FAU）及其零配件的高精度與客製化檢測需求， [&#8230;]",
-      "date": "2026-09-20T06:00:08+00:00",
+      "id": "a4befd0b22a7",
+      "title": "Analog Devices 擬收購 Alif Semiconductor，導入 AI 原生處理平台，推動因應下一代現實世界系統的實體智慧發展",
+      "link": "https://finance.technews.tw/2026/09/21/analog-devices-acquire-alif-semiconductor-ai-native-platforms-physical-intelligence-next-gen-systems/",
+      "summary": "Analog Devices, Inc. 與 Alif Semiconductor 宣佈，雙方已達成最終協議， [&#8230;]",
+      "date": "2026-09-21T06:00:38+00:00",
+      "sourceId": "technews",
+      "cats": [
+        "market",
+        "process",
+        "material"
+      ]
+    },
+    {
+      "id": "ffe2e533e6fd",
+      "title": "三星德州泰勒廠提早試產特斯拉 AI5 晶片，用以穩固晶圓代工榜眼地位",
+      "link": "https://technews.tw/2026/09/21/samsungs-taylor-plant-in-texas-begins-trial-production-of-teslas-ai5-chip-ahead-of-schedule/",
+      "summary": "韓國三星電子已於美國德州泰勒（Taylor）晶圓代工廠提前啟動特斯拉（Tesla）下一代人工智慧（AI）晶片「 [&#8230;]",
+      "date": "2026-09-21T05:30:34+00:00",
+      "sourceId": "technews",
+      "cats": [
+        "market",
+        "process",
+        "material"
+      ]
+    },
+    {
+      "id": "3c90b27e521e",
+      "title": "米玉傑：針對下世代先進製程開發，AI 當前仍有力有未逮之處",
+      "link": "https://technews.tw/2026/09/21/ai-still-has-limitations-in-the-development-of-next-generation-advanced-manufacturing-processes/",
+      "summary": "台積電（TSMC）共同營運長米玉傑日前出席公開活動時，在會議上剖析 AI 的應用、先進製程的研發瓶頸，以及台積 [&#8230;]",
+      "date": "2026-09-21T05:00:28+00:00",
+      "sourceId": "technews",
+      "cats": [
+        "market",
+        "process",
+        "material"
+      ]
+    },
+    {
+      "id": "fa0766110bea",
+      "title": "幫找 Bug 不再有錢拿，英特爾無預警取消抓漏獎勵",
+      "link": "https://infosecu.technews.tw/2026/09/21/intel-suspends-bug-bounty-program-that-paid-up-to-100000-per-flaw/",
+      "summary": "英特爾（Intel）已暫停其原本提供金錢獎勵的漏洞回報計畫，並在同一平台上改推一項不發放獎金的責任揭露機制。根 [&#8230;]",
+      "date": "2026-09-21T04:00:30+00:00",
       "sourceId": "technews",
       "cats": [
         "market",
