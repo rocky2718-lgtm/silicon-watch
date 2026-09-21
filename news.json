@@ -1,6 +1,6 @@
 {
-  "updated": "2026-09-21T07:53:34.243177+00:00",
-  "count": 22,
+  "updated": "2026-09-21T15:02:30.141201+00:00",
+  "count": 19,
   "sources": [
     {
       "id": "technews",
@@ -60,6 +60,45 @@
     }
   ],
   "articles": [
+    {
+      "id": "02637f395aaa",
+      "title": "Redefining Intelligent HMI at the Edge: How AI Is Transforming Human-Machine Interaction",
+      "link": "https://www.eetimes.com/redefining-intelligent-hmi-at-the-edge-how-ai-is-transforming-human-machine-interaction/",
+      "summary": "Next-generation HMI systems are evolving beyond the touchscreen into intelligent, context-aware experiences powered by edge AI The post Redefining Intelligent HMI at the Edge: How AI Is Transforming Human-Machine Interaction appeared first on EE Times.",
+      "date": "2026-09-21T13:00:00+00:00",
+      "sourceId": "eetimes",
+      "cats": [
+        "process",
+        "material",
+        "equipment"
+      ]
+    },
+    {
+      "id": "8f72a13e525d",
+      "title": "China’s DRAM Specialist CXMT Eyes NAND Flash Entry",
+      "link": "https://www.eetimes.com/chinas-dram-specialist-cxmt-eyes-nand-flash-entry/",
+      "summary": "China’s twin memory stars, CXMT and YMTC, move into each other’s turf to capitalize on AI-driven storage shortages. The post China’s DRAM Specialist CXMT Eyes NAND Flash Entry appeared first on EE Times.",
+      "date": "2026-09-21T11:58:25+00:00",
+      "sourceId": "eetimes",
+      "cats": [
+        "process",
+        "material",
+        "equipment"
+      ]
+    },
+    {
+      "id": "f21336839716",
+      "title": "漢磊第五代 SiC 技術亮相，導通損耗降 12%、搶攻 AI 與車用商機",
+      "link": "https://technews.tw/2026/09/21/hanlei-unveils-5th-gen-sic-12-conduction-loss-ai-automotive-market/",
+      "summary": "因應電動車、AI 資料中心及綠能基礎設施對高效率電力轉換的需求，化合物半導體晶圓代工廠漢磊今（21）日宣布推出 [&#8230;]",
+      "date": "2026-09-21T09:10:10+00:00",
+      "sourceId": "technews",
+      "cats": [
+        "market",
+        "process",
+        "material"
+      ]
+    },
     {
       "id": "787e17892f67",
       "title": "AI, Crypto Mining Expose Global Compute Infrastructure Constraints",
@@ -126,58 +165,6 @@
       ]
     },
     {
-      "id": "a4befd0b22a7",
-      "title": "Analog Devices 擬收購 Alif Semiconductor，導入 AI 原生處理平台，推動因應下一代現實世界系統的實體智慧發展",
-      "link": "https://finance.technews.tw/2026/09/21/analog-devices-acquire-alif-semiconductor-ai-native-platforms-physical-intelligence-next-gen-systems/",
-      "summary": "Analog Devices, Inc. 與 Alif Semiconductor 宣佈，雙方已達成最終協議， [&#8230;]",
-      "date": "2026-09-21T06:00:38+00:00",
-      "sourceId": "technews",
-      "cats": [
-        "market",
-        "process",
-        "material"
-      ]
-    },
-    {
-      "id": "ffe2e533e6fd",
-      "title": "三星德州泰勒廠提早試產特斯拉 AI5 晶片，用以穩固晶圓代工榜眼地位",
-      "link": "https://technews.tw/2026/09/21/samsungs-taylor-plant-in-texas-begins-trial-production-of-teslas-ai5-chip-ahead-of-schedule/",
-      "summary": "韓國三星電子已於美國德州泰勒（Taylor）晶圓代工廠提前啟動特斯拉（Tesla）下一代人工智慧（AI）晶片「 [&#8230;]",
-      "date": "2026-09-21T05:30:34+00:00",
-      "sourceId": "technews",
-      "cats": [
-        "market",
-        "process",
-        "material"
-      ]
-    },
-    {
-      "id": "3c90b27e521e",
-      "title": "米玉傑：針對下世代先進製程開發，AI 當前仍有力有未逮之處",
-      "link": "https://technews.tw/2026/09/21/ai-still-has-limitations-in-the-development-of-next-generation-advanced-manufacturing-processes/",
-      "summary": "台積電（TSMC）共同營運長米玉傑日前出席公開活動時，在會議上剖析 AI 的應用、先進製程的研發瓶頸，以及台積 [&#8230;]",
-      "date": "2026-09-21T05:00:28+00:00",
-      "sourceId": "technews",
-      "cats": [
-        "market",
-        "process",
-        "material"
-      ]
-    },
-    {
-      "id": "fa0766110bea",
-      "title": "幫找 Bug 不再有錢拿，英特爾無預警取消抓漏獎勵",
-      "link": "https://infosecu.technews.tw/2026/09/21/intel-suspends-bug-bounty-program-that-paid-up-to-100000-per-flaw/",
-      "summary": "英特爾（Intel）已暫停其原本提供金錢獎勵的漏洞回報計畫，並在同一平台上改推一項不發放獎金的責任揭露機制。根 [&#8230;]",
-      "date": "2026-09-21T04:00:30+00:00",
-      "sourceId": "technews",
-      "cats": [
-        "market",
-        "process",
-        "material"
-      ]
-    },
-    {
       "id": "40496fb1bccc",
       "title": "Intel Puts High-NA EUV into Production, but Stitching Still Has Something to Prove",
       "link": "https://www.eetimes.com/intel-puts-high-na-euv-into-production-but-stitching-still-has-something-to-prove/",
@@ -222,32 +209,6 @@
       "link": "https://www.eetimes.com/u-s-awards-anderon-1b-for-quantum-wafer-manufacturing/",
       "summary": "Washington bets $1B on IBM’s Anderon to forge quantum wafers on U.S. soil as the race leaves labs behind. The post U.S. Awards Anderon $1B for Quantum Wafer Manufacturing appeared first on EE Times.",
       "date": "2026-09-17T22:00:00+00:00",
-      "sourceId": "eetimes",
-      "cats": [
-        "process",
-        "material",
-        "equipment"
-      ]
-    },
-    {
-      "id": "ff66daba7f67",
-      "title": "SK Hynix’s Intel Liaisons: What You Need to Know",
-      "link": "https://www.eetimes.com/sk-hynixs-intel-liaisons-what-you-need-to-know/",
-      "summary": "The deal between Intel and SK Hynix seems imminent not because of technology business imperatives, but because of geopolitical factors. The post SK Hynix’s Intel Liaisons: What You Need to Know appeared first on EE Times.",
-      "date": "2026-09-17T11:30:00+00:00",
-      "sourceId": "eetimes",
-      "cats": [
-        "process",
-        "material",
-        "equipment"
-      ]
-    },
-    {
-      "id": "d673b513f0c2",
-      "title": "No Summer Lull for Semiconductors",
-      "link": "https://www.eetimes.com/no-summer-lull-for-semiconductors/",
-      "summary": "There was a time when summer slowed the semiconductor news cycle. Not this year. The post No Summer Lull for Semiconductors appeared first on EE Times.",
-      "date": "2026-09-17T08:03:34+00:00",
       "sourceId": "eetimes",
       "cats": [
         "process",
