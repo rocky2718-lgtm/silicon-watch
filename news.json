@@ -1,6 +1,6 @@
 {
-  "updated": "2026-09-21T15:02:30.141201+00:00",
-  "count": 19,
+  "updated": "2026-09-21T20:22:46.066545+00:00",
+  "count": 17,
   "sources": [
     {
       "id": "technews",
@@ -183,32 +183,6 @@
       "link": "https://www.eetimes.com/ai-demand-will-keep-dram-market-under-pressure/",
       "summary": "AI infrastructure spending is driving DRAM shortages that will continue through 2027, pushing consumer electronics makers further down priority lists. The post AI Demand Will Keep DRAM Market Under Pressure appeared first on EE Times.",
       "date": "2026-09-18T12:00:00+00:00",
-      "sourceId": "eetimes",
-      "cats": [
-        "process",
-        "material",
-        "equipment"
-      ]
-    },
-    {
-      "id": "1723d8f39cb9",
-      "title": "Piecing Together the Indian Electronics and Semiconductor Ecosystem",
-      "link": "https://www.eetimes.com/piecing-together-the-indian-electronics-and-semiconductor-ecosystem/",
-      "summary": "India Semiconductor Mission 2.0, quantum computing with IBM, neuromorphic chips, and deep-tech startups: six stories on how India’s chip ecosystem is taking shape. The post Piecing Together the Indian Electronics and Semiconductor Ecosystem appeared first on EE Times.",
-      "date": "2026-09-18T08:00:00+00:00",
-      "sourceId": "eetimes",
-      "cats": [
-        "process",
-        "material",
-        "equipment"
-      ]
-    },
-    {
-      "id": "9395cab55df7",
-      "title": "U.S. Awards Anderon $1B for Quantum Wafer Manufacturing",
-      "link": "https://www.eetimes.com/u-s-awards-anderon-1b-for-quantum-wafer-manufacturing/",
-      "summary": "Washington bets $1B on IBM’s Anderon to forge quantum wafers on U.S. soil as the race leaves labs behind. The post U.S. Awards Anderon $1B for Quantum Wafer Manufacturing appeared first on EE Times.",
-      "date": "2026-09-17T22:00:00+00:00",
       "sourceId": "eetimes",
       "cats": [
         "process",
