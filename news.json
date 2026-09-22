@@ -1,6 +1,6 @@
 {
-  "updated": "2026-09-22T07:37:56.154507+00:00",
-  "count": 18,
+  "updated": "2026-09-22T13:20:23.213022+00:00",
+  "count": 12,
   "sources": [
     {
       "id": "technews",
@@ -61,10 +61,62 @@
   ],
   "articles": [
     {
+      "id": "b53c31bd4228",
+      "title": "GUC Announces 2nm 16 Gbps HBM4E IP",
+      "link": "https://www.eetimes.com/guc-announces-2nm-16-gbps-hbm4e-ip/",
+      "summary": "Discover GUC's design-ready HBM4E PHY and Controller IP, adopted in customers' AI ASICs. The post GUC Announces 2nm 16 Gbps HBM4E IP appeared first on EE Times.",
+      "date": "2026-09-22T13:00:00+00:00",
+      "sourceId": "eetimes",
+      "cats": [
+        "process",
+        "material",
+        "equipment"
+      ]
+    },
+    {
+      "id": "544de60eb380",
+      "title": "嘉晶今年營收拚增逾 35%，AI 營收占比衝三成、明年上看四成",
+      "link": "https://technews.tw/2026/09/22/jasic-revenue-growth-35-ai-share-30-this-year-40-next-year/",
+      "summary": "受惠 AI 資料中心帶動功率元件與矽光子需求成長，磊晶廠嘉晶總經理温錦祥表示，AI 帶動的需求並非短期景氣循環 [&#8230;]",
+      "date": "2026-09-22T08:53:48+00:00",
+      "sourceId": "technews",
+      "cats": [
+        "market",
+        "process",
+        "material"
+      ]
+    },
+    {
+      "id": "666e2311dfbd",
+      "title": "AI 與記憶體驅動，Q2 全球半導體營收創高／季增 31.4%",
+      "link": "https://technews.tw/2026/09/22/global-semiconductor-revenue-hits-record-high-in-q2/",
+      "summary": "綜合中媒報導，根據 Omdia 最新研究報告顯示，2026 年第二季全球半導體營收突破 4,250 億美元，再 [&#8230;]",
+      "date": "2026-09-22T08:50:43+00:00",
+      "sourceId": "technews",
+      "cats": [
+        "market",
+        "process",
+        "material"
+      ]
+    },
+    {
+      "id": "1b8f8769302a",
+      "title": "華為昇騰 900 系列限量供給少數國家，因中芯國際產能無法提高",
+      "link": "https://technews.tw/2026/09/22/huaweis-ascend-900-series-is-only-available-in-a-limited-number-of-countries/",
+      "summary": "華為（Huawei）宣布，其備受矚目的下一代昇騰 900 系列（Ascend 900-series）AI 晶片 [&#8230;]",
+      "date": "2026-09-22T08:30:53+00:00",
+      "sourceId": "technews",
+      "cats": [
+        "market",
+        "process",
+        "material"
+      ]
+    },
+    {
       "id": "aaa672a1050b",
       "title": "排擠效應限縮顆粒供給帶動價格走揚，2025 年 DRAM 模組廠營收年增達 59%",
       "link": "https://technews.tw/2026/09/22/crowding-out-effect-restricts-chip-supply-drives-prices-up-dram-module-makers-59-revenue-increase-2025/",
-      "summary": "根據 TrendForce 統計，受到 2025 年下半年價格上漲及 DRAM 模組廠集中出貨帶動，全球 DR [&#8230;]",
+      "summary": "TrendForce 統計，受 2025 下半年價格上漲及 DRAM 模組廠集中出貨帶動，全球 DRAM 模組 [&#8230;]",
       "date": "2026-09-22T07:20:45+00:00",
       "sourceId": "technews",
       "cats": [
@@ -75,7 +127,7 @@
     },
     {
       "id": "29de95c5734d",
-      "title": "阿里巴巴發表新一代 AI 晶片，性能達前代 3 倍",
+      "title": "阿里巴巴發表新一代 AI 晶片，性能達前代三倍",
       "link": "https://technews.tw/2026/09/22/v900-alibaba/",
       "summary": "中國科技巨頭阿里巴巴推出一款據稱「性能最強國產 AI 晶片」真武 V900，並宣布進一步擴大 AI 基礎設施投 [&#8230;]",
       "date": "2026-09-22T07:10:50+00:00",
@@ -126,19 +178,6 @@
       ]
     },
     {
-      "id": "3f342b349706",
-      "title": "華為新一代 AI 晶片提早報到力抗輝達，無奈受限製程暫不擴張",
-      "link": "https://technews.tw/2026/09/22/huawei-temporarily-halts-overseas-ai-chip-expansion/",
-      "summary": "華為最新 AI 硬體路線圖曝光，展現出以「一年一代」節奏追趕市場的企圖心。根據計畫，下一代 Ascend 96 [&#8230;]",
-      "date": "2026-09-22T03:20:04+00:00",
-      "sourceId": "technews",
-      "cats": [
-        "market",
-        "process",
-        "material"
-      ]
-    },
-    {
       "id": "02637f395aaa",
       "title": "Redefining Intelligent HMI at the Edge: How AI Is Transforming Human-Machine Interaction",
       "link": "https://www.eetimes.com/redefining-intelligent-hmi-at-the-edge-how-ai-is-transforming-human-machine-interaction/",
@@ -174,123 +213,6 @@
       "cats": [
         "process",
         "material",
-        "equipment"
-      ]
-    },
-    {
-      "id": "40496fb1bccc",
-      "title": "Intel Puts High-NA EUV into Production, but Stitching Still Has Something to Prove",
-      "link": "https://www.eetimes.com/intel-puts-high-na-euv-into-production-but-stitching-still-has-something-to-prove/",
-      "summary": "Panther Lake validates High NA in manufacturing, while electrical stitching and larger masks remain the next hurdles. The post Intel Puts High-NA EUV into Production, but Stitching Still Has Something to Prove appeared first on EE Times.",
-      "date": "2026-09-18T22:00:00+00:00",
-      "sourceId": "eetimes",
-      "cats": [
-        "process",
-        "material",
-        "equipment"
-      ]
-    },
-    {
-      "id": "72d038fc804a",
-      "title": "AI Demand Will Keep DRAM Market Under Pressure",
-      "link": "https://www.eetimes.com/ai-demand-will-keep-dram-market-under-pressure/",
-      "summary": "AI infrastructure spending is driving DRAM shortages that will continue through 2027, pushing consumer electronics makers further down priority lists. The post AI Demand Will Keep DRAM Market Under Pressure appeared first on EE Times.",
-      "date": "2026-09-18T12:00:00+00:00",
-      "sourceId": "eetimes",
-      "cats": [
-        "process",
-        "material",
-        "equipment"
-      ]
-    },
-    {
-      "id": "fb91bb3083a8",
-      "title": "Another Giant Leap: The Rubin CPX Specialized Accelerator & Rack",
-      "link": "https://semianalysis.com/2025/09/10/another-giant-leap-the-rubin-cpx-specialized-accelerator-rack/",
-      "summary": "Nvidia announced the Rubin CPX, a solution that is specifically designed to be optimized for the prefill phase, with the single-die Rubin CPX heavily emphasizing compute FLOPS over memory bandwidth. This is a game changer for inference, and its significance is surpassed only by the March 2024 announ",
-      "date": "2025-09-10T19:57:18+00:00",
-      "sourceId": "semianalysis",
-      "cats": [
-        "process",
-        "market",
-        "equipment"
-      ]
-    },
-    {
-      "id": "8fdb407959b5",
-      "title": "Huawei Ascend Production Ramp: Die Banks, TSMC Continued Production, HBM is The Bottleneck",
-      "link": "https://semianalysis.com/2025/09/08/huawei-ascend-production-ramp/",
-      "summary": "Compute is the lifeblood of AI. He who controls the spice controls the universe the compute will control the production of tokens and reap the benefits of AI. Without compute you do not have a seat at the table. The United States technology community is all in on compute and AI as the next platform ",
-      "date": "2025-09-08T09:54:57+00:00",
-      "sourceId": "semianalysis",
-      "cats": [
-        "process",
-        "market",
-        "equipment"
-      ]
-    },
-    {
-      "id": "4d1d636eb5c1",
-      "title": "H100 vs GB200 NVL72 Training Benchmarks – Power, TCO, and Reliability Analysis, Software Improvement Over Time",
-      "link": "https://semianalysis.com/2025/08/20/h100-vs-gb200-nvl72-training-benchmarks/",
-      "summary": "Frontier model training has pushed GPUs and AI systems to their absolute limits, making cost, efficiency, power, performance per TCO, and reliability central to the discussion on effective training. The Hopper vs Blackwell comparisons are not as simple as Nvidia would have you believe. In this repor",
-      "date": "2025-08-20T04:56:35+00:00",
-      "sourceId": "semianalysis",
-      "cats": [
-        "process",
-        "market",
-        "equipment"
-      ]
-    },
-    {
-      "id": "b13ecf27cefb",
-      "title": "Scaling the Memory Wall: The Rise and Roadmap of HBM",
-      "link": "https://semianalysis.com/2025/08/12/scaling-the-memory-wall-the-rise-and-roadmap-of-hbm/",
-      "summary": "The first portion of this report will explain HBM, the manufacturing process, dynamics between vendors, KVCache offload, disaggregated prefill decode, and wide / high-rank EP. The rest of the report will dive deeply into the future of HBM. We will cover the revolutionary change coming to HBM4 with c",
-      "date": "2025-08-12T01:16:06+00:00",
-      "sourceId": "semianalysis",
-      "cats": [
-        "process",
-        "market",
-        "equipment"
-      ]
-    },
-    {
-      "id": "4da2f0c9f207",
-      "title": "Robotics Levels of Autonomy",
-      "link": "https://semianalysis.com/2025/07/30/robotics-levels-of-autonomy/",
-      "summary": "Robots have powered manufacturing for decades, yet they stayed single-purpose and thrived only in perfect settings. Previous attempts at intelligent machines overpromised and underdelivered. But they were too early. Today, modern AI paradigms convert most robot roadblocks into data problems and push",
-      "date": "2025-07-30T17:02:25+00:00",
-      "sourceId": "semianalysis",
-      "cats": [
-        "process",
-        "market",
-        "equipment"
-      ]
-    },
-    {
-      "id": "0409fbe555b7",
-      "title": "Intel 18A Details & Cost, Future of DRAM 4F2 vs 3D, Backside Power Adoption (or Not), China’s FlipFET, Digital Twins from Atoms to Fabs, and More",
-      "link": "https://semianalysis.com/2025/07/21/vlsi2025/",
-      "summary": "Long time readers will recall that SemiAnalysis covers more than just datacenters and AMD. Today we’re back to semiconductors with a tech-focused roundup of the best from this year’s VLSI conference, the premiere design and integration. That includes the latest in chips manufacturing: fab digital tw",
-      "date": "2025-07-21T14:23:37+00:00",
-      "sourceId": "semianalysis",
-      "cats": [
-        "process",
-        "market",
-        "equipment"
-      ]
-    },
-    {
-      "id": "9f42602799fd",
-      "title": "Meta Superintelligence – Leadership Compute, Talent, and Data",
-      "link": "https://semianalysis.com/2025/07/11/meta-superintelligence-leadership-compute-talent-and-data/",
-      "summary": "Meta’s shocking purchase of 49% of Scale AI at a ~$30B valuation shows that money is of no concern for the $100B annual cashflow ad machine. Despite seemingly unlimited resources, Meta has been falling behind foundation labs in model performance.",
-      "date": "2025-07-11T20:12:19+00:00",
-      "sourceId": "semianalysis",
-      "cats": [
-        "process",
-        "market",
         "equipment"
       ]
     }
