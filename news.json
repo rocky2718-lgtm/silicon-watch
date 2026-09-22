@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-21T20:22:46.066545+00:00",
+  "updated": "2026-09-22T00:41:46.339615+00:00",
   "count": 17,
   "sources": [
     {
@@ -61,6 +61,58 @@
   ],
   "articles": [
     {
+      "id": "454933cb127f",
+      "title": "聯發科發表 Dimensity CX C10 Max AI PC 處理器，攜手 Google 拓展 Googlebook 市場",
+      "link": "https://finance.technews.tw/2026/09/22/mediatek-unveils-dimensity-cx-c10-max-ai-pc-processor/",
+      "summary": "ic設計大廠聯發科（MediaTek）正式推出全新天璣 (Dimensity) Compute Experie [&#8230;]",
+      "date": "2026-09-22T00:37:52+00:00",
+      "sourceId": "technews",
+      "cats": [
+        "market",
+        "process",
+        "material"
+      ]
+    },
+    {
+      "id": "6c0290265ece",
+      "title": "日股市值王頻易主，2026 年 4 家企業登頂創 1980 年來首見",
+      "link": "https://finance.technews.tw/2026/09/22/japan-stock-market-value-leader-frequent-changes-4-companies-top-2026-first-since-1980/",
+      "summary": "日本股市市值冠軍爭奪日益激烈，今年包括豐田汽車在內，半導體相關企業及銀行等共有 4 家公司登上市值第一。隨著經 [&#8230;]",
+      "date": "2026-09-22T00:30:44+00:00",
+      "sourceId": "technews",
+      "cats": [
+        "market",
+        "process",
+        "material"
+      ]
+    },
+    {
+      "id": "6f1a32e12f7a",
+      "title": "與友達合作 CPO 計畫曝光，激勵英特爾股價大漲 12.14%",
+      "link": "https://finance.technews.tw/2026/09/22/intel-and-auos-cpo-collaboration-plan-revealed/",
+      "summary": "半導體大廠英特爾台北時間 22 日清晨在美股的表現令人驚豔，收盤時大漲 12.14%，股價來到美股 121.7 [&#8230;]",
+      "date": "2026-09-21T22:45:49+00:00",
+      "sourceId": "technews",
+      "cats": [
+        "market",
+        "process",
+        "material"
+      ]
+    },
+    {
+      "id": "cf1bc2de00c7",
+      "title": "AMD 股價連續 5 天累計上漲 25%，力拱市值超過 1 兆美元",
+      "link": "https://finance.technews.tw/2026/09/22/amds-stock-price-has-risen-a-cumulative-25-over-five-consecutive-days/",
+      "summary": "晶片大廠 AMD 股價於週一美股盤中暴漲 10%，不僅創下歷史新高，更推升公司市值首次突破 1 兆美元大關。 [&#8230;]",
+      "date": "2026-09-21T22:30:05+00:00",
+      "sourceId": "technews",
+      "cats": [
+        "market",
+        "process",
+        "material"
+      ]
+    },
+    {
       "id": "02637f395aaa",
       "title": "Redefining Intelligent HMI at the Edge: How AI Is Transforming Human-Machine Interaction",
       "link": "https://www.eetimes.com/redefining-intelligent-hmi-at-the-edge-how-ai-is-transforming-human-machine-interaction/",
@@ -110,58 +162,6 @@
         "process",
         "material",
         "equipment"
-      ]
-    },
-    {
-      "id": "d090384146cc",
-      "title": "台積電藉產能建構無能人能敵市場護城河，本益比仍落後有望上漲",
-      "link": "https://finance.technews.tw/2026/09/21/tsmc-leverages-its-production-capacity-to-build-an-unparalleled-market-moat/",
-      "summary": "市場消息指出，全球晶圓代工龍頭台積電憑藉龐大的產能優勢與技術壁壘，已建構起對手難以跨越的「鋼鐵護城河」。隨著全 [&#8230;]",
-      "date": "2026-09-21T07:30:34+00:00",
-      "sourceId": "technews",
-      "cats": [
-        "market",
-        "process",
-        "material"
-      ]
-    },
-    {
-      "id": "39cd6ef362fe",
-      "title": "外資單日爆買台股 869 億元！00904、00892 績效暴衝逾 400%",
-      "link": "https://finance.technews.tw/2026/09/21/00892/",
-      "summary": "受惠美國政府力挺、AI 企業盈利成長，帶旺美股牛市續揚，激勵台灣半導體 ETF 績效翻紅，近 4 年表現最好的 [&#8230;]",
-      "date": "2026-09-21T07:02:46+00:00",
-      "sourceId": "technews",
-      "cats": [
-        "market",
-        "process",
-        "material"
-      ]
-    },
-    {
-      "id": "ec536c5b7693",
-      "title": "告別雲端連網！A20 Pro 實測：iPhone 18 Pro 成功於本機直跑 270 億參數大模型",
-      "link": "https://technews.tw/2026/09/21/apples-a20-pro-demonstrated-to-be-an-on-device-ai-beast/",
-      "summary": "蘋果最新一代 A20 Pro 晶片近日在端側人工智慧測試中展現明顯優勢。根據最新示範，搭載 A20 Pro 的 [&#8230;]",
-      "date": "2026-09-21T06:40:04+00:00",
-      "sourceId": "technews",
-      "cats": [
-        "market",
-        "process",
-        "material"
-      ]
-    },
-    {
-      "id": "4dc4beaa59e5",
-      "title": "功率半導體漲價接力賽開跑！安森美 10 月調價，台廠最快第四季跟上",
-      "link": "https://technews.tw/2026/09/21/power-semiconductor-giant-raises-prices-onsemi-adjusts-upwards-taiwanese-manufacturers-to-follow-q4/",
-      "summary": "全球功率半導體漲價潮持續延燒。繼德州儀器、瑞薩陸續傳出調價消息後，安森美也傳出漲價通知，預計 10 月 10 [&#8230;]",
-      "date": "2026-09-21T06:26:23+00:00",
-      "sourceId": "technews",
-      "cats": [
-        "market",
-        "process",
-        "material"
       ]
     },
     {
