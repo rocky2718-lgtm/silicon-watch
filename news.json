@@ -1,6 +1,6 @@
 {
-  "updated": "2026-09-23T11:21:05.720282+00:00",
-  "count": 17,
+  "updated": "2026-09-23T16:43:13.100783+00:00",
+  "count": 18,
   "sources": [
     {
       "id": "technews",
@@ -60,6 +60,19 @@
     }
   ],
   "articles": [
+    {
+      "id": "329286ea9b7f",
+      "title": "擴大在台布局！牛津儀器啟用新竹全新辦公室，強化在地客戶服務",
+      "link": "https://technews.tw/2026/09/23/oxford-instruments-taiwan-hsinchu/",
+      "summary": "英國先進電漿製程業者牛津儀器（Oxford Instruments）擴大啟用台灣辦公室，進一步強化在地客戶服務 [&#8230;]",
+      "date": "2026-09-23T14:51:36+00:00",
+      "sourceId": "technews",
+      "cats": [
+        "market",
+        "process",
+        "material"
+      ]
+    },
     {
       "id": "f9be03598602",
       "title": "前 Google 首席科學家看好專用晶片，AI 自動化將顛覆晶片設計週期",
