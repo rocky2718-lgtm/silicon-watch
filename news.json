@@ -1,6 +1,6 @@
 {
-  "updated": "2026-09-23T16:43:13.100783+00:00",
-  "count": 18,
+  "updated": "2026-09-23T21:24:43.164498+00:00",
+  "count": 17,
   "sources": [
     {
       "id": "technews",
@@ -157,19 +157,6 @@
       "link": "https://technews.tw/2026/09/23/the-market-questions-whether-acers-chen-chun-shengs-views-are-contradictory-and-too-limited/",
       "summary": "宏碁董事長暨執行長陳俊聖日前公開表示記憶體已經不缺，並指出 DDR4 與 DDR5 等元件供給充裕、不再有全面 [&#8230;]",
       "date": "2026-09-23T06:00:51+00:00",
-      "sourceId": "technews",
-      "cats": [
-        "market",
-        "process",
-        "material"
-      ]
-    },
-    {
-      "id": "9238c2892695",
-      "title": "麥可貝瑞加碼空美光、引陳俊聖「記憶體不缺」示警",
-      "link": "https://finance.technews.tw/2026/09/23/michael-burry-adds-to-micron-nebius-palantir-shorts-as-acer-flags-rising-memory-supply/",
-      "summary": "電影〈大賣空〉（Big Short）主角本尊麥可貝瑞（Michael Burry）決定加碼放空美國記憶體大廠美 [&#8230;]",
-      "date": "2026-09-23T04:30:03+00:00",
       "sourceId": "technews",
       "cats": [
         "market",
