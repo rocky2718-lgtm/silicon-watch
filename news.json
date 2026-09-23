@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-22T22:51:51.928921+00:00",
+  "updated": "2026-09-23T04:32:04.425809+00:00",
   "count": 16,
   "sources": [
     {
@@ -61,6 +61,84 @@
   ],
   "articles": [
     {
+      "id": "9238c2892695",
+      "title": "麥可貝瑞加碼空美光、引陳俊聖「記憶體不缺」示警",
+      "link": "https://finance.technews.tw/2026/09/23/michael-burry-adds-to-micron-nebius-palantir-shorts-as-acer-flags-rising-memory-supply/",
+      "summary": "電影〈大賣空〉（Big Short）主角本尊麥可貝瑞（Michael Burry）決定加碼放空美國記憶體大廠美 [&#8230;]",
+      "date": "2026-09-23T04:30:03+00:00",
+      "sourceId": "technews",
+      "cats": [
+        "market",
+        "process",
+        "material"
+      ]
+    },
+    {
+      "id": "a4e831f0860f",
+      "title": "SK 海力士郭魯正：沒有記憶體就沒有 AI，布局次世代晶片領航時代",
+      "link": "https://technews.tw/2026/09/23/sk-hynix-no-memory-no-ai/",
+      "summary": "韓國記憶體大廠 SK 海力士（SK Hynix）於矽谷舉辦的 2026 全球論壇上宣示，將透過建置全球新生產基 [&#8230;]",
+      "date": "2026-09-23T03:00:55+00:00",
+      "sourceId": "technews",
+      "cats": [
+        "market",
+        "process",
+        "material"
+      ]
+    },
+    {
+      "id": "70c4426e59e3",
+      "title": "AI 代理打破「懶得換」商機？金融旅遊電信股嚇跌",
+      "link": "https://finance.technews.tw/2026/09/23/meta-muse-success-sends-financial-travel-and-telecom-stocks-lower/",
+      "summary": "社群龍頭 Meta Platforms 名為「Muse」的個人 AI 助理取得成功，帶動 AI 相關晶片股近幾 [&#8230;]",
+      "date": "2026-09-23T02:50:28+00:00",
+      "sourceId": "technews",
+      "cats": [
+        "market",
+        "process",
+        "material"
+      ]
+    },
+    {
+      "id": "19d5f1fd18a2",
+      "title": "輝達相挺新創 Starcloud 把比特幣挖礦機送上太空",
+      "link": "https://technews.tw/2026/09/23/starcloud-will-fire-up-its-asics-after-its-second-spacecraft-reaches-orbit-later-this-year/",
+      "summary": "獲得輝達（NVIDIA）支持的新創公司 Starcloud 表示，將在今年稍晚發射的第二顆衛星上部署比特幣挖礦 [&#8230;]",
+      "date": "2026-09-23T02:20:22+00:00",
+      "sourceId": "technews",
+      "cats": [
+        "market",
+        "process",
+        "material"
+      ]
+    },
+    {
+      "id": "1457355cdadd",
+      "title": "縮減光罩大砍 OLED 成本，三星新技術「半色調黑 PDL」傳將導入 S27 Ultra",
+      "link": "https://technews.tw/2026/09/23/samsung-reportedly-introduce-half-tone-black-pdl-technology/",
+      "summary": "三星顯示器（Samsung Display）正評估一項有望降低 OLED 製造成本的新技術，核心為名為「半色調 [&#8230;]",
+      "date": "2026-09-23T02:00:43+00:00",
+      "sourceId": "technews",
+      "cats": [
+        "market",
+        "process",
+        "material"
+      ]
+    },
+    {
+      "id": "a78dbbc48a97",
+      "title": "費半急拉助攻台股挑戰 48,000 點，外資狂掃載板與矽智財強勢吸金",
+      "link": "https://finance.technews.tw/2026/09/23/sox-rally-boosts-taiwan-stocks-48000-challenge-foreign-capital-sweeps-abf-substrates-silicon-ip-attracting-funds/",
+      "summary": "台股 22 日多頭氣勢強悍，加權指數盤中狂飆觸及 48,601 點歷史新高，終場大漲 1.14% 收在 47, [&#8230;]",
+      "date": "2026-09-23T02:00:33+00:00",
+      "sourceId": "technews",
+      "cats": [
+        "market",
+        "process",
+        "material"
+      ]
+    },
+    {
       "id": "b53c31bd4228",
       "title": "GUC Announces 2nm 16 Gbps HBM4E IP",
       "link": "https://www.eetimes.com/guc-announces-2nm-16-gbps-hbm4e-ip/",
@@ -71,84 +149,6 @@
         "process",
         "material",
         "equipment"
-      ]
-    },
-    {
-      "id": "544de60eb380",
-      "title": "嘉晶今年營收拚增逾 35%，AI 營收占比衝三成、明年上看四成",
-      "link": "https://technews.tw/2026/09/22/jasic-revenue-growth-35-ai-share-30-this-year-40-next-year/",
-      "summary": "受惠 AI 資料中心帶動功率元件與矽光子需求成長，磊晶廠嘉晶總經理温錦祥表示，AI 帶動的需求並非短期景氣循環 [&#8230;]",
-      "date": "2026-09-22T08:53:48+00:00",
-      "sourceId": "technews",
-      "cats": [
-        "market",
-        "process",
-        "material"
-      ]
-    },
-    {
-      "id": "666e2311dfbd",
-      "title": "AI 與記憶體驅動，Q2 全球半導體營收創高／季增 31.4%",
-      "link": "https://technews.tw/2026/09/22/global-semiconductor-revenue-hits-record-high-in-q2/",
-      "summary": "綜合中媒報導，根據 Omdia 最新研究報告顯示，2026 年第二季全球半導體營收突破 4,250 億美元，再 [&#8230;]",
-      "date": "2026-09-22T08:50:43+00:00",
-      "sourceId": "technews",
-      "cats": [
-        "market",
-        "process",
-        "material"
-      ]
-    },
-    {
-      "id": "1b8f8769302a",
-      "title": "華為昇騰 900 系列限量供給少數國家，因中芯國際產能無法提高",
-      "link": "https://technews.tw/2026/09/22/huaweis-ascend-900-series-is-only-available-in-a-limited-number-of-countries/",
-      "summary": "華為（Huawei）宣布，其備受矚目的下一代昇騰 900 系列（Ascend 900-series）AI 晶片 [&#8230;]",
-      "date": "2026-09-22T08:30:53+00:00",
-      "sourceId": "technews",
-      "cats": [
-        "market",
-        "process",
-        "material"
-      ]
-    },
-    {
-      "id": "aaa672a1050b",
-      "title": "排擠效應限縮顆粒供給帶動價格走揚，2025 年 DRAM 模組廠營收年增達 59%",
-      "link": "https://technews.tw/2026/09/22/crowding-out-effect-restricts-chip-supply-drives-prices-up-dram-module-makers-59-revenue-increase-2025/",
-      "summary": "TrendForce 統計，受 2025 下半年價格上漲及 DRAM 模組廠集中出貨帶動，全球 DRAM 模組 [&#8230;]",
-      "date": "2026-09-22T07:20:45+00:00",
-      "sourceId": "technews",
-      "cats": [
-        "market",
-        "process",
-        "material"
-      ]
-    },
-    {
-      "id": "29de95c5734d",
-      "title": "阿里巴巴發表新一代 AI 晶片，性能達前代三倍",
-      "link": "https://technews.tw/2026/09/22/v900-alibaba/",
-      "summary": "中國科技巨頭阿里巴巴推出一款據稱「性能最強國產 AI 晶片」真武 V900，並宣布進一步擴大 AI 基礎設施投 [&#8230;]",
-      "date": "2026-09-22T07:10:50+00:00",
-      "sourceId": "technews",
-      "cats": [
-        "market",
-        "process",
-        "material"
-      ]
-    },
-    {
-      "id": "9256bfab399c",
-      "title": "長鑫存儲將進軍 NAND Flash 市場，與長江存儲正面競爭",
-      "link": "https://technews.tw/2026/09/22/changxin-memory-will-enter-the-nand-flash-market/",
-      "summary": "根據路透社引述知情人士報導，中國 DRAM 大廠長鑫存儲（CXMT）正計劃將業務拓展至用於固態硬碟（SSD）的 [&#8230;]",
-      "date": "2026-09-22T05:30:27+00:00",
-      "sourceId": "technews",
-      "cats": [
-        "market",
-        "process",
-        "material"
       ]
     },
     {
