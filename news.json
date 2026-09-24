@@ -1,6 +1,6 @@
 {
-  "updated": "2026-09-24T18:22:32.349671+00:00",
-  "count": 18,
+  "updated": "2026-09-24T23:08:50.663167+00:00",
+  "count": 20,
   "sources": [
     {
       "id": "technews",
@@ -60,6 +60,45 @@
     }
   ],
   "articles": [
+    {
+      "id": "95c3fd9baeb1",
+      "title": "全球智慧手機供應鏈重組：市場趨勢、供應鏈布局與品牌策略",
+      "link": "https://finance.technews.tw/2026/09/25/global-smartphone-supply-chain-restructuring/",
+      "summary": "成本推升終端售價，2026 年全球手機生產量顯著衰退。受記憶體成本大幅上揚影響，2026 年全球智慧手機生產量 [&#8230;]",
+      "date": "2026-09-24T23:00:45+00:00",
+      "sourceId": "technews",
+      "cats": [
+        "market",
+        "process",
+        "material"
+      ]
+    },
+    {
+      "id": "3b5de5f70f46",
+      "title": "繞過 AI 晶片管制？傳字節跳動靠挪威資料中心取得 2,304 顆輝達 B200",
+      "link": "https://technews.tw/2026/09/25/bytedance-singaporean-singaporean/",
+      "summary": "英國 AI 雲端服務商 NScale 近期申請赴美 IPO，其提交的文件揭露，2025 年有單一客戶貢獻公司約 [&#8230;]",
+      "date": "2026-09-24T22:58:36+00:00",
+      "sourceId": "technews",
+      "cats": [
+        "market",
+        "process",
+        "material"
+      ]
+    },
+    {
+      "id": "4662027ba749",
+      "title": "Delos Data Targets Heterogeneous AI with Data Interface",
+      "link": "https://www.eetimes.com/delos-data-targets-heterogeneous-ai-with-data-interface/",
+      "summary": "Delos’s Apollo chiplet is designed to bridge different endpoint semantics and interconnects, creating a low-latency domain spanning GPUs, accelerators, CPUs and memory The post Delos Data Targets Heterogeneous AI with Data Interface appeared first on EE Times.",
+      "date": "2026-09-24T18:43:38+00:00",
+      "sourceId": "eetimes",
+      "cats": [
+        "process",
+        "material",
+        "equipment"
+      ]
+    },
     {
       "id": "837373fef290",
       "title": "Inside TSMC’s Evolving Design Ecosystem: Shaping the Future of AI, with AI",
@@ -157,19 +196,6 @@
       "link": "https://technews.tw/2026/09/24/xi-trump-summit-no-change-taiwan-us-ai-cooperation/",
       "summary": "川習會即將登場，各界高度矚目。台經院院長張建一認為，美國深知台灣在半導體與 AI 供應鏈的重要性，川習會不至於 [&#8230;]",
       "date": "2026-09-24T04:30:45+00:00",
-      "sourceId": "technews",
-      "cats": [
-        "market",
-        "process",
-        "material"
-      ]
-    },
-    {
-      "id": "6af2a6ddb4dc",
-      "title": "瞄準 AI 與 HPC 晶片設計，Cadence 攜手台積電布局 A14 製程與小晶片生態系",
-      "link": "https://technews.tw/2026/09/24/cadence-expands-tsmc-partnership-to-power-next-gen-ai-chips/",
-      "summary": "益華電腦（Cadence）於 23 日宣布，已擴大與台積電（TSMC）的合作，旨在強化新一代 AI 與高效能運 [&#8230;]",
-      "date": "2026-09-24T04:00:48+00:00",
       "sourceId": "technews",
       "cats": [
         "market",
