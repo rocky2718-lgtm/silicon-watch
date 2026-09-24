@@ -1,6 +1,6 @@
 {
-  "updated": "2026-09-24T07:31:40.687780+00:00",
-  "count": 17,
+  "updated": "2026-09-24T13:29:08.569551+00:00",
+  "count": 16,
   "sources": [
     {
       "id": "technews",
@@ -60,6 +60,32 @@
     }
   ],
   "articles": [
+    {
+      "id": "126b75a3ee0a",
+      "title": "SEMICON India 2026: Startup Mitra Sheds Light on Early-Stage Silicon Startup Funding",
+      "link": "https://www.eetimes.com/semicon-india-2026-startup-mitra-sheds-light-on-early-stage-silicon-startup-funding/",
+      "summary": "Indian semiconductor startups are seeking capital beyond seed rounds as they advance from prototypes and tape-out toward volume production. The post SEMICON India 2026: Startup Mitra Sheds Light on Early-Stage Silicon Startup Funding appeared first on EE Times.",
+      "date": "2026-09-24T08:15:06+00:00",
+      "sourceId": "eetimes",
+      "cats": [
+        "process",
+        "material",
+        "equipment"
+      ]
+    },
+    {
+      "id": "16ef90b7445d",
+      "title": "輝達盯玻璃基板  傳催台日韓 2 年交卷、德商曝進展",
+      "link": "https://technews.tw/2026/09/24/nvidia-follows-glass-substrate-developments-in-taiwan-japan-and-south-korea/",
+      "summary": "韓媒傳出，輝達（Nvidia）正在評估採用玻璃基板，不但與德國設備製造商 SCHMID 等業者合作，更希望台日 [&#8230;]",
+      "date": "2026-09-24T07:40:59+00:00",
+      "sourceId": "technews",
+      "cats": [
+        "market",
+        "process",
+        "material"
+      ]
+    },
     {
       "id": "a4e243f40e01",
       "title": "蘋果光環失靈？法院文件曝：ChatGPT 整合 Apple Intelligence 採用率慘澹",
@@ -126,32 +152,6 @@
       ]
     },
     {
-      "id": "073dcc3b7bde",
-      "title": "AI 需求壓縮晶片供應鏈，瑞銀估 2027 年矽晶圓恐漲價高達 40%",
-      "link": "https://finance.technews.tw/2026/09/24/silicon-wafer-prices-to-surge-40-in-2027-as-ai-demand-squeezes-the-chip-supply-chain/",
-      "summary": "AI 熱潮將壓力一路傳至半導體上游材料。UBS 與其他產業報告，12 吋與 8 吋矽晶圓的供需狀況兩年內將持續 [&#8230;]",
-      "date": "2026-09-24T03:20:15+00:00",
-      "sourceId": "technews",
-      "cats": [
-        "market",
-        "process",
-        "material"
-      ]
-    },
-    {
-      "id": "d8ae8899b846",
-      "title": "黃仁勳嚴厲評論：若無法妥善控管 AI 模型，實驗室就該關門",
-      "link": "https://technews.tw/2026/09/24/jensen-huang-thinks-a-i-alarmism-has-gone-too-far/",
-      "summary": "輝達（Nvidia）執行長黃仁勳 23 日上《紐約時報》Podcast 節目訪談時表示，人工智慧實驗室若無法確 [&#8230;]",
-      "date": "2026-09-24T03:00:09+00:00",
-      "sourceId": "technews",
-      "cats": [
-        "market",
-        "process",
-        "material"
-      ]
-    },
-    {
       "id": "092e09b0c1df",
       "title": "Smarter Buildings, Safer Occupants: Intelligence Meets Privacy",
       "link": "https://www.eetimes.com/smarter-buildings-safer-occupants-intelligence-meets-privacy/",
@@ -170,19 +170,6 @@
       "link": "https://www.eetimes.com/guc-announces-2nm-16-gbps-hbm4e-ip/",
       "summary": "Discover GUC's design-ready HBM4E PHY and Controller IP, adopted in customers' AI ASICs. The post GUC Announces 2nm 16 Gbps HBM4E IP appeared first on EE Times.",
       "date": "2026-09-22T13:00:00+00:00",
-      "sourceId": "eetimes",
-      "cats": [
-        "process",
-        "material",
-        "equipment"
-      ]
-    },
-    {
-      "id": "02637f395aaa",
-      "title": "Redefining Intelligent HMI at the Edge: How AI Is Transforming Human-Machine Interaction",
-      "link": "https://www.eetimes.com/redefining-intelligent-hmi-at-the-edge-how-ai-is-transforming-human-machine-interaction/",
-      "summary": "Next-generation HMI systems are evolving beyond the touchscreen into intelligent, context-aware experiences powered by edge AI The post Redefining Intelligent HMI at the Edge: How AI Is Transforming Human-Machine Interaction appeared first on EE Times.",
-      "date": "2026-09-21T13:00:00+00:00",
       "sourceId": "eetimes",
       "cats": [
         "process",
