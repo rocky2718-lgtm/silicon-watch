@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-24T00:22:17.256753+00:00",
+  "updated": "2026-09-24T07:31:40.687780+00:00",
   "count": 17,
   "sources": [
     {
@@ -61,11 +61,11 @@
   ],
   "articles": [
     {
-      "id": "ee91f2aaed55",
-      "title": "從雲端算力到邊緣實體智能，剖析 AI 晶片架構與光通訊技術新趨勢",
-      "link": "https://technews.tw/2026/09/24/analyzing-new-trends-in-ai-chip-architecture-and-optical-communication-technology/",
-      "summary": "半導體產業正迎接由人工智慧（AI）驅動的全新競爭格局的情況下，一場主題為「從雲端到邊緣，AI 運算架構驅動晶片 [&#8230;]",
-      "date": "2026-09-24T00:00:37+00:00",
+      "id": "a4e243f40e01",
+      "title": "蘋果光環失靈？法院文件曝：ChatGPT 整合 Apple Intelligence 採用率慘澹",
+      "link": "https://technews.tw/2026/09/24/openai-apple-ai-user-indifference/",
+      "summary": "根據 OpenAI 最新提交的法院文件顯示，儘管蘋果（Apple）已將 ChatGPT 整合至 Apple I [&#8230;]",
+      "date": "2026-09-24T07:00:22+00:00",
       "sourceId": "technews",
       "cats": [
         "market",
@@ -74,11 +74,11 @@
       ]
     },
     {
-      "id": "921fb8c4af6b",
-      "title": "楊立昆與莫德納共同創辦人加入 Cellular Intelligence，以巴金森氏症細胞療法驗證 AI 製藥",
-      "link": "https://technews.tw/2026/09/24/modernas-bob-langer-and-amis-yann-lecun-cellular-intelligences-board-bringing-ai-into-medicine/",
-      "summary": "美國生技新創 Cellular Intelligence（CI）21 日宣布，莫德納（Moderna）共同創辦 [&#8230;]",
-      "date": "2026-09-23T23:20:01+00:00",
+      "id": "3a6981da3423",
+      "title": "格羅方德聚焦差異化技術與全球地緣韌性，布局矽光子、RF、與大大關鍵應用市場",
+      "link": "https://technews.tw/2026/09/24/globalfoundries-focuses-on-differentiated-technologies-and-global-geopolitical-resilience/",
+      "summary": "半導體晶圓代工大廠格羅方德（GlobalFoundries，GF）亞太區業務副總裁馮曾文在年度技術峰會 GTS [&#8230;]",
+      "date": "2026-09-24T06:30:59+00:00",
       "sourceId": "technews",
       "cats": [
         "market",
@@ -87,11 +87,11 @@
       ]
     },
     {
-      "id": "e741e1907f35",
-      "title": "imec IC-Link 成台積電開放創新平台雲端聯盟成員，推廣先進晶片設計基礎設施與技術支援",
-      "link": "https://technews.tw/2026/09/24/imec-ic-link-becomes-a-member-of-tsmcs-open-innovation-platform-cloud-alliance/",
-      "summary": "比利時微電子研究中心（imec）的 imec IC-Link 為特定應用積體電路（ASIC）與矽光子晶片製造與 [&#8230;]",
-      "date": "2026-09-23T22:30:52+00:00",
+      "id": "b474334b44f5",
+      "title": "格羅方德深耕台灣生態系夥伴，擴展氮化鎵技術與全球產能布局",
+      "link": "https://technews.tw/2026/09/24/globalfoundries-deeply-rooted-in-taiwans-ecosystem/",
+      "summary": "晶圓代工大廠格羅方德（GlobalFoundries，GF）近日重申對台灣半導體生態系的高度重視，並針對全球供 [&#8230;]",
+      "date": "2026-09-24T06:30:36+00:00",
       "sourceId": "technews",
       "cats": [
         "market",
@@ -100,11 +100,11 @@
       ]
     },
     {
-      "id": "329286ea9b7f",
-      "title": "擴大在台布局！牛津儀器啟用新竹全新辦公室，強化在地客戶服務",
-      "link": "https://technews.tw/2026/09/23/oxford-instruments-taiwan-hsinchu/",
-      "summary": "英國先進電漿製程業者牛津儀器（Oxford Instruments）擴大啟用台灣辦公室，進一步強化在地客戶服務 [&#8230;]",
-      "date": "2026-09-23T14:51:36+00:00",
+      "id": "4dbed8fb10da",
+      "title": "川習會將登場，張建一：不會改變台美 AI 合作",
+      "link": "https://technews.tw/2026/09/24/xi-trump-summit-no-change-taiwan-us-ai-cooperation/",
+      "summary": "川習會即將登場，各界高度矚目。台經院院長張建一認為，美國深知台灣在半導體與 AI 供應鏈的重要性，川習會不至於 [&#8230;]",
+      "date": "2026-09-24T04:30:45+00:00",
       "sourceId": "technews",
       "cats": [
         "market",
@@ -113,11 +113,11 @@
       ]
     },
     {
-      "id": "f9be03598602",
-      "title": "Google 前首席科學家看好專用晶片，AI 自動化將顛覆晶片設計週期",
-      "link": "https://technews.tw/2026/09/23/ai-helps-chip-designers-break-traditional-design-cycle-limits/",
-      "summary": "Google DeepMind 前首席科學家迪恩（Jeff Dean）相信，AI 有助於晶片設計者克服設計週期 [&#8230;]",
-      "date": "2026-09-23T09:44:55+00:00",
+      "id": "6af2a6ddb4dc",
+      "title": "瞄準 AI 與 HPC 晶片設計，Cadence 攜手台積電布局 A14 製程與小晶片生態系",
+      "link": "https://technews.tw/2026/09/24/cadence-expands-tsmc-partnership-to-power-next-gen-ai-chips/",
+      "summary": "益華電腦（Cadence）於 23 日宣布，已擴大與台積電（TSMC）的合作，旨在強化新一代 AI 與高效能運 [&#8230;]",
+      "date": "2026-09-24T04:00:48+00:00",
       "sourceId": "technews",
       "cats": [
         "market",
@@ -126,11 +126,24 @@
       ]
     },
     {
-      "id": "896bf0e991cf",
-      "title": "三星物產砸 1 億美元押注先進核能，攜手 Kairos Power 蓋反應爐",
-      "link": "https://technews.tw/2026/09/23/samsung-ct-invests-100m-advanced-nuclear-kairos-power-reactors/",
-      "summary": "三星物產（Samsung C&#38;T）進一步擴大先進核能布局，與美國核能新創 Kairos Power 簽 [&#8230;]",
-      "date": "2026-09-23T09:31:33+00:00",
+      "id": "073dcc3b7bde",
+      "title": "AI 需求壓縮晶片供應鏈，瑞銀估 2027 年矽晶圓恐漲價高達 40%",
+      "link": "https://finance.technews.tw/2026/09/24/silicon-wafer-prices-to-surge-40-in-2027-as-ai-demand-squeezes-the-chip-supply-chain/",
+      "summary": "AI 熱潮將壓力一路傳至半導體上游材料。UBS 與其他產業報告，12 吋與 8 吋矽晶圓的供需狀況兩年內將持續 [&#8230;]",
+      "date": "2026-09-24T03:20:15+00:00",
+      "sourceId": "technews",
+      "cats": [
+        "market",
+        "process",
+        "material"
+      ]
+    },
+    {
+      "id": "d8ae8899b846",
+      "title": "黃仁勳嚴厲評論：若無法妥善控管 AI 模型，實驗室就該關門",
+      "link": "https://technews.tw/2026/09/24/jensen-huang-thinks-a-i-alarmism-has-gone-too-far/",
+      "summary": "輝達（Nvidia）執行長黃仁勳 23 日上《紐約時報》Podcast 節目訪談時表示，人工智慧實驗室若無法確 [&#8230;]",
+      "date": "2026-09-24T03:00:09+00:00",
       "sourceId": "technews",
       "cats": [
         "market",
@@ -149,19 +162,6 @@
         "process",
         "material",
         "equipment"
-      ]
-    },
-    {
-      "id": "87c883436f1c",
-      "title": "Nexstrom 完成 1,200 萬美元募資，推進 12 吋 2 維半導體量產",
-      "link": "https://technews.tw/2026/09/23/nexstrom-12m-funding-12-inch-2d-semiconductor-mass-production/",
-      "summary": "隨著先進製程持續微縮，矽材料逐漸逼近物理極限，2 維半導體也開始從實驗室走向 12 吋晶圓。新加坡半導體新創 [&#8230;]",
-      "date": "2026-09-23T07:36:15+00:00",
-      "sourceId": "technews",
-      "cats": [
-        "market",
-        "process",
-        "material"
       ]
     },
     {
