@@ -1,6 +1,6 @@
 {
-  "updated": "2026-09-25T04:40:52.394844+00:00",
-  "count": 23,
+  "updated": "2026-09-25T11:40:21.763042+00:00",
+  "count": 22,
   "sources": [
     {
       "id": "technews",
@@ -60,6 +60,45 @@
     }
   ],
   "articles": [
+    {
+      "id": "799c084cf002",
+      "title": "馬斯克：Colossus 2 年底前輝達晶片數量將翻倍，上看 120 萬顆",
+      "link": "https://technews.tw/2026/09/25/elon-musk-aims-to-double-colossus-2s-nvidia-chips-by-year-end/",
+      "summary": "伊隆‧馬斯克（Elon Musk）表示，旗下 xAI 打造的 AI 運算叢集 Colossus 2，到今年底時 [&#8230;]",
+      "date": "2026-09-25T08:20:27+00:00",
+      "sourceId": "technews",
+      "cats": [
+        "market",
+        "process",
+        "material"
+      ]
+    },
+    {
+      "id": "89ea317b92c7",
+      "title": "Balancing Bandwidth, Range, and Power in Intelligent Buildings",
+      "link": "https://www.eetimes.com/balancing-bandwidth-range-and-power-in-intelligent-buildings/",
+      "summary": "As edge AI transforms smart buildings, Wi-Fi HaLow bridges the gap between bandwidth, long range, and low power. The post Balancing Bandwidth, Range, and Power in Intelligent Buildings appeared first on EE Times.",
+      "date": "2026-09-25T08:00:34+00:00",
+      "sourceId": "eetimes",
+      "cats": [
+        "process",
+        "material",
+        "equipment"
+      ]
+    },
+    {
+      "id": "20995199b729",
+      "title": "川普辦國宴迎習近平，黃仁勳等科技與金融大老齊聚",
+      "link": "https://technews.tw/2026/09/25/trump-xi-jinping-state-dinner-tech-finance-magnates-jensen-huang/",
+      "summary": "彭博報導，美國總統川普今天舉辦國宴款待中國國家主席習近平，來自華爾街與矽谷的政商名流共襄盛舉，藉此展現美國的科 [&#8230;]",
+      "date": "2026-09-25T06:50:35+00:00",
+      "sourceId": "technews",
+      "cats": [
+        "market",
+        "process",
+        "material"
+      ]
+    },
     {
       "id": "1ec6c23ff331",
       "title": "多元產能需求驅動，台灣半導體廠擴大新加坡布局",
@@ -152,45 +191,6 @@
       ]
     },
     {
-      "id": "a7deab05b06f",
-      "title": "AI 熱潮不是雨露均霑，科技廠兩極化發展",
-      "link": "https://technews.tw/2026/09/25/ai-boom-not-evenly-distributed-polarized-development-tech-firms/",
-      "summary": "AI 強勁需求，驅動全球半導體今年產值可望超前達成 1 兆美元大關，比原先預估的 2030 年快了 4 年。在 [&#8230;]",
-      "date": "2026-09-25T01:10:42+00:00",
-      "sourceId": "technews",
-      "cats": [
-        "market",
-        "process",
-        "material"
-      ]
-    },
-    {
-      "id": "95c3fd9baeb1",
-      "title": "全球智慧手機供應鏈重組：市場趨勢、供應鏈布局與品牌策略",
-      "link": "https://finance.technews.tw/2026/09/25/global-smartphone-supply-chain-restructuring/",
-      "summary": "成本推升終端售價，2026 年全球手機生產量顯著衰退。受記憶體成本大幅上揚影響，2026 年全球智慧手機生產量 [&#8230;]",
-      "date": "2026-09-24T23:00:45+00:00",
-      "sourceId": "technews",
-      "cats": [
-        "market",
-        "process",
-        "material"
-      ]
-    },
-    {
-      "id": "3b5de5f70f46",
-      "title": "繞過 AI 晶片管制？傳字節跳動靠挪威資料中心取得 2,304 顆輝達 B200",
-      "link": "https://technews.tw/2026/09/25/bytedance-singaporean-singaporean/",
-      "summary": "英國 AI 雲端服務商 NScale 近期申請赴美 IPO，其提交的文件揭露，2025 年有單一客戶貢獻公司約 [&#8230;]",
-      "date": "2026-09-24T22:58:36+00:00",
-      "sourceId": "technews",
-      "cats": [
-        "market",
-        "process",
-        "material"
-      ]
-    },
-    {
       "id": "4662027ba749",
       "title": "Delos Data Targets Heterogeneous AI with Data Interface",
       "link": "https://www.eetimes.com/delos-data-targets-heterogeneous-ai-with-data-interface/",
@@ -248,19 +248,6 @@
       "link": "https://www.eetimes.com/smarter-buildings-safer-occupants-intelligence-meets-privacy/",
       "summary": "Modern building automation systems are designed to optimize energy efficiency while safeguarding the health, safety, and security of occupants. The post Smarter Buildings, Safer Occupants: Intelligence Meets Privacy appeared first on EE Times.",
       "date": "2026-09-23T08:05:07+00:00",
-      "sourceId": "eetimes",
-      "cats": [
-        "process",
-        "material",
-        "equipment"
-      ]
-    },
-    {
-      "id": "b53c31bd4228",
-      "title": "GUC Announces 2nm 16 Gbps HBM4E IP",
-      "link": "https://www.eetimes.com/guc-announces-2nm-16-gbps-hbm4e-ip/",
-      "summary": "Discover GUC's design-ready HBM4E PHY and Controller IP, adopted in customers' AI ASICs. The post GUC Announces 2nm 16 Gbps HBM4E IP appeared first on EE Times.",
-      "date": "2026-09-22T13:00:00+00:00",
       "sourceId": "eetimes",
       "cats": [
         "process",
