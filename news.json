@@ -1,6 +1,6 @@
 {
-  "updated": "2026-09-25T11:40:21.763042+00:00",
-  "count": 22,
+  "updated": "2026-09-25T17:02:20.844944+00:00",
+  "count": 23,
   "sources": [
     {
       "id": "technews",
@@ -60,6 +60,19 @@
     }
   ],
   "articles": [
+    {
+      "id": "c7d5b8594833",
+      "title": "Huawei’s Tau Law Takes Commercial Form",
+      "link": "https://www.eetimes.com/huaweis-tau-law-takes-commercial-form/",
+      "summary": "Kirin 9050 Pro rests on the Tau (τ) Scaling Law, marking a major change in chip architecture designed to bypass EUV lithography limits. The post Huawei’s Tau Law Takes Commercial Form appeared first on EE Times.",
+      "date": "2026-09-25T14:18:57+00:00",
+      "sourceId": "eetimes",
+      "cats": [
+        "process",
+        "material",
+        "equipment"
+      ]
+    },
     {
       "id": "799c084cf002",
       "title": "馬斯克：Colossus 2 年底前輝達晶片數量將翻倍，上看 120 萬顆",
@@ -153,7 +166,7 @@
     },
     {
       "id": "4c362b6961e1",
-      "title": "ASML罕見示警！歐洲半導體投資冷清，今上半年營收占比竟是 0%",
+      "title": "ASML 罕見示警！歐洲半導體投資冷清，今上半年營收占比竟是 0%",
       "link": "https://technews.tw/2026/09/25/asml-sell-0-europe-in-2026/",
       "summary": "根據外媒 Tom’ s Hardware 報導，荷蘭半導體設備大廠 ASML 雖然是歐洲市值最高的企業之一，但 [&#8230;]",
       "date": "2026-09-25T01:52:58+00:00",
