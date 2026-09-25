@@ -1,6 +1,6 @@
 {
-  "updated": "2026-09-24T23:08:50.663167+00:00",
-  "count": 20,
+  "updated": "2026-09-25T04:40:52.394844+00:00",
+  "count": 23,
   "sources": [
     {
       "id": "technews",
@@ -60,6 +60,110 @@
     }
   ],
   "articles": [
+    {
+      "id": "1ec6c23ff331",
+      "title": "多元產能需求驅動，台灣半導體廠擴大新加坡布局",
+      "link": "https://technews.tw/2026/09/25/taiwan-semiconductor-expands-singapore-footprint-diverse-capacity-demand/",
+      "summary": "晶圓代工廠世界先進與恩智浦（NXP）合資的新加坡 12 吋廠將於 9 月 28 日開幕，另一晶圓代工廠聯電也計 [&#8230;]",
+      "date": "2026-09-25T04:10:19+00:00",
+      "sourceId": "technews",
+      "cats": [
+        "market",
+        "process",
+        "material"
+      ]
+    },
+    {
+      "id": "03eb1f1a83b1",
+      "title": "敢當面跟張忠謀說「無法勝任」，油漆工之子李瑞華如何變身台積電傳奇人資長",
+      "link": "https://finance.technews.tw/2026/09/25/li-ruihua-leads-tsmc-hr-transformation/",
+      "summary": "新加坡貧困油漆工之子李瑞華，闖蕩外商 20 年，落腳台灣帶領台積電人資。卸下光環後，全心投身教育 20 餘載， [&#8230;]",
+      "date": "2026-09-25T03:00:00+00:00",
+      "sourceId": "technews",
+      "cats": [
+        "market",
+        "process",
+        "material"
+      ]
+    },
+    {
+      "id": "46eea165a0ff",
+      "title": "零件成本吞噬利潤空間，調研：2030 年入門手機出貨減 2.3 億支",
+      "link": "https://finance.technews.tw/2026/09/25/2030-entry-tier-smartphones-market/",
+      "summary": "隨著記憶體與晶片零組件成本持續上揚，以及最低產品規格提高，將影響入門級智慧型手機的供應。據調研機構 Count [&#8230;]",
+      "date": "2026-09-25T02:18:54+00:00",
+      "sourceId": "technews",
+      "cats": [
+        "market",
+        "process",
+        "material"
+      ]
+    },
+    {
+      "id": "ac7aff67f913",
+      "title": "受管制晶片疑出現在中國募資專案，AMD 回應：非直接出貨，將查非法轉運",
+      "link": "https://technews.tw/2026/09/25/regulated-chips-china-fundraising-amd-denies-direct-shipment-investigates-illegal-transshipment/",
+      "summary": "半導體研究機構 SemiAnalysis 負責人 Dylan Patel 24 日指稱，AMD 一款受美國出口 [&#8230;]",
+      "date": "2026-09-25T02:10:10+00:00",
+      "sourceId": "technews",
+      "cats": [
+        "market",
+        "process",
+        "material"
+      ]
+    },
+    {
+      "id": "4c362b6961e1",
+      "title": "ASML罕見示警！歐洲半導體投資冷清，今上半年營收占比竟是 0%",
+      "link": "https://technews.tw/2026/09/25/asml-sell-0-europe-in-2026/",
+      "summary": "根據外媒 Tom’ s Hardware 報導，荷蘭半導體設備大廠 ASML 雖然是歐洲市值最高的企業之一，但 [&#8230;]",
+      "date": "2026-09-25T01:52:58+00:00",
+      "sourceId": "technews",
+      "cats": [
+        "market",
+        "process",
+        "material"
+      ]
+    },
+    {
+      "id": "2dfe21abfbf8",
+      "title": "自研數據晶片不影響協議，蘋果、高通再續專利授權",
+      "link": "https://finance.technews.tw/2026/09/25/apple-qualcomm-3/",
+      "summary": "高通（Qualcomm）稍早宣布與蘋果再續簽全球專利授權協議，新協議將自 2027 年 4 月 1 日起生效。 [&#8230;]",
+      "date": "2026-09-25T01:41:51+00:00",
+      "sourceId": "technews",
+      "cats": [
+        "market",
+        "process",
+        "material"
+      ]
+    },
+    {
+      "id": "73f832706aa5",
+      "title": "記憶體漲價明顯！高通力拚不同產品線攻市，曝 AI PC 下一步擴展方向",
+      "link": "https://technews.tw/2026/09/25/qualcomm-kedar-kondap-interview/",
+      "summary": "隨著半導體零組件價格持續上漲，高通（Qualcomm）資深副總裁暨運算與遊戲部門總經理 Kedar Konda [&#8230;]",
+      "date": "2026-09-25T01:32:41+00:00",
+      "sourceId": "technews",
+      "cats": [
+        "market",
+        "process",
+        "material"
+      ]
+    },
+    {
+      "id": "a7deab05b06f",
+      "title": "AI 熱潮不是雨露均霑，科技廠兩極化發展",
+      "link": "https://technews.tw/2026/09/25/ai-boom-not-evenly-distributed-polarized-development-tech-firms/",
+      "summary": "AI 強勁需求，驅動全球半導體今年產值可望超前達成 1 兆美元大關，比原先預估的 2030 年快了 4 年。在 [&#8230;]",
+      "date": "2026-09-25T01:10:42+00:00",
+      "sourceId": "technews",
+      "cats": [
+        "market",
+        "process",
+        "material"
+      ]
+    },
     {
       "id": "95c3fd9baeb1",
       "title": "全球智慧手機供應鏈重組：市場趨勢、供應鏈布局與品牌策略",
@@ -136,71 +240,6 @@
         "process",
         "material",
         "equipment"
-      ]
-    },
-    {
-      "id": "16ef90b7445d",
-      "title": "輝達盯玻璃基板  傳催台日韓 2 年交卷、德商曝進展",
-      "link": "https://technews.tw/2026/09/24/nvidia-follows-glass-substrate-developments-in-taiwan-japan-and-south-korea/",
-      "summary": "韓媒傳出，輝達（Nvidia）正在評估採用玻璃基板，不但與德國設備製造商 SCHMID 等業者合作，更希望台日 [&#8230;]",
-      "date": "2026-09-24T07:40:59+00:00",
-      "sourceId": "technews",
-      "cats": [
-        "market",
-        "process",
-        "material"
-      ]
-    },
-    {
-      "id": "a4e243f40e01",
-      "title": "蘋果光環失靈？法院文件曝：ChatGPT 整合 Apple Intelligence 採用率慘澹",
-      "link": "https://technews.tw/2026/09/24/openai-apple-ai-user-indifference/",
-      "summary": "根據 OpenAI 最新提交的法院文件顯示，儘管蘋果（Apple）已將 ChatGPT 整合至 Apple I [&#8230;]",
-      "date": "2026-09-24T07:00:22+00:00",
-      "sourceId": "technews",
-      "cats": [
-        "market",
-        "process",
-        "material"
-      ]
-    },
-    {
-      "id": "3a6981da3423",
-      "title": "格羅方德聚焦差異化技術與全球地緣韌性，布局矽光子、RF、與大大關鍵應用市場",
-      "link": "https://technews.tw/2026/09/24/globalfoundries-focuses-on-differentiated-technologies-and-global-geopolitical-resilience/",
-      "summary": "半導體晶圓代工大廠格羅方德（GlobalFoundries，GF）亞太區業務副總裁馮曾文在年度技術峰會 GTS [&#8230;]",
-      "date": "2026-09-24T06:30:59+00:00",
-      "sourceId": "technews",
-      "cats": [
-        "market",
-        "process",
-        "material"
-      ]
-    },
-    {
-      "id": "b474334b44f5",
-      "title": "格羅方德深耕台灣生態系夥伴，擴展氮化鎵技術與全球產能布局",
-      "link": "https://technews.tw/2026/09/24/globalfoundries-deeply-rooted-in-taiwans-ecosystem/",
-      "summary": "晶圓代工大廠格羅方德（GlobalFoundries，GF）近日重申對台灣半導體生態系的高度重視，並針對全球供 [&#8230;]",
-      "date": "2026-09-24T06:30:36+00:00",
-      "sourceId": "technews",
-      "cats": [
-        "market",
-        "process",
-        "material"
-      ]
-    },
-    {
-      "id": "4dbed8fb10da",
-      "title": "川習會將登場，張建一：不會改變台美 AI 合作",
-      "link": "https://technews.tw/2026/09/24/xi-trump-summit-no-change-taiwan-us-ai-cooperation/",
-      "summary": "川習會即將登場，各界高度矚目。台經院院長張建一認為，美國深知台灣在半導體與 AI 供應鏈的重要性，川習會不至於 [&#8230;]",
-      "date": "2026-09-24T04:30:45+00:00",
-      "sourceId": "technews",
-      "cats": [
-        "market",
-        "process",
-        "material"
       ]
     },
     {
