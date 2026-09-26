@@ -1,6 +1,6 @@
 {
-  "updated": "2026-09-25T21:26:44.400955+00:00",
-  "count": 23,
+  "updated": "2026-09-26T00:29:38.850297+00:00",
+  "count": 22,
   "sources": [
     {
       "id": "technews",
@@ -183,19 +183,6 @@
       "link": "https://finance.technews.tw/2026/09/25/apple-qualcomm-3/",
       "summary": "高通（Qualcomm）稍早宣布與蘋果再續簽全球專利授權協議，新協議將自 2027 年 4 月 1 日起生效。 [&#8230;]",
       "date": "2026-09-25T01:41:51+00:00",
-      "sourceId": "technews",
-      "cats": [
-        "market",
-        "process",
-        "material"
-      ]
-    },
-    {
-      "id": "73f832706aa5",
-      "title": "記憶體漲價明顯！高通力拚不同產品線攻市，曝 AI PC 下一步擴展方向",
-      "link": "https://technews.tw/2026/09/25/qualcomm-kedar-kondap-interview/",
-      "summary": "隨著半導體零組件價格持續上漲，高通（Qualcomm）資深副總裁暨運算與遊戲部門總經理 Kedar Konda [&#8230;]",
-      "date": "2026-09-25T01:32:41+00:00",
       "sourceId": "technews",
       "cats": [
         "market",
