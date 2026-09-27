@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-27T00:24:48.759508+00:00",
+  "updated": "2026-09-27T07:58:45.622669+00:00",
   "count": 20,
   "sources": [
     {
@@ -61,6 +61,45 @@
   ],
   "articles": [
     {
+      "id": "9fe88129677c",
+      "title": "a16z 創辦矽谷 AI 學院：免學費、無考試，以「實作成果」取代成績單",
+      "link": "https://technews.tw/2026/09/27/andreessen-horowitz-academy/",
+      "summary": "創投公司 Andreessen Horowitz（a16z）9 月 22 日宣布，在舊金山推出 Andrees [&#8230;]",
+      "date": "2026-09-27T06:30:03+00:00",
+      "sourceId": "technews",
+      "cats": [
+        "market",
+        "process",
+        "material"
+      ]
+    },
+    {
+      "id": "d913bfd52fcd",
+      "title": "AI 越成功硬體越稀缺：晶片、能源成 AI 擴張瓶頸，創投重新看好硬科技",
+      "link": "https://technews.tw/2026/09/27/silicon-valley-sees-hard-tech-revival/",
+      "summary": "過去幾年，生成式 AI 的投資熱潮席捲全球創投市場。自 ChatGPT 問世後，大量資本湧向 AI 軟體新創， [&#8230;]",
+      "date": "2026-09-27T03:00:33+00:00",
+      "sourceId": "technews",
+      "cats": [
+        "market",
+        "process",
+        "material"
+      ]
+    },
+    {
+      "id": "2bcec60c8d0e",
+      "title": "台積電麥寮外海祕密計畫獨家曝光，全新台灣能源之路隱然成形",
+      "link": "https://technews.tw/2026/09/27/tsmc-ccs/",
+      "summary": "AI 浪潮引發科技業用電焦慮，國際供應鏈的減碳壓力也同時與日俱增。面對此情勢，台灣「護國神山」台積電低調布局三 [&#8230;]",
+      "date": "2026-09-27T03:00:23+00:00",
+      "sourceId": "technews",
+      "cats": [
+        "market",
+        "process",
+        "material"
+      ]
+    },
+    {
       "id": "11619449f65d",
       "title": "Dell 點名 HDD 缺貨，硬碟供應持續吃緊",
       "link": "https://technews.tw/2026/09/26/dell-highlights-hdd-shortage-hard-drive-supply-remains-tight/",
@@ -92,45 +131,6 @@
       "link": "https://technews.tw/2026/09/26/can-apple-homes-ai-camera-features-outsmart-amazons-and-googles/",
       "summary": "蘋果（Apple）本月隨 iOS 27 推出 Apple Intelligence for Home，讓支援 [&#8230;]",
       "date": "2026-09-26T05:30:31+00:00",
-      "sourceId": "technews",
-      "cats": [
-        "market",
-        "process",
-        "material"
-      ]
-    },
-    {
-      "id": "8fb3abbb38ad",
-      "title": "AI 需求引爆載板升級潮，台灣市占全球居冠",
-      "link": "https://finance.technews.tw/2026/09/26/ai-demand-substrate-upgrade-taiwan-global-market-share/",
-      "summary": "AI 浪潮正把載板從「晶片配角」推向高階化競爭核心。台灣電路板協會（TPCA）指出，AI 與高效能運算需求快速 [&#8230;]",
-      "date": "2026-09-26T04:30:55+00:00",
-      "sourceId": "technews",
-      "cats": [
-        "market",
-        "process",
-        "material"
-      ]
-    },
-    {
-      "id": "2a8e6d463905",
-      "title": "高塔半導體擬砸 40 億美元擴產日本，打造 AI 光通訊晶片基地",
-      "link": "https://technews.tw/2026/09/26/tower-semiconductor-plans-4bn-japan-chip-hub/",
-      "summary": "高塔半導體（Tower Semiconductor）25 日表示，將把日本打造成大型光通訊連結中心，投資約 4 [&#8230;]",
-      "date": "2026-09-26T02:50:37+00:00",
-      "sourceId": "technews",
-      "cats": [
-        "market",
-        "process",
-        "material"
-      ]
-    },
-    {
-      "id": "a883d157a4e8",
-      "title": "英特爾稱 Intel 14A 與台積電 A14 差距「5% 以內」，外界推算恐有領先空間",
-      "link": "https://technews.tw/2026/09/26/intel-expects-14a-to-be-within-5-the-performance-of-tsmcs-a14/",
-      "summary": "英特爾近日釋出下代製程 Intel 14A 的最新評估，稱效能表現與台積電 A14「差距 5% 以內」。這項說 [&#8230;]",
-      "date": "2026-09-26T02:40:21+00:00",
       "sourceId": "technews",
       "cats": [
         "market",
