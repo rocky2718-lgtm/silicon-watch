@@ -1,6 +1,6 @@
 {
-  "updated": "2026-09-27T22:56:49.596025+00:00",
-  "count": 19,
+  "updated": "2026-09-28T05:07:29.815282+00:00",
+  "count": 20,
   "sources": [
     {
       "id": "technews",
@@ -61,6 +61,45 @@
   ],
   "articles": [
     {
+      "id": "12c66ed04119",
+      "title": "AI 推論雲端新創 Gimlet Labs 獲 a16z 領投 3 億美元，主打「異質晶片配對」重塑資料中心",
+      "link": "https://technews.tw/2026/09/28/ai-startup-gimlet-labs/",
+      "summary": "Gimlet Labs 正以顛覆傳統雲端業者的策略快速擴展版圖。該公司近日宣布完成由 Andreessen H [&#8230;]",
+      "date": "2026-09-28T02:30:36+00:00",
+      "sourceId": "technews",
+      "cats": [
+        "market",
+        "process",
+        "material"
+      ]
+    },
+    {
+      "id": "e71486367ef6",
+      "title": "電池材料大廠康普收服特斯拉與豐田，跨足半導體化學品三箭齊發大啖非紅商機",
+      "link": "https://finance.technews.tw/2026/09/28/coremax-corporation/",
+      "summary": "非紅供應鏈浪潮下，動力電池材料大廠康普成為日歐系車廠爭相合作的夥伴，今年迎來獲利大爆發之餘，也鎖定半導體、被動 [&#8230;]",
+      "date": "2026-09-28T00:00:28+00:00",
+      "sourceId": "technews",
+      "cats": [
+        "market",
+        "process",
+        "material"
+      ]
+    },
+    {
+      "id": "81274432a527",
+      "title": "從供需失衡到高壓規格戰，解析全球 PMIC 市場新格局",
+      "link": "https://technews.tw/2026/09/28/global-pmic-market-new-landscape-from-supply-demand-imbalance-to-high-pressure-spec-war/",
+      "summary": "AI 晶片功耗逼近甚至超越 1kW，傳統 PCB 走線帶來的寄生電阻與 IR 壓降已成為算力發揮的瓶頸。PMI [&#8230;]",
+      "date": "2026-09-27T23:00:53+00:00",
+      "sourceId": "technews",
+      "cats": [
+        "market",
+        "process",
+        "material"
+      ]
+    },
+    {
       "id": "43e2d5a0dcb1",
       "title": "Full-Stack Semiconductor Solutions for Smart, Secure Industry and Digital Energy",
       "link": "https://www.eetimes.com/full-stack-semiconductor-solutions-for-industry-and-digital-energy-applications/",
@@ -105,32 +144,6 @@
       "link": "https://technews.tw/2026/09/27/tsmc-ccs/",
       "summary": "AI 浪潮引發科技業用電焦慮，國際供應鏈的減碳壓力也同時與日俱增。面對此情勢，台灣「護國神山」台積電低調布局三 [&#8230;]",
       "date": "2026-09-27T03:00:23+00:00",
-      "sourceId": "technews",
-      "cats": [
-        "market",
-        "process",
-        "material"
-      ]
-    },
-    {
-      "id": "11619449f65d",
-      "title": "Dell 點名 HDD 缺貨，硬碟供應持續吃緊",
-      "link": "https://technews.tw/2026/09/26/dell-highlights-hdd-shortage-hard-drive-supply-remains-tight/",
-      "summary": "AI 基礎設施需求持續擴大，帶動 HBM、DRAM 及 HDD 等關鍵零組件需求升溫。市場消息傳出，Dell [&#8230;]",
-      "date": "2026-09-26T08:55:25+00:00",
-      "sourceId": "technews",
-      "cats": [
-        "market",
-        "process",
-        "material"
-      ]
-    },
-    {
-      "id": "a85993e86575",
-      "title": "傳 SK 海力士美國子公司考慮 IPO，估值上看 1,500 億美元",
-      "link": "https://finance.technews.tw/2026/09/26/solidigm-ipo/",
-      "summary": "路透社引述三名知情人士說法報導，韓國晶片製造商 SK 海力士（SK Hynix）美國子公司 Solidigm [&#8230;]",
-      "date": "2026-09-26T08:30:13+00:00",
       "sourceId": "technews",
       "cats": [
         "market",
