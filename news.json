@@ -1,6 +1,6 @@
 {
-  "updated": "2026-09-28T05:07:29.815282+00:00",
-  "count": 20,
+  "updated": "2026-09-28T13:39:08.625055+00:00",
+  "count": 22,
   "sources": [
     {
       "id": "technews",
@@ -61,6 +61,58 @@
   ],
   "articles": [
     {
+      "id": "6e0b732b88d5",
+      "title": "世界先進方略：VSMC 新加坡 12 吋廠提供具韌性供應鏈，首期產能客戶全數承諾",
+      "link": "https://finance.technews.tw/2026/09/28/vsmcs-singapore-12-inch-fab-provides-a-resilient-supply-chain/",
+      "summary": "晶圓代工大廠世界先進與出用半導體廠商恩智浦半導體（NXP）合資成立的VSMC公司，其位於新加坡淡濱尼晶圓製造園 [&#8230;]",
+      "date": "2026-09-28T07:15:58+00:00",
+      "sourceId": "technews",
+      "cats": [
+        "market",
+        "process",
+        "material"
+      ]
+    },
+    {
+      "id": "ab800c9ce72a",
+      "title": "世界先進攜手恩智浦 VSMC 新加坡 12 吋廠開幕，預計 2027 年第一季量產",
+      "link": "https://finance.technews.tw/2026/09/28/world-advanced-technologies-in-partnership-with-nxp-and-vsmc-opens-12-inch-fab-in-singapore/",
+      "summary": "晶圓代工大廠世界先進積體電路股份有限公司（Vanguard International Semiconduct [&#8230;]",
+      "date": "2026-09-28T06:45:49+00:00",
+      "sourceId": "technews",
+      "cats": [
+        "market",
+        "process",
+        "material"
+      ]
+    },
+    {
+      "id": "b926a61233fc",
+      "title": "SK 海力士傳赴日蓋記憶體廠，東北地區進行基礎工程",
+      "link": "https://technews.tw/2026/09/28/sk-hynix-japan-memory-plant-tohoku-groundwork-underway/",
+      "summary": "根據韓媒報導，SK 海力士日本記憶體布局傳出新進展。SK 海力士可能已在日本東北地區進行半導體工廠相關基礎工程 [&#8230;]",
+      "date": "2026-09-28T06:30:09+00:00",
+      "sourceId": "technews",
+      "cats": [
+        "market",
+        "process",
+        "material"
+      ]
+    },
+    {
+      "id": "3bfe5c0a462f",
+      "title": "韓媒：三星加速 P5 擴產，設備進場提前至明年第二季",
+      "link": "https://technews.tw/2026/09/28/samsung-accelerates-p5-expansion-equipment-q2-next-year/",
+      "summary": "綜合韓媒報導，三星電子近期傳出加快韓國平澤第五園區（P5）半導體產能布局。韓媒引述業界人士指出，三星正與主要設 [&#8230;]",
+      "date": "2026-09-28T05:30:27+00:00",
+      "sourceId": "technews",
+      "cats": [
+        "market",
+        "process",
+        "material"
+      ]
+    },
+    {
       "id": "12c66ed04119",
       "title": "AI 推論雲端新創 Gimlet Labs 獲 a16z 領投 3 億美元，主打「異質晶片配對」重塑資料中心",
       "link": "https://technews.tw/2026/09/28/ai-startup-gimlet-labs/",
@@ -118,32 +170,6 @@
       "link": "https://technews.tw/2026/09/27/andreessen-horowitz-academy/",
       "summary": "創投公司 Andreessen Horowitz（a16z）9 月 22 日宣布，在舊金山推出 Andrees [&#8230;]",
       "date": "2026-09-27T06:30:03+00:00",
-      "sourceId": "technews",
-      "cats": [
-        "market",
-        "process",
-        "material"
-      ]
-    },
-    {
-      "id": "d913bfd52fcd",
-      "title": "AI 越成功硬體越稀缺：晶片、能源成 AI 擴張瓶頸，創投重新看好硬科技",
-      "link": "https://technews.tw/2026/09/27/silicon-valley-sees-hard-tech-revival/",
-      "summary": "過去幾年，生成式 AI 的投資熱潮席捲全球創投市場。自 ChatGPT 問世後，大量資本湧向 AI 軟體新創， [&#8230;]",
-      "date": "2026-09-27T03:00:33+00:00",
-      "sourceId": "technews",
-      "cats": [
-        "market",
-        "process",
-        "material"
-      ]
-    },
-    {
-      "id": "2bcec60c8d0e",
-      "title": "台積電麥寮外海祕密計畫獨家曝光，全新台灣能源之路隱然成形",
-      "link": "https://technews.tw/2026/09/27/tsmc-ccs/",
-      "summary": "AI 浪潮引發科技業用電焦慮，國際供應鏈的減碳壓力也同時與日俱增。面對此情勢，台灣「護國神山」台積電低調布局三 [&#8230;]",
-      "date": "2026-09-27T03:00:23+00:00",
       "sourceId": "technews",
       "cats": [
         "market",
