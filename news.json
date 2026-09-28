@@ -1,6 +1,6 @@
 {
-  "updated": "2026-09-28T13:39:08.625055+00:00",
-  "count": 22,
+  "updated": "2026-09-28T20:29:20.982246+00:00",
+  "count": 21,
   "sources": [
     {
       "id": "technews",
@@ -235,19 +235,6 @@
       "link": "https://www.eetimes.com/after-ionq-buyout-skywater-reiterates-role-as-quantum-foundry/",
       "summary": "As SkyWater scales its 200-mm and 300-mm manufacturing platforms to support diverse quantum modalities, leadership emphasizes that protecting customer IP remains its top priority. The post After IonQ Buyout, SkyWater Reiterates Role as Quantum Foundry appeared first on EE Times.",
       "date": "2026-09-24T14:08:18+00:00",
-      "sourceId": "eetimes",
-      "cats": [
-        "process",
-        "material",
-        "equipment"
-      ]
-    },
-    {
-      "id": "126b75a3ee0a",
-      "title": "SEMICON India 2026: Startup Mitra Sheds Light on Early-Stage Silicon Startup Funding",
-      "link": "https://www.eetimes.com/semicon-india-2026-startup-mitra-sheds-light-on-early-stage-silicon-startup-funding/",
-      "summary": "Indian semiconductor startups are seeking capital beyond seed rounds as they advance from prototypes and tape-out toward volume production. The post SEMICON India 2026: Startup Mitra Sheds Light on Early-Stage Silicon Startup Funding appeared first on EE Times.",
-      "date": "2026-09-24T08:15:06+00:00",
       "sourceId": "eetimes",
       "cats": [
         "process",
