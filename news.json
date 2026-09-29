@@ -1,6 +1,6 @@
 {
-  "updated": "2026-09-29T16:27:09.235881+00:00",
-  "count": 19,
+  "updated": "2026-09-29T22:08:56.181733+00:00",
+  "count": 18,
   "sources": [
     {
       "id": "technews",
@@ -196,19 +196,6 @@
       "link": "https://www.eetimes.com/balancing-bandwidth-range-and-power-in-intelligent-buildings/",
       "summary": "As edge AI transforms smart buildings, Wi-Fi HaLow bridges the gap between bandwidth, long range, and low power. The post Balancing Bandwidth, Range, and Power in Intelligent Buildings appeared first on EE Times.",
       "date": "2026-09-25T08:00:34+00:00",
-      "sourceId": "eetimes",
-      "cats": [
-        "process",
-        "material",
-        "equipment"
-      ]
-    },
-    {
-      "id": "4662027ba749",
-      "title": "Delos Data Targets Heterogeneous AI with Data Interface",
-      "link": "https://www.eetimes.com/delos-data-targets-heterogeneous-ai-with-data-interface/",
-      "summary": "Delos’s Apollo chiplet is designed to bridge different endpoint semantics and interconnects, creating a low-latency domain spanning GPUs, accelerators, CPUs and memory The post Delos Data Targets Heterogeneous AI with Data Interface appeared first on EE Times.",
-      "date": "2026-09-24T18:43:38+00:00",
       "sourceId": "eetimes",
       "cats": [
         "process",
