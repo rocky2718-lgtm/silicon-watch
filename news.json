@@ -1,6 +1,6 @@
 {
-  "updated": "2026-09-29T08:18:11.828210+00:00",
-  "count": 21,
+  "updated": "2026-09-29T16:27:09.235881+00:00",
+  "count": 19,
   "sources": [
     {
       "id": "technews",
@@ -60,6 +60,32 @@
     }
   ],
   "articles": [
+    {
+      "id": "196c51a4613b",
+      "title": "AI Data Centers Make Power, Cooling Critical to Scaling",
+      "link": "https://www.eetimes.com/ai-data-centers-make-power-cooling-critical-to-scaling/",
+      "summary": "AI is transforming data centers into infrastructure platforms where power, cooling, and semiconductors determine scalability. The post AI Data Centers Make Power, Cooling Critical to Scaling appeared first on EE Times.",
+      "date": "2026-09-29T14:42:45+00:00",
+      "sourceId": "eetimes",
+      "cats": [
+        "process",
+        "material",
+        "equipment"
+      ]
+    },
+    {
+      "id": "4686c45380be",
+      "title": "AI 狂潮席捲！台灣三大科學園區 2026 上半年總營收破 3.5 兆創歷年同期新高",
+      "link": "https://finance.technews.tw/2026/09/29/taiwans-three-major-science-parks-achieved-a-combined-revenue-exceeding-nt3-5-trillion-in-the-first-half-of-2026/",
+      "summary": "受惠於全球人工智慧（AI）浪潮、高效能運算（HPC）與先進半導體需求強勁擴增，台灣三大科學園區（竹科、中科、南 [&#8230;]",
+      "date": "2026-09-29T09:45:01+00:00",
+      "sourceId": "technews",
+      "cats": [
+        "market",
+        "process",
+        "material"
+      ]
+    },
     {
       "id": "54c5fcc1318a",
       "title": "Nvidia 首推 AI 工廠散熱認證，CDU 首波僅三家上榜",
@@ -139,32 +165,6 @@
       ]
     },
     {
-      "id": "f5aa7096f86a",
-      "title": "陳立武：台積電是夥伴不是對手，英特爾未來仍可能是其重要客戶",
-      "link": "https://technews.tw/2026/09/29/intel-ceo-lip-bu-tan-calls-tsmc-a-partner-not-a-rival/",
-      "summary": "英特爾（Intel）執行長陳立武（Lip-Bu Tan）表示，即使公司正在重建晶圓代工業務，台積電（TSMC） [&#8230;]",
-      "date": "2026-09-29T03:25:49+00:00",
-      "sourceId": "technews",
-      "cats": [
-        "market",
-        "process",
-        "material"
-      ]
-    },
-    {
-      "id": "f0958b85982a",
-      "title": "日本晶片設備銷售旺  逼近「6 千億」、刷新歷史新高",
-      "link": "https://technews.tw/2026/09/29/japanese-chip-equipment-sales-approach-600-billion-yen/",
-      "summary": "日本半導體（晶片）製造設備銷售續旺，8 月份銷售額創 54 個月來最大增幅，逼近 6,000 億日圓大關，刷新 [&#8230;]",
-      "date": "2026-09-29T02:50:23+00:00",
-      "sourceId": "technews",
-      "cats": [
-        "market",
-        "process",
-        "material"
-      ]
-    },
-    {
       "id": "43e2d5a0dcb1",
       "title": "Full-Stack Semiconductor Solutions for Smart, Secure Industry and Digital Energy",
       "link": "https://www.eetimes.com/full-stack-semiconductor-solutions-for-industry-and-digital-energy-applications/",
@@ -209,32 +209,6 @@
       "link": "https://www.eetimes.com/delos-data-targets-heterogeneous-ai-with-data-interface/",
       "summary": "Delos’s Apollo chiplet is designed to bridge different endpoint semantics and interconnects, creating a low-latency domain spanning GPUs, accelerators, CPUs and memory The post Delos Data Targets Heterogeneous AI with Data Interface appeared first on EE Times.",
       "date": "2026-09-24T18:43:38+00:00",
-      "sourceId": "eetimes",
-      "cats": [
-        "process",
-        "material",
-        "equipment"
-      ]
-    },
-    {
-      "id": "837373fef290",
-      "title": "Inside TSMC’s Evolving Design Ecosystem: Shaping the Future of AI, with AI",
-      "link": "https://www.eetimes.com/inside-tsmcs-evolving-design-ecosystem-shaping-the-future-of-ai-with-ai/",
-      "summary": "TSMC shares updates about the Open Innovation Platform Ecosystem and vision for enabling AI-driven agentic workflows using TSMC AI Design Kit The post Inside TSMC’s Evolving Design Ecosystem: Shaping the Future of AI, with AI appeared first on EE Times.",
-      "date": "2026-09-24T14:10:55+00:00",
-      "sourceId": "eetimes",
-      "cats": [
-        "process",
-        "material",
-        "equipment"
-      ]
-    },
-    {
-      "id": "f3247477171f",
-      "title": "After IonQ Buyout, SkyWater Reiterates Role as Quantum Foundry",
-      "link": "https://www.eetimes.com/after-ionq-buyout-skywater-reiterates-role-as-quantum-foundry/",
-      "summary": "As SkyWater scales its 200-mm and 300-mm manufacturing platforms to support diverse quantum modalities, leadership emphasizes that protecting customer IP remains its top priority. The post After IonQ Buyout, SkyWater Reiterates Role as Quantum Foundry appeared first on EE Times.",
-      "date": "2026-09-24T14:08:18+00:00",
       "sourceId": "eetimes",
       "cats": [
         "process",
