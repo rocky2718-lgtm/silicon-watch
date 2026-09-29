@@ -1,6 +1,6 @@
 {
-  "updated": "2026-09-28T20:29:20.982246+00:00",
-  "count": 21,
+  "updated": "2026-09-29T01:44:29.852994+00:00",
+  "count": 22,
   "sources": [
     {
       "id": "technews",
@@ -61,89 +61,115 @@
   ],
   "articles": [
     {
+      "id": "b7c1f05090d0",
+      "title": "反駁美政府「竊盜」指控，輝達黃仁勳定調 AI 模型蒸餾為合法競爭",
+      "link": "https://technews.tw/2026/09/29/jensen-huang-champions-ai-model-distillation-as-legitimate-competition/",
+      "summary": "輝達（Nvidia）執行長黃仁勳 28 日直言，AI「模型蒸餾」（model distillation）本質上 [&#8230;]",
+      "date": "2026-09-29T01:30:10+00:00",
+      "sourceId": "technews",
+      "cats": [
+        "market",
+        "process",
+        "material"
+      ]
+    },
+    {
+      "id": "07723f3c0712",
+      "title": "AMD 斥資 82 億美元收購 World Labs，李飛飛出任首席科學家",
+      "link": "https://technews.tw/2026/09/29/amd-to-buy-fei-fei-lis-world-labs-ai-startup-for-8-2-billion/",
+      "summary": "超微半導體（AMD）28 日宣布，已與由人工智慧先驅李飛飛創立並領導的 World Labs 達成最終收購協議 [&#8230;]",
+      "date": "2026-09-29T01:10:56+00:00",
+      "sourceId": "technews",
+      "cats": [
+        "market",
+        "process",
+        "material"
+      ]
+    },
+    {
+      "id": "8e242e278e47",
+      "title": "驚人漲幅帶動，記憶體晶圓每單位營收超越台積電 3 奈米邏輯製程",
+      "link": "https://technews.tw/2026/09/29/revenue-per-unit-of-memory-wafer-surpasses-tsmcs-3nm-logic-process/",
+      "summary": "根據外媒報導，最新產業分析指出，在人工智慧（AI）浪潮帶動下，DRAM 製造商每單位矽晶圓面積所創造的營收，已 [&#8230;]",
+      "date": "2026-09-29T01:00:54+00:00",
+      "sourceId": "technews",
+      "cats": [
+        "market",
+        "process",
+        "material"
+      ]
+    },
+    {
+      "id": "097c9776cd44",
+      "title": "NVIDIA 推 AI Agent 安全平台：軟硬體層層防護，毫秒內隔離 AI 失控行為",
+      "link": "https://infosecu.technews.tw/2026/09/29/nvidia-launches-open-agent-safety-platform/",
+      "summary": "NVIDIA 28 日發表 Open Agent Safety Platform，是一套開放式軟體平台與參考系 [&#8230;]",
+      "date": "2026-09-29T00:19:09+00:00",
+      "sourceId": "technews",
+      "cats": [
+        "market",
+        "process",
+        "material"
+      ]
+    },
+    {
+      "id": "570acaa1fc3c",
+      "title": "歐美最新民調：憂心 AI 毀滅人類，「寧可落後也要安全」",
+      "link": "https://infosecu.technews.tw/2026/09/29/ai-anxiety-is-sweeping-the-globe-and-cutting-across-party-lines-poll/",
+      "summary": "最新民調顯示，人工智慧引發的焦慮已從矽谷擴散到美國、加拿大與歐洲多國，且明顯跨越黨派與政治立場。調查指出，受訪 [&#8230;]",
+      "date": "2026-09-29T00:10:22+00:00",
+      "sourceId": "technews",
+      "cats": [
+        "market",
+        "process",
+        "material"
+      ]
+    },
+    {
+      "id": "bce32cf59e44",
+      "title": "輝達宣布 1,500 億美元史上最大企業股票回購計畫，帶動股價一度逆勢上漲 3%",
+      "link": "https://finance.technews.tw/2026/09/29/nvidia-announces-150-billion-the-largest-corporate-stock-buyback-program-in-history/",
+      "summary": "受人工智慧（AI）浪潮帶動的強勁現金流支援，AI 晶片大廠輝達（Nvidia）宣布授權新增 1,500 億美元 [&#8230;]",
+      "date": "2026-09-29T00:00:06+00:00",
+      "sourceId": "technews",
+      "cats": [
+        "market",
+        "process",
+        "material"
+      ]
+    },
+    {
+      "id": "417ebf52dbb9",
+      "title": "Apple Store 設計者不認為 AI 購物助理會成功，因上手體驗無法取代",
+      "link": "https://ccc.technews.tw/2026/09/29/the-man-who-built-apples-stores-doesnt-buy-silicon-valleys-bet-on-ai-shopping/",
+      "summary": "參與打造蘋果零售體系的羅恩‧強森（Ron Johnson）上 Podcast 節目時表示，矽谷大舉投資能幫消費 [&#8230;]",
+      "date": "2026-09-28T23:20:46+00:00",
+      "sourceId": "technews",
+      "cats": [
+        "market",
+        "process",
+        "material"
+      ]
+    },
+    {
+      "id": "53cf14f859d7",
+      "title": "美光本周公布最新財報，營收上看 500 億美元受到市場關注",
+      "link": "https://finance.technews.tw/2026/09/29/micron-will-release-its-latest-financial-report-this-week/",
+      "summary": "全球記憶體大廠美光科技（Micron）即將於本周公布2026年度第四季（6月至8月）的財務報告。美光先前給出的 [&#8230;]",
+      "date": "2026-09-28T23:00:11+00:00",
+      "sourceId": "technews",
+      "cats": [
+        "market",
+        "process",
+        "material"
+      ]
+    },
+    {
       "id": "6e0b732b88d5",
       "title": "世界先進方略：VSMC 新加坡 12 吋廠提供具韌性供應鏈，首期產能客戶全數承諾",
       "link": "https://finance.technews.tw/2026/09/28/vsmcs-singapore-12-inch-fab-provides-a-resilient-supply-chain/",
       "summary": "晶圓代工大廠世界先進與出用半導體廠商恩智浦半導體（NXP）合資成立的VSMC公司，其位於新加坡淡濱尼晶圓製造園 [&#8230;]",
       "date": "2026-09-28T07:15:58+00:00",
-      "sourceId": "technews",
-      "cats": [
-        "market",
-        "process",
-        "material"
-      ]
-    },
-    {
-      "id": "ab800c9ce72a",
-      "title": "世界先進攜手恩智浦 VSMC 新加坡 12 吋廠開幕，預計 2027 年第一季量產",
-      "link": "https://finance.technews.tw/2026/09/28/world-advanced-technologies-in-partnership-with-nxp-and-vsmc-opens-12-inch-fab-in-singapore/",
-      "summary": "晶圓代工大廠世界先進積體電路股份有限公司（Vanguard International Semiconduct [&#8230;]",
-      "date": "2026-09-28T06:45:49+00:00",
-      "sourceId": "technews",
-      "cats": [
-        "market",
-        "process",
-        "material"
-      ]
-    },
-    {
-      "id": "b926a61233fc",
-      "title": "SK 海力士傳赴日蓋記憶體廠，東北地區進行基礎工程",
-      "link": "https://technews.tw/2026/09/28/sk-hynix-japan-memory-plant-tohoku-groundwork-underway/",
-      "summary": "根據韓媒報導，SK 海力士日本記憶體布局傳出新進展。SK 海力士可能已在日本東北地區進行半導體工廠相關基礎工程 [&#8230;]",
-      "date": "2026-09-28T06:30:09+00:00",
-      "sourceId": "technews",
-      "cats": [
-        "market",
-        "process",
-        "material"
-      ]
-    },
-    {
-      "id": "3bfe5c0a462f",
-      "title": "韓媒：三星加速 P5 擴產，設備進場提前至明年第二季",
-      "link": "https://technews.tw/2026/09/28/samsung-accelerates-p5-expansion-equipment-q2-next-year/",
-      "summary": "綜合韓媒報導，三星電子近期傳出加快韓國平澤第五園區（P5）半導體產能布局。韓媒引述業界人士指出，三星正與主要設 [&#8230;]",
-      "date": "2026-09-28T05:30:27+00:00",
-      "sourceId": "technews",
-      "cats": [
-        "market",
-        "process",
-        "material"
-      ]
-    },
-    {
-      "id": "12c66ed04119",
-      "title": "AI 推論雲端新創 Gimlet Labs 獲 a16z 領投 3 億美元，主打「異質晶片配對」重塑資料中心",
-      "link": "https://technews.tw/2026/09/28/ai-startup-gimlet-labs/",
-      "summary": "Gimlet Labs 正以顛覆傳統雲端業者的策略快速擴展版圖。該公司近日宣布完成由 Andreessen H [&#8230;]",
-      "date": "2026-09-28T02:30:36+00:00",
-      "sourceId": "technews",
-      "cats": [
-        "market",
-        "process",
-        "material"
-      ]
-    },
-    {
-      "id": "e71486367ef6",
-      "title": "電池材料大廠康普收服特斯拉與豐田，跨足半導體化學品三箭齊發大啖非紅商機",
-      "link": "https://finance.technews.tw/2026/09/28/coremax-corporation/",
-      "summary": "非紅供應鏈浪潮下，動力電池材料大廠康普成為日歐系車廠爭相合作的夥伴，今年迎來獲利大爆發之餘，也鎖定半導體、被動 [&#8230;]",
-      "date": "2026-09-28T00:00:28+00:00",
-      "sourceId": "technews",
-      "cats": [
-        "market",
-        "process",
-        "material"
-      ]
-    },
-    {
-      "id": "81274432a527",
-      "title": "從供需失衡到高壓規格戰，解析全球 PMIC 市場新格局",
-      "link": "https://technews.tw/2026/09/28/global-pmic-market-new-landscape-from-supply-demand-imbalance-to-high-pressure-spec-war/",
-      "summary": "AI 晶片功耗逼近甚至超越 1kW，傳統 PCB 走線帶來的寄生電阻與 IR 壓降已成為算力發揮的瓶頸。PMI [&#8230;]",
-      "date": "2026-09-27T23:00:53+00:00",
       "sourceId": "technews",
       "cats": [
         "market",
@@ -162,19 +188,6 @@
         "process",
         "material",
         "equipment"
-      ]
-    },
-    {
-      "id": "9fe88129677c",
-      "title": "a16z 創辦矽谷 AI 學院：免學費、無考試，以「實作成果」取代成績單",
-      "link": "https://technews.tw/2026/09/27/andreessen-horowitz-academy/",
-      "summary": "創投公司 Andreessen Horowitz（a16z）9 月 22 日宣布，在舊金山推出 Andrees [&#8230;]",
-      "date": "2026-09-27T06:30:03+00:00",
-      "sourceId": "technews",
-      "cats": [
-        "market",
-        "process",
-        "material"
       ]
     },
     {
