@@ -1,6 +1,6 @@
 {
-  "updated": "2026-09-30T12:23:58.318268+00:00",
-  "count": 17,
+  "updated": "2026-09-30T19:03:42.449167+00:00",
+  "count": 16,
   "sources": [
     {
       "id": "technews",
@@ -60,6 +60,32 @@
     }
   ],
   "articles": [
+    {
+      "id": "bd2a79b3818a",
+      "title": "TSMC’s 3-nm Ramp Looks Different in Historical Context",
+      "link": "https://www.eetimes.com/tsmcs-3-nm-ramp-looks-different-in-historical-context/",
+      "summary": "TSMC’s 3-nm node nears the revenue lead, but history shows 7 nm ramped faster; compare the data before evaluating 2 nm. The post TSMC’s 3-nm Ramp Looks Different in Historical Context appeared first on EE Times.",
+      "date": "2026-09-30T15:40:17+00:00",
+      "sourceId": "eetimes",
+      "cats": [
+        "process",
+        "material",
+        "equipment"
+      ]
+    },
+    {
+      "id": "9c758b7438ad",
+      "title": "Manufacturing Intelligence: Turning EDA Data into Trusted Action",
+      "link": "https://www.eetimes.com/manufacturing-intelligence-turning-eda-data-into-trusted-action/",
+      "summary": "Manufacturing intelligence connects EDA, TCAD and metrology to turn manufacturing evidence into trusted action, faster. The post Manufacturing Intelligence: Turning EDA Data into Trusted Action appeared first on EE Times.",
+      "date": "2026-09-30T13:00:00+00:00",
+      "sourceId": "eetimes",
+      "cats": [
+        "process",
+        "material",
+        "equipment"
+      ]
+    },
     {
       "id": "212428edffaa",
       "title": "韓國首爾大學啟動 AI 半導體創新研究所，六年培養 110 名 NPU 頂尖人才",
@@ -139,50 +165,11 @@
       ]
     },
     {
-      "id": "42473d2c946b",
-      "title": "晶片熱潮帶動稅收飆升，韓國今年稅收估達 478.6 兆韓圜創歷史新高",
-      "link": "https://finance.technews.tw/2026/09/30/tax-revenue-estimated-to-hit-record-high-in-2026-on-chip-boom/",
-      "summary": "韓國政府今日公布最新國稅重估結果，今年國家稅收將達 478.6 兆韓圜，較去年增加 104.7 兆韓圜，年增約 [&#8230;]",
-      "date": "2026-09-30T03:40:41+00:00",
-      "sourceId": "technews",
-      "cats": [
-        "market",
-        "process",
-        "material"
-      ]
-    },
-    {
       "id": "196c51a4613b",
       "title": "AI Data Centers Make Power, Cooling Critical to Scaling",
       "link": "https://www.eetimes.com/ai-data-centers-make-power-cooling-critical-to-scaling/",
       "summary": "AI is transforming data centers into infrastructure platforms where power, cooling, and semiconductors determine scalability. The post AI Data Centers Make Power, Cooling Critical to Scaling appeared first on EE Times.",
       "date": "2026-09-29T14:42:45+00:00",
-      "sourceId": "eetimes",
-      "cats": [
-        "process",
-        "material",
-        "equipment"
-      ]
-    },
-    {
-      "id": "43e2d5a0dcb1",
-      "title": "Full-Stack Semiconductor Solutions for Smart, Secure Industry and Digital Energy",
-      "link": "https://www.eetimes.com/full-stack-semiconductor-solutions-for-industry-and-digital-energy-applications/",
-      "summary": "NSING Technologies, a Singapore-founded semiconductor company, delivers full-stack chip solutions for industrial automation, AI data centers, and digital energy.The N32-series MCUs (144–600 MHz, Cortex-M4F/M7) integrate EtherCAT, CAN-FD, USB-HS, and high-precision ADCs, powering servo drives, invert",
-      "date": "2026-09-27T14:00:00+00:00",
-      "sourceId": "eetimes",
-      "cats": [
-        "process",
-        "material",
-        "equipment"
-      ]
-    },
-    {
-      "id": "c7d5b8594833",
-      "title": "Huawei’s Tau Law Takes Commercial Form",
-      "link": "https://www.eetimes.com/huaweis-tau-law-takes-commercial-form/",
-      "summary": "Kirin 9050 Pro rests on the Tau (τ) Scaling Law, marking a major change in chip architecture designed to bypass EUV lithography limits. The post Huawei’s Tau Law Takes Commercial Form appeared first on EE Times.",
-      "date": "2026-09-25T14:18:57+00:00",
       "sourceId": "eetimes",
       "cats": [
         "process",
