@@ -1,6 +1,6 @@
 {
-  "updated": "2026-09-30T19:03:42.449167+00:00",
-  "count": 16,
+  "updated": "2026-09-30T23:38:41.566392+00:00",
+  "count": 17,
   "sources": [
     {
       "id": "technews",
@@ -60,6 +60,32 @@
     }
   ],
   "articles": [
+    {
+      "id": "78f76b17757d",
+      "title": "美光 2026 年第四季毛利率衝上 86.8%，單季及全年財報均創歷史記錄",
+      "link": "https://finance.technews.tw/2026/10/01/microns-gross-margin-surged-to-86-8-in-the-fourth-quarter-of-2026/",
+      "summary": "受惠於全球人工智慧 （AI） 基礎設施建設帶來的歷史性記憶體需求，美國記憶體大廠美光科技 （Micron Te [&#8230;]",
+      "date": "2026-09-30T23:30:19+00:00",
+      "sourceId": "technews",
+      "cats": [
+        "market",
+        "process",
+        "material"
+      ]
+    },
+    {
+      "id": "8a9cc6c71fe0",
+      "title": "Emergence AI to Deploy Neuroformal AI With Fabless Chipmakers",
+      "link": "https://www.eetimes.com/emergence-ai-to-deploy-neuroformal-ai-with-fabless-chipmakers/",
+      "summary": "See how Emergence AI is deploying neuroformal AI with chipmakers to boost wafer yields and tackle fab, test, and packaging failures. The post Emergence AI to Deploy Neuroformal AI With Fabless Chipmakers appeared first on EE Times.",
+      "date": "2026-09-30T21:31:25+00:00",
+      "sourceId": "eetimes",
+      "cats": [
+        "process",
+        "material",
+        "equipment"
+      ]
+    },
     {
       "id": "bd2a79b3818a",
       "title": "TSMC’s 3-nm Ramp Looks Different in Historical Context",
@@ -144,19 +170,6 @@
       "link": "https://technews.tw/2026/09/30/intel-patent-embeds-microleds-in-chip-packaging/",
       "summary": "英特爾（Intel）近期取得一項美國專利，重點在於將 Micro LED 直接整合進晶片封裝中，並利用玻璃基板 [&#8230;]",
       "date": "2026-09-30T06:10:18+00:00",
-      "sourceId": "technews",
-      "cats": [
-        "market",
-        "process",
-        "material"
-      ]
-    },
-    {
-      "id": "15cf623e44df",
-      "title": "台積電 2 奈米擴產有譜？設備股獲看好、應材嗨",
-      "link": "https://technews.tw/2026/09/30/tsmc-boosting-2nm-production-could-be-boon-for-chip-equipment/",
-      "summary": "台媒傳出，台積電擬啟動美國第二園區建廠計畫，要再蓋六座先進晶圓廠，落腳德州達拉斯呼聲高。富國銀行（Wells [&#8230;]",
-      "date": "2026-09-30T04:20:20+00:00",
       "sourceId": "technews",
       "cats": [
         "market",
