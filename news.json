@@ -1,6 +1,6 @@
 {
-  "updated": "2026-10-01T05:33:52.596669+00:00",
-  "count": 15,
+  "updated": "2026-10-01T12:58:42.152721+00:00",
+  "count": 21,
   "sources": [
     {
       "id": "technews",
@@ -61,11 +61,11 @@
   ],
   "articles": [
     {
-      "id": "9b25717986ff",
-      "title": "Q4 第一天，三星 S26、A 系列手機都漲價了",
-      "link": "https://technews.tw/2026/10/01/galaxy-s26-a-series-raise-prices/",
-      "summary": "受到記憶體成本不斷上升影響，三星在第四季的首日調整了 Galaxy S26 與多款 Galaxy A 系列手機 [&#8230;]",
-      "date": "2026-10-01T04:46:23+00:00",
+      "id": "3789048f1493",
+      "title": "Snapdragon 高峰會重點在哪？代理 AI 全布局，高通已準備搶攻個人 AI 入口",
+      "link": "https://technews.tw/2026/10/01/qualcomm-2026-snapdragon-summit/",
+      "summary": "高通 2026 年 Snapdragon 高峰會已經正式落幕，這次一口氣推出最新雙旗艦晶片 Snapdrago [&#8230;]",
+      "date": "2026-10-01T10:19:15+00:00",
       "sourceId": "technews",
       "cats": [
         "market",
@@ -74,11 +74,24 @@
       ]
     },
     {
-      "id": "ba9cd0d02d03",
-      "title": "美探針卡巨頭 FormFactor 獲德銀唱多  股價飆",
-      "link": "https://finance.technews.tw/2026/10/01/deutsche-bank-bullish-on-formfactor-shares-surge/",
-      "summary": "美國半導體測試設備商、探針卡巨頭 FormFactor 首度獲德意志銀行（Deutsche Bank）納入研究 [&#8230;]",
-      "date": "2026-10-01T03:00:08+00:00",
+      "id": "e7c944c5c545",
+      "title": "Europe’s Space Industry Seeks Greater Supply Chain Control",
+      "link": "https://www.eetimes.com/europe-space-industry-seeks-greater-supply-chain-control/",
+      "summary": "Europe's strategic space independence will depend on semiconductor supply chains, satellite networks, and 6G communications. The post Europe’s Space Industry Seeks Greater Supply Chain Control appeared first on EE Times.",
+      "date": "2026-10-01T09:57:15+00:00",
+      "sourceId": "eetimes",
+      "cats": [
+        "process",
+        "material",
+        "equipment"
+      ]
+    },
+    {
+      "id": "aa34926e833d",
+      "title": "Arm 機櫃級伺服器已超越 x86，Arm 攜手 NVIDIA 搶代理 AI 商機",
+      "link": "https://technews.tw/2026/10/01/arm-talk-about-agentic-ai/",
+      "summary": "人工智慧（AI）基礎設施正在加速向 Arm 架構轉移，基於 Arm 架構的機櫃級伺服器目前已超越 x86，成為 [&#8230;]",
+      "date": "2026-10-01T09:33:06+00:00",
       "sourceId": "technews",
       "cats": [
         "market",
@@ -87,11 +100,11 @@
       ]
     },
     {
-      "id": "121aa6c3950d",
-      "title": "美晶片管制反成推手？華為宣稱昇騰 AI 晶片中國市占率已擊敗輝達",
-      "link": "https://technews.tw/2026/10/01/huawei-ai-chip-china-sales-surpass-nvidia/",
-      "summary": "華為輪值董事長徐直軍於 9 月 30 日透露，在美國持續實施出口管制的背景下，華為正迅速補上中國 AI 加速器 [&#8230;]",
-      "date": "2026-10-01T02:30:33+00:00",
+      "id": "e4f47c71145d",
+      "title": "2025 年全球跨國投資金額年增 2.2% 達 1.3 兆美元，台積電站上第一名寶座",
+      "link": "https://finance.technews.tw/2026/10/01/global-cross-border-investment-is-projected-to-grow-by-2-2-annually-to-reach-us1-3-trillion-by-2025/",
+      "summary": "根據《fDi Report 2026》與 Visual capitalist 的最新分析，2025 年全球跨國 [&#8230;]",
+      "date": "2026-10-01T08:50:19+00:00",
       "sourceId": "technews",
       "cats": [
         "market",
@@ -100,11 +113,76 @@
       ]
     },
     {
-      "id": "18f459466597",
-      "title": "台積 2 奈米良率甩三星／Intel？先進製程滿到 2028",
-      "link": "https://technews.tw/2026/10/01/piper-says-tsmc-capacity-sold-out-through-2028-on-strong-ai-demand/",
-      "summary": "一名台灣半導體研究專家透露，台積電先進製程晶圓產能直到 2028 年上半年都已售罄。此外，台積電用於汽車及工業 [&#8230;]",
-      "date": "2026-10-01T02:10:36+00:00",
+      "id": "f23342bee7ff",
+      "title": "泰國加速半導體投資！英飛凌啟用後段製造新廠，初期投資超過 1 億歐元",
+      "link": "https://finance.technews.tw/2026/10/01/infineon-opens-1-4-billion-thailand-plant/",
+      "summary": "英飛凌今（1 日）在泰國曼谷附近啟用全新半導體後段製造基地，初期投資超過 1 億歐元，顯示在全球半導體供應鏈持 [&#8230;]",
+      "date": "2026-10-01T07:38:31+00:00",
+      "sourceId": "technews",
+      "cats": [
+        "market",
+        "process",
+        "material"
+      ]
+    },
+    {
+      "id": "47432f148d1a",
+      "title": "AI 點火  韓 9 月出口創高、半導體出口破 600 億美元",
+      "link": "https://technews.tw/2026/10/01/ai-fuels-south-korea-september-exports-record-semiconductor-exports-top-60-billion/",
+      "summary": "AI 及記憶體需求強勁，帶動韓國 9 月出口額年增逾八成、再創歷史新高，其中，半導體出口更首度突破 600 億 [&#8230;]",
+      "date": "2026-10-01T06:50:02+00:00",
+      "sourceId": "technews",
+      "cats": [
+        "market",
+        "process",
+        "material"
+      ]
+    },
+    {
+      "id": "c2bc8a13e313",
+      "title": "崇越科技深化日本半導體戰略布局，福岡營業所 10 月設立",
+      "link": "https://technews.tw/2026/10/01/tsc-deepens-its-strategic-layout-in-the-japanese-semiconductor-industry/",
+      "summary": "半導體關鍵材料商崇越科技持續加速海外市場布局，旗下日本子公司「峻川商事株式會社」於 10 月 1 日正式啟用福 [&#8230;]",
+      "date": "2026-10-01T06:40:17+00:00",
+      "sourceId": "technews",
+      "cats": [
+        "market",
+        "process",
+        "material"
+      ]
+    },
+    {
+      "id": "3e0bfab33732",
+      "title": "日月光攜手六校發表 12 項成果，深化本土研發能量展現封測領航實力",
+      "link": "https://technews.tw/2026/10/01/ase-technology-group-together-with-six-universities-announced-12-research-findings/",
+      "summary": "日月光半導體日前舉辦「第十一屆自動化產學專案成果發表會」，攜手國立中央大學、國立成功大學、國立中山大學、國立陽 [&#8230;]",
+      "date": "2026-10-01T06:15:24+00:00",
+      "sourceId": "technews",
+      "cats": [
+        "market",
+        "process",
+        "material"
+      ]
+    },
+    {
+      "id": "1685fb757c02",
+      "title": "美光加速全球擴產，AI 記憶體 2027 年 HBM 產能近乎全數鎖定",
+      "link": "https://technews.tw/2026/10/01/microns-ai-memory-hbm-production-capacity-for-2027-is-almost-entirely-locked-in/",
+      "summary": "記憶體大廠美光表示，隨著 AI 需求爆發，美光正加速在全球進行記憶體產能與先進封裝布局，並強調「在地擴充」策略 [&#8230;]",
+      "date": "2026-10-01T06:15:10+00:00",
+      "sourceId": "technews",
+      "cats": [
+        "market",
+        "process",
+        "material"
+      ]
+    },
+    {
+      "id": "3d858460ab57",
+      "title": "AMD 執行長蘇姿丰 10 月再訪韓！傳洽談 AI 晶片合作，有望與三星李在鎔會面",
+      "link": "https://technews.tw/2026/10/01/amd-ceo-lisa-su-visit-korea/",
+      "summary": "AMD 執行長蘇姿丰將再次訪問韓國，距離上次訪韓僅約 7 個月，據報導是為了尋求擴大人工智慧（AI）半導體領域 [&#8230;]",
+      "date": "2026-10-01T06:10:54+00:00",
       "sourceId": "technews",
       "cats": [
         "market",
@@ -114,9 +192,9 @@
     },
     {
       "id": "8a9cc6c71fe0",
-      "title": "Emergence AI to Deploy Neuroformal AI With Fabless Chipmakers",
+      "title": "Emergence AI Targets Fabless Chipmakers With Neuroformal AI",
       "link": "https://www.eetimes.com/emergence-ai-to-deploy-neuroformal-ai-with-fabless-chipmakers/",
-      "summary": "See how Emergence AI is deploying neuroformal AI with chipmakers to boost wafer yields and tackle fab, test, and packaging failures. The post Emergence AI to Deploy Neuroformal AI With Fabless Chipmakers appeared first on EE Times.",
+      "summary": "See how Emergence AI is deploying neuroformal AI with chipmakers to boost wafer yields and tackle fab, test, and packaging failures. The post Emergence AI Targets Fabless Chipmakers With Neuroformal AI appeared first on EE Times.",
       "date": "2026-09-30T21:31:25+00:00",
       "sourceId": "eetimes",
       "cats": [
