@@ -1,6 +1,6 @@
 {
-  "updated": "2026-09-30T23:38:41.566392+00:00",
-  "count": 17,
+  "updated": "2026-10-01T05:33:52.596669+00:00",
+  "count": 15,
   "sources": [
     {
       "id": "technews",
@@ -61,11 +61,50 @@
   ],
   "articles": [
     {
-      "id": "78f76b17757d",
-      "title": "美光 2026 年第四季毛利率衝上 86.8%，單季及全年財報均創歷史記錄",
-      "link": "https://finance.technews.tw/2026/10/01/microns-gross-margin-surged-to-86-8-in-the-fourth-quarter-of-2026/",
-      "summary": "受惠於全球人工智慧 （AI） 基礎設施建設帶來的歷史性記憶體需求，美國記憶體大廠美光科技 （Micron Te [&#8230;]",
-      "date": "2026-09-30T23:30:19+00:00",
+      "id": "9b25717986ff",
+      "title": "Q4 第一天，三星 S26、A 系列手機都漲價了",
+      "link": "https://technews.tw/2026/10/01/galaxy-s26-a-series-raise-prices/",
+      "summary": "受到記憶體成本不斷上升影響，三星在第四季的首日調整了 Galaxy S26 與多款 Galaxy A 系列手機 [&#8230;]",
+      "date": "2026-10-01T04:46:23+00:00",
+      "sourceId": "technews",
+      "cats": [
+        "market",
+        "process",
+        "material"
+      ]
+    },
+    {
+      "id": "ba9cd0d02d03",
+      "title": "美探針卡巨頭 FormFactor 獲德銀唱多  股價飆",
+      "link": "https://finance.technews.tw/2026/10/01/deutsche-bank-bullish-on-formfactor-shares-surge/",
+      "summary": "美國半導體測試設備商、探針卡巨頭 FormFactor 首度獲德意志銀行（Deutsche Bank）納入研究 [&#8230;]",
+      "date": "2026-10-01T03:00:08+00:00",
+      "sourceId": "technews",
+      "cats": [
+        "market",
+        "process",
+        "material"
+      ]
+    },
+    {
+      "id": "121aa6c3950d",
+      "title": "美晶片管制反成推手？華為宣稱昇騰 AI 晶片中國市占率已擊敗輝達",
+      "link": "https://technews.tw/2026/10/01/huawei-ai-chip-china-sales-surpass-nvidia/",
+      "summary": "華為輪值董事長徐直軍於 9 月 30 日透露，在美國持續實施出口管制的背景下，華為正迅速補上中國 AI 加速器 [&#8230;]",
+      "date": "2026-10-01T02:30:33+00:00",
+      "sourceId": "technews",
+      "cats": [
+        "market",
+        "process",
+        "material"
+      ]
+    },
+    {
+      "id": "18f459466597",
+      "title": "台積 2 奈米良率甩三星／Intel？先進製程滿到 2028",
+      "link": "https://technews.tw/2026/10/01/piper-says-tsmc-capacity-sold-out-through-2028-on-strong-ai-demand/",
+      "summary": "一名台灣半導體研究專家透露，台積電先進製程晶圓產能直到 2028 年上半年都已售罄。此外，台積電用於汽車及工業 [&#8230;]",
+      "date": "2026-10-01T02:10:36+00:00",
       "sourceId": "technews",
       "cats": [
         "market",
@@ -110,71 +149,6 @@
         "process",
         "material",
         "equipment"
-      ]
-    },
-    {
-      "id": "212428edffaa",
-      "title": "韓國首爾大學啟動 AI 半導體創新研究所，六年培養 110 名 NPU 頂尖人才",
-      "link": "https://technews.tw/2026/09/30/%e2%80%8bseoul-national-university-to-train-110-ai-semiconductor-experts-over-six-years/",
-      "summary": "韓國科學技術資訊通信部 29 日在首爾大學半導體共同研究中心舉行「AI 半導體創新研究所」開所儀式，啟動以產學 [&#8230;]",
-      "date": "2026-09-30T07:00:31+00:00",
-      "sourceId": "technews",
-      "cats": [
-        "market",
-        "process",
-        "material"
-      ]
-    },
-    {
-      "id": "c796be9b6294",
-      "title": "專訪》地熱從示範走向產業化，結元能源拚 2030 年開發 40 MW",
-      "link": "https://technews.tw/2026/09/30/exclusive-interview-tech-giants-enter-geothermal-market-jiyuan-energy-says-taiwan-industrialization-competition-just-beginning/",
-      "summary": "太陽能仰賴日照、風力發電取決於風況，全天候運作的 AI 資料中心與半導體產業，則需要更穩定的低碳電力。隨著科技 [&#8230;]",
-      "date": "2026-09-30T06:30:26+00:00",
-      "sourceId": "technews",
-      "cats": [
-        "market",
-        "process",
-        "material"
-      ]
-    },
-    {
-      "id": "e52bc5f6c526",
-      "title": "AI 伺服器新增需求支撐 4Q26 記憶體合約價漲勢，消費端壓力未減",
-      "link": "https://technews.tw/2026/09/30/ai-server-incremental-demand-supports-4q26-memory-contract-price-increase-consumer-pressure-unabated/",
-      "summary": "根據 TrendForce 最新記憶體產業研究，2026 年第四季 DRAM 原廠持續將先進製程投入生產 se [&#8230;]",
-      "date": "2026-09-30T06:25:00+00:00",
-      "sourceId": "technews",
-      "cats": [
-        "market",
-        "process",
-        "material"
-      ]
-    },
-    {
-      "id": "eaedfae559a3",
-      "title": "HBM 需求神救援，三星晶圓代工虧損估大減 41%",
-      "link": "https://technews.tw/2026/09/30/hbm-is-the-key-towards-samsungs-foundry-recovery/",
-      "summary": "三星電子（Samsung Electronics）晶圓代工事業的虧損，正因高頻寬記憶體（HBM）需求升溫而明顯 [&#8230;]",
-      "date": "2026-09-30T06:20:30+00:00",
-      "sourceId": "technews",
-      "cats": [
-        "market",
-        "process",
-        "material"
-      ]
-    },
-    {
-      "id": "c70b94cce6f1",
-      "title": "玻璃基板再進一步，英特爾 Micro LED 封裝專利埋下光學互連伏筆",
-      "link": "https://technews.tw/2026/09/30/intel-patent-embeds-microleds-in-chip-packaging/",
-      "summary": "英特爾（Intel）近期取得一項美國專利，重點在於將 Micro LED 直接整合進晶片封裝中，並利用玻璃基板 [&#8230;]",
-      "date": "2026-09-30T06:10:18+00:00",
-      "sourceId": "technews",
-      "cats": [
-        "market",
-        "process",
-        "material"
       ]
     },
     {
