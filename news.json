@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-01T12:58:42.152721+00:00",
+  "updated": "2026-10-01T19:24:51.367555+00:00",
   "count": 21,
   "sources": [
     {
@@ -60,6 +60,19 @@
     }
   ],
   "articles": [
+    {
+      "id": "977410bc9aee",
+      "title": "Qualcomm Doubles Down on Agentic AI at Snapdragon Summit 2026",
+      "link": "https://www.eetimes.com/qualcomm-doubles-down-on-agentic-ai-at-snapdragon-summit-2026/",
+      "summary": "Qualcomm introduced two distinct Snapdragon 8 Elite Gen 6 SoCs for high-end smartphones as it expands personal agentic AI across mobile, wearables, and PCs. The post Qualcomm Doubles Down on Agentic AI at Snapdragon Summit 2026 appeared first on EE Times.",
+      "date": "2026-10-01T17:31:45+00:00",
+      "sourceId": "eetimes",
+      "cats": [
+        "process",
+        "material",
+        "equipment"
+      ]
+    },
     {
       "id": "3789048f1493",
       "title": "Snapdragon 高峰會重點在哪？代理 AI 全布局，高通已準備搶攻個人 AI 入口",
@@ -222,19 +235,6 @@
       "link": "https://www.eetimes.com/manufacturing-intelligence-turning-eda-data-into-trusted-action/",
       "summary": "Manufacturing intelligence connects EDA, TCAD and metrology to turn manufacturing evidence into trusted action, faster. The post Manufacturing Intelligence: Turning EDA Data into Trusted Action appeared first on EE Times.",
       "date": "2026-09-30T13:00:00+00:00",
-      "sourceId": "eetimes",
-      "cats": [
-        "process",
-        "material",
-        "equipment"
-      ]
-    },
-    {
-      "id": "196c51a4613b",
-      "title": "AI Data Centers Make Power, Cooling Critical to Scaling",
-      "link": "https://www.eetimes.com/ai-data-centers-make-power-cooling-critical-to-scaling/",
-      "summary": "AI is transforming data centers into infrastructure platforms where power, cooling, and semiconductors determine scalability. The post AI Data Centers Make Power, Cooling Critical to Scaling appeared first on EE Times.",
-      "date": "2026-09-29T14:42:45+00:00",
       "sourceId": "eetimes",
       "cats": [
         "process",
