@@ -1,6 +1,6 @@
 {
-  "updated": "2026-10-01T19:24:51.367555+00:00",
-  "count": 21,
+  "updated": "2026-10-01T23:50:29.341130+00:00",
+  "count": 18,
   "sources": [
     {
       "id": "technews",
@@ -157,45 +157,6 @@
       "link": "https://technews.tw/2026/10/01/tsc-deepens-its-strategic-layout-in-the-japanese-semiconductor-industry/",
       "summary": "半導體關鍵材料商崇越科技持續加速海外市場布局，旗下日本子公司「峻川商事株式會社」於 10 月 1 日正式啟用福 [&#8230;]",
       "date": "2026-10-01T06:40:17+00:00",
-      "sourceId": "technews",
-      "cats": [
-        "market",
-        "process",
-        "material"
-      ]
-    },
-    {
-      "id": "3e0bfab33732",
-      "title": "日月光攜手六校發表 12 項成果，深化本土研發能量展現封測領航實力",
-      "link": "https://technews.tw/2026/10/01/ase-technology-group-together-with-six-universities-announced-12-research-findings/",
-      "summary": "日月光半導體日前舉辦「第十一屆自動化產學專案成果發表會」，攜手國立中央大學、國立成功大學、國立中山大學、國立陽 [&#8230;]",
-      "date": "2026-10-01T06:15:24+00:00",
-      "sourceId": "technews",
-      "cats": [
-        "market",
-        "process",
-        "material"
-      ]
-    },
-    {
-      "id": "1685fb757c02",
-      "title": "美光加速全球擴產，AI 記憶體 2027 年 HBM 產能近乎全數鎖定",
-      "link": "https://technews.tw/2026/10/01/microns-ai-memory-hbm-production-capacity-for-2027-is-almost-entirely-locked-in/",
-      "summary": "記憶體大廠美光表示，隨著 AI 需求爆發，美光正加速在全球進行記憶體產能與先進封裝布局，並強調「在地擴充」策略 [&#8230;]",
-      "date": "2026-10-01T06:15:10+00:00",
-      "sourceId": "technews",
-      "cats": [
-        "market",
-        "process",
-        "material"
-      ]
-    },
-    {
-      "id": "3d858460ab57",
-      "title": "AMD 執行長蘇姿丰 10 月再訪韓！傳洽談 AI 晶片合作，有望與三星李在鎔會面",
-      "link": "https://technews.tw/2026/10/01/amd-ceo-lisa-su-visit-korea/",
-      "summary": "AMD 執行長蘇姿丰將再次訪問韓國，距離上次訪韓僅約 7 個月，據報導是為了尋求擴大人工智慧（AI）半導體領域 [&#8230;]",
-      "date": "2026-10-01T06:10:54+00:00",
       "sourceId": "technews",
       "cats": [
         "market",
