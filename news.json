@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-02T05:21:07.742303+00:00",
+  "updated": "2026-10-02T12:20:53.845289+00:00",
   "count": 19,
   "sources": [
     {
@@ -61,11 +61,11 @@
   ],
   "articles": [
     {
-      "id": "876c2596ecbf",
-      "title": "Valve 堅持的跨世代躍進有譜了？Steam Deck 2 傳搭台積電 3 奈米 AMD「Gainsborough」晶片",
-      "link": "https://ccc.technews.tw/2026/10/02/steam-deck-2-specifications-leaked/",
-      "summary": "Valve 下一代掌機 Steam Deck 2 的核心晶片規格，近期因相關資料外洩再度成為話題焦點。根據多方 [&#8230;]",
-      "date": "2026-10-02T03:20:14+00:00",
+      "id": "7a824ef9c39a",
+      "title": "汎銓受惠半導體與 AI 市況熱絡，9 月、第三季、前三季營收均創紀錄",
+      "link": "https://finance.technews.tw/2026/10/02/msscorps-benefits-from-the-booming-semiconductor-and-ai-markets/",
+      "summary": "半導體檢測廠商汎銓科技公告2026年9月合併營收達2.65億元，月增4.15%、年增36.71%，續創單月歷史 [&#8230;]",
+      "date": "2026-10-02T08:50:43+00:00",
       "sourceId": "technews",
       "cats": [
         "market",
@@ -74,11 +74,11 @@
       ]
     },
     {
-      "id": "d9f661724439",
-      "title": "AI 設計晶片恐踩專利地雷，設計來源追溯成半導體業新難題",
-      "link": "https://technews.tw/2026/10/02/ais-chipmaking-frontier-may-face-patent-infringement-hurdles-as-autonomous-tools-take-over/",
-      "summary": "人工智慧（Artificial Intelligence，AI）正快速深入晶片設計流程，從驗證、測試到規劃類比 [&#8230;]",
-      "date": "2026-10-02T03:10:26+00:00",
+      "id": "e353e721e6c9",
+      "title": "降低外匯避險成本，南亞科再增資海外子公司約 600 億元",
+      "link": "https://finance.technews.tw/2026/10/02/nanya-technology-to-invest-approximately-nt60-billion-in-its-overseas-subsidiaries/",
+      "summary": "記憶體大廠南亞科 2 日發布重大訊息，代 100% 持股之子公司南亞科技國際有限公司公告，董事會決議辦理現金增 [&#8230;]",
+      "date": "2026-10-02T08:45:53+00:00",
       "sourceId": "technews",
       "cats": [
         "market",
@@ -87,11 +87,11 @@
       ]
     },
     {
-      "id": "b1b71030dc8a",
-      "title": "AI 巨頭白宮閉門會議爆交鋒，黃仁勳當面質疑 Anthropic 執行長「危言聳聽」",
-      "link": "https://technews.tw/2026/10/02/jensen-huang-challenges-anthropic-ceo-fear-mongering/",
-      "summary": "根據《華爾街日報》報導，輝達（Nvidia）執行長黃仁勳近日在一場白宮閉門會議中，私下對 Anthropic [&#8230;]",
-      "date": "2026-10-02T02:30:44+00:00",
+      "id": "e976af9f117e",
+      "title": "西門子、台積電推進半導體設計自動化，聚焦先進製程、3DFabric 與矽光子",
+      "link": "https://technews.tw/2026/10/02/siemens-tsmc-eda-tool/",
+      "summary": "西門子宣布將持續深化與台積電的合作，共同推動 AI 驅動的自動化技術創新，加速先進半導體設計流程的開發與應用。 [&#8230;]",
+      "date": "2026-10-02T08:44:39+00:00",
       "sourceId": "technews",
       "cats": [
         "market",
@@ -100,11 +100,11 @@
       ]
     },
     {
-      "id": "f29051a53b90",
-      "title": "偽造文件、海外轉運、國資融資，揭開輝達晶片繞道中國的灰色供應鏈",
-      "link": "https://technews.tw/2026/10/02/china-chip-smuggling-cases-expose-nvidias-blind-spots/",
-      "summary": "美國對先進 AI 晶片的出口限制持續收緊，但相關產品流向中國的爭議仍未降溫。最新曝光的多起案件顯示，輝達（NV [&#8230;]",
-      "date": "2026-10-02T02:20:29+00:00",
+      "id": "d7ac4cd73752",
+      "title": "應材攜貝思半導體擴大先進封裝合作，布局 3D IC、面板整合與 CPO 技術",
+      "link": "https://technews.tw/2026/10/02/applied-materials-besi-epic-center/",
+      "summary": "應用材料與貝思半導體（BESI）宣布擴大雙方長期策略合作關係，貝思半導體加入應材 EPIC 中心成為創新合作夥 [&#8230;]",
+      "date": "2026-10-02T08:30:45+00:00",
       "sourceId": "technews",
       "cats": [
         "market",
@@ -113,11 +113,11 @@
       ]
     },
     {
-      "id": "4e2e5c1e75fc",
-      "title": "中國長鑫科技斥資 349 億人民幣重砸研發與封測，搶占 DRAM 市場商機",
-      "link": "https://technews.tw/2026/10/02/cxmt-invests-rmb-34-9-billion-heavily-in-rd-and-packagingtesting/",
-      "summary": "受惠於記憶體價格回升以及人工智慧（AI）與伺服器需求大增，中國記憶體晶片大廠長鑫科技（ChangXin Tec [&#8230;]",
-      "date": "2026-10-02T02:10:02+00:00",
+      "id": "c1d15c9d9670",
+      "title": "不換材料只換疊法，台灣團隊突破二維半導體 MoS₂ 發光、谷極化效率",
+      "link": "https://technews.tw/2026/10/02/cvd-grown-1h-phase-mos%e2%82%82-bilayers-2d-material/",
+      "summary": "科學家通常透過混合不同材料來調控二維半導體性質，但台灣研究團隊證明，只要能精準控制同一材料的原子層間疊法，就能 [&#8230;]",
+      "date": "2026-10-02T08:13:20+00:00",
       "sourceId": "technews",
       "cats": [
         "market",
@@ -126,11 +126,11 @@
       ]
     },
     {
-      "id": "15f15959a214",
-      "title": "受惠 AI 算力強勁需求與 iPhone 備貨旺季，凱基給予台積電 3,200 元目標價",
-      "link": "https://finance.technews.tw/2026/10/02/kgi-gives-tsmc-a-target-price-of-nt3200/",
-      "summary": "凱基投顧發布最新台積電研究報告指出，受惠於強勁的 AI 算力需求與 iPhone 備貨旺季帶動，台積電第 3 [&#8230;]",
-      "date": "2026-10-02T01:45:26+00:00",
+      "id": "434be0875466",
+      "title": "誤會大了！英特爾 Micro LED 封裝專利以為瞄準光通訊，原來只是讓 CPU 發光",
+      "link": "https://technews.tw/2026/10/02/intel-rgb-lit-cpus/",
+      "summary": "英特爾近期取得一項美國專利，引發市場關注。原先外界看到 Micro LED、玻璃基板與玻璃穿孔（TGV）等技術 [&#8230;]",
+      "date": "2026-10-02T07:31:07+00:00",
       "sourceId": "technews",
       "cats": [
         "market",
@@ -139,11 +139,11 @@
       ]
     },
     {
-      "id": "2dfa35d29eac",
-      "title": "馬斯克大砍記憶體規格！特斯拉 AI5 降至 72GB、AI6 縮減 1/3 容量",
-      "link": "https://technews.tw/2026/10/02/elon-musk-tesla-ai5-chip/",
-      "summary": "由於記憶體供應長期受限，特斯拉執行長馬斯克（Elon Musk）宣布，特斯拉 AI5 與 AI6 晶片將大幅下 [&#8230;]",
-      "date": "2026-10-02T01:26:55+00:00",
+      "id": "59773d2fd35f",
+      "title": "AI 電源、矽光子雙引擎發威，嘉晶 8 月獲利年增 73 倍",
+      "link": "https://finance.technews.tw/2026/10/02/episil-august-profit-surges-73x-yoy-ai-power-silicon-photonics-dual-engines/",
+      "summary": "隨 AI 資料中心帶動光通訊及電源相關需求成長，磊晶廠嘉晶公布 8 月自結財務資訊，單月營收 5.07 億元， [&#8230;]",
+      "date": "2026-10-02T06:39:24+00:00",
       "sourceId": "technews",
       "cats": [
         "market",
