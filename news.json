@@ -1,6 +1,6 @@
 {
-  "updated": "2026-10-01T23:50:29.341130+00:00",
-  "count": 18,
+  "updated": "2026-10-02T05:21:07.742303+00:00",
+  "count": 19,
   "sources": [
     {
       "id": "technews",
@@ -61,6 +61,97 @@
   ],
   "articles": [
     {
+      "id": "876c2596ecbf",
+      "title": "Valve 堅持的跨世代躍進有譜了？Steam Deck 2 傳搭台積電 3 奈米 AMD「Gainsborough」晶片",
+      "link": "https://ccc.technews.tw/2026/10/02/steam-deck-2-specifications-leaked/",
+      "summary": "Valve 下一代掌機 Steam Deck 2 的核心晶片規格，近期因相關資料外洩再度成為話題焦點。根據多方 [&#8230;]",
+      "date": "2026-10-02T03:20:14+00:00",
+      "sourceId": "technews",
+      "cats": [
+        "market",
+        "process",
+        "material"
+      ]
+    },
+    {
+      "id": "d9f661724439",
+      "title": "AI 設計晶片恐踩專利地雷，設計來源追溯成半導體業新難題",
+      "link": "https://technews.tw/2026/10/02/ais-chipmaking-frontier-may-face-patent-infringement-hurdles-as-autonomous-tools-take-over/",
+      "summary": "人工智慧（Artificial Intelligence，AI）正快速深入晶片設計流程，從驗證、測試到規劃類比 [&#8230;]",
+      "date": "2026-10-02T03:10:26+00:00",
+      "sourceId": "technews",
+      "cats": [
+        "market",
+        "process",
+        "material"
+      ]
+    },
+    {
+      "id": "b1b71030dc8a",
+      "title": "AI 巨頭白宮閉門會議爆交鋒，黃仁勳當面質疑 Anthropic 執行長「危言聳聽」",
+      "link": "https://technews.tw/2026/10/02/jensen-huang-challenges-anthropic-ceo-fear-mongering/",
+      "summary": "根據《華爾街日報》報導，輝達（Nvidia）執行長黃仁勳近日在一場白宮閉門會議中，私下對 Anthropic [&#8230;]",
+      "date": "2026-10-02T02:30:44+00:00",
+      "sourceId": "technews",
+      "cats": [
+        "market",
+        "process",
+        "material"
+      ]
+    },
+    {
+      "id": "f29051a53b90",
+      "title": "偽造文件、海外轉運、國資融資，揭開輝達晶片繞道中國的灰色供應鏈",
+      "link": "https://technews.tw/2026/10/02/china-chip-smuggling-cases-expose-nvidias-blind-spots/",
+      "summary": "美國對先進 AI 晶片的出口限制持續收緊，但相關產品流向中國的爭議仍未降溫。最新曝光的多起案件顯示，輝達（NV [&#8230;]",
+      "date": "2026-10-02T02:20:29+00:00",
+      "sourceId": "technews",
+      "cats": [
+        "market",
+        "process",
+        "material"
+      ]
+    },
+    {
+      "id": "4e2e5c1e75fc",
+      "title": "中國長鑫科技斥資 349 億人民幣重砸研發與封測，搶占 DRAM 市場商機",
+      "link": "https://technews.tw/2026/10/02/cxmt-invests-rmb-34-9-billion-heavily-in-rd-and-packagingtesting/",
+      "summary": "受惠於記憶體價格回升以及人工智慧（AI）與伺服器需求大增，中國記憶體晶片大廠長鑫科技（ChangXin Tec [&#8230;]",
+      "date": "2026-10-02T02:10:02+00:00",
+      "sourceId": "technews",
+      "cats": [
+        "market",
+        "process",
+        "material"
+      ]
+    },
+    {
+      "id": "15f15959a214",
+      "title": "受惠 AI 算力強勁需求與 iPhone 備貨旺季，凱基給予台積電 3,200 元目標價",
+      "link": "https://finance.technews.tw/2026/10/02/kgi-gives-tsmc-a-target-price-of-nt3200/",
+      "summary": "凱基投顧發布最新台積電研究報告指出，受惠於強勁的 AI 算力需求與 iPhone 備貨旺季帶動，台積電第 3 [&#8230;]",
+      "date": "2026-10-02T01:45:26+00:00",
+      "sourceId": "technews",
+      "cats": [
+        "market",
+        "process",
+        "material"
+      ]
+    },
+    {
+      "id": "2dfa35d29eac",
+      "title": "馬斯克大砍記憶體規格！特斯拉 AI5 降至 72GB、AI6 縮減 1/3 容量",
+      "link": "https://technews.tw/2026/10/02/elon-musk-tesla-ai5-chip/",
+      "summary": "由於記憶體供應長期受限，特斯拉執行長馬斯克（Elon Musk）宣布，特斯拉 AI5 與 AI6 晶片將大幅下 [&#8230;]",
+      "date": "2026-10-02T01:26:55+00:00",
+      "sourceId": "technews",
+      "cats": [
+        "market",
+        "process",
+        "material"
+      ]
+    },
+    {
       "id": "977410bc9aee",
       "title": "Qualcomm Doubles Down on Agentic AI at Snapdragon Summit 2026",
       "link": "https://www.eetimes.com/qualcomm-doubles-down-on-agentic-ai-at-snapdragon-summit-2026/",
@@ -74,19 +165,6 @@
       ]
     },
     {
-      "id": "3789048f1493",
-      "title": "Snapdragon 高峰會重點在哪？代理 AI 全布局，高通已準備搶攻個人 AI 入口",
-      "link": "https://technews.tw/2026/10/01/qualcomm-2026-snapdragon-summit/",
-      "summary": "高通 2026 年 Snapdragon 高峰會已經正式落幕，這次一口氣推出最新雙旗艦晶片 Snapdrago [&#8230;]",
-      "date": "2026-10-01T10:19:15+00:00",
-      "sourceId": "technews",
-      "cats": [
-        "market",
-        "process",
-        "material"
-      ]
-    },
-    {
       "id": "e7c944c5c545",
       "title": "Europe’s Space Industry Seeks Greater Supply Chain Control",
       "link": "https://www.eetimes.com/europe-space-industry-seeks-greater-supply-chain-control/",
@@ -97,71 +175,6 @@
         "process",
         "material",
         "equipment"
-      ]
-    },
-    {
-      "id": "aa34926e833d",
-      "title": "Arm 機櫃級伺服器已超越 x86，Arm 攜手 NVIDIA 搶代理 AI 商機",
-      "link": "https://technews.tw/2026/10/01/arm-talk-about-agentic-ai/",
-      "summary": "人工智慧（AI）基礎設施正在加速向 Arm 架構轉移，基於 Arm 架構的機櫃級伺服器目前已超越 x86，成為 [&#8230;]",
-      "date": "2026-10-01T09:33:06+00:00",
-      "sourceId": "technews",
-      "cats": [
-        "market",
-        "process",
-        "material"
-      ]
-    },
-    {
-      "id": "e4f47c71145d",
-      "title": "2025 年全球跨國投資金額年增 2.2% 達 1.3 兆美元，台積電站上第一名寶座",
-      "link": "https://finance.technews.tw/2026/10/01/global-cross-border-investment-is-projected-to-grow-by-2-2-annually-to-reach-us1-3-trillion-by-2025/",
-      "summary": "根據《fDi Report 2026》與 Visual capitalist 的最新分析，2025 年全球跨國 [&#8230;]",
-      "date": "2026-10-01T08:50:19+00:00",
-      "sourceId": "technews",
-      "cats": [
-        "market",
-        "process",
-        "material"
-      ]
-    },
-    {
-      "id": "f23342bee7ff",
-      "title": "泰國加速半導體投資！英飛凌啟用後段製造新廠，初期投資超過 1 億歐元",
-      "link": "https://finance.technews.tw/2026/10/01/infineon-opens-1-4-billion-thailand-plant/",
-      "summary": "英飛凌今（1 日）在泰國曼谷附近啟用全新半導體後段製造基地，初期投資超過 1 億歐元，顯示在全球半導體供應鏈持 [&#8230;]",
-      "date": "2026-10-01T07:38:31+00:00",
-      "sourceId": "technews",
-      "cats": [
-        "market",
-        "process",
-        "material"
-      ]
-    },
-    {
-      "id": "47432f148d1a",
-      "title": "AI 點火  韓 9 月出口創高、半導體出口破 600 億美元",
-      "link": "https://technews.tw/2026/10/01/ai-fuels-south-korea-september-exports-record-semiconductor-exports-top-60-billion/",
-      "summary": "AI 及記憶體需求強勁，帶動韓國 9 月出口額年增逾八成、再創歷史新高，其中，半導體出口更首度突破 600 億 [&#8230;]",
-      "date": "2026-10-01T06:50:02+00:00",
-      "sourceId": "technews",
-      "cats": [
-        "market",
-        "process",
-        "material"
-      ]
-    },
-    {
-      "id": "c2bc8a13e313",
-      "title": "崇越科技深化日本半導體戰略布局，福岡營業所 10 月設立",
-      "link": "https://technews.tw/2026/10/01/tsc-deepens-its-strategic-layout-in-the-japanese-semiconductor-industry/",
-      "summary": "半導體關鍵材料商崇越科技持續加速海外市場布局，旗下日本子公司「峻川商事株式會社」於 10 月 1 日正式啟用福 [&#8230;]",
-      "date": "2026-10-01T06:40:17+00:00",
-      "sourceId": "technews",
-      "cats": [
-        "market",
-        "process",
-        "material"
       ]
     },
     {
