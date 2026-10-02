@@ -1,6 +1,6 @@
 {
-  "updated": "2026-10-02T12:20:53.845289+00:00",
-  "count": 19,
+  "updated": "2026-10-02T19:08:26.576525+00:00",
+  "count": 18,
   "sources": [
     {
       "id": "technews",
@@ -60,6 +60,19 @@
     }
   ],
   "articles": [
+    {
+      "id": "260c5adc7075",
+      "title": "欲藉 2 奈米盼重返高通供應鏈，台積電一單不漏全數拿下讓三星盼了個寂寞",
+      "link": "https://finance.technews.tw/2026/10/02/samsung-hopes-to-rejoin-qualcomms-supply-chain-by-leveraging-its-2nm-technology/",
+      "summary": "近期以來，因為台積電受到 AI 晶片需求大增，使得產能進一步吃緊，加上外傳三星的 2 奈米的良率提升，還進一步 [&#8230;]",
+      "date": "2026-10-02T12:40:23+00:00",
+      "sourceId": "technews",
+      "cats": [
+        "market",
+        "process",
+        "material"
+      ]
+    },
     {
       "id": "7a824ef9c39a",
       "title": "汎銓受惠半導體與 AI 市況熱絡，9 月、第三季、前三季營收均創紀錄",
@@ -139,19 +152,6 @@
       ]
     },
     {
-      "id": "59773d2fd35f",
-      "title": "AI 電源、矽光子雙引擎發威，嘉晶 8 月獲利年增 73 倍",
-      "link": "https://finance.technews.tw/2026/10/02/episil-august-profit-surges-73x-yoy-ai-power-silicon-photonics-dual-engines/",
-      "summary": "隨 AI 資料中心帶動光通訊及電源相關需求成長，磊晶廠嘉晶公布 8 月自結財務資訊，單月營收 5.07 億元， [&#8230;]",
-      "date": "2026-10-02T06:39:24+00:00",
-      "sourceId": "technews",
-      "cats": [
-        "market",
-        "process",
-        "material"
-      ]
-    },
-    {
       "id": "977410bc9aee",
       "title": "Qualcomm Doubles Down on Agentic AI at Snapdragon Summit 2026",
       "link": "https://www.eetimes.com/qualcomm-doubles-down-on-agentic-ai-at-snapdragon-summit-2026/",
@@ -196,19 +196,6 @@
       "link": "https://www.eetimes.com/tsmcs-3-nm-ramp-looks-different-in-historical-context/",
       "summary": "TSMC’s 3-nm node nears the revenue lead, but history shows 7 nm ramped faster; compare the data before evaluating 2 nm. The post TSMC’s 3-nm Ramp Looks Different in Historical Context appeared first on EE Times.",
       "date": "2026-09-30T15:40:17+00:00",
-      "sourceId": "eetimes",
-      "cats": [
-        "process",
-        "material",
-        "equipment"
-      ]
-    },
-    {
-      "id": "9c758b7438ad",
-      "title": "Manufacturing Intelligence: Turning EDA Data into Trusted Action",
-      "link": "https://www.eetimes.com/manufacturing-intelligence-turning-eda-data-into-trusted-action/",
-      "summary": "Manufacturing intelligence connects EDA, TCAD and metrology to turn manufacturing evidence into trusted action, faster. The post Manufacturing Intelligence: Turning EDA Data into Trusted Action appeared first on EE Times.",
-      "date": "2026-09-30T13:00:00+00:00",
       "sourceId": "eetimes",
       "cats": [
         "process",
