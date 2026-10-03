@@ -1,6 +1,6 @@
 {
-  "updated": "2026-10-03T05:03:53.146927+00:00",
-  "count": 17,
+  "updated": "2026-10-03T11:30:57.848886+00:00",
+  "count": 18,
   "sources": [
     {
       "id": "technews",
@@ -61,6 +61,45 @@
   ],
   "articles": [
     {
+      "id": "6d9a873efc09",
+      "title": "華為最新麒麟 9050 Pro 晶片照曝光！兩層 Die 垂直堆疊，尺寸再縮小",
+      "link": "https://technews.tw/2026/10/03/huaweis-latest-kirin-9050-pro-chip/",
+      "summary": "華為最新麒麟 9050 Pro 晶片近日再傳新進展，外媒 Wccftech 引述社群平台 X 帳號 Kurna [&#8230;]",
+      "date": "2026-10-03T07:37:15+00:00",
+      "sourceId": "technews",
+      "cats": [
+        "market",
+        "process",
+        "material"
+      ]
+    },
+    {
+      "id": "8e54cf70513a",
+      "title": "產能提升逾 10%！三星開始量產 Exynos 2700 晶片，搭載 Galaxy S27 多系列",
+      "link": "https://technews.tw/2026/10/03/samsung-electronics-starts-mass-production-of-exynos-2700/",
+      "summary": "市場消息傳出，三星電子已開始量產 Exynos 2700，該晶片將搭載於 Galaxy S27 系列智慧手機， [&#8230;]",
+      "date": "2026-10-03T06:32:26+00:00",
+      "sourceId": "technews",
+      "cats": [
+        "market",
+        "process",
+        "material"
+      ]
+    },
+    {
+      "id": "6d3d9f483297",
+      "title": "川普召集黃仁勳、馬斯克等科技巨頭簽「AI 憲法」，四層稽核機制能解失控風險？",
+      "link": "https://technews.tw/2026/10/03/trump-ai-constitution-jensen-huang-tech-giants-four-layer-audit-prevent-ai-rogue/",
+      "summary": "美國總統川普（Donald Trump）日前在白宮召集輝達（NVIDIA）執行長黃仁勳、SpaceXAI 創辦 [&#8230;]",
+      "date": "2026-10-03T06:00:53+00:00",
+      "sourceId": "technews",
+      "cats": [
+        "market",
+        "process",
+        "material"
+      ]
+    },
+    {
       "id": "5f8afd47a999",
       "title": "英飛凌捐贈「AI 消防之眼」，整合邊緣 AI、毫米波雷達即時掌握火場資訊",
       "link": "https://technews.tw/2026/10/03/infineon-ai-disaster-relief/",
@@ -105,32 +144,6 @@
       "link": "https://finance.technews.tw/2026/10/02/samsung-hopes-to-rejoin-qualcomms-supply-chain-by-leveraging-its-2nm-technology/",
       "summary": "近期以來，因為台積電受到 AI 晶片需求大增，使得產能進一步吃緊，加上外傳三星的 2 奈米的良率提升，還進一步 [&#8230;]",
       "date": "2026-10-02T12:40:23+00:00",
-      "sourceId": "technews",
-      "cats": [
-        "market",
-        "process",
-        "material"
-      ]
-    },
-    {
-      "id": "7a824ef9c39a",
-      "title": "汎銓受惠半導體與 AI 市況熱絡，9 月、第三季、前三季營收均創紀錄",
-      "link": "https://finance.technews.tw/2026/10/02/msscorps-benefits-from-the-booming-semiconductor-and-ai-markets/",
-      "summary": "半導體檢測廠商汎銓科技公告2026年9月合併營收達2.65億元，月增4.15%、年增36.71%，續創單月歷史 [&#8230;]",
-      "date": "2026-10-02T08:50:43+00:00",
-      "sourceId": "technews",
-      "cats": [
-        "market",
-        "process",
-        "material"
-      ]
-    },
-    {
-      "id": "e353e721e6c9",
-      "title": "降低外匯避險成本，南亞科再增資海外子公司約 600 億元",
-      "link": "https://finance.technews.tw/2026/10/02/nanya-technology-to-invest-approximately-nt60-billion-in-its-overseas-subsidiaries/",
-      "summary": "記憶體大廠南亞科 2 日發布重大訊息，代 100% 持股之子公司南亞科技國際有限公司公告，董事會決議辦理現金增 [&#8230;]",
-      "date": "2026-10-02T08:45:53+00:00",
       "sourceId": "technews",
       "cats": [
         "market",
