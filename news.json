@@ -1,6 +1,6 @@
 {
-  "updated": "2026-10-02T23:41:26.745802+00:00",
-  "count": 18,
+  "updated": "2026-10-03T05:03:53.146927+00:00",
+  "count": 17,
   "sources": [
     {
       "id": "technews",
@@ -61,6 +61,45 @@
   ],
   "articles": [
     {
+      "id": "5f8afd47a999",
+      "title": "英飛凌捐贈「AI 消防之眼」，整合邊緣 AI、毫米波雷達即時掌握火場資訊",
+      "link": "https://technews.tw/2026/10/03/infineon-ai-disaster-relief/",
+      "summary": "全球半導體領導廠商英飛凌攜手台灣守護者聯盟，捐贈「AI 消防之眼」，以提升消防人員安全及救災效率，並降低第一線 [&#8230;]",
+      "date": "2026-10-03T03:51:24+00:00",
+      "sourceId": "technews",
+      "cats": [
+        "market",
+        "process",
+        "material"
+      ]
+    },
+    {
+      "id": "3b0cfb784059",
+      "title": "記憶體太貴！128GB DGX Spark 價格飆破 6,000 美元，輝達改推 64GB 版本搶市",
+      "link": "https://technews.tw/2026/10/03/nvidia-64-gb-dgx-spark/",
+      "summary": "AI 運算需求持續升溫，也讓高容量記憶體成為本地 AI 裝置發展的一大瓶頸。NVIDIA 近日宣布推出全新的 [&#8230;]",
+      "date": "2026-10-03T02:08:28+00:00",
+      "sourceId": "technews",
+      "cats": [
+        "market",
+        "process",
+        "material"
+      ]
+    },
+    {
+      "id": "04c319c617b8",
+      "title": "輝達前員工掀出走創業風氣，帶動機器人與實體 AI 新創潮",
+      "link": "https://technews.tw/2026/10/03/nvidia-alumni-are-fueling-a-new-wave-of-robotics-and-ai-startups/",
+      "summary": "輝達（Nvidia）長年投入機器人技術，為「實體 AI」（physical AI）奠定基礎，如今旗下機器人老將 [&#8230;]",
+      "date": "2026-10-03T01:30:40+00:00",
+      "sourceId": "technews",
+      "cats": [
+        "market",
+        "process",
+        "material"
+      ]
+    },
+    {
       "id": "260c5adc7075",
       "title": "欲藉 2 奈米盼重返高通供應鏈，台積電一單不漏全數拿下讓三星盼了個寂寞",
       "link": "https://finance.technews.tw/2026/10/02/samsung-hopes-to-rejoin-qualcomms-supply-chain-by-leveraging-its-2nm-technology/",
@@ -92,58 +131,6 @@
       "link": "https://finance.technews.tw/2026/10/02/nanya-technology-to-invest-approximately-nt60-billion-in-its-overseas-subsidiaries/",
       "summary": "記憶體大廠南亞科 2 日發布重大訊息，代 100% 持股之子公司南亞科技國際有限公司公告，董事會決議辦理現金增 [&#8230;]",
       "date": "2026-10-02T08:45:53+00:00",
-      "sourceId": "technews",
-      "cats": [
-        "market",
-        "process",
-        "material"
-      ]
-    },
-    {
-      "id": "e976af9f117e",
-      "title": "西門子、台積電推進半導體設計自動化，聚焦先進製程、3DFabric 與矽光子",
-      "link": "https://technews.tw/2026/10/02/siemens-tsmc-eda-tool/",
-      "summary": "西門子宣布將持續深化與台積電的合作，共同推動 AI 驅動的自動化技術創新，加速先進半導體設計流程的開發與應用。 [&#8230;]",
-      "date": "2026-10-02T08:44:39+00:00",
-      "sourceId": "technews",
-      "cats": [
-        "market",
-        "process",
-        "material"
-      ]
-    },
-    {
-      "id": "d7ac4cd73752",
-      "title": "應材攜貝思半導體擴大先進封裝合作，布局 3D IC、面板整合與 CPO 技術",
-      "link": "https://technews.tw/2026/10/02/applied-materials-besi-epic-center/",
-      "summary": "應用材料與貝思半導體（BESI）宣布擴大雙方長期策略合作關係，貝思半導體加入應材 EPIC 中心成為創新合作夥 [&#8230;]",
-      "date": "2026-10-02T08:30:45+00:00",
-      "sourceId": "technews",
-      "cats": [
-        "market",
-        "process",
-        "material"
-      ]
-    },
-    {
-      "id": "c1d15c9d9670",
-      "title": "不換材料只換疊法，台灣團隊突破二維半導體 MoS₂ 發光、谷極化效率",
-      "link": "https://technews.tw/2026/10/02/cvd-grown-1h-phase-mos%e2%82%82-bilayers-2d-material/",
-      "summary": "科學家通常透過混合不同材料來調控二維半導體性質，但台灣研究團隊證明，只要能精準控制同一材料的原子層間疊法，就能 [&#8230;]",
-      "date": "2026-10-02T08:13:20+00:00",
-      "sourceId": "technews",
-      "cats": [
-        "market",
-        "process",
-        "material"
-      ]
-    },
-    {
-      "id": "434be0875466",
-      "title": "誤會大了！英特爾 Micro LED 封裝專利以為瞄準光通訊，原來只是讓 CPU 發光",
-      "link": "https://technews.tw/2026/10/02/intel-rgb-lit-cpus/",
-      "summary": "英特爾近期取得一項美國專利，引發市場關注。原先外界看到 Micro LED、玻璃基板與玻璃穿孔（TGV）等技術 [&#8230;]",
-      "date": "2026-10-02T07:31:07+00:00",
       "sourceId": "technews",
       "cats": [
         "market",
