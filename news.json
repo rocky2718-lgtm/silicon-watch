@@ -1,6 +1,6 @@
 {
-  "updated": "2026-10-04T00:27:53.875211+00:00",
-  "count": 18,
+  "updated": "2026-10-04T08:18:01.054665+00:00",
+  "count": 16,
   "sources": [
     {
       "id": "technews",
@@ -61,6 +61,32 @@
   ],
   "articles": [
     {
+      "id": "d58156300705",
+      "title": "挑戰 99.5% 成功率，NVIDIA 攜鴻海讓機器人組裝 GB300",
+      "link": "https://finance.technews.tw/2026/10/04/nvidia-foxconn-robot/",
+      "summary": "AI 伺服器需求持續爆發，如何讓產線自動化程度再往前推，也成為供應鏈下一階段競賽焦點。據 NVIDIA 部落格 [&#8230;]",
+      "date": "2026-10-04T06:47:39+00:00",
+      "sourceId": "technews",
+      "cats": [
+        "market",
+        "process",
+        "material"
+      ]
+    },
+    {
+      "id": "03e46a78e1b0",
+      "title": "台積電可能加入 Terafab，馬斯克證實正在洽談晶片製造合作",
+      "link": "https://finance.technews.tw/2026/10/04/elon-musk-confirmed-that-hes-in-talks-with-tsmc-for-joining-the-terafab/",
+      "summary": "高燦鳴（Tim Culpan）近日表示，晶圓代工龍頭台積電正與特斯拉執行長馬斯克（Elon Musk）針對旗下 [&#8230;]",
+      "date": "2026-10-04T02:01:06+00:00",
+      "sourceId": "technews",
+      "cats": [
+        "market",
+        "process",
+        "material"
+      ]
+    },
+    {
       "id": "6d9a873efc09",
       "title": "華為最新麒麟 9050 Pro 晶片照曝光！兩層 Die 垂直堆疊，尺寸再縮小",
       "link": "https://technews.tw/2026/10/03/huaweis-latest-kirin-9050-pro-chip/",
@@ -92,58 +118,6 @@
       "link": "https://technews.tw/2026/10/03/trump-ai-constitution-jensen-huang-tech-giants-four-layer-audit-prevent-ai-rogue/",
       "summary": "美國總統川普（Donald Trump）日前在白宮召集輝達（NVIDIA）執行長黃仁勳、SpaceXAI 創辦 [&#8230;]",
       "date": "2026-10-03T06:00:53+00:00",
-      "sourceId": "technews",
-      "cats": [
-        "market",
-        "process",
-        "material"
-      ]
-    },
-    {
-      "id": "5f8afd47a999",
-      "title": "英飛凌捐贈「AI 消防之眼」，整合邊緣 AI、毫米波雷達即時掌握火場資訊",
-      "link": "https://technews.tw/2026/10/03/infineon-ai-disaster-relief/",
-      "summary": "全球半導體領導廠商英飛凌攜手台灣守護者聯盟，捐贈「AI 消防之眼」，以提升消防人員安全及救災效率，並降低第一線 [&#8230;]",
-      "date": "2026-10-03T03:51:24+00:00",
-      "sourceId": "technews",
-      "cats": [
-        "market",
-        "process",
-        "material"
-      ]
-    },
-    {
-      "id": "3b0cfb784059",
-      "title": "記憶體太貴！128GB DGX Spark 價格飆破 6,000 美元，輝達改推 64GB 版本搶市",
-      "link": "https://technews.tw/2026/10/03/nvidia-64-gb-dgx-spark/",
-      "summary": "AI 運算需求持續升溫，也讓高容量記憶體成為本地 AI 裝置發展的一大瓶頸。NVIDIA 近日宣布推出全新的 [&#8230;]",
-      "date": "2026-10-03T02:08:28+00:00",
-      "sourceId": "technews",
-      "cats": [
-        "market",
-        "process",
-        "material"
-      ]
-    },
-    {
-      "id": "04c319c617b8",
-      "title": "輝達前員工掀出走創業風氣，帶動機器人與實體 AI 新創潮",
-      "link": "https://technews.tw/2026/10/03/nvidia-alumni-are-fueling-a-new-wave-of-robotics-and-ai-startups/",
-      "summary": "輝達（Nvidia）長年投入機器人技術，為「實體 AI」（physical AI）奠定基礎，如今旗下機器人老將 [&#8230;]",
-      "date": "2026-10-03T01:30:40+00:00",
-      "sourceId": "technews",
-      "cats": [
-        "market",
-        "process",
-        "material"
-      ]
-    },
-    {
-      "id": "260c5adc7075",
-      "title": "欲藉 2 奈米盼重返高通供應鏈，台積電一單不漏全數拿下讓三星盼了個寂寞",
-      "link": "https://finance.technews.tw/2026/10/02/samsung-hopes-to-rejoin-qualcomms-supply-chain-by-leveraging-its-2nm-technology/",
-      "summary": "近期以來，因為台積電受到 AI 晶片需求大增，使得產能進一步吃緊，加上外傳三星的 2 奈米的良率提升，還進一步 [&#8230;]",
-      "date": "2026-10-02T12:40:23+00:00",
       "sourceId": "technews",
       "cats": [
         "market",
