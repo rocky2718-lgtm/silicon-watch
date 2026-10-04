@@ -1,6 +1,6 @@
 {
-  "updated": "2026-10-04T08:18:01.054665+00:00",
-  "count": 16,
+  "updated": "2026-10-04T15:15:26.643937+00:00",
+  "count": 17,
   "sources": [
     {
       "id": "technews",
@@ -60,6 +60,19 @@
     }
   ],
   "articles": [
+    {
+      "id": "dcd446dc7452",
+      "title": "美國 FDA 推動法規轉型，以器官晶片與電腦模型取代動物實驗",
+      "link": "https://technews.tw/2026/10/04/tech-to-replace-animal-testing-is-almost-ready/",
+      "summary": "美國以人類細胞、器官晶片與電腦模型取代動物實驗的趨勢，正從實驗室走向監管制度核心。從哈佛大學魏斯研究所（Wys [&#8230;]",
+      "date": "2026-10-04T08:30:57+00:00",
+      "sourceId": "technews",
+      "cats": [
+        "market",
+        "process",
+        "material"
+      ]
+    },
     {
       "id": "d58156300705",
       "title": "挑戰 99.5% 成功率，NVIDIA 攜鴻海讓機器人組裝 GB300",
