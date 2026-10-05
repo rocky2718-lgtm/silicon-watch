@@ -1,6 +1,6 @@
 {
-  "updated": "2026-10-04T22:59:11.052266+00:00",
-  "count": 17,
+  "updated": "2026-10-05T05:20:28.268443+00:00",
+  "count": 18,
   "sources": [
     {
       "id": "technews",
@@ -61,11 +61,11 @@
   ],
   "articles": [
     {
-      "id": "dcd446dc7452",
-      "title": "美國 FDA 推動法規轉型，以器官晶片與電腦模型取代動物實驗",
-      "link": "https://technews.tw/2026/10/04/tech-to-replace-animal-testing-is-almost-ready/",
-      "summary": "美國以人類細胞、器官晶片與電腦模型取代動物實驗的趨勢，正從實驗室走向監管制度核心。從哈佛大學魏斯研究所（Wys [&#8230;]",
-      "date": "2026-10-04T08:30:57+00:00",
+      "id": "c1f5049fcd18",
+      "title": "輝達逼史高  客戶估 GPU 可撐 6 年、貝瑞酸遲早跌價",
+      "link": "https://finance.technews.tw/2026/10/05/nvidia-rebuts-michael-burrys-depreciation-claims/",
+      "summary": "輝達（Nvidia）股價一路朝歷史新高買進，公司強調旗下人工智慧（AI）繪圖處理器（GPU）的耐用性，反駁電影 [&#8230;]",
+      "date": "2026-10-05T04:20:14+00:00",
       "sourceId": "technews",
       "cats": [
         "market",
@@ -74,11 +74,11 @@
       ]
     },
     {
-      "id": "d58156300705",
-      "title": "挑戰 99.5% 成功率，NVIDIA 攜鴻海讓機器人組裝 GB300",
-      "link": "https://finance.technews.tw/2026/10/04/nvidia-foxconn-robot/",
-      "summary": "AI 伺服器需求持續爆發，如何讓產線自動化程度再往前推，也成為供應鏈下一階段競賽焦點。據 NVIDIA 部落格 [&#8230;]",
-      "date": "2026-10-04T06:47:39+00:00",
+      "id": "9c43939cb65e",
+      "title": "JEDEC 發表首個矽光子可靠度標準，加速 AI 與資料中心大規模應用",
+      "link": "https://technews.tw/2026/10/05/jesd264-silicon-photonics-qualification-and-reliability-requirements/",
+      "summary": "JEDEC 固態技術協會（JEDEC Solid State Technology Association）美 [&#8230;]",
+      "date": "2026-10-05T03:50:13+00:00",
       "sourceId": "technews",
       "cats": [
         "market",
@@ -87,11 +87,11 @@
       ]
     },
     {
-      "id": "03e46a78e1b0",
-      "title": "台積電可能加入 Terafab，馬斯克證實正在洽談晶片製造合作",
-      "link": "https://finance.technews.tw/2026/10/04/elon-musk-confirmed-that-hes-in-talks-with-tsmc-for-joining-the-terafab/",
-      "summary": "高燦鳴（Tim Culpan）近日表示，晶圓代工龍頭台積電正與特斯拉執行長馬斯克（Elon Musk）針對旗下 [&#8230;]",
-      "date": "2026-10-04T02:01:06+00:00",
+      "id": "9ae1d11e1d68",
+      "title": "AI 代理算力消耗達人類 5 倍，全球記憶體短缺恐加速爆發",
+      "link": "https://technews.tw/2026/10/05/ai-agent-wave-memory-crisis/",
+      "summary": "最新市場數據顯示，AI Agent（AI 代理）的運算規模正迅速擴張，但其成長核心已不再單純是模型推理，而是大 [&#8230;]",
+      "date": "2026-10-05T03:30:18+00:00",
       "sourceId": "technews",
       "cats": [
         "market",
@@ -100,11 +100,11 @@
       ]
     },
     {
-      "id": "6d9a873efc09",
-      "title": "華為最新麒麟 9050 Pro 晶片照曝光！兩層 Die 垂直堆疊，尺寸再縮小",
-      "link": "https://technews.tw/2026/10/03/huaweis-latest-kirin-9050-pro-chip/",
-      "summary": "華為最新麒麟 9050 Pro 晶片近日再傳新進展，外媒 Wccftech 引述社群平台 X 帳號 Kurna [&#8230;]",
-      "date": "2026-10-03T07:37:15+00:00",
+      "id": "00d0f1658160",
+      "title": "黃仁勳再度駁斥 AI 末日論，推「全堆疊」安全平台防堵 AI 代理失控",
+      "link": "https://technews.tw/2026/10/05/jensen-huang-refutes-ai-doomsday-theory/",
+      "summary": "輝達（NVIDIA）執行長黃仁勳近日再度重申，強烈反對人工智慧（AI）將引發「世界末日」的悲觀論調，直言這類說 [&#8230;]",
+      "date": "2026-10-05T03:00:33+00:00",
       "sourceId": "technews",
       "cats": [
         "market",
@@ -113,11 +113,11 @@
       ]
     },
     {
-      "id": "8e54cf70513a",
-      "title": "產能提升逾 10%！三星開始量產 Exynos 2700 晶片，搭載 Galaxy S27 多系列",
-      "link": "https://technews.tw/2026/10/03/samsung-electronics-starts-mass-production-of-exynos-2700/",
-      "summary": "市場消息傳出，三星電子已開始量產 Exynos 2700，該晶片將搭載於 Galaxy S27 系列智慧手機， [&#8230;]",
-      "date": "2026-10-03T06:32:26+00:00",
+      "id": "221f345c28ec",
+      "title": "東芝攻克 SiC MOSFET 電壓漂移，長期可靠性再提升",
+      "link": "https://technews.tw/2026/10/05/toshiba-improves-sic-mosfet-long-term-reliability-evs-data-centers/",
+      "summary": "東芝持續推進碳化矽（SiC）功率半導體技術，宣布開發溝槽閘極（Trench-gate）SiC MOSFET 臨 [&#8230;]",
+      "date": "2026-10-05T02:37:58+00:00",
       "sourceId": "technews",
       "cats": [
         "market",
@@ -126,11 +126,24 @@
       ]
     },
     {
-      "id": "6d3d9f483297",
-      "title": "川普召集黃仁勳、馬斯克等科技巨頭簽「AI 憲法」，四層稽核機制能解失控風險？",
-      "link": "https://technews.tw/2026/10/03/trump-ai-constitution-jensen-huang-tech-giants-four-layer-audit-prevent-ai-rogue/",
-      "summary": "美國總統川普（Donald Trump）日前在白宮召集輝達（NVIDIA）執行長黃仁勳、SpaceXAI 創辦 [&#8230;]",
-      "date": "2026-10-03T06:00:53+00:00",
+      "id": "0459b0575a5d",
+      "title": "美報告：中國取得數百台浸潤式 DUV 微影機，籲收緊出口管制",
+      "link": "https://technews.tw/2026/10/05/china-stockpiles-asml-lithography-tools-spurring-us-calls-for-complete-export-ban/",
+      "summary": "美國研究機構指出，在美國限制向中國出口先進半導體製造設備之際，中國仍取得數百台可用於製造先進晶片的浸潤式深紫外 [&#8230;]",
+      "date": "2026-10-05T02:30:22+00:00",
+      "sourceId": "technews",
+      "cats": [
+        "market",
+        "process",
+        "material"
+      ]
+    },
+    {
+      "id": "137b7d24279a",
+      "title": "台積電與特斯拉 Terafab 或有兩種合作方案，線上法說會將成焦點",
+      "link": "https://finance.technews.tw/2026/10/05/tsmc-and-teslas-terafab-are-expected-to-have-two-options/",
+      "summary": "晶圓代工龍頭台積電（TSMC）傳出正與特斯拉執行長馬斯克（Elon Musk）針對旗下大規模半導體製造計畫 T [&#8230;]",
+      "date": "2026-10-05T02:15:59+00:00",
       "sourceId": "technews",
       "cats": [
         "market",
