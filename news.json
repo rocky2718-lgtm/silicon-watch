@@ -1,6 +1,6 @@
 {
-  "updated": "2026-10-05T05:20:28.268443+00:00",
-  "count": 18,
+  "updated": "2026-10-05T14:22:33.835874+00:00",
+  "count": 15,
   "sources": [
     {
       "id": "technews",
@@ -61,11 +61,11 @@
   ],
   "articles": [
     {
-      "id": "c1f5049fcd18",
-      "title": "輝達逼史高  客戶估 GPU 可撐 6 年、貝瑞酸遲早跌價",
-      "link": "https://finance.technews.tw/2026/10/05/nvidia-rebuts-michael-burrys-depreciation-claims/",
-      "summary": "輝達（Nvidia）股價一路朝歷史新高買進，公司強調旗下人工智慧（AI）繪圖處理器（GPU）的耐用性，反駁電影 [&#8230;]",
-      "date": "2026-10-05T04:20:14+00:00",
+      "id": "f9ef13a4c370",
+      "title": "華邦電 9 月營收年增逾 250%，預計前 10 個月營收將突破 2,000 億元",
+      "link": "https://finance.technews.tw/2026/10/05/winbond-electronics-september-revenue-increased-by-over-250-year-on-year/",
+      "summary": "記憶體大廠華邦電最新營收表現搶眼，公司結算2026年9月含子公司新唐科技等之合併營收為新台幣282.49億元， [&#8230;]",
+      "date": "2026-10-05T12:45:46+00:00",
       "sourceId": "technews",
       "cats": [
         "market",
@@ -74,11 +74,24 @@
       ]
     },
     {
-      "id": "9c43939cb65e",
-      "title": "JEDEC 發表首個矽光子可靠度標準，加速 AI 與資料中心大規模應用",
-      "link": "https://technews.tw/2026/10/05/jesd264-silicon-photonics-qualification-and-reliability-requirements/",
-      "summary": "JEDEC 固態技術協會（JEDEC Solid State Technology Association）美 [&#8230;]",
-      "date": "2026-10-05T03:50:13+00:00",
+      "id": "dc659bc32462",
+      "title": "GPT-Synopsys Combines IC Design EDA with Agentic AI",
+      "link": "https://www.eetimes.com/gpt-synopsys-combines-ic-design-eda-with-agentic-ai/",
+      "summary": "Synopsys joins OpenAI for a leap of faith in AI-native IC design by augmenting frontier models with EDA tools. The post GPT-Synopsys Combines IC Design EDA with Agentic AI appeared first on EE Times.",
+      "date": "2026-10-05T12:00:00+00:00",
+      "sourceId": "eetimes",
+      "cats": [
+        "process",
+        "material",
+        "equipment"
+      ]
+    },
+    {
+      "id": "1aa5b56a8f4f",
+      "title": "昇陽半導體9月營收月增1.3%",
+      "link": "https://finance.technews.tw/2026/10/05/psi-8028-202609-financial-report/",
+      "summary": "昇陽半導體（8028）公布 9 月合併營收 5.12 億元，較上（8）月成長 1.3%，與去年同期相比為年增 [&#8230;]",
+      "date": "2026-10-05T09:20:02+00:00",
       "sourceId": "technews",
       "cats": [
         "market",
@@ -87,11 +100,11 @@
       ]
     },
     {
-      "id": "9ae1d11e1d68",
-      "title": "AI 代理算力消耗達人類 5 倍，全球記憶體短缺恐加速爆發",
-      "link": "https://technews.tw/2026/10/05/ai-agent-wave-memory-crisis/",
-      "summary": "最新市場數據顯示，AI Agent（AI 代理）的運算規模正迅速擴張，但其成長核心已不再單純是模型推理，而是大 [&#8230;]",
-      "date": "2026-10-05T03:30:18+00:00",
+      "id": "14c65c80aaf0",
+      "title": "台積電創新高市值達 66.77 兆元，貢獻加權指數 594 點",
+      "link": "https://finance.technews.tw/2026/10/05/tsmc-market-cap-hits-record/",
+      "summary": "晶圓代工龍頭台積電今天創多項紀錄，包括再創盤中、收盤歷史新高 2,580 元及 2,575 元，市值攻上新台幣 [&#8230;]",
+      "date": "2026-10-05T09:00:40+00:00",
       "sourceId": "technews",
       "cats": [
         "market",
@@ -100,50 +113,11 @@
       ]
     },
     {
-      "id": "00d0f1658160",
-      "title": "黃仁勳再度駁斥 AI 末日論，推「全堆疊」安全平台防堵 AI 代理失控",
-      "link": "https://technews.tw/2026/10/05/jensen-huang-refutes-ai-doomsday-theory/",
-      "summary": "輝達（NVIDIA）執行長黃仁勳近日再度重申，強烈反對人工智慧（AI）將引發「世界末日」的悲觀論調，直言這類說 [&#8230;]",
-      "date": "2026-10-05T03:00:33+00:00",
-      "sourceId": "technews",
-      "cats": [
-        "market",
-        "process",
-        "material"
-      ]
-    },
-    {
-      "id": "221f345c28ec",
-      "title": "東芝攻克 SiC MOSFET 電壓漂移，長期可靠性再提升",
-      "link": "https://technews.tw/2026/10/05/toshiba-improves-sic-mosfet-long-term-reliability-evs-data-centers/",
-      "summary": "東芝持續推進碳化矽（SiC）功率半導體技術，宣布開發溝槽閘極（Trench-gate）SiC MOSFET 臨 [&#8230;]",
-      "date": "2026-10-05T02:37:58+00:00",
-      "sourceId": "technews",
-      "cats": [
-        "market",
-        "process",
-        "material"
-      ]
-    },
-    {
-      "id": "0459b0575a5d",
-      "title": "美報告：中國取得數百台浸潤式 DUV 微影機，籲收緊出口管制",
-      "link": "https://technews.tw/2026/10/05/china-stockpiles-asml-lithography-tools-spurring-us-calls-for-complete-export-ban/",
-      "summary": "美國研究機構指出，在美國限制向中國出口先進半導體製造設備之際，中國仍取得數百台可用於製造先進晶片的浸潤式深紫外 [&#8230;]",
-      "date": "2026-10-05T02:30:22+00:00",
-      "sourceId": "technews",
-      "cats": [
-        "market",
-        "process",
-        "material"
-      ]
-    },
-    {
-      "id": "137b7d24279a",
-      "title": "台積電與特斯拉 Terafab 或有兩種合作方案，線上法說會將成焦點",
-      "link": "https://finance.technews.tw/2026/10/05/tsmc-and-teslas-terafab-are-expected-to-have-two-options/",
-      "summary": "晶圓代工龍頭台積電（TSMC）傳出正與特斯拉執行長馬斯克（Elon Musk）針對旗下大規模半導體製造計畫 T [&#8230;]",
-      "date": "2026-10-05T02:15:59+00:00",
+      "id": "c40783014efa",
+      "title": "矽格9月營收月增1.0%",
+      "link": "https://finance.technews.tw/2026/10/05/sigurd-6257-202609-financial-report/",
+      "summary": "矽格（6257）公布 9 月合併營收 20.89 億元，較上（8）月成長 1.0%，與去年同期相比為年增 26 [&#8230;]",
+      "date": "2026-10-05T08:40:06+00:00",
       "sourceId": "technews",
       "cats": [
         "market",
@@ -183,19 +157,6 @@
       "link": "https://www.eetimes.com/emergence-ai-to-deploy-neuroformal-ai-with-fabless-chipmakers/",
       "summary": "See how Emergence AI is deploying neuroformal AI with chipmakers to boost wafer yields and tackle fab, test, and packaging failures. The post Emergence AI Targets Fabless Chipmakers With Neuroformal AI appeared first on EE Times.",
       "date": "2026-09-30T21:31:25+00:00",
-      "sourceId": "eetimes",
-      "cats": [
-        "process",
-        "material",
-        "equipment"
-      ]
-    },
-    {
-      "id": "bd2a79b3818a",
-      "title": "TSMC’s 3-nm Ramp Looks Different in Historical Context",
-      "link": "https://www.eetimes.com/tsmcs-3-nm-ramp-looks-different-in-historical-context/",
-      "summary": "TSMC’s 3-nm node nears the revenue lead, but history shows 7 nm ramped faster; compare the data before evaluating 2 nm. The post TSMC’s 3-nm Ramp Looks Different in Historical Context appeared first on EE Times.",
-      "date": "2026-09-30T15:40:17+00:00",
       "sourceId": "eetimes",
       "cats": [
         "process",
