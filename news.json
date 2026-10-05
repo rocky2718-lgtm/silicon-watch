@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-05T14:22:33.835874+00:00",
+  "updated": "2026-10-05T22:30:00.113469+00:00",
   "count": 15,
   "sources": [
     {
@@ -60,6 +60,32 @@
     }
   ],
   "articles": [
+    {
+      "id": "a15af2e6dc4b",
+      "title": "Kepler Aims to Launch Energy-Saving Replacement for HBM in 2027",
+      "link": "https://www.eetimes.com/kepler-aims-to-launch-energy-saving-replacement-for-hbm-in-2027/",
+      "summary": "Kepler targets 2027 production for 3D ferroelectric memory promising 5–10× better bandwidth per watt than HBM. The post Kepler Aims to Launch Energy-Saving Replacement for HBM in 2027 appeared first on EE Times.",
+      "date": "2026-10-05T20:00:00+00:00",
+      "sourceId": "eetimes",
+      "cats": [
+        "process",
+        "material",
+        "equipment"
+      ]
+    },
+    {
+      "id": "2b30ac79891d",
+      "title": "Trusted AI: Why Intelligence Alone Isn’t Enough",
+      "link": "https://www.eetimes.com/trusted-ai-why-intelligence-alone-isnt-enough/",
+      "summary": "See how trusted AI combines intelligence, domain expertise, and deterministic verification to boost confidence in semiconductor design. The post Trusted AI: Why Intelligence Alone Isn’t Enough appeared first on EE Times.",
+      "date": "2026-10-05T17:48:56+00:00",
+      "sourceId": "eetimes",
+      "cats": [
+        "process",
+        "material",
+        "equipment"
+      ]
+    },
     {
       "id": "f9ef13a4c370",
       "title": "華邦電 9 月營收年增逾 250%，預計前 10 個月營收將突破 2,000 億元",
@@ -131,32 +157,6 @@
       "link": "https://www.eetimes.com/qualcomm-doubles-down-on-agentic-ai-at-snapdragon-summit-2026/",
       "summary": "Qualcomm introduced two distinct Snapdragon 8 Elite Gen 6 SoCs for high-end smartphones as it expands personal agentic AI across mobile, wearables, and PCs. The post Qualcomm Doubles Down on Agentic AI at Snapdragon Summit 2026 appeared first on EE Times.",
       "date": "2026-10-01T17:31:45+00:00",
-      "sourceId": "eetimes",
-      "cats": [
-        "process",
-        "material",
-        "equipment"
-      ]
-    },
-    {
-      "id": "e7c944c5c545",
-      "title": "Europe’s Space Industry Seeks Greater Supply Chain Control",
-      "link": "https://www.eetimes.com/europe-space-industry-seeks-greater-supply-chain-control/",
-      "summary": "Europe's strategic space independence will depend on semiconductor supply chains, satellite networks, and 6G communications. The post Europe’s Space Industry Seeks Greater Supply Chain Control appeared first on EE Times.",
-      "date": "2026-10-01T09:57:15+00:00",
-      "sourceId": "eetimes",
-      "cats": [
-        "process",
-        "material",
-        "equipment"
-      ]
-    },
-    {
-      "id": "8a9cc6c71fe0",
-      "title": "Emergence AI Targets Fabless Chipmakers With Neuroformal AI",
-      "link": "https://www.eetimes.com/emergence-ai-to-deploy-neuroformal-ai-with-fabless-chipmakers/",
-      "summary": "See how Emergence AI is deploying neuroformal AI with chipmakers to boost wafer yields and tackle fab, test, and packaging failures. The post Emergence AI Targets Fabless Chipmakers With Neuroformal AI appeared first on EE Times.",
-      "date": "2026-09-30T21:31:25+00:00",
       "sourceId": "eetimes",
       "cats": [
         "process",
