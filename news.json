@@ -1,6 +1,6 @@
 {
-  "updated": "2026-10-07T01:22:49.828897+00:00",
-  "count": 14,
+  "updated": "2026-10-07T08:30:37.385061+00:00",
+  "count": 19,
   "sources": [
     {
       "id": "technews",
@@ -61,11 +61,11 @@
   ],
   "articles": [
     {
-      "id": "47d90956cbaa",
-      "title": "AMD 創高  分析師看好還有得漲、估 CPU 需求強增",
-      "link": "https://finance.technews.tw/2026/10/07/citi-now-thinks-amd-stock-could-rip-another-25-percent-because-of-meta-muse/",
-      "summary": "花旗（Citi）看好，AI 代理將大幅推升運算需求，AMD 將成為 CPU 市場復興的主要受惠者，將目標價大舉 [&#8230;]",
-      "date": "2026-10-07T00:40:15+00:00",
+      "id": "1c8ec6a4c4c0",
+      "title": "Windows 11 26H2 瘦身有感，搭配 Rufus 工具大幅降低記憶體占用",
+      "link": "https://technews.tw/2026/10/07/windows-11-consumes-only-16-percent-of-ram-on-a-16gb-system/",
+      "summary": "微軟 9 月底釋出的 Windows 11 26H2 版本更新，成功朝著降低整體記憶體用量又再邁進一步。一名來 [&#8230;]",
+      "date": "2026-10-07T08:24:23+00:00",
       "sourceId": "technews",
       "cats": [
         "market",
@@ -74,11 +74,11 @@
       ]
     },
     {
-      "id": "ce744ed994c1",
-      "title": "傳擬請台積電包電廠，台電：未進入政策研議程序",
-      "link": "https://technews.tw/2026/10/07/tsmc-power-plant-rumors-taipower-denies-policy-deliberation/",
-      "summary": "媒體報導，台電擬對用電大戶收加成折舊費的差別電價，台電董事長曾文生 5 日表示，沒講過差別電價；又傳出台電備案 [&#8230;]",
-      "date": "2026-10-07T00:15:39+00:00",
+      "id": "6f75877036d2",
+      "title": "記憶體漲價打擊入門機款，蘋果順勢登歐洲電信商通路市占第一",
+      "link": "https://technews.tw/2026/10/07/memory-ow-end-smartphone/",
+      "summary": "全球記憶體價格上漲正改變歐洲智慧手機市場結構，據調研機構 Counterpoint Research 最新報告 [&#8230;]",
+      "date": "2026-10-07T07:33:34+00:00",
       "sourceId": "technews",
       "cats": [
         "market",
@@ -87,11 +87,76 @@
       ]
     },
     {
-      "id": "cfc5c7899ff8",
-      "title": "聯電 9 月營收創歷史新高，AI 營收將大幅成長帶動代工價格",
-      "link": "https://finance.technews.tw/2026/10/06/umcs-september-revenue-hit-a-record-high/",
-      "summary": "晶圓代工大廠聯電 9 月合併營收達 253.5 億元，成功刷新單月歷史新高紀錄。受惠於 22 奈米業務持續放量 [&#8230;]",
-      "date": "2026-10-06T12:15:53+00:00",
+      "id": "0fae251468cc",
+      "title": "應材、英特爾深化合作，加速 AI 晶片製造技術創新",
+      "link": "https://technews.tw/2026/10/07/applied-material-intel-epic-center/",
+      "summary": "應用材料今（7 日）宣布與英特爾攜手合作，加速新一代電晶體、互連與先進封裝技術的晶片製造創新。此次合作將結合應 [&#8230;]",
+      "date": "2026-10-07T06:50:18+00:00",
+      "sourceId": "technews",
+      "cats": [
+        "market",
+        "process",
+        "material"
+      ]
+    },
+    {
+      "id": "3c4524dc5a5d",
+      "title": "技嘉 AI TOP ATOM 64GB 統一記憶體版本登場，拓展桌上型 AI 開發新可能",
+      "link": "https://ccc.technews.tw/2026/10/07/gigabyte-ai-top-atom-64gb-unified-memory-version-introduced-expanding-new-possibilities-desktop-ai-development/",
+      "summary": "技嘉科技宣布，旗下個人 AI 超級電腦 GIGABYTE AI TOP ATOM 在現有 128GB 版本外， [&#8230;]",
+      "date": "2026-10-07T06:00:13+00:00",
+      "sourceId": "technews",
+      "cats": [
+        "market",
+        "process",
+        "material"
+      ]
+    },
+    {
+      "id": "2ccd3cfb3143",
+      "title": "小摩唱多探針卡巨頭特諾本  看好晶片測試需求",
+      "link": "https://finance.technews.tw/2026/10/07/jpmorgan-bullish-on-technoprobe/",
+      "summary": "義大利半導體測試大廠、探針卡巨頭特諾本（Technoprobe）首度獲摩根大通（J.P. Morgan，小摩） [&#8230;]",
+      "date": "2026-10-07T04:00:17+00:00",
+      "sourceId": "technews",
+      "cats": [
+        "market",
+        "process",
+        "material"
+      ]
+    },
+    {
+      "id": "3a041e4f945f",
+      "title": "經濟安全考量  半導體設備商 TOWA 擬在日本蓋新廠",
+      "link": "https://technews.tw/2026/10/07/towa-plans-new-plant-in-japan/",
+      "summary": "經濟安全考量，日本半導體製造設備商 TOWA 將在日本國內興建新工廠，預計 2029 年投產，生產半導體封裝設 [&#8230;]",
+      "date": "2026-10-07T03:50:57+00:00",
+      "sourceId": "technews",
+      "cats": [
+        "market",
+        "process",
+        "material"
+      ]
+    },
+    {
+      "id": "edeb6bbe8891",
+      "title": "台積電投資亞利桑那州創美國史上最大規模，引發中國不滿與警告",
+      "link": "https://finance.technews.tw/2026/10/07/tsmcs-investment-in-arizona-creates-the-largest-impact-in-us-history/",
+      "summary": "台積電（TSMC）在美國亞利桑那州鳳凰城持續擴建半導體廠，累計投資金額高達 2,650 億美元，創下美國史上最 [&#8230;]",
+      "date": "2026-10-07T03:50:12+00:00",
+      "sourceId": "technews",
+      "cats": [
+        "market",
+        "process",
+        "material"
+      ]
+    },
+    {
+      "id": "1b23943f8aa8",
+      "title": "賣方主導市場，三星 HBM4 價格 2027 年將翻倍成長",
+      "link": "https://finance.technews.tw/2026/10/07/samsung-hbm4-supply-prices-are-expected-to-double-by-2027/",
+      "summary": "根據韓國媒體報導指出，韓國三星在與主要客戶進行的 2027 年高頻寬記憶體（HBM）供給談判中，提出了大幅調漲 [&#8230;]",
+      "date": "2026-10-07T03:30:08+00:00",
       "sourceId": "technews",
       "cats": [
         "market",
