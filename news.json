@@ -1,6 +1,6 @@
 {
-  "updated": "2026-10-06T20:53:38.979983+00:00",
-  "count": 16,
+  "updated": "2026-10-07T01:22:49.828897+00:00",
+  "count": 14,
   "sources": [
     {
       "id": "technews",
@@ -61,10 +61,36 @@
   ],
   "articles": [
     {
+      "id": "47d90956cbaa",
+      "title": "AMD 創高  分析師看好還有得漲、估 CPU 需求強增",
+      "link": "https://finance.technews.tw/2026/10/07/citi-now-thinks-amd-stock-could-rip-another-25-percent-because-of-meta-muse/",
+      "summary": "花旗（Citi）看好，AI 代理將大幅推升運算需求，AMD 將成為 CPU 市場復興的主要受惠者，將目標價大舉 [&#8230;]",
+      "date": "2026-10-07T00:40:15+00:00",
+      "sourceId": "technews",
+      "cats": [
+        "market",
+        "process",
+        "material"
+      ]
+    },
+    {
+      "id": "ce744ed994c1",
+      "title": "傳擬請台積電包電廠，台電：未進入政策研議程序",
+      "link": "https://technews.tw/2026/10/07/tsmc-power-plant-rumors-taipower-denies-policy-deliberation/",
+      "summary": "媒體報導，台電擬對用電大戶收加成折舊費的差別電價，台電董事長曾文生 5 日表示，沒講過差別電價；又傳出台電備案 [&#8230;]",
+      "date": "2026-10-07T00:15:39+00:00",
+      "sourceId": "technews",
+      "cats": [
+        "market",
+        "process",
+        "material"
+      ]
+    },
+    {
       "id": "cfc5c7899ff8",
       "title": "聯電 9 月營收創歷史新高，AI 營收將大幅成長帶動代工價格",
       "link": "https://finance.technews.tw/2026/10/06/umcs-september-revenue-hit-a-record-high/",
-      "summary": "晶圓代工大廠聯電9月合併營收達253.5億元，成功刷新單月歷史新高紀錄。受惠於22奈米業務持續放量以及8吋晶圓 [&#8230;]",
+      "summary": "晶圓代工大廠聯電 9 月合併營收達 253.5 億元，成功刷新單月歷史新高紀錄。受惠於 22 奈米業務持續放量 [&#8230;]",
       "date": "2026-10-06T12:15:53+00:00",
       "sourceId": "technews",
       "cats": [
@@ -84,58 +110,6 @@
         "process",
         "material",
         "equipment"
-      ]
-    },
-    {
-      "id": "dbcb7e5bb7ce",
-      "title": "AI、矽光子需求旺：矽格測試價格調漲、資本支出擬再加碼",
-      "link": "https://technews.tw/2026/10/06/ai-silicon-photonics-demand-boosts-gigasolution-testing-prices-capex/",
-      "summary": "受惠 AI、高效能運算及矽光子需求持續升溫，矽格副董事長葉燦鍊表示，今年 AI、CPU、GPU、ASIC 及矽 [&#8230;]",
-      "date": "2026-10-06T09:33:26+00:00",
-      "sourceId": "technews",
-      "cats": [
-        "market",
-        "process",
-        "material"
-      ]
-    },
-    {
-      "id": "b23427f4c870",
-      "title": "創見資訊 9 月營收年增 290%，前九個月營收年增達 370%",
-      "link": "https://finance.technews.tw/2026/10/06/transcends-september-revenue-increased-by-290-year-on-year/",
-      "summary": "記憶體廠商創見資訊公布 2026 年 9 月合併營收，金額為新台幣 60.4 億元，較 8 月份成長 24.8 [&#8230;]",
-      "date": "2026-10-06T08:40:56+00:00",
-      "sourceId": "technews",
-      "cats": [
-        "market",
-        "process",
-        "material"
-      ]
-    },
-    {
-      "id": "f602e725c5dc",
-      "title": "穎崴 9 月營收年增 87.72%，前九個月合併營收首破百億元大關",
-      "link": "https://finance.technews.tw/2026/10/06/winways-september-revenue-increased-by-87-72-year-on-year/",
-      "summary": "半導體測試介面解決方案廠商穎崴科技公告 2026 年 9 月份自結營收，單月合併營收達 12.5 億元，較 8 [&#8230;]",
-      "date": "2026-10-06T08:30:14+00:00",
-      "sourceId": "technews",
-      "cats": [
-        "market",
-        "process",
-        "material"
-      ]
-    },
-    {
-      "id": "f15ec9bde750",
-      "title": "台星科資本支出增至 134.27 億元，擴充先進封裝測試產能",
-      "link": "https://technews.tw/2026/10/06/taishinco-capex-increases-to-13-427-billion-expand-advanced-packaging-testing/",
-      "summary": "AI、高效能運算（HPC）需求持續升溫，半導體封測廠台星科加速擴充產能。台星科表示，目前 HPC 為公司主要產 [&#8230;]",
-      "date": "2026-10-06T08:30:07+00:00",
-      "sourceId": "technews",
-      "cats": [
-        "market",
-        "process",
-        "material"
       ]
     },
     {
