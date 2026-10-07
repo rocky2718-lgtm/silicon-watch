@@ -1,6 +1,6 @@
 {
-  "updated": "2026-10-07T08:30:37.385061+00:00",
-  "count": 19,
+  "updated": "2026-10-07T17:22:44.324401+00:00",
+  "count": 17,
   "sources": [
     {
       "id": "technews",
@@ -61,6 +61,58 @@
   ],
   "articles": [
     {
+      "id": "f5a2c0b3791d",
+      "title": "AMD’s Mark Papermaster: Exclusive Video Interview at World Summit AI",
+      "link": "https://www.eetimes.com/amds-mark-papermaster-exclusive-video-interview-at-world-summit-ai/",
+      "summary": "For AMD CTO Mark Papermaster, tailored computing and holistic design are key to delivering AI. The post AMD’s Mark Papermaster: Exclusive Video Interview at World Summit AI appeared first on EE Times.",
+      "date": "2026-10-07T14:57:52+00:00",
+      "sourceId": "eetimes",
+      "cats": [
+        "process",
+        "material",
+        "equipment"
+      ]
+    },
+    {
+      "id": "06402ed392cd",
+      "title": "From Electrification to Architecture: The Next Automotive Era",
+      "link": "https://www.eetimes.com/from-electrification-to-architecture-the-next-automotive-era/",
+      "summary": "From electrification to software-defined vehicles, automotive innovation is driving new requirements for semiconductor packaging and test. The post From Electrification to Architecture: The Next Automotive Era appeared first on EE Times.",
+      "date": "2026-10-07T13:00:00+00:00",
+      "sourceId": "eetimes",
+      "cats": [
+        "process",
+        "material",
+        "equipment"
+      ]
+    },
+    {
+      "id": "9911df175786",
+      "title": "馬斯克否認台積電將參與 Terafab，稱將自建自營",
+      "link": "https://technews.tw/2026/10/07/musk-denies-tsmc-terafab-self-build-operate/",
+      "summary": "美國電動車廠特斯拉與美國太空探索科技公司（SpaceX）執行長馬斯克今天表示，兩公司合作的人工智慧（AI）晶片 [&#8230;]",
+      "date": "2026-10-07T09:50:59+00:00",
+      "sourceId": "technews",
+      "cats": [
+        "market",
+        "process",
+        "material"
+      ]
+    },
+    {
+      "id": "3bf36e98bc07",
+      "title": "GaN 滿載、SiC 迎 V 型反彈，漢磊明年 AI 營收占比上看兩成",
+      "link": "https://technews.tw/2026/10/07/episil-targets-10-20-ai-revenue-share-2027-gan-sic-dual-growth-engines/",
+      "summary": "AI 資料中心帶動第三類半導體需求加速成長。漢磊總經理劉燦文表示，今年上半年 AI 相關營收占比約 5%，隨 [&#8230;]",
+      "date": "2026-10-07T08:42:29+00:00",
+      "sourceId": "technews",
+      "cats": [
+        "market",
+        "process",
+        "material"
+      ]
+    },
+    {
       "id": "1c8ec6a4c4c0",
       "title": "Windows 11 26H2 瘦身有感，搭配 Rufus 工具大幅降低記憶體占用",
       "link": "https://technews.tw/2026/10/07/windows-11-consumes-only-16-percent-of-ram-on-a-16gb-system/",
@@ -113,58 +165,6 @@
       ]
     },
     {
-      "id": "2ccd3cfb3143",
-      "title": "小摩唱多探針卡巨頭特諾本  看好晶片測試需求",
-      "link": "https://finance.technews.tw/2026/10/07/jpmorgan-bullish-on-technoprobe/",
-      "summary": "義大利半導體測試大廠、探針卡巨頭特諾本（Technoprobe）首度獲摩根大通（J.P. Morgan，小摩） [&#8230;]",
-      "date": "2026-10-07T04:00:17+00:00",
-      "sourceId": "technews",
-      "cats": [
-        "market",
-        "process",
-        "material"
-      ]
-    },
-    {
-      "id": "3a041e4f945f",
-      "title": "經濟安全考量  半導體設備商 TOWA 擬在日本蓋新廠",
-      "link": "https://technews.tw/2026/10/07/towa-plans-new-plant-in-japan/",
-      "summary": "經濟安全考量，日本半導體製造設備商 TOWA 將在日本國內興建新工廠，預計 2029 年投產，生產半導體封裝設 [&#8230;]",
-      "date": "2026-10-07T03:50:57+00:00",
-      "sourceId": "technews",
-      "cats": [
-        "market",
-        "process",
-        "material"
-      ]
-    },
-    {
-      "id": "edeb6bbe8891",
-      "title": "台積電投資亞利桑那州創美國史上最大規模，引發中國不滿與警告",
-      "link": "https://finance.technews.tw/2026/10/07/tsmcs-investment-in-arizona-creates-the-largest-impact-in-us-history/",
-      "summary": "台積電（TSMC）在美國亞利桑那州鳳凰城持續擴建半導體廠，累計投資金額高達 2,650 億美元，創下美國史上最 [&#8230;]",
-      "date": "2026-10-07T03:50:12+00:00",
-      "sourceId": "technews",
-      "cats": [
-        "market",
-        "process",
-        "material"
-      ]
-    },
-    {
-      "id": "1b23943f8aa8",
-      "title": "賣方主導市場，三星 HBM4 價格 2027 年將翻倍成長",
-      "link": "https://finance.technews.tw/2026/10/07/samsung-hbm4-supply-prices-are-expected-to-double-by-2027/",
-      "summary": "根據韓國媒體報導指出，韓國三星在與主要客戶進行的 2027 年高頻寬記憶體（HBM）供給談判中，提出了大幅調漲 [&#8230;]",
-      "date": "2026-10-07T03:30:08+00:00",
-      "sourceId": "technews",
-      "cats": [
-        "market",
-        "process",
-        "material"
-      ]
-    },
-    {
       "id": "a03c5332d336",
       "title": "CXL-Connected MRAM Address AI Storage Latency",
       "link": "https://www.eetimes.com/cxl-connected-mram-address-ai-storage-latency/",
@@ -183,32 +183,6 @@
       "link": "https://www.eetimes.com/kepler-aims-to-launch-energy-saving-replacement-for-hbm-in-2027/",
       "summary": "Kepler targets 2027 production for 3D ferroelectric memory promising 5–10× better bandwidth per watt than HBM. The post Kepler Aims to Launch Energy-Saving Replacement for HBM in 2027 appeared first on EE Times.",
       "date": "2026-10-05T20:00:00+00:00",
-      "sourceId": "eetimes",
-      "cats": [
-        "process",
-        "material",
-        "equipment"
-      ]
-    },
-    {
-      "id": "2b30ac79891d",
-      "title": "Trusted AI: Why Intelligence Alone Isn’t Enough",
-      "link": "https://www.eetimes.com/trusted-ai-why-intelligence-alone-isnt-enough/",
-      "summary": "See how trusted AI combines intelligence, domain expertise, and deterministic verification to boost confidence in semiconductor design. The post Trusted AI: Why Intelligence Alone Isn’t Enough appeared first on EE Times.",
-      "date": "2026-10-05T17:48:56+00:00",
-      "sourceId": "eetimes",
-      "cats": [
-        "process",
-        "material",
-        "equipment"
-      ]
-    },
-    {
-      "id": "dc659bc32462",
-      "title": "GPT-Synopsys Combines IC Design EDA with Agentic AI",
-      "link": "https://www.eetimes.com/gpt-synopsys-combines-ic-design-eda-with-agentic-ai/",
-      "summary": "Synopsys joins OpenAI for a leap of faith in AI-native IC design by augmenting frontier models with EDA tools. The post GPT-Synopsys Combines IC Design EDA with Agentic AI appeared first on EE Times.",
-      "date": "2026-10-05T12:00:00+00:00",
       "sourceId": "eetimes",
       "cats": [
         "process",
