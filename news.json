@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-07T17:22:44.324401+00:00",
+  "updated": "2026-10-07T22:59:38.792123+00:00",
   "count": 17,
   "sources": [
     {
@@ -61,16 +61,42 @@
   ],
   "articles": [
     {
+      "id": "ab36d22a0c02",
+      "title": "Surface Laptop Ultra 筆電展開預購，RTX Spark 晶片、磁吸式 USB-C 充電成亮點",
+      "link": "https://ccc.technews.tw/2026/10/08/surface-laptop-ultra-and-surface-rtx-spark-dev-box-now-available-for-pre-order/",
+      "summary": "微軟揭曉 Surface Laptop Ultra 數個月過後，7 日宣布這款搭載 RTX Spark 晶片的 [&#8230;]",
+      "date": "2026-10-07T20:29:31+00:00",
+      "sourceId": "technews",
+      "cats": [
+        "market",
+        "process",
+        "material"
+      ]
+    },
+    {
       "id": "f5a2c0b3791d",
       "title": "AMD’s Mark Papermaster: Exclusive Video Interview at World Summit AI",
       "link": "https://www.eetimes.com/amds-mark-papermaster-exclusive-video-interview-at-world-summit-ai/",
       "summary": "For AMD CTO Mark Papermaster, tailored computing and holistic design are key to delivering AI. The post AMD’s Mark Papermaster: Exclusive Video Interview at World Summit AI appeared first on EE Times.",
-      "date": "2026-10-07T14:57:52+00:00",
+      "date": "2026-10-07T18:39:00+00:00",
       "sourceId": "eetimes",
       "cats": [
         "process",
         "material",
         "equipment"
+      ]
+    },
+    {
+      "id": "46dc70dd0f8f",
+      "title": "旺宏 9 月營收再創新高，前三季營收同步締造新高紀錄",
+      "link": "https://finance.technews.tw/2026/10/08/macronixs-september-revenue-hit-a-new-high/",
+      "summary": "記憶體大廠旺宏公布9月營收，單月合併營收達新台幣83.67億元，較8月份增加2.7%、較2025年同期也增加1 [&#8230;]",
+      "date": "2026-10-07T16:00:40+00:00",
+      "sourceId": "technews",
+      "cats": [
+        "market",
+        "process",
+        "material"
       ]
     },
     {
@@ -162,32 +188,6 @@
         "market",
         "process",
         "material"
-      ]
-    },
-    {
-      "id": "a03c5332d336",
-      "title": "CXL-Connected MRAM Address AI Storage Latency",
-      "link": "https://www.eetimes.com/cxl-connected-mram-address-ai-storage-latency/",
-      "summary": "Everspin’s demo shows how a 4-GB pool of persistent MRAM can serve as a new tier of storage between DRAM and NAND flash. The post CXL-Connected MRAM Address AI Storage Latency appeared first on EE Times.",
-      "date": "2026-10-06T10:24:22+00:00",
-      "sourceId": "eetimes",
-      "cats": [
-        "process",
-        "material",
-        "equipment"
-      ]
-    },
-    {
-      "id": "a15af2e6dc4b",
-      "title": "Kepler Aims to Launch Energy-Saving Replacement for HBM in 2027",
-      "link": "https://www.eetimes.com/kepler-aims-to-launch-energy-saving-replacement-for-hbm-in-2027/",
-      "summary": "Kepler targets 2027 production for 3D ferroelectric memory promising 5–10× better bandwidth per watt than HBM. The post Kepler Aims to Launch Energy-Saving Replacement for HBM in 2027 appeared first on EE Times.",
-      "date": "2026-10-05T20:00:00+00:00",
-      "sourceId": "eetimes",
-      "cats": [
-        "process",
-        "material",
-        "equipment"
       ]
     },
     {
