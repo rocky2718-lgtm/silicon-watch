@@ -1,6 +1,6 @@
 {
-  "updated": "2026-10-08T05:48:15.845474+00:00",
-  "count": 14,
+  "updated": "2026-10-08T13:16:07.741602+00:00",
+  "count": 15,
   "sources": [
     {
       "id": "technews",
@@ -61,11 +61,24 @@
   ],
   "articles": [
     {
-      "id": "3ecb31bff585",
-      "title": "華碩 ProArt P14、P16 搭載 RTX Spark，主打地端 AI 與 Agent 工作流",
-      "link": "https://technews.tw/2026/10/08/asus-proart-p14-p16-rtx-spark/",
-      "summary": "華碩宣布推出新一代 ProArt P14 與 ProArt P16，兩款筆電皆搭載 NVIDIA RTX Sp [&#8230;]",
-      "date": "2026-10-08T05:46:02+00:00",
+      "id": "88d0aa59c2bf",
+      "title": "Rising Costs, Compute Demand Push ADAS Toward Modular AI",
+      "link": "https://www.eetimes.com/rising-costs-compute-demand-push-adas-toward-modular-ai/",
+      "summary": "Rising semiconductor costs and computing requirements drive automakers toward modular ADAS AI solutions. The post Rising Costs, Compute Demand Push ADAS Toward Modular AI appeared first on EE Times.",
+      "date": "2026-10-08T13:00:00+00:00",
+      "sourceId": "eetimes",
+      "cats": [
+        "process",
+        "material",
+        "equipment"
+      ]
+    },
+    {
+      "id": "3baa657eb5e8",
+      "title": "旺矽9月營收20.48 億元",
+      "link": "https://finance.technews.tw/2026/10/08/mpi-6223-202609-financial-report/",
+      "summary": "旺矽（6223）今（8）日公布 9 月營收，達 20.48 億元，較 8 月成長 -0.0%，較去年同期成長 [&#8230;]",
+      "date": "2026-10-08T10:30:10+00:00",
       "sourceId": "technews",
       "cats": [
         "market",
@@ -74,11 +87,11 @@
       ]
     },
     {
-      "id": "3a4a08c43610",
-      "title": "TPCA Show 2026 規模創新高！攜手 IMPACT 深度串聯 PCB 與先進封裝，聚焦AI 新局",
-      "link": "https://technews.tw/2026/10/08/tpca-show-2026-impact-pcb/",
-      "summary": "AI 需求引爆，PCB 產業迎接新機遇！隨著 AI 算力爆發引發硬體架構革新，台灣電路板協會（TPCA）年度盛 [&#8230;]",
-      "date": "2026-10-08T05:00:42+00:00",
+      "id": "88f6bff160ef",
+      "title": "記憶體成本暴漲壓縮利潤，三星第四季手機產量恐大砍三成",
+      "link": "https://finance.technews.tw/2026/10/08/samsung-is-reportedly-making-30-fewer-phones-because-selling-them-isnt-paying-off-anymore/",
+      "summary": "三星電子傳出第四季大幅調降智慧手機產量，幅度最高可達三成，主因是 AI 需求推升記憶體價格，讓手機事業的成本壓 [&#8230;]",
+      "date": "2026-10-08T09:41:07+00:00",
       "sourceId": "technews",
       "cats": [
         "market",
@@ -87,11 +100,11 @@
       ]
     },
     {
-      "id": "c6ad729a88aa",
-      "title": "ChatGPT 增添「智慧介面」，互動式圖表、按鍵直接用",
-      "link": "https://technews.tw/2026/10/08/gpt-6-powers-a-new-intelligent-ui-in-chatgpt/",
-      "summary": "由 GPT-6 驅動的 ChatGPT 引進新的「智慧介面」（Intelligent UI），對話過程整合大量 [&#8230;]",
-      "date": "2026-10-08T04:59:52+00:00",
+      "id": "731e7325d6a0",
+      "title": "矽力*-KY9月營收25.11 億元",
+      "link": "https://finance.technews.tw/2026/10/08/silergy-6415-202609-financial-report/",
+      "summary": "矽力*-KY（6415）今（8）日公布 9 月營收，達 25.11 億元，較 8 月成長 3.9%，較去年同期 [&#8230;]",
+      "date": "2026-10-08T09:10:05+00:00",
       "sourceId": "technews",
       "cats": [
         "market",
@@ -100,11 +113,11 @@
       ]
     },
     {
-      "id": "a7cac691a5e6",
-      "title": "矽創9月營收19.79 億元",
-      "link": "https://finance.technews.tw/2026/10/08/sitronix-8016-202609-financial-report/",
-      "summary": "矽創（8016）今（7）日公布 9 月營收，達 19.79 億元，較 8 月成長 3.7%，較去年同期成長 1 [&#8230;]",
-      "date": "2026-10-08T04:50:08+00:00",
+      "id": "f531d3883cd2",
+      "title": "聯發科9月營收553.99 億元",
+      "link": "https://finance.technews.tw/2026/10/08/mtk-2454-202609-financial-report/",
+      "summary": "聯發科（2454）今（8）日公布 9 月營收，達 553.99 億元，較 8 月成長 -13.7%，較去年同期 [&#8230;]",
+      "date": "2026-10-08T09:10:03+00:00",
       "sourceId": "technews",
       "cats": [
         "market",
@@ -113,16 +126,16 @@
       ]
     },
     {
-      "id": "aa6f2a592f43",
-      "title": "荷封裝設備商貝思半導體遭降評  股價重挫",
-      "link": "https://technews.tw/2026/10/08/besi-downgraded-stock-plunges/",
-      "summary": "荷蘭先進封裝設備大廠貝思半導體（BE Semiconductor Industries，BESI）接連遭瑞銀（ [&#8230;]",
-      "date": "2026-10-08T04:00:14+00:00",
-      "sourceId": "technews",
+      "id": "aba419149e7d",
+      "title": "Rohm Semiconductor Expands Back-End Chip Manufacturing Outsourcing",
+      "link": "https://www.eetimes.com/rohm-semiconductor-expands-back-end-chip-manufacturing-outsourcing/",
+      "summary": "Rohm Semiconductor retains wafer fabrication in-house as it expands its back-end semiconductor operations and R&#038;D footprint in India. The post Rohm Semiconductor Expands Back-End Chip Manufacturing Outsourcing appeared first on EE Times.",
+      "date": "2026-10-08T07:18:51+00:00",
+      "sourceId": "eetimes",
       "cats": [
-        "market",
         "process",
-        "material"
+        "material",
+        "equipment"
       ]
     },
     {
