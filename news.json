@@ -1,6 +1,6 @@
 {
-  "updated": "2026-10-07T22:59:38.792123+00:00",
-  "count": 17,
+  "updated": "2026-10-08T05:48:15.845474+00:00",
+  "count": 14,
   "sources": [
     {
       "id": "technews",
@@ -61,11 +61,63 @@
   ],
   "articles": [
     {
-      "id": "ab36d22a0c02",
-      "title": "Surface Laptop Ultra 筆電展開預購，RTX Spark 晶片、磁吸式 USB-C 充電成亮點",
-      "link": "https://ccc.technews.tw/2026/10/08/surface-laptop-ultra-and-surface-rtx-spark-dev-box-now-available-for-pre-order/",
-      "summary": "微軟揭曉 Surface Laptop Ultra 數個月過後，7 日宣布這款搭載 RTX Spark 晶片的 [&#8230;]",
-      "date": "2026-10-07T20:29:31+00:00",
+      "id": "3ecb31bff585",
+      "title": "華碩 ProArt P14、P16 搭載 RTX Spark，主打地端 AI 與 Agent 工作流",
+      "link": "https://technews.tw/2026/10/08/asus-proart-p14-p16-rtx-spark/",
+      "summary": "華碩宣布推出新一代 ProArt P14 與 ProArt P16，兩款筆電皆搭載 NVIDIA RTX Sp [&#8230;]",
+      "date": "2026-10-08T05:46:02+00:00",
+      "sourceId": "technews",
+      "cats": [
+        "market",
+        "process",
+        "material"
+      ]
+    },
+    {
+      "id": "3a4a08c43610",
+      "title": "TPCA Show 2026 規模創新高！攜手 IMPACT 深度串聯 PCB 與先進封裝，聚焦AI 新局",
+      "link": "https://technews.tw/2026/10/08/tpca-show-2026-impact-pcb/",
+      "summary": "AI 需求引爆，PCB 產業迎接新機遇！隨著 AI 算力爆發引發硬體架構革新，台灣電路板協會（TPCA）年度盛 [&#8230;]",
+      "date": "2026-10-08T05:00:42+00:00",
+      "sourceId": "technews",
+      "cats": [
+        "market",
+        "process",
+        "material"
+      ]
+    },
+    {
+      "id": "c6ad729a88aa",
+      "title": "ChatGPT 增添「智慧介面」，互動式圖表、按鍵直接用",
+      "link": "https://technews.tw/2026/10/08/gpt-6-powers-a-new-intelligent-ui-in-chatgpt/",
+      "summary": "由 GPT-6 驅動的 ChatGPT 引進新的「智慧介面」（Intelligent UI），對話過程整合大量 [&#8230;]",
+      "date": "2026-10-08T04:59:52+00:00",
+      "sourceId": "technews",
+      "cats": [
+        "market",
+        "process",
+        "material"
+      ]
+    },
+    {
+      "id": "a7cac691a5e6",
+      "title": "矽創9月營收19.79 億元",
+      "link": "https://finance.technews.tw/2026/10/08/sitronix-8016-202609-financial-report/",
+      "summary": "矽創（8016）今（7）日公布 9 月營收，達 19.79 億元，較 8 月成長 3.7%，較去年同期成長 1 [&#8230;]",
+      "date": "2026-10-08T04:50:08+00:00",
+      "sourceId": "technews",
+      "cats": [
+        "market",
+        "process",
+        "material"
+      ]
+    },
+    {
+      "id": "aa6f2a592f43",
+      "title": "荷封裝設備商貝思半導體遭降評  股價重挫",
+      "link": "https://technews.tw/2026/10/08/besi-downgraded-stock-plunges/",
+      "summary": "荷蘭先進封裝設備大廠貝思半導體（BE Semiconductor Industries，BESI）接連遭瑞銀（ [&#8230;]",
+      "date": "2026-10-08T04:00:14+00:00",
       "sourceId": "technews",
       "cats": [
         "market",
@@ -87,19 +139,6 @@
       ]
     },
     {
-      "id": "46dc70dd0f8f",
-      "title": "旺宏 9 月營收再創新高，前三季營收同步締造新高紀錄",
-      "link": "https://finance.technews.tw/2026/10/08/macronixs-september-revenue-hit-a-new-high/",
-      "summary": "記憶體大廠旺宏公布9月營收，單月合併營收達新台幣83.67億元，較8月份增加2.7%、較2025年同期也增加1 [&#8230;]",
-      "date": "2026-10-07T16:00:40+00:00",
-      "sourceId": "technews",
-      "cats": [
-        "market",
-        "process",
-        "material"
-      ]
-    },
-    {
       "id": "06402ed392cd",
       "title": "From Electrification to Architecture: The Next Automotive Era",
       "link": "https://www.eetimes.com/from-electrification-to-architecture-the-next-automotive-era/",
@@ -110,84 +149,6 @@
         "process",
         "material",
         "equipment"
-      ]
-    },
-    {
-      "id": "9911df175786",
-      "title": "馬斯克否認台積電將參與 Terafab，稱將自建自營",
-      "link": "https://technews.tw/2026/10/07/musk-denies-tsmc-terafab-self-build-operate/",
-      "summary": "美國電動車廠特斯拉與美國太空探索科技公司（SpaceX）執行長馬斯克今天表示，兩公司合作的人工智慧（AI）晶片 [&#8230;]",
-      "date": "2026-10-07T09:50:59+00:00",
-      "sourceId": "technews",
-      "cats": [
-        "market",
-        "process",
-        "material"
-      ]
-    },
-    {
-      "id": "3bf36e98bc07",
-      "title": "GaN 滿載、SiC 迎 V 型反彈，漢磊明年 AI 營收占比上看兩成",
-      "link": "https://technews.tw/2026/10/07/episil-targets-10-20-ai-revenue-share-2027-gan-sic-dual-growth-engines/",
-      "summary": "AI 資料中心帶動第三類半導體需求加速成長。漢磊總經理劉燦文表示，今年上半年 AI 相關營收占比約 5%，隨 [&#8230;]",
-      "date": "2026-10-07T08:42:29+00:00",
-      "sourceId": "technews",
-      "cats": [
-        "market",
-        "process",
-        "material"
-      ]
-    },
-    {
-      "id": "1c8ec6a4c4c0",
-      "title": "Windows 11 26H2 瘦身有感，搭配 Rufus 工具大幅降低記憶體占用",
-      "link": "https://technews.tw/2026/10/07/windows-11-consumes-only-16-percent-of-ram-on-a-16gb-system/",
-      "summary": "微軟 9 月底釋出的 Windows 11 26H2 版本更新，成功朝著降低整體記憶體用量又再邁進一步。一名來 [&#8230;]",
-      "date": "2026-10-07T08:24:23+00:00",
-      "sourceId": "technews",
-      "cats": [
-        "market",
-        "process",
-        "material"
-      ]
-    },
-    {
-      "id": "6f75877036d2",
-      "title": "記憶體漲價打擊入門機款，蘋果順勢登歐洲電信商通路市占第一",
-      "link": "https://technews.tw/2026/10/07/memory-ow-end-smartphone/",
-      "summary": "全球記憶體價格上漲正改變歐洲智慧手機市場結構，據調研機構 Counterpoint Research 最新報告 [&#8230;]",
-      "date": "2026-10-07T07:33:34+00:00",
-      "sourceId": "technews",
-      "cats": [
-        "market",
-        "process",
-        "material"
-      ]
-    },
-    {
-      "id": "0fae251468cc",
-      "title": "應材、英特爾深化合作，加速 AI 晶片製造技術創新",
-      "link": "https://technews.tw/2026/10/07/applied-material-intel-epic-center/",
-      "summary": "應用材料今（7 日）宣布與英特爾攜手合作，加速新一代電晶體、互連與先進封裝技術的晶片製造創新。此次合作將結合應 [&#8230;]",
-      "date": "2026-10-07T06:50:18+00:00",
-      "sourceId": "technews",
-      "cats": [
-        "market",
-        "process",
-        "material"
-      ]
-    },
-    {
-      "id": "3c4524dc5a5d",
-      "title": "技嘉 AI TOP ATOM 64GB 統一記憶體版本登場，拓展桌上型 AI 開發新可能",
-      "link": "https://ccc.technews.tw/2026/10/07/gigabyte-ai-top-atom-64gb-unified-memory-version-introduced-expanding-new-possibilities-desktop-ai-development/",
-      "summary": "技嘉科技宣布，旗下個人 AI 超級電腦 GIGABYTE AI TOP ATOM 在現有 128GB 版本外， [&#8230;]",
-      "date": "2026-10-07T06:00:13+00:00",
-      "sourceId": "technews",
-      "cats": [
-        "market",
-        "process",
-        "material"
       ]
     },
     {
