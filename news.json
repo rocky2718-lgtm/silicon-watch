@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-08T13:16:07.741602+00:00",
+  "updated": "2026-10-08T19:47:13.345250+00:00",
   "count": 15,
   "sources": [
     {
@@ -60,6 +60,19 @@
     }
   ],
   "articles": [
+    {
+      "id": "9e95c394c47e",
+      "title": "NVIDIA Jetson to SiMa.ai Modalix MLSoC Migration Guide",
+      "link": "https://www.eetimes.com/nvidia-jetson-to-sima-ai-modalix-mlsoc-migration-guide/",
+      "summary": "This technical guide provides a practical framework for migrating machine learning models and applications from an NVIDIA/CUDA-based environment to the SiMa.ai Physical AI platform. It explains the key differences between the two deployment workflows, outlines the model and application migration pro",
+      "date": "2026-10-08T14:00:00+00:00",
+      "sourceId": "eetimes",
+      "cats": [
+        "process",
+        "material",
+        "equipment"
+      ]
+    },
     {
       "id": "88d0aa59c2bf",
       "title": "Rising Costs, Compute Demand Push ADAS Toward Modular AI",
@@ -144,19 +157,6 @@
       "link": "https://www.eetimes.com/amds-mark-papermaster-exclusive-video-interview-at-world-summit-ai/",
       "summary": "For AMD CTO Mark Papermaster, tailored computing and holistic design are key to delivering AI. The post AMD’s Mark Papermaster: Exclusive Video Interview at World Summit AI appeared first on EE Times.",
       "date": "2026-10-07T18:39:00+00:00",
-      "sourceId": "eetimes",
-      "cats": [
-        "process",
-        "material",
-        "equipment"
-      ]
-    },
-    {
-      "id": "06402ed392cd",
-      "title": "From Electrification to Architecture: The Next Automotive Era",
-      "link": "https://www.eetimes.com/from-electrification-to-architecture-the-next-automotive-era/",
-      "summary": "From electrification to software-defined vehicles, automotive innovation is driving new requirements for semiconductor packaging and test. The post From Electrification to Architecture: The Next Automotive Era appeared first on EE Times.",
-      "date": "2026-10-07T13:00:00+00:00",
       "sourceId": "eetimes",
       "cats": [
         "process",
