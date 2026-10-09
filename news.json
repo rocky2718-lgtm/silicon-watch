@@ -1,6 +1,6 @@
 {
-  "updated": "2026-10-09T00:14:05.346932+00:00",
-  "count": 15,
+  "updated": "2026-10-09T08:50:24.157291+00:00",
+  "count": 16,
   "sources": [
     {
       "id": "technews",
@@ -61,6 +61,58 @@
   ],
   "articles": [
     {
+      "id": "a22430955ea6",
+      "title": "Scaling 3D IC design: Trends, Challenges and Practical Workflows",
+      "link": "https://www.eetimes.com/scaling-3d-ic-design-trends-challenges-and-practical-workflows/",
+      "summary": "Join us to discover how Siemens Innovator3D IC streamlines 3D IC design from planning to implementation! The post Scaling 3D IC design: Trends, Challenges and Practical Workflows appeared first on EE Times.",
+      "date": "2026-10-09T07:32:29+00:00",
+      "sourceId": "eetimes",
+      "cats": [
+        "process",
+        "material",
+        "equipment"
+      ]
+    },
+    {
+      "id": "7778437247f3",
+      "title": "合晶四度申請臺商回臺投資，178.8 億元擴大中科二林廠布局",
+      "link": "https://finance.technews.tw/2026/10/09/topco-scientific-4th-taiwan-investment-17-88bn-expand-erlin-plant/",
+      "summary": "矽晶圓大廠合晶科技持續擴大臺灣產能布局。經濟部投資臺灣事務所 8 日宣布，合晶第四度申請「歡迎臺商回臺投資行動 [&#8230;]",
+      "date": "2026-10-09T02:15:16+00:00",
+      "sourceId": "technews",
+      "cats": [
+        "market",
+        "process",
+        "material"
+      ]
+    },
+    {
+      "id": "0321ec11b42b",
+      "title": "比 High NA EUV 更強！ASML 下一代 Hyper NA EUV 有望 10 年內問世",
+      "link": "https://technews.tw/2026/10/09/asml-next-gen-hyper-na-euv-stronger-high-na-expected-10-years/",
+      "summary": "半導體微影設備龍頭艾司摩爾（ASML）持續推進下一代極紫外光（EUV）技術。據外電報導，ASML 與光學合作夥 [&#8230;]",
+      "date": "2026-10-09T01:20:09+00:00",
+      "sourceId": "technews",
+      "cats": [
+        "market",
+        "process",
+        "material"
+      ]
+    },
+    {
+      "id": "727df11d2fe6",
+      "title": "SK 海力士來台釋千億大單，找上力成、和碩代工，挹注兩台廠營運熱轉",
+      "link": "https://technews.tw/2026/10/09/solidigm-taps-pti-and-pegatron-for-outsourcing/",
+      "summary": "韓國記憶體大廠 SK 海力士集團強攻 AI，旗下 NAND 快閃記憶體暨固態硬碟（SSD）大廠 Solidig [&#8230;]",
+      "date": "2026-10-09T01:00:15+00:00",
+      "sourceId": "technews",
+      "cats": [
+        "market",
+        "process",
+        "material"
+      ]
+    },
+    {
       "id": "8c87bd7351bc",
       "title": "格羅方德與台積電簽署 20 億美元協議，於紐約建立 CoWoS 矽中介層供應鏈",
       "link": "https://finance.technews.tw/2026/10/09/globalfoundries-signs-2-billion-deal-with-tsmc/",
@@ -113,50 +165,11 @@
       ]
     },
     {
-      "id": "3baa657eb5e8",
-      "title": "旺矽9月營收20.48 億元",
-      "link": "https://finance.technews.tw/2026/10/08/mpi-6223-202609-financial-report/",
-      "summary": "旺矽（6223）今（8）日公布 9 月營收，達 20.48 億元，較 8 月成長 -0.0%，較去年同期成長 [&#8230;]",
-      "date": "2026-10-08T10:30:10+00:00",
-      "sourceId": "technews",
-      "cats": [
-        "market",
-        "process",
-        "material"
-      ]
-    },
-    {
-      "id": "88f6bff160ef",
-      "title": "記憶體成本暴漲壓縮利潤，三星第四季手機產量恐大砍三成",
-      "link": "https://finance.technews.tw/2026/10/08/samsung-is-reportedly-making-30-fewer-phones-because-selling-them-isnt-paying-off-anymore/",
-      "summary": "三星電子傳出第四季大幅調降智慧手機產量，幅度最高可達三成，主因是 AI 需求推升記憶體價格，讓手機事業的成本壓 [&#8230;]",
-      "date": "2026-10-08T09:41:07+00:00",
-      "sourceId": "technews",
-      "cats": [
-        "market",
-        "process",
-        "material"
-      ]
-    },
-    {
       "id": "aba419149e7d",
       "title": "Rohm Semiconductor Expands Back-End Chip Manufacturing Outsourcing",
       "link": "https://www.eetimes.com/rohm-semiconductor-expands-back-end-chip-manufacturing-outsourcing/",
       "summary": "Rohm Semiconductor retains wafer fabrication in-house as it expands its back-end semiconductor operations and R&#038;D footprint in India. The post Rohm Semiconductor Expands Back-End Chip Manufacturing Outsourcing appeared first on EE Times.",
       "date": "2026-10-08T07:18:51+00:00",
-      "sourceId": "eetimes",
-      "cats": [
-        "process",
-        "material",
-        "equipment"
-      ]
-    },
-    {
-      "id": "f5a2c0b3791d",
-      "title": "AMD’s Mark Papermaster: Exclusive Video Interview at World Summit AI",
-      "link": "https://www.eetimes.com/amds-mark-papermaster-exclusive-video-interview-at-world-summit-ai/",
-      "summary": "For AMD CTO Mark Papermaster, tailored computing and holistic design are key to delivering AI. The post AMD’s Mark Papermaster: Exclusive Video Interview at World Summit AI appeared first on EE Times.",
-      "date": "2026-10-07T18:39:00+00:00",
       "sourceId": "eetimes",
       "cats": [
         "process",
