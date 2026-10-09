@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-09T16:55:53.358661+00:00",
+  "updated": "2026-10-09T22:32:24.258244+00:00",
   "count": 16,
   "sources": [
     {
@@ -61,11 +61,11 @@
   ],
   "articles": [
     {
-      "id": "2e116e41ad3d",
-      "title": "Connecting Chiplets Isn’t Enough – Solving the Data Movement Challenge in Multi-Die Systems",
-      "link": "https://www.eetimes.com/connecting-chiplets-isnt-enough-solving-the-data-movement-challenge-in-multi-die-systems/",
-      "summary": "Join this BitCast and explore how extending NoC connectivity across die boundaries enables engineering teams to scale from monolithic SoCs to multi-die architectures. The post Connecting Chiplets Isn’t Enough &#8211; Solving the Data Movement Challenge in Multi-Die Systems appeared first on EE Times",
-      "date": "2026-10-09T14:21:07+00:00",
+      "id": "5d4a73ea019c",
+      "title": "Manfred Horstmann: GlobalFoundries Bets on FDX Fusion for Physical AI",
+      "link": "https://www.eetimes.com/manfred-horstmann-globalfoundries-bets-on-fdx-fusion-for-physical-ai/",
+      "summary": "GlobalFoundries said strained-silicon FD-SOI can deliver 7-nm-class performance without EUV and open a new market for Europe. The post Manfred Horstmann: GlobalFoundries Bets on FDX Fusion for Physical AI appeared first on EE Times.",
+      "date": "2026-10-09T19:00:00+00:00",
       "sourceId": "eetimes",
       "cats": [
         "process",
@@ -74,11 +74,11 @@
       ]
     },
     {
-      "id": "5d4a73ea019c",
-      "title": "Manfred Horstmann: GlobalFoundries Bets on FDX Fusion for Physical AI",
-      "link": "https://www.eetimes.com/manfred-horstmann-globalfoundries-bets-on-fdx-fusion-for-physical-ai/",
-      "summary": "GlobalFoundries said strained-silicon FD-SOI can deliver 7-nm-class performance without EUV and open a new market for Europe. The post Manfred Horstmann: GlobalFoundries Bets on FDX Fusion for Physical AI appeared first on EE Times.",
-      "date": "2026-10-09T14:11:55+00:00",
+      "id": "2e116e41ad3d",
+      "title": "Connecting Chiplets Isn’t Enough – Solving the Data Movement Challenge in Multi-Die Systems",
+      "link": "https://www.eetimes.com/connecting-chiplets-isnt-enough-solving-the-data-movement-challenge-in-multi-die-systems/",
+      "summary": "Join this BitCast and explore how extending NoC connectivity across die boundaries enables engineering teams to scale from monolithic SoCs to multi-die architectures. The post Connecting Chiplets Isn’t Enough &#8211; Solving the Data Movement Challenge in Multi-Die Systems appeared first on EE Times",
+      "date": "2026-10-09T14:21:07+00:00",
       "sourceId": "eetimes",
       "cats": [
         "process",
