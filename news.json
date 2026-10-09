@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-08T19:47:13.345250+00:00",
+  "updated": "2026-10-09T00:14:05.346932+00:00",
   "count": 15,
   "sources": [
     {
@@ -61,6 +61,32 @@
   ],
   "articles": [
     {
+      "id": "8c87bd7351bc",
+      "title": "格羅方德與台積電簽署 20 億美元協議，於紐約建立 CoWoS 矽中介層供應鏈",
+      "link": "https://finance.technews.tw/2026/10/09/globalfoundries-signs-2-billion-deal-with-tsmc/",
+      "summary": "美國半導體晶圓代工廠格羅方德（GlobalFoundries）於2026年10月8日宣布，已與台積電達成一項多 [&#8230;]",
+      "date": "2026-10-08T22:30:50+00:00",
+      "sourceId": "technews",
+      "cats": [
+        "market",
+        "process",
+        "material"
+      ]
+    },
+    {
+      "id": "376bc90c5db3",
+      "title": "聯發科第 3 季營收 1,680 億元超財測創新高，ASIC 市場表現受期待",
+      "link": "https://finance.technews.tw/2026/10/09/mediateks-third-quarter-revenue-of-168-billion-yuan-exceeded-financial-forecasts-and-hit-a-new-high/",
+      "summary": "IC設計龍頭聯發科公布2026年9月合併營收為新台幣553.99億元，較8月份減少13.69%、較2025年同 [&#8230;]",
+      "date": "2026-10-08T22:00:44+00:00",
+      "sourceId": "technews",
+      "cats": [
+        "market",
+        "process",
+        "material"
+      ]
+    },
+    {
       "id": "9e95c394c47e",
       "title": "NVIDIA Jetson to SiMa.ai Modalix MLSoC Migration Guide",
       "link": "https://www.eetimes.com/nvidia-jetson-to-sima-ai-modalix-mlsoc-migration-guide/",
@@ -105,32 +131,6 @@
       "link": "https://finance.technews.tw/2026/10/08/samsung-is-reportedly-making-30-fewer-phones-because-selling-them-isnt-paying-off-anymore/",
       "summary": "三星電子傳出第四季大幅調降智慧手機產量，幅度最高可達三成，主因是 AI 需求推升記憶體價格，讓手機事業的成本壓 [&#8230;]",
       "date": "2026-10-08T09:41:07+00:00",
-      "sourceId": "technews",
-      "cats": [
-        "market",
-        "process",
-        "material"
-      ]
-    },
-    {
-      "id": "731e7325d6a0",
-      "title": "矽力*-KY9月營收25.11 億元",
-      "link": "https://finance.technews.tw/2026/10/08/silergy-6415-202609-financial-report/",
-      "summary": "矽力*-KY（6415）今（8）日公布 9 月營收，達 25.11 億元，較 8 月成長 3.9%，較去年同期 [&#8230;]",
-      "date": "2026-10-08T09:10:05+00:00",
-      "sourceId": "technews",
-      "cats": [
-        "market",
-        "process",
-        "material"
-      ]
-    },
-    {
-      "id": "f531d3883cd2",
-      "title": "聯發科9月營收553.99 億元",
-      "link": "https://finance.technews.tw/2026/10/08/mtk-2454-202609-financial-report/",
-      "summary": "聯發科（2454）今（8）日公布 9 月營收，達 553.99 億元，較 8 月成長 -13.7%，較去年同期 [&#8230;]",
-      "date": "2026-10-08T09:10:03+00:00",
       "sourceId": "technews",
       "cats": [
         "market",
