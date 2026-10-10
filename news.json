@@ -1,6 +1,6 @@
 {
-  "updated": "2026-10-09T22:32:24.258244+00:00",
-  "count": 16,
+  "updated": "2026-10-10T05:34:47.359085+00:00",
+  "count": 15,
   "sources": [
     {
       "id": "technews",
@@ -61,11 +61,50 @@
   ],
   "articles": [
     {
+      "id": "71b62e981896",
+      "title": "涉非法轉運 25 億美元輝達 AI 晶片至中國！美超微承包台商在美認罪",
+      "link": "https://finance.technews.tw/2026/10/10/ting-wei-sun/",
+      "summary": "美國伺服器大廠美超微（Super Micro）共同創辦人廖益賢（Yih-Shyan Liaw）、台灣辦公室銷售 [&#8230;]",
+      "date": "2026-10-10T01:36:21+00:00",
+      "sourceId": "technews",
+      "cats": [
+        "market",
+        "process",
+        "material"
+      ]
+    },
+    {
+      "id": "d538a546ec0f",
+      "title": "獲利分紅成主戰場，勞資都要面對的課題，台灣美光釀罷工危機，高科技業新考驗",
+      "link": "https://finance.technews.tw/2026/10/10/strike-risk-looms-at-micron-taiwan/",
+      "summary": "AI 為記憶體產業創造史上最好的獲利表現，也為業者帶來勞資關係及員工權益的新課題。走向罷工必然是兩敗俱傷，勞資 [&#8230;]",
+      "date": "2026-10-10T01:00:31+00:00",
+      "sourceId": "technews",
+      "cats": [
+        "market",
+        "process",
+        "material"
+      ]
+    },
+    {
+      "id": "be26988e44a4",
+      "title": "毛利率衝破 87% 遠超台積電！川湖 40 年只做滑軌，AI 伺服器市占近八成",
+      "link": "https://finance.technews.tw/2026/10/10/king-slide-success-story-revealed/",
+      "summary": "高雄路竹「慧賢宮」最近聲名大噪，因為宮廟座上神明，被發現是股后川湖林家長期信仰寄託，其中濟公更是林家信仰的重要 [&#8230;]",
+      "date": "2026-10-10T00:00:27+00:00",
+      "sourceId": "technews",
+      "cats": [
+        "market",
+        "process",
+        "material"
+      ]
+    },
+    {
       "id": "5d4a73ea019c",
       "title": "Manfred Horstmann: GlobalFoundries Bets on FDX Fusion for Physical AI",
       "link": "https://www.eetimes.com/manfred-horstmann-globalfoundries-bets-on-fdx-fusion-for-physical-ai/",
       "summary": "GlobalFoundries said strained-silicon FD-SOI can deliver 7-nm-class performance without EUV and open a new market for Europe. The post Manfred Horstmann: GlobalFoundries Bets on FDX Fusion for Physical AI appeared first on EE Times.",
-      "date": "2026-10-09T19:00:00+00:00",
+      "date": "2026-10-09T22:00:00+00:00",
       "sourceId": "eetimes",
       "cats": [
         "process",
@@ -105,58 +144,6 @@
       "link": "https://finance.technews.tw/2026/10/09/topco-scientific-4th-taiwan-investment-17-88bn-expand-erlin-plant/",
       "summary": "矽晶圓大廠合晶科技持續擴大臺灣產能布局。經濟部投資臺灣事務所 8 日宣布，合晶第四度申請「歡迎臺商回臺投資行動 [&#8230;]",
       "date": "2026-10-09T02:15:16+00:00",
-      "sourceId": "technews",
-      "cats": [
-        "market",
-        "process",
-        "material"
-      ]
-    },
-    {
-      "id": "0321ec11b42b",
-      "title": "比 High NA EUV 更強！ASML 下一代 Hyper NA EUV 有望 10 年內問世",
-      "link": "https://technews.tw/2026/10/09/asml-next-gen-hyper-na-euv-stronger-high-na-expected-10-years/",
-      "summary": "半導體微影設備龍頭艾司摩爾（ASML）持續推進下一代極紫外光（EUV）技術。據外電報導，ASML 與光學合作夥 [&#8230;]",
-      "date": "2026-10-09T01:20:09+00:00",
-      "sourceId": "technews",
-      "cats": [
-        "market",
-        "process",
-        "material"
-      ]
-    },
-    {
-      "id": "727df11d2fe6",
-      "title": "SK 海力士來台釋千億大單，找上力成、和碩代工，挹注兩台廠營運熱轉",
-      "link": "https://technews.tw/2026/10/09/solidigm-taps-pti-and-pegatron-for-outsourcing/",
-      "summary": "韓國記憶體大廠 SK 海力士集團強攻 AI，旗下 NAND 快閃記憶體暨固態硬碟（SSD）大廠 Solidig [&#8230;]",
-      "date": "2026-10-09T01:00:15+00:00",
-      "sourceId": "technews",
-      "cats": [
-        "market",
-        "process",
-        "material"
-      ]
-    },
-    {
-      "id": "8c87bd7351bc",
-      "title": "格羅方德與台積電簽署 20 億美元協議，於紐約建立 CoWoS 矽中介層供應鏈",
-      "link": "https://finance.technews.tw/2026/10/09/globalfoundries-signs-2-billion-deal-with-tsmc/",
-      "summary": "美國半導體晶圓代工廠格羅方德（GlobalFoundries）於2026年10月8日宣布，已與台積電達成一項多 [&#8230;]",
-      "date": "2026-10-08T22:30:50+00:00",
-      "sourceId": "technews",
-      "cats": [
-        "market",
-        "process",
-        "material"
-      ]
-    },
-    {
-      "id": "376bc90c5db3",
-      "title": "聯發科第三季營收 1,680 億元超財測創新高，ASIC 市場表現受期待",
-      "link": "https://finance.technews.tw/2026/10/09/mediateks-third-quarter-revenue-of-168-billion-yuan-exceeded-financial-forecasts-and-hit-a-new-high/",
-      "summary": "IC設計龍頭聯發科公布2026年9月合併營收為新台幣553.99億元，較8月份減少13.69%、較2025年同 [&#8230;]",
-      "date": "2026-10-08T22:00:44+00:00",
       "sourceId": "technews",
       "cats": [
         "market",
