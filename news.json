@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-10T05:34:47.359085+00:00",
+  "updated": "2026-10-10T12:20:13.617265+00:00",
   "count": 15,
   "sources": [
     {
@@ -60,6 +60,19 @@
     }
   ],
   "articles": [
+    {
+      "id": "a6d9f64f5452",
+      "title": "台股高檔震盪「高息型」最吃香！盤點 12 檔 ETF 規模逆勢創新高",
+      "link": "https://finance.technews.tw/2026/10/10/high-interest-type/",
+      "summary": "台股大盤創高後拉回整理，但根據 CMONEY 統計顯示，包括群益半導體收益（00927）、國泰永續高股息（00 [&#8230;]",
+      "date": "2026-10-10T07:20:05+00:00",
+      "sourceId": "technews",
+      "cats": [
+        "market",
+        "process",
+        "material"
+      ]
+    },
     {
       "id": "71b62e981896",
       "title": "涉非法轉運 25 億美元輝達 AI 晶片至中國！美超微承包台商在美認罪",
@@ -136,19 +149,6 @@
         "process",
         "material",
         "equipment"
-      ]
-    },
-    {
-      "id": "7778437247f3",
-      "title": "合晶四度申請臺商回臺投資，178.8 億元擴大中科二林廠布局",
-      "link": "https://finance.technews.tw/2026/10/09/topco-scientific-4th-taiwan-investment-17-88bn-expand-erlin-plant/",
-      "summary": "矽晶圓大廠合晶科技持續擴大臺灣產能布局。經濟部投資臺灣事務所 8 日宣布，合晶第四度申請「歡迎臺商回臺投資行動 [&#8230;]",
-      "date": "2026-10-09T02:15:16+00:00",
-      "sourceId": "technews",
-      "cats": [
-        "market",
-        "process",
-        "material"
       ]
     },
     {
