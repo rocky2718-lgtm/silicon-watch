@@ -1,6 +1,6 @@
 {
-  "updated": "2026-10-11T05:30:57.899903+00:00",
-  "count": 15,
+  "updated": "2026-10-11T12:36:24.144346+00:00",
+  "count": 14,
   "sources": [
     {
       "id": "technews",
@@ -61,6 +61,19 @@
   ],
   "articles": [
     {
+      "id": "dc9dd945db25",
+      "title": "澳洲 UNSW 攜手 UtmoLight，大面積鈣鈦礦太陽能次模組效率達 23.5% 創世界紀錄",
+      "link": "https://technews.tw/2026/10/11/perovskite-solar-efficiency-hits-new-record/",
+      "summary": "澳洲新南威爾斯大學（UNSW）與中國鈣鈦礦模組製造商 UtmoLight 攜手合作，憑藉省去氧化鎳層的創新製程 [&#8230;]",
+      "date": "2026-10-11T06:30:08+00:00",
+      "sourceId": "technews",
+      "cats": [
+        "market",
+        "process",
+        "material"
+      ]
+    },
+    {
       "id": "113929460c33",
       "title": "長鑫存儲準備年底推出 4F² DDR5 RDIMM 產品，預計超前三星 2 年",
       "link": "https://technews.tw/2026/10/11/cxmt-dram-memory-4f%c2%b2-ddr5/",
@@ -79,32 +92,6 @@
       "link": "https://finance.technews.tw/2026/10/10/high-interest-type/",
       "summary": "台股大盤創高後拉回整理，但根據 CMONEY 統計顯示，包括群益半導體收益（00927）、國泰永續高股息（00 [&#8230;]",
       "date": "2026-10-10T07:20:05+00:00",
-      "sourceId": "technews",
-      "cats": [
-        "market",
-        "process",
-        "material"
-      ]
-    },
-    {
-      "id": "71b62e981896",
-      "title": "涉非法轉運 25 億美元輝達 AI 晶片至中國！美超微承包台商在美認罪",
-      "link": "https://finance.technews.tw/2026/10/10/ting-wei-sun/",
-      "summary": "美國伺服器大廠美超微（Super Micro）共同創辦人廖益賢（Yih-Shyan Liaw）、台灣辦公室銷售 [&#8230;]",
-      "date": "2026-10-10T01:36:21+00:00",
-      "sourceId": "technews",
-      "cats": [
-        "market",
-        "process",
-        "material"
-      ]
-    },
-    {
-      "id": "d538a546ec0f",
-      "title": "獲利分紅成主戰場，勞資都要面對的課題，台灣美光釀罷工危機，高科技業新考驗",
-      "link": "https://finance.technews.tw/2026/10/10/strike-risk-looms-at-micron-taiwan/",
-      "summary": "AI 為記憶體產業創造史上最好的獲利表現，也為業者帶來勞資關係及員工權益的新課題。走向罷工必然是兩敗俱傷，勞資 [&#8230;]",
-      "date": "2026-10-10T01:00:31+00:00",
       "sourceId": "technews",
       "cats": [
         "market",
