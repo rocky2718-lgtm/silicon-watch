@@ -1,6 +1,6 @@
 {
-  "updated": "2026-10-11T18:45:02.423767+00:00",
-  "count": 14,
+  "updated": "2026-10-11T23:33:40.108658+00:00",
+  "count": 17,
   "sources": [
     {
       "id": "technews",
@@ -61,6 +61,58 @@
   ],
   "articles": [
     {
+      "id": "7f322804ac98",
+      "title": "三星、SK 海力士記憶體賺太多，ASML 調漲零組件 10% 價格分享利潤獲同意",
+      "link": "https://finance.technews.tw/2026/10/12/asml-raises-component-prices-by-10-to-share-profits/",
+      "summary": "全球半導體微影設備龍頭艾斯摩爾（ASML）將針對銷往韓國的設備替換備品全面調漲價格 10%。此項價格調漲涵蓋極 [&#8230;]",
+      "date": "2026-10-11T23:30:57+00:00",
+      "sourceId": "technews",
+      "cats": [
+        "market",
+        "process",
+        "material"
+      ]
+    },
+    {
+      "id": "5ee8e3da289a",
+      "title": "聯發科投資的矽谷新創 SIMO，耗時 15 年打造企業「絕對不斷線」神級演算法",
+      "link": "https://finance.technews.tw/2026/10/12/how-simo-builds-always-on-smart-connectivity-systems/",
+      "summary": "短短幾秒的網路卡頓，對企業就是真金白銀的損失。獲聯發科投資的美國業者 SIMO，耗時 15 年打造新技術，成為 [&#8230;]",
+      "date": "2026-10-11T23:10:10+00:00",
+      "sourceId": "technews",
+      "cats": [
+        "market",
+        "process",
+        "material"
+      ]
+    },
+    {
+      "id": "b61b23dfeb8c",
+      "title": "三星要用記憶體換晶圓代工，AMD 認為仍存在風險不放手",
+      "link": "https://finance.technews.tw/2026/10/12/samsung-to-trade-memory-chips-for-chip-manufacturing-services/",
+      "summary": "晶片大廠超微（AMD）執行長蘇姿丰（Lisa Su）造訪韓國，目的在為其 AI 加速器確保高頻寬記憶體（HBM [&#8230;]",
+      "date": "2026-10-11T23:00:58+00:00",
+      "sourceId": "technews",
+      "cats": [
+        "market",
+        "process",
+        "material"
+      ]
+    },
+    {
+      "id": "0d5aa2d09c96",
+      "title": "台積電 15 日將公布第三季財報，市場聚焦三大關鍵將影響股價與產業走向",
+      "link": "https://finance.technews.tw/2026/10/12/tsmc-will-release-its-third-quarter-financial-report-on-the-15th/",
+      "summary": "全球晶圓代工龍頭台積電將於 15 日公布第三季財，雖然台積電先前已揭露第三季單季營收較2025年同期大幅成長 [&#8230;]",
+      "date": "2026-10-11T23:00:46+00:00",
+      "sourceId": "technews",
+      "cats": [
+        "market",
+        "process",
+        "material"
+      ]
+    },
+    {
       "id": "dc9dd945db25",
       "title": "澳洲 UNSW 攜手 UtmoLight，大面積鈣鈦礦太陽能次模組效率達 23.5% 創世界紀錄",
       "link": "https://technews.tw/2026/10/11/perovskite-solar-efficiency-hits-new-record/",
@@ -79,19 +131,6 @@
       "link": "https://technews.tw/2026/10/11/cxmt-dram-memory-4f%c2%b2-ddr5/",
       "summary": "長鑫存儲近日透露 4F² DRAM 架構研發取得新進展，並預告年底前推出結合 4F² 架構、混合鍵合等技術的新 [&#8230;]",
       "date": "2026-10-11T04:01:46+00:00",
-      "sourceId": "technews",
-      "cats": [
-        "market",
-        "process",
-        "material"
-      ]
-    },
-    {
-      "id": "a6d9f64f5452",
-      "title": "台股高檔震盪「高息型」最吃香！盤點 12 檔 ETF 規模逆勢創新高",
-      "link": "https://finance.technews.tw/2026/10/10/high-interest-type/",
-      "summary": "台股大盤創高後拉回整理，但根據 CMONEY 統計顯示，包括群益半導體收益（00927）、國泰永續高股息（00 [&#8230;]",
-      "date": "2026-10-10T07:20:05+00:00",
       "sourceId": "technews",
       "cats": [
         "market",
