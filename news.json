@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-10T23:24:05.513051+00:00",
+  "updated": "2026-10-11T05:30:57.899903+00:00",
   "count": 15,
   "sources": [
     {
@@ -61,6 +61,19 @@
   ],
   "articles": [
     {
+      "id": "113929460c33",
+      "title": "長鑫存儲準備年底推出 4F² DDR5 RDIMM 產品，預計超前三星 2 年",
+      "link": "https://technews.tw/2026/10/11/cxmt-dram-memory-4f%c2%b2-ddr5/",
+      "summary": "長鑫存儲近日透露 4F² DRAM 架構研發取得新進展，並預告年底前推出結合 4F² 架構、混合鍵合等技術的新 [&#8230;]",
+      "date": "2026-10-11T04:01:46+00:00",
+      "sourceId": "technews",
+      "cats": [
+        "market",
+        "process",
+        "material"
+      ]
+    },
+    {
       "id": "a6d9f64f5452",
       "title": "台股高檔震盪「高息型」最吃香！盤點 12 檔 ETF 規模逆勢創新高",
       "link": "https://finance.technews.tw/2026/10/10/high-interest-type/",
@@ -92,19 +105,6 @@
       "link": "https://finance.technews.tw/2026/10/10/strike-risk-looms-at-micron-taiwan/",
       "summary": "AI 為記憶體產業創造史上最好的獲利表現，也為業者帶來勞資關係及員工權益的新課題。走向罷工必然是兩敗俱傷，勞資 [&#8230;]",
       "date": "2026-10-10T01:00:31+00:00",
-      "sourceId": "technews",
-      "cats": [
-        "market",
-        "process",
-        "material"
-      ]
-    },
-    {
-      "id": "be26988e44a4",
-      "title": "毛利率衝破 87% 遠超台積電！川湖 40 年只做滑軌，AI 伺服器市占近八成",
-      "link": "https://finance.technews.tw/2026/10/10/king-slide-success-story-revealed/",
-      "summary": "高雄路竹「慧賢宮」最近聲名大噪，因為宮廟座上神明，被發現是股后川湖林家長期信仰寄託，其中濟公更是林家信仰的重要 [&#8230;]",
-      "date": "2026-10-10T00:00:27+00:00",
       "sourceId": "technews",
       "cats": [
         "market",
