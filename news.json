@@ -1,6 +1,6 @@
 {
-  "updated": "2026-10-11T23:33:40.108658+00:00",
-  "count": 17,
+  "updated": "2026-10-12T05:41:22.060994+00:00",
+  "count": 19,
   "sources": [
     {
       "id": "technews",
@@ -61,11 +61,11 @@
   ],
   "articles": [
     {
-      "id": "7f322804ac98",
-      "title": "三星、SK 海力士記憶體賺太多，ASML 調漲零組件 10% 價格分享利潤獲同意",
-      "link": "https://finance.technews.tw/2026/10/12/asml-raises-component-prices-by-10-to-share-profits/",
-      "summary": "全球半導體微影設備龍頭艾斯摩爾（ASML）將針對銷往韓國的設備替換備品全面調漲價格 10%。此項價格調漲涵蓋極 [&#8230;]",
-      "date": "2026-10-11T23:30:57+00:00",
+      "id": "f4b3f81b60ad",
+      "title": "與博通深化合作！中磊發表 RDK 機上盒硬體設計，打造次世代影音開發平台",
+      "link": "https://technews.tw/2026/10/12/sercomm-corporation-broadcom/",
+      "summary": "全球電信與寬頻設備廠商中磊電子宣布與博通合作，將採用 Broadcom BCM74116 晶片方案的 RDK [&#8230;]",
+      "date": "2026-10-12T05:10:24+00:00",
       "sourceId": "technews",
       "cats": [
         "market",
@@ -74,11 +74,11 @@
       ]
     },
     {
-      "id": "5ee8e3da289a",
-      "title": "聯發科投資的矽谷新創 SIMO，耗時 15 年打造企業「絕對不斷線」神級演算法",
-      "link": "https://finance.technews.tw/2026/10/12/how-simo-builds-always-on-smart-connectivity-systems/",
-      "summary": "短短幾秒的網路卡頓，對企業就是真金白銀的損失。獲聯發科投資的美國業者 SIMO，耗時 15 年打造新技術，成為 [&#8230;]",
-      "date": "2026-10-11T23:10:10+00:00",
+      "id": "7fee5a93f843",
+      "title": "美銀唱多 Soitec、目標價翻倍  看旺矽光子題材",
+      "link": "https://technews.tw/2026/10/12/bofa-bullish-on-soitec-sharply-raises-price-target/",
+      "summary": "美銀（BofA）看多法國半導體材料大廠 Soitec 並大幅調升目標價，主因看好公司在矽光子 SOI 基板市場 [&#8230;]",
+      "date": "2026-10-12T03:30:51+00:00",
       "sourceId": "technews",
       "cats": [
         "market",
@@ -87,11 +87,11 @@
       ]
     },
     {
-      "id": "b61b23dfeb8c",
-      "title": "三星要用記憶體換晶圓代工，AMD 認為仍存在風險不放手",
-      "link": "https://finance.technews.tw/2026/10/12/samsung-to-trade-memory-chips-for-chip-manufacturing-services/",
-      "summary": "晶片大廠超微（AMD）執行長蘇姿丰（Lisa Su）造訪韓國，目的在為其 AI 加速器確保高頻寬記憶體（HBM [&#8230;]",
-      "date": "2026-10-11T23:00:58+00:00",
+      "id": "5724bbee7868",
+      "title": "川普推動 AI 改稱「超級智慧」，科技巨頭紛紛響應",
+      "link": "https://technews.tw/2026/10/12/trump-s-push-to-rename-ai-gains-support-across-silicon-valley/",
+      "summary": "美國總統川普（Donald Trump）宣布將「人工智慧」（Artificial Intelligence，A [&#8230;]",
+      "date": "2026-10-12T03:24:15+00:00",
       "sourceId": "technews",
       "cats": [
         "market",
@@ -100,11 +100,11 @@
       ]
     },
     {
-      "id": "0d5aa2d09c96",
-      "title": "台積電 15 日將公布第三季財報，市場聚焦三大關鍵將影響股價與產業走向",
-      "link": "https://finance.technews.tw/2026/10/12/tsmc-will-release-its-third-quarter-financial-report-on-the-15th/",
-      "summary": "全球晶圓代工龍頭台積電將於 15 日公布第三季財，雖然台積電先前已揭露第三季單季營收較2025年同期大幅成長 [&#8230;]",
-      "date": "2026-10-11T23:00:46+00:00",
+      "id": "6762a5368b51",
+      "title": "AI 加持  機器人廠安川電機訂單破紀錄  上修純益預估",
+      "link": "https://finance.technews.tw/2026/10/12/yaskawa-orders-hit-record-raises-profit-forecast/",
+      "summary": "AI、半導體相關需求加持，日本機器人大廠安川電機（Yaskawa Electric）上季訂單額大增近四成、刷新 [&#8230;]",
+      "date": "2026-10-12T03:20:18+00:00",
       "sourceId": "technews",
       "cats": [
         "market",
@@ -113,11 +113,11 @@
       ]
     },
     {
-      "id": "dc9dd945db25",
-      "title": "澳洲 UNSW 攜手 UtmoLight，大面積鈣鈦礦太陽能次模組效率達 23.5% 創世界紀錄",
-      "link": "https://technews.tw/2026/10/11/perovskite-solar-efficiency-hits-new-record/",
-      "summary": "澳洲新南威爾斯大學（UNSW）與中國鈣鈦礦模組製造商 UtmoLight 攜手合作，憑藉省去氧化鎳層的創新製程 [&#8230;]",
-      "date": "2026-10-11T06:30:08+00:00",
+      "id": "a22b6fcc5cc7",
+      "title": "Q3 全球 PC 出貨量暴跌逾二成，AI 搶走記憶體成衰退元兇",
+      "link": "https://technews.tw/2026/10/12/pc-shipments-tumble-over-20-percent-in-3q26-as-chip-shortages-bite/",
+      "summary": "研究機構最新統計顯示，全球個人電腦市場在今年第三季明顯降溫，出貨量比 2025 年同期大幅下滑，反映記憶體與零 [&#8230;]",
+      "date": "2026-10-12T03:00:15+00:00",
       "sourceId": "technews",
       "cats": [
         "market",
@@ -126,11 +126,37 @@
       ]
     },
     {
-      "id": "113929460c33",
-      "title": "長鑫存儲準備年底推出 4F² DDR5 RDIMM 產品，估超前三星兩年",
-      "link": "https://technews.tw/2026/10/11/cxmt-dram-memory-4f%c2%b2-ddr5/",
-      "summary": "長鑫存儲近日透露 4F² DRAM 架構研發取得新進展，並預告年底前推出結合 4F² 架構、混合鍵合等技術的新 [&#8230;]",
-      "date": "2026-10-11T04:01:46+00:00",
+      "id": "4e321ca00bd6",
+      "title": "東芝持續出售鎧俠股份、持股比重跌破 12%",
+      "link": "https://finance.technews.tw/2026/10/12/toshiba-kioxia-shares-stake-below-12-percent/",
+      "summary": "東芝（Toshiba）為日本 NAND Flash 廠鎧俠（Kioxia）的大股東，不過東芝持續出售鎧俠股份， [&#8230;]",
+      "date": "2026-10-12T02:55:28+00:00",
+      "sourceId": "technews",
+      "cats": [
+        "market",
+        "process",
+        "material"
+      ]
+    },
+    {
+      "id": "72a5f78d658a",
+      "title": "1,000 億參數 AI 塞進手機？高通點出關鍵門檻：記憶體容量與散熱瓶頸",
+      "link": "https://technews.tw/2026/10/12/qualcomm-ceo-says-phones-may-need-100b-parameter-ai-models-by-2028/",
+      "summary": "高通（Qualcomm）執行長克里斯蒂亞諾·艾蒙（Cristiano Amon）近日表示，已有多家走在 AI [&#8230;]",
+      "date": "2026-10-12T02:35:36+00:00",
+      "sourceId": "technews",
+      "cats": [
+        "market",
+        "process",
+        "material"
+      ]
+    },
+    {
+      "id": "6923a84ee5e8",
+      "title": "三星晶圓代工越來越看不到台積電車尾燈，第三季市占率將進一步擴大",
+      "link": "https://technews.tw/2026/10/12/samsungs-foundry-business-cant-catch-up-with-tsmc/",
+      "summary": "台積電與三星在晶圓代工事業上的業績表現呈現顯著分化，由於三星晶圓代工事業部 2026 年第 3 季的營收僅較 [&#8230;]",
+      "date": "2026-10-12T02:30:43+00:00",
       "sourceId": "technews",
       "cats": [
         "market",
