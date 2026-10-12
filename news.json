@@ -1,6 +1,6 @@
 {
-  "updated": "2026-10-12T15:09:48.227966+00:00",
-  "count": 16,
+  "updated": "2026-10-12T22:51:16.266953+00:00",
+  "count": 17,
   "sources": [
     {
       "id": "technews",
@@ -61,6 +61,58 @@
   ],
   "articles": [
     {
+      "id": "28d55c0c6912",
+      "title": "SIC 基板邁向 12 吋，台廠瞄準 AI 電源、先進封裝與通訊商機",
+      "link": "https://technews.tw/2026/10/13/sic-substrates-12-inch-taiwan-firms-target-ai-power-advanced-packaging-communication-opportunities/",
+      "summary": "隨 AI 電源及高頻通訊需求持續發展，台灣碳化矽（SiC）材料業者加速推進大尺寸晶圓技術，並逐步拓展 AI 散 [&#8230;]",
+      "date": "2026-10-12T22:00:54+00:00",
+      "sourceId": "technews",
+      "cats": [
+        "market",
+        "process",
+        "material"
+      ]
+    },
+    {
+      "id": "369c615542bf",
+      "title": "微軟 Maia 300 新晶片明年量產，關鍵運算 Chiplet 採台積電 N2P 製程",
+      "link": "https://technews.tw/2026/10/13/microsoft-maia-300-to-begin-production-deployments-in-2027/",
+      "summary": "邁入超級智慧（Super Intelligence）的時代，微軟跨入基礎設施全新階段。微軟 12 日發表 Az [&#8230;]",
+      "date": "2026-10-12T18:14:57+00:00",
+      "sourceId": "technews",
+      "cats": [
+        "market",
+        "process",
+        "material"
+      ]
+    },
+    {
+      "id": "2c0468077faa",
+      "title": "Applied Materials Bets $5B on a New Model for Chip Innovation",
+      "link": "https://www.eetimes.com/applied-materials-bets-5b-on-a-new-model-for-chip-innovation/",
+      "summary": "Applied Materials’ $5 billion EPIC Center brings chipmakers, equipment suppliers, and researchers together to accelerate semiconductor R&#038;D and commercialization. The post Applied Materials Bets $5B on a New Model for Chip Innovation appeared first on EE Times.",
+      "date": "2026-10-12T16:59:01+00:00",
+      "sourceId": "eetimes",
+      "cats": [
+        "process",
+        "material",
+        "equipment"
+      ]
+    },
+    {
+      "id": "e9dd8c26f35f",
+      "title": "Embedded Graphics on an MCU – Without an Accelerator",
+      "link": "https://www.eetimes.com/embedded-graphics-on-an-mcu-without-an-accelerator/",
+      "summary": "Join this webinar and learn how to add LCD graphics to MCU projects without a display controller, accelerator, or external DRAM. The post Embedded Graphics on an MCU – Without an Accelerator appeared first on EE Times.",
+      "date": "2026-10-12T16:49:28+00:00",
+      "sourceId": "eetimes",
+      "cats": [
+        "process",
+        "material",
+        "equipment"
+      ]
+    },
+    {
       "id": "41abbe75e853",
       "title": "EU CRA Readiness: 5 Steps Manufacturers Need to Take Now",
       "link": "https://www.eetimes.com/eu-cra-readiness-5-steps-manufacturers-need-to-take-now/",
@@ -113,32 +165,6 @@
       ]
     },
     {
-      "id": "2ec9a17b1e8d",
-      "title": "AI 需求點燃供需失衡，記憶體價格大漲驅動全球半導體營收狂增 119%",
-      "link": "https://finance.technews.tw/2026/10/12/soaring-memory-prices-drove-a-119-surge-in-global-semiconductor-revenue/",
-      "summary": "投資研究機構伯恩斯坦（Bernstein）最新分析指出，截至 2026 年 8 月的當年度全球半導體產業營收達 [&#8230;]",
-      "date": "2026-10-12T07:40:30+00:00",
-      "sourceId": "technews",
-      "cats": [
-        "market",
-        "process",
-        "material"
-      ]
-    },
-    {
-      "id": "ab595b905095",
-      "title": "部分聯發科晶片手機藏資安風險，出廠前惡意程式就先入住了",
-      "link": "https://infosecu.technews.tw/2026/10/12/mediatek-low-end-android-phone-midnight-mimosa/",
-      "summary": "資安業者 Bitdefender 近日揭露一項名為「Midnight Mimosa」的惡意程式攻擊行動，研究人 [&#8230;]",
-      "date": "2026-10-12T07:33:20+00:00",
-      "sourceId": "technews",
-      "cats": [
-        "market",
-        "process",
-        "material"
-      ]
-    },
-    {
       "id": "5d4a73ea019c",
       "title": "Manfred Horstmann: GlobalFoundries Bets on FDX Fusion for Physical AI",
       "link": "https://www.eetimes.com/manfred-horstmann-globalfoundries-bets-on-fdx-fusion-for-physical-ai/",
@@ -157,19 +183,6 @@
       "link": "https://www.eetimes.com/connecting-chiplets-isnt-enough-solving-the-data-movement-challenge-in-multi-die-systems/",
       "summary": "Join this BitCast and explore how extending NoC connectivity across die boundaries enables engineering teams to scale from monolithic SoCs to multi-die architectures. The post Connecting Chiplets Isn’t Enough &#8211; Solving the Data Movement Challenge in Multi-Die Systems appeared first on EE Times",
       "date": "2026-10-09T14:21:07+00:00",
-      "sourceId": "eetimes",
-      "cats": [
-        "process",
-        "material",
-        "equipment"
-      ]
-    },
-    {
-      "id": "a22430955ea6",
-      "title": "Scaling 3D IC design: Trends, Challenges and Practical Workflows",
-      "link": "https://www.eetimes.com/scaling-3d-ic-design-trends-challenges-and-practical-workflows/",
-      "summary": "Join us to discover how Siemens Innovator3D IC streamlines 3D IC design from planning to implementation! The post Scaling 3D IC design: Trends, Challenges and Practical Workflows appeared first on EE Times.",
-      "date": "2026-10-09T07:32:29+00:00",
       "sourceId": "eetimes",
       "cats": [
         "process",
