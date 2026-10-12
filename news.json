@@ -1,6 +1,6 @@
 {
-  "updated": "2026-10-12T05:41:22.060994+00:00",
-  "count": 19,
+  "updated": "2026-10-12T15:09:48.227966+00:00",
+  "count": 16,
   "sources": [
     {
       "id": "technews",
@@ -61,11 +61,24 @@
   ],
   "articles": [
     {
-      "id": "f4b3f81b60ad",
-      "title": "與博通深化合作！中磊發表 RDK 機上盒硬體設計，打造次世代影音開發平台",
-      "link": "https://technews.tw/2026/10/12/sercomm-corporation-broadcom/",
-      "summary": "全球電信與寬頻設備廠商中磊電子宣布與博通合作，將採用 Broadcom BCM74116 晶片方案的 RDK [&#8230;]",
-      "date": "2026-10-12T05:10:24+00:00",
+      "id": "41abbe75e853",
+      "title": "EU CRA Readiness: 5 Steps Manufacturers Need to Take Now",
+      "link": "https://www.eetimes.com/eu-cra-readiness-5-steps-manufacturers-need-to-take-now/",
+      "summary": "Consumer, industrial, networking, semiconductor, and software manufacturers face a broad product-cybersecurity regulation for the first time. The post EU CRA Readiness: 5 Steps Manufacturers Need to Take Now appeared first on EE Times.",
+      "date": "2026-10-12T13:00:00+00:00",
+      "sourceId": "eetimes",
+      "cats": [
+        "process",
+        "material",
+        "equipment"
+      ]
+    },
+    {
+      "id": "e2490ce9e1e1",
+      "title": "日月光投控 9 月和第三季營收創高，AI 先進封測幫大忙",
+      "link": "https://finance.technews.tw/2026/10/12/ase-fr-2609-q3/",
+      "summary": "半導體封測大廠日月光投控下午公布 9 月自結合併營收新台幣 881.3 億元，月增 7.2%、年增 45.5% [&#8230;]",
+      "date": "2026-10-12T09:50:18+00:00",
       "sourceId": "technews",
       "cats": [
         "market",
@@ -74,11 +87,11 @@
       ]
     },
     {
-      "id": "7fee5a93f843",
-      "title": "美銀唱多 Soitec、目標價翻倍  看旺矽光子題材",
-      "link": "https://technews.tw/2026/10/12/bofa-bullish-on-soitec-sharply-raises-price-target/",
-      "summary": "美銀（BofA）看多法國半導體材料大廠 Soitec 並大幅調升目標價，主因看好公司在矽光子 SOI 基板市場 [&#8230;]",
-      "date": "2026-10-12T03:30:51+00:00",
+      "id": "9ec3a5543272",
+      "title": "光罩9月營收月減1.2%",
+      "link": "https://finance.technews.tw/2026/10/12/tmc-2338-202609-financial-report/",
+      "summary": "光罩（2338）公布 9 月合併營收 4.89 億元，較上（8）月成長 -1.2%，與去年同期相比為年增 15 [&#8230;]",
+      "date": "2026-10-12T08:10:07+00:00",
       "sourceId": "technews",
       "cats": [
         "market",
@@ -87,11 +100,11 @@
       ]
     },
     {
-      "id": "5724bbee7868",
-      "title": "川普推動 AI 改稱「超級智慧」，科技巨頭紛紛響應",
-      "link": "https://technews.tw/2026/10/12/trump-s-push-to-rename-ai-gains-support-across-silicon-valley/",
-      "summary": "美國總統川普（Donald Trump）宣布將「人工智慧」（Artificial Intelligence，A [&#8230;]",
-      "date": "2026-10-12T03:24:15+00:00",
+      "id": "6fd9aa443903",
+      "title": "台股企業獲利上看 40%！群益點名矽光子、低軌衛星引領第四季多頭",
+      "link": "https://finance.technews.tw/2026/10/12/pcb-ccl-asic/",
+      "summary": "群益投信今日召開第四季投資展望，預估台股企業獲利成長率今年上看至 40%，並點名先進製程、先進封裝、廠務工程、 [&#8230;]",
+      "date": "2026-10-12T08:02:16+00:00",
       "sourceId": "technews",
       "cats": [
         "market",
@@ -100,11 +113,11 @@
       ]
     },
     {
-      "id": "6762a5368b51",
-      "title": "AI 加持  機器人廠安川電機訂單破紀錄  上修純益預估",
-      "link": "https://finance.technews.tw/2026/10/12/yaskawa-orders-hit-record-raises-profit-forecast/",
-      "summary": "AI、半導體相關需求加持，日本機器人大廠安川電機（Yaskawa Electric）上季訂單額大增近四成、刷新 [&#8230;]",
-      "date": "2026-10-12T03:20:18+00:00",
+      "id": "2ec9a17b1e8d",
+      "title": "AI 需求點燃供需失衡，記憶體價格大漲驅動全球半導體營收狂增 119%",
+      "link": "https://finance.technews.tw/2026/10/12/soaring-memory-prices-drove-a-119-surge-in-global-semiconductor-revenue/",
+      "summary": "投資研究機構伯恩斯坦（Bernstein）最新分析指出，截至 2026 年 8 月的當年度全球半導體產業營收達 [&#8230;]",
+      "date": "2026-10-12T07:40:30+00:00",
       "sourceId": "technews",
       "cats": [
         "market",
@@ -113,50 +126,11 @@
       ]
     },
     {
-      "id": "a22b6fcc5cc7",
-      "title": "Q3 全球 PC 出貨量暴跌逾二成，AI 搶走記憶體成衰退元兇",
-      "link": "https://technews.tw/2026/10/12/pc-shipments-tumble-over-20-percent-in-3q26-as-chip-shortages-bite/",
-      "summary": "研究機構最新統計顯示，全球個人電腦市場在今年第三季明顯降溫，出貨量比 2025 年同期大幅下滑，反映記憶體與零 [&#8230;]",
-      "date": "2026-10-12T03:00:15+00:00",
-      "sourceId": "technews",
-      "cats": [
-        "market",
-        "process",
-        "material"
-      ]
-    },
-    {
-      "id": "4e321ca00bd6",
-      "title": "東芝持續出售鎧俠股份、持股比重跌破 12%",
-      "link": "https://finance.technews.tw/2026/10/12/toshiba-kioxia-shares-stake-below-12-percent/",
-      "summary": "東芝（Toshiba）為日本 NAND Flash 廠鎧俠（Kioxia）的大股東，不過東芝持續出售鎧俠股份， [&#8230;]",
-      "date": "2026-10-12T02:55:28+00:00",
-      "sourceId": "technews",
-      "cats": [
-        "market",
-        "process",
-        "material"
-      ]
-    },
-    {
-      "id": "72a5f78d658a",
-      "title": "1,000 億參數 AI 塞進手機？高通點出關鍵門檻：記憶體容量與散熱瓶頸",
-      "link": "https://technews.tw/2026/10/12/qualcomm-ceo-says-phones-may-need-100b-parameter-ai-models-by-2028/",
-      "summary": "高通（Qualcomm）執行長克里斯蒂亞諾·艾蒙（Cristiano Amon）近日表示，已有多家走在 AI [&#8230;]",
-      "date": "2026-10-12T02:35:36+00:00",
-      "sourceId": "technews",
-      "cats": [
-        "market",
-        "process",
-        "material"
-      ]
-    },
-    {
-      "id": "6923a84ee5e8",
-      "title": "三星晶圓代工越來越看不到台積電車尾燈，第三季市占率將進一步擴大",
-      "link": "https://technews.tw/2026/10/12/samsungs-foundry-business-cant-catch-up-with-tsmc/",
-      "summary": "台積電與三星在晶圓代工事業上的業績表現呈現顯著分化，由於三星晶圓代工事業部 2026 年第 3 季的營收僅較 [&#8230;]",
-      "date": "2026-10-12T02:30:43+00:00",
+      "id": "ab595b905095",
+      "title": "部分聯發科晶片手機藏資安風險，出廠前惡意程式就先入住了",
+      "link": "https://infosecu.technews.tw/2026/10/12/mediatek-low-end-android-phone-midnight-mimosa/",
+      "summary": "資安業者 Bitdefender 近日揭露一項名為「Midnight Mimosa」的惡意程式攻擊行動，研究人 [&#8230;]",
+      "date": "2026-10-12T07:33:20+00:00",
       "sourceId": "technews",
       "cats": [
         "market",
@@ -196,19 +170,6 @@
       "link": "https://www.eetimes.com/scaling-3d-ic-design-trends-challenges-and-practical-workflows/",
       "summary": "Join us to discover how Siemens Innovator3D IC streamlines 3D IC design from planning to implementation! The post Scaling 3D IC design: Trends, Challenges and Practical Workflows appeared first on EE Times.",
       "date": "2026-10-09T07:32:29+00:00",
-      "sourceId": "eetimes",
-      "cats": [
-        "process",
-        "material",
-        "equipment"
-      ]
-    },
-    {
-      "id": "9e95c394c47e",
-      "title": "NVIDIA Jetson to SiMa.ai Modalix MLSoC Migration Guide",
-      "link": "https://www.eetimes.com/nvidia-jetson-to-sima-ai-modalix-mlsoc-migration-guide/",
-      "summary": "This technical guide provides a practical framework for migrating machine learning models and applications from an NVIDIA/CUDA-based environment to the SiMa.ai Physical AI platform. It explains the key differences between the two deployment workflows, outlines the model and application migration pro",
-      "date": "2026-10-08T14:00:00+00:00",
       "sourceId": "eetimes",
       "cats": [
         "process",
