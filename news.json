@@ -1,6 +1,6 @@
 {
-  "updated": "2026-10-12T22:51:16.266953+00:00",
-  "count": 17,
+  "updated": "2026-10-13T06:36:44.381676+00:00",
+  "count": 22,
   "sources": [
     {
       "id": "technews",
@@ -61,11 +61,11 @@
   ],
   "articles": [
     {
-      "id": "28d55c0c6912",
-      "title": "SIC 基板邁向 12 吋，台廠瞄準 AI 電源、先進封裝與通訊商機",
-      "link": "https://technews.tw/2026/10/13/sic-substrates-12-inch-taiwan-firms-target-ai-power-advanced-packaging-communication-opportunities/",
-      "summary": "隨 AI 電源及高頻通訊需求持續發展，台灣碳化矽（SiC）材料業者加速推進大尺寸晶圓技術，並逐步拓展 AI 散 [&#8230;]",
-      "date": "2026-10-12T22:00:54+00:00",
+      "id": "001ed6094672",
+      "title": "風電、光電與儲能齊聚，2026 智慧能源週登場",
+      "link": "https://technews.tw/2026/10/13/2026-smart-energy-week-wind-power-solar-power-energy-storage/",
+      "summary": "隨 AI 與半導體產業帶動用電需求成長，行政院長卓榮泰先前表示，台灣未來十年用電年均成長率可能高於原先預估的 [&#8230;]",
+      "date": "2026-10-13T06:30:49+00:00",
       "sourceId": "technews",
       "cats": [
         "market",
@@ -74,11 +74,115 @@
       ]
     },
     {
-      "id": "369c615542bf",
-      "title": "微軟 Maia 300 新晶片明年量產，關鍵運算 Chiplet 採台積電 N2P 製程",
-      "link": "https://technews.tw/2026/10/13/microsoft-maia-300-to-begin-production-deployments-in-2027/",
-      "summary": "邁入超級智慧（Super Intelligence）的時代，微軟跨入基礎設施全新階段。微軟 12 日發表 Az [&#8230;]",
-      "date": "2026-10-12T18:14:57+00:00",
+      "id": "e01e13d4ed80",
+      "title": "AMD 推出 Helion 以實現機櫃級代理式 AI 運算，預計於 2026 年 11 月提供",
+      "link": "https://technews.tw/2026/10/13/amd-launches-helion-for-rack-scale-agent-based-ai-computing/",
+      "summary": "半導體大廠 AMD 於 13 日宣布推出 AMD Helion 代理式 AI 機櫃，基於開放運算計畫（Open [&#8230;]",
+      "date": "2026-10-13T06:30:46+00:00",
+      "sourceId": "technews",
+      "cats": [
+        "market",
+        "process",
+        "material"
+      ]
+    },
+    {
+      "id": "d2f75300d1aa",
+      "title": "鴻海 OCP 2026 秀 NVIDIA Vera Rubin 平台創新",
+      "link": "https://finance.technews.tw/2026/10/13/ocp-2026-foxconn/",
+      "summary": "鴻海於 2026 OCP Global Summit 展出新一代 AI Rack 技術，展現從運算系統、高速互 [&#8230;]",
+      "date": "2026-10-13T06:28:33+00:00",
+      "sourceId": "technews",
+      "cats": [
+        "market",
+        "process",
+        "material"
+      ]
+    },
+    {
+      "id": "56eee03bc7a9",
+      "title": "長鑫 DRAM 追兵  三星 SK 海力士崩跌、韓股 Sidecar",
+      "link": "https://technews.tw/2026/10/13/cxmt-breakthrough-sends-samsung-sk-hynix-tumbling/",
+      "summary": "中國 DRAM 技術猛烈追趕，震撼韓國記憶體雙雄股價。中國最大 DRAM 業者長鑫存儲宣布，年底前將推出 4F [&#8230;]",
+      "date": "2026-10-13T06:20:00+00:00",
+      "sourceId": "technews",
+      "cats": [
+        "market",
+        "process",
+        "material"
+      ]
+    },
+    {
+      "id": "deb0fe74f4bd",
+      "title": "博通 CEO 批 AI 燒錢像打電玩、貝瑞轉發  馬斯克反駁",
+      "link": "https://finance.technews.tw/2026/10/13/broadcom-ceo-likens-many-ai-investors-to-casino-gamblers/",
+      "summary": "人工智慧（AI）投資熱潮引發泡沫疑慮，博通（Broadcom）執行長陳福陽（Hock Tan）直言，許多 AI [&#8230;]",
+      "date": "2026-10-13T05:50:09+00:00",
+      "sourceId": "technews",
+      "cats": [
+        "market",
+        "process",
+        "material"
+      ]
+    },
+    {
+      "id": "cac8cbc20e24",
+      "title": "全球手機市場暴跌 20%，iPhone 第三季市占率創歷史新高",
+      "link": "https://technews.tw/2026/10/13/2026-q3-global-smartphone-market/",
+      "summary": "全球智慧型手機市場持續受到記憶體價格上漲衝擊，出貨量出現明顯萎縮，但蘋果卻在市場逆風中創下新紀錄。據研調機構 [&#8230;]",
+      "date": "2026-10-13T04:50:53+00:00",
+      "sourceId": "technews",
+      "cats": [
+        "market",
+        "process",
+        "material"
+      ]
+    },
+    {
+      "id": "67363f91c9bd",
+      "title": "未來五年晶圓需求持續成長！Yole 看好 CPO、玻璃基板與 800V 供電成下波技術焦點",
+      "link": "https://technews.tw/2026/10/13/semicon-west-yole-jean-christophe-eloy/",
+      "summary": "Yole 執行長 Jean-Christophe Eloy 在 Semicon West 前夕分享針對半導體市 [&#8230;]",
+      "date": "2026-10-13T04:15:16+00:00",
+      "sourceId": "technews",
+      "cats": [
+        "market",
+        "process",
+        "material"
+      ]
+    },
+    {
+      "id": "9a1ef28cc3c0",
+      "title": "輝達 H200 訂單爆量急催台積電，中國 AI 巨頭陷算力荒砸重金出海尋求突圍",
+      "link": "https://technews.tw/2026/10/13/china-ai-chip-shortage-and-nvidia-production-expansion/",
+      "summary": "儘管美國近期放寬了部分 H200 AI 晶片對中國客戶的銷售限制，中國科技業對 Nvidia（輝達）晶片的需求 [&#8230;]",
+      "date": "2026-10-13T04:10:11+00:00",
+      "sourceId": "technews",
+      "cats": [
+        "market",
+        "process",
+        "material"
+      ]
+    },
+    {
+      "id": "3cca6aab11af",
+      "title": "「開放軟體、專有晶片」劍指輝達，高通連環收購拚突圍 CUDA 生態圈",
+      "link": "https://technews.tw/2026/10/13/how-qualcomms-open-software-strategy-challenges-nvidia/",
+      "summary": "高通（Qualcomm）正加速推進一套以「開放軟體、專有晶片」為核心的策略，試圖削弱輝達（NVIDIA）在 A [&#8230;]",
+      "date": "2026-10-13T04:00:20+00:00",
+      "sourceId": "technews",
+      "cats": [
+        "market",
+        "process",
+        "material"
+      ]
+    },
+    {
+      "id": "ec4a96769e93",
+      "title": "格羅方德全新 FDX Fusion 平台挑戰 7 奈米級效能，主攻車用與邊緣 AI",
+      "link": "https://technews.tw/2026/10/13/globalfoundries-unveils-7nm-class-fdx-fusion-node/",
+      "summary": "格羅方德（GlobalFoundries）在德國德勒斯登宣布推出新一代 FDX Fusion FD-SOI 平 [&#8230;]",
+      "date": "2026-10-13T03:40:49+00:00",
       "sourceId": "technews",
       "cats": [
         "market",
@@ -123,45 +227,6 @@
         "process",
         "material",
         "equipment"
-      ]
-    },
-    {
-      "id": "e2490ce9e1e1",
-      "title": "日月光投控 9 月和第三季營收創高，AI 先進封測幫大忙",
-      "link": "https://finance.technews.tw/2026/10/12/ase-fr-2609-q3/",
-      "summary": "半導體封測大廠日月光投控下午公布 9 月自結合併營收新台幣 881.3 億元，月增 7.2%、年增 45.5% [&#8230;]",
-      "date": "2026-10-12T09:50:18+00:00",
-      "sourceId": "technews",
-      "cats": [
-        "market",
-        "process",
-        "material"
-      ]
-    },
-    {
-      "id": "9ec3a5543272",
-      "title": "光罩9月營收月減1.2%",
-      "link": "https://finance.technews.tw/2026/10/12/tmc-2338-202609-financial-report/",
-      "summary": "光罩（2338）公布 9 月合併營收 4.89 億元，較上（8）月成長 -1.2%，與去年同期相比為年增 15 [&#8230;]",
-      "date": "2026-10-12T08:10:07+00:00",
-      "sourceId": "technews",
-      "cats": [
-        "market",
-        "process",
-        "material"
-      ]
-    },
-    {
-      "id": "6fd9aa443903",
-      "title": "台股企業獲利上看 40%！群益點名矽光子、低軌衛星引領第四季多頭",
-      "link": "https://finance.technews.tw/2026/10/12/pcb-ccl-asic/",
-      "summary": "群益投信今日召開第四季投資展望，預估台股企業獲利成長率今年上看至 40%，並點名先進製程、先進封裝、廠務工程、 [&#8230;]",
-      "date": "2026-10-12T08:02:16+00:00",
-      "sourceId": "technews",
-      "cats": [
-        "market",
-        "process",
-        "material"
       ]
     },
     {
