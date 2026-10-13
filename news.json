@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-13T06:36:44.381676+00:00",
+  "updated": "2026-10-13T15:50:42.198472+00:00",
   "count": 22,
   "sources": [
     {
@@ -61,11 +61,11 @@
   ],
   "articles": [
     {
-      "id": "001ed6094672",
-      "title": "風電、光電與儲能齊聚，2026 智慧能源週登場",
-      "link": "https://technews.tw/2026/10/13/2026-smart-energy-week-wind-power-solar-power-energy-storage/",
-      "summary": "隨 AI 與半導體產業帶動用電需求成長，行政院長卓榮泰先前表示，台灣未來十年用電年均成長率可能高於原先預估的 [&#8230;]",
-      "date": "2026-10-13T06:30:49+00:00",
+      "id": "629b910833c8",
+      "title": "應材矽谷 EPIC 中心正式開幕！台積電魏哲家：加速 2 奈米以下技術量產",
+      "link": "https://technews.tw/2026/10/13/applied-materials-epic-center/",
+      "summary": "美商應用材料斥資 50 億美元在美國矽谷打造的 EPIC 中心正式揭幕，包括台積電、英特爾、美光、三星及 SK [&#8230;]",
+      "date": "2026-10-13T14:58:12+00:00",
       "sourceId": "technews",
       "cats": [
         "market",
@@ -74,11 +74,11 @@
       ]
     },
     {
-      "id": "e01e13d4ed80",
-      "title": "AMD 推出 Helion 以實現機櫃級代理式 AI 運算，預計於 2026 年 11 月提供",
-      "link": "https://technews.tw/2026/10/13/amd-launches-helion-for-rack-scale-agent-based-ai-computing/",
-      "summary": "半導體大廠 AMD 於 13 日宣布推出 AMD Helion 代理式 AI 機櫃，基於開放運算計畫（Open [&#8230;]",
-      "date": "2026-10-13T06:30:46+00:00",
+      "id": "0da7d95f4869",
+      "title": "攻智慧感測！智原推 MIPI C/D Combo PHY IP，通過聯電 14 奈米 FinFET 矽驗證",
+      "link": "https://technews.tw/2026/10/13/faraday-powers-intelligent-sensing-with-new-14nm-mipi-cd-combo-phy-ip/",
+      "summary": "ASIC 設計服務暨 IP 研發廠商智原科技推出 MIPI C/D Combo PHY IP 解決方案，以聯電 [&#8230;]",
+      "date": "2026-10-13T14:43:51+00:00",
       "sourceId": "technews",
       "cats": [
         "market",
@@ -87,11 +87,24 @@
       ]
     },
     {
-      "id": "d2f75300d1aa",
-      "title": "鴻海 OCP 2026 秀 NVIDIA Vera Rubin 平台創新",
-      "link": "https://finance.technews.tw/2026/10/13/ocp-2026-foxconn/",
-      "summary": "鴻海於 2026 OCP Global Summit 展出新一代 AI Rack 技術，展現從運算系統、高速互 [&#8230;]",
-      "date": "2026-10-13T06:28:33+00:00",
+      "id": "90f7039bbc9a",
+      "title": "CASPA CEO Summit Preview with President Jimmy Cheng",
+      "link": "https://www.eetimes.com/caspa-ceo-summit-preview-with-president-jimmy-cheng/",
+      "summary": "CASPA’s annual conference celebrates its 35th anniversary with a lineup of more than 35 CEOs from Silicon Valley, including Intel’s Lip-Bu Tan and Cerebras’s Andrew Feldman. The post CASPA CEO Summit Preview with President Jimmy Cheng appeared first on EE Times.",
+      "date": "2026-10-13T14:04:30+00:00",
+      "sourceId": "eetimes",
+      "cats": [
+        "process",
+        "material",
+        "equipment"
+      ]
+    },
+    {
+      "id": "00d690e0a91e",
+      "title": "輝達、AMD 點火 AI 機櫃戰局，800 VDC 電源、散熱族群蓄勢待發",
+      "link": "https://technews.tw/2026/10/13/nvidia-amd-ai-server-rack-specs-emerge-800vdc-power-liquid-cooling-opportunities/",
+      "summary": "輝達與 AMD 帶頭推進新一代 AI 機櫃規格，機櫃功率朝 250 kW 等級邁進，800 VDC 高壓直流供 [&#8230;]",
+      "date": "2026-10-13T09:21:47+00:00",
       "sourceId": "technews",
       "cats": [
         "market",
@@ -100,11 +113,11 @@
       ]
     },
     {
-      "id": "56eee03bc7a9",
-      "title": "長鑫 DRAM 追兵  三星 SK 海力士崩跌、韓股 Sidecar",
-      "link": "https://technews.tw/2026/10/13/cxmt-breakthrough-sends-samsung-sk-hynix-tumbling/",
-      "summary": "中國 DRAM 技術猛烈追趕，震撼韓國記憶體雙雄股價。中國最大 DRAM 業者長鑫存儲宣布，年底前將推出 4F [&#8230;]",
-      "date": "2026-10-13T06:20:00+00:00",
+      "id": "a18fea2bfcf2",
+      "title": "華為：下一代麒麟晶片已就緒，邏輯摺疊演進可持續",
+      "link": "https://technews.tw/2026/10/13/huawei-next-gen-kirin-chip-ready-sustainable-logic-folding-evolution/",
+      "summary": "綜合中媒及港媒報導，華為半導體業務、無線終端晶片產品管理部部長徐松余今日於《2026 麒麟媒體溝通會》上首次公 [&#8230;]",
+      "date": "2026-10-13T08:40:53+00:00",
       "sourceId": "technews",
       "cats": [
         "market",
@@ -113,11 +126,11 @@
       ]
     },
     {
-      "id": "deb0fe74f4bd",
-      "title": "博通 CEO 批 AI 燒錢像打電玩、貝瑞轉發  馬斯克反駁",
-      "link": "https://finance.technews.tw/2026/10/13/broadcom-ceo-likens-many-ai-investors-to-casino-gamblers/",
-      "summary": "人工智慧（AI）投資熱潮引發泡沫疑慮，博通（Broadcom）執行長陳福陽（Hock Tan）直言，許多 AI [&#8230;]",
-      "date": "2026-10-13T05:50:09+00:00",
+      "id": "b5b1988b6c31",
+      "title": "五年 10 億美元重金挹注，輝達力推超級智慧助美國科研創新局",
+      "link": "https://technews.tw/2026/10/13/nvidia-invest-1-billion-build-superintelligence/",
+      "summary": "輝達（Nvidia）宣布，將在未來五年內斥資 10 億美元，全面升級美國的超級智慧（超智）研究與科學基礎設施。 [&#8230;]",
+      "date": "2026-10-13T08:20:57+00:00",
       "sourceId": "technews",
       "cats": [
         "market",
@@ -126,11 +139,11 @@
       ]
     },
     {
-      "id": "cac8cbc20e24",
-      "title": "全球手機市場暴跌 20%，iPhone 第三季市占率創歷史新高",
-      "link": "https://technews.tw/2026/10/13/2026-q3-global-smartphone-market/",
-      "summary": "全球智慧型手機市場持續受到記憶體價格上漲衝擊，出貨量出現明顯萎縮，但蘋果卻在市場逆風中創下新紀錄。據研調機構 [&#8230;]",
-      "date": "2026-10-13T04:50:53+00:00",
+      "id": "186e7c019e7e",
+      "title": "科技大廠都簽五年長約，三星 2027 年記憶體產能八成給了 AI 市場",
+      "link": "https://finance.technews.tw/2026/10/13/samsung-plans-to-allocate-80-of-its-memory-production-capacity-to-the-ai-%e2%80%8b%e2%80%8bmarket-by-2027/",
+      "summary": "根據韓國媒體報導，三星已與各大科技廠商簽訂五年長約，鎖定 2027 年預計記憶體總產能的近八成，全力確保人工智 [&#8230;]",
+      "date": "2026-10-13T08:00:43+00:00",
       "sourceId": "technews",
       "cats": [
         "market",
@@ -139,11 +152,11 @@
       ]
     },
     {
-      "id": "67363f91c9bd",
-      "title": "未來五年晶圓需求持續成長！Yole 看好 CPO、玻璃基板與 800V 供電成下波技術焦點",
-      "link": "https://technews.tw/2026/10/13/semicon-west-yole-jean-christophe-eloy/",
-      "summary": "Yole 執行長 Jean-Christophe Eloy 在 Semicon West 前夕分享針對半導體市 [&#8230;]",
-      "date": "2026-10-13T04:15:16+00:00",
+      "id": "95ae0530ea3e",
+      "title": "DDR4 漲幅超越 DDR5，記憶體供不應求可能繼續兩年",
+      "link": "https://finance.technews.tw/2026/10/13/the-shortage-of-memory-chips-may-continue-for-another-two-years/",
+      "summary": "根據外資巴克萊（Barclays）的最新市場評估，DDR4 價格漲幅已超越新型的 DDR5，DRAM 市場甚至 [&#8230;]",
+      "date": "2026-10-13T07:30:07+00:00",
       "sourceId": "technews",
       "cats": [
         "market",
@@ -152,11 +165,11 @@
       ]
     },
     {
-      "id": "9a1ef28cc3c0",
-      "title": "輝達 H200 訂單爆量急催台積電，中國 AI 巨頭陷算力荒砸重金出海尋求突圍",
-      "link": "https://technews.tw/2026/10/13/china-ai-chip-shortage-and-nvidia-production-expansion/",
-      "summary": "儘管美國近期放寬了部分 H200 AI 晶片對中國客戶的銷售限制，中國科技業對 Nvidia（輝達）晶片的需求 [&#8230;]",
-      "date": "2026-10-13T04:10:11+00:00",
+      "id": "41d172f08f75",
+      "title": "英特爾發表代號 Crescent Island 之 AI 推論晶片與 Xeon 伺服器架構",
+      "link": "https://technews.tw/2026/10/13/intel-unveils-its-ai-inference-chip-codenamed-crescent-island-and-xeon-server-architecture/",
+      "summary": "半導體大廠英特爾（Intel）正式公開旗下 GPU D 系列加速卡的技術細節，代號為「Crescent Isl [&#8230;]",
+      "date": "2026-10-13T07:15:06+00:00",
       "sourceId": "technews",
       "cats": [
         "market",
@@ -165,11 +178,11 @@
       ]
     },
     {
-      "id": "3cca6aab11af",
-      "title": "「開放軟體、專有晶片」劍指輝達，高通連環收購拚突圍 CUDA 生態圈",
-      "link": "https://technews.tw/2026/10/13/how-qualcomms-open-software-strategy-challenges-nvidia/",
-      "summary": "高通（Qualcomm）正加速推進一套以「開放軟體、專有晶片」為核心的策略，試圖削弱輝達（NVIDIA）在 A [&#8230;]",
-      "date": "2026-10-13T04:00:20+00:00",
+      "id": "d526986d9099",
+      "title": "光電測試平台成 CPO 量產關鍵，測試設備供應鏈版圖將迎新變局",
+      "link": "https://technews.tw/2026/10/13/optoelectronic-testing-platforms-crucial-cpo-mass-production-ushering-new-changes-test-equipment-supply-chain-landscape/",
+      "summary": "根據 TrendForce 最新 AI 互連技術研究，隨 AI 資料中心推升高速傳輸需求，共同封裝光學（CPO [&#8230;]",
+      "date": "2026-10-13T07:05:57+00:00",
       "sourceId": "technews",
       "cats": [
         "market",
@@ -178,11 +191,11 @@
       ]
     },
     {
-      "id": "ec4a96769e93",
-      "title": "格羅方德全新 FDX Fusion 平台挑戰 7 奈米級效能，主攻車用與邊緣 AI",
-      "link": "https://technews.tw/2026/10/13/globalfoundries-unveils-7nm-class-fdx-fusion-node/",
-      "summary": "格羅方德（GlobalFoundries）在德國德勒斯登宣布推出新一代 FDX Fusion FD-SOI 平 [&#8230;]",
-      "date": "2026-10-13T03:40:49+00:00",
+      "id": "2b174b6f3cc9",
+      "title": "嘉和半導體 GaNrich 布局 40V–1200V 全系列 GaN 功率元件，加速全球市場滲透",
+      "link": "https://technews.tw/2026/10/13/ganrich-gan-on-si-sapphire/",
+      "summary": "嘉和半導體聚焦氮化鎵（GaN）功率半導體技術，以自主研發、台灣製造為核心，針對目前市場上氮化鎵最成熟之兩大基板 [&#8230;]",
+      "date": "2026-10-13T06:40:54+00:00",
       "sourceId": "technews",
       "cats": [
         "market",
@@ -235,19 +248,6 @@
       "link": "https://www.eetimes.com/manfred-horstmann-globalfoundries-bets-on-fdx-fusion-for-physical-ai/",
       "summary": "GlobalFoundries said strained-silicon FD-SOI can deliver 7-nm-class performance without EUV and open a new market for Europe. The post Manfred Horstmann: GlobalFoundries Bets on FDX Fusion for Physical AI appeared first on EE Times.",
       "date": "2026-10-09T22:00:00+00:00",
-      "sourceId": "eetimes",
-      "cats": [
-        "process",
-        "material",
-        "equipment"
-      ]
-    },
-    {
-      "id": "2e116e41ad3d",
-      "title": "Connecting Chiplets Isn’t Enough – Solving the Data Movement Challenge in Multi-Die Systems",
-      "link": "https://www.eetimes.com/connecting-chiplets-isnt-enough-solving-the-data-movement-challenge-in-multi-die-systems/",
-      "summary": "Join this BitCast and explore how extending NoC connectivity across die boundaries enables engineering teams to scale from monolithic SoCs to multi-die architectures. The post Connecting Chiplets Isn’t Enough &#8211; Solving the Data Movement Challenge in Multi-Die Systems appeared first on EE Times",
-      "date": "2026-10-09T14:21:07+00:00",
       "sourceId": "eetimes",
       "cats": [
         "process",
