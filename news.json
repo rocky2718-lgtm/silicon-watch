@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-13T15:50:42.198472+00:00",
+  "updated": "2026-10-13T21:08:41.682543+00:00",
   "count": 22,
   "sources": [
     {
@@ -60,6 +60,19 @@
     }
   ],
   "articles": [
+    {
+      "id": "15e582b0329f",
+      "title": "全球半導體設備支出爆發！SEMI 估 2029 年達 2,270 億美元，美國擴產加速",
+      "link": "https://technews.tw/2026/10/14/semicon-west-clark-tseng/",
+      "summary": "AI 與高效能運算（HPC）需求持續攀升，帶動全球半導體產業加大資本投資。SEMI 全球資深總監曾瑞榆（Cla [&#8230;]",
+      "date": "2026-10-13T19:50:30+00:00",
+      "sourceId": "technews",
+      "cats": [
+        "market",
+        "process",
+        "material"
+      ]
+    },
     {
       "id": "629b910833c8",
       "title": "應材矽谷 EPIC 中心正式開幕！台積電魏哲家：加速 2 奈米以下技術量產",
@@ -183,19 +196,6 @@
       "link": "https://technews.tw/2026/10/13/optoelectronic-testing-platforms-crucial-cpo-mass-production-ushering-new-changes-test-equipment-supply-chain-landscape/",
       "summary": "根據 TrendForce 最新 AI 互連技術研究，隨 AI 資料中心推升高速傳輸需求，共同封裝光學（CPO [&#8230;]",
       "date": "2026-10-13T07:05:57+00:00",
-      "sourceId": "technews",
-      "cats": [
-        "market",
-        "process",
-        "material"
-      ]
-    },
-    {
-      "id": "2b174b6f3cc9",
-      "title": "嘉和半導體 GaNrich 布局 40V–1200V 全系列 GaN 功率元件，加速全球市場滲透",
-      "link": "https://technews.tw/2026/10/13/ganrich-gan-on-si-sapphire/",
-      "summary": "嘉和半導體聚焦氮化鎵（GaN）功率半導體技術，以自主研發、台灣製造為核心，針對目前市場上氮化鎵最成熟之兩大基板 [&#8230;]",
-      "date": "2026-10-13T06:40:54+00:00",
       "sourceId": "technews",
       "cats": [
         "market",
