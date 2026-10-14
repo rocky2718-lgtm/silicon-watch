@@ -1,6 +1,6 @@
 {
-  "updated": "2026-10-14T01:03:57.830408+00:00",
-  "count": 24,
+  "updated": "2026-10-14T07:26:27.754663+00:00",
+  "count": 18,
   "sources": [
     {
       "id": "technews",
@@ -61,11 +61,11 @@
   ],
   "articles": [
     {
-      "id": "071258cb1500",
-      "title": "記憶體股慘摔  馬斯克轟報價形同勒索、獨讚美光",
-      "link": "https://technews.tw/2026/10/14/memory-stocks-plunge-musk-slams-pricing-as-extortion-praises-micron/",
-      "summary": "隨著全球記憶體類股連續兩日遭到拋售，馬斯克（Elon Musk）再度發文，痛批美光（Micron Techno [&#8230;]",
-      "date": "2026-10-14T01:00:28+00:00",
+      "id": "55acb481ff00",
+      "title": "AI 強勁需求推升 ASML 第三季營收獲利創新高，全年營收展望上調",
+      "link": "https://finance.technews.tw/2026/10/14/asmls-third-quarter-revenue-and-profit-hit-record-highs/",
+      "summary": "半導體設備商艾司摩爾（ASML）發布 2026 年第三季財報，受惠於強勁的產能提升執行力與 AI 相關投資帶動 [&#8230;]",
+      "date": "2026-10-14T06:50:37+00:00",
       "sourceId": "technews",
       "cats": [
         "market",
@@ -74,11 +74,11 @@
       ]
     },
     {
-      "id": "b572f37cbab5",
-      "title": "長鑫存儲擬推出首款 4F² 伺服器 DDR5 記憶體，技術突破挑戰國際三大廠",
-      "link": "https://finance.technews.tw/2026/10/14/changxin-memory-plans-to-launch-its-first-4f%c2%b2-server-ddr5-memory/",
-      "summary": "中國半導體大廠長鑫存儲（CXMT）日前透露，長鑫存儲預計將於2026年底前推出其首款採用 4F² 結構的產品， [&#8230;]",
-      "date": "2026-10-14T00:45:35+00:00",
+      "id": "d58f6495e3b2",
+      "title": "供應給台積電？富士軟片在美增產先進半導體材料",
+      "link": "https://technews.tw/2026/10/14/fujifilm-to-expand-cmp-slurry-production-capacity-in-the-united-states/",
+      "summary": "日廠富士軟片（Fujifilm）將在美國亞利桑那州工廠增產先進半導體材料「研磨液」（CMP Slurry），預 [&#8230;]",
+      "date": "2026-10-14T06:40:39+00:00",
       "sourceId": "technews",
       "cats": [
         "market",
@@ -87,11 +87,11 @@
       ]
     },
     {
-      "id": "23a71d97b60a",
-      "title": "深化 AI 晶片布局，京元電與輝達協議預付款擴建美國產能",
-      "link": "https://finance.technews.tw/2026/10/14/king-yuan-electric-and-nvidia-agree-to-prepayment-to-expand-us-production-capacity/",
-      "summary": "半導體測試大廠京元電公告，董事會決議通過與輝達（NVIDIA）旗下 NVIDIA International, [&#8230;]",
-      "date": "2026-10-14T00:30:36+00:00",
+      "id": "1ca51e91d462",
+      "title": "晶片自主化仍追不上需求，中國科技公司今年狂掃逾 100 萬顆輝達 GPU",
+      "link": "https://technews.tw/2026/10/14/chinese-ai-companies-buy-1-million-nvidia-gaming-and-workstation-gpus-in-a-single-year/",
+      "summary": "外媒報導，中國科技公司今年已買進超過 100 萬顆輝達（NVIDIA）GPU，用來補足人工智慧運算能力的缺口。 [&#8230;]",
+      "date": "2026-10-14T06:20:33+00:00",
       "sourceId": "technews",
       "cats": [
         "market",
@@ -100,11 +100,11 @@
       ]
     },
     {
-      "id": "d78496d5a2ad",
-      "title": "英特爾 CEO 點名中國 AI 模型夠用又便宜，企業選型標準正轉向高性價比",
-      "link": "https://technews.tw/2026/10/14/lip-bu-tan-says-deepseek-is-good-enough/",
-      "summary": "英特爾（Intel）CEO 陳立武日前在星展銀行（DBS）主辦的座談會上，點名 DeepSeek、Kimi 及 [&#8230;]",
-      "date": "2026-10-14T00:20:16+00:00",
+      "id": "cf6943cd5f8f",
+      "title": "先進封裝角色躍升！英特爾晶圓代工揭「晶片三道牆」：客戶信任成關鍵",
+      "link": "https://technews.tw/2026/10/14/semicon-west-intel-foundry-lalitha-immaneni/",
+      "summary": "SEMICON West 於美國時間 10 月 13 日正式開幕，英特爾代工事業部半導體研發副總裁 Lalit [&#8230;]",
+      "date": "2026-10-14T06:06:01+00:00",
       "sourceId": "technews",
       "cats": [
         "market",
@@ -113,11 +113,11 @@
       ]
     },
     {
-      "id": "74b0568035c7",
-      "title": "輝達中國 AI 晶片市占下滑，華為加速追趕",
-      "link": "https://technews.tw/2026/10/14/nvidias-china-ai-chip-share-falls-as-huawei-closes-gap/",
-      "summary": "據路透社取得市場研究暨分析機構國際數據資訊報告，輝達上半年在中國資料中心 AI 晶片市場市占率降至 34%，主 [&#8230;]",
-      "date": "2026-10-14T00:15:42+00:00",
+      "id": "8cf8d302659d",
+      "title": "AMD 蘇姿丰看 AI 運算多元化，雙機櫃布局迎需求",
+      "link": "https://technews.tw/2026/10/14/ocp-2026-amd-ceo-lisa-su-keynote/",
+      "summary": "AMD 董事長暨執行長蘇姿丰於 2026 年開放運算計畫全球峰會（OCP Global Summit）開幕主題 [&#8230;]",
+      "date": "2026-10-14T05:40:24+00:00",
       "sourceId": "technews",
       "cats": [
         "market",
@@ -126,76 +126,11 @@
       ]
     },
     {
-      "id": "1c462102ac02",
-      "title": "日月光擴展 PowerSiP 平台，降低寄生佈線損耗逾 50% 提升3D SiP 系統效率",
-      "link": "https://finance.technews.tw/2026/10/14/ase-extends-powersip-platform/",
-      "summary": "日月光半導體宣布 PowerSiP 平台推出 3D 系統級封裝（SiP）解決方案，可實現垂直整合的電壓調節模組 [&#8230;]",
-      "date": "2026-10-14T00:15:35+00:00",
-      "sourceId": "technews",
-      "cats": [
-        "market",
-        "process",
-        "material"
-      ]
-    },
-    {
-      "id": "781a116e8386",
-      "title": "半導體投資估近 3,500 億美元！SEMICON West 確定鳳凰城連辦三年",
-      "link": "https://technews.tw/2026/10/14/semi-america-president-semicon-west/",
-      "summary": "SEMI America 總裁 Joe Stockunas 在 SEMICON West 媒體活動上表示，SE [&#8230;]",
-      "date": "2026-10-13T23:57:53+00:00",
-      "sourceId": "technews",
-      "cats": [
-        "market",
-        "process",
-        "material"
-      ]
-    },
-    {
-      "id": "35221504c70b",
-      "title": "RTX Spark 開賣在即，但要賣給誰？",
-      "link": "https://technews.tw/2026/10/14/rtx-spark-launch-target-market/",
-      "summary": "從今年 COMPUTEX 發表到 IFA 大量曝光，NVIDIA RTX Spark 終於準備進入實際開賣階段 [&#8230;]",
-      "date": "2026-10-13T23:50:54+00:00",
-      "sourceId": "technews",
-      "cats": [
-        "market",
-        "process",
-        "material"
-      ]
-    },
-    {
-      "id": "15e582b0329f",
-      "title": "全球半導體設備支出爆發！SEMI 估 2029 年達 2,270 億美元，美國擴產加速",
-      "link": "https://technews.tw/2026/10/14/semicon-west-clark-tseng/",
-      "summary": "AI 與高效能運算（HPC）需求持續攀升，帶動全球半導體產業加大資本投資。SEMI 全球資深總監曾瑞榆（Cla [&#8230;]",
-      "date": "2026-10-13T19:50:30+00:00",
-      "sourceId": "technews",
-      "cats": [
-        "market",
-        "process",
-        "material"
-      ]
-    },
-    {
-      "id": "629b910833c8",
-      "title": "應材矽谷 EPIC 中心正式開幕！台積電魏哲家：加速 2 奈米以下技術量產",
-      "link": "https://technews.tw/2026/10/13/applied-materials-epic-center/",
-      "summary": "美商應用材料斥資 50 億美元在美國矽谷打造的 EPIC 中心正式揭幕，包括台積電、英特爾、美光、三星及 SK [&#8230;]",
-      "date": "2026-10-13T14:58:12+00:00",
-      "sourceId": "technews",
-      "cats": [
-        "market",
-        "process",
-        "material"
-      ]
-    },
-    {
-      "id": "0da7d95f4869",
-      "title": "攻智慧感測！智原推 MIPI C/D Combo PHY IP，通過聯電 14 奈米 FinFET 矽驗證",
-      "link": "https://technews.tw/2026/10/13/faraday-powers-intelligent-sensing-with-new-14nm-mipi-cd-combo-phy-ip/",
-      "summary": "ASIC 設計服務暨 IP 研發廠商智原科技推出 MIPI C/D Combo PHY IP 解決方案，以聯電 [&#8230;]",
-      "date": "2026-10-13T14:43:51+00:00",
+      "id": "1ede738b6f91",
+      "title": "遺傳性失明可望有解，PRIMA 視覺修復晶片讓首位斯特格氏症患者看見文字",
+      "link": "https://technews.tw/2026/10/14/science-corporation-implants-its-vision-restoring-chip-in-its-first-stargardt-disease-patient/",
+      "summary": "Science Corporation 執行長 Max Hodak 在 TechCrunch Disrupt [&#8230;]",
+      "date": "2026-10-14T04:40:46+00:00",
       "sourceId": "technews",
       "cats": [
         "market",
@@ -214,19 +149,6 @@
         "process",
         "material",
         "equipment"
-      ]
-    },
-    {
-      "id": "00d690e0a91e",
-      "title": "輝達、AMD 點火 AI 機櫃戰局，800 VDC 電源、散熱族群蓄勢待發",
-      "link": "https://technews.tw/2026/10/13/nvidia-amd-ai-server-rack-specs-emerge-800vdc-power-liquid-cooling-opportunities/",
-      "summary": "輝達與 AMD 帶頭推進新一代 AI 機櫃規格，機櫃功率朝 250 kW 等級邁進，800 VDC 高壓直流供 [&#8230;]",
-      "date": "2026-10-13T09:21:47+00:00",
-      "sourceId": "technews",
-      "cats": [
-        "market",
-        "process",
-        "material"
       ]
     },
     {
