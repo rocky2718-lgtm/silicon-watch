@@ -1,6 +1,6 @@
 {
-  "updated": "2026-10-13T21:08:41.682543+00:00",
-  "count": 22,
+  "updated": "2026-10-14T01:03:57.830408+00:00",
+  "count": 24,
   "sources": [
     {
       "id": "technews",
@@ -61,6 +61,110 @@
   ],
   "articles": [
     {
+      "id": "071258cb1500",
+      "title": "記憶體股慘摔  馬斯克轟報價形同勒索、獨讚美光",
+      "link": "https://technews.tw/2026/10/14/memory-stocks-plunge-musk-slams-pricing-as-extortion-praises-micron/",
+      "summary": "隨著全球記憶體類股連續兩日遭到拋售，馬斯克（Elon Musk）再度發文，痛批美光（Micron Techno [&#8230;]",
+      "date": "2026-10-14T01:00:28+00:00",
+      "sourceId": "technews",
+      "cats": [
+        "market",
+        "process",
+        "material"
+      ]
+    },
+    {
+      "id": "b572f37cbab5",
+      "title": "長鑫存儲擬推出首款 4F² 伺服器 DDR5 記憶體，技術突破挑戰國際三大廠",
+      "link": "https://finance.technews.tw/2026/10/14/changxin-memory-plans-to-launch-its-first-4f%c2%b2-server-ddr5-memory/",
+      "summary": "中國半導體大廠長鑫存儲（CXMT）日前透露，長鑫存儲預計將於2026年底前推出其首款採用 4F² 結構的產品， [&#8230;]",
+      "date": "2026-10-14T00:45:35+00:00",
+      "sourceId": "technews",
+      "cats": [
+        "market",
+        "process",
+        "material"
+      ]
+    },
+    {
+      "id": "23a71d97b60a",
+      "title": "深化 AI 晶片布局，京元電與輝達協議預付款擴建美國產能",
+      "link": "https://finance.technews.tw/2026/10/14/king-yuan-electric-and-nvidia-agree-to-prepayment-to-expand-us-production-capacity/",
+      "summary": "半導體測試大廠京元電公告，董事會決議通過與輝達（NVIDIA）旗下 NVIDIA International, [&#8230;]",
+      "date": "2026-10-14T00:30:36+00:00",
+      "sourceId": "technews",
+      "cats": [
+        "market",
+        "process",
+        "material"
+      ]
+    },
+    {
+      "id": "d78496d5a2ad",
+      "title": "英特爾 CEO 點名中國 AI 模型夠用又便宜，企業選型標準正轉向高性價比",
+      "link": "https://technews.tw/2026/10/14/lip-bu-tan-says-deepseek-is-good-enough/",
+      "summary": "英特爾（Intel）CEO 陳立武日前在星展銀行（DBS）主辦的座談會上，點名 DeepSeek、Kimi 及 [&#8230;]",
+      "date": "2026-10-14T00:20:16+00:00",
+      "sourceId": "technews",
+      "cats": [
+        "market",
+        "process",
+        "material"
+      ]
+    },
+    {
+      "id": "74b0568035c7",
+      "title": "輝達中國 AI 晶片市占下滑，華為加速追趕",
+      "link": "https://technews.tw/2026/10/14/nvidias-china-ai-chip-share-falls-as-huawei-closes-gap/",
+      "summary": "據路透社取得市場研究暨分析機構國際數據資訊報告，輝達上半年在中國資料中心 AI 晶片市場市占率降至 34%，主 [&#8230;]",
+      "date": "2026-10-14T00:15:42+00:00",
+      "sourceId": "technews",
+      "cats": [
+        "market",
+        "process",
+        "material"
+      ]
+    },
+    {
+      "id": "1c462102ac02",
+      "title": "日月光擴展 PowerSiP 平台，降低寄生佈線損耗逾 50% 提升3D SiP 系統效率",
+      "link": "https://finance.technews.tw/2026/10/14/ase-extends-powersip-platform/",
+      "summary": "日月光半導體宣布 PowerSiP 平台推出 3D 系統級封裝（SiP）解決方案，可實現垂直整合的電壓調節模組 [&#8230;]",
+      "date": "2026-10-14T00:15:35+00:00",
+      "sourceId": "technews",
+      "cats": [
+        "market",
+        "process",
+        "material"
+      ]
+    },
+    {
+      "id": "781a116e8386",
+      "title": "半導體投資估近 3,500 億美元！SEMICON West 確定鳳凰城連辦三年",
+      "link": "https://technews.tw/2026/10/14/semi-america-president-semicon-west/",
+      "summary": "SEMI America 總裁 Joe Stockunas 在 SEMICON West 媒體活動上表示，SE [&#8230;]",
+      "date": "2026-10-13T23:57:53+00:00",
+      "sourceId": "technews",
+      "cats": [
+        "market",
+        "process",
+        "material"
+      ]
+    },
+    {
+      "id": "35221504c70b",
+      "title": "RTX Spark 開賣在即，但要賣給誰？",
+      "link": "https://technews.tw/2026/10/14/rtx-spark-launch-target-market/",
+      "summary": "從今年 COMPUTEX 發表到 IFA 大量曝光，NVIDIA RTX Spark 終於準備進入實際開賣階段 [&#8230;]",
+      "date": "2026-10-13T23:50:54+00:00",
+      "sourceId": "technews",
+      "cats": [
+        "market",
+        "process",
+        "material"
+      ]
+    },
+    {
       "id": "15e582b0329f",
       "title": "全球半導體設備支出爆發！SEMI 估 2029 年達 2,270 億美元，美國擴產加速",
       "link": "https://technews.tw/2026/10/14/semicon-west-clark-tseng/",
@@ -118,84 +222,6 @@
       "link": "https://technews.tw/2026/10/13/nvidia-amd-ai-server-rack-specs-emerge-800vdc-power-liquid-cooling-opportunities/",
       "summary": "輝達與 AMD 帶頭推進新一代 AI 機櫃規格，機櫃功率朝 250 kW 等級邁進，800 VDC 高壓直流供 [&#8230;]",
       "date": "2026-10-13T09:21:47+00:00",
-      "sourceId": "technews",
-      "cats": [
-        "market",
-        "process",
-        "material"
-      ]
-    },
-    {
-      "id": "a18fea2bfcf2",
-      "title": "華為：下一代麒麟晶片已就緒，邏輯摺疊演進可持續",
-      "link": "https://technews.tw/2026/10/13/huawei-next-gen-kirin-chip-ready-sustainable-logic-folding-evolution/",
-      "summary": "綜合中媒及港媒報導，華為半導體業務、無線終端晶片產品管理部部長徐松余今日於《2026 麒麟媒體溝通會》上首次公 [&#8230;]",
-      "date": "2026-10-13T08:40:53+00:00",
-      "sourceId": "technews",
-      "cats": [
-        "market",
-        "process",
-        "material"
-      ]
-    },
-    {
-      "id": "b5b1988b6c31",
-      "title": "五年 10 億美元重金挹注，輝達力推超級智慧助美國科研創新局",
-      "link": "https://technews.tw/2026/10/13/nvidia-invest-1-billion-build-superintelligence/",
-      "summary": "輝達（Nvidia）宣布，將在未來五年內斥資 10 億美元，全面升級美國的超級智慧（超智）研究與科學基礎設施。 [&#8230;]",
-      "date": "2026-10-13T08:20:57+00:00",
-      "sourceId": "technews",
-      "cats": [
-        "market",
-        "process",
-        "material"
-      ]
-    },
-    {
-      "id": "186e7c019e7e",
-      "title": "科技大廠都簽五年長約，三星 2027 年記憶體產能八成給了 AI 市場",
-      "link": "https://finance.technews.tw/2026/10/13/samsung-plans-to-allocate-80-of-its-memory-production-capacity-to-the-ai-%e2%80%8b%e2%80%8bmarket-by-2027/",
-      "summary": "根據韓國媒體報導，三星已與各大科技廠商簽訂五年長約，鎖定 2027 年預計記憶體總產能的近八成，全力確保人工智 [&#8230;]",
-      "date": "2026-10-13T08:00:43+00:00",
-      "sourceId": "technews",
-      "cats": [
-        "market",
-        "process",
-        "material"
-      ]
-    },
-    {
-      "id": "95ae0530ea3e",
-      "title": "DDR4 漲幅超越 DDR5，記憶體供不應求可能繼續兩年",
-      "link": "https://finance.technews.tw/2026/10/13/the-shortage-of-memory-chips-may-continue-for-another-two-years/",
-      "summary": "根據外資巴克萊（Barclays）的最新市場評估，DDR4 價格漲幅已超越新型的 DDR5，DRAM 市場甚至 [&#8230;]",
-      "date": "2026-10-13T07:30:07+00:00",
-      "sourceId": "technews",
-      "cats": [
-        "market",
-        "process",
-        "material"
-      ]
-    },
-    {
-      "id": "41d172f08f75",
-      "title": "英特爾發表代號 Crescent Island 之 AI 推論晶片與 Xeon 伺服器架構",
-      "link": "https://technews.tw/2026/10/13/intel-unveils-its-ai-inference-chip-codenamed-crescent-island-and-xeon-server-architecture/",
-      "summary": "半導體大廠英特爾（Intel）正式公開旗下 GPU D 系列加速卡的技術細節，代號為「Crescent Isl [&#8230;]",
-      "date": "2026-10-13T07:15:06+00:00",
-      "sourceId": "technews",
-      "cats": [
-        "market",
-        "process",
-        "material"
-      ]
-    },
-    {
-      "id": "d526986d9099",
-      "title": "光電測試平台成 CPO 量產關鍵，測試設備供應鏈版圖將迎新變局",
-      "link": "https://technews.tw/2026/10/13/optoelectronic-testing-platforms-crucial-cpo-mass-production-ushering-new-changes-test-equipment-supply-chain-landscape/",
-      "summary": "根據 TrendForce 最新 AI 互連技術研究，隨 AI 資料中心推升高速傳輸需求，共同封裝光學（CPO [&#8230;]",
-      "date": "2026-10-13T07:05:57+00:00",
       "sourceId": "technews",
       "cats": [
         "market",
