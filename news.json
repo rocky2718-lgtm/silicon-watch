@@ -1,6 +1,6 @@
 {
-  "updated": "2026-10-14T07:26:27.754663+00:00",
-  "count": 18,
+  "updated": "2026-10-14T13:34:54.038262+00:00",
+  "count": 15,
   "sources": [
     {
       "id": "technews",
@@ -61,6 +61,32 @@
   ],
   "articles": [
     {
+      "id": "e0cf21edaacb",
+      "title": "ASML’s EUV Expansion Runs Through Zeiss",
+      "link": "https://www.eetimes.com/asml-euv-expansion-runs-through-zeiss/",
+      "summary": "ASML’s plans to expand EUV production depend partly on Zeiss’s ability to increase qualified precision-optics output. The post ASML’s EUV Expansion Runs Through Zeiss appeared first on EE Times.",
+      "date": "2026-10-14T12:49:10+00:00",
+      "sourceId": "eetimes",
+      "cats": [
+        "process",
+        "material",
+        "equipment"
+      ]
+    },
+    {
+      "id": "3ff2a149fb4e",
+      "title": "先進封裝材料挑戰怎解？三菱化學靠計算化學、量子技術加速材料開發",
+      "link": "https://technews.tw/2026/10/14/mitsubishi-chemical-group-sanjiv-bhatt-semicon-west/",
+      "summary": "AI 與 HPC 需求持續推升晶片效能與整合密度，先進封裝也面臨互連密度提高、散熱與翹曲控制等多重挑戰。三菱化 [&#8230;]",
+      "date": "2026-10-14T10:26:10+00:00",
+      "sourceId": "technews",
+      "cats": [
+        "market",
+        "process",
+        "material"
+      ]
+    },
+    {
       "id": "55acb481ff00",
       "title": "AI 強勁需求推升 ASML 第三季營收獲利創新高，全年營收展望上調",
       "link": "https://finance.technews.tw/2026/10/14/asmls-third-quarter-revenue-and-profit-hit-record-highs/",
@@ -100,45 +126,6 @@
       ]
     },
     {
-      "id": "cf6943cd5f8f",
-      "title": "先進封裝角色躍升！英特爾晶圓代工揭「晶片三道牆」：客戶信任成關鍵",
-      "link": "https://technews.tw/2026/10/14/semicon-west-intel-foundry-lalitha-immaneni/",
-      "summary": "SEMICON West 於美國時間 10 月 13 日正式開幕，英特爾代工事業部半導體研發副總裁 Lalit [&#8230;]",
-      "date": "2026-10-14T06:06:01+00:00",
-      "sourceId": "technews",
-      "cats": [
-        "market",
-        "process",
-        "material"
-      ]
-    },
-    {
-      "id": "8cf8d302659d",
-      "title": "AMD 蘇姿丰看 AI 運算多元化，雙機櫃布局迎需求",
-      "link": "https://technews.tw/2026/10/14/ocp-2026-amd-ceo-lisa-su-keynote/",
-      "summary": "AMD 董事長暨執行長蘇姿丰於 2026 年開放運算計畫全球峰會（OCP Global Summit）開幕主題 [&#8230;]",
-      "date": "2026-10-14T05:40:24+00:00",
-      "sourceId": "technews",
-      "cats": [
-        "market",
-        "process",
-        "material"
-      ]
-    },
-    {
-      "id": "1ede738b6f91",
-      "title": "遺傳性失明可望有解，PRIMA 視覺修復晶片讓首位斯特格氏症患者看見文字",
-      "link": "https://technews.tw/2026/10/14/science-corporation-implants-its-vision-restoring-chip-in-its-first-stargardt-disease-patient/",
-      "summary": "Science Corporation 執行長 Max Hodak 在 TechCrunch Disrupt [&#8230;]",
-      "date": "2026-10-14T04:40:46+00:00",
-      "sourceId": "technews",
-      "cats": [
-        "market",
-        "process",
-        "material"
-      ]
-    },
-    {
       "id": "90f7039bbc9a",
       "title": "CASPA CEO Summit Preview with President Jimmy Cheng",
       "link": "https://www.eetimes.com/caspa-ceo-summit-preview-with-president-jimmy-cheng/",
@@ -170,32 +157,6 @@
       "link": "https://www.eetimes.com/embedded-graphics-on-an-mcu-without-an-accelerator/",
       "summary": "Join this webinar and learn how to add LCD graphics to MCU projects without a display controller, accelerator, or external DRAM. The post Embedded Graphics on an MCU – Without an Accelerator appeared first on EE Times.",
       "date": "2026-10-12T16:49:28+00:00",
-      "sourceId": "eetimes",
-      "cats": [
-        "process",
-        "material",
-        "equipment"
-      ]
-    },
-    {
-      "id": "41abbe75e853",
-      "title": "EU CRA Readiness: 5 Steps Manufacturers Need to Take Now",
-      "link": "https://www.eetimes.com/eu-cra-readiness-5-steps-manufacturers-need-to-take-now/",
-      "summary": "Consumer, industrial, networking, semiconductor, and software manufacturers face a broad product-cybersecurity regulation for the first time. The post EU CRA Readiness: 5 Steps Manufacturers Need to Take Now appeared first on EE Times.",
-      "date": "2026-10-12T13:00:00+00:00",
-      "sourceId": "eetimes",
-      "cats": [
-        "process",
-        "material",
-        "equipment"
-      ]
-    },
-    {
-      "id": "5d4a73ea019c",
-      "title": "Manfred Horstmann: GlobalFoundries Bets on FDX Fusion for Physical AI",
-      "link": "https://www.eetimes.com/manfred-horstmann-globalfoundries-bets-on-fdx-fusion-for-physical-ai/",
-      "summary": "GlobalFoundries said strained-silicon FD-SOI can deliver 7-nm-class performance without EUV and open a new market for Europe. The post Manfred Horstmann: GlobalFoundries Bets on FDX Fusion for Physical AI appeared first on EE Times.",
-      "date": "2026-10-09T22:00:00+00:00",
       "sourceId": "eetimes",
       "cats": [
         "process",
