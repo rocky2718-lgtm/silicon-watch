@@ -1,6 +1,6 @@
 {
-  "updated": "2026-10-14T13:34:54.038262+00:00",
-  "count": 15,
+  "updated": "2026-10-14T18:28:37.041632+00:00",
+  "count": 14,
   "sources": [
     {
       "id": "technews",
@@ -61,6 +61,19 @@
   ],
   "articles": [
     {
+      "id": "27481aeae033",
+      "title": "Co-Packaged Optics Moves from Promise to Production Planning",
+      "link": "https://www.eetimes.com/co-packaged-optics-moves-from-promise-to-production-planning/",
+      "summary": "At Ayar Labs CPO Summit, Meta, Broadcom, AMD, and others weighed in on readiness for a 2028 co-packaged optics demand surge and the OCI MSA’s role. The post Co-Packaged Optics Moves from Promise to Production Planning appeared first on EE Times.",
+      "date": "2026-10-14T15:41:12+00:00",
+      "sourceId": "eetimes",
+      "cats": [
+        "process",
+        "material",
+        "equipment"
+      ]
+    },
+    {
       "id": "e0cf21edaacb",
       "title": "ASML’s EUV Expansion Runs Through Zeiss",
       "link": "https://www.eetimes.com/asml-euv-expansion-runs-through-zeiss/",
@@ -113,19 +126,6 @@
       ]
     },
     {
-      "id": "1ca51e91d462",
-      "title": "晶片自主化仍追不上需求，中國科技公司今年狂掃逾 100 萬顆輝達 GPU",
-      "link": "https://technews.tw/2026/10/14/chinese-ai-companies-buy-1-million-nvidia-gaming-and-workstation-gpus-in-a-single-year/",
-      "summary": "外媒報導，中國科技公司今年已買進超過 100 萬顆輝達（NVIDIA）GPU，用來補足人工智慧運算能力的缺口。 [&#8230;]",
-      "date": "2026-10-14T06:20:33+00:00",
-      "sourceId": "technews",
-      "cats": [
-        "market",
-        "process",
-        "material"
-      ]
-    },
-    {
       "id": "90f7039bbc9a",
       "title": "CASPA CEO Summit Preview with President Jimmy Cheng",
       "link": "https://www.eetimes.com/caspa-ceo-summit-preview-with-president-jimmy-cheng/",
@@ -144,19 +144,6 @@
       "link": "https://www.eetimes.com/applied-materials-bets-5b-on-a-new-model-for-chip-innovation/",
       "summary": "Applied Materials’ $5 billion EPIC Center brings chipmakers, equipment suppliers, and researchers together to accelerate semiconductor R&#038;D and commercialization. The post Applied Materials Bets $5B on a New Model for Chip Innovation appeared first on EE Times.",
       "date": "2026-10-12T16:59:01+00:00",
-      "sourceId": "eetimes",
-      "cats": [
-        "process",
-        "material",
-        "equipment"
-      ]
-    },
-    {
-      "id": "e9dd8c26f35f",
-      "title": "Embedded Graphics on an MCU – Without an Accelerator",
-      "link": "https://www.eetimes.com/embedded-graphics-on-an-mcu-without-an-accelerator/",
-      "summary": "Join this webinar and learn how to add LCD graphics to MCU projects without a display controller, accelerator, or external DRAM. The post Embedded Graphics on an MCU – Without an Accelerator appeared first on EE Times.",
-      "date": "2026-10-12T16:49:28+00:00",
       "sourceId": "eetimes",
       "cats": [
         "process",
