@@ -1,6 +1,6 @@
 {
-  "updated": "2026-10-14T23:06:41.314937+00:00",
-  "count": 14,
+  "updated": "2026-10-15T04:20:34.184801+00:00",
+  "count": 20,
   "sources": [
     {
       "id": "technews",
@@ -61,11 +61,11 @@
   ],
   "articles": [
     {
-      "id": "363e3b4b1989",
-      "title": "先進封裝推升設備需求！ACM Research 擴大全球布局，清洗、沉積產品線持續延伸",
-      "link": "https://technews.tw/2026/10/15/acm-research-semicon-west-sally-ann-henry/",
-      "summary": "美商 ACM Research 首席技術專家 Sally-Ann Henry 於 SEMICON West 受 [&#8230;]",
-      "date": "2026-10-14T19:05:41+00:00",
+      "id": "4a45f556943e",
+      "title": "輝達五年砸 2.5 億美元算力資源，助英國強化代理式 AI 安全研究",
+      "link": "https://technews.tw/2026/10/15/nvidia-commits-250m-over-5-years-to-advance-uk-agentic-safety-research/",
+      "summary": "輝達（NVIDIA）10 月 13 日宣布，未來五年將投入總值 2.5 億美元的運算資源，旨在強化英國在代理式 [&#8230;]",
+      "date": "2026-10-15T03:25:07+00:00",
       "sourceId": "technews",
       "cats": [
         "market",
@@ -74,11 +74,102 @@
       ]
     },
     {
-      "id": "d4766b16a91d",
-      "title": "Wooptix 加速全球布局！明年 2 套量測設備出貨亞洲、美國市場",
-      "link": "https://technews.tw/2026/10/15/wooptix-semicon-west-javier-elizalde/",
-      "summary": "半導體波前相位成像量測技術業者 Wooptix 先前宣布已於法國技術研究機構 CEA-Leti 完成首套量產規 [&#8230;]",
-      "date": "2026-10-14T18:39:39+00:00",
+      "id": "16088a9036b2",
+      "title": "兩年過去了，中國市場終於 12 月迎接首批 Apple Intelligence 功能",
+      "link": "https://technews.tw/2026/10/15/apple-intelligence-features-roll-out-in-china/",
+      "summary": "蘋果自 2024 年推出 Apple Intelligence 以來，始終未能將相關功能引進中國市場，不過歷經 [&#8230;]",
+      "date": "2026-10-15T02:53:32+00:00",
+      "sourceId": "technews",
+      "cats": [
+        "market",
+        "process",
+        "material"
+      ]
+    },
+    {
+      "id": "a9866b557f38",
+      "title": "輝達攜手新創 ChipAgents 推全新基準測試，檢驗 AI 晶片設計真實能力",
+      "link": "https://technews.tw/2026/10/15/nvidia-launches-ai-chip-benchmark/",
+      "summary": "輝達（NVIDIA）與晶片設計自動化新創 ChipAgents 近日共同推出一項全新基準測試，用來評估 AI [&#8230;]",
+      "date": "2026-10-15T02:50:19+00:00",
+      "sourceId": "technews",
+      "cats": [
+        "market",
+        "process",
+        "material"
+      ]
+    },
+    {
+      "id": "fe26d65c11d9",
+      "title": "長鑫存儲擬推出 4F² 架構 DRAM 挑戰三大廠，業界評估難度頗高",
+      "link": "https://technews.tw/2026/10/15/changxin-memory-plans-to-launch-4f%c2%b2-architecture-dram-to-challenge-the-three-major-manufacturers/",
+      "summary": "中國半導體大廠長鑫存儲（CXMT）日前透露，預計將於 2026 年底前推出首款採用 4F² 結構的伺服器用 D [&#8230;]",
+      "date": "2026-10-15T02:50:03+00:00",
+      "sourceId": "technews",
+      "cats": [
+        "market",
+        "process",
+        "material"
+      ]
+    },
+    {
+      "id": "f7c026b451e7",
+      "title": "AI「精神病」成矽谷新流行語，馬斯克自曝一年發作六次",
+      "link": "https://technews.tw/2026/10/15/elon-musk-says-hes-had-ai-psychosis-half-a-dozen-times-in-the-last-year/",
+      "summary": "特斯拉（Tesla）執行長馬斯克（Elon Musk）近日在 X Takeover 活動受訪時，談到人工智慧（ [&#8230;]",
+      "date": "2026-10-15T02:30:57+00:00",
+      "sourceId": "technews",
+      "cats": [
+        "market",
+        "process",
+        "material"
+      ]
+    },
+    {
+      "id": "c34b0235b4de",
+      "title": "英特爾以色列先進晶圓廠驚傳爆炸、疑涉特殊氣體",
+      "link": "https://technews.tw/2026/10/15/intels-fab-38-explosion-in-israel-injures-3-people/",
+      "summary": "英特爾（Intel Corp.）位於以色列的先進晶圓廠 Fab 38 發生爆炸及火災，造成至少 3 名工人受傷 [&#8230;]",
+      "date": "2026-10-15T02:25:58+00:00",
+      "sourceId": "technews",
+      "cats": [
+        "market",
+        "process",
+        "material"
+      ]
+    },
+    {
+      "id": "ee4a66eb599e",
+      "title": "法說會前台積電股價拉回，市場聚焦數項重點將影響後續營運",
+      "link": "https://finance.technews.tw/2026/10/15/tsmcs-stock-price-pulled-back-before-earnings-call/",
+      "summary": "晶圓代工龍頭台積電（TSMC）今天下午即將公布第三季財報，由於先前已公布亮眼的營收數據，利多因素已大致反映在股 [&#8230;]",
+      "date": "2026-10-15T02:15:04+00:00",
+      "sourceId": "technews",
+      "cats": [
+        "market",
+        "process",
+        "material"
+      ]
+    },
+    {
+      "id": "d174cec8c09b",
+      "title": "費半重挫遇台積法說、加權回測 48,000，傳產避險與矽光子突圍",
+      "link": "https://finance.technews.tw/2026/10/15/sox-plunges-tsmc-earnings-taiex-retests-48000-traditional-industries-hedging-silicon-photonics-breakthrough/",
+      "summary": "台股 14 日在美國通膨數據高於預期、引發全球升息疑慮重燃的影響下呈顯著壓升，加權指數大跌 1.95%（下挫 [&#8230;]",
+      "date": "2026-10-15T02:00:53+00:00",
+      "sourceId": "technews",
+      "cats": [
+        "market",
+        "process",
+        "material"
+      ]
+    },
+    {
+      "id": "d7bbc8400207",
+      "title": "晶片巨頭齊招手！英特爾、美光促台供應鏈赴美，台美 5,000 億投資進度破半",
+      "link": "https://finance.technews.tw/2026/10/15/taiwan-semiconductor-supply-chain-investments-in-us/",
+      "summary": "英特爾（Intel）與美光（Micron）正積極拉攏台灣半導體供應鏈赴美布局。在近日於美國舊金山舉辦的「SEM [&#8230;]",
+      "date": "2026-10-15T02:00:20+00:00",
       "sourceId": "technews",
       "cats": [
         "market",
@@ -123,19 +214,6 @@
         "process",
         "material",
         "equipment"
-      ]
-    },
-    {
-      "id": "3ff2a149fb4e",
-      "title": "先進封裝材料挑戰怎解？三菱化學靠計算化學、量子技術加速材料開發",
-      "link": "https://technews.tw/2026/10/14/mitsubishi-chemical-group-sanjiv-bhatt-semicon-west/",
-      "summary": "AI 與 HPC 需求持續推升晶片效能與整合密度，先進封裝也面臨互連密度提高、散熱與翹曲控制等多重挑戰。三菱化 [&#8230;]",
-      "date": "2026-10-14T10:26:10+00:00",
-      "sourceId": "technews",
-      "cats": [
-        "market",
-        "process",
-        "material"
       ]
     },
     {
