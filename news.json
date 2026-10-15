@@ -1,6 +1,6 @@
 {
-  "updated": "2026-10-15T04:20:34.184801+00:00",
-  "count": 20,
+  "updated": "2026-10-15T11:16:53.553960+00:00",
+  "count": 26,
   "sources": [
     {
       "id": "technews",
@@ -61,11 +61,11 @@
   ],
   "articles": [
     {
-      "id": "4a45f556943e",
-      "title": "輝達五年砸 2.5 億美元算力資源，助英國強化代理式 AI 安全研究",
-      "link": "https://technews.tw/2026/10/15/nvidia-commits-250m-over-5-years-to-advance-uk-agentic-safety-research/",
-      "summary": "輝達（NVIDIA）10 月 13 日宣布，未來五年將投入總值 2.5 億美元的運算資源，旨在強化英國在代理式 [&#8230;]",
-      "date": "2026-10-15T03:25:07+00:00",
+      "id": "ae1a08ed1312",
+      "title": "訂單能見度至 2028 年！弘塑美國布局瞄準亞利桑那州，董座：最大瓶頸是缺料、缺人",
+      "link": "https://technews.tw/2026/10/15/gptc-semicon-west-2026/",
+      "summary": "近年先進封裝成為業界焦點，隨著台積電擴大在美支出，同步帶動本土設備商加速海外布局。弘塑科技董事長張鴻泰在 SE [&#8230;]",
+      "date": "2026-10-15T11:15:27+00:00",
       "sourceId": "technews",
       "cats": [
         "market",
@@ -74,11 +74,24 @@
       ]
     },
     {
-      "id": "16088a9036b2",
-      "title": "兩年過去了，中國市場終於 12 月迎接首批 Apple Intelligence 功能",
-      "link": "https://technews.tw/2026/10/15/apple-intelligence-features-roll-out-in-china/",
-      "summary": "蘋果自 2024 年推出 Apple Intelligence 以來，始終未能將相關功能引進中國市場，不過歷經 [&#8230;]",
-      "date": "2026-10-15T02:53:32+00:00",
+      "id": "9277783c5f9a",
+      "title": "Small Volumes, Big Impact: Europe’s Hidden Role in Advanced Chipmaking",
+      "link": "https://www.eetimes.com/small-volumes-big-impact-europes-hidden-role-in-advanced-chipmaking/",
+      "summary": "A Fraunhofer–IMS Nanofabrication partnership illustrates how Europe's low-volume semiconductor manufacturing can support the world's most advanced chipmaking. The post Small Volumes, Big Impact: Europe&#8217;s Hidden Role in Advanced Chipmaking appeared first on EE Times.",
+      "date": "2026-10-15T10:54:08+00:00",
+      "sourceId": "eetimes",
+      "cats": [
+        "process",
+        "material",
+        "equipment"
+      ]
+    },
+    {
+      "id": "af8f61848a3c",
+      "title": "台積電營收看增 44% 評估德州設廠，法說會重點一次看",
+      "link": "https://finance.technews.tw/2026/10/15/tsmc-earnings-call-2610/",
+      "summary": "人工智慧需求強勁，晶圓代工廠台積電第三季營運繳出亮麗成績單，單季賺進將近三個股本，第四季展望依然樂觀，預估美元 [&#8230;]",
+      "date": "2026-10-15T10:40:49+00:00",
       "sourceId": "technews",
       "cats": [
         "market",
@@ -87,11 +100,11 @@
       ]
     },
     {
-      "id": "a9866b557f38",
-      "title": "輝達攜手新創 ChipAgents 推全新基準測試，檢驗 AI 晶片設計真實能力",
-      "link": "https://technews.tw/2026/10/15/nvidia-launches-ai-chip-benchmark/",
-      "summary": "輝達（NVIDIA）與晶片設計自動化新創 ChipAgents 近日共同推出一項全新基準測試，用來評估 AI [&#8230;]",
-      "date": "2026-10-15T02:50:19+00:00",
+      "id": "442c658cfde5",
+      "title": "2,000 美元起打造加密貨幣專用 SoC？Muse 完成 RISC-V 架構晶片設計",
+      "link": "https://technews.tw/2026/10/15/meta-s-muse-designs-crypto-specific-soc-based-on-risc-v-architecture/",
+      "summary": "在 X 平台上小有聲量的半導體產業專家 Bubble Boi，利用 Meta 的 AI Agent「Muse」 [&#8230;]",
+      "date": "2026-10-15T09:24:59+00:00",
       "sourceId": "technews",
       "cats": [
         "market",
@@ -100,11 +113,11 @@
       ]
     },
     {
-      "id": "fe26d65c11d9",
-      "title": "長鑫存儲擬推出 4F² 架構 DRAM 挑戰三大廠，業界評估難度頗高",
-      "link": "https://technews.tw/2026/10/15/changxin-memory-plans-to-launch-4f%c2%b2-architecture-dram-to-challenge-the-three-major-manufacturers/",
-      "summary": "中國半導體大廠長鑫存儲（CXMT）日前透露，預計將於 2026 年底前推出首款採用 4F² 結構的伺服器用 D [&#8230;]",
-      "date": "2026-10-15T02:50:03+00:00",
+      "id": "9c6951f4f7b7",
+      "title": "NVIDIA 揭 AI 工廠四大布局！串聯半導體設計、製造到晶圓廠自動化",
+      "link": "https://technews.tw/2026/10/15/nvidia-semicon-west-timothy-costa/",
+      "summary": "NVIDIA 副總裁暨工業與計算工程總經理 Timothy Costa 在 SEMICON West 主題演講 [&#8230;]",
+      "date": "2026-10-15T08:45:17+00:00",
       "sourceId": "technews",
       "cats": [
         "market",
@@ -113,11 +126,11 @@
       ]
     },
     {
-      "id": "f7c026b451e7",
-      "title": "AI「精神病」成矽谷新流行語，馬斯克自曝一年發作六次",
-      "link": "https://technews.tw/2026/10/15/elon-musk-says-hes-had-ai-psychosis-half-a-dozen-times-in-the-last-year/",
-      "summary": "特斯拉（Tesla）執行長馬斯克（Elon Musk）近日在 X Takeover 活動受訪時，談到人工智慧（ [&#8230;]",
-      "date": "2026-10-15T02:30:57+00:00",
+      "id": "9d74912ec9de",
+      "title": "台積電全球擴產加速！近 20 座廠依計畫進行，台美日產能再升級",
+      "link": "https://technews.tw/2026/10/15/ai-applications-flourish-tsmc-foresees-continued-growth-advanced-process-demand/",
+      "summary": "台積電今（15）日舉行第三季法人說明會，董事長魏哲家表示，隨著 AI 及先進製程需求持續強勁，公司正以前所未有 [&#8230;]",
+      "date": "2026-10-15T07:57:25+00:00",
       "sourceId": "technews",
       "cats": [
         "market",
@@ -126,11 +139,11 @@
       ]
     },
     {
-      "id": "c34b0235b4de",
-      "title": "英特爾以色列先進晶圓廠驚傳爆炸、疑涉特殊氣體",
-      "link": "https://technews.tw/2026/10/15/intels-fab-38-explosion-in-israel-injures-3-people/",
-      "summary": "英特爾（Intel Corp.）位於以色列的先進晶圓廠 Fab 38 發生爆炸及火災，造成至少 3 名工人受傷 [&#8230;]",
-      "date": "2026-10-15T02:25:58+00:00",
+      "id": "0e074f27e0f3",
+      "title": "AI 晶片需求有多強？魏哲家：所有 AI 業者都與台積電合作",
+      "link": "https://technews.tw/2026/10/15/tsmc-ai-demand-is-booming/",
+      "summary": "台積電今（15）日舉行第三季法人說明會，董事長魏哲家表示，隨著 AI 應用快速發展，無論業者採取何種技術路線， [&#8230;]",
+      "date": "2026-10-15T07:18:05+00:00",
       "sourceId": "technews",
       "cats": [
         "market",
@@ -139,11 +152,11 @@
       ]
     },
     {
-      "id": "ee4a66eb599e",
-      "title": "法說會前台積電股價拉回，市場聚焦數項重點將影響後續營運",
-      "link": "https://finance.technews.tw/2026/10/15/tsmcs-stock-price-pulled-back-before-earnings-call/",
-      "summary": "晶圓代工龍頭台積電（TSMC）今天下午即將公布第三季財報，由於先前已公布亮眼的營收數據，利多因素已大致反映在股 [&#8230;]",
-      "date": "2026-10-15T02:15:04+00:00",
+      "id": "b9ba3a59e9fa",
+      "title": "台積電將於 2030 年開始採用 High-NA EUV，客戶 A14 參與度高於 N2",
+      "link": "https://finance.technews.tw/2026/10/15/tsmc-will-begin-adopting-high-na-euv-in-2030/",
+      "summary": "台積電董事長兼總裁魏哲家針對外界關注的四大焦點議題，包含產能轉租、High-NA EUV 技術引進時程、A14 [&#8230;]",
+      "date": "2026-10-15T07:15:16+00:00",
       "sourceId": "technews",
       "cats": [
         "market",
@@ -152,11 +165,11 @@
       ]
     },
     {
-      "id": "d174cec8c09b",
-      "title": "費半重挫遇台積法說、加權回測 48,000，傳產避險與矽光子突圍",
-      "link": "https://finance.technews.tw/2026/10/15/sox-plunges-tsmc-earnings-taiex-retests-48000-traditional-industries-hedging-silicon-photonics-breakthrough/",
-      "summary": "台股 14 日在美國通膨數據高於預期、引發全球升息疑慮重燃的影響下呈顯著壓升，加權指數大跌 1.95%（下挫 [&#8230;]",
-      "date": "2026-10-15T02:00:53+00:00",
+      "id": "bfad11276e27",
+      "title": "三顧攜正揚攻再生醫療！陳宗基：賦能 i CDMO 劍指亞太細胞代工龍頭",
+      "link": "https://finance.technews.tw/2026/10/15/i-cdmo/",
+      "summary": "三顧今日召開法說會，董事長陳宗基表示，三顧攜手樂迦邁向 i CDMO（intelligent Contract [&#8230;]",
+      "date": "2026-10-15T07:07:29+00:00",
       "sourceId": "technews",
       "cats": [
         "market",
@@ -165,11 +178,89 @@
       ]
     },
     {
-      "id": "d7bbc8400207",
-      "title": "晶片巨頭齊招手！英特爾、美光促台供應鏈赴美，台美 5,000 億投資進度破半",
-      "link": "https://finance.technews.tw/2026/10/15/taiwan-semiconductor-supply-chain-investments-in-us/",
-      "summary": "英特爾（Intel）與美光（Micron）正積極拉攏台灣半導體供應鏈赴美布局。在近日於美國舊金山舉辦的「SEM [&#8230;]",
-      "date": "2026-10-15T02:00:20+00:00",
+      "id": "2769720c8783",
+      "title": "赴德州評估擴產！魏哲家霸氣回應：晶圓廠須由台積電營運",
+      "link": "https://technews.tw/2026/10/15/tsmc-raises-prices/",
+      "summary": "台積電董事長魏哲家今（15）日在第三季法人說明會上表示，台積電已派遣團隊赴美國德州評估擴產機會，並與提出 Te [&#8230;]",
+      "date": "2026-10-15T07:06:55+00:00",
+      "sourceId": "technews",
+      "cats": [
+        "market",
+        "process",
+        "material"
+      ]
+    },
+    {
+      "id": "8a87237f0a87",
+      "title": "魏哲家：AI 需求極其強勁，台積電營收年複合成長率有望超越 50% 高標",
+      "link": "https://finance.technews.tw/2026/10/15/tsmcs-revenue-is-expected-to-achieve-a-compound-annual-growth-rate-exceeding-50-a-high-target/",
+      "summary": "台積電董事長魏哲家針對人工智慧（AI）半導體需求與產能展望強調，目前 AI 需求「非常、極其強勁」，且完全未見 [&#8230;]",
+      "date": "2026-10-15T07:00:45+00:00",
+      "sourceId": "technews",
+      "cats": [
+        "market",
+        "process",
+        "material"
+      ]
+    },
+    {
+      "id": "9a5010bfbfdd",
+      "title": "SK 海力士赴美設廠有條件？傳要求放行擴產大連廠",
+      "link": "https://technews.tw/2026/10/15/sk-hynix-conditions-new-us-factory-on-more-us-chip-equipment-exports-to-china/",
+      "summary": "美國川普政府積極施壓外國晶片業者赴美設廠，韓國記憶體大廠 SK 海力士（SK Hynix）卻試圖反向運用美國製 [&#8230;]",
+      "date": "2026-10-15T06:40:53+00:00",
+      "sourceId": "technews",
+      "cats": [
+        "market",
+        "process",
+        "material"
+      ]
+    },
+    {
+      "id": "0e512332cc8c",
+      "title": "魏哲家：台積電 2026 全年營收成長率將達約 44%，絕不將任何商機拱手讓人",
+      "link": "https://finance.technews.tw/2026/10/15/tsmcs-revenue-growth-rate-for-the-full-year-of-2026-is-expected-to-reach-approximately-44/",
+      "summary": "邁入 2026 年第四季，台積電董事長魏哲家表示，在先進製程技術強勁需求的支撐下，預估以美元計價的 2026 [&#8230;]",
+      "date": "2026-10-15T06:40:30+00:00",
+      "sourceId": "technews",
+      "cats": [
+        "market",
+        "process",
+        "material"
+      ]
+    },
+    {
+      "id": "95e4c6fffdad",
+      "title": "傳字節跳動與聯發科接近達成資料中心晶片供貨協議，有望成第二大客戶",
+      "link": "https://technews.tw/2026/10/15/bytedance-in-talks-to-secure-mediatek-ai-chips-for-data-centers/",
+      "summary": "彭博引述知情人士，字節跳動接近與聯發科達成協議，向後者採購資料中心 AI 晶片，以確保旗下資料中心的關鍵零組件 [&#8230;]",
+      "date": "2026-10-15T06:00:28+00:00",
+      "sourceId": "technews",
+      "cats": [
+        "market",
+        "process",
+        "material"
+      ]
+    },
+    {
+      "id": "0f81ed0f92a0",
+      "title": "台積電第三季 EPS 29.43 元創新高，先進製程占比 79%，2 奈米貢獻營收達 8%",
+      "link": "https://finance.technews.tw/2026/10/15/tsmcs-third-quarter-eps-hit-a-new-high-of-nt29-43/",
+      "summary": "晶圓代工龍頭台積電 15 日公布 2026 年第三季財務報告。受惠於市場強勁需求與先進製程持續發威，台積電第三 [&#8230;]",
+      "date": "2026-10-15T05:40:55+00:00",
+      "sourceId": "technews",
+      "cats": [
+        "market",
+        "process",
+        "material"
+      ]
+    },
+    {
+      "id": "fee43ef9d31e",
+      "title": "三星股價遭錯殺？韓券商：DRAM 技術領先長鑫七年",
+      "link": "https://technews.tw/2026/10/15/samsung-leads-cxmt-by-up-to-seven-years-in-dram-technology/",
+      "summary": "中國記憶體大廠長鑫存儲先進 DRAM 製程進步飛速，引發市場對三星電子（Samsung Electronics [&#8230;]",
+      "date": "2026-10-15T05:30:18+00:00",
       "sourceId": "technews",
       "cats": [
         "market",
@@ -209,19 +300,6 @@
       "link": "https://www.eetimes.com/asml-euv-expansion-runs-through-zeiss/",
       "summary": "ASML’s plans to expand EUV production depend partly on Zeiss’s ability to increase qualified precision-optics output. The post ASML’s EUV Expansion Runs Through Zeiss appeared first on EE Times.",
       "date": "2026-10-14T12:49:10+00:00",
-      "sourceId": "eetimes",
-      "cats": [
-        "process",
-        "material",
-        "equipment"
-      ]
-    },
-    {
-      "id": "90f7039bbc9a",
-      "title": "CASPA CEO Summit Preview with President Jimmy Cheng",
-      "link": "https://www.eetimes.com/caspa-ceo-summit-preview-with-president-jimmy-cheng/",
-      "summary": "CASPA’s annual conference celebrates its 35th anniversary with a lineup of more than 35 CEOs from Silicon Valley, including Intel’s Lip-Bu Tan and Cerebras’s Andrew Feldman. The post CASPA CEO Summit Preview with President Jimmy Cheng appeared first on EE Times.",
-      "date": "2026-10-13T14:04:30+00:00",
       "sourceId": "eetimes",
       "cats": [
         "process",
