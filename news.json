@@ -1,6 +1,6 @@
 {
-  "updated": "2026-10-16T07:00:19.094173+00:00",
-  "count": 17,
+  "updated": "2026-10-16T13:10:15.946252+00:00",
+  "count": 18,
   "sources": [
     {
       "id": "technews",
@@ -61,8 +61,86 @@
   ],
   "articles": [
     {
+      "id": "e798856a8c78",
+      "title": "Taiwan’s AI Ambitions Run into Talent Gap",
+      "link": "https://www.eetimes.com/taiwans-ai-ambitions-run-into-talent-gap/",
+      "summary": "AMD’s David Wang told EE Times that while Taiwan has huge opportunities in rack-scale AI, physical AI, and AI PC markets, the sticking point may well be talent. The post Taiwan’s AI Ambitions Run into Talent Gap appeared first on EE Times.",
+      "date": "2026-10-16T10:55:42+00:00",
+      "sourceId": "eetimes",
+      "cats": [
+        "process",
+        "material",
+        "equipment"
+      ]
+    },
+    {
+      "id": "e2dc2dc2fd94",
+      "title": "美中 AI 人才戰再起？17 歲天才少年陳廣宇告別「月之暗面」轉投矽谷",
+      "link": "https://technews.tw/2026/10/16/17-year-old-ai-prodigy-reportedly-leaves-moonshot-ai-to-join-anthropic/",
+      "summary": "年僅17歲的人工智慧（AI）研究新星陳廣宇，近日證實已離開中國新創公司「月之暗面」（Moonshot AI）， [&#8230;]",
+      "date": "2026-10-16T10:00:44+00:00",
+      "sourceId": "technews",
+      "cats": [
+        "market",
+        "process",
+        "material"
+      ]
+    },
+    {
+      "id": "29d4897b63b0",
+      "title": "布局面板級先進封裝！海德漢推出新平台，運動控制精度瞄準 5 奈米",
+      "link": "https://technews.tw/2026/10/16/heidenhain-semicon-west-david-doyle/",
+      "summary": "海德漢（HEIDENHAIN）美國分公司總裁兼執行長 David Doyle 在 SEMICON West 接 [&#8230;]",
+      "date": "2026-10-16T09:45:26+00:00",
+      "sourceId": "technews",
+      "cats": [
+        "market",
+        "process",
+        "material"
+      ]
+    },
+    {
+      "id": "81970fb2b146",
+      "title": "ASML 警告美擴大 DUV 禁令，恐加速中國半導體自主化",
+      "link": "https://technews.tw/2026/10/16/asml-calls-us-restrictions-on-duv-sales-to-china-counterproductive-stance-reflects-strategic-dilemma-amid-pressure/",
+      "summary": "荷蘭半導體設備大廠艾司摩爾（ASML）近日再度對美國國會擬推動的《硬體技術管制多邊協調法案》（MATCH Ac [&#8230;]",
+      "date": "2026-10-16T07:30:27+00:00",
+      "sourceId": "technews",
+      "cats": [
+        "market",
+        "process",
+        "material"
+      ]
+    },
+    {
+      "id": "a0cbfd8164f9",
+      "title": "Windows 11 效能改善有感，8GB 記憶體電腦也能順暢運作",
+      "link": "https://technews.tw/2026/10/16/microsoft-improves-memory-management-and-efficiency-across-windows/",
+      "summary": "今年稍早，微軟提出一項改善 Windows 11 的計畫，將重心擺在效能、穩定性以及作業系統整體體驗。經過數個 [&#8230;]",
+      "date": "2026-10-16T07:19:21+00:00",
+      "sourceId": "technews",
+      "cats": [
+        "market",
+        "process",
+        "material"
+      ]
+    },
+    {
+      "id": "8b78e50cb286",
+      "title": "AI Moves to System-Level Co-Design: How Can Taiwan Capture More Value",
+      "link": "https://www.eetimes.com/ai-moves-to-system-level-co-design-how-can-taiwan-capture-more-value/",
+      "summary": "During a panel session at iTechCon 2026, discussions explored how Taiwan can build on its strengths in semiconductors, advanced packaging, and system design to support AI development. The post AI Moves to System-Level Co-Design: How Can Taiwan Capture More Value appeared first on EE Times.",
+      "date": "2026-10-16T07:18:34+00:00",
+      "sourceId": "eetimes",
+      "cats": [
+        "process",
+        "material",
+        "equipment"
+      ]
+    },
+    {
       "id": "3787ba655484",
-      "title": "矽谷晶片新創布局科學運算，Zeus GPU 將採台積電製程",
+      "title": "矽谷晶片新創布局科學運算，Zeus GPU 採台積電製程",
       "link": "https://technews.tw/2026/10/16/silicon-valley-chip-startup-focuses-scientific-computing-zeus-gpu-utilize-tsmc-process/",
       "summary": "知情人士透露，晶片設計公司 Bolt Graphics 尋求募資約 1 億美元，公司估值約 7 億美元，目標開 [&#8230;]",
       "date": "2026-10-16T06:00:03+00:00",
@@ -75,62 +153,10 @@
     },
     {
       "id": "96cbaeea566d",
-      "title": "SEMI 美洲總裁：美最先進半導體占比至 2030 年代末上看 4 成",
+      "title": "SEMI 美洲總裁：美最先進半導體占比至 2030 年代末上看四成",
       "link": "https://technews.tw/2026/10/16/semi-americas-president-us-advanced-chip-share-hit-40-percent-late-2030s/",
       "summary": "美國晶圓廠建設項目持續增加，國際半導體產業協會（SEMI）美洲區總裁史托庫納斯接受中央社訪問時預估，若納入德州 [&#8230;]",
       "date": "2026-10-16T05:45:24+00:00",
-      "sourceId": "technews",
-      "cats": [
-        "market",
-        "process",
-        "material"
-      ]
-    },
-    {
-      "id": "03049765908e",
-      "title": "ASIC 合作擴大及高階手機市占提升，美銀給聯發科目標價 6,200 元",
-      "link": "https://finance.technews.tw/2026/10/16/mediatek-expands-asic-collaborations-and-increases-market-share-in-high-end-smartphones/",
-      "summary": "美銀證券（BofA Securities）在最新的研究報告中，重申對聯發科的「買進」投資評等，並維持目標價為新 [&#8230;]",
-      "date": "2026-10-16T02:45:24+00:00",
-      "sourceId": "technews",
-      "cats": [
-        "market",
-        "process",
-        "material"
-      ]
-    },
-    {
-      "id": "001847c0383b",
-      "title": "台積電第三季成績亮眼外資按讚，最高目標價上看 4,000 元",
-      "link": "https://finance.technews.tw/2026/10/16/tsmcs-third-quarter-results-were-impressive-earning-praise-from-foreign-investors/",
-      "summary": "全球晶圓代工龍頭台積電公布最新第 3 季財報，受惠於高效能運算（HPC）與 AI 晶片的強勁需求，單季營收達新 [&#8230;]",
-      "date": "2026-10-16T02:30:38+00:00",
-      "sourceId": "technews",
-      "cats": [
-        "market",
-        "process",
-        "material"
-      ]
-    },
-    {
-      "id": "1f8bffa5acaa",
-      "title": "身為川普盟友仍表態，黃仁勳力挺合法移民「盼全球最優秀的腦袋都來美國」",
-      "link": "https://technews.tw/2026/10/16/jensen-huang-makes-the-case-for-immigration/",
-      "summary": "輝達（NVIDIA）執行長黃仁勳近日在 Podcast 節目中為移民政策發聲，主張美國應持續吸引來自世界各地的 [&#8230;]",
-      "date": "2026-10-16T02:15:47+00:00",
-      "sourceId": "technews",
-      "cats": [
-        "market",
-        "process",
-        "material"
-      ]
-    },
-    {
-      "id": "cb3922c05678",
-      "title": "不只是儲存還能跑 AI，SK 海力士用 3D FeNAND 實現記憶體內運算",
-      "link": "https://technews.tw/2026/10/16/sk-hynix-unveils-3d-fenand-for-ai-computing/",
-      "summary": "SK 海力士（SK hynix）於 15 日公布最新研究，展示如何利用鐵電三維 NAND（3D FeNAND） [&#8230;]",
-      "date": "2026-10-16T02:10:23+00:00",
       "sourceId": "technews",
       "cats": [
         "market",
@@ -170,19 +196,6 @@
       "link": "https://www.eetimes.com/beyond-lithography-3d-scaling-puts-new-demands-on-materials/",
       "summary": "ASM International shows how building increasingly complex 3D devices requires advances in materials and processes. The post Beyond Lithography: 3D Scaling Puts New Demands on Materials appeared first on EE Times.",
       "date": "2026-10-14T18:29:24+00:00",
-      "sourceId": "eetimes",
-      "cats": [
-        "process",
-        "material",
-        "equipment"
-      ]
-    },
-    {
-      "id": "27481aeae033",
-      "title": "Co-Packaged Optics Moves from Promise to Production Planning",
-      "link": "https://www.eetimes.com/co-packaged-optics-moves-from-promise-to-production-planning/",
-      "summary": "At Ayar Labs CPO Summit, Meta, Broadcom, AMD, and others weighed in on readiness for a 2028 co-packaged optics demand surge and the OCI MSA’s role. The post Co-Packaged Optics Moves from Promise to Production Planning appeared first on EE Times.",
-      "date": "2026-10-14T15:41:12+00:00",
       "sourceId": "eetimes",
       "cats": [
         "process",
