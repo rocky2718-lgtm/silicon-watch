@@ -1,6 +1,6 @@
 {
-  "updated": "2026-10-15T21:14:21.468525+00:00",
-  "count": 25,
+  "updated": "2026-10-16T00:13:46.316614+00:00",
+  "count": 20,
   "sources": [
     {
       "id": "technews",
@@ -61,6 +61,45 @@
   ],
   "articles": [
     {
+      "id": "34d6f62f502d",
+      "title": "IBM 攜手西門子推進奈米堆疊半導體技術，邁向埃米世代與 3D 晶片新紀元",
+      "link": "https://technews.tw/2026/10/16/ibm-and-siemens-advance-nano-stacked-semiconductor-technology/",
+      "summary": "IBM 與西門子（Siemens）宣布展開全新研究合作，致力於推進 IBM 於 2026 年稍早推出的「奈米堆 [&#8230;]",
+      "date": "2026-10-15T23:30:12+00:00",
+      "sourceId": "technews",
+      "cats": [
+        "market",
+        "process",
+        "material"
+      ]
+    },
+    {
+      "id": "6414971e9d88",
+      "title": "外資指英特爾晶圓代工與先進封裝獲重大突破，取得蘋果、輝達、微軟等廠商訂單",
+      "link": "https://finance.technews.tw/2026/10/16/foreign-investors-point-to-major-breakthroughs-in-intels-wafer-foundry-and-advanced-packaging/",
+      "summary": "華爾街投資機構 KeyBanc 分析師在結束近期亞洲考察後發布報告指出，英特爾（Intel）晶圓代工業務（In [&#8230;]",
+      "date": "2026-10-15T23:15:24+00:00",
+      "sourceId": "technews",
+      "cats": [
+        "market",
+        "process",
+        "material"
+      ]
+    },
+    {
+      "id": "38ef85549c18",
+      "title": "記憶體價格引爆口水戰，特斯拉遭三星員工指控惡劣壓價與挖角",
+      "link": "https://technews.tw/2026/10/16/memory-prices-ignite-a-war-of-words/",
+      "summary": "特斯拉（Tesla）執行長馬斯克（Elon Musk）近期公開讚揚美光（Micron）的記憶體價格合理，並暗示 [&#8230;]",
+      "date": "2026-10-15T23:00:54+00:00",
+      "sourceId": "technews",
+      "cats": [
+        "market",
+        "process",
+        "material"
+      ]
+    },
+    {
       "id": "314e17ef4c80",
       "title": "Data Orchestration: The Foundation for the Next-generation Semiconductor Enterprise",
       "link": "https://www.eetimes.com/data-orchestration-the-foundation-for-the-next-generation-semiconductor-enterprise/",
@@ -74,10 +113,10 @@
       ]
     },
     {
-      "id": "83701fbdb1c1",
+      "id": "bc8ff2a32920",
       "title": "台灣美光先進封裝與測試二廠啟用，深化 AI 時代高頻寬記憶體布局",
-      "link": "https://finance.technews.tw/2026/10/15/micron-taiwans-advanced-packaging-and-testing-plant-2-commences-operation/",
-      "summary": "記憶體大廠美光科技15日於台中舉行台灣美光先進封裝與測試二廠（Micron Advanced Assembly [&#8230;]",
+      "link": "https://technews.tw/2026/10/15/micron-taiwans-advanced-packaging-and-testing-plant-2-commences-operation/",
+      "summary": "記憶體大廠美光科技 15 日於台中舉行台灣美光先進封裝與測試二廠（Micron Advanced Assemb [&#8230;]",
       "date": "2026-10-15T12:50:29+00:00",
       "sourceId": "technews",
       "cats": [
@@ -157,110 +196,6 @@
       "link": "https://technews.tw/2026/10/15/ai-applications-flourish-tsmc-foresees-continued-growth-advanced-process-demand/",
       "summary": "台積電今（15）日舉行第三季法人說明會，董事長魏哲家表示，隨著 AI 及先進製程需求持續強勁，公司正以前所未有 [&#8230;]",
       "date": "2026-10-15T07:57:25+00:00",
-      "sourceId": "technews",
-      "cats": [
-        "market",
-        "process",
-        "material"
-      ]
-    },
-    {
-      "id": "0e074f27e0f3",
-      "title": "AI 晶片需求有多強？魏哲家：所有 AI 業者都與台積電合作",
-      "link": "https://technews.tw/2026/10/15/tsmc-ai-demand-is-booming/",
-      "summary": "台積電今（15）日舉行第三季法人說明會，董事長魏哲家表示，隨著 AI 應用快速發展，無論業者採取何種技術路線， [&#8230;]",
-      "date": "2026-10-15T07:18:05+00:00",
-      "sourceId": "technews",
-      "cats": [
-        "market",
-        "process",
-        "material"
-      ]
-    },
-    {
-      "id": "b9ba3a59e9fa",
-      "title": "台積電將於 2030 年開始採用 High-NA EUV，客戶 A14 參與度高於 N2",
-      "link": "https://finance.technews.tw/2026/10/15/tsmc-will-begin-adopting-high-na-euv-in-2030/",
-      "summary": "台積電董事長兼總裁魏哲家針對外界關注的四大焦點議題，包含產能轉租、High-NA EUV 技術引進時程、A14 [&#8230;]",
-      "date": "2026-10-15T07:15:16+00:00",
-      "sourceId": "technews",
-      "cats": [
-        "market",
-        "process",
-        "material"
-      ]
-    },
-    {
-      "id": "bfad11276e27",
-      "title": "三顧攜正揚攻再生醫療！陳宗基：賦能 i CDMO 劍指亞太細胞代工龍頭",
-      "link": "https://finance.technews.tw/2026/10/15/i-cdmo/",
-      "summary": "三顧今日召開法說會，董事長陳宗基表示，三顧攜手樂迦邁向 i CDMO（intelligent Contract [&#8230;]",
-      "date": "2026-10-15T07:07:29+00:00",
-      "sourceId": "technews",
-      "cats": [
-        "market",
-        "process",
-        "material"
-      ]
-    },
-    {
-      "id": "c5c5d3591689",
-      "title": "赴德州評估擴產！魏哲家霸氣回應：晶圓廠須由台積電營運",
-      "link": "https://finance.technews.tw/2026/10/15/tsmc-raises-prices/",
-      "summary": "台積電董事長魏哲家今（15）日在第三季法人說明會上表示，台積電已派遣團隊赴美國德州評估擴產機會，並與提出 Te [&#8230;]",
-      "date": "2026-10-15T07:06:55+00:00",
-      "sourceId": "technews",
-      "cats": [
-        "market",
-        "process",
-        "material"
-      ]
-    },
-    {
-      "id": "8a87237f0a87",
-      "title": "魏哲家：AI 需求極其強勁，台積電營收年複合成長率有望超越 50% 高標",
-      "link": "https://finance.technews.tw/2026/10/15/tsmcs-revenue-is-expected-to-achieve-a-compound-annual-growth-rate-exceeding-50-a-high-target/",
-      "summary": "台積電董事長魏哲家針對人工智慧（AI）半導體需求與產能展望強調，目前 AI 需求「非常、極其強勁」，且完全未見 [&#8230;]",
-      "date": "2026-10-15T07:00:45+00:00",
-      "sourceId": "technews",
-      "cats": [
-        "market",
-        "process",
-        "material"
-      ]
-    },
-    {
-      "id": "9a5010bfbfdd",
-      "title": "SK 海力士赴美設廠有條件？傳要求放行擴產大連廠",
-      "link": "https://technews.tw/2026/10/15/sk-hynix-conditions-new-us-factory-on-more-us-chip-equipment-exports-to-china/",
-      "summary": "美國川普政府積極施壓外國晶片業者赴美設廠，韓國記憶體大廠 SK 海力士（SK Hynix）卻試圖反向運用美國製 [&#8230;]",
-      "date": "2026-10-15T06:40:53+00:00",
-      "sourceId": "technews",
-      "cats": [
-        "market",
-        "process",
-        "material"
-      ]
-    },
-    {
-      "id": "0e512332cc8c",
-      "title": "魏哲家：台積電 2026 全年營收成長率將達約 44%，絕不將任何商機拱手讓人",
-      "link": "https://finance.technews.tw/2026/10/15/tsmcs-revenue-growth-rate-for-the-full-year-of-2026-is-expected-to-reach-approximately-44/",
-      "summary": "邁入 2026 年第四季，台積電董事長魏哲家表示，在先進製程技術強勁需求的支撐下，預估以美元計價的 2026 [&#8230;]",
-      "date": "2026-10-15T06:40:30+00:00",
-      "sourceId": "technews",
-      "cats": [
-        "market",
-        "process",
-        "material"
-      ]
-    },
-    {
-      "id": "95e4c6fffdad",
-      "title": "傳字節跳動與聯發科接近達成資料中心晶片供貨協議，有望成第二大客戶",
-      "link": "https://technews.tw/2026/10/15/bytedance-in-talks-to-secure-mediatek-ai-chips-for-data-centers/",
-      "summary": "彭博引述知情人士，字節跳動接近與聯發科達成協議，向後者採購資料中心 AI 晶片，以確保旗下資料中心的關鍵零組件 [&#8230;]",
-      "date": "2026-10-15T06:00:28+00:00",
       "sourceId": "technews",
       "cats": [
         "market",
