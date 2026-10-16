@@ -1,6 +1,6 @@
 {
-  "updated": "2026-10-16T00:13:46.316614+00:00",
-  "count": 20,
+  "updated": "2026-10-16T07:00:19.094173+00:00",
+  "count": 17,
   "sources": [
     {
       "id": "technews",
@@ -61,11 +61,11 @@
   ],
   "articles": [
     {
-      "id": "34d6f62f502d",
-      "title": "IBM 攜手西門子推進奈米堆疊半導體技術，邁向埃米世代與 3D 晶片新紀元",
-      "link": "https://technews.tw/2026/10/16/ibm-and-siemens-advance-nano-stacked-semiconductor-technology/",
-      "summary": "IBM 與西門子（Siemens）宣布展開全新研究合作，致力於推進 IBM 於 2026 年稍早推出的「奈米堆 [&#8230;]",
-      "date": "2026-10-15T23:30:12+00:00",
+      "id": "3787ba655484",
+      "title": "矽谷晶片新創布局科學運算，Zeus GPU 將採台積電製程",
+      "link": "https://technews.tw/2026/10/16/silicon-valley-chip-startup-focuses-scientific-computing-zeus-gpu-utilize-tsmc-process/",
+      "summary": "知情人士透露，晶片設計公司 Bolt Graphics 尋求募資約 1 億美元，公司估值約 7 億美元，目標開 [&#8230;]",
+      "date": "2026-10-16T06:00:03+00:00",
       "sourceId": "technews",
       "cats": [
         "market",
@@ -74,11 +74,11 @@
       ]
     },
     {
-      "id": "6414971e9d88",
-      "title": "外資指英特爾晶圓代工與先進封裝獲重大突破，取得蘋果、輝達、微軟等廠商訂單",
-      "link": "https://finance.technews.tw/2026/10/16/foreign-investors-point-to-major-breakthroughs-in-intels-wafer-foundry-and-advanced-packaging/",
-      "summary": "華爾街投資機構 KeyBanc 分析師在結束近期亞洲考察後發布報告指出，英特爾（Intel）晶圓代工業務（In [&#8230;]",
-      "date": "2026-10-15T23:15:24+00:00",
+      "id": "96cbaeea566d",
+      "title": "SEMI 美洲總裁：美最先進半導體占比至 2030 年代末上看 4 成",
+      "link": "https://technews.tw/2026/10/16/semi-americas-president-us-advanced-chip-share-hit-40-percent-late-2030s/",
+      "summary": "美國晶圓廠建設項目持續增加，國際半導體產業協會（SEMI）美洲區總裁史托庫納斯接受中央社訪問時預估，若納入德州 [&#8230;]",
+      "date": "2026-10-16T05:45:24+00:00",
       "sourceId": "technews",
       "cats": [
         "market",
@@ -87,11 +87,50 @@
       ]
     },
     {
-      "id": "38ef85549c18",
-      "title": "記憶體價格引爆口水戰，特斯拉遭三星員工指控惡劣壓價與挖角",
-      "link": "https://technews.tw/2026/10/16/memory-prices-ignite-a-war-of-words/",
-      "summary": "特斯拉（Tesla）執行長馬斯克（Elon Musk）近期公開讚揚美光（Micron）的記憶體價格合理，並暗示 [&#8230;]",
-      "date": "2026-10-15T23:00:54+00:00",
+      "id": "03049765908e",
+      "title": "ASIC 合作擴大及高階手機市占提升，美銀給聯發科目標價 6,200 元",
+      "link": "https://finance.technews.tw/2026/10/16/mediatek-expands-asic-collaborations-and-increases-market-share-in-high-end-smartphones/",
+      "summary": "美銀證券（BofA Securities）在最新的研究報告中，重申對聯發科的「買進」投資評等，並維持目標價為新 [&#8230;]",
+      "date": "2026-10-16T02:45:24+00:00",
+      "sourceId": "technews",
+      "cats": [
+        "market",
+        "process",
+        "material"
+      ]
+    },
+    {
+      "id": "001847c0383b",
+      "title": "台積電第三季成績亮眼外資按讚，最高目標價上看 4,000 元",
+      "link": "https://finance.technews.tw/2026/10/16/tsmcs-third-quarter-results-were-impressive-earning-praise-from-foreign-investors/",
+      "summary": "全球晶圓代工龍頭台積電公布最新第 3 季財報，受惠於高效能運算（HPC）與 AI 晶片的強勁需求，單季營收達新 [&#8230;]",
+      "date": "2026-10-16T02:30:38+00:00",
+      "sourceId": "technews",
+      "cats": [
+        "market",
+        "process",
+        "material"
+      ]
+    },
+    {
+      "id": "1f8bffa5acaa",
+      "title": "身為川普盟友仍表態，黃仁勳力挺合法移民「盼全球最優秀的腦袋都來美國」",
+      "link": "https://technews.tw/2026/10/16/jensen-huang-makes-the-case-for-immigration/",
+      "summary": "輝達（NVIDIA）執行長黃仁勳近日在 Podcast 節目中為移民政策發聲，主張美國應持續吸引來自世界各地的 [&#8230;]",
+      "date": "2026-10-16T02:15:47+00:00",
+      "sourceId": "technews",
+      "cats": [
+        "market",
+        "process",
+        "material"
+      ]
+    },
+    {
+      "id": "cb3922c05678",
+      "title": "不只是儲存還能跑 AI，SK 海力士用 3D FeNAND 實現記憶體內運算",
+      "link": "https://technews.tw/2026/10/16/sk-hynix-unveils-3d-fenand-for-ai-computing/",
+      "summary": "SK 海力士（SK hynix）於 15 日公布最新研究，展示如何利用鐵電三維 NAND（3D FeNAND） [&#8230;]",
+      "date": "2026-10-16T02:10:23+00:00",
       "sourceId": "technews",
       "cats": [
         "market",
@@ -113,32 +152,6 @@
       ]
     },
     {
-      "id": "bc8ff2a32920",
-      "title": "台灣美光先進封裝與測試二廠啟用，深化 AI 時代高頻寬記憶體布局",
-      "link": "https://technews.tw/2026/10/15/micron-taiwans-advanced-packaging-and-testing-plant-2-commences-operation/",
-      "summary": "記憶體大廠美光科技 15 日於台中舉行台灣美光先進封裝與測試二廠（Micron Advanced Assemb [&#8230;]",
-      "date": "2026-10-15T12:50:29+00:00",
-      "sourceId": "technews",
-      "cats": [
-        "market",
-        "process",
-        "material"
-      ]
-    },
-    {
-      "id": "ae1a08ed1312",
-      "title": "訂單能見度至 2028 年！弘塑美國布局瞄準亞利桑那州，董座：最大瓶頸是缺料、缺人",
-      "link": "https://technews.tw/2026/10/15/gptc-semicon-west-2026/",
-      "summary": "近年先進封裝成為業界焦點，隨著台積電擴大在美支出，同步帶動本土設備商加速海外布局。弘塑科技董事長張鴻泰在 SE [&#8230;]",
-      "date": "2026-10-15T11:15:27+00:00",
-      "sourceId": "technews",
-      "cats": [
-        "market",
-        "process",
-        "material"
-      ]
-    },
-    {
       "id": "9277783c5f9a",
       "title": "Small Volumes, Big Impact: Europe’s Hidden Role in Advanced Chipmaking",
       "link": "https://www.eetimes.com/small-volumes-big-impact-europes-hidden-role-in-advanced-chipmaking/",
@@ -149,58 +162,6 @@
         "process",
         "material",
         "equipment"
-      ]
-    },
-    {
-      "id": "af8f61848a3c",
-      "title": "台積電營收看增 44% 評估德州設廠，法說會重點一次看",
-      "link": "https://finance.technews.tw/2026/10/15/tsmc-earnings-call-2610/",
-      "summary": "人工智慧需求強勁，晶圓代工廠台積電第三季營運繳出亮麗成績單，單季賺進將近三個股本，第四季展望依然樂觀，預估美元 [&#8230;]",
-      "date": "2026-10-15T10:40:49+00:00",
-      "sourceId": "technews",
-      "cats": [
-        "market",
-        "process",
-        "material"
-      ]
-    },
-    {
-      "id": "442c658cfde5",
-      "title": "2,000 美元起打造加密貨幣專用 SoC？Muse 完成 RISC-V 架構晶片設計",
-      "link": "https://technews.tw/2026/10/15/meta-s-muse-designs-crypto-specific-soc-based-on-risc-v-architecture/",
-      "summary": "在 X 平台上小有聲量的半導體產業專家 Bubble Boi，利用 Meta 的 AI Agent「Muse」 [&#8230;]",
-      "date": "2026-10-15T09:24:59+00:00",
-      "sourceId": "technews",
-      "cats": [
-        "market",
-        "process",
-        "material"
-      ]
-    },
-    {
-      "id": "9c6951f4f7b7",
-      "title": "NVIDIA 揭 AI 工廠四大布局！串聯半導體設計、製造到晶圓廠自動化",
-      "link": "https://technews.tw/2026/10/15/nvidia-semicon-west-timothy-costa/",
-      "summary": "NVIDIA 副總裁暨工業與計算工程總經理 Timothy Costa 在 SEMICON West 主題演講 [&#8230;]",
-      "date": "2026-10-15T08:45:17+00:00",
-      "sourceId": "technews",
-      "cats": [
-        "market",
-        "process",
-        "material"
-      ]
-    },
-    {
-      "id": "9d74912ec9de",
-      "title": "台積電全球擴產加速！近 20 座廠依計畫進行，台美日產能再升級",
-      "link": "https://technews.tw/2026/10/15/ai-applications-flourish-tsmc-foresees-continued-growth-advanced-process-demand/",
-      "summary": "台積電今（15）日舉行第三季法人說明會，董事長魏哲家表示，隨著 AI 及先進製程需求持續強勁，公司正以前所未有 [&#8230;]",
-      "date": "2026-10-15T07:57:25+00:00",
-      "sourceId": "technews",
-      "cats": [
-        "market",
-        "process",
-        "material"
       ]
     },
     {
