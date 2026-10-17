@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-17T12:05:59.367165+00:00",
+  "updated": "2026-10-17T16:58:23.582048+00:00",
   "count": 24,
   "sources": [
     {
@@ -60,6 +60,19 @@
     }
   ],
   "articles": [
+    {
+      "id": "2195aba6fa25",
+      "title": "日本核准台積電熊本二廠升級 3 奈米計畫，預計 2028 年底投產",
+      "link": "https://finance.technews.tw/2026/10/17/japan-approves-tsmcs-kumamoto-fab-2-upgrade-plan-to-3nm-process/",
+      "summary": "日本經濟產業省（經產省）16日正式批准台積電（TSMC）熊本第二工廠生產3奈米先進半導體的變更計畫，此計畫代表 [&#8230;]",
+      "date": "2026-10-17T12:45:47+00:00",
+      "sourceId": "technews",
+      "cats": [
+        "market",
+        "process",
+        "material"
+      ]
+    },
     {
       "id": "b6f0260c09cf",
       "title": "SK 海力士明確否認拿條件換美國允許中國大連廠設備輸入",
@@ -214,19 +227,6 @@
         "process",
         "material",
         "equipment"
-      ]
-    },
-    {
-      "id": "920994a6ec45",
-      "title": "台灣將收緊對中國先進晶片出口，未許可輸出產品將首度列刑事犯罪",
-      "link": "https://finance.technews.tw/2026/10/16/taiwan-to-tighten-export-controls-on-advanced-chips-to-china/",
-      "summary": "為進一步同步美國的出口管制政策，並配合川普政府對先進半導體走私至中國的管制，台灣正準備收緊人工智慧（AI）晶片 [&#8230;]",
-      "date": "2026-10-16T14:35:11+00:00",
-      "sourceId": "technews",
-      "cats": [
-        "market",
-        "process",
-        "material"
       ]
     },
     {
