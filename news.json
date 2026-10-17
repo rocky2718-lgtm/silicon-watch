@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-16T20:54:04.097787+00:00",
+  "updated": "2026-10-17T00:16:26.847183+00:00",
   "count": 19,
   "sources": [
     {
@@ -60,6 +60,19 @@
     }
   ],
   "articles": [
+    {
+      "id": "5ddd20566444",
+      "title": "SEMICON West 2026 Displays AI-Era Chipmaking, Workforce Development",
+      "link": "https://www.eetimes.com/semicon-west-2026-displays-ai-era-chipmaking-workforce-development/",
+      "summary": "The trillion-dollar semiconductor industry is ready to adapt and expand its fab infrastructure for the AI wave. The post SEMICON West 2026 Displays AI-Era Chipmaking, Workforce Development appeared first on EE Times.",
+      "date": "2026-10-16T20:59:50+00:00",
+      "sourceId": "eetimes",
+      "cats": [
+        "process",
+        "material",
+        "equipment"
+      ]
+    },
     {
       "id": "920994a6ec45",
       "title": "台灣將收緊對中國先進晶片出口，未許可輸出產品將首度列刑事犯罪",
@@ -170,19 +183,6 @@
       "link": "https://technews.tw/2026/10/16/silicon-valley-chip-startup-focuses-scientific-computing-zeus-gpu-utilize-tsmc-process/",
       "summary": "知情人士透露，晶片設計公司 Bolt Graphics 尋求募資約 1 億美元，公司估值約 7 億美元，目標開 [&#8230;]",
       "date": "2026-10-16T06:00:03+00:00",
-      "sourceId": "technews",
-      "cats": [
-        "market",
-        "process",
-        "material"
-      ]
-    },
-    {
-      "id": "96cbaeea566d",
-      "title": "SEMI 美洲總裁：美最先進半導體占比至 2030 年代末上看四成",
-      "link": "https://technews.tw/2026/10/16/semi-americas-president-us-advanced-chip-share-hit-40-percent-late-2030s/",
-      "summary": "美國晶圓廠建設項目持續增加，國際半導體產業協會（SEMI）美洲區總裁史托庫納斯接受中央社訪問時預估，若納入德州 [&#8230;]",
-      "date": "2026-10-16T05:45:24+00:00",
       "sourceId": "technews",
       "cats": [
         "market",
