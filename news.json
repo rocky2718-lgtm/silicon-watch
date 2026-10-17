@@ -1,6 +1,6 @@
 {
-  "updated": "2026-10-17T00:16:26.847183+00:00",
-  "count": 19,
+  "updated": "2026-10-17T06:49:58.600626+00:00",
+  "count": 24,
   "sources": [
     {
       "id": "technews",
@@ -60,6 +60,110 @@
     }
   ],
   "articles": [
+    {
+      "id": "88e0e0b3c99a",
+      "title": "台積電亮眼財報背後，市場關注隱憂關鍵浮現",
+      "link": "https://finance.technews.tw/2026/10/17/behind-tsmcs-impressive-financial-report-key-concerns-have-emerged-that-have-drawn-market-attention/",
+      "summary": "晶圓代工龍頭台積電公佈最新第三季財報，數據顯示由人工智慧（AI）浪潮推升的強勁需求遠超預期。第三季單季營收達4 [&#8230;]",
+      "date": "2026-10-17T06:00:57+00:00",
+      "sourceId": "technews",
+      "cats": [
+        "market",
+        "process",
+        "material"
+      ]
+    },
+    {
+      "id": "333121f8fa13",
+      "title": "魏哲家籲多用 AI，Token 消耗越多、台積電越受惠",
+      "link": "https://technews.tw/2026/10/17/tsmc-ceo-cc-wei-urges-ai-adoption-more-token-consumption-benefits-tsmc/",
+      "summary": "台積電董事長魏哲家 16 日出席台積電前技術長胡正明新書發表會，他分享自己使用 ChatGPT 準備致詞稿的經 [&#8230;]",
+      "date": "2026-10-17T05:00:18+00:00",
+      "sourceId": "technews",
+      "cats": [
+        "market",
+        "process",
+        "material"
+      ]
+    },
+    {
+      "id": "7db5c981e7f0",
+      "title": "林恩平潑 Micro LED 光通訊冷水？友達彭双浪提另一種解讀",
+      "link": "https://finance.technews.tw/2026/10/17/auo-micro-led-3/",
+      "summary": "大立光董事長林恩平日前於法說會上，對 Micro LED 應用於共同封裝光學（CPO）的技術路線表達保留態度。 [&#8230;]",
+      "date": "2026-10-17T03:54:53+00:00",
+      "sourceId": "technews",
+      "cats": [
+        "market",
+        "process",
+        "material"
+      ]
+    },
+    {
+      "id": "1815f4c9d64b",
+      "title": "台積電進駐熊本滿五年：地方財政霸榜大豐收，在地中小企業為何卻苦喊吃不消",
+      "link": "https://finance.technews.tw/2026/10/17/tsmc-kumamoto-expansion-poses-challenges-for-local-smes/",
+      "summary": "台積電 2021 年宣布進駐日本熊本縣，到 2026 年正好滿五年。半導體相關企業接連落腳，工廠所在的菊陽町與 [&#8230;]",
+      "date": "2026-10-17T03:00:27+00:00",
+      "sourceId": "technews",
+      "cats": [
+        "market",
+        "process",
+        "material"
+      ]
+    },
+    {
+      "id": "8e537dda93c8",
+      "title": "大摩記憶體與 AI 供應鏈展望，HBM 與 SSD 合約價飆升推動算力與網路列投資首選",
+      "link": "https://finance.technews.tw/2026/10/17/morgan-stanley-memory-and-ai-supply-chain-outlook/",
+      "summary": "外資摩根士丹利（Morgan Stanley；大摩）最新研究報告指出，受惠於AI需求推動與產能排擠效應，記憶體 [&#8230;]",
+      "date": "2026-10-17T03:00:16+00:00",
+      "sourceId": "technews",
+      "cats": [
+        "market",
+        "process",
+        "material"
+      ]
+    },
+    {
+      "id": "059139822b88",
+      "title": "中國新創企業開發出 EUV 光源，預估距離正式商用最快 3 年",
+      "link": "https://finance.technews.tw/2026/10/17/chinese-startup-develops-euv-light-source/",
+      "summary": "在美國與荷蘭深化半導體出口管制的背景下，中國半導體設備國產化迎來重大技術突破。中國新創企業朗道矽斯（Langd [&#8230;]",
+      "date": "2026-10-17T02:00:28+00:00",
+      "sourceId": "technews",
+      "cats": [
+        "market",
+        "process",
+        "material"
+      ]
+    },
+    {
+      "id": "3c64b9681e41",
+      "title": "從「很悶」熬到因 AI「蹦起來」，群聯潘健成：台灣產業已是自己種樹自己涼",
+      "link": "https://finance.technews.tw/2026/10/17/taiwan-electronics-industry-stagnant-booming-ai-pua-kian-seng-taiwan-industries-creating-advantages/",
+      "summary": "根據《財訊》雙週刊報導，群聯創辦人暨執行長潘健成，14 日出席潘文淵文教基金會舉辦的《潘文淵──孕育台灣半導體 [&#8230;]",
+      "date": "2026-10-17T01:00:49+00:00",
+      "sourceId": "technews",
+      "cats": [
+        "market",
+        "process",
+        "material"
+      ]
+    },
+    {
+      "id": "cbbe629cd91d",
+      "title": "馬斯克預言中國 2028 年生產大量 DRAM，衝擊記憶體產業雪上加霜",
+      "link": "https://finance.technews.tw/2026/10/17/musk-predicts-that-china-will-produce-a-large-amount-of-dram-by-2028/",
+      "summary": "特斯拉執行長馬斯克（Elon Musk）近日的一句簡短留言，將韓國國內的經濟政策討論推升為全球記憶體晶片市場的 [&#8230;]",
+      "date": "2026-10-17T01:00:09+00:00",
+      "sourceId": "technews",
+      "cats": [
+        "market",
+        "process",
+        "material"
+      ]
+    },
     {
       "id": "5ddd20566444",
       "title": "SEMICON West 2026 Displays AI-Era Chipmaking, Workforce Development",
@@ -139,32 +243,6 @@
       ]
     },
     {
-      "id": "81970fb2b146",
-      "title": "ASML 警告美擴大 DUV 禁令，恐加速中國半導體自主化",
-      "link": "https://technews.tw/2026/10/16/asml-calls-us-restrictions-on-duv-sales-to-china-counterproductive-stance-reflects-strategic-dilemma-amid-pressure/",
-      "summary": "荷蘭半導體設備大廠艾司摩爾（ASML）近日再度對美國國會擬推動的《硬體技術管制多邊協調法案》（MATCH Ac [&#8230;]",
-      "date": "2026-10-16T07:30:27+00:00",
-      "sourceId": "technews",
-      "cats": [
-        "market",
-        "process",
-        "material"
-      ]
-    },
-    {
-      "id": "a0cbfd8164f9",
-      "title": "Windows 11 效能改善有感，8GB 記憶體電腦也能順暢運作",
-      "link": "https://technews.tw/2026/10/16/microsoft-improves-memory-management-and-efficiency-across-windows/",
-      "summary": "今年稍早，微軟提出一項改善 Windows 11 的計畫，將重心擺在效能、穩定性以及作業系統整體體驗。經過數個 [&#8230;]",
-      "date": "2026-10-16T07:19:21+00:00",
-      "sourceId": "technews",
-      "cats": [
-        "market",
-        "process",
-        "material"
-      ]
-    },
-    {
       "id": "8b78e50cb286",
       "title": "AI Moves to System-Level Co-Design: How Can Taiwan Capture More Value",
       "link": "https://www.eetimes.com/ai-moves-to-system-level-co-design-how-can-taiwan-capture-more-value/",
@@ -175,19 +253,6 @@
         "process",
         "material",
         "equipment"
-      ]
-    },
-    {
-      "id": "3787ba655484",
-      "title": "矽谷晶片新創布局科學運算，Zeus GPU 採台積電製程",
-      "link": "https://technews.tw/2026/10/16/silicon-valley-chip-startup-focuses-scientific-computing-zeus-gpu-utilize-tsmc-process/",
-      "summary": "知情人士透露，晶片設計公司 Bolt Graphics 尋求募資約 1 億美元，公司估值約 7 億美元，目標開 [&#8230;]",
-      "date": "2026-10-16T06:00:03+00:00",
-      "sourceId": "technews",
-      "cats": [
-        "market",
-        "process",
-        "material"
       ]
     },
     {
