@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-17T06:49:58.600626+00:00",
+  "updated": "2026-10-17T12:05:59.367165+00:00",
   "count": 24,
   "sources": [
     {
@@ -60,6 +60,45 @@
     }
   ],
   "articles": [
+    {
+      "id": "b6f0260c09cf",
+      "title": "SK 海力士明確否認拿條件換美國允許中國大連廠設備輸入",
+      "link": "https://finance.technews.tw/2026/10/17/sk-hynix-explicitly-denied-using-conditions-in-exchange-for-the-us-allowing-the-import-of-equipment-from-its-dalian-china-plant/",
+      "summary": "韓國記憶體大廠 SK 海力士（SK hynix）發表官方聲明，強烈否認有關其以在美國興建晶圓廠為條件、要求美方 [&#8230;]",
+      "date": "2026-10-17T09:10:19+00:00",
+      "sourceId": "technews",
+      "cats": [
+        "market",
+        "process",
+        "material"
+      ]
+    },
+    {
+      "id": "a3f8744248ff",
+      "title": "AI 記憶體下一步？三星確認速度、可擴展性、持久性為發展重點",
+      "link": "https://finance.technews.tw/2026/10/17/samsung-confirms-speed-scalability-and-durability-as-key-focuses-for-ai-memory-development/",
+      "summary": "韓國三星電子（Samsung Electronics）於日前在加州舉行的開放運算計畫（OCP）全球峰會上，正式 [&#8230;]",
+      "date": "2026-10-17T08:00:17+00:00",
+      "sourceId": "technews",
+      "cats": [
+        "market",
+        "process",
+        "material"
+      ]
+    },
+    {
+      "id": "bf9be52e0e7c",
+      "title": "最賺錢的時候押注下一步，黃仁勳帶領輝達再一次歷史性轉型",
+      "link": "https://technews.tw/2026/10/17/nvidia-completes-another-historic-transformation/",
+      "summary": "幾個月狂砸 400 億美元，輝達（NVIDIA）就這樣大剌剌在所有人注視下，又一次完成重要轉型。 過去幾個月， [&#8230;]",
+      "date": "2026-10-17T08:00:01+00:00",
+      "sourceId": "technews",
+      "cats": [
+        "market",
+        "process",
+        "material"
+      ]
+    },
     {
       "id": "88e0e0b3c99a",
       "title": "台積電亮眼財報背後，市場關注隱憂關鍵浮現",
@@ -191,19 +230,6 @@
       ]
     },
     {
-      "id": "99de10ff9d86",
-      "title": "彭博專訪　龔明鑫：台灣準備對中國緊縮 AI 晶片出口管制並打擊走私",
-      "link": "https://technews.tw/2026/10/16/bloomberg-interview-gong-ming-hsin-taiwan-tightens-ai-chip-export-controls-china/",
-      "summary": "經濟部長龔明鑫近日接受彭博專訪表示，台灣準備緊縮人工智慧（AI）晶片出口管制，進一步與美國限制措施保持一致，加 [&#8230;]",
-      "date": "2026-10-16T14:07:29+00:00",
-      "sourceId": "technews",
-      "cats": [
-        "market",
-        "process",
-        "material"
-      ]
-    },
-    {
       "id": "e798856a8c78",
       "title": "Taiwan’s AI Ambitions Run into Talent Gap",
       "link": "https://www.eetimes.com/taiwans-ai-ambitions-run-into-talent-gap/",
@@ -214,32 +240,6 @@
         "process",
         "material",
         "equipment"
-      ]
-    },
-    {
-      "id": "e2dc2dc2fd94",
-      "title": "美中 AI 人才戰再起？17 歲天才少年陳廣宇告別「月之暗面」轉投矽谷",
-      "link": "https://technews.tw/2026/10/16/17-year-old-ai-prodigy-reportedly-leaves-moonshot-ai-to-join-anthropic/",
-      "summary": "年僅17歲的人工智慧（AI）研究新星陳廣宇，近日證實已離開中國新創公司「月之暗面」（Moonshot AI）， [&#8230;]",
-      "date": "2026-10-16T10:00:44+00:00",
-      "sourceId": "technews",
-      "cats": [
-        "market",
-        "process",
-        "material"
-      ]
-    },
-    {
-      "id": "29d4897b63b0",
-      "title": "布局面板級先進封裝！海德漢推出新平台，運動控制精度瞄準 5 奈米",
-      "link": "https://technews.tw/2026/10/16/heidenhain-semicon-west-david-doyle/",
-      "summary": "海德漢（HEIDENHAIN）美國分公司總裁兼執行長 David Doyle 在 SEMICON West 接 [&#8230;]",
-      "date": "2026-10-16T09:45:26+00:00",
-      "sourceId": "technews",
-      "cats": [
-        "market",
-        "process",
-        "material"
       ]
     },
     {
