@@ -1,6 +1,6 @@
 {
-  "updated": "2026-10-18T04:16:02.305541+00:00",
-  "count": 22,
+  "updated": "2026-10-18T10:50:52.855250+00:00",
+  "count": 17,
   "sources": [
     {
       "id": "technews",
@@ -118,71 +118,6 @@
       "link": "https://technews.tw/2026/10/17/nvidia-completes-another-historic-transformation/",
       "summary": "幾個月狂砸 400 億美元，輝達（NVIDIA）就這樣大剌剌在所有人注視下，又一次完成重要轉型。 過去幾個月， [&#8230;]",
       "date": "2026-10-17T08:00:01+00:00",
-      "sourceId": "technews",
-      "cats": [
-        "market",
-        "process",
-        "material"
-      ]
-    },
-    {
-      "id": "88e0e0b3c99a",
-      "title": "台積電亮眼財報背後，市場關注隱憂關鍵浮現",
-      "link": "https://finance.technews.tw/2026/10/17/behind-tsmcs-impressive-financial-report-key-concerns-have-emerged-that-have-drawn-market-attention/",
-      "summary": "晶圓代工龍頭台積電公佈最新第三季財報，數據顯示由人工智慧（AI）浪潮推升的強勁需求遠超預期。第三季單季營收達4 [&#8230;]",
-      "date": "2026-10-17T06:00:57+00:00",
-      "sourceId": "technews",
-      "cats": [
-        "market",
-        "process",
-        "material"
-      ]
-    },
-    {
-      "id": "333121f8fa13",
-      "title": "魏哲家籲多用 AI，Token 消耗越多、台積電越受惠",
-      "link": "https://technews.tw/2026/10/17/tsmc-ceo-cc-wei-urges-ai-adoption-more-token-consumption-benefits-tsmc/",
-      "summary": "台積電董事長魏哲家 16 日出席台積電前技術長胡正明新書發表會，他分享自己使用 ChatGPT 準備致詞稿的經 [&#8230;]",
-      "date": "2026-10-17T05:00:18+00:00",
-      "sourceId": "technews",
-      "cats": [
-        "market",
-        "process",
-        "material"
-      ]
-    },
-    {
-      "id": "7db5c981e7f0",
-      "title": "林恩平潑 Micro LED 光通訊冷水？友達彭双浪提另一種解讀",
-      "link": "https://finance.technews.tw/2026/10/17/auo-micro-led-3/",
-      "summary": "大立光董事長林恩平日前於法說會上，對 Micro LED 應用於共同封裝光學（CPO）的技術路線表達保留態度。 [&#8230;]",
-      "date": "2026-10-17T03:54:53+00:00",
-      "sourceId": "technews",
-      "cats": [
-        "market",
-        "process",
-        "material"
-      ]
-    },
-    {
-      "id": "1815f4c9d64b",
-      "title": "台積電進駐熊本滿五年：地方財政霸榜大豐收，在地中小企業為何卻苦喊吃不消",
-      "link": "https://finance.technews.tw/2026/10/17/tsmc-kumamoto-expansion-poses-challenges-for-local-smes/",
-      "summary": "台積電 2021 年宣布進駐日本熊本縣，到 2026 年正好滿五年。半導體相關企業接連落腳，工廠所在的菊陽町與 [&#8230;]",
-      "date": "2026-10-17T03:00:27+00:00",
-      "sourceId": "technews",
-      "cats": [
-        "market",
-        "process",
-        "material"
-      ]
-    },
-    {
-      "id": "8e537dda93c8",
-      "title": "大摩記憶體與 AI 供應鏈展望，HBM 與 SSD 合約價飆升推動算力與網路列投資首選",
-      "link": "https://finance.technews.tw/2026/10/17/morgan-stanley-memory-and-ai-supply-chain-outlook/",
-      "summary": "外資摩根士丹利（Morgan Stanley；大摩）最新研究報告指出，受惠於AI需求推動與產能排擠效應，記憶體 [&#8230;]",
-      "date": "2026-10-17T03:00:16+00:00",
       "sourceId": "technews",
       "cats": [
         "market",
