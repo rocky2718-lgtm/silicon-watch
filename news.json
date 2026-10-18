@@ -1,6 +1,6 @@
 {
-  "updated": "2026-10-17T23:55:30.792232+00:00",
-  "count": 24,
+  "updated": "2026-10-18T04:16:02.305541+00:00",
+  "count": 22,
   "sources": [
     {
       "id": "technews",
@@ -60,6 +60,19 @@
     }
   ],
   "articles": [
+    {
+      "id": "0b973c536206",
+      "title": "台灣人在柏林做 AI 資料中心想吃的「漢堡肉」，NextGO Epi 押注下代省電材料氧化鎵",
+      "link": "https://technews.tw/2026/10/18/nextgo-epi/",
+      "summary": "處理客戶委託生產磊晶片，對博士生周大順來說，只是個例行工作，他在實驗室裡照平常的做法把磊晶片做出來、交出去。休 [&#8230;]",
+      "date": "2026-10-18T03:10:31+00:00",
+      "sourceId": "technews",
+      "cats": [
+        "market",
+        "process",
+        "material"
+      ]
+    },
     {
       "id": "2195aba6fa25",
       "title": "日本核准台積電熊本二廠升級 3 奈米計畫，預計 2028 年底投產",
@@ -170,45 +183,6 @@
       "link": "https://finance.technews.tw/2026/10/17/morgan-stanley-memory-and-ai-supply-chain-outlook/",
       "summary": "外資摩根士丹利（Morgan Stanley；大摩）最新研究報告指出，受惠於AI需求推動與產能排擠效應，記憶體 [&#8230;]",
       "date": "2026-10-17T03:00:16+00:00",
-      "sourceId": "technews",
-      "cats": [
-        "market",
-        "process",
-        "material"
-      ]
-    },
-    {
-      "id": "059139822b88",
-      "title": "中國新創企業開發出 EUV 光源，預估距離正式商用最快 3 年",
-      "link": "https://finance.technews.tw/2026/10/17/chinese-startup-develops-euv-light-source/",
-      "summary": "在美國與荷蘭深化半導體出口管制的背景下，中國半導體設備國產化迎來重大技術突破。中國新創企業朗道矽斯（Langd [&#8230;]",
-      "date": "2026-10-17T02:00:28+00:00",
-      "sourceId": "technews",
-      "cats": [
-        "market",
-        "process",
-        "material"
-      ]
-    },
-    {
-      "id": "3c64b9681e41",
-      "title": "從「很悶」熬到因 AI「蹦起來」，群聯潘健成：台灣產業已是自己種樹自己涼",
-      "link": "https://finance.technews.tw/2026/10/17/taiwan-electronics-industry-stagnant-booming-ai-pua-kian-seng-taiwan-industries-creating-advantages/",
-      "summary": "根據《財訊》雙週刊報導，群聯創辦人暨執行長潘健成，14 日出席潘文淵文教基金會舉辦的《潘文淵──孕育台灣半導體 [&#8230;]",
-      "date": "2026-10-17T01:00:49+00:00",
-      "sourceId": "technews",
-      "cats": [
-        "market",
-        "process",
-        "material"
-      ]
-    },
-    {
-      "id": "cbbe629cd91d",
-      "title": "馬斯克預言中國 2028 年生產大量 DRAM，衝擊記憶體產業雪上加霜",
-      "link": "https://finance.technews.tw/2026/10/17/musk-predicts-that-china-will-produce-a-large-amount-of-dram-by-2028/",
-      "summary": "特斯拉執行長馬斯克（Elon Musk）近日的一句簡短留言，將韓國國內的經濟政策討論推升為全球記憶體晶片市場的 [&#8230;]",
-      "date": "2026-10-17T01:00:09+00:00",
       "sourceId": "technews",
       "cats": [
         "market",
