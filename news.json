@@ -1,6 +1,6 @@
 {
-  "updated": "2026-10-18T22:21:40.590799+00:00",
-  "count": 17,
+  "updated": "2026-10-19T04:23:13.381511+00:00",
+  "count": 22,
   "sources": [
     {
       "id": "technews",
@@ -61,11 +61,11 @@
   ],
   "articles": [
     {
-      "id": "0b973c536206",
-      "title": "台灣人在柏林做 AI 資料中心想吃的「漢堡肉」，NextGO Epi 押注下代省電材料氧化鎵",
-      "link": "https://technews.tw/2026/10/18/nextgo-epi/",
-      "summary": "處理客戶委託生產磊晶片，對博士生周大順來說，只是個例行工作，他在實驗室裡照平常的做法把磊晶片做出來、交出去。休 [&#8230;]",
-      "date": "2026-10-18T03:10:31+00:00",
+      "id": "6accb213e6dd",
+      "title": "瑞薩成立逾百人實體 AI 團隊搶攻人型機器人晶片，營收已達 8% 且還在增長",
+      "link": "https://finance.technews.tw/2026/10/19/renesas-launches-physical-ai-team-to-expand-humanoid-chip-business/",
+      "summary": "日本半導體廠瑞薩電子（Renesas）16 日在首爾 COEX 舉行的「Semiconductors Powe [&#8230;]",
+      "date": "2026-10-19T03:20:47+00:00",
       "sourceId": "technews",
       "cats": [
         "market",
@@ -74,11 +74,11 @@
       ]
     },
     {
-      "id": "2195aba6fa25",
-      "title": "日本核准台積電熊本二廠升級 3 奈米計畫，2028 年底投產",
-      "link": "https://finance.technews.tw/2026/10/17/japan-approves-tsmcs-kumamoto-fab-2-upgrade-plan-to-3nm-process/",
-      "summary": "日本經濟產業省（經產省）16日正式批准台積電（TSMC）熊本第二工廠生產3奈米先進半導體的變更計畫，此計畫代表 [&#8230;]",
-      "date": "2026-10-17T12:45:47+00:00",
+      "id": "300e0540e8c0",
+      "title": "CoreWeave 執行長大舉賣股  套現近 10 億美元",
+      "link": "https://finance.technews.tw/2026/10/19/coreweave-ceo-sells-nearly-1-billion-in-stock/",
+      "summary": "輝達（NVIDIA）投資的 AI 雲端運算業者 CoreWeave 近期股價低迷，主因市場擔憂公司大量舉債擴充 [&#8230;]",
+      "date": "2026-10-19T03:10:31+00:00",
       "sourceId": "technews",
       "cats": [
         "market",
@@ -87,11 +87,11 @@
       ]
     },
     {
-      "id": "b6f0260c09cf",
-      "title": "SK 海力士明確否認拿條件換美國允許中國大連廠設備輸入",
-      "link": "https://finance.technews.tw/2026/10/17/sk-hynix-explicitly-denied-using-conditions-in-exchange-for-the-us-allowing-the-import-of-equipment-from-its-dalian-china-plant/",
-      "summary": "韓國記憶體大廠 SK 海力士（SK hynix）發表官方聲明，強烈否認有關其以在美國興建晶圓廠為條件、要求美方 [&#8230;]",
-      "date": "2026-10-17T09:10:19+00:00",
+      "id": "d7af78e4b523",
+      "title": "小摩估台積電拚 2028 年上半年量產 1.4 奈米，蘋果 A22 Pro 有望率先採用",
+      "link": "https://technews.tw/2026/10/19/apple-1-4nm-chips-and-tsmc/",
+      "summary": "美系外資摩根大通（J.P. Morgan）在最新報告指出，台積電目標 2028 年上半年量產次世代 A14 製 [&#8230;]",
+      "date": "2026-10-19T02:59:35+00:00",
       "sourceId": "technews",
       "cats": [
         "market",
@@ -100,11 +100,11 @@
       ]
     },
     {
-      "id": "a3f8744248ff",
-      "title": "AI 記憶體下一步？三星確認速度、可擴展性、持久性為發展重點",
-      "link": "https://finance.technews.tw/2026/10/17/samsung-confirms-speed-scalability-and-durability-as-key-focuses-for-ai-memory-development/",
-      "summary": "韓國三星電子（Samsung Electronics）於日前在加州舉行的開放運算計畫（OCP）全球峰會上，正式 [&#8230;]",
-      "date": "2026-10-17T08:00:17+00:00",
+      "id": "eb97a7ec1468",
+      "title": "AI 加持  晶圓切割機廠 DISCO 傳業績優、營益創新",
+      "link": "https://technews.tw/2026/10/19/disco-reportedly-posts-strong-results-record-operating-profit/",
+      "summary": "AI 需求加持，日本晶圓切割機大廠 DISCO 上半年度（2026 年 4-9 月）業績傳有望優於預期，營益將 [&#8230;]",
+      "date": "2026-10-19T02:40:09+00:00",
       "sourceId": "technews",
       "cats": [
         "market",
@@ -113,11 +113,76 @@
       ]
     },
     {
-      "id": "bf9be52e0e7c",
-      "title": "最賺錢的時候押注下一步，黃仁勳帶領輝達再一次歷史性轉型",
-      "link": "https://technews.tw/2026/10/17/nvidia-completes-another-historic-transformation/",
-      "summary": "幾個月狂砸 400 億美元，輝達（NVIDIA）就這樣大剌剌在所有人注視下，又一次完成重要轉型。 過去幾個月， [&#8230;]",
-      "date": "2026-10-17T08:00:01+00:00",
+      "id": "ae7929230196",
+      "title": "陳立武：英特爾重整已完成約 80%，追上台積電仍需多年投資",
+      "link": "https://technews.tw/2026/10/19/the-home-stretch-intel-ceo-says-restructuring-is-80-complete/",
+      "summary": "英特爾（Intel）執行長陳立武（Lip-Bu Tan）接受《日經》（Nikkei）專訪時表示，公司大規模重整 [&#8230;]",
+      "date": "2026-10-19T02:30:16+00:00",
+      "sourceId": "technews",
+      "cats": [
+        "market",
+        "process",
+        "material"
+      ]
+    },
+    {
+      "id": "4b0b689ede61",
+      "title": "全球成熟製程晶圓代工第四季稼動率衝 91%，2027 年第一季價格全面喊漲",
+      "link": "https://finance.technews.tw/2026/10/19/global-mature-process-wafer-foundry-capacity-utilization-reached-91-in-the-fourth-quarter/",
+      "summary": "市調機構 Sigmaintell 最新預測顯示，受惠於半導體市場復甦與能源、材料成本上升，全球成熟製程晶圓代工 [&#8230;]",
+      "date": "2026-10-19T02:30:09+00:00",
+      "sourceId": "technews",
+      "cats": [
+        "market",
+        "process",
+        "material"
+      ]
+    },
+    {
+      "id": "03348337a6a2",
+      "title": "放棄核心數堆疊！輝達 Vera 轉向單晶片設計，目標打造代理式 AI 低延遲新標準",
+      "link": "https://technews.tw/2026/10/19/nvidias-vera-team-says-chiplet-designs-sacrificed-single-threaded-performance-for-core-counts-and-agentic-ai-is-now-forcing-a-reversal/",
+      "summary": "輝達（NVIDIA）Vera 團隊近日表示，過去業界追求以晶粒化設計（chiplet design）堆疊核心數 [&#8230;]",
+      "date": "2026-10-19T02:20:59+00:00",
+      "sourceId": "technews",
+      "cats": [
+        "market",
+        "process",
+        "material"
+      ]
+    },
+    {
+      "id": "33b65586e13d",
+      "title": "費半重摔、47,000 點季線保衛戰開打，資金急避險聚焦 HBM 與 PCB",
+      "link": "https://finance.technews.tw/2026/10/19/philadelphia-semiconductor-index-plummets-47000-point-quarterly-moving-average-defense-battle-funds-rush-safe-haven-focusing-hbm-pcb/",
+      "summary": "台股 16 日在外資單日瘋狂提款 461.5 億元的龐大壓力下，仰賴本土投信逆勢承接 110.5 億元撐盤，加 [&#8230;]",
+      "date": "2026-10-19T02:00:24+00:00",
+      "sourceId": "technews",
+      "cats": [
+        "market",
+        "process",
+        "material"
+      ]
+    },
+    {
+      "id": "9ea58f1a84a4",
+      "title": "長鑫科技估前三季營運轉盈，獲利逾 1,310 億人幣",
+      "link": "https://finance.technews.tw/2026/10/19/cxmt-fr-26q1q3/",
+      "summary": "中媒報導，中國動態隨機存取記憶體龍頭長鑫科技發表業績預告，今年前三季營業總收入 2,650 億至 2,700 [&#8230;]",
+      "date": "2026-10-19T01:30:36+00:00",
+      "sourceId": "technews",
+      "cats": [
+        "market",
+        "process",
+        "material"
+      ]
+    },
+    {
+      "id": "bbbebeff1a5c",
+      "title": "英特爾押注矽光子！宣稱是全球 300 毫米 InP 光子量產唯一廠商",
+      "link": "https://technews.tw/2026/10/19/intel-ocp-2026-silicon-photonics/",
+      "summary": "英特爾在 OCP 2026 期間分享未來技術的發展方向，表示矽光子是次世代系統架構，將加速高效能運算（HPC） [&#8230;]",
+      "date": "2026-10-19T01:28:57+00:00",
       "sourceId": "technews",
       "cats": [
         "market",
