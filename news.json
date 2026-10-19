@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-19T12:52:38.668997+00:00",
+  "updated": "2026-10-19T19:46:09.221606+00:00",
   "count": 19,
   "sources": [
     {
@@ -60,6 +60,19 @@
     }
   ],
   "articles": [
+    {
+      "id": "67db20f93007",
+      "title": "Qualcomm Wins Key Claims Against Arm, but Damages Total Just $2",
+      "link": "https://www.eetimes.com/qualcomm-wins-key-claims-against-arm-but-damages-total-just-2/",
+      "summary": "The verdict is the latest chapter in a four-year IP dispute between the two chip giants, safeguarding Qualcomm's custom processors while placing financial pressure on Arm. The post Qualcomm Wins Key Claims Against Arm, but Damages Total Just $2 appeared first on EE Times.",
+      "date": "2026-10-19T16:13:37+00:00",
+      "sourceId": "eetimes",
+      "cats": [
+        "process",
+        "material",
+        "equipment"
+      ]
+    },
     {
       "id": "090b875ca093",
       "title": "科普環島列車啟程，半導體、太空與智慧醫療導入體驗",
@@ -196,19 +209,6 @@
       "link": "https://www.eetimes.com/data-orchestration-the-foundation-for-the-next-generation-semiconductor-enterprise/",
       "summary": "Data orchestration gives semiconductor engineering teams a practical way to unify disconnected equipment, systems, and data without replacing existing infrastructure. By creating a connected execution layer across engineering, OT, IT, facilities, and production environments, the solution contextuali",
       "date": "2026-10-15T14:00:00+00:00",
-      "sourceId": "eetimes",
-      "cats": [
-        "process",
-        "material",
-        "equipment"
-      ]
-    },
-    {
-      "id": "9277783c5f9a",
-      "title": "Small Volumes, Big Impact: Europe’s Hidden Role in Advanced Chipmaking",
-      "link": "https://www.eetimes.com/small-volumes-big-impact-europes-hidden-role-in-advanced-chipmaking/",
-      "summary": "A Fraunhofer–IMS Nanofabrication partnership illustrates how Europe's low-volume semiconductor manufacturing can support the world's most advanced chipmaking. The post Small Volumes, Big Impact: Europe&#8217;s Hidden Role in Advanced Chipmaking appeared first on EE Times.",
-      "date": "2026-10-15T10:54:08+00:00",
       "sourceId": "eetimes",
       "cats": [
         "process",
