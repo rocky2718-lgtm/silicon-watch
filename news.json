@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-19T19:46:09.221606+00:00",
+  "updated": "2026-10-19T23:30:56.578430+00:00",
   "count": 19,
   "sources": [
     {
@@ -60,6 +60,45 @@
     }
   ],
   "articles": [
+    {
+      "id": "ef1a8ffdd477",
+      "title": "蘋果、特斯拉以中國記憶體做籌碼要韓商降價，韓媒：當前還難以撼動",
+      "link": "https://finance.technews.tw/2026/10/20/apple-and-tesla-are-using-chinese-memory-chips-as-leverage-to-pressure-south-korean-companies-to-lower-prices/",
+      "summary": "根據朝鮮日報的報導，為了應對記憶體價格飛漲，蘋果（Apple）與特斯拉（Tesla）等美國科技大廠近日頻頻將長 [&#8230;]",
+      "date": "2026-10-19T23:15:53+00:00",
+      "sourceId": "technews",
+      "cats": [
+        "market",
+        "process",
+        "material"
+      ]
+    },
+    {
+      "id": "d87483fc7e3f",
+      "title": "陳立武：中國晶片製造落後不大，英特爾正積極建構與台積電平起平坐業務",
+      "link": "https://finance.technews.tw/2026/10/20/chinas-chip-manufacturing-technology-is-not-far-behind/",
+      "summary": "英特爾（Intel）執行長陳立武（Lip-Bu Tan）在接受日經亞洲（Nikkei Asia）專訪時指出，針 [&#8230;]",
+      "date": "2026-10-19T23:00:39+00:00",
+      "sourceId": "technews",
+      "cats": [
+        "market",
+        "process",
+        "material"
+      ]
+    },
+    {
+      "id": "b73c375324e8",
+      "title": "AI 算力浪潮與地緣雙軌演進！2027 年半導體設備競格全解析",
+      "link": "https://technews.tw/2026/10/20/ai-computing-power-wave-geopolitical-dual-track-evolution-2027-semiconductor-equipment-competitive-landscape-analysis/",
+      "summary": "摩爾定律單晶片微縮效益遞減，使 CoWoS、Hybrid Bonding 等先進封裝成為延續算力的關鍵，測試複 [&#8230;]",
+      "date": "2026-10-19T23:00:35+00:00",
+      "sourceId": "technews",
+      "cats": [
+        "market",
+        "process",
+        "material"
+      ]
+    },
     {
       "id": "67db20f93007",
       "title": "Qualcomm Wins Key Claims Against Arm, but Damages Total Just $2",
@@ -139,32 +178,6 @@
       ]
     },
     {
-      "id": "6be16d86178e",
-      "title": "精密智慧製造台廠，搶攻 AIDC 零組件及設備供應",
-      "link": "https://finance.technews.tw/2026/10/19/taiwanese-precision-smart-manufacturing-firms-target-aidc-component-equipment-supply/",
-      "summary": "人工智慧 AI 伺服器和資料中心（AIDC）等基礎建設需求強勁，帶動關鍵零組件和高階精密製程設備需求，包括電機 [&#8230;]",
-      "date": "2026-10-19T06:30:24+00:00",
-      "sourceId": "technews",
-      "cats": [
-        "market",
-        "process",
-        "material"
-      ]
-    },
-    {
-      "id": "dee0bf2a46b1",
-      "title": "TPCA 展明登場  PCB 產值今年破兆／材料吃緊延續",
-      "link": "https://technews.tw/2026/10/19/pcb-output-to-top-1-trillion-this-year/",
-      "summary": "受惠 AI 伺服器、高速網通及記憶體等需求持續擴張，台灣 PCB 產業今年呈現價量齊揚態勢，全年海內外總產值有 [&#8230;]",
-      "date": "2026-10-19T05:30:30+00:00",
-      "sourceId": "technews",
-      "cats": [
-        "market",
-        "process",
-        "material"
-      ]
-    },
-    {
       "id": "5ddd20566444",
       "title": "SEMICON West 2026 Displays AI-Era Chipmaking, Workforce Development",
       "link": "https://www.eetimes.com/semicon-west-2026-displays-ai-era-chipmaking-workforce-development/",
@@ -196,19 +209,6 @@
       "link": "https://www.eetimes.com/ai-moves-to-system-level-co-design-how-can-taiwan-capture-more-value/",
       "summary": "During a panel session at iTechCon 2026, discussions explored how Taiwan can build on its strengths in semiconductors, advanced packaging, and system design to support AI development. The post AI Moves to System-Level Co-Design: How Can Taiwan Capture More Value appeared first on EE Times.",
       "date": "2026-10-16T07:18:34+00:00",
-      "sourceId": "eetimes",
-      "cats": [
-        "process",
-        "material",
-        "equipment"
-      ]
-    },
-    {
-      "id": "314e17ef4c80",
-      "title": "Data Orchestration: The Foundation for the Next-generation Semiconductor Enterprise",
-      "link": "https://www.eetimes.com/data-orchestration-the-foundation-for-the-next-generation-semiconductor-enterprise/",
-      "summary": "Data orchestration gives semiconductor engineering teams a practical way to unify disconnected equipment, systems, and data without replacing existing infrastructure. By creating a connected execution layer across engineering, OT, IT, facilities, and production environments, the solution contextuali",
-      "date": "2026-10-15T14:00:00+00:00",
       "sourceId": "eetimes",
       "cats": [
         "process",
