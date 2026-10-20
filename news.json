@@ -1,6 +1,6 @@
 {
-  "updated": "2026-10-19T23:30:56.578430+00:00",
-  "count": 19,
+  "updated": "2026-10-20T04:33:50.819661+00:00",
+  "count": 16,
   "sources": [
     {
       "id": "technews",
@@ -61,11 +61,11 @@
   ],
   "articles": [
     {
-      "id": "ef1a8ffdd477",
-      "title": "蘋果、特斯拉以中國記憶體做籌碼要韓商降價，韓媒：當前還難以撼動",
-      "link": "https://finance.technews.tw/2026/10/20/apple-and-tesla-are-using-chinese-memory-chips-as-leverage-to-pressure-south-korean-companies-to-lower-prices/",
-      "summary": "根據朝鮮日報的報導，為了應對記憶體價格飛漲，蘋果（Apple）與特斯拉（Tesla）等美國科技大廠近日頻頻將長 [&#8230;]",
-      "date": "2026-10-19T23:15:53+00:00",
+      "id": "6a49fe6ae04a",
+      "title": "黃仁勳剖析台灣半導體傳奇，從李國鼎遠見、PC 革命到將工程變酷獨特文化",
+      "link": "https://finance.technews.tw/2026/10/20/jensen-huang-analyzes-the-legendary-taiwanese-semiconductor-industry/",
+      "summary": "知名美國百萬訂閱網紅 Lex Fridman 近期釋出一部短片，為 2026 年 Computex Taipe [&#8230;]",
+      "date": "2026-10-20T03:50:26+00:00",
       "sourceId": "technews",
       "cats": [
         "market",
@@ -74,11 +74,11 @@
       ]
     },
     {
-      "id": "d87483fc7e3f",
-      "title": "陳立武：中國晶片製造落後不大，英特爾正積極建構與台積電平起平坐業務",
-      "link": "https://finance.technews.tw/2026/10/20/chinas-chip-manufacturing-technology-is-not-far-behind/",
-      "summary": "英特爾（Intel）執行長陳立武（Lip-Bu Tan）在接受日經亞洲（Nikkei Asia）專訪時指出，針 [&#8230;]",
-      "date": "2026-10-19T23:00:39+00:00",
+      "id": "fe0a2810b992",
+      "title": "輝達以歐洲最大超級電腦完成 104 量子位元容錯模擬，股價因「破紀錄」上漲",
+      "link": "https://technews.tw/2026/10/20/nvidia-runs-fault-tolerant-quantum-sim-on-europes-biggest-supercomputer/",
+      "summary": "輝達（NVIDIA）19 日在柏林 GTC 大會宣布，利用德國尤利希超級電腦中心（Jülich Superco [&#8230;]",
+      "date": "2026-10-20T03:40:48+00:00",
       "sourceId": "technews",
       "cats": [
         "market",
@@ -87,11 +87,37 @@
       ]
     },
     {
-      "id": "b73c375324e8",
-      "title": "AI 算力浪潮與地緣雙軌演進！2027 年半導體設備競格全解析",
-      "link": "https://technews.tw/2026/10/20/ai-computing-power-wave-geopolitical-dual-track-evolution-2027-semiconductor-equipment-competitive-landscape-analysis/",
-      "summary": "摩爾定律單晶片微縮效益遞減，使 CoWoS、Hybrid Bonding 等先進封裝成為延續算力的關鍵，測試複 [&#8230;]",
-      "date": "2026-10-19T23:00:35+00:00",
+      "id": "a77781ecf212",
+      "title": "看好 AI 基建動能  美銀唱多特諾本、Soitec",
+      "link": "https://finance.technews.tw/2026/10/20/bofa-bullish-on-technoprobe-and-soitec/",
+      "summary": "美銀將義大利探針卡巨頭特諾本（Technoprobe）和法國矽晶圓基板大廠 Soitec 列為「歐洲中小型半導 [&#8230;]",
+      "date": "2026-10-20T02:50:48+00:00",
+      "sourceId": "technews",
+      "cats": [
+        "market",
+        "process",
+        "material"
+      ]
+    },
+    {
+      "id": "51a9f095d638",
+      "title": "亞馬遜推出 TorchNeuron，PyTorch 程式免改寫就能搬上 Trainium 晶片",
+      "link": "https://technews.tw/2026/10/20/amazon-unveils-tool-to-run-ai-code-on-custom-chips/",
+      "summary": "亞馬遜（Amazon）19 日推出名為 TorchNeuron 的新工具，主打讓開發者幾乎無需重寫程式，即可將 [&#8230;]",
+      "date": "2026-10-20T02:45:41+00:00",
+      "sourceId": "technews",
+      "cats": [
+        "market",
+        "process",
+        "material"
+      ]
+    },
+    {
+      "id": "423343d7ccf0",
+      "title": "日政府擬對晶圓代工廠 Rapidus 追加出資 4,000 億",
+      "link": "https://technews.tw/2026/10/20/japanese-government-plans-additional-400-billion-yen-investment-rapidus-wafer-foundry/",
+      "summary": "日本官民合作設立的晶圓代工廠 Rapidus 目標在 2027 年度下半年量產 2 奈米（nm）晶片。而日本政 [&#8230;]",
+      "date": "2026-10-20T02:35:31+00:00",
       "sourceId": "technews",
       "cats": [
         "market",
@@ -110,71 +136,6 @@
         "process",
         "material",
         "equipment"
-      ]
-    },
-    {
-      "id": "090b875ca093",
-      "title": "科普環島列車啟程，半導體、太空與智慧醫療導入體驗",
-      "link": "https://technews.tw/2026/10/19/science-popularization-round-the-island-train-departs-introducing-semiconductor-space-smart-healthcare-experiences/",
-      "summary": "2026 台灣科普環島列車今天從台北車站出發，展開為期 6 天的全台科學之旅。國科會主委吳誠文表示，前瞻科研與 [&#8230;]",
-      "date": "2026-10-19T09:40:11+00:00",
-      "sourceId": "technews",
-      "cats": [
-        "market",
-        "process",
-        "material"
-      ]
-    },
-    {
-      "id": "1ed8b3c015e1",
-      "title": "SK 海力士聯手韓政府與四大銀行，推 2 兆韓圜貸款保證支援半導體供應商",
-      "link": "https://finance.technews.tw/2026/10/19/sk-hynix-govt-to-provide-2-tln-won-in-loan-guarantees-to-semiconductor-suppliers/",
-      "summary": "SK 海力士與韓國產業部、韓國貿易保險公社及四大銀行合作，為半導體材料、零組件與設備供應商提供 2 兆韓圜貸款 [&#8230;]",
-      "date": "2026-10-19T08:50:06+00:00",
-      "sourceId": "technews",
-      "cats": [
-        "market",
-        "process",
-        "material"
-      ]
-    },
-    {
-      "id": "1e57425a842a",
-      "title": "為什麼三星要結盟台積電，生產下代 NVHBM 3 奈米基礎晶片？",
-      "link": "https://technews.tw/2026/10/19/samsung-to-partner-with-tsmc-to-produce-next-generation-nvhbm-3-nanometer-base-chips/",
-      "summary": "據韓國媒體報導，三星電子（Samsung Electronics）應最大客戶輝達（Nvidia）要求，將採用台 [&#8230;]",
-      "date": "2026-10-19T08:45:00+00:00",
-      "sourceId": "technews",
-      "cats": [
-        "market",
-        "process",
-        "material"
-      ]
-    },
-    {
-      "id": "5246d952e7c9",
-      "title": "投資人不買單？長鑫存儲發表轉虧為盈財報卻股價下跌 6.5%",
-      "link": "https://finance.technews.tw/2026/10/19/changxin-memory-announced-a-return-to-profitability-but-its-stock-price-fell-6-5/",
-      "summary": "中國記憶體晶片製造商長鑫存儲（CXMT）公布2026年前九個月業績預告，受惠於AI算力需求爆發推升全球DRAM [&#8230;]",
-      "date": "2026-10-19T08:00:27+00:00",
-      "sourceId": "technews",
-      "cats": [
-        "market",
-        "process",
-        "material"
-      ]
-    },
-    {
-      "id": "7e18f01b85dc",
-      "title": "突破量子運算關鍵瓶頸，Google Willow 晶片讓「魔法狀態」錯誤率狂降 40 倍",
-      "link": "https://technews.tw/2026/10/19/google-quantum-computing-bottleneck-breakthrough/",
-      "summary": "Google 旗下的 Google Quantum AI 近期宣布，已成功在自家的 Willow 量子處理器上 [&#8230;]",
-      "date": "2026-10-19T07:20:05+00:00",
-      "sourceId": "technews",
-      "cats": [
-        "market",
-        "process",
-        "material"
       ]
     },
     {
