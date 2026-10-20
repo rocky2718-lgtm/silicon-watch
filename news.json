@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-20T04:33:50.819661+00:00",
+  "updated": "2026-10-20T11:21:39.740683+00:00",
   "count": 16,
   "sources": [
     {
@@ -61,11 +61,11 @@
   ],
   "articles": [
     {
-      "id": "6a49fe6ae04a",
-      "title": "黃仁勳剖析台灣半導體傳奇，從李國鼎遠見、PC 革命到將工程變酷獨特文化",
-      "link": "https://finance.technews.tw/2026/10/20/jensen-huang-analyzes-the-legendary-taiwanese-semiconductor-industry/",
-      "summary": "知名美國百萬訂閱網紅 Lex Fridman 近期釋出一部短片，為 2026 年 Computex Taipe [&#8230;]",
-      "date": "2026-10-20T03:50:26+00:00",
+      "id": "5b2681c23de2",
+      "title": "工研院攜手群翊攻高階載板，AI 溫測技術打入低軌衛星供應鏈",
+      "link": "https://technews.tw/2026/10/20/itri-chin-yi-advanced-substrates-ai-temperature-measurement-technology-leo-satellite-supply-chain/",
+      "summary": "隨著 AI 伺服器、高效能運算（HPC）及低軌衛星通訊需求持續成長，高階載板製程對溫度控制與良率的要求日益提高 [&#8230;]",
+      "date": "2026-10-20T09:22:41+00:00",
       "sourceId": "technews",
       "cats": [
         "market",
@@ -74,11 +74,11 @@
       ]
     },
     {
-      "id": "fe0a2810b992",
-      "title": "輝達以歐洲最大超級電腦完成 104 量子位元容錯模擬，股價因「破紀錄」上漲",
-      "link": "https://technews.tw/2026/10/20/nvidia-runs-fault-tolerant-quantum-sim-on-europes-biggest-supercomputer/",
-      "summary": "輝達（NVIDIA）19 日在柏林 GTC 大會宣布，利用德國尤利希超級電腦中心（Jülich Superco [&#8230;]",
-      "date": "2026-10-20T03:40:48+00:00",
+      "id": "a586792e186d",
+      "title": "輝達在台首開政府事務總監職缺，深化政策溝通拚新總部布局",
+      "link": "https://technews.tw/2026/10/20/nvidia-director-government-affairs-taiwan/",
+      "summary": "人工智慧（AI）晶片大廠輝達（NVIDIA）積極擴大在台布局，近期首度在台灣開出負責與政府部門溝通的「政府事務 [&#8230;]",
+      "date": "2026-10-20T08:50:50+00:00",
       "sourceId": "technews",
       "cats": [
         "market",
@@ -87,11 +87,11 @@
       ]
     },
     {
-      "id": "a77781ecf212",
-      "title": "看好 AI 基建動能  美銀唱多特諾本、Soitec",
-      "link": "https://finance.technews.tw/2026/10/20/bofa-bullish-on-technoprobe-and-soitec/",
-      "summary": "美銀將義大利探針卡巨頭特諾本（Technoprobe）和法國矽晶圓基板大廠 Soitec 列為「歐洲中小型半導 [&#8230;]",
-      "date": "2026-10-20T02:50:48+00:00",
+      "id": "ebb96f9ee018",
+      "title": "2027 年全球資料中心新增產能將翻倍，瓶頸再度轉回半導體晶片與記憶體",
+      "link": "https://finance.technews.tw/2026/10/20/global-data-center-capacity-will-double-by-2027/",
+      "summary": "研調機構 SemiAnalysis 最新發布的報告指出，全球人工智慧（AI）基礎設施建設將在 2027 年邁入 [&#8230;]",
+      "date": "2026-10-20T08:10:26+00:00",
       "sourceId": "technews",
       "cats": [
         "market",
@@ -100,11 +100,11 @@
       ]
     },
     {
-      "id": "51a9f095d638",
-      "title": "亞馬遜推出 TorchNeuron，PyTorch 程式免改寫就能搬上 Trainium 晶片",
-      "link": "https://technews.tw/2026/10/20/amazon-unveils-tool-to-run-ai-code-on-custom-chips/",
-      "summary": "亞馬遜（Amazon）19 日推出名為 TorchNeuron 的新工具，主打讓開發者幾乎無需重寫程式，即可將 [&#8230;]",
-      "date": "2026-10-20T02:45:41+00:00",
+      "id": "2a716393f723",
+      "title": "基富通 10 週年推好好安養信託！多頭總司令張錫喊台積電 5,000 元",
+      "link": "https://finance.technews.tw/2026/10/20/take-good-care-of-yourself/",
+      "summary": "基富通今日慶祝營運屆滿 10 週年，攜手華南銀行推出「好好安養信託」，藉由基金投資不中斷、信託專款專用、資產保 [&#8230;]",
+      "date": "2026-10-20T07:36:10+00:00",
       "sourceId": "technews",
       "cats": [
         "market",
@@ -113,11 +113,24 @@
       ]
     },
     {
-      "id": "423343d7ccf0",
-      "title": "日政府擬對晶圓代工廠 Rapidus 追加出資 4,000 億",
-      "link": "https://technews.tw/2026/10/20/japanese-government-plans-additional-400-billion-yen-investment-rapidus-wafer-foundry/",
-      "summary": "日本官民合作設立的晶圓代工廠 Rapidus 目標在 2027 年度下半年量產 2 奈米（nm）晶片。而日本政 [&#8230;]",
-      "date": "2026-10-20T02:35:31+00:00",
+      "id": "3621c62abd68",
+      "title": "輝達發表矽中介層光學封裝原型晶片，布局 2028 年 Feynman 平台",
+      "link": "https://finance.technews.tw/2026/10/20/nvidia-unveils-prototype-silicon-interposer-optical-packaging-chip/",
+      "summary": "在 SEMICON West 2026 大會上，輝達(NVIDIA) 以「下一代 AI 之光學整合」（Opti [&#8230;]",
+      "date": "2026-10-20T07:30:06+00:00",
+      "sourceId": "technews",
+      "cats": [
+        "market",
+        "process",
+        "material"
+      ]
+    },
+    {
+      "id": "7971a76d0cb5",
+      "title": "馬斯克晶圓夢跨大步，Terafab 傳 2027 年進駐首台 ASML EUV 曝光機",
+      "link": "https://technews.tw/2026/10/20/elon-musk-terafab-first-asml-euv-2027/",
+      "summary": "根據外媒報導，引述知情人士透露，馬斯克（Elon Musk）旗下的 Terafab 預計將於 2027 年年中 [&#8230;]",
+      "date": "2026-10-20T06:40:31+00:00",
       "sourceId": "technews",
       "cats": [
         "market",
@@ -157,19 +170,6 @@
       "link": "https://www.eetimes.com/taiwans-ai-ambitions-run-into-talent-gap/",
       "summary": "AMD’s David Wang told EE Times that while Taiwan has huge opportunities in rack-scale AI, physical AI, and AI PC markets, the sticking point may well be talent. The post Taiwan’s AI Ambitions Run into Talent Gap appeared first on EE Times.",
       "date": "2026-10-16T10:55:42+00:00",
-      "sourceId": "eetimes",
-      "cats": [
-        "process",
-        "material",
-        "equipment"
-      ]
-    },
-    {
-      "id": "8b78e50cb286",
-      "title": "AI Moves to System-Level Co-Design: How Can Taiwan Capture More Value",
-      "link": "https://www.eetimes.com/ai-moves-to-system-level-co-design-how-can-taiwan-capture-more-value/",
-      "summary": "During a panel session at iTechCon 2026, discussions explored how Taiwan can build on its strengths in semiconductors, advanced packaging, and system design to support AI development. The post AI Moves to System-Level Co-Design: How Can Taiwan Capture More Value appeared first on EE Times.",
-      "date": "2026-10-16T07:18:34+00:00",
       "sourceId": "eetimes",
       "cats": [
         "process",
