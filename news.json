@@ -1,6 +1,6 @@
 {
-  "updated": "2026-10-20T11:21:39.740683+00:00",
-  "count": 16,
+  "updated": "2026-10-20T16:46:33.031623+00:00",
+  "count": 17,
   "sources": [
     {
       "id": "technews",
@@ -60,6 +60,19 @@
     }
   ],
   "articles": [
+    {
+      "id": "1d4db972272d",
+      "title": "高雄台積電 F22 廠區工安意外，螺栓斷裂致 4 人墜落送醫後續勒令停工",
+      "link": "https://finance.technews.tw/2026/10/20/industrial-accident-at-tsmc-f22-plant-in-kaohsiung/",
+      "summary": "高雄市楠梓園區台積電F22 P4新建工程工地20日傍晚發生重大工安意外。事故起因於吊車執行鋼構吊掛安裝作業時發 [&#8230;]",
+      "date": "2026-10-20T11:30:53+00:00",
+      "sourceId": "technews",
+      "cats": [
+        "market",
+        "process",
+        "material"
+      ]
+    },
     {
       "id": "5b2681c23de2",
       "title": "工研院攜手群翊攻高階載板，AI 溫測技術打入低軌衛星供應鏈",
