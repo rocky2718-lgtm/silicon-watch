@@ -1,6 +1,6 @@
 {
-  "updated": "2026-10-21T18:31:38.134711+00:00",
-  "count": 21,
+  "updated": "2026-10-21T23:09:27.774765+00:00",
+  "count": 20,
   "sources": [
     {
       "id": "technews",
@@ -227,19 +227,6 @@
         "market",
         "process",
         "material"
-      ]
-    },
-    {
-      "id": "67db20f93007",
-      "title": "Qualcomm Wins Key Claims Against Arm, but Damages Total Just $2",
-      "link": "https://www.eetimes.com/qualcomm-wins-key-claims-against-arm-but-damages-total-just-2/",
-      "summary": "The verdict is the latest chapter in a four-year IP dispute between the two chip giants, safeguarding Qualcomm's custom processors while placing financial pressure on Arm. The post Qualcomm Wins Key Claims Against Arm, but Damages Total Just $2 appeared first on EE Times.",
-      "date": "2026-10-19T16:13:37+00:00",
-      "sourceId": "eetimes",
-      "cats": [
-        "process",
-        "material",
-        "equipment"
       ]
     },
     {
