@@ -1,6 +1,6 @@
 {
-  "updated": "2026-10-21T00:30:15.811833+00:00",
-  "count": 15,
+  "updated": "2026-10-21T07:25:27.703373+00:00",
+  "count": 16,
   "sources": [
     {
       "id": "technews",
@@ -61,11 +61,11 @@
   ],
   "articles": [
     {
-      "id": "c35dae1455a2",
-      "title": "路透：字節阿里騰訊訂購總值逾 350 億美元輝達晶片",
-      "link": "https://technews.tw/2026/10/21/bytedance-alibaba-tencent-place-over-35-billion-worth-of-nvidia-chip-orders/",
-      "summary": "路透社 20 日報導，字節跳動、阿里巴巴和騰訊 3 家中國科技巨頭已訂購超過 300 萬個、總值逾 350 億 [&#8230;]",
-      "date": "2026-10-21T00:15:36+00:00",
+      "id": "ed9398bd94fd",
+      "title": "德微當年 1 元接手虧損 24 億晶圓廠！亞昕科技 10/23 以 120 元登錄興櫃",
+      "link": "https://finance.technews.tw/2026/10/21/protective-components/",
+      "summary": "德微旗下亞昕科技今日召開興櫃前法說會，預計 10 月 23 日以每股 120 元登錄興櫃，董事長張恩傑表示，亞 [&#8230;]",
+      "date": "2026-10-21T07:21:16+00:00",
       "sourceId": "technews",
       "cats": [
         "market",
@@ -74,11 +74,11 @@
       ]
     },
     {
-      "id": "5840ba69c7e0",
-      "title": "自駕車上路前的魔鬼考官，Laplace Intelligence 用 AI 代理打造極端情境模擬",
-      "link": "https://technews.tw/2026/10/21/laplace-intelligence-red-teams-robots-and-self-driving-cars-before-they-hit-the-real-world/",
-      "summary": "來自美國密西根州安娜堡的 Laplace Intelligence，正把「先找出失敗，再上路部署」變成一門生意 [&#8230;]",
-      "date": "2026-10-20T23:40:25+00:00",
+      "id": "529ef2200f8a",
+      "title": "馬斯克曾為了 Terafab 想併購台積電晶圓廠，遭拒絕後選擇合作模式",
+      "link": "https://finance.technews.tw/2026/10/21/musk-once-wanted-to-acquire-tsmcs-wafer-fab-in-order-to-acquire-terafab/",
+      "summary": "韓媒報導，特斯拉與 SpaceX 執行長伊隆·馬斯克（Elon Musk）在開展野心勃勃的 Terafab 晶 [&#8230;]",
+      "date": "2026-10-21T07:10:13+00:00",
       "sourceId": "technews",
       "cats": [
         "market",
@@ -87,11 +87,11 @@
       ]
     },
     {
-      "id": "f2bc29ce7a02",
-      "title": "高雄台積電 F22 廠區工安意外，螺栓斷裂致 4 人墜落送醫後續勒令停工",
-      "link": "https://technews.tw/2026/10/20/industrial-accident-at-tsmc-f22-plant-in-kaohsiung/",
-      "summary": "高雄市楠梓園區台積電 F22 P4 新建工程工地 20 日傍晚發生重大工安意外。事故起因於吊車執行鋼構吊掛安裝 [&#8230;]",
-      "date": "2026-10-20T11:30:53+00:00",
+      "id": "253f00c6ba92",
+      "title": "搶攻人型機器人商機，Allegro 推 48V 電源晶片降低 50% 系統成本",
+      "link": "https://technews.tw/2026/10/21/humanoid-robots-48v-power-allegro-single-chip-pmic-reduces-system-cost-50/",
+      "summary": "隨著實體 AI 與人型機器人加速發展，半導體業者積極搶攻機器人電源及感測市場。美國半導體業者 Allegro [&#8230;]",
+      "date": "2026-10-21T07:03:26+00:00",
       "sourceId": "technews",
       "cats": [
         "market",
@@ -100,11 +100,11 @@
       ]
     },
     {
-      "id": "5b2681c23de2",
-      "title": "工研院攜手群翊攻高階載板，AI 溫測技術打入低軌衛星供應鏈",
-      "link": "https://technews.tw/2026/10/20/itri-chin-yi-advanced-substrates-ai-temperature-measurement-technology-leo-satellite-supply-chain/",
-      "summary": "隨著 AI 伺服器、高效能運算（HPC）及低軌衛星通訊需求持續成長，高階載板製程對溫度控制與良率的要求日益提高 [&#8230;]",
-      "date": "2026-10-20T09:22:41+00:00",
+      "id": "5940ac939b33",
+      "title": "記憶體大缺貨，中國手機廠改用五六年前舊機回收 DRAM 衝出貨",
+      "link": "https://technews.tw/2026/10/21/smartphone-oems-are-now-resorting-to-recycling-dram-that-is-5-to-6-years-old-to-push-up-shipment-volumes/",
+      "summary": "Wccftech 引述亞洲最新報告，中國智慧手機業者將舊機拆出的 DRAM 重新用在新機，部分廠商甚至規劃讓入 [&#8230;]",
+      "date": "2026-10-21T07:00:58+00:00",
       "sourceId": "technews",
       "cats": [
         "market",
@@ -113,11 +113,11 @@
       ]
     },
     {
-      "id": "a586792e186d",
-      "title": "輝達在台首開政府事務總監職缺，深化政策溝通拚新總部布局",
-      "link": "https://technews.tw/2026/10/20/nvidia-director-government-affairs-taiwan/",
-      "summary": "人工智慧（AI）晶片大廠輝達（NVIDIA）積極擴大在台布局，近期首度在台灣開出負責與政府部門溝通的「政府事務 [&#8230;]",
-      "date": "2026-10-20T08:50:50+00:00",
+      "id": "238b21aa1554",
+      "title": "台灣美光記憶體工會與台灣美光達成多項共識，並正式簽署勞資協議",
+      "link": "https://finance.technews.tw/2026/10/21/micron-taiwan-memory-industry-association-and-micron-taiwan-reach-several-consensuses/",
+      "summary": "聯合聲明指出，歷經多次深入且具建設性的討論後，台灣美光記憶體工會（台中工會）與台灣美光記憶體股份有限公司很高興 [&#8230;]",
+      "date": "2026-10-21T06:45:22+00:00",
       "sourceId": "technews",
       "cats": [
         "market",
@@ -126,11 +126,24 @@
       ]
     },
     {
-      "id": "ebb96f9ee018",
-      "title": "2027 年全球資料中心新增產能將翻倍，瓶頸再度轉回半導體晶片與記憶體",
-      "link": "https://finance.technews.tw/2026/10/20/global-data-center-capacity-will-double-by-2027/",
-      "summary": "研調機構 SemiAnalysis 最新發布的報告指出，全球人工智慧（AI）基礎設施建設將在 2027 年邁入 [&#8230;]",
-      "date": "2026-10-20T08:10:26+00:00",
+      "id": "c4cb978afab8",
+      "title": "看好先進封裝與測試業務加速成長，廣發證券給日月光投控 843 元目標價",
+      "link": "https://finance.technews.tw/2026/10/21/we-are-optimistic-about-the-accelerated-growth-of-ase-technology-holdings-advanced-packaging-and-testing-business/",
+      "summary": "外資廣發證券發布最新研究報告，維持封裝測試龍頭日月光投控「買進」投資評等，並將目標價由每股 754 元大幅調升 [&#8230;]",
+      "date": "2026-10-21T05:00:11+00:00",
+      "sourceId": "technews",
+      "cats": [
+        "market",
+        "process",
+        "material"
+      ]
+    },
+    {
+      "id": "0d1dc2143265",
+      "title": "加州擬徵 5% 富豪稅爆逃離潮，黃仁勳霸氣喊「我不怕繳稅只怕變窮」",
+      "link": "https://finance.technews.tw/2026/10/21/jensen-huang-says-paying-8-billion-is-a-privilege/",
+      "summary": "加州擬對資產逾 10 億美元居民一次性課稅 5%，多位科技富豪出錢反對或遷出，輝達（Nvidia）執行長黃仁勳 [&#8230;]",
+      "date": "2026-10-21T04:10:26+00:00",
       "sourceId": "technews",
       "cats": [
         "market",
