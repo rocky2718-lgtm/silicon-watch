@@ -1,6 +1,6 @@
 {
-  "updated": "2026-10-20T21:29:29.017783+00:00",
-  "count": 17,
+  "updated": "2026-10-21T00:30:15.811833+00:00",
+  "count": 15,
   "sources": [
     {
       "id": "technews",
@@ -61,10 +61,36 @@
   ],
   "articles": [
     {
-      "id": "1d4db972272d",
+      "id": "c35dae1455a2",
+      "title": "路透：字節阿里騰訊訂購總值逾 350 億美元輝達晶片",
+      "link": "https://technews.tw/2026/10/21/bytedance-alibaba-tencent-place-over-35-billion-worth-of-nvidia-chip-orders/",
+      "summary": "路透社 20 日報導，字節跳動、阿里巴巴和騰訊 3 家中國科技巨頭已訂購超過 300 萬個、總值逾 350 億 [&#8230;]",
+      "date": "2026-10-21T00:15:36+00:00",
+      "sourceId": "technews",
+      "cats": [
+        "market",
+        "process",
+        "material"
+      ]
+    },
+    {
+      "id": "5840ba69c7e0",
+      "title": "自駕車上路前的魔鬼考官，Laplace Intelligence 用 AI 代理打造極端情境模擬",
+      "link": "https://technews.tw/2026/10/21/laplace-intelligence-red-teams-robots-and-self-driving-cars-before-they-hit-the-real-world/",
+      "summary": "來自美國密西根州安娜堡的 Laplace Intelligence，正把「先找出失敗，再上路部署」變成一門生意 [&#8230;]",
+      "date": "2026-10-20T23:40:25+00:00",
+      "sourceId": "technews",
+      "cats": [
+        "market",
+        "process",
+        "material"
+      ]
+    },
+    {
+      "id": "f2bc29ce7a02",
       "title": "高雄台積電 F22 廠區工安意外，螺栓斷裂致 4 人墜落送醫後續勒令停工",
-      "link": "https://finance.technews.tw/2026/10/20/industrial-accident-at-tsmc-f22-plant-in-kaohsiung/",
-      "summary": "高雄市楠梓園區台積電F22 P4新建工程工地20日傍晚發生重大工安意外。事故起因於吊車執行鋼構吊掛安裝作業時發 [&#8230;]",
+      "link": "https://technews.tw/2026/10/20/industrial-accident-at-tsmc-f22-plant-in-kaohsiung/",
+      "summary": "高雄市楠梓園區台積電 F22 P4 新建工程工地 20 日傍晚發生重大工安意外。事故起因於吊車執行鋼構吊掛安裝 [&#8230;]",
       "date": "2026-10-20T11:30:53+00:00",
       "sourceId": "technews",
       "cats": [
@@ -113,45 +139,6 @@
       ]
     },
     {
-      "id": "2a716393f723",
-      "title": "基富通 10 週年推好好安養信託！多頭總司令張錫喊台積電 5,000 元",
-      "link": "https://finance.technews.tw/2026/10/20/take-good-care-of-yourself/",
-      "summary": "基富通今日慶祝營運屆滿 10 週年，攜手華南銀行推出「好好安養信託」，藉由基金投資不中斷、信託專款專用、資產保 [&#8230;]",
-      "date": "2026-10-20T07:36:10+00:00",
-      "sourceId": "technews",
-      "cats": [
-        "market",
-        "process",
-        "material"
-      ]
-    },
-    {
-      "id": "3621c62abd68",
-      "title": "輝達發表矽中介層光學封裝原型晶片，布局 2028 年 Feynman 平台",
-      "link": "https://finance.technews.tw/2026/10/20/nvidia-unveils-prototype-silicon-interposer-optical-packaging-chip/",
-      "summary": "在 SEMICON West 2026 大會上，輝達(NVIDIA) 以「下一代 AI 之光學整合」（Opti [&#8230;]",
-      "date": "2026-10-20T07:30:06+00:00",
-      "sourceId": "technews",
-      "cats": [
-        "market",
-        "process",
-        "material"
-      ]
-    },
-    {
-      "id": "7971a76d0cb5",
-      "title": "馬斯克晶圓夢跨大步，Terafab 傳 2027 年進駐首台 ASML EUV 曝光機",
-      "link": "https://technews.tw/2026/10/20/elon-musk-terafab-first-asml-euv-2027/",
-      "summary": "根據外媒報導，引述知情人士透露，馬斯克（Elon Musk）旗下的 Terafab 預計將於 2027 年年中 [&#8230;]",
-      "date": "2026-10-20T06:40:31+00:00",
-      "sourceId": "technews",
-      "cats": [
-        "market",
-        "process",
-        "material"
-      ]
-    },
-    {
       "id": "67db20f93007",
       "title": "Qualcomm Wins Key Claims Against Arm, but Damages Total Just $2",
       "link": "https://www.eetimes.com/qualcomm-wins-key-claims-against-arm-but-damages-total-just-2/",
@@ -170,19 +157,6 @@
       "link": "https://www.eetimes.com/semicon-west-2026-displays-ai-era-chipmaking-workforce-development/",
       "summary": "The trillion-dollar semiconductor industry is ready to adapt and expand its fab infrastructure for the AI wave. The post SEMICON West 2026 Displays AI-Era Chipmaking, Workforce Development appeared first on EE Times.",
       "date": "2026-10-16T20:59:50+00:00",
-      "sourceId": "eetimes",
-      "cats": [
-        "process",
-        "material",
-        "equipment"
-      ]
-    },
-    {
-      "id": "e798856a8c78",
-      "title": "Taiwan’s AI Ambitions Run into Talent Gap",
-      "link": "https://www.eetimes.com/taiwans-ai-ambitions-run-into-talent-gap/",
-      "summary": "AMD’s David Wang told EE Times that while Taiwan has huge opportunities in rack-scale AI, physical AI, and AI PC markets, the sticking point may well be talent. The post Taiwan’s AI Ambitions Run into Talent Gap appeared first on EE Times.",
-      "date": "2026-10-16T10:55:42+00:00",
       "sourceId": "eetimes",
       "cats": [
         "process",
