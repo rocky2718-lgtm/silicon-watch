@@ -1,6 +1,6 @@
 {
-  "updated": "2026-10-21T07:25:27.703373+00:00",
-  "count": 16,
+  "updated": "2026-10-21T13:40:06.215697+00:00",
+  "count": 21,
   "sources": [
     {
       "id": "technews",
@@ -61,6 +61,110 @@
   ],
   "articles": [
     {
+      "id": "598d4d84bd06",
+      "title": "India’s OSAT Buildout Puts Semiconductor Testing in Focus",
+      "link": "https://www.eetimes.com/indias-osat-buildout-puts-semiconductor-testing-in-focus/",
+      "summary": "NI said Kaynes Semicon has selected its semiconductor test systems, while other Indian OSATs continue to evaluate equipment as manufacturers prepare for production. The post India’s OSAT Buildout Puts Semiconductor Testing in Focus appeared first on EE Times.",
+      "date": "2026-10-21T13:39:13+00:00",
+      "sourceId": "eetimes",
+      "cats": [
+        "process",
+        "material",
+        "equipment"
+      ]
+    },
+    {
+      "id": "d27e9ae4c3be",
+      "title": "輝達砸大錢布局供應鏈戰略，點名台灣、日本、南韓多家供應鏈廠商受惠",
+      "link": "https://finance.technews.tw/2026/10/21/nvidia-invests-heavily-in-its-supply-chain-strategy/",
+      "summary": "輝達（NVIDIA）於 21 日正式宣布，與全球多家核心供應鏈合作夥伴達成大規模擴產計畫，以擴展全球製造能力， [&#8230;]",
+      "date": "2026-10-21T12:50:06+00:00",
+      "sourceId": "technews",
+      "cats": [
+        "market",
+        "process",
+        "material"
+      ]
+    },
+    {
+      "id": "968ea25fd16d",
+      "title": "川普揭 15 億美元晶片生產回流計畫，商務部長嫌在台灣製造太遠了",
+      "link": "https://finance.technews.tw/2026/10/21/trump-1-5-billion-chip-reshoring-commerce-secretary-taiwan-manufacturing-too-far/",
+      "summary": "美國總統川普 20 日宣布，戰爭部將投資 15 億美元，在北卡羅來納州擴大半導體生產。商務部長盧特尼克則點名台 [&#8230;]",
+      "date": "2026-10-21T10:40:41+00:00",
+      "sourceId": "technews",
+      "cats": [
+        "market",
+        "process",
+        "material"
+      ]
+    },
+    {
+      "id": "817de235bf02",
+      "title": "高通擴大車聯網 V2X 全球部署，攜手 Toyota 推進零事故願景",
+      "link": "https://technews.tw/2026/10/21/qualcomm-toyota-v2x/",
+      "summary": "高通宣布旗下 Qualcomm 車聯網（V2X）晶片組將擴大全球支援範圍，透過單一平台支援所有主要地區的 V2 [&#8230;]",
+      "date": "2026-10-21T09:47:51+00:00",
+      "sourceId": "technews",
+      "cats": [
+        "market",
+        "process",
+        "material"
+      ]
+    },
+    {
+      "id": "69e7c5d1e999",
+      "title": "力抗長江存儲追擊！三星、SK 海力士升級中國廠，擴大生產高階晶片",
+      "link": "https://technews.tw/2026/10/21/samsung-sk-hynix-upgrading-china-plants/",
+      "summary": "三星電子與 SK 海力士正升級在中國的工廠，以生產更先進的記憶體晶片，藉此抵禦中國競爭對手快速崛起帶來的壓力， [&#8230;]",
+      "date": "2026-10-21T09:19:16+00:00",
+      "sourceId": "technews",
+      "cats": [
+        "market",
+        "process",
+        "material"
+      ]
+    },
+    {
+      "id": "2c13774c1d9a",
+      "title": "輝達狂砸 1,645 億美元力挺 OpenAI 與軟銀擴張資料中心，化身幕後金主確保 GPU 銷量不墜",
+      "link": "https://finance.technews.tw/2026/10/21/nvidia-guarantees-ai-data-centers-stabilize-gpu-sales/",
+      "summary": "AI 晶片霸主輝達（Nvidia）正以更深度的財務操作介入 AI 基礎設施融資領域。根據外媒彙整輝達及相關企業 [&#8230;]",
+      "date": "2026-10-21T08:00:46+00:00",
+      "sourceId": "technews",
+      "cats": [
+        "market",
+        "process",
+        "material"
+      ]
+    },
+    {
+      "id": "7cb3fe80addd",
+      "title": "大啖 2 奈米與 CoWoS 擴廠紅利！騏億鑫預計 11 月中掛牌上櫃交易",
+      "link": "https://finance.technews.tw/2026/10/21/cowos-factory-expansion-benefits/",
+      "summary": "騏億鑫明日將舉辦上櫃前業績發表會，預計 11 月中掛牌交易，董事長洪國庭表示，目前在手訂單達 44.76 億元 [&#8230;]",
+      "date": "2026-10-21T07:48:52+00:00",
+      "sourceId": "technews",
+      "cats": [
+        "market",
+        "process",
+        "material"
+      ]
+    },
+    {
+      "id": "31a471f8b161",
+      "title": "Edge AI MCU Features Multimodal Compute, Tiered Memory",
+      "link": "https://www.eetimes.com/edge-ai-mcu-features-multimodal-compute-tiered-memory/",
+      "summary": "A new MCU combines AI-native acceleration with integrated high-bandwidth DRAM scalable to hundreds of megabytes. The post Edge AI MCU Features Multimodal Compute, Tiered Memory appeared first on EE Times.",
+      "date": "2026-10-21T07:30:00+00:00",
+      "sourceId": "eetimes",
+      "cats": [
+        "process",
+        "material",
+        "equipment"
+      ]
+    },
+    {
       "id": "ed9398bd94fd",
       "title": "德微當年 1 元接手虧損 24 億晶圓廠！亞昕科技 10/23 以 120 元登錄興櫃",
       "link": "https://finance.technews.tw/2026/10/21/protective-components/",
@@ -74,9 +178,9 @@
       ]
     },
     {
-      "id": "529ef2200f8a",
+      "id": "40d96b697eda",
       "title": "馬斯克曾為了 Terafab 想併購台積電晶圓廠，遭拒絕後選擇合作模式",
-      "link": "https://finance.technews.tw/2026/10/21/musk-once-wanted-to-acquire-tsmcs-wafer-fab-in-order-to-acquire-terafab/",
+      "link": "https://technews.tw/2026/10/21/musk-once-wanted-to-acquire-tsmcs-wafer-fab-in-order-to-acquire-terafab/",
       "summary": "韓媒報導，特斯拉與 SpaceX 執行長伊隆·馬斯克（Elon Musk）在開展野心勃勃的 Terafab 晶 [&#8230;]",
       "date": "2026-10-21T07:10:13+00:00",
       "sourceId": "technews",
@@ -126,50 +230,11 @@
       ]
     },
     {
-      "id": "c4cb978afab8",
-      "title": "看好先進封裝與測試業務加速成長，廣發證券給日月光投控 843 元目標價",
-      "link": "https://finance.technews.tw/2026/10/21/we-are-optimistic-about-the-accelerated-growth-of-ase-technology-holdings-advanced-packaging-and-testing-business/",
-      "summary": "外資廣發證券發布最新研究報告，維持封裝測試龍頭日月光投控「買進」投資評等，並將目標價由每股 754 元大幅調升 [&#8230;]",
-      "date": "2026-10-21T05:00:11+00:00",
-      "sourceId": "technews",
-      "cats": [
-        "market",
-        "process",
-        "material"
-      ]
-    },
-    {
-      "id": "0d1dc2143265",
-      "title": "加州擬徵 5% 富豪稅爆逃離潮，黃仁勳霸氣喊「我不怕繳稅只怕變窮」",
-      "link": "https://finance.technews.tw/2026/10/21/jensen-huang-says-paying-8-billion-is-a-privilege/",
-      "summary": "加州擬對資產逾 10 億美元居民一次性課稅 5%，多位科技富豪出錢反對或遷出，輝達（Nvidia）執行長黃仁勳 [&#8230;]",
-      "date": "2026-10-21T04:10:26+00:00",
-      "sourceId": "technews",
-      "cats": [
-        "market",
-        "process",
-        "material"
-      ]
-    },
-    {
       "id": "67db20f93007",
       "title": "Qualcomm Wins Key Claims Against Arm, but Damages Total Just $2",
       "link": "https://www.eetimes.com/qualcomm-wins-key-claims-against-arm-but-damages-total-just-2/",
       "summary": "The verdict is the latest chapter in a four-year IP dispute between the two chip giants, safeguarding Qualcomm's custom processors while placing financial pressure on Arm. The post Qualcomm Wins Key Claims Against Arm, but Damages Total Just $2 appeared first on EE Times.",
       "date": "2026-10-19T16:13:37+00:00",
-      "sourceId": "eetimes",
-      "cats": [
-        "process",
-        "material",
-        "equipment"
-      ]
-    },
-    {
-      "id": "5ddd20566444",
-      "title": "SEMICON West 2026 Displays AI-Era Chipmaking, Workforce Development",
-      "link": "https://www.eetimes.com/semicon-west-2026-displays-ai-era-chipmaking-workforce-development/",
-      "summary": "The trillion-dollar semiconductor industry is ready to adapt and expand its fab infrastructure for the AI wave. The post SEMICON West 2026 Displays AI-Era Chipmaking, Workforce Development appeared first on EE Times.",
-      "date": "2026-10-16T20:59:50+00:00",
       "sourceId": "eetimes",
       "cats": [
         "process",
