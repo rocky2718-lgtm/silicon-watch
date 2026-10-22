@@ -1,6 +1,6 @@
 {
-  "updated": "2026-10-22T11:36:46.793261+00:00",
-  "count": 12,
+  "updated": "2026-10-22T17:01:49.043349+00:00",
+  "count": 13,
   "sources": [
     {
       "id": "technews",
@@ -61,6 +61,19 @@
   ],
   "articles": [
     {
+      "id": "1dc5d35b4450",
+      "title": "How Goodram Validates DRAM and SSD Reliability in Europe",
+      "link": "https://www.eetimes.com/how-goodram-validates-dram-and-ssd-reliability-in-europe/",
+      "summary": "Explore Goodram’s European approach to DRAM and SSD testing, from burn-in to platform validation, for reliable industrial and embedded systems. The post How Goodram Validates DRAM and SSD Reliability in Europe appeared first on EE Times.",
+      "date": "2026-10-22T13:00:00+00:00",
+      "sourceId": "eetimes",
+      "cats": [
+        "process",
+        "material",
+        "equipment"
+      ]
+    },
+    {
       "id": "a45ebfc2b585",
       "title": "黃仁勳籲歐洲加快腳步、別過度依賴監管，盼德國以物理 AI 突圍",
       "link": "https://technews.tw/2026/10/22/jensen-huang-has-a-message-for-europe/",
@@ -75,7 +88,7 @@
     },
     {
       "id": "a77b9253730a",
-      "title": "美光勞資協議內容曝光！季度分潤、調薪、勞退10% 再加碼 3 天有薪假",
+      "title": "美光勞資協議內容曝光！季分潤、調薪、勞退 10% 再加碼三天有薪假",
       "link": "https://finance.technews.tw/2026/10/22/microns-labor-agreement-details-revealed/",
       "summary": "半導體大廠台灣美光於近期與台中工會達成歷史性勞資協議，台灣美光董事長盧東暉於媒體說明會中宣佈，在獲得董事會授權 [&#8230;]",
       "date": "2026-10-22T09:30:07+00:00",
