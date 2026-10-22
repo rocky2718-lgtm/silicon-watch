@@ -1,6 +1,6 @@
 {
-  "updated": "2026-10-22T04:24:34.492912+00:00",
-  "count": 20,
+  "updated": "2026-10-22T11:36:46.793261+00:00",
+  "count": 12,
   "sources": [
     {
       "id": "technews",
@@ -61,11 +61,11 @@
   ],
   "articles": [
     {
-      "id": "261024497936",
-      "title": "半導體設備商科林研發財測無驚喜  盤後挫近 7%",
-      "link": "https://finance.technews.tw/2026/10/22/lam-research-forecast-fails-to-impress-shares-drop-nearly-7-after-hours/",
-      "summary": "美國半導體設備大廠科林研發（Lam Research）上季營收、獲利及每股盈餘均創新高，但本季財測僅略優於市場 [&#8230;]",
-      "date": "2026-10-22T04:10:10+00:00",
+      "id": "a45ebfc2b585",
+      "title": "黃仁勳籲歐洲加快腳步、別過度依賴監管，盼德國以物理 AI 突圍",
+      "link": "https://technews.tw/2026/10/22/jensen-huang-has-a-message-for-europe/",
+      "summary": "NVIDIA 於柏林展開 GTC Berlin 大會之前，執行長黃仁勳過去 7 天內接連造訪法國、瑞典、英國及 [&#8230;]",
+      "date": "2026-10-22T10:39:38+00:00",
       "sourceId": "technews",
       "cats": [
         "market",
@@ -74,11 +74,11 @@
       ]
     },
     {
-      "id": "56a76b7c524b",
-      "title": "AI＋工業雙引擎  德州儀器 Q3 獲利猛增 77%",
-      "link": "https://finance.technews.tw/2026/10/22/texas-instruments-q3-profit-surges-77/",
-      "summary": "美國半導體大廠德州儀器（Texas Instruments）受惠工業、車用及 AI 資料中心需求強勁，21 日 [&#8230;]",
-      "date": "2026-10-22T03:40:31+00:00",
+      "id": "a77b9253730a",
+      "title": "美光勞資協議內容曝光！季度分潤、調薪、勞退10% 再加碼 3 天有薪假",
+      "link": "https://finance.technews.tw/2026/10/22/microns-labor-agreement-details-revealed/",
+      "summary": "半導體大廠台灣美光於近期與台中工會達成歷史性勞資協議，台灣美光董事長盧東暉於媒體說明會中宣佈，在獲得董事會授權 [&#8230;]",
+      "date": "2026-10-22T09:30:07+00:00",
       "sourceId": "technews",
       "cats": [
         "market",
@@ -87,115 +87,11 @@
       ]
     },
     {
-      "id": "78decc612840",
-      "title": "輝達採客製化 HBM，專家：可望築起新競爭護城河",
-      "link": "https://technews.tw/2026/10/22/nvidia-customized-hbm-experts-predict-new-competitive-moat/",
-      "summary": "韓國媒體日前報導，三星（Samsung）將首度採用台積電的 3 奈米製程，為輝達（NVIDIA）下一代客製化 [&#8230;]",
-      "date": "2026-10-22T03:15:35+00:00",
-      "sourceId": "technews",
-      "cats": [
-        "market",
-        "process",
-        "material"
-      ]
-    },
-    {
-      "id": "7724914700d7",
-      "title": "黃仁勳指 GPU 壽命翻倍上看八年，打破 AI 硬體快速折舊迷思",
-      "link": "https://technews.tw/2026/10/22/nvidias-jensen-huang-says-gpus-now-last-8-years-or-more/",
-      "summary": "輝達（NVIDIA）執行長黃仁勳（Jensen Huang）近日表示，GPU 的實際使用壽命已明顯拉長，現在可 [&#8230;]",
-      "date": "2026-10-22T03:00:14+00:00",
-      "sourceId": "technews",
-      "cats": [
-        "market",
-        "process",
-        "material"
-      ]
-    },
-    {
-      "id": "bd815b310931",
-      "title": "美光跳過 4F² DRAM 電路單元架構，稱密度優勢近乎神話有根本性問題",
-      "link": "https://technews.tw/2026/10/22/micron-officially-skips-the-4f%c2%b2-dram-circuit-cell-architecture/",
-      "summary": "針對近期市場討論沸沸揚揚的 4F² DRAM 電路單元架構，記憶體大廠美光（Micron）正式宣布跳過該技術， [&#8230;]",
-      "date": "2026-10-22T03:00:09+00:00",
-      "sourceId": "technews",
-      "cats": [
-        "market",
-        "process",
-        "material"
-      ]
-    },
-    {
-      "id": "a3ef398f9cf4",
-      "title": "輝達柏林 GTC 發表七大開放權重模型家族，搶攻歐洲主權 AI 需求",
-      "link": "https://technews.tw/2026/10/22/nvidia-woos-wary-europeans-with-more-open-weights-models/",
-      "summary": "輝達（NVIDIA）21 日於柏林 GTC 大會發表一系列開放權重模型，涵蓋語言、檢索、結構化資料、機器人、自 [&#8230;]",
-      "date": "2026-10-22T02:50:07+00:00",
-      "sourceId": "technews",
-      "cats": [
-        "market",
-        "process",
-        "material"
-      ]
-    },
-    {
-      "id": "b357c1b30f24",
-      "title": "SK 海力士 HBM 的下一步，特重散熱效果 iHBM 已規劃量產",
-      "link": "https://technews.tw/2026/10/22/sk-hynix-hbms-next-step/",
-      "summary": "韓國記憶體大廠 SK 海力士（SK hynix）傳出已開始與國內外材料及設備供應商展開諮詢，積極推進次世代「i [&#8230;]",
-      "date": "2026-10-22T02:10:38+00:00",
-      "sourceId": "technews",
-      "cats": [
-        "market",
-        "process",
-        "material"
-      ]
-    },
-    {
-      "id": "7ecaecd4ff24",
-      "title": "抗議者鬧場、機器鴨罷工，黃仁勳柏林演講靠幽默化解插曲",
-      "link": "https://technews.tw/2026/10/22/jensen-huang-berlin-speech-incident/",
-      "summary": "輝達（Nvidia）執行長黃仁勳 21 日在柏林 GTC 大會發表主題演講。原本預計向歐洲市場描繪 AI 基礎 [&#8230;]",
-      "date": "2026-10-22T02:00:56+00:00",
-      "sourceId": "technews",
-      "cats": [
-        "market",
-        "process",
-        "material"
-      ]
-    },
-    {
-      "id": "cec6717bcf49",
-      "title": "輝達擴產加持載板雙雄！台積電領軍跳空，大盤叩關 47,000",
-      "link": "https://finance.technews.tw/2026/10/22/nvidia-expansion-boosts-carrier-boards-tsmc-leads-market-surge-index-nears-47000/",
-      "summary": "台股 21 日展現驚人洗盤韌性，加權指數盤中雖一度下探，但隨後強勢急拉逾 900 點，終場收在 46,293 [&#8230;]",
-      "date": "2026-10-22T02:00:53+00:00",
-      "sourceId": "technews",
-      "cats": [
-        "market",
-        "process",
-        "material"
-      ]
-    },
-    {
-      "id": "014e6e71e69a",
-      "title": "AI ASIC 領域展現強勁動能，花旗給聯發科 6,800 元目標價",
-      "link": "https://finance.technews.tw/2026/10/22/ai-asic-sector-strong-momentum-citi-sets-mediatek-6800-target-price/",
-      "summary": "外資花旗發布最新研究報告指出，重申對 IC 設計龍頭聯發科的「買進」投資評等，目標價設定為每股 6,800 元 [&#8230;]",
-      "date": "2026-10-22T02:00:21+00:00",
-      "sourceId": "technews",
-      "cats": [
-        "market",
-        "process",
-        "material"
-      ]
-    },
-    {
-      "id": "d53bb63bd0cf",
-      "title": "英特爾俄亥俄州晶圓廠上樑  但量產要等到 2030 年",
-      "link": "https://technews.tw/2026/10/22/intel-hits-construction-milestone-at-ohio-chip-fab-thats-at-least-5-years-behind-schedule/",
-      "summary": "美國晶片大廠英特爾（Intel）週三（21 日）宣布，俄亥俄州晶圓廠新建工程取得進展，首座廠房已上樑，宣示工程 [&#8230;]",
-      "date": "2026-10-22T01:40:23+00:00",
+      "id": "d41e363154e5",
+      "title": "中國客戶棄華為昇騰搶買 RTX PRO 5500，輝達僅能滿足 5%~10% 市場需求",
+      "link": "https://technews.tw/2026/10/22/chinese-customers-are-abandoning-huaweis-ascend-and-rushing-to-buy-rtx-pro-5500/",
+      "summary": "在中國人工智慧（AI）晶片出貨量方面，華為雖正逐漸縮小與輝達（NVIDIA）的市場差距，但包括字節跳動、阿里巴 [&#8230;]",
+      "date": "2026-10-22T07:30:08+00:00",
       "sourceId": "technews",
       "cats": [
         "market",
