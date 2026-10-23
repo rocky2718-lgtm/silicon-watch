@@ -1,6 +1,6 @@
 {
-  "updated": "2026-10-23T07:19:58.660252+00:00",
-  "count": 13,
+  "updated": "2026-10-23T13:18:02.032017+00:00",
+  "count": 7,
   "sources": [
     {
       "id": "technews",
@@ -61,37 +61,50 @@
   ],
   "articles": [
     {
+      "id": "3d25a750e142",
+      "title": "Two Dollars and a Test Suite",
+      "link": "https://www.eetimes.com/two-dollars-and-a-test-suite/",
+      "summary": "The $2 damages award grabbed headlines, but the Arm-Qualcomm verdict’s bigger implication concerns who controls the compliance tests that custom chips must pass before shipping. The post Two Dollars and a Test Suite appeared first on EE Times.",
+      "date": "2026-10-23T08:03:27+00:00",
+      "sourceId": "eetimes",
+      "cats": [
+        "process",
+        "material",
+        "equipment"
+      ]
+    },
+    {
+      "id": "75ce302b0da2",
+      "title": "576 顆 GPU 合體成一顆巨型 GPU，輝達揭露 Rubin Ultra NVL576 架構",
+      "link": "https://technews.tw/2026/10/23/nvidia-to-connect-576-rubin-ultra-gpus-using-cpo-to-create-one-giant-gpu/",
+      "summary": "輝達（NVIDIA）於 10 月 22 日的 OCP 2026 大會上進一步揭露了 Rubin Ultra 平 [&#8230;]",
+      "date": "2026-10-23T08:00:47+00:00",
+      "sourceId": "technews",
+      "cats": [
+        "market",
+        "process",
+        "material"
+      ]
+    },
+    {
+      "id": "e4f46a2c15fd",
+      "title": "陳立武堅持「有訂單才擴產」，英特爾美國兩座新廠同步加速",
+      "link": "https://technews.tw/2026/10/23/intel-advances-chip-plants-as-ai-demand-surges/",
+      "summary": "英特爾（Intel）延宕多時的美國晶圓廠擴建計畫，近日再度出現明顯進展。公司表示，位於亞利桑那州鳳凰城附近 O [&#8230;]",
+      "date": "2026-10-23T07:40:51+00:00",
+      "sourceId": "technews",
+      "cats": [
+        "market",
+        "process",
+        "material"
+      ]
+    },
+    {
       "id": "d7f24962ebae",
       "title": "黃仁勳：2029 年前記憶體難過剩，與中國企業合作持開放態度",
       "link": "https://technews.tw/2026/10/23/memory-oversupply-is-unlikely-before-2029/",
       "summary": "輝達（NVIDIA）執行長黃仁勳針對近期市場對記憶體半導體供過於求的疑慮發表看法。他指出，隨著人工智慧（AI） [&#8230;]",
       "date": "2026-10-23T06:15:50+00:00",
-      "sourceId": "technews",
-      "cats": [
-        "market",
-        "process",
-        "material"
-      ]
-    },
-    {
-      "id": "6ff6defc9f64",
-      "title": "SpaceX 擴大 Grok 商業版圖，結盟 NVIDIA、Databricks 共建企業 AI 生態系",
-      "link": "https://technews.tw/2026/10/23/grok-partner-program/",
-      "summary": "SpaceX Super Intelligence（x.ai）於 22 日宣布啟動「超級智慧合作夥伴網路」（S [&#8230;]",
-      "date": "2026-10-23T03:10:02+00:00",
-      "sourceId": "technews",
-      "cats": [
-        "market",
-        "process",
-        "material"
-      ]
-    },
-    {
-      "id": "780d9d259c0a",
-      "title": "華碩以 NVIDIA 頂尖算力驅動創新！「2026 Agentic AI on the Edge Hackathon」於瓶蓋工廠圓滿落幕",
-      "link": "https://technews.tw/2026/10/23/asus-2026-agentic-ai-on-the-edge-hackathon/",
-      "summary": "聚焦邊緣運算與代理式 AI（Agentic AI）前瞻應用的「2026 Agentic AI on the E [&#8230;]",
-      "date": "2026-10-23T02:55:25+00:00",
       "sourceId": "technews",
       "cats": [
         "market",
@@ -135,97 +148,6 @@
       "cats": [
         "process",
         "material",
-        "equipment"
-      ]
-    },
-    {
-      "id": "fb91bb3083a8",
-      "title": "Another Giant Leap: The Rubin CPX Specialized Accelerator & Rack",
-      "link": "https://semianalysis.com/2025/09/10/another-giant-leap-the-rubin-cpx-specialized-accelerator-rack/",
-      "summary": "Nvidia announced the Rubin CPX, a solution that is specifically designed to be optimized for the prefill phase, with the single-die Rubin CPX heavily emphasizing compute FLOPS over memory bandwidth. This is a game changer for inference, and its significance is surpassed only by the March 2024 announ",
-      "date": "2025-09-10T19:57:18+00:00",
-      "sourceId": "semianalysis",
-      "cats": [
-        "process",
-        "market",
-        "equipment"
-      ]
-    },
-    {
-      "id": "8fdb407959b5",
-      "title": "Huawei Ascend Production Ramp: Die Banks, TSMC Continued Production, HBM is The Bottleneck",
-      "link": "https://semianalysis.com/2025/09/08/huawei-ascend-production-ramp/",
-      "summary": "Compute is the lifeblood of AI. He who controls the spice controls the universe the compute will control the production of tokens and reap the benefits of AI. Without compute you do not have a seat at the table. The United States technology community is all in on compute and AI as the next platform ",
-      "date": "2025-09-08T09:54:57+00:00",
-      "sourceId": "semianalysis",
-      "cats": [
-        "process",
-        "market",
-        "equipment"
-      ]
-    },
-    {
-      "id": "4d1d636eb5c1",
-      "title": "H100 vs GB200 NVL72 Training Benchmarks – Power, TCO, and Reliability Analysis, Software Improvement Over Time",
-      "link": "https://semianalysis.com/2025/08/20/h100-vs-gb200-nvl72-training-benchmarks/",
-      "summary": "Frontier model training has pushed GPUs and AI systems to their absolute limits, making cost, efficiency, power, performance per TCO, and reliability central to the discussion on effective training. The Hopper vs Blackwell comparisons are not as simple as Nvidia would have you believe. In this repor",
-      "date": "2025-08-20T04:56:35+00:00",
-      "sourceId": "semianalysis",
-      "cats": [
-        "process",
-        "market",
-        "equipment"
-      ]
-    },
-    {
-      "id": "b13ecf27cefb",
-      "title": "Scaling the Memory Wall: The Rise and Roadmap of HBM",
-      "link": "https://semianalysis.com/2025/08/12/scaling-the-memory-wall-the-rise-and-roadmap-of-hbm/",
-      "summary": "The first portion of this report will explain HBM, the manufacturing process, dynamics between vendors, KVCache offload, disaggregated prefill decode, and wide / high-rank EP. The rest of the report will dive deeply into the future of HBM. We will cover the revolutionary change coming to HBM4 with c",
-      "date": "2025-08-12T01:16:06+00:00",
-      "sourceId": "semianalysis",
-      "cats": [
-        "process",
-        "market",
-        "equipment"
-      ]
-    },
-    {
-      "id": "4da2f0c9f207",
-      "title": "Robotics Levels of Autonomy",
-      "link": "https://semianalysis.com/2025/07/30/robotics-levels-of-autonomy/",
-      "summary": "Robots have powered manufacturing for decades, yet they stayed single-purpose and thrived only in perfect settings. Previous attempts at intelligent machines overpromised and underdelivered. But they were too early. Today, modern AI paradigms convert most robot roadblocks into data problems and push",
-      "date": "2025-07-30T17:02:25+00:00",
-      "sourceId": "semianalysis",
-      "cats": [
-        "process",
-        "market",
-        "equipment"
-      ]
-    },
-    {
-      "id": "0409fbe555b7",
-      "title": "Intel 18A Details & Cost, Future of DRAM 4F2 vs 3D, Backside Power Adoption (or Not), China’s FlipFET, Digital Twins from Atoms to Fabs, and More",
-      "link": "https://semianalysis.com/2025/07/21/vlsi2025/",
-      "summary": "Long time readers will recall that SemiAnalysis covers more than just datacenters and AMD. Today we’re back to semiconductors with a tech-focused roundup of the best from this year’s VLSI conference, the premiere design and integration. That includes the latest in chips manufacturing: fab digital tw",
-      "date": "2025-07-21T14:23:37+00:00",
-      "sourceId": "semianalysis",
-      "cats": [
-        "process",
-        "market",
-        "equipment"
-      ]
-    },
-    {
-      "id": "9f42602799fd",
-      "title": "Meta Superintelligence – Leadership Compute, Talent, and Data",
-      "link": "https://semianalysis.com/2025/07/11/meta-superintelligence-leadership-compute-talent-and-data/",
-      "summary": "Meta’s shocking purchase of 49% of Scale AI at a ~$30B valuation shows that money is of no concern for the $100B annual cashflow ad machine. Despite seemingly unlimited resources, Meta has been falling behind foundation labs in model performance.",
-      "date": "2025-07-11T20:12:19+00:00",
-      "sourceId": "semianalysis",
-      "cats": [
-        "process",
-        "market",
         "equipment"
       ]
     }
