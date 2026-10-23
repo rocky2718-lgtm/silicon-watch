@@ -1,6 +1,6 @@
 {
-  "updated": "2026-10-23T00:31:36.489694+00:00",
-  "count": 18,
+  "updated": "2026-10-23T07:19:58.660252+00:00",
+  "count": 13,
   "sources": [
     {
       "id": "technews",
@@ -61,11 +61,11 @@
   ],
   "articles": [
     {
-      "id": "00cd148def0d",
-      "title": "AI 新創 Flapping Airplanes 獲 10 億美元注資，誓言將晶片效能榨到極致",
-      "link": "https://technews.tw/2026/10/23/flapping-airplanes-1-billion-funding/",
-      "summary": "據外媒報導，成立僅一年的 AI 新創公司 Flapping Airplanes 宣布完成 10 億美元的新一輪 [&#8230;]",
-      "date": "2026-10-23T00:30:30+00:00",
+      "id": "d7f24962ebae",
+      "title": "黃仁勳：2029 年前記憶體難過剩，與中國企業合作持開放態度",
+      "link": "https://technews.tw/2026/10/23/memory-oversupply-is-unlikely-before-2029/",
+      "summary": "輝達（NVIDIA）執行長黃仁勳針對近期市場對記憶體半導體供過於求的疑慮發表看法。他指出，隨著人工智慧（AI） [&#8230;]",
+      "date": "2026-10-23T06:15:50+00:00",
       "sourceId": "technews",
       "cats": [
         "market",
@@ -74,11 +74,11 @@
       ]
     },
     {
-      "id": "bce65d000ded",
-      "title": "聯電攜手愛普科技推進 AI 與高效能運算系統電源解決方案",
-      "link": "https://finance.technews.tw/2026/10/23/umc-and-app-technology-advance-power-solutions-for-ai-and-high-performance-computing-systems/",
-      "summary": "晶圓代工大廠聯電與愛普科技共同宣布展開技術與製造合作，推進AI與高效能運算(HPC)系統的供電解決方案。此次合 [&#8230;]",
-      "date": "2026-10-23T00:30:00+00:00",
+      "id": "6ff6defc9f64",
+      "title": "SpaceX 擴大 Grok 商業版圖，結盟 NVIDIA、Databricks 共建企業 AI 生態系",
+      "link": "https://technews.tw/2026/10/23/grok-partner-program/",
+      "summary": "SpaceX Super Intelligence（x.ai）於 22 日宣布啟動「超級智慧合作夥伴網路」（S [&#8230;]",
+      "date": "2026-10-23T03:10:02+00:00",
       "sourceId": "technews",
       "cats": [
         "market",
@@ -87,50 +87,11 @@
       ]
     },
     {
-      "id": "b4f88e1ca180",
-      "title": "黃仁勳批 AI 毀滅人類論：搏版面的不實廉價說法",
-      "link": "https://technews.tw/2026/10/23/nvidia-boss-criticises-cheap-ai-doomsday-warnings/",
-      "summary": "美國人工智慧（AI）晶片業巨擘輝達（Nvidia）執行長黃仁勳 22 日表示，有關 AI 可能毀滅人類的相關警 [&#8230;]",
-      "date": "2026-10-23T00:15:53+00:00",
-      "sourceId": "technews",
-      "cats": [
-        "market",
-        "process",
-        "material"
-      ]
-    },
-    {
-      "id": "2d79e77790d4",
-      "title": "台灣網友自製〈Fab24hr〉晶圓廠模擬器暴紅，高壓日常連外媒都驚呼：恐怖遊戲",
-      "link": "https://ccc.technews.tw/2026/10/23/taiwan-wafer-fab-simulation-game-goes-viral/",
-      "summary": "台灣網友自製的免費網頁遊戲〈fab24hr 半導體晶圓廠打工人的一天〉，將機台故障、半夜接 on-call 電 [&#8230;]",
-      "date": "2026-10-23T00:10:19+00:00",
-      "sourceId": "technews",
-      "cats": [
-        "market",
-        "process",
-        "material"
-      ]
-    },
-    {
-      "id": "b8239606049e",
-      "title": "科技廠台中搶地，豪砸 130 億，大立光連買七座廠房最受注目",
-      "link": "https://finance.technews.tw/2026/10/23/tech-firms-rush-to-snap-up-land-in-taichung/",
-      "summary": "台中 AI 半導體聚落加速成形，掀科技廠搶地大戰。今年前三季，八大上市櫃科技廠斥資逾 130 億元，狂掃逾 3 [&#8230;]",
-      "date": "2026-10-22T23:30:32+00:00",
-      "sourceId": "technews",
-      "cats": [
-        "market",
-        "process",
-        "material"
-      ]
-    },
-    {
-      "id": "46ab586a864d",
-      "title": "SK 海力士取消 Solidigm 美國 IPO 計畫，股東反對與監管疑慮成關鍵",
-      "link": "https://technews.tw/2026/10/23/sk-hynix-cancel-solidigm-us-ipo-shareholder-opposition-regulatory-concerns/",
-      "summary": "根據外電報導，韓國記憶體大廠 SK 海力士原計劃推動旗下快閃記憶體子公司 Solidigm 赴美上市，但因面臨 [&#8230;]",
-      "date": "2026-10-22T23:30:12+00:00",
+      "id": "780d9d259c0a",
+      "title": "華碩以 NVIDIA 頂尖算力驅動創新！「2026 Agentic AI on the Edge Hackathon」於瓶蓋工廠圓滿落幕",
+      "link": "https://technews.tw/2026/10/23/asus-2026-agentic-ai-on-the-edge-hackathon/",
+      "summary": "聚焦邊緣運算與代理式 AI（Agentic AI）前瞻應用的「2026 Agentic AI on the E [&#8230;]",
+      "date": "2026-10-23T02:55:25+00:00",
       "sourceId": "technews",
       "cats": [
         "market",
@@ -149,32 +110,6 @@
         "process",
         "material",
         "equipment"
-      ]
-    },
-    {
-      "id": "a45ebfc2b585",
-      "title": "黃仁勳籲歐洲加快腳步、別過度依賴監管，盼德國以物理 AI 突圍",
-      "link": "https://technews.tw/2026/10/22/jensen-huang-has-a-message-for-europe/",
-      "summary": "NVIDIA 於柏林展開 GTC Berlin 大會之前，執行長黃仁勳過去 7 天內接連造訪法國、瑞典、英國及 [&#8230;]",
-      "date": "2026-10-22T10:39:38+00:00",
-      "sourceId": "technews",
-      "cats": [
-        "market",
-        "process",
-        "material"
-      ]
-    },
-    {
-      "id": "a77b9253730a",
-      "title": "美光勞資協議內容曝光！季分潤、調薪、勞退 10% 再加碼三天有薪假",
-      "link": "https://finance.technews.tw/2026/10/22/microns-labor-agreement-details-revealed/",
-      "summary": "半導體大廠台灣美光於近期與台中工會達成歷史性勞資協議，台灣美光董事長盧東暉於媒體說明會中宣布，在獲得董事會授權 [&#8230;]",
-      "date": "2026-10-22T09:30:07+00:00",
-      "sourceId": "technews",
-      "cats": [
-        "market",
-        "process",
-        "material"
       ]
     },
     {
