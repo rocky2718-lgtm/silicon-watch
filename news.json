@@ -1,6 +1,6 @@
 {
-  "updated": "2026-10-22T21:26:27.161673+00:00",
-  "count": 13,
+  "updated": "2026-10-23T00:31:36.489694+00:00",
+  "count": 18,
   "sources": [
     {
       "id": "technews",
@@ -61,6 +61,84 @@
   ],
   "articles": [
     {
+      "id": "00cd148def0d",
+      "title": "AI 新創 Flapping Airplanes 獲 10 億美元注資，誓言將晶片效能榨到極致",
+      "link": "https://technews.tw/2026/10/23/flapping-airplanes-1-billion-funding/",
+      "summary": "據外媒報導，成立僅一年的 AI 新創公司 Flapping Airplanes 宣布完成 10 億美元的新一輪 [&#8230;]",
+      "date": "2026-10-23T00:30:30+00:00",
+      "sourceId": "technews",
+      "cats": [
+        "market",
+        "process",
+        "material"
+      ]
+    },
+    {
+      "id": "bce65d000ded",
+      "title": "聯電攜手愛普科技推進 AI 與高效能運算系統電源解決方案",
+      "link": "https://finance.technews.tw/2026/10/23/umc-and-app-technology-advance-power-solutions-for-ai-and-high-performance-computing-systems/",
+      "summary": "晶圓代工大廠聯電與愛普科技共同宣布展開技術與製造合作，推進AI與高效能運算(HPC)系統的供電解決方案。此次合 [&#8230;]",
+      "date": "2026-10-23T00:30:00+00:00",
+      "sourceId": "technews",
+      "cats": [
+        "market",
+        "process",
+        "material"
+      ]
+    },
+    {
+      "id": "b4f88e1ca180",
+      "title": "黃仁勳批 AI 毀滅人類論：搏版面的不實廉價說法",
+      "link": "https://technews.tw/2026/10/23/nvidia-boss-criticises-cheap-ai-doomsday-warnings/",
+      "summary": "美國人工智慧（AI）晶片業巨擘輝達（Nvidia）執行長黃仁勳 22 日表示，有關 AI 可能毀滅人類的相關警 [&#8230;]",
+      "date": "2026-10-23T00:15:53+00:00",
+      "sourceId": "technews",
+      "cats": [
+        "market",
+        "process",
+        "material"
+      ]
+    },
+    {
+      "id": "2d79e77790d4",
+      "title": "台灣網友自製〈Fab24hr〉晶圓廠模擬器暴紅，高壓日常連外媒都驚呼：恐怖遊戲",
+      "link": "https://ccc.technews.tw/2026/10/23/taiwan-wafer-fab-simulation-game-goes-viral/",
+      "summary": "台灣網友自製的免費網頁遊戲〈fab24hr 半導體晶圓廠打工人的一天〉，將機台故障、半夜接 on-call 電 [&#8230;]",
+      "date": "2026-10-23T00:10:19+00:00",
+      "sourceId": "technews",
+      "cats": [
+        "market",
+        "process",
+        "material"
+      ]
+    },
+    {
+      "id": "b8239606049e",
+      "title": "科技廠台中搶地，豪砸 130 億，大立光連買七座廠房最受注目",
+      "link": "https://finance.technews.tw/2026/10/23/tech-firms-rush-to-snap-up-land-in-taichung/",
+      "summary": "台中 AI 半導體聚落加速成形，掀科技廠搶地大戰。今年前三季，八大上市櫃科技廠斥資逾 130 億元，狂掃逾 3 [&#8230;]",
+      "date": "2026-10-22T23:30:32+00:00",
+      "sourceId": "technews",
+      "cats": [
+        "market",
+        "process",
+        "material"
+      ]
+    },
+    {
+      "id": "46ab586a864d",
+      "title": "SK 海力士取消 Solidigm 美國 IPO 計畫，股東反對與監管疑慮成關鍵",
+      "link": "https://technews.tw/2026/10/23/sk-hynix-cancel-solidigm-us-ipo-shareholder-opposition-regulatory-concerns/",
+      "summary": "根據外電報導，韓國記憶體大廠 SK 海力士原計劃推動旗下快閃記憶體子公司 Solidigm 赴美上市，但因面臨 [&#8230;]",
+      "date": "2026-10-22T23:30:12+00:00",
+      "sourceId": "technews",
+      "cats": [
+        "market",
+        "process",
+        "material"
+      ]
+    },
+    {
       "id": "1dc5d35b4450",
       "title": "How Goodram Validates DRAM and SSD Reliability in Europe",
       "link": "https://www.eetimes.com/how-goodram-validates-dram-and-ssd-reliability-in-europe/",
@@ -90,21 +168,8 @@
       "id": "a77b9253730a",
       "title": "美光勞資協議內容曝光！季分潤、調薪、勞退 10% 再加碼三天有薪假",
       "link": "https://finance.technews.tw/2026/10/22/microns-labor-agreement-details-revealed/",
-      "summary": "半導體大廠台灣美光於近期與台中工會達成歷史性勞資協議，台灣美光董事長盧東暉於媒體說明會中宣佈，在獲得董事會授權 [&#8230;]",
+      "summary": "半導體大廠台灣美光於近期與台中工會達成歷史性勞資協議，台灣美光董事長盧東暉於媒體說明會中宣布，在獲得董事會授權 [&#8230;]",
       "date": "2026-10-22T09:30:07+00:00",
-      "sourceId": "technews",
-      "cats": [
-        "market",
-        "process",
-        "material"
-      ]
-    },
-    {
-      "id": "d41e363154e5",
-      "title": "中國客戶棄華為昇騰搶買 RTX PRO 5500，輝達僅能滿足 5%~10% 市場需求",
-      "link": "https://technews.tw/2026/10/22/chinese-customers-are-abandoning-huaweis-ascend-and-rushing-to-buy-rtx-pro-5500/",
-      "summary": "在中國人工智慧（AI）晶片出貨量方面，華為雖正逐漸縮小與輝達（NVIDIA）的市場差距，但包括字節跳動、阿里巴 [&#8230;]",
-      "date": "2026-10-22T07:30:08+00:00",
       "sourceId": "technews",
       "cats": [
         "market",
