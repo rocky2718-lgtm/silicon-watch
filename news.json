@@ -1,6 +1,6 @@
 {
-  "updated": "2026-10-23T23:01:36.290012+00:00",
-  "count": 14,
+  "updated": "2026-10-24T04:20:16.572206+00:00",
+  "count": 18,
   "sources": [
     {
       "id": "technews",
@@ -61,6 +61,71 @@
   ],
   "articles": [
     {
+      "id": "34362361652a",
+      "title": "AWS 產能預訂至 2028 年，亞馬遜示警電力、記憶體短缺難解",
+      "link": "https://technews.tw/2026/10/24/aws-capacity-booked-2028-amazon-warns-power-memory-shortages/",
+      "summary": "隨著 AI 基礎設施需求持續攀升，亞馬遜雲端服務（AWS）運算產能已供不應求。根據外電報導，亞馬遜執行長 An [&#8230;]",
+      "date": "2026-10-24T03:26:55+00:00",
+      "sourceId": "technews",
+      "cats": [
+        "market",
+        "process",
+        "material"
+      ]
+    },
+    {
+      "id": "4bb4e4b8636b",
+      "title": "Xbox Series X 成功跨界跑 PS5 遊戲，卻受限 5GB 記憶體天花板",
+      "link": "https://ccc.technews.tw/2026/10/24/xbox-series-x-successfully-runs-ps5-games/",
+      "summary": "開發者社群近日展示了一項引發熱烈討論的實驗：Xbox Series X 已經能夠透過移植版模擬器執行部分 Pl [&#8230;]",
+      "date": "2026-10-24T02:30:40+00:00",
+      "sourceId": "technews",
+      "cats": [
+        "market",
+        "process",
+        "material"
+      ]
+    },
+    {
+      "id": "6478c14652eb",
+      "title": "台積電明年營收能否破 8 兆？不只看輝達，更要看蘇姿丰",
+      "link": "https://technews.tw/2026/10/24/tsmc-revenue-exceed-8-trillion-next-year-nvidia-lisa-su/",
+      "summary": "未來，牽動台積電業績的指標，將不再只有輝達一枝獨秀。 台積電今年第三季的法說會，再度端出一張亮麗財報：單季淨利 [&#8230;]",
+      "date": "2026-10-24T02:00:32+00:00",
+      "sourceId": "technews",
+      "cats": [
+        "market",
+        "process",
+        "material"
+      ]
+    },
+    {
+      "id": "07850848e21a",
+      "title": "輝達 AI 工廠點將！矽品 CPO 產能拚增 30 倍，欣興、京元電迎擴產爆發期",
+      "link": "https://technews.tw/2026/10/24/nvidia-names-4-supply-chain-boost-production-shipments-kyec-unimicron-spil/",
+      "summary": "輝達德國柏林 GTC 於 10 月 21 日登場，根據《財訊》雙週刊報導，輝達超大規模與高效能運算副總裁 Ia [&#8230;]",
+      "date": "2026-10-24T01:00:12+00:00",
+      "sourceId": "technews",
+      "cats": [
+        "market",
+        "process",
+        "material"
+      ]
+    },
+    {
+      "id": "ab7f4c86722d",
+      "title": "Arm Comments on Jury Decision in Qualcomm Trial",
+      "link": "https://www.eetimes.com/arm-comments-on-jury-decision-in-qualcomm-trial/",
+      "summary": "Arm's Ami Badani cites the $2 nominal damages award as validation, while chip design experts point to open architectures such as RISC-V as the long-term alternative for AI workload flexibility. The post Arm Comments on Jury Decision in Qualcomm Trial appeared first on EE Times.",
+      "date": "2026-10-24T00:00:00+00:00",
+      "sourceId": "eetimes",
+      "cats": [
+        "process",
+        "material",
+        "equipment"
+      ]
+    },
+    {
       "id": "3d25a750e142",
       "title": "Two Dollars and a Test Suite",
       "link": "https://www.eetimes.com/two-dollars-and-a-test-suite/",
@@ -92,19 +157,6 @@
       "link": "https://technews.tw/2026/10/23/intel-advances-chip-plants-as-ai-demand-surges/",
       "summary": "英特爾（Intel）延宕多時的美國晶圓廠擴建計畫，近日再度出現明顯進展。公司表示，位於亞利桑那州鳳凰城附近 O [&#8230;]",
       "date": "2026-10-23T07:40:51+00:00",
-      "sourceId": "technews",
-      "cats": [
-        "market",
-        "process",
-        "material"
-      ]
-    },
-    {
-      "id": "d7f24962ebae",
-      "title": "黃仁勳：2029 年前記憶體難過剩，與中國企業合作持開放態度",
-      "link": "https://technews.tw/2026/10/23/memory-oversupply-is-unlikely-before-2029/",
-      "summary": "輝達（NVIDIA）執行長黃仁勳針對近期市場對記憶體半導體供過於求的疑慮發表看法。他指出，隨著人工智慧（AI） [&#8230;]",
-      "date": "2026-10-23T06:15:50+00:00",
       "sourceId": "technews",
       "cats": [
         "market",
