@@ -1,6 +1,6 @@
 {
-  "updated": "2026-10-24T04:20:16.572206+00:00",
-  "count": 18,
+  "updated": "2026-10-24T10:45:02.542628+00:00",
+  "count": 19,
   "sources": [
     {
       "id": "technews",
@@ -60,6 +60,45 @@
     }
   ],
   "articles": [
+    {
+      "id": "2a9c538d26b1",
+      "title": "AMD 玩家福音！新模組讓 Radeon 也能跑 NVIDIA DLSS，首度解鎖光線重建",
+      "link": "https://technews.tw/2026/10/24/all-dlss-features-including-ray-reconstruction-have-been-ported-to-rdna-4-and-3/",
+      "summary": "PC 模組社群再度突破 NVIDIA 專有技術的使用邊界。開發者 danielblnc 近日釋出 DLSS-N [&#8230;]",
+      "date": "2026-10-24T07:00:10+00:00",
+      "sourceId": "technews",
+      "cats": [
+        "market",
+        "process",
+        "material"
+      ]
+    },
+    {
+      "id": "c9796093f86b",
+      "title": "美國砸 3.89 億美元扶植功率半導體，鎖定 AI 資料中心與核融合應用",
+      "link": "https://technews.tw/2026/10/24/us-invests-389-million-boost-power-semiconductors-ai-data-centers-nuclear-fusion-applications/",
+      "summary": "美國持續擴大本土功率半導體及關鍵材料布局。美國商務部宣布，依據《晶片與科學法案》（CHIPS and Scie [&#8230;]",
+      "date": "2026-10-24T06:07:56+00:00",
+      "sourceId": "technews",
+      "cats": [
+        "market",
+        "process",
+        "material"
+      ]
+    },
+    {
+      "id": "c4917783b27e",
+      "title": "超導類神經網路晶片通過核融合測試，每秒即時分析百萬筆電漿資料",
+      "link": "https://technews.tw/2026/10/24/covering-the-fastest-computers-in-the-world-and-the-people-who-run-them-13/",
+      "summary": "美國能源部（DOE）布魯克黑文國家實驗室（Brookhaven National Laboratory）19 [&#8230;]",
+      "date": "2026-10-24T06:00:30+00:00",
+      "sourceId": "technews",
+      "cats": [
+        "market",
+        "process",
+        "material"
+      ]
+    },
     {
       "id": "34362361652a",
       "title": "AWS 產能預訂至 2028 年，亞馬遜示警電力、記憶體短缺難解",
@@ -136,32 +175,6 @@
         "process",
         "material",
         "equipment"
-      ]
-    },
-    {
-      "id": "75ce302b0da2",
-      "title": "576 顆 GPU 合體成一顆巨型 GPU，輝達揭露 Rubin Ultra NVL576 架構",
-      "link": "https://technews.tw/2026/10/23/nvidia-to-connect-576-rubin-ultra-gpus-using-cpo-to-create-one-giant-gpu/",
-      "summary": "輝達（NVIDIA）於 10 月 22 日的 OCP 2026 大會上進一步揭露了 Rubin Ultra 平 [&#8230;]",
-      "date": "2026-10-23T08:00:47+00:00",
-      "sourceId": "technews",
-      "cats": [
-        "market",
-        "process",
-        "material"
-      ]
-    },
-    {
-      "id": "e4f46a2c15fd",
-      "title": "陳立武堅持「有訂單才擴產」，英特爾美國兩座新廠同步加速",
-      "link": "https://technews.tw/2026/10/23/intel-advances-chip-plants-as-ai-demand-surges/",
-      "summary": "英特爾（Intel）延宕多時的美國晶圓廠擴建計畫，近日再度出現明顯進展。公司表示，位於亞利桑那州鳳凰城附近 O [&#8230;]",
-      "date": "2026-10-23T07:40:51+00:00",
-      "sourceId": "technews",
-      "cats": [
-        "market",
-        "process",
-        "material"
       ]
     },
     {
