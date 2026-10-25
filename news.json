@@ -1,6 +1,6 @@
 {
-  "updated": "2026-10-25T04:24:02.729103+00:00",
-  "count": 19,
+  "updated": "2026-10-25T11:10:41.445754+00:00",
+  "count": 16,
   "sources": [
     {
       "id": "technews",
@@ -61,6 +61,19 @@
   ],
   "articles": [
     {
+      "id": "08a54e99b29c",
+      "title": "Supermicro 攜手 Nokia，將 NVIDIA Aerial RAN Computer 解決方案引入網絡邊緣，支援低延遲 AI 服務",
+      "link": "https://technews.tw/2026/10/25/supermicro-nokia-nvidia-aerial-ran-computer/",
+      "summary": "Super Micro Computer, Inc. 是提供 AI、企業運算、儲存及 5G／邊緣全面 IT 解 [&#8230;]",
+      "date": "2026-10-25T06:00:51+00:00",
+      "sourceId": "technews",
+      "cats": [
+        "market",
+        "process",
+        "material"
+      ]
+    },
+    {
       "id": "c57ec5750593",
       "title": "南亞科 Q3 獲利創紀錄股價卻重挫！長鑫存儲擴產來襲，台灣記憶體廠該怕嗎",
       "link": "https://technews.tw/2026/10/25/nanya-2028/",
@@ -92,58 +105,6 @@
       "link": "https://technews.tw/2026/10/24/us-invests-389-million-boost-power-semiconductors-ai-data-centers-nuclear-fusion-applications/",
       "summary": "美國持續擴大本土功率半導體及關鍵材料布局。美國商務部宣布，依據《晶片與科學法案》（CHIPS and Scie [&#8230;]",
       "date": "2026-10-24T06:07:56+00:00",
-      "sourceId": "technews",
-      "cats": [
-        "market",
-        "process",
-        "material"
-      ]
-    },
-    {
-      "id": "c4917783b27e",
-      "title": "超導類神經網路晶片通過核融合測試，每秒即時分析百萬筆電漿資料",
-      "link": "https://technews.tw/2026/10/24/covering-the-fastest-computers-in-the-world-and-the-people-who-run-them-13/",
-      "summary": "美國能源部（DOE）布魯克黑文國家實驗室（Brookhaven National Laboratory）19 [&#8230;]",
-      "date": "2026-10-24T06:00:30+00:00",
-      "sourceId": "technews",
-      "cats": [
-        "market",
-        "process",
-        "material"
-      ]
-    },
-    {
-      "id": "34362361652a",
-      "title": "AWS 產能預訂至 2028 年，亞馬遜示警電力、記憶體短缺難解",
-      "link": "https://technews.tw/2026/10/24/aws-capacity-booked-2028-amazon-warns-power-memory-shortages/",
-      "summary": "隨著 AI 基礎設施需求持續攀升，亞馬遜雲端服務（AWS）運算產能已供不應求。根據外電報導，亞馬遜執行長 An [&#8230;]",
-      "date": "2026-10-24T03:26:55+00:00",
-      "sourceId": "technews",
-      "cats": [
-        "market",
-        "process",
-        "material"
-      ]
-    },
-    {
-      "id": "4bb4e4b8636b",
-      "title": "Xbox Series X 成功跨界跑 PS5 遊戲，卻受限 5GB 記憶體天花板",
-      "link": "https://ccc.technews.tw/2026/10/24/xbox-series-x-successfully-runs-ps5-games/",
-      "summary": "開發者社群近日展示了一項引發熱烈討論的實驗：Xbox Series X 已經能夠透過移植版模擬器執行部分 Pl [&#8230;]",
-      "date": "2026-10-24T02:30:40+00:00",
-      "sourceId": "technews",
-      "cats": [
-        "market",
-        "process",
-        "material"
-      ]
-    },
-    {
-      "id": "6478c14652eb",
-      "title": "台積電明年營收能否破 8 兆？不只看輝達，更要看蘇姿丰",
-      "link": "https://technews.tw/2026/10/24/tsmc-revenue-exceed-8-trillion-next-year-nvidia-lisa-su/",
-      "summary": "未來，牽動台積電業績的指標，將不再只有輝達一枝獨秀。 台積電今年第三季的法說會，再度端出一張亮麗財報：單季淨利 [&#8230;]",
-      "date": "2026-10-24T02:00:32+00:00",
       "sourceId": "technews",
       "cats": [
         "market",
