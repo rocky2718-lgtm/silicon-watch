@@ -1,6 +1,6 @@
 {
-  "updated": "2026-10-26T04:26:50.824348+00:00",
-  "count": 16,
+  "updated": "2026-10-26T12:44:36.297659+00:00",
+  "count": 14,
   "sources": [
     {
       "id": "technews",
@@ -61,6 +61,19 @@
   ],
   "articles": [
     {
+      "id": "05224897767c",
+      "title": "輝達預訂產能至 2028 滿載，欣興簡山傑揭密：AI 高階載板不能再單打獨鬥",
+      "link": "https://finance.technews.tw/2026/10/26/unimicron-jensen-huang-capacity-rush-jan-shan-jie-new-pcb-game/",
+      "summary": "欣興電子 22 日早盤股價一度大漲 3% 多，原因是 NVIDIA 執行長黃仁勳於德國柏林舉行的 GTC Be [&#8230;]",
+      "date": "2026-10-26T06:00:35+00:00",
+      "sourceId": "technews",
+      "cats": [
+        "market",
+        "process",
+        "material"
+      ]
+    },
+    {
       "id": "09fbca3524c5",
       "title": "工作量減 50%，鴻海合作 Nvidia 秀智造成果",
       "link": "https://finance.technews.tw/2026/10/26/foxconn-nvidia-smart-manufacture/",
@@ -79,32 +92,6 @@
       "link": "https://finance.technews.tw/2026/10/26/predicts-neocloud-shakeout/",
       "summary": "全球 AI 晶片搶購潮白熱化，特斯拉執行長馬斯克（Elon Musk）週日正式宣布，旗下 SpaceX 已完成 [&#8230;]",
       "date": "2026-10-26T01:03:21+00:00",
-      "sourceId": "technews",
-      "cats": [
-        "market",
-        "process",
-        "material"
-      ]
-    },
-    {
-      "id": "08a54e99b29c",
-      "title": "Supermicro 攜手 Nokia，將 NVIDIA Aerial RAN Computer 解決方案引入網絡邊緣，支援低延遲 AI 服務",
-      "link": "https://technews.tw/2026/10/25/supermicro-nokia-nvidia-aerial-ran-computer/",
-      "summary": "Super Micro Computer, Inc. 是提供 AI、企業運算、儲存及 5G／邊緣全面 IT 解 [&#8230;]",
-      "date": "2026-10-25T06:00:51+00:00",
-      "sourceId": "technews",
-      "cats": [
-        "market",
-        "process",
-        "material"
-      ]
-    },
-    {
-      "id": "c57ec5750593",
-      "title": "南亞科 Q3 獲利創紀錄股價卻重挫！長鑫存儲擴產來襲，台灣記憶體廠該怕嗎",
-      "link": "https://technews.tw/2026/10/25/nanya-2028/",
-      "summary": "南亞科 12 日公布創紀錄的 2026 年第三季財報，不僅單季稅後淨利達 876.3 億元，較去年同期暴增 5 [&#8230;]",
-      "date": "2026-10-25T02:00:12+00:00",
       "sourceId": "technews",
       "cats": [
         "market",
@@ -157,19 +144,6 @@
       "link": "https://www.eetimes.com/indias-osat-buildout-puts-semiconductor-testing-in-focus/",
       "summary": "NI said Kaynes Semicon has selected its semiconductor test systems, while other Indian OSATs continue to evaluate equipment as manufacturers prepare for production. The post India’s OSAT Buildout Puts Semiconductor Testing in Focus appeared first on EE Times.",
       "date": "2026-10-21T13:39:13+00:00",
-      "sourceId": "eetimes",
-      "cats": [
-        "process",
-        "material",
-        "equipment"
-      ]
-    },
-    {
-      "id": "31a471f8b161",
-      "title": "Edge AI MCU Features Multimodal Compute, Tiered Memory",
-      "link": "https://www.eetimes.com/edge-ai-mcu-features-multimodal-compute-tiered-memory/",
-      "summary": "A new MCU combines AI-native acceleration with integrated high-bandwidth DRAM scalable to hundreds of megabytes. The post Edge AI MCU Features Multimodal Compute, Tiered Memory appeared first on EE Times.",
-      "date": "2026-10-21T07:30:00+00:00",
       "sourceId": "eetimes",
       "cats": [
         "process",
