@@ -1,6 +1,6 @@
 {
-  "updated": "2026-10-26T19:50:02.544621+00:00",
-  "count": 14,
+  "updated": "2026-10-26T23:43:16.292597+00:00",
+  "count": 16,
   "sources": [
     {
       "id": "technews",
@@ -60,6 +60,32 @@
     }
   ],
   "articles": [
+    {
+      "id": "70dd4ac340d7",
+      "title": "AI 資料中心電力告急，800V 高壓直流成新解方，36 家台廠搶食金礦",
+      "link": "https://technews.tw/2026/10/27/liteon-and-delta-lead-push-into-ai-server-power-racks/",
+      "summary": "美國加州矽谷的 10 月中旬，陽光依舊燦爛，但在聖荷西會議中心裡，真正被點亮的，是 AI 資料中心的下一條電力 [&#8230;]",
+      "date": "2026-10-26T23:30:28+00:00",
+      "sourceId": "technews",
+      "cats": [
+        "market",
+        "process",
+        "material"
+      ]
+    },
+    {
+      "id": "40b2a12662af",
+      "title": "機器人的「ChatGPT 時刻」還沒到，輝達前高層：實體 AI 正處於打基礎的「樂高時代」",
+      "link": "https://technews.tw/2026/10/27/embodied-ai-enters-lego-era/",
+      "summary": "針對外界殷切期盼機器人領域能早日迎來專屬的「ChatGPT 時刻」，輝達（Nvidia）前機器人產品行銷主管、 [&#8230;]",
+      "date": "2026-10-26T23:20:52+00:00",
+      "sourceId": "technews",
+      "cats": [
+        "market",
+        "process",
+        "material"
+      ]
+    },
     {
       "id": "78a3eb16bbb1",
       "title": "The AI Packaging Challenge: 5 Reasons Panels Are Gaining Momentum",
