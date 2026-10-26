@@ -1,6 +1,6 @@
 {
-  "updated": "2026-10-25T22:25:26.567652+00:00",
-  "count": 15,
+  "updated": "2026-10-26T04:26:50.824348+00:00",
+  "count": 16,
   "sources": [
     {
       "id": "technews",
@@ -61,6 +61,32 @@
   ],
   "articles": [
     {
+      "id": "09fbca3524c5",
+      "title": "工作量減 50%，鴻海合作 Nvidia 秀智造成果",
+      "link": "https://finance.technews.tw/2026/10/26/foxconn-nvidia-smart-manufacture/",
+      "summary": "鴻海持續深化與 Nvidia 的人工智慧合作，AI 技術導入製造現場的成果逐步浮現。據 Nvidia 最新公布 [&#8230;]",
+      "date": "2026-10-26T02:59:29+00:00",
+      "sourceId": "technews",
+      "cats": [
+        "market",
+        "process",
+        "material"
+      ]
+    },
+    {
+      "id": "c9c31b76dcc2",
+      "title": "馬斯克喊 SpaceX 籌得 400 億美元買輝達晶片！嗆新雲端將被淘汰",
+      "link": "https://finance.technews.tw/2026/10/26/predicts-neocloud-shakeout/",
+      "summary": "全球 AI 晶片搶購潮白熱化，特斯拉執行長馬斯克（Elon Musk）週日正式宣布，旗下 SpaceX 已完成 [&#8230;]",
+      "date": "2026-10-26T01:03:21+00:00",
+      "sourceId": "technews",
+      "cats": [
+        "market",
+        "process",
+        "material"
+      ]
+    },
+    {
       "id": "08a54e99b29c",
       "title": "Supermicro 攜手 Nokia，將 NVIDIA Aerial RAN Computer 解決方案引入網絡邊緣，支援低延遲 AI 服務",
       "link": "https://technews.tw/2026/10/25/supermicro-nokia-nvidia-aerial-ran-computer/",
@@ -79,19 +105,6 @@
       "link": "https://technews.tw/2026/10/25/nanya-2028/",
       "summary": "南亞科 12 日公布創紀錄的 2026 年第三季財報，不僅單季稅後淨利達 876.3 億元，較去年同期暴增 5 [&#8230;]",
       "date": "2026-10-25T02:00:12+00:00",
-      "sourceId": "technews",
-      "cats": [
-        "market",
-        "process",
-        "material"
-      ]
-    },
-    {
-      "id": "2a9c538d26b1",
-      "title": "AMD 玩家福音！新模組讓 Radeon 也能跑 NVIDIA DLSS，首度解鎖光線重建",
-      "link": "https://technews.tw/2026/10/24/all-dlss-features-including-ray-reconstruction-have-been-ported-to-rdna-4-and-3/",
-      "summary": "PC 模組社群再度突破 NVIDIA 專有技術的使用邊界。開發者 danielblnc 近日釋出 DLSS-N [&#8230;]",
-      "date": "2026-10-24T07:00:10+00:00",
       "sourceId": "technews",
       "cats": [
         "market",
