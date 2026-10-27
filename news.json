@@ -1,6 +1,6 @@
 {
-  "updated": "2026-10-27T04:46:07.173329+00:00",
-  "count": 21,
+  "updated": "2026-10-27T11:58:48.857885+00:00",
+  "count": 20,
   "sources": [
     {
       "id": "technews",
@@ -61,11 +61,11 @@
   ],
   "articles": [
     {
-      "id": "7b75b9b31779",
-      "title": "三星手機配對 AirPods 體驗如何？功能限制與支援差異一次看",
-      "link": "https://ccc.technews.tw/2026/10/27/what-features-do-you-lose-if-you-use-apple-airpods-with-a-samsung-galaxy-phone/",
-      "summary": "蘋果（Apple）AirPods 雖然可以與三星（Samsung）Galaxy 手機配對使用，但實際體驗與搭配 [&#8230;]",
-      "date": "2026-10-27T04:30:29+00:00",
+      "id": "baaa801e73ae",
+      "title": "美光揭次世代 DRAM 藍圖：導入晶圓鍵合、High-NA EUV，推進 vHBM、vEIM 布局",
+      "link": "https://technews.tw/2026/10/27/micron-dram-roadmap/",
+      "summary": "記憶體大廠美光先前宣布跳過 4F² DRAM 電路單元架構，但從技術藍圖移除後，公司必須採用不同方法來推進 D [&#8230;]",
+      "date": "2026-10-27T10:57:58+00:00",
       "sourceId": "technews",
       "cats": [
         "market",
@@ -74,11 +74,11 @@
       ]
     },
     {
-      "id": "6dbdf537983c",
-      "title": "Pat Gelsinger 力挺，Nagare Labs 研發 Z2RAM 挑戰打破「記憶體牆」",
-      "link": "https://technews.tw/2026/10/27/former-intel-ceo-pat-gelsinger-bets-on-nagare-labs-to-vault-the-memory-wall/",
-      "summary": "英特爾（Intel）前執行長季辛格（Pat Gelsinger）看好新創公司 Nagare Labs 的 Z2 [&#8230;]",
-      "date": "2026-10-27T04:10:04+00:00",
+      "id": "e3bfb7b79c4c",
+      "title": "熔岩世界 TOI-561 b 披著矽酸鹽雲層，煉獄環境維持數十億年大氣",
+      "link": "https://technews.tw/2026/10/27/toi-561-b-exoplanet-atmosphere/",
+      "summary": "一顆曾被認為過度極端而不可能保有大氣層的熔岩行星，實際上似乎被一層氣化矽酸鹽礦物雲包裹，這些雲層就像防曬霜，不 [&#8230;]",
+      "date": "2026-10-27T09:37:46+00:00",
       "sourceId": "technews",
       "cats": [
         "market",
@@ -87,11 +87,11 @@
       ]
     },
     {
-      "id": "f37777eba310",
-      "title": "沒內建麥克風也防不了，三星智慧電視遭爆「借用」藍牙裝置監聽",
-      "link": "https://infosecu.technews.tw/2026/10/27/samsung-smart-tvs-allegedly-eavesdropping-external-devices/",
-      "summary": "家中的三星（Samsung）智慧電視如果沒有內建麥克風，隱私就絕對安全嗎？近日，一名資安研究人員在社群平台 X [&#8230;]",
-      "date": "2026-10-27T04:00:46+00:00",
+      "id": "e3463941140e",
+      "title": "半導體用電翻倍、電力需求攀升！台電啟動十年供電布局",
+      "link": "https://technews.tw/2026/10/27/semiconductor-power-consumption-doubles-electricity-demand-soars-taipower-10-year-supply-plan/",
+      "summary": "隨著 AI、半導體等產業用電需求持續增加，台灣未來十年電力需求成長速度預估將較過去十年翻倍。台電今（27）日表 [&#8230;]",
+      "date": "2026-10-27T09:32:37+00:00",
       "sourceId": "technews",
       "cats": [
         "market",
@@ -100,11 +100,11 @@
       ]
     },
     {
-      "id": "46d5f386560a",
-      "title": "清大 6 論文入選 IEEE！28 奈米突破 AI 晶片傳輸瓶頸飆 200G 極速",
-      "link": "https://technews.tw/2026/10/27/a-sscc/",
-      "summary": "國際固態電路領域重要學術會議「2026 IEEE 亞洲固態電路研討會」（Asian Solid-State C [&#8230;]",
-      "date": "2026-10-27T03:24:09+00:00",
+      "id": "887916f9cdc5",
+      "title": "吳敏求：旺宏章程明定 15% 員工分紅，業務鎖定太空、醫療與資料中心市場",
+      "link": "https://finance.technews.tw/2026/10/27/macronixs-bylaws-stipulate-that-15-of-employee-profits-will-be-distributed/",
+      "summary": "旺宏董事長吳敏求表示，旺宏將不再擴充 NOR Flash 產能，而是把有限產能移轉至 3D NAND 及 3D [&#8230;]",
+      "date": "2026-10-27T09:15:05+00:00",
       "sourceId": "technews",
       "cats": [
         "market",
@@ -113,11 +113,11 @@
       ]
     },
     {
-      "id": "ed245e7ce883",
-      "title": "SK 海力士賣鎧俠持股賺翻  傳發 120 億美元特別股息",
-      "link": "https://finance.technews.tw/2026/10/27/sk-hynix-plans-12-billion-dividend-from-kioxia-gains/",
-      "summary": "韓國記憶體大廠 SK 海力士（SK Hynix）有意發放高達 16 兆韓圜（約 120 億美元）的特別股息，資 [&#8230;]",
-      "date": "2026-10-27T03:15:47+00:00",
+      "id": "5f07696cdb87",
+      "title": "800VDC 明後年樂觀？台達電、光寶科法說揭關鍵進度",
+      "link": "https://technews.tw/2026/10/27/800-vdc-outlook-optimistic-next-year-delta-electronics-liteon-technology-investor-conferences-key-progress/",
+      "summary": "隨著輝達 Vera Rubin、AMD Helios 等新一代 AI 機櫃功率持續提高，加上大型雲端服務供應商 [&#8230;]",
+      "date": "2026-10-27T09:03:41+00:00",
       "sourceId": "technews",
       "cats": [
         "market",
@@ -126,11 +126,11 @@
       ]
     },
     {
-      "id": "ab51d289a83e",
-      "title": "半導體需求強勁，韓國第三季經濟成長超乎預期",
-      "link": "https://technews.tw/2026/10/27/south-koreas-chip-boom-fuels-forecast-beating-third-quarter-growth/",
-      "summary": "韓國央行韓國銀行（BOK，簡稱韓銀）今天公布的數據顯示，在半導體需求強勁帶動下，韓國第 3 季經濟成長超乎預期 [&#8230;]",
-      "date": "2026-10-27T03:05:36+00:00",
+      "id": "07d7c17be19c",
+      "title": "旺宏第三季獲利創歷史單季新高，毛利率突破七成促 EPS 達 5.52 元",
+      "link": "https://finance.technews.tw/2026/10/27/macronixs-third-quarter-financial-report-hit-a-record-high/",
+      "summary": "記憶體大廠旺宏電子（MXIC）召開2026年第3季法人說明會，公佈最新財務報告。受益於高密度 NOR Flas [&#8230;]",
+      "date": "2026-10-27T09:00:00+00:00",
       "sourceId": "technews",
       "cats": [
         "market",
@@ -139,11 +139,11 @@
       ]
     },
     {
-      "id": "490dadff58a5",
-      "title": "AI 算力需求續旺，寒武紀 Q3 獲利年增近 1.5 倍",
-      "link": "https://finance.technews.tw/2026/10/27/cambricon-q3-profit-jumps-nearly-150-year-on-year/",
-      "summary": "綜合港媒及中媒報導，中國人工智慧（AI）晶片設計商寒武紀公布 2026 年前三季營收 95.26 億元（人民幣 [&#8230;]",
-      "date": "2026-10-27T03:00:41+00:00",
+      "id": "1f1d4e36db63",
+      "title": "美 AI 投資若踩煞車  韓央：晶片出口恐少千億美元",
+      "link": "https://finance.technews.tw/2026/10/27/bank-of-korea-warns-countrys-chip-exports-could-fall-by-up-to-100-billion-if-ai-spending-slows/",
+      "summary": "韓國央行（BOK）警告，若美國科技巨頭明（2027）年放緩對 AI 基礎設施的資本支出，韓國半導體出口恐較原先 [&#8230;]",
+      "date": "2026-10-27T08:00:07+00:00",
       "sourceId": "technews",
       "cats": [
         "market",
@@ -152,11 +152,11 @@
       ]
     },
     {
-      "id": "675eae67d161",
-      "title": "台積 SoIC 明年產能拚逾 3 萬片；嘉義 AP7 成擴產主力",
-      "link": "https://technews.tw/2026/10/27/tsmc-soic-capacity-over-30k-wafers-next-year-chiayi-ap7-leads-expansion/",
-      "summary": "AI 及高效能運算（HPC）需求強勁，台積電持續加快先進封裝擴產腳步。供應鏈傳出，台積電今年 SoIC 月產能 [&#8230;]",
-      "date": "2026-10-27T02:45:08+00:00",
+      "id": "4a23b037395a",
+      "title": "智原 Q3 每股賺 1.07 元！毛利率 42.5%，獲 2 奈米雲端 AI ASIC 專案",
+      "link": "https://technews.tw/2026/10/27/faraday-2026-q3-financial-report/",
+      "summary": "智原今（27 日）舉辦法說會，公布第三季合併營收達新台幣（下同）36.6 億元，季增 11%、年增13%，創歷 [&#8230;]",
+      "date": "2026-10-27T07:21:26+00:00",
       "sourceId": "technews",
       "cats": [
         "market",
@@ -165,11 +165,11 @@
       ]
     },
     {
-      "id": "cb7eb46dbea5",
-      "title": "Anthropic 點名台積電  警告先進晶片過度集中台灣",
-      "link": "https://technews.tw/2026/10/27/anthropic-highlights-disruptions-to-tsmc-operations-as-a-risk/",
-      "summary": "開發 Claude 的 AI 前沿實驗室 Anthropic 在首次公開發行（IPO）招股書中罕見點名台積電， [&#8230;]",
-      "date": "2026-10-27T02:40:08+00:00",
+      "id": "281585218b9b",
+      "title": "博通攜華爾街籌資 630 億美元，為 Anthropic 採購 AI 晶片提供資金",
+      "link": "https://technews.tw/2026/10/27/broadcom-anthropic-deal/",
+      "summary": "彭博社報導，晶片大廠博通已與美國銀行、黑石集團、花旗集團及摩根士丹利達成一項規模達 630 億美元的交易，為 [&#8230;]",
+      "date": "2026-10-27T06:44:32+00:00",
       "sourceId": "technews",
       "cats": [
         "market",
@@ -178,11 +178,11 @@
       ]
     },
     {
-      "id": "d3d1111428cb",
-      "title": "輝達高層大換血迎 AI 轉型：老將交棒雲端大將，黃仁勳之女成內部布局新亮點",
-      "link": "https://finance.technews.tw/2026/10/27/nvidia-leadership-changes-organizational-transformation/",
-      "summary": "隨著人工智慧（AI）熱潮持續改寫企業需求，輝達（NVIDIA）的業務與行銷團隊正迎來顯著的人事更迭。公司除了有 [&#8230;]",
-      "date": "2026-10-27T02:10:58+00:00",
+      "id": "bea40e55697c",
+      "title": "研華啟用加州新總部！結盟 NVIDIA、AMD 引爆邊緣運算商機",
+      "link": "https://finance.technews.tw/2026/10/27/tustin-ats/",
+      "summary": "研華美國時間 10 月 20 日正式舉行位於加州塔斯汀（Tustin）的北美新總部開幕典禮，並接續舉辦研華科技 [&#8230;]",
+      "date": "2026-10-27T06:42:18+00:00",
       "sourceId": "technews",
       "cats": [
         "market",
@@ -222,19 +222,6 @@
       "link": "https://www.eetimes.com/two-dollars-and-a-test-suite/",
       "summary": "The $2 damages award grabbed headlines, but the Arm-Qualcomm verdict’s bigger implication concerns who controls the compliance tests that custom chips must pass before shipping. The post Two Dollars and a Test Suite appeared first on EE Times.",
       "date": "2026-10-23T08:03:27+00:00",
-      "sourceId": "eetimes",
-      "cats": [
-        "process",
-        "material",
-        "equipment"
-      ]
-    },
-    {
-      "id": "1dc5d35b4450",
-      "title": "How Goodram Validates DRAM and SSD Reliability in Europe",
-      "link": "https://www.eetimes.com/how-goodram-validates-dram-and-ssd-reliability-in-europe/",
-      "summary": "Explore Goodram’s European approach to DRAM and SSD testing, from burn-in to platform validation, for reliable industrial and embedded systems. The post How Goodram Validates DRAM and SSD Reliability in Europe appeared first on EE Times.",
-      "date": "2026-10-22T13:00:00+00:00",
       "sourceId": "eetimes",
       "cats": [
         "process",
