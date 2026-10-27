@@ -1,6 +1,6 @@
 {
-  "updated": "2026-10-26T23:43:16.292597+00:00",
-  "count": 16,
+  "updated": "2026-10-27T04:46:07.173329+00:00",
+  "count": 21,
   "sources": [
     {
       "id": "technews",
@@ -61,11 +61,11 @@
   ],
   "articles": [
     {
-      "id": "70dd4ac340d7",
-      "title": "AI 資料中心電力告急，800V 高壓直流成新解方，36 家台廠搶食金礦",
-      "link": "https://technews.tw/2026/10/27/liteon-and-delta-lead-push-into-ai-server-power-racks/",
-      "summary": "美國加州矽谷的 10 月中旬，陽光依舊燦爛，但在聖荷西會議中心裡，真正被點亮的，是 AI 資料中心的下一條電力 [&#8230;]",
-      "date": "2026-10-26T23:30:28+00:00",
+      "id": "7b75b9b31779",
+      "title": "三星手機配對 AirPods 體驗如何？功能限制與支援差異一次看",
+      "link": "https://ccc.technews.tw/2026/10/27/what-features-do-you-lose-if-you-use-apple-airpods-with-a-samsung-galaxy-phone/",
+      "summary": "蘋果（Apple）AirPods 雖然可以與三星（Samsung）Galaxy 手機配對使用，但實際體驗與搭配 [&#8230;]",
+      "date": "2026-10-27T04:30:29+00:00",
       "sourceId": "technews",
       "cats": [
         "market",
@@ -74,11 +74,115 @@
       ]
     },
     {
-      "id": "40b2a12662af",
-      "title": "機器人的「ChatGPT 時刻」還沒到，輝達前高層：實體 AI 正處於打基礎的「樂高時代」",
-      "link": "https://technews.tw/2026/10/27/embodied-ai-enters-lego-era/",
-      "summary": "針對外界殷切期盼機器人領域能早日迎來專屬的「ChatGPT 時刻」，輝達（Nvidia）前機器人產品行銷主管、 [&#8230;]",
-      "date": "2026-10-26T23:20:52+00:00",
+      "id": "6dbdf537983c",
+      "title": "Pat Gelsinger 力挺，Nagare Labs 研發 Z2RAM 挑戰打破「記憶體牆」",
+      "link": "https://technews.tw/2026/10/27/former-intel-ceo-pat-gelsinger-bets-on-nagare-labs-to-vault-the-memory-wall/",
+      "summary": "英特爾（Intel）前執行長季辛格（Pat Gelsinger）看好新創公司 Nagare Labs 的 Z2 [&#8230;]",
+      "date": "2026-10-27T04:10:04+00:00",
+      "sourceId": "technews",
+      "cats": [
+        "market",
+        "process",
+        "material"
+      ]
+    },
+    {
+      "id": "f37777eba310",
+      "title": "沒內建麥克風也防不了，三星智慧電視遭爆「借用」藍牙裝置監聽",
+      "link": "https://infosecu.technews.tw/2026/10/27/samsung-smart-tvs-allegedly-eavesdropping-external-devices/",
+      "summary": "家中的三星（Samsung）智慧電視如果沒有內建麥克風，隱私就絕對安全嗎？近日，一名資安研究人員在社群平台 X [&#8230;]",
+      "date": "2026-10-27T04:00:46+00:00",
+      "sourceId": "technews",
+      "cats": [
+        "market",
+        "process",
+        "material"
+      ]
+    },
+    {
+      "id": "46d5f386560a",
+      "title": "清大 6 論文入選 IEEE！28 奈米突破 AI 晶片傳輸瓶頸飆 200G 極速",
+      "link": "https://technews.tw/2026/10/27/a-sscc/",
+      "summary": "國際固態電路領域重要學術會議「2026 IEEE 亞洲固態電路研討會」（Asian Solid-State C [&#8230;]",
+      "date": "2026-10-27T03:24:09+00:00",
+      "sourceId": "technews",
+      "cats": [
+        "market",
+        "process",
+        "material"
+      ]
+    },
+    {
+      "id": "ed245e7ce883",
+      "title": "SK 海力士賣鎧俠持股賺翻  傳發 120 億美元特別股息",
+      "link": "https://finance.technews.tw/2026/10/27/sk-hynix-plans-12-billion-dividend-from-kioxia-gains/",
+      "summary": "韓國記憶體大廠 SK 海力士（SK Hynix）有意發放高達 16 兆韓圜（約 120 億美元）的特別股息，資 [&#8230;]",
+      "date": "2026-10-27T03:15:47+00:00",
+      "sourceId": "technews",
+      "cats": [
+        "market",
+        "process",
+        "material"
+      ]
+    },
+    {
+      "id": "ab51d289a83e",
+      "title": "半導體需求強勁，韓國第三季經濟成長超乎預期",
+      "link": "https://technews.tw/2026/10/27/south-koreas-chip-boom-fuels-forecast-beating-third-quarter-growth/",
+      "summary": "韓國央行韓國銀行（BOK，簡稱韓銀）今天公布的數據顯示，在半導體需求強勁帶動下，韓國第 3 季經濟成長超乎預期 [&#8230;]",
+      "date": "2026-10-27T03:05:36+00:00",
+      "sourceId": "technews",
+      "cats": [
+        "market",
+        "process",
+        "material"
+      ]
+    },
+    {
+      "id": "490dadff58a5",
+      "title": "AI 算力需求續旺，寒武紀 Q3 獲利年增近 1.5 倍",
+      "link": "https://finance.technews.tw/2026/10/27/cambricon-q3-profit-jumps-nearly-150-year-on-year/",
+      "summary": "綜合港媒及中媒報導，中國人工智慧（AI）晶片設計商寒武紀公布 2026 年前三季營收 95.26 億元（人民幣 [&#8230;]",
+      "date": "2026-10-27T03:00:41+00:00",
+      "sourceId": "technews",
+      "cats": [
+        "market",
+        "process",
+        "material"
+      ]
+    },
+    {
+      "id": "675eae67d161",
+      "title": "台積 SoIC 明年產能拚逾 3 萬片；嘉義 AP7 成擴產主力",
+      "link": "https://technews.tw/2026/10/27/tsmc-soic-capacity-over-30k-wafers-next-year-chiayi-ap7-leads-expansion/",
+      "summary": "AI 及高效能運算（HPC）需求強勁，台積電持續加快先進封裝擴產腳步。供應鏈傳出，台積電今年 SoIC 月產能 [&#8230;]",
+      "date": "2026-10-27T02:45:08+00:00",
+      "sourceId": "technews",
+      "cats": [
+        "market",
+        "process",
+        "material"
+      ]
+    },
+    {
+      "id": "cb7eb46dbea5",
+      "title": "Anthropic 點名台積電  警告先進晶片過度集中台灣",
+      "link": "https://technews.tw/2026/10/27/anthropic-highlights-disruptions-to-tsmc-operations-as-a-risk/",
+      "summary": "開發 Claude 的 AI 前沿實驗室 Anthropic 在首次公開發行（IPO）招股書中罕見點名台積電， [&#8230;]",
+      "date": "2026-10-27T02:40:08+00:00",
+      "sourceId": "technews",
+      "cats": [
+        "market",
+        "process",
+        "material"
+      ]
+    },
+    {
+      "id": "d3d1111428cb",
+      "title": "輝達高層大換血迎 AI 轉型：老將交棒雲端大將，黃仁勳之女成內部布局新亮點",
+      "link": "https://finance.technews.tw/2026/10/27/nvidia-leadership-changes-organizational-transformation/",
+      "summary": "隨著人工智慧（AI）熱潮持續改寫企業需求，輝達（NVIDIA）的業務與行銷團隊正迎來顯著的人事更迭。公司除了有 [&#8230;]",
+      "date": "2026-10-27T02:10:58+00:00",
       "sourceId": "technews",
       "cats": [
         "market",
@@ -97,45 +201,6 @@
         "process",
         "material",
         "equipment"
-      ]
-    },
-    {
-      "id": "05224897767c",
-      "title": "輝達預訂產能至 2028 滿載，欣興簡山傑揭密：AI 高階載板不能再單打獨鬥",
-      "link": "https://finance.technews.tw/2026/10/26/unimicron-jensen-huang-capacity-rush-jan-shan-jie-new-pcb-game/",
-      "summary": "欣興電子 22 日早盤股價一度大漲 3% 多，原因是 NVIDIA 執行長黃仁勳於德國柏林舉行的 GTC Be [&#8230;]",
-      "date": "2026-10-26T06:00:35+00:00",
-      "sourceId": "technews",
-      "cats": [
-        "market",
-        "process",
-        "material"
-      ]
-    },
-    {
-      "id": "09fbca3524c5",
-      "title": "工作量減 50%，鴻海合作 Nvidia 秀智造成果",
-      "link": "https://finance.technews.tw/2026/10/26/foxconn-nvidia-smart-manufacture/",
-      "summary": "鴻海持續深化與 Nvidia 的人工智慧合作，AI 技術導入製造現場的成果逐步浮現。據 Nvidia 最新公布 [&#8230;]",
-      "date": "2026-10-26T02:59:29+00:00",
-      "sourceId": "technews",
-      "cats": [
-        "market",
-        "process",
-        "material"
-      ]
-    },
-    {
-      "id": "c9c31b76dcc2",
-      "title": "馬斯克喊 SpaceX 籌得 400 億美元買輝達晶片！嗆新雲端將被淘汰",
-      "link": "https://finance.technews.tw/2026/10/26/predicts-neocloud-shakeout/",
-      "summary": "全球 AI 晶片搶購潮白熱化，特斯拉執行長馬斯克（Elon Musk）週日正式宣布，旗下 SpaceX 已完成 [&#8230;]",
-      "date": "2026-10-26T01:03:21+00:00",
-      "sourceId": "technews",
-      "cats": [
-        "market",
-        "process",
-        "material"
       ]
     },
     {
