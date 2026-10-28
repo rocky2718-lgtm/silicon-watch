@@ -1,6 +1,6 @@
 {
-  "updated": "2026-10-27T22:04:36.131207+00:00",
-  "count": 14,
+  "updated": "2026-10-28T05:20:08.740196+00:00",
+  "count": 19,
   "sources": [
     {
       "id": "technews",
@@ -61,11 +61,11 @@
   ],
   "articles": [
     {
-      "id": "c618a84ea364",
-      "title": "蘋果 M6 iMac AI 效能最高提升 5 倍，售價 49,900 元起",
-      "link": "https://technews.tw/2026/10/27/m6-imac/",
-      "summary": "蘋果推出搭載 M6 晶片的 14 吋 MacBook Pro 後，也同步更新桌上型電腦產品線，正式發表新款 2 [&#8230;]",
-      "date": "2026-10-27T14:02:46+00:00",
+      "id": "8d9d0127dbe8",
+      "title": "川普嫌 AI 用詞不當  揚言「將全面禁用、改稱 SI」",
+      "link": "https://technews.tw/2026/10/28/trump-again-threatens-to-stop-using-ai-and-rename-it-si/",
+      "summary": "美國總統川普再度砲轟「人工智慧」（Artificial Intelligence，AI）一詞，認為 AI 名稱 [&#8230;]",
+      "date": "2026-10-28T04:10:56+00:00",
       "sourceId": "technews",
       "cats": [
         "market",
@@ -74,11 +74,11 @@
       ]
     },
     {
-      "id": "baaa801e73ae",
-      "title": "美光揭次世代 DRAM 藍圖：導入晶圓鍵合、High-NA EUV，推進 vHBM、vEIM 布局",
-      "link": "https://technews.tw/2026/10/27/micron-dram-roadmap/",
-      "summary": "記憶體大廠美光先前宣布跳過 4F² DRAM 電路單元架構，但從技術藍圖移除後，公司必須採用不同方法來推進 D [&#8230;]",
-      "date": "2026-10-27T10:57:58+00:00",
+      "id": "16e06048ec85",
+      "title": "應材擬增持貝思股份至 20%  深化先進封裝合作",
+      "link": "https://finance.technews.tw/2026/10/28/applied-materials-plans-to-raise-stake-in-besi-to-20/",
+      "summary": "美國半導體設備巨頭應用材料（Applied Materials）宣布擴大與荷蘭封裝設備商貝思半導體（BESI） [&#8230;]",
+      "date": "2026-10-28T03:30:15+00:00",
       "sourceId": "technews",
       "cats": [
         "market",
@@ -87,11 +87,11 @@
       ]
     },
     {
-      "id": "e3bfb7b79c4c",
-      "title": "熔岩世界 TOI-561 b 披著矽酸鹽雲層，煉獄環境維持數十億年大氣",
-      "link": "https://technews.tw/2026/10/27/toi-561-b-exoplanet-atmosphere/",
-      "summary": "一顆曾被認為過度極端而不可能保有大氣層的熔岩行星，實際上似乎被一層氣化矽酸鹽礦物雲包裹，這些雲層就像防曬霜，不 [&#8230;]",
-      "date": "2026-10-27T09:37:46+00:00",
+      "id": "dd01f187b2d7",
+      "title": "Roblox 遭控以網路爬蟲下載 145GB 3D 模型，疑為訓練 AI 模型",
+      "link": "https://infosecu.technews.tw/2026/10/28/a-crawler-labelled-roblox-downloaded-145-gb-of-3d-models-from-three-community-sites/",
+      "summary": "免費 3D 素材社群 Open3DLab 26 日指控，一支自稱屬於遊戲平台 Roblox 的網路爬蟲，15~ [&#8230;]",
+      "date": "2026-10-28T03:20:42+00:00",
       "sourceId": "technews",
       "cats": [
         "market",
@@ -100,11 +100,11 @@
       ]
     },
     {
-      "id": "e3463941140e",
-      "title": "半導體用電翻倍、電力需求攀升！台電啟動十年供電布局",
-      "link": "https://technews.tw/2026/10/27/semiconductor-power-consumption-doubles-electricity-demand-soars-taipower-10-year-supply-plan/",
-      "summary": "隨著 AI、半導體等產業用電需求持續增加，台灣未來十年電力需求成長速度預估將較過去十年翻倍。台電今（27）日表 [&#8230;]",
-      "date": "2026-10-27T09:32:37+00:00",
+      "id": "cebe7da6fd2e",
+      "title": "SK 海力士否認 HBM 需求放緩，強調到 2029 年 DRAM 與 HBM 產能已全部完售",
+      "link": "https://finance.technews.tw/2026/10/28/sk-hynix-denies-slowdown-in-hbm-demand/",
+      "summary": "SK 海力士（SK Hynix）於 28 日召開第 3 季法說會，宣布單季營收首度突破 100 兆韓圜，營業利 [&#8230;]",
+      "date": "2026-10-28T03:00:55+00:00",
       "sourceId": "technews",
       "cats": [
         "market",
@@ -113,11 +113,11 @@
       ]
     },
     {
-      "id": "887916f9cdc5",
-      "title": "吳敏求：旺宏章程明定 15% 員工分紅，業務鎖定太空、醫療與資料中心市場",
-      "link": "https://finance.technews.tw/2026/10/27/macronixs-bylaws-stipulate-that-15-of-employee-profits-will-be-distributed/",
-      "summary": "旺宏董事長吳敏求表示，旺宏將不再擴充 NOR Flash 產能，而是把有限產能移轉至 3D NAND 及 3D [&#8230;]",
-      "date": "2026-10-27T09:15:05+00:00",
+      "id": "37cc9014b4f8",
+      "title": "亞馬遜出手整頓 Tokenmaxxing 亂象，AI 使用量不再是工程師唯一績效指標",
+      "link": "https://technews.tw/2026/10/28/amazon-warned-engineers-that-chasing-ai-usage-metrics-is-deeply-flawed/",
+      "summary": "亞馬遜（Amazon）於 10 月 27 日更新了軟體工程師與主管的角色指引，針對內部日益盛行的「tokenm [&#8230;]",
+      "date": "2026-10-28T02:40:06+00:00",
       "sourceId": "technews",
       "cats": [
         "market",
@@ -126,11 +126,11 @@
       ]
     },
     {
-      "id": "5f07696cdb87",
-      "title": "800VDC 明後年樂觀？台達電、光寶科法說揭關鍵進度",
-      "link": "https://technews.tw/2026/10/27/800-vdc-outlook-optimistic-next-year-delta-electronics-liteon-technology-investor-conferences-key-progress/",
-      "summary": "隨著輝達 Vera Rubin、AMD Helios 等新一代 AI 機櫃功率持續提高，加上大型雲端服務供應商 [&#8230;]",
-      "date": "2026-10-27T09:03:41+00:00",
+      "id": "63d0a3a56e48",
+      "title": "中國 AI 與半導體股泡泡吹破市值蒸發 4,800 億美元，小股民被當韭菜割",
+      "link": "https://finance.technews.tw/2026/10/28/the-bubble-in-chinese-ai-and-semiconductor-stocks-burst-wiping-out-480-billion-in-market-value-in-four-months/",
+      "summary": "在美韓等國仍在熱烈討論「AI超級週期」能維持多久之際，由國家主導大力投資 AI 與半導體的中國股市已率先遭遇歷 [&#8230;]",
+      "date": "2026-10-28T02:20:15+00:00",
       "sourceId": "technews",
       "cats": [
         "market",
@@ -139,11 +139,11 @@
       ]
     },
     {
-      "id": "07d7c17be19c",
-      "title": "旺宏第三季獲利創歷史單季新高，毛利率突破七成促 EPS 達 5.52 元",
-      "link": "https://finance.technews.tw/2026/10/27/macronixs-third-quarter-financial-report-hit-a-record-high/",
-      "summary": "記憶體大廠旺宏電子（MXIC）召開2026年第3季法人說明會，公佈最新財務報告。受益於高密度 NOR Flas [&#8230;]",
-      "date": "2026-10-27T09:00:00+00:00",
+      "id": "c7eaf5ed38f3",
+      "title": "供貨量使三星 HBM 價格高於海力士、美光，最高幅度達 25%",
+      "link": "https://finance.technews.tw/2026/10/28/supply-capacity-allows-samsung-hbm-to-command-higher-prices-than-sk-hynix-and-micron/",
+      "summary": "隨著人工智慧（AI）應用的快速擴展，全球記憶體產業正邁入龐大的上升超級週期。韓國媒體最新報導指出，高頻寬記憶體 [&#8230;]",
+      "date": "2026-10-28T02:10:26+00:00",
       "sourceId": "technews",
       "cats": [
         "market",
@@ -152,11 +152,11 @@
       ]
     },
     {
-      "id": "1f1d4e36db63",
-      "title": "美 AI 投資若踩煞車  韓央：晶片出口恐少千億美元",
-      "link": "https://finance.technews.tw/2026/10/27/bank-of-korea-warns-countrys-chip-exports-could-fall-by-up-to-100-billion-if-ai-spending-slows/",
-      "summary": "韓國央行（BOK）警告，若美國科技巨頭明（2027）年放緩對 AI 基礎設施的資本支出，韓國半導體出口恐較原先 [&#8230;]",
-      "date": "2026-10-27T08:00:07+00:00",
+      "id": "3dc77aa00b74",
+      "title": "中東戰火掀斷鏈危機，美確保半導體命脈將「氦」列關鍵材料",
+      "link": "https://technews.tw/2026/10/28/us-designates-helium-critical-material/",
+      "summary": "美國能源部近日正式宣布，將「氦氣」列為國家關鍵材料（Critical Material）。能源部表示，氦氣在半 [&#8230;]",
+      "date": "2026-10-28T02:00:58+00:00",
       "sourceId": "technews",
       "cats": [
         "market",
@@ -165,37 +165,11 @@
       ]
     },
     {
-      "id": "4a23b037395a",
-      "title": "智原 Q3 每股賺 1.07 元！毛利率 42.5%，獲 2 奈米雲端 AI ASIC 專案",
-      "link": "https://technews.tw/2026/10/27/faraday-2026-q3-financial-report/",
-      "summary": "智原今（27 日）舉辦法說會，公布第三季合併營收達新台幣（下同）36.6 億元，季增 11%、年增13%，創歷 [&#8230;]",
-      "date": "2026-10-27T07:21:26+00:00",
-      "sourceId": "technews",
-      "cats": [
-        "market",
-        "process",
-        "material"
-      ]
-    },
-    {
-      "id": "281585218b9b",
-      "title": "博通攜華爾街籌資 630 億美元，為 Anthropic 採購 AI 晶片提供資金",
-      "link": "https://technews.tw/2026/10/27/broadcom-anthropic-deal/",
-      "summary": "彭博社報導，晶片大廠博通已與美國銀行、黑石集團、花旗集團及摩根士丹利達成一項規模達 630 億美元的交易，為 [&#8230;]",
-      "date": "2026-10-27T06:44:32+00:00",
-      "sourceId": "technews",
-      "cats": [
-        "market",
-        "process",
-        "material"
-      ]
-    },
-    {
-      "id": "bea40e55697c",
-      "title": "研華啟用加州新總部！結盟 NVIDIA、AMD 引爆邊緣運算商機",
-      "link": "https://finance.technews.tw/2026/10/27/tustin-ats/",
-      "summary": "研華美國時間 10 月 20 日正式舉行位於加州塔斯汀（Tustin）的北美新總部開幕典禮，並接續舉辦研華科技 [&#8230;]",
-      "date": "2026-10-27T06:42:18+00:00",
+      "id": "8d92fb4aba54",
+      "title": "AI 回暖！投信砸 236 億死守 4 萬 6 關卡，外資狂買記憶體百億",
+      "link": "https://finance.technews.tw/2026/10/28/ai-warms-domestic-trusts-invest-23-6b-defend-46000-foreign-investors-buy-memory-chips/",
+      "summary": "台股 27 日上演高達 909 點的劇烈震盪，加權指數終場下挫 1.81% 收在 46,041 點。籌碼面呈現 [&#8230;]",
+      "date": "2026-10-28T02:00:01+00:00",
       "sourceId": "technews",
       "cats": [
         "market",
@@ -239,6 +213,97 @@
       "cats": [
         "process",
         "material",
+        "equipment"
+      ]
+    },
+    {
+      "id": "fb91bb3083a8",
+      "title": "Another Giant Leap: The Rubin CPX Specialized Accelerator & Rack",
+      "link": "https://semianalysis.com/2025/09/10/another-giant-leap-the-rubin-cpx-specialized-accelerator-rack/",
+      "summary": "Nvidia announced the Rubin CPX, a solution that is specifically designed to be optimized for the prefill phase, with the single-die Rubin CPX heavily emphasizing compute FLOPS over memory bandwidth. This is a game changer for inference, and its significance is surpassed only by the March 2024 announ",
+      "date": "2025-09-10T19:57:18+00:00",
+      "sourceId": "semianalysis",
+      "cats": [
+        "process",
+        "market",
+        "equipment"
+      ]
+    },
+    {
+      "id": "8fdb407959b5",
+      "title": "Huawei Ascend Production Ramp: Die Banks, TSMC Continued Production, HBM is The Bottleneck",
+      "link": "https://semianalysis.com/2025/09/08/huawei-ascend-production-ramp/",
+      "summary": "Compute is the lifeblood of AI. He who controls the spice controls the universe the compute will control the production of tokens and reap the benefits of AI. Without compute you do not have a seat at the table. The United States technology community is all in on compute and AI as the next platform ",
+      "date": "2025-09-08T09:54:57+00:00",
+      "sourceId": "semianalysis",
+      "cats": [
+        "process",
+        "market",
+        "equipment"
+      ]
+    },
+    {
+      "id": "4d1d636eb5c1",
+      "title": "H100 vs GB200 NVL72 Training Benchmarks – Power, TCO, and Reliability Analysis, Software Improvement Over Time",
+      "link": "https://semianalysis.com/2025/08/20/h100-vs-gb200-nvl72-training-benchmarks/",
+      "summary": "Frontier model training has pushed GPUs and AI systems to their absolute limits, making cost, efficiency, power, performance per TCO, and reliability central to the discussion on effective training. The Hopper vs Blackwell comparisons are not as simple as Nvidia would have you believe. In this repor",
+      "date": "2025-08-20T04:56:35+00:00",
+      "sourceId": "semianalysis",
+      "cats": [
+        "process",
+        "market",
+        "equipment"
+      ]
+    },
+    {
+      "id": "b13ecf27cefb",
+      "title": "Scaling the Memory Wall: The Rise and Roadmap of HBM",
+      "link": "https://semianalysis.com/2025/08/12/scaling-the-memory-wall-the-rise-and-roadmap-of-hbm/",
+      "summary": "The first portion of this report will explain HBM, the manufacturing process, dynamics between vendors, KVCache offload, disaggregated prefill decode, and wide / high-rank EP. The rest of the report will dive deeply into the future of HBM. We will cover the revolutionary change coming to HBM4 with c",
+      "date": "2025-08-12T01:16:06+00:00",
+      "sourceId": "semianalysis",
+      "cats": [
+        "process",
+        "market",
+        "equipment"
+      ]
+    },
+    {
+      "id": "4da2f0c9f207",
+      "title": "Robotics Levels of Autonomy",
+      "link": "https://semianalysis.com/2025/07/30/robotics-levels-of-autonomy/",
+      "summary": "Robots have powered manufacturing for decades, yet they stayed single-purpose and thrived only in perfect settings. Previous attempts at intelligent machines overpromised and underdelivered. But they were too early. Today, modern AI paradigms convert most robot roadblocks into data problems and push",
+      "date": "2025-07-30T17:02:25+00:00",
+      "sourceId": "semianalysis",
+      "cats": [
+        "process",
+        "market",
+        "equipment"
+      ]
+    },
+    {
+      "id": "0409fbe555b7",
+      "title": "Intel 18A Details & Cost, Future of DRAM 4F2 vs 3D, Backside Power Adoption (or Not), China’s FlipFET, Digital Twins from Atoms to Fabs, and More",
+      "link": "https://semianalysis.com/2025/07/21/vlsi2025/",
+      "summary": "Long time readers will recall that SemiAnalysis covers more than just datacenters and AMD. Today we’re back to semiconductors with a tech-focused roundup of the best from this year’s VLSI conference, the premiere design and integration. That includes the latest in chips manufacturing: fab digital tw",
+      "date": "2025-07-21T14:23:37+00:00",
+      "sourceId": "semianalysis",
+      "cats": [
+        "process",
+        "market",
+        "equipment"
+      ]
+    },
+    {
+      "id": "9f42602799fd",
+      "title": "Meta Superintelligence – Leadership Compute, Talent, and Data",
+      "link": "https://semianalysis.com/2025/07/11/meta-superintelligence-leadership-compute-talent-and-data/",
+      "summary": "Meta’s shocking purchase of 49% of Scale AI at a ~$30B valuation shows that money is of no concern for the $100B annual cashflow ad machine. Despite seemingly unlimited resources, Meta has been falling behind foundation labs in model performance.",
+      "date": "2025-07-11T20:12:19+00:00",
+      "sourceId": "semianalysis",
+      "cats": [
+        "process",
+        "market",
         "equipment"
       ]
     }
