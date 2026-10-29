@@ -1,6 +1,6 @@
 {
-  "updated": "2026-10-28T23:57:53.140866+00:00",
-  "count": 20,
+  "updated": "2026-10-29T05:34:56.840510+00:00",
+  "count": 17,
   "sources": [
     {
       "id": "technews",
@@ -61,11 +61,11 @@
   ],
   "articles": [
     {
-      "id": "fa1ecc94af50",
-      "title": "日本砸 150 億美元重返 2 奈米戰場，Rapidus 能挑戰台積電嗎？",
-      "link": "https://technews.tw/2026/10/29/can-rapidus-successfully-challenge-tsmc/",
-      "summary": "為了重振昔日半導體王國的光榮，日本政府累計挹注高達 150 億美元（約新台幣 4,860 億元）扶植本土晶片企 [&#8230;]",
-      "date": "2026-10-28T23:50:56+00:00",
+      "id": "be6693f1d9ba",
+      "title": "小小元件扛起 AI 用電重任，一次看懂功率半導體與第三類半導體",
+      "link": "https://technews.tw/2026/10/29/tiny-components-counterattack-power-third-gen-semiconductors/",
+      "summary": "當外界關注 AI 晶片的運算效能、製程技術與龐大算力時，卻鮮少注意到，支撐這些高效能晶片運作的背後，還有一群不 [&#8230;]",
+      "date": "2026-10-29T05:32:29+00:00",
       "sourceId": "technews",
       "cats": [
         "market",
@@ -74,11 +74,89 @@
       ]
     },
     {
-      "id": "767152475800",
-      "title": "搶攻半導體「散熱」商機，人造鑽石恐成美中角力新戰場",
-      "link": "https://technews.tw/2026/10/29/lab-grown-diamonds-emerge-as-new-us-china-battleground/",
-      "summary": "在 AI 浪潮帶動下，人造鑽石可望成為美中科技角力的下一個戰略重心。路透社報導，由於 AI 運算會產生大量熱能 [&#8230;]",
-      "date": "2026-10-28T23:10:51+00:00",
+      "id": "10c9804911e4",
+      "title": "輝達涉壟斷？傳美調查 Hugging Face、AI 晶片綁售",
+      "link": "https://technews.tw/2026/10/29/us-doj-is-inquiring-about-nvidias-purchase-of-hugging-face/",
+      "summary": "輝達（Nvidia）斥資 129.3 億美元收購開源 AI 平台 Hugging Face，傳出引起美國司法部 [&#8230;]",
+      "date": "2026-10-29T05:30:22+00:00",
+      "sourceId": "technews",
+      "cats": [
+        "market",
+        "process",
+        "material"
+      ]
+    },
+    {
+      "id": "b67286285d55",
+      "title": "超越「超級循環」  測試設備商愛德萬再升財測  股價飆",
+      "link": "https://finance.technews.tw/2026/10/29/advantest-raises-full-year-forecast-again/",
+      "summary": "AI 相關半導體市場進入高速成長階段、超越「超級循環」（Supercycle），全球半導體測試設備巨擘、輝達（ [&#8230;]",
+      "date": "2026-10-29T03:50:21+00:00",
+      "sourceId": "technews",
+      "cats": [
+        "market",
+        "process",
+        "material"
+      ]
+    },
+    {
+      "id": "d91518b8b01b",
+      "title": "AI 需求爆發，三星電子第三季營業利益大增 783% 創新高",
+      "link": "https://finance.technews.tw/2026/10/29/samsung-electronics-3q26-earnings-conference-call/",
+      "summary": "韓國科技巨擘三星電子（Samsung Electronics）今天公布第 3 季營業利益較去年同期大增超過 7 [&#8230;]",
+      "date": "2026-10-29T03:25:12+00:00",
+      "sourceId": "technews",
+      "cats": [
+        "market",
+        "process",
+        "material"
+      ]
+    },
+    {
+      "id": "c35363ac1e40",
+      "title": "日本晶片設備銷售旺  首破「6 千億」、刷新歷史新高",
+      "link": "https://technews.tw/2026/10/29/japan-chip-equipment-sales-top-600-billion-yen-for-the-first-time/",
+      "summary": "日本半導體（晶片）製造設備銷售續旺，9 月份銷售額創 55 個月來最大增幅，首度衝破 6,000 億日圓大關， [&#8230;]",
+      "date": "2026-10-29T03:00:18+00:00",
+      "sourceId": "technews",
+      "cats": [
+        "market",
+        "process",
+        "material"
+      ]
+    },
+    {
+      "id": "287c20030135",
+      "title": "慧榮科技 2026 年第三季營收、EPS 續創新高，估全年營收成長逾 100%",
+      "link": "https://finance.technews.tw/2026/10/29/phison-technologys-revenue-and-eps-continued-to-reach-new-highs-in-the-third-quarter-of-2026/",
+      "summary": "記憶體 IC 控制晶片廠商慧榮科技公布 2026 年第三季財報，營收為 5 億 6,022 萬美元，連續四季創 [&#8230;]",
+      "date": "2026-10-29T02:45:43+00:00",
+      "sourceId": "technews",
+      "cats": [
+        "market",
+        "process",
+        "material"
+      ]
+    },
+    {
+      "id": "eb6bd18dff57",
+      "title": "輝達推出免費開源語音模型 Nemotron 3.5 Transcribe，轉錄、翻譯、辨識語者一次搞定",
+      "link": "https://technews.tw/2026/10/29/nvidia-releases-new-open-transcription-model/",
+      "summary": "輝達（NVIDIA）10 月 28 日推出 Nemotron 3.5 Transcribe，這是一款免費、開放 [&#8230;]",
+      "date": "2026-10-29T02:35:03+00:00",
+      "sourceId": "technews",
+      "cats": [
+        "market",
+        "process",
+        "material"
+      ]
+    },
+    {
+      "id": "fe31d51fbd0b",
+      "title": "不受歡迎是巨頭的宿命，Netflix 創辦人：想扭轉形象就去治癒一些疾病",
+      "link": "https://technews.tw/2026/10/29/reed-hastings-says-big-tech-should-get-used-to-being-hated/",
+      "summary": "Netflix 共同創辦人、前共同執行長里德·哈斯廷斯（Reed Hastings）近日表示，矽谷科技高層應該 [&#8230;]",
+      "date": "2026-10-29T02:25:27+00:00",
       "sourceId": "technews",
       "cats": [
         "market",
@@ -100,97 +178,6 @@
       ]
     },
     {
-      "id": "2aa6f174bbc2",
-      "title": "AMD 斥資 10 億美元參與 Meta 股權發行，雙方合作部署 GW 等級算力基礎設施",
-      "link": "https://finance.technews.tw/2026/10/28/amd-invests-1-billion-in-meta-equity-offering/",
-      "summary": "處理器大廠AMD宣布與Meta深化策略合作夥伴關係，將攜手建置並部署Gigawatt級規模的AI超級智慧基礎設 [&#8230;]",
-      "date": "2026-10-28T12:20:04+00:00",
-      "sourceId": "technews",
-      "cats": [
-        "market",
-        "process",
-        "material"
-      ]
-    },
-    {
-      "id": "1a141473f1e0",
-      "title": "聯電展望 2027 年綜合 ASP 預期年增 10%，AI 業務三年內營收衝 25% 占比",
-      "link": "https://finance.technews.tw/2026/10/28/umc-projects-a-10-year-on-year-increase-in-its-consolidated-asp-by-2027/",
-      "summary": "晶圓代工大廠聯電（UMC）在在第三季法會會中對法人提問表示，隨著2026年下半年產能利用率回升至90%以上，2 [&#8230;]",
-      "date": "2026-10-28T10:30:52+00:00",
-      "sourceId": "technews",
-      "cats": [
-        "market",
-        "process",
-        "material"
-      ]
-    },
-    {
-      "id": "4d29955c3b40",
-      "title": "聯亞 Q3 每股賺 6.12 元創單季新高！矽光需求續旺，估 Q4 營收看增",
-      "link": "https://technews.tw/2026/10/28/landmark-2026-q3-financial-report/",
-      "summary": "聯亞今（28 日）舉辦第三季法說會，受惠 AI 資料中心帶動高速光通訊需求升溫，矽光子相關產品出貨持續放大，第 [&#8230;]",
-      "date": "2026-10-28T10:08:49+00:00",
-      "sourceId": "technews",
-      "cats": [
-        "market",
-        "process",
-        "material"
-      ]
-    },
-    {
-      "id": "2b15d5097c6c",
-      "title": "台積電進駐帶動投資生產，九州金融集團估熊本等三縣獲益近 14 兆日圓",
-      "link": "https://finance.technews.tw/2026/10/28/tsmc-entry-drives-investment-production-kyushu-financial-group-estimates-kumamoto-3-prefectures-14-trillion-yen-gain/",
-      "summary": "台灣半導體大廠台積電等相關企業進駐日本九州的經濟效益，九州金融集團宣布最新估算，熊本縣、鹿兒島縣和宮崎縣的總額 [&#8230;]",
-      "date": "2026-10-28T09:50:57+00:00",
-      "sourceId": "technews",
-      "cats": [
-        "market",
-        "process",
-        "material"
-      ]
-    },
-    {
-      "id": "b6cacce9204e",
-      "title": "聯電第三季營收 742.4 億元創新高，產能利用率衝上 92% 追加 32 億美元資本支出",
-      "link": "https://finance.technews.tw/2026/10/28/umcs-third-quarter-revenue-hit-a-record-high-of-nt74-24-billion/",
-      "summary": "半導體晶圓代工大廠聯電公布 2026 年第三季財報，受惠於各終端市場需求穩健，聯電第三季合併營收達新台幣 74 [&#8230;]",
-      "date": "2026-10-28T09:20:34+00:00",
-      "sourceId": "technews",
-      "cats": [
-        "market",
-        "process",
-        "material"
-      ]
-    },
-    {
-      "id": "85b655255a6f",
-      "title": "PC 需求疲弱，尼克森布局 AI 伺服器周邊應用",
-      "link": "https://technews.tw/2026/10/28/nixon-expands-ai-power-business-unveils-new-sic-gan-product-lineup/",
-      "summary": "隨著 PC 市場需求放緩，功率半導體廠尼克森積極拓展新應用。尼克森今（28）日於法說會指出，PC 業務仍占營收 [&#8230;]",
-      "date": "2026-10-28T09:19:40+00:00",
-      "sourceId": "technews",
-      "cats": [
-        "market",
-        "process",
-        "material"
-      ]
-    },
-    {
-      "id": "f32e856e3c0c",
-      "title": "企圖假借中轉規避禁令，馬來西亞查獲 1,200 萬美元走私 AI 晶片",
-      "link": "https://technews.tw/2026/10/28/malaysian-airport-seizes-ai-chips-smuggling-bust/",
-      "summary": "馬來西亞海關宣布，近日在吉隆坡國際機場成功查獲一批總價值約 4,950 萬令吉（折合約 1,200 萬美元）的 [&#8230;]",
-      "date": "2026-10-28T08:20:35+00:00",
-      "sourceId": "technews",
-      "cats": [
-        "market",
-        "process",
-        "material"
-      ]
-    },
-    {
       "id": "cb0f940340da",
       "title": "Intel Wants a Quantum Business, Classiq Could Help Build One",
       "link": "https://www.eetimes.com/intel-wants-a-quantum-business-classiq-could-help-build-one/",
@@ -201,32 +188,6 @@
         "process",
         "material",
         "equipment"
-      ]
-    },
-    {
-      "id": "b3634b1fb9a4",
-      "title": "下世代通訊突圍！工研院拆解 2027 關鍵字 AI-RAN、矽光子與太空算力",
-      "link": "https://technews.tw/2026/10/28/ai-ran/",
-      "summary": "工研院今日舉辦「眺望 2027 產業發展趨勢研討會」通訊場次，聚焦 AI 應用與雲端設施升級的台灣通訊產業發展 [&#8230;]",
-      "date": "2026-10-28T07:36:08+00:00",
-      "sourceId": "technews",
-      "cats": [
-        "market",
-        "process",
-        "material"
-      ]
-    },
-    {
-      "id": "2d4ae83e2e44",
-      "title": "英飛凌將於歐洲設立全球首座採用 12 吋氮化鎵功率半導體晶圓廠",
-      "link": "https://technews.tw/2026/10/28/infineon-will-establish-the-worlds-first-12-inch-gallium-nitride-power-semiconductor-wafer-fab-in-europe/",
-      "summary": "英飛凌科技宣布，將在歐洲設立全球首座採用 12 吋晶圓生產新一代氮化鎵（GaN）功率半導體的大規模量產製造廠。 [&#8230;]",
-      "date": "2026-10-28T07:30:43+00:00",
-      "sourceId": "technews",
-      "cats": [
-        "market",
-        "process",
-        "material"
       ]
     },
     {
