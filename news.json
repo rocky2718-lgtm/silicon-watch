@@ -1,6 +1,6 @@
 {
-  "updated": "2026-10-29T19:29:49.437661+00:00",
-  "count": 19,
+  "updated": "2026-10-29T23:53:17.337892+00:00",
+  "count": 18,
   "sources": [
     {
       "id": "technews",
@@ -60,6 +60,45 @@
     }
   ],
   "articles": [
+    {
+      "id": "0e81a0ac41ed",
+      "title": "離開紫光的高啟全轉任月營收只百萬的小公司董座，DRAM 教父看到「兆捷科技」什麼機會？",
+      "link": "https://finance.technews.tw/2026/10/30/iemc-ceo-gao/",
+      "summary": "預定 12 月初上市的兆捷科技，是台灣少數能直供晶圓廠的特氣製造商。董事長高啟全（首圖右）看準本土化供應商機， [&#8230;]",
+      "date": "2026-10-29T23:30:19+00:00",
+      "sourceId": "technews",
+      "cats": [
+        "market",
+        "process",
+        "material"
+      ]
+    },
+    {
+      "id": "9eb1dda17865",
+      "title": "與黃仁勳往來密切客戶高層被懷疑是共諜！輝達正式出面回應了",
+      "link": "https://finance.technews.tw/2026/10/30/senior-executives-of-clients-who-have-close-ties-with-huang-jen-hsun-are-suspected-of-being-communist-spies/",
+      "summary": "根據CNBC的報導，一篇由紐約時報引述知情人士的文章指出，與GPU大廠輝達（Nvidia）執行長黃仁勳往來密切 [&#8230;]",
+      "date": "2026-10-29T22:50:07+00:00",
+      "sourceId": "technews",
+      "cats": [
+        "market",
+        "process",
+        "material"
+      ]
+    },
+    {
+      "id": "397a2cca2933",
+      "title": "PC 市場放緩衝擊，英特爾第四季財測不如市場預期盤後股價一度重挫逾 20%",
+      "link": "https://finance.technews.tw/2026/10/30/intels-fourth-quarter-earnings-forecast-missed-market-expectations-causing-its-stock-price-to-plunge-by-more-than-20-at-one-point/",
+      "summary": "半導體大廠英特爾（Intel）發布 2026 年第三季財務報告，雖然第三季營收與獲利雙雙超越華爾街分析師預期。 [&#8230;]",
+      "date": "2026-10-29T21:50:56+00:00",
+      "sourceId": "technews",
+      "cats": [
+        "market",
+        "process",
+        "material"
+      ]
+    },
     {
       "id": "f0a16fa1fcd4",
       "title": "Samsung Electronics Posts $80B Operating Profit on AI Memory Demand",
@@ -152,63 +191,11 @@
       ]
     },
     {
-      "id": "19749a7a467e",
-      "title": "TSIA 迎接 30 週年，台灣半導體產值 2026 年將達 9.1 兆元 30 年提升逾 50 倍",
-      "link": "https://technews.tw/2026/10/29/tsia-celebrates-its-30th-anniversary/",
-      "summary": "29日，台灣半導體產業協會（TSIA）迎接成立 30 週年，理事長侯永清於紀念演講中回顧，TSIA 從創立初期 [&#8230;]",
-      "date": "2026-10-29T06:45:09+00:00",
-      "sourceId": "technews",
-      "cats": [
-        "market",
-        "process",
-        "material"
-      ]
-    },
-    {
-      "id": "48313a45b0ef",
-      "title": "赴美台積電工程師家庭渴望子女讀名校，卻面臨在地基礎教育落差引發焦慮",
-      "link": "https://technews.tw/2026/10/29/families-of-tsmc-engineers-working-in-the-us-yearn-for-their-children-to-attend-prestigious-universities/",
-      "summary": "自從晶圓代工龍頭台積電於 2020 年宣布在美國亞利桑那州設廠以來，已有數千名台灣工程師及其家屬相繼遷居鳳凰城 [&#8230;]",
-      "date": "2026-10-29T06:00:49+00:00",
-      "sourceId": "technews",
-      "cats": [
-        "market",
-        "process",
-        "material"
-      ]
-    },
-    {
-      "id": "84bfe3cbcdc3",
-      "title": "Supermicro 推 NVIDIA Vera CPU 機櫃：256 個 CPU 全液冷式機櫃級解決方案，可搭配 NVIDIA Vera Rubin 實現大規模代理式 AI 應用",
-      "link": "https://technews.tw/2026/10/29/supermicro-nvidia-vera-cpu/",
-      "summary": "Super Micro Computer, Inc. 為AI、企業、儲存和 5G／邊緣領域的全方位 IT 解決 [&#8230;]",
-      "date": "2026-10-29T06:00:04+00:00",
-      "sourceId": "technews",
-      "cats": [
-        "market",
-        "process",
-        "material"
-      ]
-    },
-    {
       "id": "32f8c55bc9f1",
       "title": "Full-Stack Semiconductor Solutions for Embodied AI & Robotics",
       "link": "https://www.eetimes.com/full-stack-semiconductor-solutions-for-embodied-ai-robotics/",
       "summary": "NSING Technologies, a Singapore-founded semiconductor company, presents this whitepaper on its full-stack semiconductor solutions for embodied AI and robotics, built around high-performance MCUs, security ICs, wireless connectivity and BMS ICs. The document explains the industry shift toward distrib",
       "date": "2026-10-28T14:00:00+00:00",
-      "sourceId": "eetimes",
-      "cats": [
-        "process",
-        "material",
-        "equipment"
-      ]
-    },
-    {
-      "id": "cb0f940340da",
-      "title": "Intel Wants a Quantum Business, Classiq Could Help Build One",
-      "link": "https://www.eetimes.com/intel-wants-a-quantum-business-classiq-could-help-build-one/",
-      "summary": "After years of hardware research, Intel plans to acquire a software platform that connects quantum developers with enterprise users. The post Intel Wants a Quantum Business, Classiq Could Help Build One appeared first on EE Times.",
-      "date": "2026-10-28T08:05:29+00:00",
       "sourceId": "eetimes",
       "cats": [
         "process",
