@@ -1,6 +1,6 @@
 {
-  "updated": "2026-10-29T23:53:17.337892+00:00",
-  "count": 18,
+  "updated": "2026-10-30T05:30:29.142033+00:00",
+  "count": 19,
   "sources": [
     {
       "id": "technews",
@@ -61,11 +61,11 @@
   ],
   "articles": [
     {
-      "id": "0e81a0ac41ed",
-      "title": "離開紫光的高啟全轉任月營收只百萬的小公司董座，DRAM 教父看到「兆捷科技」什麼機會？",
-      "link": "https://finance.technews.tw/2026/10/30/iemc-ceo-gao/",
-      "summary": "預定 12 月初上市的兆捷科技，是台灣少數能直供晶圓廠的特氣製造商。董事長高啟全（首圖右）看準本土化供應商機， [&#8230;]",
-      "date": "2026-10-29T23:30:19+00:00",
+      "id": "a45992d37c38",
+      "title": "做空機構 Culper 指 Cerebras 晶圓級晶片壽命僅約兩年，遠低於 IPO 文件宣稱",
+      "link": "https://technews.tw/2026/10/30/cerebras-chips-have-shorter-lifespans-than-statements-suggest-short-seller-report-claims/",
+      "summary": "研究與放空機構 Culper Research 揭露放空 Cerebras Systems，並公布報告指晶圓級 [&#8230;]",
+      "date": "2026-10-30T04:40:42+00:00",
       "sourceId": "technews",
       "cats": [
         "market",
@@ -74,11 +74,11 @@
       ]
     },
     {
-      "id": "9eb1dda17865",
-      "title": "與黃仁勳往來密切客戶高層被懷疑是共諜！輝達正式出面回應了",
-      "link": "https://finance.technews.tw/2026/10/30/senior-executives-of-clients-who-have-close-ties-with-huang-jen-hsun-are-suspected-of-being-communist-spies/",
-      "summary": "根據CNBC的報導，一篇由紐約時報引述知情人士的文章指出，與GPU大廠輝達（Nvidia）執行長黃仁勳往來密切 [&#8230;]",
-      "date": "2026-10-29T22:50:07+00:00",
+      "id": "b3378373b7e7",
+      "title": "Samsung Wallet 也能刷全支付，11 月起開放掃碼付款",
+      "link": "https://technews.tw/2026/10/30/samsung-wallet-pxpay-plus/",
+      "summary": "習慣用手機付款的三星用戶，又多了一種支付選擇。台灣三星稍早宣布攜手全支付自 11 月 1 日起，正式在 Sam [&#8230;]",
+      "date": "2026-10-30T03:56:48+00:00",
       "sourceId": "technews",
       "cats": [
         "market",
@@ -87,11 +87,89 @@
       ]
     },
     {
-      "id": "397a2cca2933",
-      "title": "PC 市場放緩衝擊，英特爾第四季財測不如市場預期盤後股價一度重挫逾 20%",
-      "link": "https://finance.technews.tw/2026/10/30/intels-fourth-quarter-earnings-forecast-missed-market-expectations-causing-its-stock-price-to-plunge-by-more-than-20-at-one-point/",
-      "summary": "半導體大廠英特爾（Intel）發布 2026 年第三季財務報告，雖然第三季營收與獲利雙雙超越華爾街分析師預期。 [&#8230;]",
-      "date": "2026-10-29T21:50:56+00:00",
+      "id": "8c213bd07c23",
+      "title": "AI 與半導體雙引擎爆發！盧超群：2026 年台灣將成美國第一大貿易夥伴",
+      "link": "https://finance.technews.tw/2026/10/30/taiwan-will-become-the-united-states-largest-trading-partner/",
+      "summary": "半導體與AI 浪潮席捲全球，台灣在國際供應鏈與全球定位中扮演爆發性的關鍵角色。鈺創科技董事長盧超群指出，半導體 [&#8230;]",
+      "date": "2026-10-30T03:50:56+00:00",
+      "sourceId": "technews",
+      "cats": [
+        "market",
+        "process",
+        "material"
+      ]
+    },
+    {
+      "id": "89fc8c35315f",
+      "title": "謝再居：成熟製程與 DRAM 核心技術跨界整合使力積電跟隨 AI 發展賺錢",
+      "link": "https://finance.technews.tw/2026/10/30/the-cross-industry-integration-of-mature-process-technology-and-core-dram-technology-enables-powerchip-semiconductor-to-profit-from-ai-development/",
+      "summary": "隨著高效能運算（HPC）與人工智慧（AI）需求爆發，市場焦點多聚焦於最先進的微縮製程。然成熟製程在系統周邊元件 [&#8230;]",
+      "date": "2026-10-30T03:40:34+00:00",
+      "sourceId": "technews",
+      "cats": [
+        "market",
+        "process",
+        "material"
+      ]
+    },
+    {
+      "id": "8be6ecaf2520",
+      "title": "AI 部署關鍵年爆發！聯發科陳冠州解析台灣半導體生態系轉型與四大競爭策略",
+      "link": "https://technews.tw/2026/10/30/mediateks-chen-guanzhou-analyzes-the-transformation-of-taiwans-semiconductor-ecosystem-and-four-major-competitive-strategies/",
+      "summary": "隨著生成式 AI 與大語言模型的飛速發展，全球半導體產業正迎來新一輪的典範轉移。聯發科技總經理陳冠州直言 20 [&#8230;]",
+      "date": "2026-10-30T03:30:06+00:00",
+      "sourceId": "technews",
+      "cats": [
+        "market",
+        "process",
+        "material"
+      ]
+    },
+    {
+      "id": "7d941a2cf137",
+      "title": "蓋廠也要挑電廠？台電：企業選址應考量電源位置",
+      "link": "https://technews.tw/2026/10/30/factory-location-power-plants-taipower-businesses-factor-power-source-locations/",
+      "summary": "隨著 AI 與半導體產業用電需求持續攀升，企業未來投資設廠，除了考慮土地與交通條件，電力供應也成為重要因素。台 [&#8230;]",
+      "date": "2026-10-30T03:22:03+00:00",
+      "sourceId": "technews",
+      "cats": [
+        "market",
+        "process",
+        "material"
+      ]
+    },
+    {
+      "id": "2362bdc0d63f",
+      "title": "AI 算力暴增百倍推升驗證難度，台積電袁立本提七大行動讓台灣全球 AI 樞紐",
+      "link": "https://technews.tw/2026/10/30/seven-major-initiatives-to-make-taiwan-a-global-ai-hub/",
+      "summary": "台積電業務開發副總經理袁立本指出，全球 AI 產業已從實驗室階段的「創新週期」，全面邁入大規模部署的「產業化規 [&#8230;]",
+      "date": "2026-10-30T03:10:12+00:00",
+      "sourceId": "technews",
+      "cats": [
+        "market",
+        "process",
+        "material"
+      ]
+    },
+    {
+      "id": "01d2ad7e6eda",
+      "title": "外資挺日月光投控強勁成長，先進封裝與 CPO 量產目標價最高看 908 元",
+      "link": "https://finance.technews.tw/2026/10/30/foreign-investors-support-ase-technology-holdings-strong-growth/",
+      "summary": "半導體封測龍頭日月光投控公布強勁的第 3 季財報與優於預期的第4季展望，受惠於尖端先進封裝（LEAP）需求爆發 [&#8230;]",
+      "date": "2026-10-30T03:00:58+00:00",
+      "sourceId": "technews",
+      "cats": [
+        "market",
+        "process",
+        "material"
+      ]
+    },
+    {
+      "id": "5cb8ab000700",
+      "title": "蘋果、特斯拉、輝達拆股真讓股價飛升？成交量暴增多屬數字遊戲，交易熱度未必持續",
+      "link": "https://finance.technews.tw/2026/10/30/10-notable-stock-splits-in-history-and-what-happened-next/",
+      "summary": "股票分割近年再度成為美股熱門話題，從蘋果（Apple）、特斯拉（Tesla）到輝達（Nvidia），多家巨頭陸 [&#8230;]",
+      "date": "2026-10-30T03:00:14+00:00",
       "sourceId": "technews",
       "cats": [
         "market",
@@ -113,32 +191,6 @@
       ]
     },
     {
-      "id": "9b8f618a9297",
-      "title": "日月光投控 2026 年 LEAP 營收上調至逾 40 億美元，今明資本支出與毛利率同步走揚",
-      "link": "https://finance.technews.tw/2026/10/29/ase-technology-holding-co-ltd-reported-a-record-high-third-quarter-profit-with-eps-of-nt6-13-2/",
-      "summary": "半導體封測龍頭日月光投控表示，受惠於 LEAP（先進封裝相關業務） 快速提升、CoWoS 全流程需求殷切，以 [&#8230;]",
-      "date": "2026-10-29T09:30:13+00:00",
-      "sourceId": "technews",
-      "cats": [
-        "market",
-        "process",
-        "material"
-      ]
-    },
-    {
-      "id": "d62e2d1db95b",
-      "title": "日月光投控第三季獲利創新高 EPS 達 6.13 元，第四季營收估季增上看 8%",
-      "link": "https://finance.technews.tw/2026/10/29/ase-technology-holding-co-ltd-reported-a-record-high-third-quarter-profit-with-eps-of-nt6-13/",
-      "summary": "全球半導體封測龍頭日月光投控發布第三季營運報告，受惠於半導體封測與電子代工服務（EMS）需求雙雙大增，日月光投 [&#8230;]",
-      "date": "2026-10-29T08:40:14+00:00",
-      "sourceId": "technews",
-      "cats": [
-        "market",
-        "process",
-        "material"
-      ]
-    },
-    {
       "id": "8ced2f7e82ba",
       "title": "How AI Redefines Semiconductor Manufacturing, From Materials Up",
       "link": "https://www.eetimes.com/how-ai-redefines-semiconductor-manufacturing-from-materials-up/",
@@ -149,45 +201,6 @@
         "process",
         "material",
         "equipment"
-      ]
-    },
-    {
-      "id": "9608a16b9db3",
-      "title": "Find X10 起售價漲近五成，OPPO 劉金承諾現有機款暫不調價",
-      "link": "https://technews.tw/2026/10/29/find-x10-oppo/",
-      "summary": "記憶體價格持續上漲，手機品牌面臨的成本壓力短期內可能難以緩解。OPPO 台灣市場總經理劉金表示，今年記憶體供應 [&#8230;]",
-      "date": "2026-10-29T08:18:21+00:00",
-      "sourceId": "technews",
-      "cats": [
-        "market",
-        "process",
-        "material"
-      ]
-    },
-    {
-      "id": "400079156cdc",
-      "title": "威剛第三季 EPS 38.69 元再創單季新高，前三季獲利超越過去 25 年總和",
-      "link": "https://finance.technews.tw/2026/10/29/tsia-celebrates-its-30th-anniversary-2/",
-      "summary": "記憶體模組廠威剛科技前 3 季獲利締造歷史新頁，每股盈餘達 101.47 元，首度突破百元大關，累計稅後淨利達 [&#8230;]",
-      "date": "2026-10-29T07:00:05+00:00",
-      "sourceId": "technews",
-      "cats": [
-        "market",
-        "process",
-        "material"
-      ]
-    },
-    {
-      "id": "4c0770b79e14",
-      "title": "友達華亞廠出售廣達破局，台中廠 388 億元賣台積電",
-      "link": "https://finance.technews.tw/2026/10/29/auo-tsmc/",
-      "summary": "面板大廠友達今日接連公告兩項重大資產處分進展，其中原訂出售予廣達的華亞廠交易案，因雙方對廠房使用規格及交付時程 [&#8230;]",
-      "date": "2026-10-29T06:54:35+00:00",
-      "sourceId": "technews",
-      "cats": [
-        "market",
-        "process",
-        "material"
       ]
     },
     {
