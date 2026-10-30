@@ -1,6 +1,6 @@
 {
-  "updated": "2026-10-30T12:38:55.473925+00:00",
-  "count": 16,
+  "updated": "2026-10-30T19:07:18.904378+00:00",
+  "count": 17,
   "sources": [
     {
       "id": "technews",
@@ -60,6 +60,19 @@
     }
   ],
   "articles": [
+    {
+      "id": "4a16792a77ea",
+      "title": "Intel’s Q3 Results Show Supply Chain Disruptions and PC Plunge",
+      "link": "https://www.eetimes.com/intels-q3-results-show-supply-chain-disruptions-and-pc-plunge/",
+      "summary": "Intel faces a tough challenge as manufacturing bottlenecks and rising memory costs impact PC sales despite strong data center growth. The post Intel’s Q3 Results Show Supply Chain Disruptions and PC Plunge appeared first on EE Times.",
+      "date": "2026-10-30T16:37:20+00:00",
+      "sourceId": "eetimes",
+      "cats": [
+        "process",
+        "material",
+        "equipment"
+      ]
+    },
     {
       "id": "1b120d8669f5",
       "title": "聯發科 2026 年 ASIC 營收將達 25 億美元，確認已取得第二家雲端 ASIC 客戶",
