@@ -1,6 +1,6 @@
 {
-  "updated": "2026-10-30T05:30:29.142033+00:00",
-  "count": 19,
+  "updated": "2026-10-30T12:38:55.473925+00:00",
+  "count": 16,
   "sources": [
     {
       "id": "technews",
@@ -61,11 +61,11 @@
   ],
   "articles": [
     {
-      "id": "a45992d37c38",
-      "title": "做空機構 Culper 指 Cerebras 晶圓級晶片壽命僅約兩年，遠低於 IPO 文件宣稱",
-      "link": "https://technews.tw/2026/10/30/cerebras-chips-have-shorter-lifespans-than-statements-suggest-short-seller-report-claims/",
-      "summary": "研究與放空機構 Culper Research 揭露放空 Cerebras Systems，並公布報告指晶圓級 [&#8230;]",
-      "date": "2026-10-30T04:40:42+00:00",
+      "id": "1b120d8669f5",
+      "title": "聯發科 2026 年 ASIC 營收將達 25 億美元，確認已取得第二家雲端 ASIC 客戶",
+      "link": "https://finance.technews.tw/2026/10/30/mediateks-asic-revenue-will-reach-2-5-billion-in-2026/",
+      "summary": "聯發科執行長蔡力行表示，2026 年雲端 ASIC 營收貢獻目標上調至25億美元，其中對第四季佔單季營收比重將 [&#8230;]",
+      "date": "2026-10-30T12:20:49+00:00",
       "sourceId": "technews",
       "cats": [
         "market",
@@ -74,11 +74,11 @@
       ]
     },
     {
-      "id": "b3378373b7e7",
-      "title": "Samsung Wallet 也能刷全支付，11 月起開放掃碼付款",
-      "link": "https://technews.tw/2026/10/30/samsung-wallet-pxpay-plus/",
-      "summary": "習慣用手機付款的三星用戶，又多了一種支付選擇。台灣三星稍早宣布攜手全支付自 11 月 1 日起，正式在 Sam [&#8230;]",
-      "date": "2026-10-30T03:56:48+00:00",
+      "id": "d9892246ced3",
+      "title": "記憶體漲勢延續至明年首季，vivo 台灣 X 系列銷量逆勢成長兩成",
+      "link": "https://technews.tw/2026/10/30/vivo-x500-series-taiwan/",
+      "summary": "vivo 今日在台推出 X500 系列旗艦手機及摺疊旗艦 X Fold6。面對記憶體價格持續上漲、智慧手機市場 [&#8230;]",
+      "date": "2026-10-30T11:30:33+00:00",
       "sourceId": "technews",
       "cats": [
         "market",
@@ -87,11 +87,11 @@
       ]
     },
     {
-      "id": "8c213bd07c23",
-      "title": "AI 與半導體雙引擎爆發！盧超群：2026 年台灣將成美國第一大貿易夥伴",
-      "link": "https://finance.technews.tw/2026/10/30/taiwan-will-become-the-united-states-largest-trading-partner/",
-      "summary": "半導體與AI 浪潮席捲全球，台灣在國際供應鏈與全球定位中扮演爆發性的關鍵角色。鈺創科技董事長盧超群指出，半導體 [&#8230;]",
-      "date": "2026-10-30T03:50:56+00:00",
+      "id": "6b40c2a71004",
+      "title": "台積電外氣空調箱洗滌技術升級，再省電 60%",
+      "link": "https://technews.tw/2026/10/30/tsmc-ahu-washing-tech-upgrade-60-percent-power-savings/",
+      "summary": "晶圓代工廠台積電成功升級外氣空調箱洗滌技術，台積電表示，新一代設計運用自然重力取代馬達加壓，確保洗滌效果不變的 [&#8230;]",
+      "date": "2026-10-30T09:30:20+00:00",
       "sourceId": "technews",
       "cats": [
         "market",
@@ -100,11 +100,11 @@
       ]
     },
     {
-      "id": "89fc8c35315f",
-      "title": "謝再居：成熟製程與 DRAM 核心技術跨界整合使力積電跟隨 AI 發展賺錢",
-      "link": "https://finance.technews.tw/2026/10/30/the-cross-industry-integration-of-mature-process-technology-and-core-dram-technology-enables-powerchip-semiconductor-to-profit-from-ai-development/",
-      "summary": "隨著高效能運算（HPC）與人工智慧（AI）需求爆發，市場焦點多聚焦於最先進的微縮製程。然成熟製程在系統周邊元件 [&#8230;]",
-      "date": "2026-10-30T03:40:34+00:00",
+      "id": "00a3b12b3bde",
+      "title": "盛美推升級版高溫 SPM 清洗設備！回收率達 70%，單台年省 400 噸化學品",
+      "link": "https://technews.tw/2026/10/30/acm-research-spm-cleaning-machine/",
+      "summary": "隨著半導體製程日益複雜，晶圓清洗技術對微粒控制、化學品使用效率及設備穩定性的要求持續提高。盛美半導體設備今（3 [&#8230;]",
+      "date": "2026-10-30T09:14:56+00:00",
       "sourceId": "technews",
       "cats": [
         "market",
@@ -113,11 +113,11 @@
       ]
     },
     {
-      "id": "8be6ecaf2520",
-      "title": "AI 部署關鍵年爆發！聯發科陳冠州解析台灣半導體生態系轉型與四大競爭策略",
-      "link": "https://technews.tw/2026/10/30/mediateks-chen-guanzhou-analyzes-the-transformation-of-taiwans-semiconductor-ecosystem-and-four-major-competitive-strategies/",
-      "summary": "隨著生成式 AI 與大語言模型的飛速發展，全球半導體產業正迎來新一輪的典範轉移。聯發科技總經理陳冠州直言 20 [&#8230;]",
-      "date": "2026-10-30T03:30:06+00:00",
+      "id": "fd0bc067ed43",
+      "title": "拚晶片部署縮短至半年，Google 高層：台灣是客製化晶片重鎮",
+      "link": "https://technews.tw/2026/10/30/google-executive-says-taiwan-is-a-major-hub-for-custom-chips/",
+      "summary": "Google Cloud AI 基礎建設供應鏈與製造營運副總裁謝赫今天指出，台灣的供應鏈樞紐將持續是 Goog [&#8230;]",
+      "date": "2026-10-30T08:50:46+00:00",
       "sourceId": "technews",
       "cats": [
         "market",
@@ -126,11 +126,11 @@
       ]
     },
     {
-      "id": "7d941a2cf137",
-      "title": "蓋廠也要挑電廠？台電：企業選址應考量電源位置",
-      "link": "https://technews.tw/2026/10/30/factory-location-power-plants-taipower-businesses-factor-power-source-locations/",
-      "summary": "隨著 AI 與半導體產業用電需求持續攀升，企業未來投資設廠，除了考慮土地與交通條件，電力供應也成為重要因素。台 [&#8230;]",
-      "date": "2026-10-30T03:22:03+00:00",
+      "id": "feec2af82143",
+      "title": "聯發科第三季 EPS 達 17.5 元毛利率達 46.3%，第四季預估營收季增中位數近三成",
+      "link": "https://finance.technews.tw/2026/10/30/mediateks-third-quarter-eps-reached-nt17-5-with-a-gross-margin-of-46-3/",
+      "summary": "IC 設計龍頭聯發科公布 2026 年第三季合併財務報告並舉行法人說明會，在受惠於客戶需求強勁與新專案陸續放量 [&#8230;]",
+      "date": "2026-10-30T08:00:52+00:00",
       "sourceId": "technews",
       "cats": [
         "market",
@@ -139,37 +139,11 @@
       ]
     },
     {
-      "id": "2362bdc0d63f",
-      "title": "AI 算力暴增百倍推升驗證難度，台積電袁立本提七大行動讓台灣全球 AI 樞紐",
-      "link": "https://technews.tw/2026/10/30/seven-major-initiatives-to-make-taiwan-a-global-ai-hub/",
-      "summary": "台積電業務開發副總經理袁立本指出，全球 AI 產業已從實驗室階段的「創新週期」，全面邁入大規模部署的「產業化規 [&#8230;]",
-      "date": "2026-10-30T03:10:12+00:00",
-      "sourceId": "technews",
-      "cats": [
-        "market",
-        "process",
-        "material"
-      ]
-    },
-    {
-      "id": "01d2ad7e6eda",
-      "title": "外資挺日月光投控強勁成長，先進封裝與 CPO 量產目標價最高看 908 元",
-      "link": "https://finance.technews.tw/2026/10/30/foreign-investors-support-ase-technology-holdings-strong-growth/",
-      "summary": "半導體封測龍頭日月光投控公布強勁的第 3 季財報與優於預期的第4季展望，受惠於尖端先進封裝（LEAP）需求爆發 [&#8230;]",
-      "date": "2026-10-30T03:00:58+00:00",
-      "sourceId": "technews",
-      "cats": [
-        "market",
-        "process",
-        "material"
-      ]
-    },
-    {
-      "id": "5cb8ab000700",
-      "title": "蘋果、特斯拉、輝達拆股真讓股價飛升？成交量暴增多屬數字遊戲，交易熱度未必持續",
-      "link": "https://finance.technews.tw/2026/10/30/10-notable-stock-splits-in-history-and-what-happened-next/",
-      "summary": "股票分割近年再度成為美股熱門話題，從蘋果（Apple）、特斯拉（Tesla）到輝達（Nvidia），多家巨頭陸 [&#8230;]",
-      "date": "2026-10-30T03:00:14+00:00",
+      "id": "6a1e53b725c7",
+      "title": "邁威爾傳併 Lumentum？市場不買單、憂財務衝擊",
+      "link": "https://finance.technews.tw/2026/10/30/marvell-lumentum-acquisition-rumor-market-disapproves-financial-impact-concerns/",
+      "summary": "網通晶片設計商邁威爾（Marvell）傳出洽購光通訊元件供應商 Lumentum，市場擔心收購溢價、發行新股稀 [&#8230;]",
+      "date": "2026-10-30T07:40:51+00:00",
       "sourceId": "technews",
       "cats": [
         "market",
@@ -196,19 +170,6 @@
       "link": "https://www.eetimes.com/how-ai-redefines-semiconductor-manufacturing-from-materials-up/",
       "summary": "AI chip advances depend on more than design, requiring new materials, manufacturing equipment, and packaging technologies to meet rising performance demands. The post How AI Redefines Semiconductor Manufacturing, From Materials Up appeared first on EE Times.",
       "date": "2026-10-29T08:30:08+00:00",
-      "sourceId": "eetimes",
-      "cats": [
-        "process",
-        "material",
-        "equipment"
-      ]
-    },
-    {
-      "id": "32f8c55bc9f1",
-      "title": "Full-Stack Semiconductor Solutions for Embodied AI & Robotics",
-      "link": "https://www.eetimes.com/full-stack-semiconductor-solutions-for-embodied-ai-robotics/",
-      "summary": "NSING Technologies, a Singapore-founded semiconductor company, presents this whitepaper on its full-stack semiconductor solutions for embodied AI and robotics, built around high-performance MCUs, security ICs, wireless connectivity and BMS ICs. The document explains the industry shift toward distrib",
-      "date": "2026-10-28T14:00:00+00:00",
       "sourceId": "eetimes",
       "cats": [
         "process",
