@@ -1,6 +1,6 @@
 {
-  "updated": "2026-10-31T12:07:38.581214+00:00",
-  "count": 16,
+  "updated": "2026-10-31T18:24:49.618399+00:00",
+  "count": 15,
   "sources": [
     {
       "id": "technews",
@@ -127,23 +127,10 @@
     },
     {
       "id": "1b120d8669f5",
-      "title": "聯發科 2026 年 ASIC 營收將達 25 億美元，確認已取得第二家雲端 ASIC 客戶",
+      "title": "聯發科 2026 年 ASIC 營收將達 25 億美元，確認取得第二家雲端 ASIC 客戶",
       "link": "https://finance.technews.tw/2026/10/30/mediateks-asic-revenue-will-reach-2-5-billion-in-2026/",
       "summary": "聯發科執行長蔡力行表示，2026 年雲端 ASIC 營收貢獻目標上調至25億美元，其中對第四季佔單季營收比重將 [&#8230;]",
       "date": "2026-10-30T12:20:49+00:00",
-      "sourceId": "technews",
-      "cats": [
-        "market",
-        "process",
-        "material"
-      ]
-    },
-    {
-      "id": "d9892246ced3",
-      "title": "記憶體漲勢延續至明年首季，vivo 台灣 X 系列銷量逆勢成長兩成",
-      "link": "https://technews.tw/2026/10/30/vivo-x500-series-taiwan/",
-      "summary": "vivo 今日在台推出 X500 系列旗艦手機及摺疊旗艦 X Fold6。面對記憶體價格持續上漲、智慧手機市場 [&#8230;]",
-      "date": "2026-10-30T11:30:33+00:00",
       "sourceId": "technews",
       "cats": [
         "market",
