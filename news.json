@@ -1,6 +1,6 @@
 {
-  "updated": "2026-10-30T23:36:24.970035+00:00",
-  "count": 17,
+  "updated": "2026-10-31T05:16:28.548843+00:00",
+  "count": 18,
   "sources": [
     {
       "id": "technews",
@@ -60,6 +60,45 @@
     }
   ],
   "articles": [
+    {
+      "id": "5ee507170284",
+      "title": "批 PC 配大量 DRAM「相當糟糕」！Sam Altman：應優先配置 AI 資料中心",
+      "link": "https://technews.tw/2026/10/31/openai-ceo-sam-altman-talk-about-dram/",
+      "summary": "OpenAI 執行長 Sam Altman 近日談及 AI 運算資源配置時，直言一般消費者將大量 DRAM 配 [&#8230;]",
+      "date": "2026-10-31T01:23:40+00:00",
+      "sourceId": "technews",
+      "cats": [
+        "market",
+        "process",
+        "material"
+      ]
+    },
+    {
+      "id": "120b05258506",
+      "title": "前三季營收翻倍衝刺轉上市，通寶從高通技術打底跨界布局 ASIC 與無人機晶片",
+      "link": "https://finance.technews.tw/2026/10/31/qbit-semiconductor-ltd/",
+      "summary": "沈軾榮 2016 年承接高通事務機影像處理技術團隊，準備承擔 5 年虧損；如今在核心事業穩定成長下，通寶正把技 [&#8230;]",
+      "date": "2026-10-31T01:00:34+00:00",
+      "sourceId": "technews",
+      "cats": [
+        "market",
+        "process",
+        "material"
+      ]
+    },
+    {
+      "id": "bb56caa593bd",
+      "title": "英特爾股價大崩 30%！恐創史上最大單日跌幅，全球晶片股跟著下殺",
+      "link": "https://finance.technews.tw/2026/10/31/intel-stock-chip/",
+      "summary": "英特爾週五（30 日）股價重挫 30%，恐創下史上最大單日跌幅，科技股賣壓進一步擴大。由於 PC 需求疲軟，加 [&#8230;]",
+      "date": "2026-10-31T00:54:03+00:00",
+      "sourceId": "technews",
+      "cats": [
+        "market",
+        "process",
+        "material"
+      ]
+    },
     {
       "id": "4a16792a77ea",
       "title": "Intel’s Q3 Results Show Supply Chain Disruptions and PC Plunge",
@@ -131,32 +170,6 @@
       "link": "https://technews.tw/2026/10/30/google-executive-says-taiwan-is-a-major-hub-for-custom-chips/",
       "summary": "Google Cloud AI 基礎建設供應鏈與製造營運副總裁謝赫今天指出，台灣的供應鏈樞紐將持續是 Goog [&#8230;]",
       "date": "2026-10-30T08:50:46+00:00",
-      "sourceId": "technews",
-      "cats": [
-        "market",
-        "process",
-        "material"
-      ]
-    },
-    {
-      "id": "feec2af82143",
-      "title": "聯發科第三季 EPS 達 17.5 元毛利率達 46.3%，第四季預估營收季增中位數近三成",
-      "link": "https://finance.technews.tw/2026/10/30/mediateks-third-quarter-eps-reached-nt17-5-with-a-gross-margin-of-46-3/",
-      "summary": "IC 設計龍頭聯發科公布 2026 年第三季合併財務報告並舉行法人說明會，在受惠於客戶需求強勁與新專案陸續放量 [&#8230;]",
-      "date": "2026-10-30T08:00:52+00:00",
-      "sourceId": "technews",
-      "cats": [
-        "market",
-        "process",
-        "material"
-      ]
-    },
-    {
-      "id": "6a1e53b725c7",
-      "title": "邁威爾傳併 Lumentum？市場不買單、憂財務衝擊",
-      "link": "https://finance.technews.tw/2026/10/30/marvell-lumentum-acquisition-rumor-market-disapproves-financial-impact-concerns/",
-      "summary": "網通晶片設計商邁威爾（Marvell）傳出洽購光通訊元件供應商 Lumentum，市場擔心收購溢價、發行新股稀 [&#8230;]",
-      "date": "2026-10-30T07:40:51+00:00",
       "sourceId": "technews",
       "cats": [
         "market",
