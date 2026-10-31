@@ -1,6 +1,6 @@
 {
-  "updated": "2026-10-31T05:16:28.548843+00:00",
-  "count": 18,
+  "updated": "2026-10-31T12:07:38.581214+00:00",
+  "count": 16,
   "sources": [
     {
       "id": "technews",
@@ -60,6 +60,19 @@
     }
   ],
   "articles": [
+    {
+      "id": "7b9a2091e8c6",
+      "title": "科林研發、imec 擴大合作！布局 High-NA EUV 乾式光阻，加速量產進程",
+      "link": "https://technews.tw/2026/10/31/lam-imec-collaboration/",
+      "summary": "人工智慧（AI）運算需求持續攀升，半導體產業的技術競爭已從電晶體微縮，進一步延伸至先進封裝、3D 整合及新世代 [&#8230;]",
+      "date": "2026-10-31T08:18:58+00:00",
+      "sourceId": "technews",
+      "cats": [
+        "market",
+        "process",
+        "material"
+      ]
+    },
     {
       "id": "5ee507170284",
       "title": "批 PC 配大量 DRAM「相當糟糕」！Sam Altman：應優先配置 AI 資料中心",
@@ -131,45 +144,6 @@
       "link": "https://technews.tw/2026/10/30/vivo-x500-series-taiwan/",
       "summary": "vivo 今日在台推出 X500 系列旗艦手機及摺疊旗艦 X Fold6。面對記憶體價格持續上漲、智慧手機市場 [&#8230;]",
       "date": "2026-10-30T11:30:33+00:00",
-      "sourceId": "technews",
-      "cats": [
-        "market",
-        "process",
-        "material"
-      ]
-    },
-    {
-      "id": "6b40c2a71004",
-      "title": "台積電外氣空調箱洗滌技術升級，再省電 60%",
-      "link": "https://technews.tw/2026/10/30/tsmc-ahu-washing-tech-upgrade-60-percent-power-savings/",
-      "summary": "晶圓代工廠台積電成功升級外氣空調箱洗滌技術，台積電表示，新一代設計運用自然重力取代馬達加壓，確保洗滌效果不變的 [&#8230;]",
-      "date": "2026-10-30T09:30:20+00:00",
-      "sourceId": "technews",
-      "cats": [
-        "market",
-        "process",
-        "material"
-      ]
-    },
-    {
-      "id": "00a3b12b3bde",
-      "title": "盛美推升級版高溫 SPM 清洗設備！回收率達 70%，單台年省 400 噸化學品",
-      "link": "https://technews.tw/2026/10/30/acm-research-spm-cleaning-machine/",
-      "summary": "隨著半導體製程日益複雜，晶圓清洗技術對微粒控制、化學品使用效率及設備穩定性的要求持續提高。盛美半導體設備今（3 [&#8230;]",
-      "date": "2026-10-30T09:14:56+00:00",
-      "sourceId": "technews",
-      "cats": [
-        "market",
-        "process",
-        "material"
-      ]
-    },
-    {
-      "id": "fd0bc067ed43",
-      "title": "拚晶片部署縮短至半年，Google 高層：台灣是客製化晶片重鎮",
-      "link": "https://technews.tw/2026/10/30/google-executive-says-taiwan-is-a-major-hub-for-custom-chips/",
-      "summary": "Google Cloud AI 基礎建設供應鏈與製造營運副總裁謝赫今天指出，台灣的供應鏈樞紐將持續是 Goog [&#8230;]",
-      "date": "2026-10-30T08:50:46+00:00",
       "sourceId": "technews",
       "cats": [
         "market",
