@@ -1,6 +1,6 @@
 {
-  "updated": "2026-11-01T18:50:45.698547+00:00",
-  "count": 15,
+  "updated": "2026-11-01T23:28:41.151637+00:00",
+  "count": 17,
   "sources": [
     {
       "id": "technews",
@@ -60,6 +60,32 @@
     }
   ],
   "articles": [
+    {
+      "id": "21740dc81942",
+      "title": "長鑫存儲正面回應美光質疑，指第六代 4F² DRAM 工程樣品年底前送樣",
+      "link": "https://finance.technews.tw/2026/11/02/changxin-memory-responds-directly-to-microns-accusations/",
+      "summary": "針對美光（Micron）先前質疑 4F² 架構缺乏實質密度效益的說法，中國記憶體晶片大廠長鑫存儲（CXMT）於 [&#8230;]",
+      "date": "2026-11-01T23:00:59+00:00",
+      "sourceId": "technews",
+      "cats": [
+        "market",
+        "process",
+        "material"
+      ]
+    },
+    {
+      "id": "0c2d20037bef",
+      "title": "5G 功耗優化：從晶片到網路之系統解方",
+      "link": "https://technews.tw/2026/11/02/5g-power-optimization-system-level-solutions-chip-to-network/",
+      "summary": "解決 5G 功耗困境無法仰賴單一技術突破，產業正走向「終端、網路、營運」三位一體的系統性解決方案。在底層晶片方 [&#8230;]",
+      "date": "2026-11-01T23:00:45+00:00",
+      "sourceId": "technews",
+      "cats": [
+        "market",
+        "process",
+        "material"
+      ]
+    },
     {
       "id": "ec023b5fe1e4",
       "title": "Designing for the Long Haul: Building Obsolescence-Resilient Product Lifecycles",
