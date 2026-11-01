@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-01T13:07:22.703154+00:00",
+  "updated": "2026-11-01T18:50:45.698547+00:00",
   "count": 15,
   "sources": [
     {
@@ -60,6 +60,19 @@
     }
   ],
   "articles": [
+    {
+      "id": "ec023b5fe1e4",
+      "title": "Designing for the Long Haul: Building Obsolescence-Resilient Product Lifecycles",
+      "link": "https://www.eetimes.com/designing-for-the-long-haul-building-obsolescence-resilient-product-lifecycles/",
+      "summary": "Semiconductor obsolescence is a design issue. Engineers protect long-life systems with critical-parts planning, authorized sourcing, and early dialogue. The post Designing for the Long Haul: Building Obsolescence-Resilient Product Lifecycles appeared first on EE Times.",
+      "date": "2026-11-01T14:00:00+00:00",
+      "sourceId": "eetimes",
+      "cats": [
+        "process",
+        "material",
+        "equipment"
+      ]
+    },
     {
       "id": "3efbc536f9c8",
       "title": "全支付進駐 Samsung Wallet！業界首創深度整合手機智慧錢包",
@@ -144,19 +157,6 @@
       "link": "https://www.eetimes.com/samsung-electronics-posts-80b-operating-profit-on-ai-memory-demand/",
       "summary": "Samsung reported third-quarter operating profit of $80 billion, but rising component prices caused an operating loss in mobile. The post Samsung Electronics Posts $80B Operating Profit on AI Memory Demand appeared first on EE Times.",
       "date": "2026-10-29T16:20:34+00:00",
-      "sourceId": "eetimes",
-      "cats": [
-        "process",
-        "material",
-        "equipment"
-      ]
-    },
-    {
-      "id": "8ced2f7e82ba",
-      "title": "How AI Redefines Semiconductor Manufacturing, From Materials Up",
-      "link": "https://www.eetimes.com/how-ai-redefines-semiconductor-manufacturing-from-materials-up/",
-      "summary": "AI chip advances depend on more than design, requiring new materials, manufacturing equipment, and packaging technologies to meet rising performance demands. The post How AI Redefines Semiconductor Manufacturing, From Materials Up appeared first on EE Times.",
-      "date": "2026-10-29T08:30:08+00:00",
       "sourceId": "eetimes",
       "cats": [
         "process",
