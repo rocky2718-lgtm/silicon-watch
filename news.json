@@ -1,6 +1,6 @@
 {
-  "updated": "2026-11-01T05:45:17.072026+00:00",
-  "count": 14,
+  "updated": "2026-11-01T13:07:22.703154+00:00",
+  "count": 15,
   "sources": [
     {
       "id": "technews",
@@ -60,6 +60,19 @@
     }
   ],
   "articles": [
+    {
+      "id": "3efbc536f9c8",
+      "title": "全支付進駐 Samsung Wallet！業界首創深度整合手機智慧錢包",
+      "link": "https://technews.tw/2026/11/01/pxpay-joins-samsung-wallet/",
+      "summary": "支付市場迎來重大突破！全支付 10 月 30 日宣布進駐 Samsung Wallet，成為業界首家與內建手機 [&#8230;]",
+      "date": "2026-11-01T06:00:45+00:00",
+      "sourceId": "technews",
+      "cats": [
+        "market",
+        "process",
+        "material"
+      ]
+    },
     {
       "id": "ae55b53a2048",
       "title": "Google 太空資料中心首顆晶片啟動，Gemma 4 模型在軌運作還寫詩",
