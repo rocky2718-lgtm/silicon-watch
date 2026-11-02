@@ -1,6 +1,6 @@
 {
-  "updated": "2026-11-02T05:43:41.555002+00:00",
-  "count": 14,
+  "updated": "2026-11-02T15:30:50.011415+00:00",
+  "count": 16,
   "sources": [
     {
       "id": "technews",
@@ -61,11 +61,24 @@
   ],
   "articles": [
     {
-      "id": "2ba7c55cec5b",
-      "title": "上週全球股市資金大挪移  美股失血、亞股吸金",
-      "link": "https://finance.technews.tw/2026/11/02/us-equity-funds-see-net-outflows/",
-      "summary": "全球 AI 及半導體股買氣回升，帶動資金持續流入股市，但美國科技巨頭龐大的 AI 資本支出，也讓投資人對投資回 [&#8230;]",
-      "date": "2026-11-02T04:40:49+00:00",
+      "id": "e7ea779537fa",
+      "title": "Sir Arthur C. Clarke Deserves a Nobel Prize",
+      "link": "https://www.eetimes.com/sir-arthur-c-clarke-deserves-a-nobel-prize/",
+      "summary": "Ever since the Silicon Catalyst 2023 Semiconductor Industry Forum (“Welcome to our AI Wonderland”), I’ve been convinced that the Nobel Prize committee needs to consider a posthumous award for Sir Arthur. As a reminder, Sir Arthur’s movie “2001: A Space Odyssey” was released in 1968. At that time, th",
+      "date": "2026-11-02T14:57:43+00:00",
+      "sourceId": "eetimes",
+      "cats": [
+        "process",
+        "material",
+        "equipment"
+      ]
+    },
+    {
+      "id": "586e2c0d948c",
+      "title": "晶豪科第三季 EPS 飆升達 36.79元，全系列傳統記憶體缺貨持續到 2027 年",
+      "link": "https://finance.technews.tw/2026/11/02/esmts-third-quarter-eps-surged-to-nt36-79/",
+      "summary": "記憶體 IC 設計廠晶豪科公布 2026 年第 3 季財務績效，受惠於記憶體市場價格大幅調升，晶豪科第 3 季 [&#8230;]",
+      "date": "2026-11-02T10:00:32+00:00",
       "sourceId": "technews",
       "cats": [
         "market",
@@ -74,11 +87,11 @@
       ]
     },
     {
-      "id": "bc1e2149b113",
-      "title": "ASML 將「員工士氣」納入高層薪酬指標，搶救下滑敬業度",
-      "link": "https://technews.tw/2026/11/02/asmls-ceo-is-putting-his-paycheck-on-the-line-for-employee-morale/",
-      "summary": "荷蘭晶片設備大廠艾司摩爾（ASML）正將員工士氣直接納入高層獎酬機制。執行長 Christophe Fouqu [&#8230;]",
-      "date": "2026-11-02T04:00:16+00:00",
+      "id": "e9395cabec6c",
+      "title": "半導體產值衝破 3 ,000 億美元！吳誠文揭示台灣四大領域推動 Team Global 戰略",
+      "link": "https://finance.technews.tw/2026/11/02/taiwans-four-major-sectors-promote-the-team-global-strategy/",
+      "summary": "國科會主委吳誠文指出，2026年台灣半導體產值預期將突破 3,000 億美元，年增長率高達 40.9%；而全球 [&#8230;]",
+      "date": "2026-11-02T09:30:08+00:00",
       "sourceId": "technews",
       "cats": [
         "market",
@@ -87,11 +100,11 @@
       ]
     },
     {
-      "id": "adfb00a34872",
-      "title": "搶資料中心記憶體供應！OpenAI 執行長 Sam Altman 赴韓見三星高層",
-      "link": "https://technews.tw/2026/11/02/sam-altman-meet-samsung-leadership/",
-      "summary": "隨著 AI 資料中心競爭升溫，三星與 SK 海力士合計掌握約 83% 的高頻寬記憶體（HBM）營收，使得記憶體 [&#8230;]",
-      "date": "2026-11-02T03:47:07+00:00",
+      "id": "45a8fdf8709e",
+      "title": "台灣半導體公司首獲殊榮，旺宏電子 sNOVA 技術獲 IEEE Milestone 認證",
+      "link": "https://finance.technews.tw/2026/11/02/macronixs-snova-technology-receives-ieee-milestone-certification/",
+      "summary": "旺宏電子宣布，自主開發的工業生產優化平台—sNOVA系統獲得IEEE Milestone（IEEE里程碑）認證 [&#8230;]",
+      "date": "2026-11-02T09:00:32+00:00",
       "sourceId": "technews",
       "cats": [
         "market",
@@ -100,11 +113,37 @@
       ]
     },
     {
-      "id": "77cf18586ff5",
-      "title": "李在鎔視察三星橫濱先進封裝實驗室，強化日本材料與設備供應鏈合作",
-      "link": "https://technews.tw/2026/11/02/samsung-chief-visits-advanced-package-lab-in-japan/",
-      "summary": "三星電子（Samsung Electronics）會長李在鎔（Lee Jae-yong）於 11 月 1 日造 [&#8230;]",
-      "date": "2026-11-02T02:55:59+00:00",
+      "id": "7f280c7c1419",
+      "title": "蘋果 CEO 特納斯迎首場財報考驗，記憶體成本飆漲成焦點",
+      "link": "https://technews.tw/2026/11/02/apples-new-ceo-ternus-to-face-first-earnings-test-as-memory-costs-surge/",
+      "summary": "蘋果新執行長特納斯（John Ternus）預計今天稍後主持他 9 月上任後的首場財報電話會議，投資人正緊盯蘋 [&#8230;]",
+      "date": "2026-11-02T08:40:05+00:00",
+      "sourceId": "technews",
+      "cats": [
+        "market",
+        "process",
+        "material"
+      ]
+    },
+    {
+      "id": "a0463b7712ca",
+      "title": "三星確定 2030 年全面退出 8 吋晶圓代工！韓 IC 業者急尋替代產能",
+      "link": "https://technews.tw/2026/11/02/samsung-to-fully-exit-8-inch-foundry-business-by-2030/",
+      "summary": "業界消息傳出，三星電子近期已通知 8 吋晶圓代工客戶，計畫在 2030 年底前全面停止相關生產線運作。據了解， [&#8230;]",
+      "date": "2026-11-02T08:26:27+00:00",
+      "sourceId": "technews",
+      "cats": [
+        "market",
+        "process",
+        "material"
+      ]
+    },
+    {
+      "id": "c4e541963d59",
+      "title": "SK 海力士 Q4 營益估首破 100 兆韓圜  券商喊買進",
+      "link": "https://finance.technews.tw/2026/11/02/sk-hynix-q4-operating-profit-seen-surpassing-100-trillion-won-for-first-time/",
+      "summary": "AI 應用持續推升記憶體需求，加上大規模股東回饋計畫，韓國記憶體大廠 SK 海力士（SK Hynix）有望迎來 [&#8230;]",
+      "date": "2026-11-02T06:50:52+00:00",
       "sourceId": "technews",
       "cats": [
         "market",
@@ -131,19 +170,6 @@
       "link": "https://www.eetimes.com/intels-q3-results-show-supply-chain-disruptions-and-pc-plunge/",
       "summary": "Intel faces a tough challenge as manufacturing bottlenecks and rising memory costs impact PC sales despite strong data center growth. The post Intel’s Q3 Results Show Supply Chain Disruptions and PC Plunge appeared first on EE Times.",
       "date": "2026-10-30T16:37:20+00:00",
-      "sourceId": "eetimes",
-      "cats": [
-        "process",
-        "material",
-        "equipment"
-      ]
-    },
-    {
-      "id": "f0a16fa1fcd4",
-      "title": "Samsung Electronics Posts $80B Operating Profit on AI Memory Demand",
-      "link": "https://www.eetimes.com/samsung-electronics-posts-80b-operating-profit-on-ai-memory-demand/",
-      "summary": "Samsung reported third-quarter operating profit of $80 billion, but rising component prices caused an operating loss in mobile. The post Samsung Electronics Posts $80B Operating Profit on AI Memory Demand appeared first on EE Times.",
-      "date": "2026-10-29T16:20:34+00:00",
       "sourceId": "eetimes",
       "cats": [
         "process",
