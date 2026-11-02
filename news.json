@@ -1,6 +1,6 @@
 {
-  "updated": "2026-11-01T23:28:41.151637+00:00",
-  "count": 17,
+  "updated": "2026-11-02T05:43:41.555002+00:00",
+  "count": 14,
   "sources": [
     {
       "id": "technews",
@@ -61,11 +61,11 @@
   ],
   "articles": [
     {
-      "id": "21740dc81942",
-      "title": "長鑫存儲正面回應美光質疑，指第六代 4F² DRAM 工程樣品年底前送樣",
-      "link": "https://finance.technews.tw/2026/11/02/changxin-memory-responds-directly-to-microns-accusations/",
-      "summary": "針對美光（Micron）先前質疑 4F² 架構缺乏實質密度效益的說法，中國記憶體晶片大廠長鑫存儲（CXMT）於 [&#8230;]",
-      "date": "2026-11-01T23:00:59+00:00",
+      "id": "2ba7c55cec5b",
+      "title": "上週全球股市資金大挪移  美股失血、亞股吸金",
+      "link": "https://finance.technews.tw/2026/11/02/us-equity-funds-see-net-outflows/",
+      "summary": "全球 AI 及半導體股買氣回升，帶動資金持續流入股市，但美國科技巨頭龐大的 AI 資本支出，也讓投資人對投資回 [&#8230;]",
+      "date": "2026-11-02T04:40:49+00:00",
       "sourceId": "technews",
       "cats": [
         "market",
@@ -74,11 +74,37 @@
       ]
     },
     {
-      "id": "0c2d20037bef",
-      "title": "5G 功耗優化：從晶片到網路之系統解方",
-      "link": "https://technews.tw/2026/11/02/5g-power-optimization-system-level-solutions-chip-to-network/",
-      "summary": "解決 5G 功耗困境無法仰賴單一技術突破，產業正走向「終端、網路、營運」三位一體的系統性解決方案。在底層晶片方 [&#8230;]",
-      "date": "2026-11-01T23:00:45+00:00",
+      "id": "bc1e2149b113",
+      "title": "ASML 將「員工士氣」納入高層薪酬指標，搶救下滑敬業度",
+      "link": "https://technews.tw/2026/11/02/asmls-ceo-is-putting-his-paycheck-on-the-line-for-employee-morale/",
+      "summary": "荷蘭晶片設備大廠艾司摩爾（ASML）正將員工士氣直接納入高層獎酬機制。執行長 Christophe Fouqu [&#8230;]",
+      "date": "2026-11-02T04:00:16+00:00",
+      "sourceId": "technews",
+      "cats": [
+        "market",
+        "process",
+        "material"
+      ]
+    },
+    {
+      "id": "adfb00a34872",
+      "title": "搶資料中心記憶體供應！OpenAI 執行長 Sam Altman 赴韓見三星高層",
+      "link": "https://technews.tw/2026/11/02/sam-altman-meet-samsung-leadership/",
+      "summary": "隨著 AI 資料中心競爭升溫，三星與 SK 海力士合計掌握約 83% 的高頻寬記憶體（HBM）營收，使得記憶體 [&#8230;]",
+      "date": "2026-11-02T03:47:07+00:00",
+      "sourceId": "technews",
+      "cats": [
+        "market",
+        "process",
+        "material"
+      ]
+    },
+    {
+      "id": "77cf18586ff5",
+      "title": "李在鎔視察三星橫濱先進封裝實驗室，強化日本材料與設備供應鏈合作",
+      "link": "https://technews.tw/2026/11/02/samsung-chief-visits-advanced-package-lab-in-japan/",
+      "summary": "三星電子（Samsung Electronics）會長李在鎔（Lee Jae-yong）於 11 月 1 日造 [&#8230;]",
+      "date": "2026-11-02T02:55:59+00:00",
       "sourceId": "technews",
       "cats": [
         "market",
@@ -97,71 +123,6 @@
         "process",
         "material",
         "equipment"
-      ]
-    },
-    {
-      "id": "3efbc536f9c8",
-      "title": "全支付進駐 Samsung Wallet！業界首創深度整合手機智慧錢包",
-      "link": "https://technews.tw/2026/11/01/pxpay-joins-samsung-wallet/",
-      "summary": "支付市場迎來重大突破！全支付 10 月 30 日宣布進駐 Samsung Wallet，成為業界首家與內建手機 [&#8230;]",
-      "date": "2026-11-01T06:00:45+00:00",
-      "sourceId": "technews",
-      "cats": [
-        "market",
-        "process",
-        "material"
-      ]
-    },
-    {
-      "id": "ae55b53a2048",
-      "title": "Google 太空資料中心首顆晶片啟動，Gemma 4 模型在軌運作還寫詩",
-      "link": "https://technews.tw/2026/11/01/google-receives-first-response-from-its-project-suncatcher-prototype-satellite/",
-      "summary": "在 30 日的一篇官方部落格文章中， Google 表示已成功啟動實驗衛星上的 TPU 晶片，且讓衛星搭載的 [&#8230;]",
-      "date": "2026-11-01T04:39:00+00:00",
-      "sourceId": "technews",
-      "cats": [
-        "market",
-        "process",
-        "material"
-      ]
-    },
-    {
-      "id": "dc5100c8301e",
-      "title": "同公司兩樣情！台中簽密約、桃園拉布條，解析美光勞資角力的三方算計",
-      "link": "https://finance.technews.tw/2026/11/01/taiwan-semiconductor-industry-first-legal-strike-11-protestors-micron-negotiations-stalled/",
-      "summary": "台灣半導體業首場合法罷工，10 月 22 日在美光桃園廠登場。只有 11 名工會幹部上街，背後卻是同一家公司兩 [&#8230;]",
-      "date": "2026-11-01T02:00:48+00:00",
-      "sourceId": "technews",
-      "cats": [
-        "market",
-        "process",
-        "material"
-      ]
-    },
-    {
-      "id": "e9ac45a2e480",
-      "title": "旺宏前三季大賺逾一個股本，Q3 毛利率飆破 70% 寫歷史新高",
-      "link": "https://finance.technews.tw/2026/11/01/macronix-q3-profit-hits-record-as-gross-margin-tops-70/",
-      "summary": "記憶體價格持續走揚，帶動旺宏營運強勢反彈。根據《財訊》雙週刊報導，旺宏 10 月 27 日舉行線上法說會，第三 [&#8230;]",
-      "date": "2026-11-01T01:00:15+00:00",
-      "sourceId": "technews",
-      "cats": [
-        "market",
-        "process",
-        "material"
-      ]
-    },
-    {
-      "id": "7b9a2091e8c6",
-      "title": "科林研發、imec 擴大合作！布局 High-NA EUV 乾式光阻，加速量產進程",
-      "link": "https://technews.tw/2026/10/31/lam-imec-collaboration/",
-      "summary": "人工智慧（AI）運算需求持續攀升，半導體產業的技術競爭已從電晶體微縮，進一步延伸至先進封裝、3D 整合及新世代 [&#8230;]",
-      "date": "2026-10-31T08:18:58+00:00",
-      "sourceId": "technews",
-      "cats": [
-        "market",
-        "process",
-        "material"
       ]
     },
     {
