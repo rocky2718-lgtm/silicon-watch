@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-02T15:30:50.011415+00:00",
+  "updated": "2026-11-02T23:24:24.295193+00:00",
   "count": 16,
   "sources": [
     {
@@ -60,6 +60,19 @@
     }
   ],
   "articles": [
+    {
+      "id": "5517e26c4294",
+      "title": "AI to the Edge: Generative Intelligence for Robotics and Autonomous Systems",
+      "link": "https://www.eetimes.com/ai-to-the-edge-generative-intelligence-for-robotics-and-autonomous-systems/",
+      "summary": "Designed for embedded engineers, robotics developers, AI practitioners, and technical leaders, this webinar explores how generative intelligence is helping shape the future of physical AI. The post AI to the Edge: Generative Intelligence for Robotics and Autonomous Systems appeared first on EE Times",
+      "date": "2026-11-02T18:29:50+00:00",
+      "sourceId": "eetimes",
+      "cats": [
+        "process",
+        "material",
+        "equipment"
+      ]
+    },
     {
       "id": "e7ea779537fa",
       "title": "Sir Arthur C. Clarke Deserves a Nobel Prize",
@@ -157,19 +170,6 @@
       "link": "https://www.eetimes.com/designing-for-the-long-haul-building-obsolescence-resilient-product-lifecycles/",
       "summary": "Semiconductor obsolescence is a design issue. Engineers protect long-life systems with critical-parts planning, authorized sourcing, and early dialogue. The post Designing for the Long Haul: Building Obsolescence-Resilient Product Lifecycles appeared first on EE Times.",
       "date": "2026-11-01T14:00:00+00:00",
-      "sourceId": "eetimes",
-      "cats": [
-        "process",
-        "material",
-        "equipment"
-      ]
-    },
-    {
-      "id": "4a16792a77ea",
-      "title": "Intel’s Q3 Results Show Supply Chain Disruptions and PC Plunge",
-      "link": "https://www.eetimes.com/intels-q3-results-show-supply-chain-disruptions-and-pc-plunge/",
-      "summary": "Intel faces a tough challenge as manufacturing bottlenecks and rising memory costs impact PC sales despite strong data center growth. The post Intel’s Q3 Results Show Supply Chain Disruptions and PC Plunge appeared first on EE Times.",
-      "date": "2026-10-30T16:37:20+00:00",
       "sourceId": "eetimes",
       "cats": [
         "process",
