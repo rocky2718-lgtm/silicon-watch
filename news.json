@@ -1,6 +1,6 @@
 {
-  "updated": "2026-11-03T06:24:59.757859+00:00",
-  "count": 18,
+  "updated": "2026-11-03T16:04:07.981858+00:00",
+  "count": 16,
   "sources": [
     {
       "id": "technews",
@@ -61,11 +61,37 @@
   ],
   "articles": [
     {
-      "id": "fce983efc08d",
-      "title": "安森美財報優預期  將收購 Ferric、強化晶片供電",
-      "link": "https://finance.technews.tw/2026/11/03/onsemi-posts-strong-earnings-and-agrees-to-acquire-ferric/",
-      "summary": "美國功率半導體大廠安森美（ON Semiconductor）財報優於預期，並將斥資 6 億美元收購整合式穩壓器 [&#8230;]",
-      "date": "2026-11-03T06:00:21+00:00",
+      "id": "8ac111031b73",
+      "title": "Accepting Orders for the LED Light-Sourced Projection Aligners",
+      "link": "https://www.eetimes.com/accepting-orders-for-the-led-light-sourced-projection-aligners/",
+      "summary": "Ushio has been accepting orders for LED-based UX-4 wafer aligners since July 2026, offering mercury-free, high-throughput lithography. The post Accepting Orders for the LED Light-Sourced Projection Aligners appeared first on EE Times.",
+      "date": "2026-11-03T15:54:08+00:00",
+      "sourceId": "eetimes",
+      "cats": [
+        "process",
+        "material",
+        "equipment"
+      ]
+    },
+    {
+      "id": "b84c0c1cd4d7",
+      "title": "AI Hardware’s Hidden Cost: Between Orders and Output",
+      "link": "https://www.eetimes.com/ai-hardwares-hidden-cost-between-orders-and-output/",
+      "summary": "Alphabet’s TPU inventory, Intel’s manufacturing tradeoffs, and equipment suppliers’ balance sheets show how capital builds up along the path to usable AI computing capacity. The post AI Hardware’s Hidden Cost: Between Orders and Output appeared first on EE Times.",
+      "date": "2026-11-03T14:08:41+00:00",
+      "sourceId": "eetimes",
+      "cats": [
+        "process",
+        "material",
+        "equipment"
+      ]
+    },
+    {
+      "id": "8b2062be9db8",
+      "title": "那斯達克高層：台積電成全球第七大企業，反映該國建立的成就",
+      "link": "https://finance.technews.tw/2026/11/03/edward-knight-says-tsmc-reflects-taiwan-achievements/",
+      "summary": "那斯達克執行副董事長奈特今天指出，今年台灣股票市場總市值躍居全球第四，整體經濟表現也令人驚嘆；目前台積電已是全 [&#8230;]",
+      "date": "2026-11-03T08:20:06+00:00",
       "sourceId": "technews",
       "cats": [
         "market",
@@ -74,11 +100,11 @@
       ]
     },
     {
-      "id": "1998f87a8323",
-      "title": "Lumentum 財報夯不夠？短線客狂拋  憂併購拖太久",
-      "link": "https://finance.technews.tw/2026/11/03/lumentum-shares-tumble-despite-strong-earnings/",
-      "summary": "光學與商用雷射元件供應商 Lumentum 在宣布獲網通晶片設計商邁威爾科技（Marvell Technolo [&#8230;]",
-      "date": "2026-11-03T05:50:49+00:00",
+      "id": "7660d192e639",
+      "title": "汎銓矽光子布局再下一城，與日商安立知簽訂全球合作合約",
+      "link": "https://finance.technews.tw/2026/11/03/msscorps-makes-another-breakthrough-in-silicon-photonics-deployment/",
+      "summary": "AI 晶片研發分析平台汎銓科技積極擴大矽光子業務布局，於 3 日宣布與全球測試量測設備大廠 Anritsu 安 [&#8230;]",
+      "date": "2026-11-03T07:45:41+00:00",
       "sourceId": "technews",
       "cats": [
         "market",
@@ -87,11 +113,11 @@
       ]
     },
     {
-      "id": "f9c897b7d869",
-      "title": "記憶體漲價侵蝕獲利，蘋果估購物季毛利率下滑",
-      "link": "https://technews.tw/2026/11/03/apple-forecasts-margin-drop-in-holiday-quarter-as-rising-memory-costs-bite/",
-      "summary": "蘋果公司（Apple）今天公布財報，並警告記憶體晶片成本持續走高，恐壓縮到年終假期購物季毛利率，預估將降至 4 [&#8230;]",
-      "date": "2026-11-03T05:40:27+00:00",
+      "id": "e1ac8783b9b7",
+      "title": "輝達傳強制雲端商降中國曝險、新加坡業者跳腳",
+      "link": "https://technews.tw/2026/11/03/nvidia-reportedly-presses-cloud-providers-to-reduce-china-exposure/",
+      "summary": "輝達（Nvidia）傳出要求全球資料中心及雲端運算合作夥伴降低對中國客戶的曝險，硬性規定至少 51% 的服務須 [&#8230;]",
+      "date": "2026-11-03T07:40:53+00:00",
       "sourceId": "technews",
       "cats": [
         "market",
@@ -100,11 +126,11 @@
       ]
     },
     {
-      "id": "28a1d635833d",
-      "title": "新創依賴 Anthropic 又怕被搶生意，矽谷愛恨交織稱其為「AI 界亞馬遜」",
-      "link": "https://technews.tw/2026/11/03/inside-silicon-valleys-love-hate-relationship-with-anthropic/",
-      "summary": "《富比士》採訪多家 AI 新創指出，業者依賴 Anthropic 頂尖模型服務客戶，卻擔心這家巨頭隨時推出競品 [&#8230;]",
-      "date": "2026-11-03T04:30:24+00:00",
+      "id": "e017b022e125",
+      "title": "AI 需求推升！華邦電 2026 年第三季毛利率飆至 70.6%，單季 EPS 7.58 元",
+      "link": "https://finance.technews.tw/2026/11/03/winbond-electronics-gross-margin-surged-to-70-6-in-the-third-quarter-of-2026/",
+      "summary": "受惠客製化記憶體與高容量 Flash 價量齊揚，記憶體大廠華邦電 2026 年第三季合併營業收入達新台幣 82 [&#8230;]",
+      "date": "2026-11-03T07:30:46+00:00",
       "sourceId": "technews",
       "cats": [
         "market",
@@ -113,63 +139,11 @@
       ]
     },
     {
-      "id": "ac031dc1735e",
-      "title": "功耗大砍 98%！日本愛信開發 MRAM 新型 AI 晶片，鎖定車用邊緣運算",
-      "link": "https://technews.tw/2026/11/03/japan-aisin-new-type-of-ai-chip/",
-      "summary": "日本汽車零組件供應商愛信（Aisin）宣布，已開發出一款採用磁性技術的新型半導體，與現有類似晶片相比，功耗可降 [&#8230;]",
-      "date": "2026-11-03T04:27:48+00:00",
-      "sourceId": "technews",
-      "cats": [
-        "market",
-        "process",
-        "material"
-      ]
-    },
-    {
-      "id": "80170513f676",
-      "title": "台股市值衝 154 兆邁向資本島！蔡力行喊聯發科股東報酬飆 16290% 鼓勵買",
-      "link": "https://finance.technews.tw/2026/11/03/capital-island/",
-      "summary": "由金管會攜手證交所、櫃買舉辦的 2026 台灣週今日登場，總統賴清德表示，台股市值已衝破 154 兆元，創歷史 [&#8230;]",
-      "date": "2026-11-03T04:10:00+00:00",
-      "sourceId": "technews",
-      "cats": [
-        "market",
-        "process",
-        "material"
-      ]
-    },
-    {
-      "id": "37765b47dd83",
-      "title": "DRAM 吃緊壓力轉嫁，樹莓派調漲 16GB 產品售價",
-      "link": "https://technews.tw/2026/11/03/16gb-raspberry-pi-5-hiked-to-385-more-than-triple-its-launch-price/",
-      "summary": "樹莓派（Raspberry Pi）再次調整高容量產品的售價，主因是 16GB DRAM 供應吃緊，加上近兩年記 [&#8230;]",
-      "date": "2026-11-03T04:00:25+00:00",
-      "sourceId": "technews",
-      "cats": [
-        "market",
-        "process",
-        "material"
-      ]
-    },
-    {
-      "id": "62d35e864784",
-      "title": "那指 100 今年第三度陷修正  槓桿 ETF 散戶慘",
-      "link": "https://finance.technews.tw/2026/11/03/nasdaq-100-enters-correction-territory-for-third-time-this-year/",
-      "summary": "AI 融資疑慮再起，半導體股拋售潮湧現，那斯達克 100 指數今年來第三度陷入修正（註：從高點下跌 10%）： [&#8230;]",
-      "date": "2026-11-03T03:30:20+00:00",
-      "sourceId": "technews",
-      "cats": [
-        "market",
-        "process",
-        "material"
-      ]
-    },
-    {
-      "id": "4cf06dd79551",
-      "title": "英諾賽科加入 NVIDIA MGX 生態系，推動 AI 基礎設施電力革新",
-      "link": "https://technews.tw/2026/11/03/innoscience-ocp-nvidia-mgx-gan/",
-      "summary": "中國氮化鎵（GaN）功率半導體大廠英諾賽科（Innoscience），於 10 月底舉行的 OCP 全球高峰會 [&#8230;]",
-      "date": "2026-11-03T03:26:58+00:00",
+      "id": "0bef57fd19e9",
+      "title": "AI 電源排擠車用？安森美調整產能，台廠有望受惠",
+      "link": "https://technews.tw/2026/11/03/ai-power-demand-onsemi-prioritizes-capacity-taiwan-firms-transfer-orders/",
+      "summary": "為因應 AI 資料中心電源需求持續增加，功率半導體大廠安森美調整產能分配，優先供應 AI 資料中心及工業市場， [&#8230;]",
+      "date": "2026-11-03T07:25:45+00:00",
       "sourceId": "technews",
       "cats": [
         "market",
