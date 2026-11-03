@@ -1,6 +1,6 @@
 {
-  "updated": "2026-11-03T16:04:07.981858+00:00",
-  "count": 16,
+  "updated": "2026-11-03T23:10:04.072698+00:00",
+  "count": 14,
   "sources": [
     {
       "id": "technews",
@@ -60,6 +60,19 @@
     }
   ],
   "articles": [
+    {
+      "id": "15c76096f0a4",
+      "title": "華邦電佈局 AI 算力浪潮，矽電容與 CUBE 雙引擎 2027 年迎量產收割期",
+      "link": "https://finance.technews.tw/2026/11/04/winbond-electronics-is-positioning-itself-to-capitalize-on-the-ai-%e2%80%8b%e2%80%8bcomputing-power-wave/",
+      "summary": "記憶體大廠華邦電子於 3 日舉行的法人說明會中，總經理陳沛銘指出，隨著全球AI與高階運算需求強勁，公司在高規格 [&#8230;]",
+      "date": "2026-11-03T23:00:14+00:00",
+      "sourceId": "technews",
+      "cats": [
+        "market",
+        "process",
+        "material"
+      ]
+    },
     {
       "id": "8ac111031b73",
       "title": "Accepting Orders for the LED Light-Sourced Projection Aligners",
@@ -126,50 +139,11 @@
       ]
     },
     {
-      "id": "e017b022e125",
-      "title": "AI 需求推升！華邦電 2026 年第三季毛利率飆至 70.6%，單季 EPS 7.58 元",
-      "link": "https://finance.technews.tw/2026/11/03/winbond-electronics-gross-margin-surged-to-70-6-in-the-third-quarter-of-2026/",
-      "summary": "受惠客製化記憶體與高容量 Flash 價量齊揚，記憶體大廠華邦電 2026 年第三季合併營業收入達新台幣 82 [&#8230;]",
-      "date": "2026-11-03T07:30:46+00:00",
-      "sourceId": "technews",
-      "cats": [
-        "market",
-        "process",
-        "material"
-      ]
-    },
-    {
-      "id": "0bef57fd19e9",
-      "title": "AI 電源排擠車用？安森美調整產能，台廠有望受惠",
-      "link": "https://technews.tw/2026/11/03/ai-power-demand-onsemi-prioritizes-capacity-taiwan-firms-transfer-orders/",
-      "summary": "為因應 AI 資料中心電源需求持續增加，功率半導體大廠安森美調整產能分配，優先供應 AI 資料中心及工業市場， [&#8230;]",
-      "date": "2026-11-03T07:25:45+00:00",
-      "sourceId": "technews",
-      "cats": [
-        "market",
-        "process",
-        "material"
-      ]
-    },
-    {
       "id": "5517e26c4294",
       "title": "AI to the Edge: Generative Intelligence for Robotics and Autonomous Systems",
       "link": "https://www.eetimes.com/ai-to-the-edge-generative-intelligence-for-robotics-and-autonomous-systems/",
       "summary": "Designed for embedded engineers, robotics developers, AI practitioners, and technical leaders, this webinar explores how generative intelligence is helping shape the future of physical AI. The post AI to the Edge: Generative Intelligence for Robotics and Autonomous Systems appeared first on EE Times",
       "date": "2026-11-02T18:29:50+00:00",
-      "sourceId": "eetimes",
-      "cats": [
-        "process",
-        "material",
-        "equipment"
-      ]
-    },
-    {
-      "id": "e7ea779537fa",
-      "title": "Sir Arthur C. Clarke Deserves a Nobel Prize",
-      "link": "https://www.eetimes.com/sir-arthur-c-clarke-deserves-a-nobel-prize/",
-      "summary": "Ever since the Silicon Catalyst 2023 Semiconductor Industry Forum (“Welcome to our AI Wonderland”), I’ve been convinced that the Nobel Prize committee needs to consider a posthumous award for Sir Arthur. As a reminder, Sir Arthur’s movie “2001: A Space Odyssey” was released in 1968. At that time, th",
-      "date": "2026-11-02T14:57:43+00:00",
       "sourceId": "eetimes",
       "cats": [
         "process",
