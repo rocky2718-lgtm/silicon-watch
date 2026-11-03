@@ -1,6 +1,6 @@
 {
-  "updated": "2026-11-02T23:24:24.295193+00:00",
-  "count": 16,
+  "updated": "2026-11-03T06:24:59.757859+00:00",
+  "count": 18,
   "sources": [
     {
       "id": "technews",
@@ -61,6 +61,123 @@
   ],
   "articles": [
     {
+      "id": "fce983efc08d",
+      "title": "安森美財報優預期  將收購 Ferric、強化晶片供電",
+      "link": "https://finance.technews.tw/2026/11/03/onsemi-posts-strong-earnings-and-agrees-to-acquire-ferric/",
+      "summary": "美國功率半導體大廠安森美（ON Semiconductor）財報優於預期，並將斥資 6 億美元收購整合式穩壓器 [&#8230;]",
+      "date": "2026-11-03T06:00:21+00:00",
+      "sourceId": "technews",
+      "cats": [
+        "market",
+        "process",
+        "material"
+      ]
+    },
+    {
+      "id": "1998f87a8323",
+      "title": "Lumentum 財報夯不夠？短線客狂拋  憂併購拖太久",
+      "link": "https://finance.technews.tw/2026/11/03/lumentum-shares-tumble-despite-strong-earnings/",
+      "summary": "光學與商用雷射元件供應商 Lumentum 在宣布獲網通晶片設計商邁威爾科技（Marvell Technolo [&#8230;]",
+      "date": "2026-11-03T05:50:49+00:00",
+      "sourceId": "technews",
+      "cats": [
+        "market",
+        "process",
+        "material"
+      ]
+    },
+    {
+      "id": "f9c897b7d869",
+      "title": "記憶體漲價侵蝕獲利，蘋果估購物季毛利率下滑",
+      "link": "https://technews.tw/2026/11/03/apple-forecasts-margin-drop-in-holiday-quarter-as-rising-memory-costs-bite/",
+      "summary": "蘋果公司（Apple）今天公布財報，並警告記憶體晶片成本持續走高，恐壓縮到年終假期購物季毛利率，預估將降至 4 [&#8230;]",
+      "date": "2026-11-03T05:40:27+00:00",
+      "sourceId": "technews",
+      "cats": [
+        "market",
+        "process",
+        "material"
+      ]
+    },
+    {
+      "id": "28a1d635833d",
+      "title": "新創依賴 Anthropic 又怕被搶生意，矽谷愛恨交織稱其為「AI 界亞馬遜」",
+      "link": "https://technews.tw/2026/11/03/inside-silicon-valleys-love-hate-relationship-with-anthropic/",
+      "summary": "《富比士》採訪多家 AI 新創指出，業者依賴 Anthropic 頂尖模型服務客戶，卻擔心這家巨頭隨時推出競品 [&#8230;]",
+      "date": "2026-11-03T04:30:24+00:00",
+      "sourceId": "technews",
+      "cats": [
+        "market",
+        "process",
+        "material"
+      ]
+    },
+    {
+      "id": "ac031dc1735e",
+      "title": "功耗大砍 98%！日本愛信開發 MRAM 新型 AI 晶片，鎖定車用邊緣運算",
+      "link": "https://technews.tw/2026/11/03/japan-aisin-new-type-of-ai-chip/",
+      "summary": "日本汽車零組件供應商愛信（Aisin）宣布，已開發出一款採用磁性技術的新型半導體，與現有類似晶片相比，功耗可降 [&#8230;]",
+      "date": "2026-11-03T04:27:48+00:00",
+      "sourceId": "technews",
+      "cats": [
+        "market",
+        "process",
+        "material"
+      ]
+    },
+    {
+      "id": "80170513f676",
+      "title": "台股市值衝 154 兆邁向資本島！蔡力行喊聯發科股東報酬飆 16290% 鼓勵買",
+      "link": "https://finance.technews.tw/2026/11/03/capital-island/",
+      "summary": "由金管會攜手證交所、櫃買舉辦的 2026 台灣週今日登場，總統賴清德表示，台股市值已衝破 154 兆元，創歷史 [&#8230;]",
+      "date": "2026-11-03T04:10:00+00:00",
+      "sourceId": "technews",
+      "cats": [
+        "market",
+        "process",
+        "material"
+      ]
+    },
+    {
+      "id": "37765b47dd83",
+      "title": "DRAM 吃緊壓力轉嫁，樹莓派調漲 16GB 產品售價",
+      "link": "https://technews.tw/2026/11/03/16gb-raspberry-pi-5-hiked-to-385-more-than-triple-its-launch-price/",
+      "summary": "樹莓派（Raspberry Pi）再次調整高容量產品的售價，主因是 16GB DRAM 供應吃緊，加上近兩年記 [&#8230;]",
+      "date": "2026-11-03T04:00:25+00:00",
+      "sourceId": "technews",
+      "cats": [
+        "market",
+        "process",
+        "material"
+      ]
+    },
+    {
+      "id": "62d35e864784",
+      "title": "那指 100 今年第三度陷修正  槓桿 ETF 散戶慘",
+      "link": "https://finance.technews.tw/2026/11/03/nasdaq-100-enters-correction-territory-for-third-time-this-year/",
+      "summary": "AI 融資疑慮再起，半導體股拋售潮湧現，那斯達克 100 指數今年來第三度陷入修正（註：從高點下跌 10%）： [&#8230;]",
+      "date": "2026-11-03T03:30:20+00:00",
+      "sourceId": "technews",
+      "cats": [
+        "market",
+        "process",
+        "material"
+      ]
+    },
+    {
+      "id": "4cf06dd79551",
+      "title": "英諾賽科加入 NVIDIA MGX 生態系，推動 AI 基礎設施電力革新",
+      "link": "https://technews.tw/2026/11/03/innoscience-ocp-nvidia-mgx-gan/",
+      "summary": "中國氮化鎵（GaN）功率半導體大廠英諾賽科（Innoscience），於 10 月底舉行的 OCP 全球高峰會 [&#8230;]",
+      "date": "2026-11-03T03:26:58+00:00",
+      "sourceId": "technews",
+      "cats": [
+        "market",
+        "process",
+        "material"
+      ]
+    },
+    {
       "id": "5517e26c4294",
       "title": "AI to the Edge: Generative Intelligence for Robotics and Autonomous Systems",
       "link": "https://www.eetimes.com/ai-to-the-edge-generative-intelligence-for-robotics-and-autonomous-systems/",
@@ -79,97 +196,6 @@
       "link": "https://www.eetimes.com/sir-arthur-c-clarke-deserves-a-nobel-prize/",
       "summary": "Ever since the Silicon Catalyst 2023 Semiconductor Industry Forum (“Welcome to our AI Wonderland”), I’ve been convinced that the Nobel Prize committee needs to consider a posthumous award for Sir Arthur. As a reminder, Sir Arthur’s movie “2001: A Space Odyssey” was released in 1968. At that time, th",
       "date": "2026-11-02T14:57:43+00:00",
-      "sourceId": "eetimes",
-      "cats": [
-        "process",
-        "material",
-        "equipment"
-      ]
-    },
-    {
-      "id": "586e2c0d948c",
-      "title": "晶豪科第三季 EPS 飆升達 36.79元，全系列傳統記憶體缺貨持續到 2027 年",
-      "link": "https://finance.technews.tw/2026/11/02/esmts-third-quarter-eps-surged-to-nt36-79/",
-      "summary": "記憶體 IC 設計廠晶豪科公布 2026 年第 3 季財務績效，受惠於記憶體市場價格大幅調升，晶豪科第 3 季 [&#8230;]",
-      "date": "2026-11-02T10:00:32+00:00",
-      "sourceId": "technews",
-      "cats": [
-        "market",
-        "process",
-        "material"
-      ]
-    },
-    {
-      "id": "e9395cabec6c",
-      "title": "半導體產值衝破 3 ,000 億美元！吳誠文揭示台灣四大領域推動 Team Global 戰略",
-      "link": "https://finance.technews.tw/2026/11/02/taiwans-four-major-sectors-promote-the-team-global-strategy/",
-      "summary": "國科會主委吳誠文指出，2026年台灣半導體產值預期將突破 3,000 億美元，年增長率高達 40.9%；而全球 [&#8230;]",
-      "date": "2026-11-02T09:30:08+00:00",
-      "sourceId": "technews",
-      "cats": [
-        "market",
-        "process",
-        "material"
-      ]
-    },
-    {
-      "id": "45a8fdf8709e",
-      "title": "台灣半導體公司首獲殊榮，旺宏電子 sNOVA 技術獲 IEEE Milestone 認證",
-      "link": "https://finance.technews.tw/2026/11/02/macronixs-snova-technology-receives-ieee-milestone-certification/",
-      "summary": "旺宏電子宣布，自主開發的工業生產優化平台—sNOVA系統獲得IEEE Milestone（IEEE里程碑）認證 [&#8230;]",
-      "date": "2026-11-02T09:00:32+00:00",
-      "sourceId": "technews",
-      "cats": [
-        "market",
-        "process",
-        "material"
-      ]
-    },
-    {
-      "id": "7f280c7c1419",
-      "title": "蘋果 CEO 特納斯迎首場財報考驗，記憶體成本飆漲成焦點",
-      "link": "https://technews.tw/2026/11/02/apples-new-ceo-ternus-to-face-first-earnings-test-as-memory-costs-surge/",
-      "summary": "蘋果新執行長特納斯（John Ternus）預計今天稍後主持他 9 月上任後的首場財報電話會議，投資人正緊盯蘋 [&#8230;]",
-      "date": "2026-11-02T08:40:05+00:00",
-      "sourceId": "technews",
-      "cats": [
-        "market",
-        "process",
-        "material"
-      ]
-    },
-    {
-      "id": "a0463b7712ca",
-      "title": "三星確定 2030 年全面退出 8 吋晶圓代工！韓 IC 業者急尋替代產能",
-      "link": "https://technews.tw/2026/11/02/samsung-to-fully-exit-8-inch-foundry-business-by-2030/",
-      "summary": "業界消息傳出，三星電子近期已通知 8 吋晶圓代工客戶，計畫在 2030 年底前全面停止相關生產線運作。據了解， [&#8230;]",
-      "date": "2026-11-02T08:26:27+00:00",
-      "sourceId": "technews",
-      "cats": [
-        "market",
-        "process",
-        "material"
-      ]
-    },
-    {
-      "id": "c4e541963d59",
-      "title": "SK 海力士 Q4 營益估首破 100 兆韓圜  券商喊買進",
-      "link": "https://finance.technews.tw/2026/11/02/sk-hynix-q4-operating-profit-seen-surpassing-100-trillion-won-for-first-time/",
-      "summary": "AI 應用持續推升記憶體需求，加上大規模股東回饋計畫，韓國記憶體大廠 SK 海力士（SK Hynix）有望迎來 [&#8230;]",
-      "date": "2026-11-02T06:50:52+00:00",
-      "sourceId": "technews",
-      "cats": [
-        "market",
-        "process",
-        "material"
-      ]
-    },
-    {
-      "id": "ec023b5fe1e4",
-      "title": "Designing for the Long Haul: Building Obsolescence-Resilient Product Lifecycles",
-      "link": "https://www.eetimes.com/designing-for-the-long-haul-building-obsolescence-resilient-product-lifecycles/",
-      "summary": "Semiconductor obsolescence is a design issue. Engineers protect long-life systems with critical-parts planning, authorized sourcing, and early dialogue. The post Designing for the Long Haul: Building Obsolescence-Resilient Product Lifecycles appeared first on EE Times.",
-      "date": "2026-11-01T14:00:00+00:00",
       "sourceId": "eetimes",
       "cats": [
         "process",
