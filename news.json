@@ -1,6 +1,6 @@
 {
-  "updated": "2026-11-04T05:57:53.360526+00:00",
-  "count": 15,
+  "updated": "2026-11-04T14:19:38.076952+00:00",
+  "count": 12,
   "sources": [
     {
       "id": "technews",
@@ -61,11 +61,11 @@
   ],
   "articles": [
     {
-      "id": "71cc8e5f9e2e",
-      "title": "超微估明年 AI 成長確保供應鏈穩定，封測台廠搭順風車",
-      "link": "https://technews.tw/2026/11/04/amd-ai-growth-secures-supply-chain-stability-taiwan-osat-firms-benefit/",
-      "summary": "人工智慧（AI）晶片大廠超微（AMD）董事長暨執行長蘇姿丰今天在線上投資人會議表示，資料中心需求遠大於供給，已 [&#8230;]",
-      "date": "2026-11-04T05:30:04+00:00",
+      "id": "aa08aeddd7e1",
+      "title": "Windows 11 效能大升級！微軟稱 8GB 記憶體電腦速度可提升 20%",
+      "link": "https://technews.tw/2026/11/04/microsoft-improves-windows-11-performance-on-pcs-with-just-8gb-of-ram/",
+      "summary": "微軟分享 Windows 11 改善進展與具體變化，宣稱在 8GB 記憶體的電腦上，Windows 11 的系 [&#8230;]",
+      "date": "2026-11-04T13:24:02+00:00",
       "sourceId": "technews",
       "cats": [
         "market",
@@ -74,11 +74,11 @@
       ]
     },
     {
-      "id": "9918d474a387",
-      "title": "聞泰科技遭提告  安世半導體指控違反內部協議",
-      "link": "https://technews.tw/2026/11/04/wingtech-rejects-allegations-in-nexperias-2-billion-lawsuit/",
-      "summary": "綜合港媒報導，聞泰科技表示，位於荷蘭的安世半導體（Nexperia B.V.）已向荷蘭阿姆斯特丹地方法院對公司 [&#8230;]",
-      "date": "2026-11-04T04:20:37+00:00",
+      "id": "ad0b6c888459",
+      "title": "記憶體頻寬增 18 倍！高通第一代 HBC 完成驗證，AI250 明上半年送樣",
+      "link": "https://technews.tw/2026/11/04/qualcomm-hbc-demonstrates/",
+      "summary": "高通宣布已在美國聖地牙哥實驗室，完成第一代高頻寬運算（HBC）晶片驗證。根據測試結果顯示，相較於 LPDDR5 [&#8230;]",
+      "date": "2026-11-04T09:25:35+00:00",
       "sourceId": "technews",
       "cats": [
         "market",
@@ -87,50 +87,11 @@
       ]
     },
     {
-      "id": "761cc821ec9c",
-      "title": "晶圓消耗量飆 6.5 倍！HBF 掀 NAND 產能排擠效應，SSD 價格下修遇亂流",
-      "link": "https://technews.tw/2026/11/04/hbf-memory-raise-ssd-prices/",
-      "summary": "聯博集團（Bernstein）最新分析指出，被視為新世代儲存方案的「高頻寬快閃記憶體」（HBF）若順利步入商業 [&#8230;]",
-      "date": "2026-11-04T04:00:11+00:00",
-      "sourceId": "technews",
-      "cats": [
-        "market",
-        "process",
-        "material"
-      ]
-    },
-    {
-      "id": "86e6d496ec17",
-      "title": "手機晶片寒冬  Skyworks 財測失色股價暴跌 17%",
-      "link": "https://finance.technews.tw/2026/11/04/skyworks-shares-plunge-17-on-weak-outlook/",
-      "summary": "美國射頻晶片大廠 Skyworks Solutions 發表最新財報，雖然上季營收略優於預期，但受高階 And [&#8230;]",
-      "date": "2026-11-04T03:50:50+00:00",
-      "sourceId": "technews",
-      "cats": [
-        "market",
-        "process",
-        "material"
-      ]
-    },
-    {
-      "id": "bbf1a840fff3",
-      "title": "傳 DeepSeek V5 改用華為昇騰 950DT 訓練，首度從零以中國晶片打造大型模型",
-      "link": "https://technews.tw/2026/11/04/deepseek-will-train-its-upcoming-v5-model-from-scratch-on-huaweis-ascend-950dt-based-atlas-superpods/",
-      "summary": "多家中國科技媒體與產業鏈消息指出，DeepSeek 正規劃將下一代大型語言模型 V5 的訓練工作，交由華為（H [&#8230;]",
-      "date": "2026-11-04T03:00:39+00:00",
-      "sourceId": "technews",
-      "cats": [
-        "market",
-        "process",
-        "material"
-      ]
-    },
-    {
-      "id": "f529918bc208",
-      "title": "挑戰技術極限而非實用！開發者魔改 Windows 11，128MB 記憶體龜速運作曝光",
-      "link": "https://technews.tw/2026/11/04/windows-11-26h2-runs-on-just-128mb-of-ram/",
-      "summary": "以 Tiny11 聞名的開發者 NTDEV 展示大幅精簡的 Windows 11 26H2，在 128MB 記 [&#8230;]",
-      "date": "2026-11-04T02:40:25+00:00",
+      "id": "a030901958de",
+      "title": "矽格10月營收月增0.6%",
+      "link": "https://finance.technews.tw/2026/11/04/sigurd-6257-202610-financial-report/",
+      "summary": "矽格（6257）公布 10 月合併營收 21.00 億元，較上（9）月成長 0.6%，與去年同期相比為年增 2 [&#8230;]",
+      "date": "2026-11-04T08:30:03+00:00",
       "sourceId": "technews",
       "cats": [
         "market",
