@@ -1,6 +1,6 @@
 {
-  "updated": "2026-11-03T23:10:04.072698+00:00",
-  "count": 14,
+  "updated": "2026-11-04T05:57:53.360526+00:00",
+  "count": 15,
   "sources": [
     {
       "id": "technews",
@@ -61,11 +61,76 @@
   ],
   "articles": [
     {
-      "id": "15c76096f0a4",
-      "title": "華邦電佈局 AI 算力浪潮，矽電容與 CUBE 雙引擎 2027 年迎量產收割期",
-      "link": "https://finance.technews.tw/2026/11/04/winbond-electronics-is-positioning-itself-to-capitalize-on-the-ai-%e2%80%8b%e2%80%8bcomputing-power-wave/",
-      "summary": "記憶體大廠華邦電子於 3 日舉行的法人說明會中，總經理陳沛銘指出，隨著全球AI與高階運算需求強勁，公司在高規格 [&#8230;]",
-      "date": "2026-11-03T23:00:14+00:00",
+      "id": "71cc8e5f9e2e",
+      "title": "超微估明年 AI 成長確保供應鏈穩定，封測台廠搭順風車",
+      "link": "https://technews.tw/2026/11/04/amd-ai-growth-secures-supply-chain-stability-taiwan-osat-firms-benefit/",
+      "summary": "人工智慧（AI）晶片大廠超微（AMD）董事長暨執行長蘇姿丰今天在線上投資人會議表示，資料中心需求遠大於供給，已 [&#8230;]",
+      "date": "2026-11-04T05:30:04+00:00",
+      "sourceId": "technews",
+      "cats": [
+        "market",
+        "process",
+        "material"
+      ]
+    },
+    {
+      "id": "9918d474a387",
+      "title": "聞泰科技遭提告  安世半導體指控違反內部協議",
+      "link": "https://technews.tw/2026/11/04/wingtech-rejects-allegations-in-nexperias-2-billion-lawsuit/",
+      "summary": "綜合港媒報導，聞泰科技表示，位於荷蘭的安世半導體（Nexperia B.V.）已向荷蘭阿姆斯特丹地方法院對公司 [&#8230;]",
+      "date": "2026-11-04T04:20:37+00:00",
+      "sourceId": "technews",
+      "cats": [
+        "market",
+        "process",
+        "material"
+      ]
+    },
+    {
+      "id": "761cc821ec9c",
+      "title": "晶圓消耗量飆 6.5 倍！HBF 掀 NAND 產能排擠效應，SSD 價格下修遇亂流",
+      "link": "https://technews.tw/2026/11/04/hbf-memory-raise-ssd-prices/",
+      "summary": "聯博集團（Bernstein）最新分析指出，被視為新世代儲存方案的「高頻寬快閃記憶體」（HBF）若順利步入商業 [&#8230;]",
+      "date": "2026-11-04T04:00:11+00:00",
+      "sourceId": "technews",
+      "cats": [
+        "market",
+        "process",
+        "material"
+      ]
+    },
+    {
+      "id": "86e6d496ec17",
+      "title": "手機晶片寒冬  Skyworks 財測失色股價暴跌 17%",
+      "link": "https://finance.technews.tw/2026/11/04/skyworks-shares-plunge-17-on-weak-outlook/",
+      "summary": "美國射頻晶片大廠 Skyworks Solutions 發表最新財報，雖然上季營收略優於預期，但受高階 And [&#8230;]",
+      "date": "2026-11-04T03:50:50+00:00",
+      "sourceId": "technews",
+      "cats": [
+        "market",
+        "process",
+        "material"
+      ]
+    },
+    {
+      "id": "bbf1a840fff3",
+      "title": "傳 DeepSeek V5 改用華為昇騰 950DT 訓練，首度從零以中國晶片打造大型模型",
+      "link": "https://technews.tw/2026/11/04/deepseek-will-train-its-upcoming-v5-model-from-scratch-on-huaweis-ascend-950dt-based-atlas-superpods/",
+      "summary": "多家中國科技媒體與產業鏈消息指出，DeepSeek 正規劃將下一代大型語言模型 V5 的訓練工作，交由華為（H [&#8230;]",
+      "date": "2026-11-04T03:00:39+00:00",
+      "sourceId": "technews",
+      "cats": [
+        "market",
+        "process",
+        "material"
+      ]
+    },
+    {
+      "id": "f529918bc208",
+      "title": "挑戰技術極限而非實用！開發者魔改 Windows 11，128MB 記憶體龜速運作曝光",
+      "link": "https://technews.tw/2026/11/04/windows-11-26h2-runs-on-just-128mb-of-ram/",
+      "summary": "以 Tiny11 聞名的開發者 NTDEV 展示大幅精簡的 Windows 11 26H2，在 128MB 記 [&#8230;]",
+      "date": "2026-11-04T02:40:25+00:00",
       "sourceId": "technews",
       "cats": [
         "market",
@@ -92,58 +157,6 @@
       "link": "https://www.eetimes.com/ai-hardwares-hidden-cost-between-orders-and-output/",
       "summary": "Alphabet’s TPU inventory, Intel’s manufacturing tradeoffs, and equipment suppliers’ balance sheets show how capital builds up along the path to usable AI computing capacity. The post AI Hardware’s Hidden Cost: Between Orders and Output appeared first on EE Times.",
       "date": "2026-11-03T14:08:41+00:00",
-      "sourceId": "eetimes",
-      "cats": [
-        "process",
-        "material",
-        "equipment"
-      ]
-    },
-    {
-      "id": "8b2062be9db8",
-      "title": "那斯達克高層：台積電成全球第七大企業，反映該國建立的成就",
-      "link": "https://finance.technews.tw/2026/11/03/edward-knight-says-tsmc-reflects-taiwan-achievements/",
-      "summary": "那斯達克執行副董事長奈特今天指出，今年台灣股票市場總市值躍居全球第四，整體經濟表現也令人驚嘆；目前台積電已是全 [&#8230;]",
-      "date": "2026-11-03T08:20:06+00:00",
-      "sourceId": "technews",
-      "cats": [
-        "market",
-        "process",
-        "material"
-      ]
-    },
-    {
-      "id": "7660d192e639",
-      "title": "汎銓矽光子布局再下一城，與日商安立知簽訂全球合作合約",
-      "link": "https://finance.technews.tw/2026/11/03/msscorps-makes-another-breakthrough-in-silicon-photonics-deployment/",
-      "summary": "AI 晶片研發分析平台汎銓科技積極擴大矽光子業務布局，於 3 日宣布與全球測試量測設備大廠 Anritsu 安 [&#8230;]",
-      "date": "2026-11-03T07:45:41+00:00",
-      "sourceId": "technews",
-      "cats": [
-        "market",
-        "process",
-        "material"
-      ]
-    },
-    {
-      "id": "e1ac8783b9b7",
-      "title": "輝達傳強制雲端商降中國曝險、新加坡業者跳腳",
-      "link": "https://technews.tw/2026/11/03/nvidia-reportedly-presses-cloud-providers-to-reduce-china-exposure/",
-      "summary": "輝達（Nvidia）傳出要求全球資料中心及雲端運算合作夥伴降低對中國客戶的曝險，硬性規定至少 51% 的服務須 [&#8230;]",
-      "date": "2026-11-03T07:40:53+00:00",
-      "sourceId": "technews",
-      "cats": [
-        "market",
-        "process",
-        "material"
-      ]
-    },
-    {
-      "id": "5517e26c4294",
-      "title": "AI to the Edge: Generative Intelligence for Robotics and Autonomous Systems",
-      "link": "https://www.eetimes.com/ai-to-the-edge-generative-intelligence-for-robotics-and-autonomous-systems/",
-      "summary": "Designed for embedded engineers, robotics developers, AI practitioners, and technical leaders, this webinar explores how generative intelligence is helping shape the future of physical AI. The post AI to the Edge: Generative Intelligence for Robotics and Autonomous Systems appeared first on EE Times",
-      "date": "2026-11-02T18:29:50+00:00",
       "sourceId": "eetimes",
       "cats": [
         "process",
