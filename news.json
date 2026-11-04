@@ -1,6 +1,6 @@
 {
-  "updated": "2026-11-04T14:19:38.076952+00:00",
-  "count": 12,
+  "updated": "2026-11-04T21:47:29.258338+00:00",
+  "count": 14,
   "sources": [
     {
       "id": "technews",
@@ -60,6 +60,32 @@
     }
   ],
   "articles": [
+    {
+      "id": "b7522337d696",
+      "title": "Chiplets: Meta-Scale Chiplet Velocity Accelerating AI SoC Development to Match the Rapid Evolution of AI Model",
+      "link": "https://www.eetimes.com/chiplets-meta-scale-chiplet-velocity-accelerating-ai-soc-development-to-match-the-rapid-evolution-of-ai-model/",
+      "summary": "This event session is presented by Olivia Wu, Distinguished Engineer at Meta AI model architectures are evolving faster than traditional chip development cycles, and at Meta&#8217;s scale—serving billions of users across ranking &#38; recommendation and generative AI workloads—this mismatch is unten",
+      "date": "2026-11-04T20:30:12+00:00",
+      "sourceId": "eetimes",
+      "cats": [
+        "process",
+        "material",
+        "equipment"
+      ]
+    },
+    {
+      "id": "a6755297c10d",
+      "title": "ABLIC’s Small, Smart, and Simple Strategy for High-Value Analog Semicondutors",
+      "link": "https://www.eetimes.com/ablics-small-smart-and-simple-strategy-for-high-value-analog-semicondutors/",
+      "summary": "ABLIC’s Satoshi Hanazawa discusses its low-power analog semiconductor strategy, target markets, product innovation and development approach. The post ABLIC&#8217;s Small, Smart, and Simple Strategy for High-Value Analog Semicondutors appeared first on EE Times.",
+      "date": "2026-11-04T17:00:00+00:00",
+      "sourceId": "eetimes",
+      "cats": [
+        "process",
+        "material",
+        "equipment"
+      ]
+    },
     {
       "id": "aa08aeddd7e1",
       "title": "Windows 11 效能大升級！微軟稱 8GB 記憶體電腦速度可提升 20%",
