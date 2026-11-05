@@ -1,6 +1,6 @@
 {
-  "updated": "2026-11-05T12:06:59.741379+00:00",
-  "count": 16,
+  "updated": "2026-11-05T20:58:55.780588+00:00",
+  "count": 15,
   "sources": [
     {
       "id": "technews",
@@ -60,6 +60,19 @@
     }
   ],
   "articles": [
+    {
+      "id": "3853cd9827b5",
+      "title": "Nvidia, Municipal Leaders Frame AI as Critical Urban Infrastructure",
+      "link": "https://www.eetimes.com/nvidia-municipal-leaders-frame-ai-as-critical-urban-infrastructure/",
+      "summary": "City officials are moving beyond isolated pilot projects toward local computing infrastructure and AI. The post Nvidia, Municipal Leaders Frame AI as Critical Urban Infrastructure appeared first on EE Times.",
+      "date": "2026-11-05T16:09:46+00:00",
+      "sourceId": "eetimes",
+      "cats": [
+        "process",
+        "material",
+        "equipment"
+      ]
+    },
     {
       "id": "120a3dcaa05c",
       "title": "8 吋晶圓掀漲價潮！TrendForce：明年全球晶圓代工產值有望再衝三成",
@@ -144,32 +157,6 @@
       "link": "https://www.eetimes.com/chiplets-meta-scale-chiplet-velocity-accelerating-ai-soc-development-to-match-the-rapid-evolution-of-ai-model/",
       "summary": "This event session is presented by Olivia Wu, Distinguished Engineer at Meta AI model architectures are evolving faster than traditional chip development cycles, and at Meta&#8217;s scale—serving billions of users across ranking &#38; recommendation and generative AI workloads—this mismatch is unten",
       "date": "2026-11-04T20:30:12+00:00",
-      "sourceId": "eetimes",
-      "cats": [
-        "process",
-        "material",
-        "equipment"
-      ]
-    },
-    {
-      "id": "a6755297c10d",
-      "title": "ABLIC’s Small, Smart, and Simple Strategy for High-Value Analog Semicondutors",
-      "link": "https://www.eetimes.com/ablics-small-smart-and-simple-strategy-for-high-value-analog-semicondutors/",
-      "summary": "ABLIC’s Satoshi Hanazawa discusses its low-power analog semiconductor strategy, target markets, product innovation and development approach. The post ABLIC&#8217;s Small, Smart, and Simple Strategy for High-Value Analog Semicondutors appeared first on EE Times.",
-      "date": "2026-11-04T17:00:00+00:00",
-      "sourceId": "eetimes",
-      "cats": [
-        "process",
-        "material",
-        "equipment"
-      ]
-    },
-    {
-      "id": "8ac111031b73",
-      "title": "Accepting Orders for the LED Light-Sourced Projection Aligners",
-      "link": "https://www.eetimes.com/accepting-orders-for-the-led-light-sourced-projection-aligners/",
-      "summary": "Ushio has been accepting orders for LED-based UX-4 wafer aligners since July 2026, offering mercury-free, high-throughput lithography. The post Accepting Orders for the LED Light-Sourced Projection Aligners appeared first on EE Times.",
-      "date": "2026-11-03T15:54:08+00:00",
       "sourceId": "eetimes",
       "cats": [
         "process",
