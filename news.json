@@ -1,6 +1,6 @@
 {
-  "updated": "2026-11-05T02:10:32.847620+00:00",
-  "count": 22,
+  "updated": "2026-11-05T12:06:59.741379+00:00",
+  "count": 16,
   "sources": [
     {
       "id": "technews",
@@ -61,11 +61,11 @@
   ],
   "articles": [
     {
-      "id": "3b5d57de0737",
-      "title": "任天堂遊戲卡匣要變貴了？AI 排擠晶片產能，旺宏傳退出 ROM 業務",
-      "link": "https://ccc.technews.tw/2026/11/05/nintendo-rom-chip-macronix/",
-      "summary": "隨著 AI 資料中心帶動記憶體及儲存晶片需求成長，相關產能配置也開始影響遊戲產業。外媒報導指出，任天堂 Swi [&#8230;]",
-      "date": "2026-11-05T02:07:25+00:00",
+      "id": "120a3dcaa05c",
+      "title": "8 吋晶圓掀漲價潮！TrendForce：明年全球晶圓代工產值有望再衝三成",
+      "link": "https://technews.tw/2026/11/05/trendforce-2027-annual-forecast-foundry-and-price/",
+      "summary": "TrendForce 集邦科技資深分析師鐘映庭今（5 日）「2027 科技產業大預測」論壇中指出，2027 年 [&#8230;]",
+      "date": "2026-11-05T11:58:40+00:00",
       "sourceId": "technews",
       "cats": [
         "market",
@@ -74,11 +74,11 @@
       ]
     },
     {
-      "id": "1dcce3e7bb52",
-      "title": "輝達 CPO 夥伴 Coherent 財報財測皆夯  盤後勁揚",
-      "link": "https://finance.technews.tw/2026/11/05/coherent-corp-reports-first-quarter-fiscal-2027-results/",
-      "summary": "輝達（Nvidia Corp.）矽光子共同封裝光學（CPO）供應夥伴 Coherent Corp. 最新公布的 [&#8230;]",
-      "date": "2026-11-05T01:50:43+00:00",
+      "id": "226b54ef2f13",
+      "title": "2027 羊年台股怎麼走、記憶體榮景持續？TrendForce 大預測一次看（上）",
+      "link": "https://technews.tw/2026/11/05/trendforce-2027-annual-forecast-foundry/",
+      "summary": "研調機構 TrendForce 今（5 日）與群益證券共同舉辦 2027 科技產業大預測，針對台股大盤、晶圓代 [&#8230;]",
+      "date": "2026-11-05T11:27:59+00:00",
       "sourceId": "technews",
       "cats": [
         "market",
@@ -87,11 +87,11 @@
       ]
     },
     {
-      "id": "054537841452",
-      "title": "Arm Q2 營收強增 27%  財測驚喜不足股價走跌",
-      "link": "https://finance.technews.tw/2026/11/05/arm-holdings-plc-q2-fye27-investor-presentation/",
-      "summary": "受人工智慧（AI）資料中心需求強勁驅動，半導體設計大廠 Arm 業績強強滾，上季營收大幅成長 27%。不過，A [&#8230;]",
-      "date": "2026-11-05T01:15:26+00:00",
+      "id": "293e130bf074",
+      "title": "昇陽半導體10月營收5.50 億元",
+      "link": "https://finance.technews.tw/2026/11/05/psi-8028-202610-financial-report/",
+      "summary": "昇陽半導體（8028）今（5）日公布 10 月營收，達 5.50 億元，較 9 月成長 7.4%，較去年同期成 [&#8230;]",
+      "date": "2026-11-05T10:30:05+00:00",
       "sourceId": "technews",
       "cats": [
         "market",
@@ -100,11 +100,11 @@
       ]
     },
     {
-      "id": "dd55655f5aa1",
-      "title": "東芝持續出售 NAND 廠鎧俠股份、持股比重跌破 11%",
-      "link": "https://finance.technews.tw/2026/11/05/toshiba-sells-kioxia-shares-stake-drops-below-11pc/",
-      "summary": "東芝（Toshiba）為日本 NAND Flash 廠鎧俠（Kioxia）的大股東，不過東芝持續出售鎧俠股份， [&#8230;]",
-      "date": "2026-11-05T01:00:58+00:00",
+      "id": "df4c4e26baf3",
+      "title": "綠電需求升溫，天能綠電第三季獲利年增 138%",
+      "link": "https://technews.tw/2026/11/05/green-power-demand-rises-tianneng-green-energy-q3-profit-jumps-138-yoy/",
+      "summary": "雲豹能源旗下售電子公司天能綠電今（5）日公布第三季財報，受惠 AI 資料中心、半導體及科技業綠電採購需求持續增 [&#8230;]",
+      "date": "2026-11-05T09:20:05+00:00",
       "sourceId": "technews",
       "cats": [
         "market",
@@ -113,11 +113,11 @@
       ]
     },
     {
-      "id": "5b880c5ced76",
-      "title": "高通手機晶片營收遜、蘋果訂單流失  盤後摔",
-      "link": "https://finance.technews.tw/2026/11/05/qualcomm-announces-fourth-quarter-and-fiscal-2026-results/",
-      "summary": "高通（Qualcomm）手機晶片營收遜色，記憶體漲價壓抑消費性電子需求，並面臨蘋果轉用自研晶片、業務流失的衝擊 [&#8230;]",
-      "date": "2026-11-05T00:50:19+00:00",
+      "id": "a5628f1717fb",
+      "title": "聯電 10 月營收達 252 億元，連三個月站穩 250 億元大關",
+      "link": "https://finance.technews.tw/2026/11/05/umc-has-maintained-its-position-above-25-billion-yuan-for-the-third-consecutive-month/",
+      "summary": "晶圓代工大廠聯電公布最新財務數據，10月合併營收達新台幣252億元，創下連續3個月站穩250億元大關的佳績。儘 [&#8230;]",
+      "date": "2026-11-05T09:10:04+00:00",
       "sourceId": "technews",
       "cats": [
         "market",
@@ -126,76 +126,11 @@
       ]
     },
     {
-      "id": "3587e01df1be",
-      "title": "韓國車用半導體國產化加速：現代汽車攜手 LG 打造自主供應鏈",
-      "link": "https://technews.tw/2026/11/05/hyundai-mobis-to-strengthen-partnerships-to-build-automotive-chip-ecosystem/",
-      "summary": "全球汽車產業趨勢加速邁向電動化、智慧化與軟體定義汽車（SDV），車用半導體已成為決定車輛核心競爭力與供應鏈安全 [&#8230;]",
-      "date": "2026-11-05T00:00:28+00:00",
-      "sourceId": "technews",
-      "cats": [
-        "market",
-        "process",
-        "material"
-      ]
-    },
-    {
-      "id": "f7bb656a593f",
-      "title": "川普介入施壓，甲骨文取消與騰訊 70 億美元晶片租賃計畫",
-      "link": "https://technews.tw/2026/11/05/oracle-cancels-7bn-tencent-ai-deal-under-trump-pressure/",
-      "summary": "英國《金融時報》引述知情人士消息指出，美國軟體公司甲骨文（Oracle）在川普政府施壓後，已取消了與中國網路科 [&#8230;]",
-      "date": "2026-11-04T23:50:44+00:00",
-      "sourceId": "technews",
-      "cats": [
-        "market",
-        "process",
-        "material"
-      ]
-    },
-    {
-      "id": "b7fa39ebda22",
-      "title": "長江存儲傳上市受阻，市場疲弱迫使 IPO 暫緩",
-      "link": "https://finance.technews.tw/2026/11/05/ymtc-puts-its-ipo-plans-on-hold-as-market-conditions-weaken/",
-      "summary": "中國記憶體大廠長江存儲傳已暫停在上海的 IPO 計畫，目前中國監管機關受到股市疲弱的壓力下，更嚴格地審查新股發 [&#8230;]",
-      "date": "2026-11-04T23:34:57+00:00",
-      "sourceId": "technews",
-      "cats": [
-        "market",
-        "process",
-        "material"
-      ]
-    },
-    {
-      "id": "980a08088903",
-      "title": "三星接受台積電代工 NVHBM 基礎晶粒，以退為進背後的雙軌產能隱憂",
-      "link": "https://technews.tw/2026/11/05/samsung-electronics-accepts-tsmc-nvhbm-base-die-production-strategic-retreat-dual-track-capacity-concerns/",
-      "summary": "韓國《首爾經濟》10 月 18 日報導，輝達（NVIDIA）要求三星電子（Samsung）、SK 海力士（SK [&#8230;]",
-      "date": "2026-11-04T23:00:42+00:00",
-      "sourceId": "technews",
-      "cats": [
-        "market",
-        "process",
-        "material"
-      ]
-    },
-    {
-      "id": "157c02918aa0",
-      "title": "聯發科邀請英特爾前高層 Navid Shahriari 加入，深化與台積電等重要供應鏈夥伴合作",
-      "link": "https://finance.technews.tw/2026/11/05/mediatek-invites-former-intel-executive-navid-shahriari-to-join-the-company/",
-      "summary": "IC 設計龍頭聯發科宣布，擁有 37 年半導體設計工程與先進封裝深厚經歷、並在資料中心市場有豐富實戰經驗的英特 [&#8230;]",
-      "date": "2026-11-04T22:00:49+00:00",
-      "sourceId": "technews",
-      "cats": [
-        "market",
-        "process",
-        "material"
-      ]
-    },
-    {
-      "id": "511c03ed839f",
-      "title": "英特爾發表 Intel 14A 製程 0.9 版 PDK，距量產又再近一步",
-      "link": "https://finance.technews.tw/2026/11/05/intel-releases-version-0-9-of-the-intel-14a-process-pdk/",
-      "summary": "英特爾晶圓代工（Intel Foundry）已向客戶發布其即將推出的 Intel 14A 製程技術的 0.9 [&#8230;]",
-      "date": "2026-11-04T22:00:45+00:00",
+      "id": "d382d9e1bb38",
+      "title": "汎銓 MSS HG 實機實測亮相，三大國際夥伴共推矽光子商業化",
+      "link": "https://finance.technews.tw/2026/11/05/msscorps-mss-hg-real-world-testing-showcase/",
+      "summary": "汎銓科技舉辦自主研發矽光子分析設備「MSS HG」實機實測發表會，邀請25組客戶參與，現場展示光損、漏光定位及 [&#8230;]",
+      "date": "2026-11-05T08:50:28+00:00",
       "sourceId": "technews",
       "cats": [
         "market",
@@ -235,19 +170,6 @@
       "link": "https://www.eetimes.com/accepting-orders-for-the-led-light-sourced-projection-aligners/",
       "summary": "Ushio has been accepting orders for LED-based UX-4 wafer aligners since July 2026, offering mercury-free, high-throughput lithography. The post Accepting Orders for the LED Light-Sourced Projection Aligners appeared first on EE Times.",
       "date": "2026-11-03T15:54:08+00:00",
-      "sourceId": "eetimes",
-      "cats": [
-        "process",
-        "material",
-        "equipment"
-      ]
-    },
-    {
-      "id": "b84c0c1cd4d7",
-      "title": "AI Hardware’s Hidden Cost: Between Orders and Output",
-      "link": "https://www.eetimes.com/ai-hardwares-hidden-cost-between-orders-and-output/",
-      "summary": "Alphabet’s TPU inventory, Intel’s manufacturing tradeoffs, and equipment suppliers’ balance sheets show how capital builds up along the path to usable AI computing capacity. The post AI Hardware’s Hidden Cost: Between Orders and Output appeared first on EE Times.",
-      "date": "2026-11-03T14:08:41+00:00",
       "sourceId": "eetimes",
       "cats": [
         "process",
