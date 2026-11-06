@@ -1,6 +1,6 @@
 {
-  "updated": "2026-11-05T20:58:55.780588+00:00",
-  "count": 15,
+  "updated": "2026-11-06T02:11:17.265995+00:00",
+  "count": 18,
   "sources": [
     {
       "id": "technews",
@@ -61,6 +61,123 @@
   ],
   "articles": [
     {
+      "id": "267c9d91b05c",
+      "title": "輝達成竊賊目標，逾 3.7 億元硬體與貨車在南加州離奇消失",
+      "link": "https://technews.tw/2026/11/06/worlds-most-valuable-company-targeted-by-bandits-for-11-4m-shipment-as-truck-vanishes-in-california/",
+      "summary": "隨著 AI 技術需求推升資料中心設備價值，晶片巨擘輝達的貨物成為竊賊覬覦目標。據報幾個月前一輛貨車在美國南加州 [&#8230;]",
+      "date": "2026-11-06T01:55:05+00:00",
+      "sourceId": "technews",
+      "cats": [
+        "market",
+        "process",
+        "material"
+      ]
+    },
+    {
+      "id": "623d7e284d3a",
+      "title": "京元電第三季營運符合市場預期，外資給目標價最高 348 元",
+      "link": "https://finance.technews.tw/2026/11/06/king-yuan-electrics-third-quarter-operations-met-market-expectations/",
+      "summary": "半導體封測大廠京元電公布最新第三季財報，營運表現符合市場預測。儘管受到供應鏈產品過渡期與折舊費用上升影響，第四 [&#8230;]",
+      "date": "2026-11-06T01:40:30+00:00",
+      "sourceId": "technews",
+      "cats": [
+        "market",
+        "process",
+        "material"
+      ]
+    },
+    {
+      "id": "5e2036dc5d1e",
+      "title": "台積電跌停，台股早盤崩跌 3,737 點創盤中最大跌點失守年線",
+      "link": "https://finance.technews.tw/2026/11/06/tsmc-daily-limit-taiwan-stocks-crash-3737-points-record-intraday-drop-lost-annual-line/",
+      "summary": "美國期中選舉結果對人工智慧（AI）資料中心政策產生巨大變數，美股 4 大指數重挫，日韓股市開盤大跌，衝擊台股今 [&#8230;]",
+      "date": "2026-11-06T01:35:08+00:00",
+      "sourceId": "technews",
+      "cats": [
+        "market",
+        "process",
+        "material"
+      ]
+    },
+    {
+      "id": "edf8fcab49ff",
+      "title": "成立僅 3 個月估值上看 5 億美元，Google 前團隊領軍 AI 晶片新創 Tenspresso 再掀投資熱潮",
+      "link": "https://technews.tw/2026/11/06/ai-chip-startup-tenspresso-valuation-soars/",
+      "summary": "AI 晶片市場持續炙手可熱。據知情人士透露，由 Google AI 前晶片工程師創立、成立僅數個月的新創公司 [&#8230;]",
+      "date": "2026-11-06T01:00:11+00:00",
+      "sourceId": "technews",
+      "cats": [
+        "market",
+        "process",
+        "material"
+      ]
+    },
+    {
+      "id": "b93464ec5ace",
+      "title": "玻纖布旺、日東紡再度調升財測  加碼擴產 T-Glass",
+      "link": "https://finance.technews.tw/2026/11/06/fiberglass-cloth-boom-nitto-boseki-raises-forecast-boosts-t-glass-expansion/",
+      "summary": "低熱膨脹係數（Low-CTE）玻纖布（業界多稱為 T-Glass）、低介電玻纖布（NE-Glass、NER-G [&#8230;]",
+      "date": "2026-11-06T00:50:26+00:00",
+      "sourceId": "technews",
+      "cats": [
+        "market",
+        "process",
+        "material"
+      ]
+    },
+    {
+      "id": "ffc03f529301",
+      "title": "彭博：美光科技因勞資糾紛未解，暫停桃園工廠計畫",
+      "link": "https://technews.tw/2026/11/06/micron-pauses-work-on-4-5-billion-taiwan-plant-after-labor-spat/",
+      "summary": "消息人士透露，記憶體大廠美光科技（Micron）因一項勞資糾紛遲未解決，已暫停在桃園市興建一座記憶體晶片工廠的 [&#8230;]",
+      "date": "2026-11-06T00:40:20+00:00",
+      "sourceId": "technews",
+      "cats": [
+        "market",
+        "process",
+        "material"
+      ]
+    },
+    {
+      "id": "45cc4220c866",
+      "title": "避開美國出口管制，中國 AI 新創月之暗面轉向歐洲租輝達晶片算力",
+      "link": "https://technews.tw/2026/11/06/moonshot-turned-to-europe-for-nvidia-blackwell-access-amid-u-s-china-curbs/",
+      "summary": "消息人士告訴美國財經媒體 CNBC，遭白宮指控透過遠端方式在東亞使用輝達（Nvidia）先進晶片的中國 AI [&#8230;]",
+      "date": "2026-11-06T00:35:45+00:00",
+      "sourceId": "technews",
+      "cats": [
+        "market",
+        "process",
+        "material"
+      ]
+    },
+    {
+      "id": "fa75c286c588",
+      "title": "台積傳砸 450 億美元赴德州建兩座先進晶圓廠，目標 2029 年底前實現量產",
+      "link": "https://technews.tw/2026/11/06/tsmc-45b-texas-2-advanced-fabs-mass-production-2029/",
+      "summary": "台積電擴大美國設廠再傳新進展。外媒引述產業界人士消息指出，德州政府近期收到一項未具名企業投資案，將投入 450 [&#8230;]",
+      "date": "2026-11-06T00:20:01+00:00",
+      "sourceId": "technews",
+      "cats": [
+        "market",
+        "process",
+        "material"
+      ]
+    },
+    {
+      "id": "085c722e687d",
+      "title": "EE Times Magazine – November 2026",
+      "link": "https://www.eetimes.com/ee-times-magazine-november-2026/",
+      "summary": "This edition of EE Times Magazine explores advances in semiconductor manufacturing and packaging, farm autonomy, and Canada’s efforts to commercialize emerging technologies. The post EE Times Magazine – November 2026 appeared first on EE Times.",
+      "date": "2026-11-05T22:30:00+00:00",
+      "sourceId": "eetimes",
+      "cats": [
+        "process",
+        "material",
+        "equipment"
+      ]
+    },
+    {
       "id": "3853cd9827b5",
       "title": "Nvidia, Municipal Leaders Frame AI as Critical Urban Infrastructure",
       "link": "https://www.eetimes.com/nvidia-municipal-leaders-frame-ai-as-critical-urban-infrastructure/",
@@ -71,84 +188,6 @@
         "process",
         "material",
         "equipment"
-      ]
-    },
-    {
-      "id": "120a3dcaa05c",
-      "title": "8 吋晶圓掀漲價潮！TrendForce：明年全球晶圓代工產值有望再衝三成",
-      "link": "https://technews.tw/2026/11/05/trendforce-2027-annual-forecast-foundry-and-price/",
-      "summary": "TrendForce 集邦科技資深分析師鐘映庭今（5 日）「2027 科技產業大預測」論壇中指出，2027 年 [&#8230;]",
-      "date": "2026-11-05T11:58:40+00:00",
-      "sourceId": "technews",
-      "cats": [
-        "market",
-        "process",
-        "material"
-      ]
-    },
-    {
-      "id": "226b54ef2f13",
-      "title": "2027 羊年台股怎麼走、記憶體榮景持續？TrendForce 大預測一次看（上）",
-      "link": "https://technews.tw/2026/11/05/trendforce-2027-annual-forecast-foundry/",
-      "summary": "研調機構 TrendForce 今（5 日）與群益證券共同舉辦 2027 科技產業大預測，針對台股大盤、晶圓代 [&#8230;]",
-      "date": "2026-11-05T11:27:59+00:00",
-      "sourceId": "technews",
-      "cats": [
-        "market",
-        "process",
-        "material"
-      ]
-    },
-    {
-      "id": "293e130bf074",
-      "title": "昇陽半導體10月營收5.50 億元",
-      "link": "https://finance.technews.tw/2026/11/05/psi-8028-202610-financial-report/",
-      "summary": "昇陽半導體（8028）今（5）日公布 10 月營收，達 5.50 億元，較 9 月成長 7.4%，較去年同期成 [&#8230;]",
-      "date": "2026-11-05T10:30:05+00:00",
-      "sourceId": "technews",
-      "cats": [
-        "market",
-        "process",
-        "material"
-      ]
-    },
-    {
-      "id": "df4c4e26baf3",
-      "title": "綠電需求升溫，天能綠電第三季獲利年增 138%",
-      "link": "https://technews.tw/2026/11/05/green-power-demand-rises-tianneng-green-energy-q3-profit-jumps-138-yoy/",
-      "summary": "雲豹能源旗下售電子公司天能綠電今（5）日公布第三季財報，受惠 AI 資料中心、半導體及科技業綠電採購需求持續增 [&#8230;]",
-      "date": "2026-11-05T09:20:05+00:00",
-      "sourceId": "technews",
-      "cats": [
-        "market",
-        "process",
-        "material"
-      ]
-    },
-    {
-      "id": "a5628f1717fb",
-      "title": "聯電 10 月營收達 252 億元，連三個月站穩 250 億元大關",
-      "link": "https://finance.technews.tw/2026/11/05/umc-has-maintained-its-position-above-25-billion-yuan-for-the-third-consecutive-month/",
-      "summary": "晶圓代工大廠聯電公布最新財務數據，10月合併營收達新台幣252億元，創下連續3個月站穩250億元大關的佳績。儘 [&#8230;]",
-      "date": "2026-11-05T09:10:04+00:00",
-      "sourceId": "technews",
-      "cats": [
-        "market",
-        "process",
-        "material"
-      ]
-    },
-    {
-      "id": "d382d9e1bb38",
-      "title": "汎銓 MSS HG 實機實測亮相，三大國際夥伴共推矽光子商業化",
-      "link": "https://finance.technews.tw/2026/11/05/msscorps-mss-hg-real-world-testing-showcase/",
-      "summary": "汎銓科技舉辦自主研發矽光子分析設備「MSS HG」實機實測發表會，邀請25組客戶參與，現場展示光損、漏光定位及 [&#8230;]",
-      "date": "2026-11-05T08:50:28+00:00",
-      "sourceId": "technews",
-      "cats": [
-        "market",
-        "process",
-        "material"
       ]
     },
     {
