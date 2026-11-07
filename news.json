@@ -1,6 +1,6 @@
 {
-  "updated": "2026-11-07T08:38:19.403593+00:00",
-  "count": 18,
+  "updated": "2026-11-07T16:16:23.034276+00:00",
+  "count": 20,
   "sources": [
     {
       "id": "technews",
@@ -60,6 +60,32 @@
     }
   ],
   "articles": [
+    {
+      "id": "ce547bd811d7",
+      "title": "傳跨足先進記憶體生產？焦佑鈞：台積電與三大記憶體原廠均有合作不會加入競爭",
+      "link": "https://finance.technews.tw/2026/11/07/tsmc-collaborates-with-all-three-major-memory-manufacturers-and-will-not-join-the-competition/",
+      "summary": "針對近期市場傳出半導體龍頭台積電為因應輝達需求，擬跨足先進記憶體與 3D DRAM 領域，引發半導體供應鏈高度 [&#8230;]",
+      "date": "2026-11-07T12:00:12+00:00",
+      "sourceId": "technews",
+      "cats": [
+        "market",
+        "process",
+        "material"
+      ]
+    },
+    {
+      "id": "39ef0ce549bc",
+      "title": "華邦電 2026 年業績亮眼，員工獎金平均可望達到約 30 個月",
+      "link": "https://finance.technews.tw/2026/11/07/winbond-electronics-employees-are-expected-to-receive-an-average-bonus-of-approximately-30-months-salary/",
+      "summary": "受惠於記憶體市場需求火熱與公司營運亮眼，記憶體大廠華邦電2026年獲利大豐收。董事長焦佑鈞出席公司家庭日活動時 [&#8230;]",
+      "date": "2026-11-07T11:40:11+00:00",
+      "sourceId": "technews",
+      "cats": [
+        "market",
+        "process",
+        "material"
+      ]
+    },
     {
       "id": "32fadabe73f6",
       "title": "焦佑鈞：記憶體漲價已到極限，不希望景氣下行時間太晚來",
