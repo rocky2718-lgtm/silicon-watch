@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-06T19:16:13.807578+00:00",
+  "updated": "2026-11-07T00:01:41.588963+00:00",
   "count": 15,
   "sources": [
     {
@@ -61,6 +61,19 @@
   ],
   "articles": [
     {
+      "id": "a24b4e5e46b5",
+      "title": "捨重油換天然氣大降四成碳排，金聯成打造「零廢棄」產線獲晶圓代工大廠青睞",
+      "link": "https://finance.technews.tw/2026/11/07/how-jlcycle-can-pivot-to-recycling-and-regenerating-used-lead-acid-batteries/",
+      "summary": "鉛蓄電池回收處理廠金聯成，是目前唯一直接打進半導體代工龍頭不斷電（UPS）電池回收 Tier 1 供應鏈的業者 [&#8230;]",
+      "date": "2026-11-07T00:00:11+00:00",
+      "sourceId": "technews",
+      "cats": [
+        "market",
+        "process",
+        "material"
+      ]
+    },
+    {
       "id": "52d0a1538929",
       "title": "Cosmic at SEMICON Europa 2026: Advancing High-Complexity Semiconductor Test Solutions",
       "link": "https://www.eetimes.com/cosmic-at-semicon-europa-2026-advancing-high-complexity-semiconductor-test-solutions/",
@@ -101,7 +114,7 @@
     },
     {
       "id": "4edf62fc7980",
-      "title": "長江存儲第四晶圓廠本土設備力拼占比逾七成，進一步降低美國箝制",
+      "title": "長江存儲第四晶圓廠本土設備力拚占比逾七成，降低美國箝制",
       "link": "https://finance.technews.tw/2026/11/06/yangtze-memory-technologies-fourth-wafer-fab-strives-to-achieve-a-domestic-equipment-ratio-of-over-70/",
       "summary": "根據外媒報導，中國最大快閃記憶體製造商長江存儲（YMTC）計劃將位於武漢的第四座記憶體晶圓廠之本土設備採購比例 [&#8230;]",
       "date": "2026-11-06T12:20:38+00:00",
@@ -144,19 +157,6 @@
       "link": "https://www.eetimes.com/ee-times-magazine-november-2026/",
       "summary": "This edition of EE Times Magazine explores advances in semiconductor manufacturing and packaging, farm autonomy, and Canada’s efforts to commercialize emerging technologies. The post EE Times Magazine – November 2026 appeared first on EE Times.",
       "date": "2026-11-05T22:30:00+00:00",
-      "sourceId": "eetimes",
-      "cats": [
-        "process",
-        "material",
-        "equipment"
-      ]
-    },
-    {
-      "id": "3853cd9827b5",
-      "title": "Nvidia, Municipal Leaders Frame AI as Critical Urban Infrastructure",
-      "link": "https://www.eetimes.com/nvidia-municipal-leaders-frame-ai-as-critical-urban-infrastructure/",
-      "summary": "City officials are moving beyond isolated pilot projects toward local computing infrastructure and AI. The post Nvidia, Municipal Leaders Frame AI as Critical Urban Infrastructure appeared first on EE Times.",
-      "date": "2026-11-05T16:09:46+00:00",
       "sourceId": "eetimes",
       "cats": [
         "process",
