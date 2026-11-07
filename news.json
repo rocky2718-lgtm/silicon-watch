@@ -1,6 +1,6 @@
 {
-  "updated": "2026-11-07T00:01:41.588963+00:00",
-  "count": 15,
+  "updated": "2026-11-07T08:38:19.403593+00:00",
+  "count": 18,
   "sources": [
     {
       "id": "technews",
@@ -61,6 +61,97 @@
   ],
   "articles": [
     {
+      "id": "32fadabe73f6",
+      "title": "焦佑鈞：記憶體漲價已到極限，不希望景氣下行時間太晚來",
+      "link": "https://finance.technews.tw/2026/11/07/memory-price-increases-have-reached-their-limit/",
+      "summary": "針對記憶體製造廠毛利率站上七至八成的高點、市場關切漲價潮與未來景氣循環的發展，華邦電董事長焦佑鈞直言，記憶體價 [&#8230;]",
+      "date": "2026-11-07T07:15:38+00:00",
+      "sourceId": "technews",
+      "cats": [
+        "market",
+        "process",
+        "material"
+      ]
+    },
+    {
+      "id": "e00d2c733647",
+      "title": "焦佑鈞：2027~2028 年記憶體需求明確，下一波循環預計 2029 年開始",
+      "link": "https://finance.technews.tw/2026/11/07/winbond-believes-that-memory-demand-will-be-strong-in-2027-2028/",
+      "summary": "面對美國期中選舉過後的政策變化與政治情勢，華邦電董事長焦佑鈞表示，期中選舉結果必然會對AI資料中心的建置趨勢產 [&#8230;]",
+      "date": "2026-11-07T07:00:21+00:00",
+      "sourceId": "technews",
+      "cats": [
+        "market",
+        "process",
+        "material"
+      ]
+    },
+    {
+      "id": "7f8c130c9820",
+      "title": "AI 聽力照護進軍中東市場！瑞音生技 SaMD 軟體破解三大驗配痛點",
+      "link": "https://finance.technews.tw/2026/11/07/samd/",
+      "summary": "精技電腦董事長、瑞昱半導體共同創辦人暨瑞音生技董事長葉佳紋近日在成大鳳凰講座發表「從聽見，到聽得清楚-AI 如 [&#8230;]",
+      "date": "2026-11-07T03:09:56+00:00",
+      "sourceId": "technews",
+      "cats": [
+        "market",
+        "process",
+        "material"
+      ]
+    },
+    {
+      "id": "c9cff71762dc",
+      "title": "矽谷 AI 領袖「效率至上」文化與大眾經驗嚴重脫節，難打造貼近消費者的產品",
+      "link": "https://technews.tw/2026/11/07/ai-execs-may-be-too-out-of-touch-to-build-for-the-general-public/",
+      "summary": "雅虎（Yahoo）前執行長梅爾（Marissa Mayer）近日接受《紐約時報》專訪，介紹新 AI 助理 Ap [&#8230;]",
+      "date": "2026-11-07T01:30:39+00:00",
+      "sourceId": "technews",
+      "cats": [
+        "market",
+        "process",
+        "material"
+      ]
+    },
+    {
+      "id": "220288d6ab89",
+      "title": "輝達要求台積電進軍先進記憶體市場？傳組建 3D DRAM 產線解 AI 缺貨荒",
+      "link": "https://finance.technews.tw/2026/11/07/3d-dram/",
+      "summary": "隨著 AI 晶片需求持續增加，記憶體已成為影響高效能運算設備供應的重要環節，迫使輝達（NVIDIA）、蘋果開始 [&#8230;]",
+      "date": "2026-11-07T01:01:22+00:00",
+      "sourceId": "technews",
+      "cats": [
+        "market",
+        "process",
+        "material"
+      ]
+    },
+    {
+      "id": "4cc8aadd755e",
+      "title": "聯發科 AI ASIC 第四季營收上看 25 億美元，蔡力行：AI 投資回收仍有過渡期",
+      "link": "https://technews.tw/2026/11/07/mediatek-rick-tsai-reveals-the-truth-about-ai-investment/",
+      "summary": "AI 熱潮持續推升全球科技業資本支出，然而，近期雲端業者大量開資本支出建資料中心，市場也開始標準拉高，逐一檢視 [&#8230;]",
+      "date": "2026-11-07T01:00:01+00:00",
+      "sourceId": "technews",
+      "cats": [
+        "market",
+        "process",
+        "material"
+      ]
+    },
+    {
+      "id": "ef0816640c41",
+      "title": "美國 PNNL 導入代理式 AI，加速開發衛星與核反應爐用抗輻射晶片",
+      "link": "https://technews.tw/2026/11/07/covering-the-fastest-computers-in-the-world-and-the-people-who-run-them-14/",
+      "summary": "太空高能粒子撞擊衛星可能導致資料遺失、系統停擺，甚至偏離軌道。美國能源部太平洋西北國家實驗室（PNNL）近日宣 [&#8230;]",
+      "date": "2026-11-07T00:30:32+00:00",
+      "sourceId": "technews",
+      "cats": [
+        "market",
+        "process",
+        "material"
+      ]
+    },
+    {
       "id": "a24b4e5e46b5",
       "title": "捨重油換天然氣大降四成碳排，金聯成打造「零廢棄」產線獲晶圓代工大廠青睞",
       "link": "https://finance.technews.tw/2026/11/07/how-jlcycle-can-pivot-to-recycling-and-regenerating-used-lead-acid-batteries/",
@@ -97,58 +188,6 @@
         "process",
         "material",
         "equipment"
-      ]
-    },
-    {
-      "id": "37f1220097fc",
-      "title": "強攻 AI 與企業級市場，潘健成：群聯擺脫依賴低價庫存邁入 AI 營運收割期",
-      "link": "https://finance.technews.tw/2026/11/06/phison-breaks-free-from-reliance-on-low-priced-inventory-and-enters-a-period-of-reaping-the-benefits-of-ai-driven-operations/",
-      "summary": "快閃記憶體控制晶片大廠群聯電子（Phison）舉辦法人說明會，執行長潘健成親自回覆法人提問。面對消費性電子疲軟 [&#8230;]",
-      "date": "2026-11-06T12:50:00+00:00",
-      "sourceId": "technews",
-      "cats": [
-        "market",
-        "process",
-        "material"
-      ]
-    },
-    {
-      "id": "4edf62fc7980",
-      "title": "長江存儲第四晶圓廠本土設備力拚占比逾七成，降低美國箝制",
-      "link": "https://finance.technews.tw/2026/11/06/yangtze-memory-technologies-fourth-wafer-fab-strives-to-achieve-a-domestic-equipment-ratio-of-over-70/",
-      "summary": "根據外媒報導，中國最大快閃記憶體製造商長江存儲（YMTC）計劃將位於武漢的第四座記憶體晶圓廠之本土設備採購比例 [&#8230;]",
-      "date": "2026-11-06T12:20:38+00:00",
-      "sourceId": "technews",
-      "cats": [
-        "market",
-        "process",
-        "material"
-      ]
-    },
-    {
-      "id": "ad706fa53180",
-      "title": "矽統10月營收5.71 億元",
-      "link": "https://finance.technews.tw/2026/11/06/sis-2363-202610-financial-report/",
-      "summary": "矽統（2363）今（6）日公布 10 月營收，達 5.71 億元，較 9 月成長 43.3%，較去年同期成長 [&#8230;]",
-      "date": "2026-11-06T10:30:04+00:00",
-      "sourceId": "technews",
-      "cats": [
-        "market",
-        "process",
-        "material"
-      ]
-    },
-    {
-      "id": "3882e4e5fe8e",
-      "title": "群聯公布第三季財報與 10 月營收，營收、毛利與 EPS 均創同期歷史新高",
-      "link": "https://finance.technews.tw/2026/11/06/phison-releases-third-quarter-financial-results-and-october-revenue/",
-      "summary": "快閃記憶體控制晶片與AI運算儲存方案大廠群聯電子公布2026年第三季財務報告與10月份營收成果。受惠於AI基礎 [&#8230;]",
-      "date": "2026-11-06T09:30:56+00:00",
-      "sourceId": "technews",
-      "cats": [
-        "market",
-        "process",
-        "material"
       ]
     },
     {
