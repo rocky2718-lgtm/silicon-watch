@@ -1,6 +1,6 @@
 {
-  "updated": "2026-11-08T01:15:06.281530+00:00",
-  "count": 18,
+  "updated": "2026-11-08T08:51:23.365625+00:00",
+  "count": 16,
   "sources": [
     {
       "id": "technews",
@@ -61,6 +61,19 @@
   ],
   "articles": [
     {
+      "id": "5e949c541f91",
+      "title": "阿貢實驗室獲百倍 GPU 記憶體加持，結合全新 AI 算力開啟「自主實驗室」研究新紀元",
+      "link": "https://technews.tw/2026/11/08/argonne-national-laboratory-expands-ai-inference-computing/",
+      "summary": "美國能源部阿貢國家實驗室（Argonne National Laboratory）4 日宣布，將擴充其推論服務 [&#8230;]",
+      "date": "2026-11-08T07:00:08+00:00",
+      "sourceId": "technews",
+      "cats": [
+        "market",
+        "process",
+        "material"
+      ]
+    },
+    {
       "id": "3101636b0609",
       "title": "鎖定「超乎預期」獲利黑馬！台股年底突圍，聚焦 ABC 三大族群與半導體",
       "link": "https://finance.technews.tw/2026/11/08/unexpected-profit-dark-horses-taiwan-stocks-year-end-breakout-focus-abc-sectors-semiconductors/",
@@ -118,45 +131,6 @@
       "link": "https://finance.technews.tw/2026/11/07/winbond-believes-that-memory-demand-will-be-strong-in-2027-2028/",
       "summary": "面對美國期中選舉過後的政策變化與政治情勢，華邦電董事長焦佑鈞表示，期中選舉結果必然會對AI資料中心的建置趨勢產 [&#8230;]",
       "date": "2026-11-07T07:00:21+00:00",
-      "sourceId": "technews",
-      "cats": [
-        "market",
-        "process",
-        "material"
-      ]
-    },
-    {
-      "id": "7f8c130c9820",
-      "title": "AI 聽力照護進軍中東市場！瑞音生技 SaMD 軟體破解三大驗配痛點",
-      "link": "https://finance.technews.tw/2026/11/07/samd/",
-      "summary": "精技電腦董事長、瑞昱半導體共同創辦人暨瑞音生技董事長葉佳紋近日在成大鳳凰講座發表「從聽見，到聽得清楚-AI 如 [&#8230;]",
-      "date": "2026-11-07T03:09:56+00:00",
-      "sourceId": "technews",
-      "cats": [
-        "market",
-        "process",
-        "material"
-      ]
-    },
-    {
-      "id": "c9cff71762dc",
-      "title": "矽谷 AI 領袖「效率至上」文化與大眾經驗嚴重脫節，難打造貼近消費者的產品",
-      "link": "https://technews.tw/2026/11/07/ai-execs-may-be-too-out-of-touch-to-build-for-the-general-public/",
-      "summary": "雅虎（Yahoo）前執行長梅爾（Marissa Mayer）近日接受《紐約時報》專訪，介紹新 AI 助理 Ap [&#8230;]",
-      "date": "2026-11-07T01:30:39+00:00",
-      "sourceId": "technews",
-      "cats": [
-        "market",
-        "process",
-        "material"
-      ]
-    },
-    {
-      "id": "220288d6ab89",
-      "title": "輝達要求台積電進軍先進記憶體市場？傳組建 3D DRAM 產線解 AI 缺貨荒",
-      "link": "https://finance.technews.tw/2026/11/07/3d-dram/",
-      "summary": "隨著 AI 晶片需求持續增加，記憶體已成為影響高效能運算設備供應的重要環節，迫使輝達（NVIDIA）、蘋果開始 [&#8230;]",
-      "date": "2026-11-07T01:01:22+00:00",
       "sourceId": "technews",
       "cats": [
         "market",
