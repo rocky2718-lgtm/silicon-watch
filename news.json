@@ -1,6 +1,6 @@
 {
-  "updated": "2026-11-09T01:36:01.957846+00:00",
-  "count": 15,
+  "updated": "2026-11-09T09:35:40.434101+00:00",
+  "count": 19,
   "sources": [
     {
       "id": "technews",
@@ -61,11 +61,11 @@
   ],
   "articles": [
     {
-      "id": "cb2691f167d6",
-      "title": "AI 運算迎超省電曙光，布朗大學破解晶片微縮「死層」魔咒",
-      "link": "https://technews.tw/2026/11/09/magnetic-material-breakthrough-reduces-chip-power-consumption/",
-      "summary": "美國布朗大學研究團隊近日宣布，已找到一種方法，解決長期阻礙多鐵材料進入超低功耗電腦晶片的關鍵難題。這項成果聚焦 [&#8230;]",
-      "date": "2026-11-09T00:45:10+00:00",
+      "id": "12b33a9a345e",
+      "title": "光罩10月營收月減7.4%",
+      "link": "https://finance.technews.tw/2026/11/09/tmc-2338-202610-financial-report/",
+      "summary": "光罩（2338）公布 10 月合併營收 4.52 億元，較上（9）月成長 -7.4%，與去年同期相比為年增 4 [&#8230;]",
+      "date": "2026-11-09T09:00:02+00:00",
       "sourceId": "technews",
       "cats": [
         "market",
@@ -74,11 +74,11 @@
       ]
     },
     {
-      "id": "efd619f62abd",
-      "title": "調查：Z 世代約會意願升至 34%，但只給交友軟體 AI 功能五成信任",
-      "link": "https://technews.tw/2026/11/09/gen-z-socializing-resists-ai/",
-      "summary": "根據彭博產業研究（Bloomberg Intelligence）最新發布的調查，美國年輕人的交友意願正顯著回溫 [&#8230;]",
-      "date": "2026-11-09T00:20:06+00:00",
+      "id": "7ee36d1a3ee5",
+      "title": "黃仁勳涉遭外國情報機構鎖定公司啟動調查，輝達盤後股價挫跌",
+      "link": "https://finance.technews.tw/2026/11/09/jensen-huang-nvidia-investigation-foreign-intelligence-targeting-stock-drops/",
+      "summary": "美國人工智慧（AI）晶片大廠輝達（Nvidia）對該公司執行長黃仁勳是否成為外國情報機構的目標展開調查，使得黃 [&#8230;]",
+      "date": "2026-11-09T08:30:38+00:00",
       "sourceId": "technews",
       "cats": [
         "market",
@@ -87,11 +87,11 @@
       ]
     },
     {
-      "id": "93ed44fa466d",
-      "title": "AI 最大的阻力不是水電，是人？",
-      "link": "https://technews.tw/2026/11/09/ai-biggest-obstacle-not-power-but-humans/",
-      "summary": "過去兩年，科技巨頭為了搶占 AI 市場，幾乎陷入一場不計成本的軍備競賽。NVIDIA 的 GPU 供不應求，微 [&#8230;]",
-      "date": "2026-11-08T23:50:46+00:00",
+      "id": "6ee7c3a5ae95",
+      "title": "比貝佐斯、蓋茲更驚人！黃仁勳認婚外情，2.65 兆天價「分手費」引發關注",
+      "link": "https://technews.tw/2026/11/09/jensen-huang-affair-admission-2-58-trillion-separation-fee-shocks-more-than-bezos-gates/",
+      "summary": "輝達（NVIDIA）執行長黃仁勳（Jensen Huang）8 日發信給全體員工，承認婚外情並向家人道歉，表示 [&#8230;]",
+      "date": "2026-11-09T08:15:58+00:00",
       "sourceId": "technews",
       "cats": [
         "market",
@@ -100,11 +100,11 @@
       ]
     },
     {
-      "id": "be26f8acb6d4",
-      "title": "黃仁勳承認婚外情！輝達董事會立案獨立調查中國間諜滲透事件",
-      "link": "https://finance.technews.tw/2026/11/09/jensen-huang-admits-to-extramarital-affair/",
-      "summary": "根據 CNBC 引述《紐約時報》與《金融時報》等消息報導，半導體大廠輝達（Nvidia）創辦人兼執行長黃仁勳（ [&#8230;]",
-      "date": "2026-11-08T22:30:46+00:00",
+      "id": "9cca41d22871",
+      "title": "高容量記憶體成奢侈品，PC 配置 64GB 占比下滑 18%",
+      "link": "https://technews.tw/2026/11/09/soaring-memory-prices-drive-an-18-percent-drop-in-pcs-with-64gb-of-ram/",
+      "summary": "AI 熱潮持續吞噬全球 DRAM 供給量，橫跨 DDR4 與 DDR5 的各項頂級記憶體產品，價格已經飆上天際 [&#8230;]",
+      "date": "2026-11-09T07:39:46+00:00",
       "sourceId": "technews",
       "cats": [
         "market",
@@ -113,11 +113,63 @@
       ]
     },
     {
-      "id": "5e949c541f91",
-      "title": "阿貢實驗室獲百倍 GPU 記憶體加持，結合全新 AI 算力開啟「自主實驗室」研究新紀元",
-      "link": "https://technews.tw/2026/11/08/argonne-national-laboratory-expands-ai-inference-computing/",
-      "summary": "美國能源部阿貢國家實驗室（Argonne National Laboratory）4 日宣布，將擴充其推論服務 [&#8230;]",
-      "date": "2026-11-08T07:00:08+00:00",
+      "id": "1216c196ee9a",
+      "title": "黃仁勳婚外情牽出國安疑慮，美議員籲暫停對中供晶片",
+      "link": "https://technews.tw/2026/11/09/jensen-huang-affair-national-security-concerns-us-lawmakers-halt-chip-exports-china/",
+      "summary": "輝達（Nvidia）執行長黃仁勳承認婚外情，由於對象疑似是中國間諜，引發美國國安疑慮。美國國會議員呼籲暫停向中 [&#8230;]",
+      "date": "2026-11-09T07:10:24+00:00",
+      "sourceId": "technews",
+      "cats": [
+        "market",
+        "process",
+        "material"
+      ]
+    },
+    {
+      "id": "780e01273cec",
+      "title": "黃仁勳陷入桃色陷阱始末，中國最終目的並非取得晶片製造機密",
+      "link": "https://technews.tw/2026/11/09/the-whole-story-of-huang-renxun-falling-into-a-sex-trap/",
+      "summary": "2026 年 11 月 8 日，全球市值達 4 兆美元的晶片巨擘輝達（Nvidia）迎接了創立以來最嚴峻的治理 [&#8230;]",
+      "date": "2026-11-09T07:00:43+00:00",
+      "sourceId": "technews",
+      "cats": [
+        "market",
+        "process",
+        "material"
+      ]
+    },
+    {
+      "id": "60a11b763915",
+      "title": "美中審批卡關，輝達推動 H200 晶片銷中相關時間軸",
+      "link": "https://technews.tw/2026/11/09/nvidia-h200-chip-sales-china-us-china-approval-delays-timeline/",
+      "summary": "自 2022 年起，美國商務部基於國安等考量，陸續收緊輝達高階晶片輸中的出口管制，美國總統川普去年宣布有條件允 [&#8230;]",
+      "date": "2026-11-09T06:45:56+00:00",
+      "sourceId": "technews",
+      "cats": [
+        "market",
+        "process",
+        "material"
+      ]
+    },
+    {
+      "id": "7dbe61bc276f",
+      "title": "Diamond Foundry 200 毫米單晶鑽石晶圓問世，打造頂級散熱黑科技",
+      "link": "https://technews.tw/2026/11/09/diamond-foundry-creates-worlds-first-200mm-single-crystal-diamond-wafer/",
+      "summary": "鑽石材料公司 Diamond Foundry 宣布，已成功培育出全球首片 200 毫米（8 吋）單晶鑽石晶圓， [&#8230;]",
+      "date": "2026-11-09T06:40:33+00:00",
+      "sourceId": "technews",
+      "cats": [
+        "market",
+        "process",
+        "material"
+      ]
+    },
+    {
+      "id": "a7c3792558ef",
+      "title": "射程上看 500 公里，俄軍 Mi-28NM 攻擊直升機改打巡弋飛彈",
+      "link": "https://technews.tw/2026/11/09/russian-mi-28-can-fire-cruise-missiles-now/",
+      "summary": "俄羅斯國防部近日公布 Mi-28NM 攻擊直升機發射小型巡弋飛彈的影片，顯示俄軍正嘗試讓原本負責前線火力支援的 [&#8230;]",
+      "date": "2026-11-09T06:26:02+00:00",
       "sourceId": "technews",
       "cats": [
         "market",
