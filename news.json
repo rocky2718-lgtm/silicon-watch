@@ -1,6 +1,6 @@
 {
-  "updated": "2026-11-09T09:35:40.434101+00:00",
-  "count": 19,
+  "updated": "2026-11-09T20:37:31.732078+00:00",
+  "count": 18,
   "sources": [
     {
       "id": "technews",
@@ -61,6 +61,97 @@
   ],
   "articles": [
     {
+      "id": "facc5100df30",
+      "title": "Can Jensen Keep His Job?",
+      "link": "https://www.eetimes.com/can-jensen-keep-his-job/",
+      "summary": "Nvidia CEO admits to romantic affair with Megaspeed managing director, a known Chinese intelligence asset. The post Can Jensen Keep His Job? appeared first on EE Times.",
+      "date": "2026-11-09T19:59:12+00:00",
+      "sourceId": "eetimes",
+      "cats": [
+        "process",
+        "material",
+        "equipment"
+      ]
+    },
+    {
+      "id": "f941482cbba3",
+      "title": "Advancing Integrated Optics: Celestica & Broadcom Interview at OCP Global Summit",
+      "link": "https://www.eetimes.com/advancing-integrated-optics-celestica-broadcom-interview-at-ocp-global-summit/",
+      "summary": "Celestica and Broadcom explain how integrated optics can cut power and latency for AI data centers—watch the OCP Summit partner interview. The post Advancing Integrated Optics: Celestica &amp; Broadcom Interview at OCP Global Summit appeared first on EE Times.",
+      "date": "2026-11-09T14:20:32+00:00",
+      "sourceId": "eetimes",
+      "cats": [
+        "process",
+        "material",
+        "equipment"
+      ]
+    },
+    {
+      "id": "85e78248ab5e",
+      "title": "Powering AI Data Centers: Rethinking Energy Infrastructure for the Next Wave of AI Growth",
+      "link": "https://www.eetimes.com/powering-ai-data-centers-rethinking-energy-infrastructure-for-the-next-wave-of-ai-growth/",
+      "summary": "AI data centers need faster, resilient power; learn how microgrids, storage, and intelligent controls can ease grid constraints in this partner interview. The post Powering AI Data Centers: Rethinking Energy Infrastructure for the Next Wave of AI Growth appeared first on EE Times.",
+      "date": "2026-11-09T14:00:51+00:00",
+      "sourceId": "eetimes",
+      "cats": [
+        "process",
+        "material",
+        "equipment"
+      ]
+    },
+    {
+      "id": "f7f24b32de82",
+      "title": "Google 第八代 TPU 再添兩款，聯手 AMD 打造安全與機密推論 TPU",
+      "link": "https://technews.tw/2026/11/09/google-introduces-tpu-8tx-and-tpu-8i-max/",
+      "summary": "Google 擴充第八代 TPU（Tensor Processing Unit）產品陣容，新增 2 款 TPU [&#8230;]",
+      "date": "2026-11-09T13:00:40+00:00",
+      "sourceId": "technews",
+      "cats": [
+        "market",
+        "process",
+        "material"
+      ]
+    },
+    {
+      "id": "2005a429eaaa",
+      "title": "旺矽10月營收月增9.0%",
+      "link": "https://finance.technews.tw/2026/11/09/mpi-6223-202610-financial-report/",
+      "summary": "旺矽（6223）公布 10 月合併營收 22.32 億元，較上（9）月成長 9.0%，與去年同期相比為年增 9 [&#8230;]",
+      "date": "2026-11-09T10:20:08+00:00",
+      "sourceId": "technews",
+      "cats": [
+        "market",
+        "process",
+        "material"
+      ]
+    },
+    {
+      "id": "bdeca8331db4",
+      "title": "輝達董事會調查黃仁勳婚外情間諜案，耶魯學者估保住職銜機率五五波",
+      "link": "https://finance.technews.tw/2026/11/09/is-jensen-huangs-job-on-the-line-yales-jeffrey-sonnenfeld-estimates-its-about-a-50-50/",
+      "summary": "輝達（NVIDIA）董事會針對執行長黃仁勳與疑似中國間諜的關係展開獨立調查，耶魯大學管理學院資深副院長 Jef [&#8230;]",
+      "date": "2026-11-09T10:00:08+00:00",
+      "sourceId": "technews",
+      "cats": [
+        "market",
+        "process",
+        "material"
+      ]
+    },
+    {
+      "id": "6bc71250fbde",
+      "title": "輝達與 SK 電信等韓企簽 MOU，未回應黃仁勳爭議",
+      "link": "https://technews.tw/2026/11/09/nvidia-sk-telecom-korean-companies-mou-no-response-jensen-huang-controversy/",
+      "summary": "輝達（NVIDIA）、SK 電信及 Rebellions 三方今天在首爾簽署 NVLink Fusion 合作 [&#8230;]",
+      "date": "2026-11-09T09:50:52+00:00",
+      "sourceId": "technews",
+      "cats": [
+        "market",
+        "process",
+        "material"
+      ]
+    },
+    {
       "id": "12b33a9a345e",
       "title": "光罩10月營收月減7.4%",
       "link": "https://finance.technews.tw/2026/11/09/tmc-2338-202610-financial-report/",
@@ -87,97 +178,6 @@
       ]
     },
     {
-      "id": "6ee7c3a5ae95",
-      "title": "比貝佐斯、蓋茲更驚人！黃仁勳認婚外情，2.65 兆天價「分手費」引發關注",
-      "link": "https://technews.tw/2026/11/09/jensen-huang-affair-admission-2-58-trillion-separation-fee-shocks-more-than-bezos-gates/",
-      "summary": "輝達（NVIDIA）執行長黃仁勳（Jensen Huang）8 日發信給全體員工，承認婚外情並向家人道歉，表示 [&#8230;]",
-      "date": "2026-11-09T08:15:58+00:00",
-      "sourceId": "technews",
-      "cats": [
-        "market",
-        "process",
-        "material"
-      ]
-    },
-    {
-      "id": "9cca41d22871",
-      "title": "高容量記憶體成奢侈品，PC 配置 64GB 占比下滑 18%",
-      "link": "https://technews.tw/2026/11/09/soaring-memory-prices-drive-an-18-percent-drop-in-pcs-with-64gb-of-ram/",
-      "summary": "AI 熱潮持續吞噬全球 DRAM 供給量，橫跨 DDR4 與 DDR5 的各項頂級記憶體產品，價格已經飆上天際 [&#8230;]",
-      "date": "2026-11-09T07:39:46+00:00",
-      "sourceId": "technews",
-      "cats": [
-        "market",
-        "process",
-        "material"
-      ]
-    },
-    {
-      "id": "1216c196ee9a",
-      "title": "黃仁勳婚外情牽出國安疑慮，美議員籲暫停對中供晶片",
-      "link": "https://technews.tw/2026/11/09/jensen-huang-affair-national-security-concerns-us-lawmakers-halt-chip-exports-china/",
-      "summary": "輝達（Nvidia）執行長黃仁勳承認婚外情，由於對象疑似是中國間諜，引發美國國安疑慮。美國國會議員呼籲暫停向中 [&#8230;]",
-      "date": "2026-11-09T07:10:24+00:00",
-      "sourceId": "technews",
-      "cats": [
-        "market",
-        "process",
-        "material"
-      ]
-    },
-    {
-      "id": "780e01273cec",
-      "title": "黃仁勳陷入桃色陷阱始末，中國最終目的並非取得晶片製造機密",
-      "link": "https://technews.tw/2026/11/09/the-whole-story-of-huang-renxun-falling-into-a-sex-trap/",
-      "summary": "2026 年 11 月 8 日，全球市值達 4 兆美元的晶片巨擘輝達（Nvidia）迎接了創立以來最嚴峻的治理 [&#8230;]",
-      "date": "2026-11-09T07:00:43+00:00",
-      "sourceId": "technews",
-      "cats": [
-        "market",
-        "process",
-        "material"
-      ]
-    },
-    {
-      "id": "60a11b763915",
-      "title": "美中審批卡關，輝達推動 H200 晶片銷中相關時間軸",
-      "link": "https://technews.tw/2026/11/09/nvidia-h200-chip-sales-china-us-china-approval-delays-timeline/",
-      "summary": "自 2022 年起，美國商務部基於國安等考量，陸續收緊輝達高階晶片輸中的出口管制，美國總統川普去年宣布有條件允 [&#8230;]",
-      "date": "2026-11-09T06:45:56+00:00",
-      "sourceId": "technews",
-      "cats": [
-        "market",
-        "process",
-        "material"
-      ]
-    },
-    {
-      "id": "7dbe61bc276f",
-      "title": "Diamond Foundry 200 毫米單晶鑽石晶圓問世，打造頂級散熱黑科技",
-      "link": "https://technews.tw/2026/11/09/diamond-foundry-creates-worlds-first-200mm-single-crystal-diamond-wafer/",
-      "summary": "鑽石材料公司 Diamond Foundry 宣布，已成功培育出全球首片 200 毫米（8 吋）單晶鑽石晶圓， [&#8230;]",
-      "date": "2026-11-09T06:40:33+00:00",
-      "sourceId": "technews",
-      "cats": [
-        "market",
-        "process",
-        "material"
-      ]
-    },
-    {
-      "id": "a7c3792558ef",
-      "title": "射程上看 500 公里，俄軍 Mi-28NM 攻擊直升機改打巡弋飛彈",
-      "link": "https://technews.tw/2026/11/09/russian-mi-28-can-fire-cruise-missiles-now/",
-      "summary": "俄羅斯國防部近日公布 Mi-28NM 攻擊直升機發射小型巡弋飛彈的影片，顯示俄軍正嘗試讓原本負責前線火力支援的 [&#8230;]",
-      "date": "2026-11-09T06:26:02+00:00",
-      "sourceId": "technews",
-      "cats": [
-        "market",
-        "process",
-        "material"
-      ]
-    },
-    {
       "id": "52d0a1538929",
       "title": "Cosmic at SEMICON Europa 2026: Advancing High-Complexity Semiconductor Test Solutions",
       "link": "https://www.eetimes.com/cosmic-at-semicon-europa-2026-advancing-high-complexity-semiconductor-test-solutions/",
@@ -196,19 +196,6 @@
       "link": "https://www.eetimes.com/ibm-amd-mix-quantum-and-ai-at-u-s-national-lab/",
       "summary": "IBM, AMD, and Oak Ridge launch hybrid quantum-classical system to accelerate quantum-error correction research ahead of 2028. The post IBM, AMD Mix Quantum and AI at U.S. National Lab appeared first on EE Times.",
       "date": "2026-11-06T14:10:57+00:00",
-      "sourceId": "eetimes",
-      "cats": [
-        "process",
-        "material",
-        "equipment"
-      ]
-    },
-    {
-      "id": "085c722e687d",
-      "title": "EE Times Magazine – November 2026",
-      "link": "https://www.eetimes.com/ee-times-magazine-november-2026/",
-      "summary": "This edition of EE Times Magazine explores advances in semiconductor manufacturing and packaging, farm autonomy, and Canada’s efforts to commercialize emerging technologies. The post EE Times Magazine – November 2026 appeared first on EE Times.",
-      "date": "2026-11-05T22:30:00+00:00",
       "sourceId": "eetimes",
       "cats": [
         "process",
