@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-09T20:37:31.732078+00:00",
+  "updated": "2026-11-10T04:01:28.658234+00:00",
   "count": 18,
   "sources": [
     {
@@ -61,6 +61,84 @@
   ],
   "articles": [
     {
+      "id": "dca7b18ed03f",
+      "title": "「AI 需求未放緩」  半導體材料商 JX 金屬上修財測",
+      "link": "https://finance.technews.tw/2026/11/10/jx-metals-raises-financial-forecast/",
+      "summary": "AI 需求加持，日本半導體材料商 JX 金屬（JX Advanced Metals Corporation）上 [&#8230;]",
+      "date": "2026-11-10T04:00:42+00:00",
+      "sourceId": "technews",
+      "cats": [
+        "market",
+        "process",
+        "material"
+      ]
+    },
+    {
+      "id": "0d83443590a2",
+      "title": "受惠半導體需求帶動接單暢旺！東佑達 10 月營收年增 62.32%",
+      "link": "https://finance.technews.tw/2026/11/10/automated-key-components/",
+      "summary": "東佑達自動化今日公布 2026 年 10 月營收 2 億 4,288 萬元，年增 62.32%；累計今年前 1 [&#8230;]",
+      "date": "2026-11-10T03:19:39+00:00",
+      "sourceId": "technews",
+      "cats": [
+        "market",
+        "process",
+        "material"
+      ]
+    },
+    {
+      "id": "c12fc8ce28ea",
+      "title": "大摩指雲端半導體成長恐見頂，信驊遭調降評等至中立目標價下修 40%",
+      "link": "https://finance.technews.tw/2026/11/10/sino-huas-rating-was-downgraded-to-neutral-and-its-target-price-was-reduced-by-40/",
+      "summary": "外資摩根士丹利（Morgan Stanley，大摩）最新半導體產業報告指出，雲端半導體供應鏈面臨獲利預期上修動 [&#8230;]",
+      "date": "2026-11-10T02:45:43+00:00",
+      "sourceId": "technews",
+      "cats": [
+        "market",
+        "process",
+        "material"
+      ]
+    },
+    {
+      "id": "c26cc10da819",
+      "title": "黃仁勳婚外情掀國安疑慮，三項對中晶片法案有望過關",
+      "link": "https://technews.tw/2026/11/10/nvidia-spy-allegations-likely-to-spur-laws-to-tighten-chinas-access-to-ai-chips/",
+      "summary": "美國多名國會議員與倡議人士指出，輝達（Nvidia）執行長黃仁勳與疑似中國女間諜交往的消息曝光後，國會將更有望 [&#8230;]",
+      "date": "2026-11-10T02:35:46+00:00",
+      "sourceId": "technews",
+      "cats": [
+        "market",
+        "process",
+        "material"
+      ]
+    },
+    {
+      "id": "70cd622ce8c6",
+      "title": "黃仁勳陷婚外情與共諜風暴，外媒爆去年已悄聘「喬事級」公關操盤",
+      "link": "https://technews.tw/2026/11/10/jensen-huang-pr-affair-scandal/",
+      "summary": "輝達（NVIDIA）執行長黃仁勳日前坦承婚外情，對象更遭美方指控為中國間諜，震撼全球科技圈。根據《WIRED》 [&#8230;]",
+      "date": "2026-11-10T02:30:56+00:00",
+      "sourceId": "technews",
+      "cats": [
+        "market",
+        "process",
+        "material"
+      ]
+    },
+    {
+      "id": "43e28fca8005",
+      "title": "三星 S27 高階機型比重傳占逾七成  因應成本壓力",
+      "link": "https://technews.tw/2026/11/10/samsung-s27-high-end-models-reportedly-exceed-70-share-amid-cost-pressures/",
+      "summary": "全球記憶體供應持續吃緊，智慧型手機品牌廠商面臨成本壓力，三星電子（Samsung Electronics）傳出 [&#8230;]",
+      "date": "2026-11-10T02:15:13+00:00",
+      "sourceId": "technews",
+      "cats": [
+        "market",
+        "process",
+        "material"
+      ]
+    },
+    {
       "id": "facc5100df30",
       "title": "Can Jensen Keep His Job?",
       "link": "https://www.eetimes.com/can-jensen-keep-his-job/",
@@ -97,84 +175,6 @@
         "process",
         "material",
         "equipment"
-      ]
-    },
-    {
-      "id": "f7f24b32de82",
-      "title": "Google 第八代 TPU 再添兩款，聯手 AMD 打造安全與機密推論 TPU",
-      "link": "https://technews.tw/2026/11/09/google-introduces-tpu-8tx-and-tpu-8i-max/",
-      "summary": "Google 擴充第八代 TPU（Tensor Processing Unit）產品陣容，新增 2 款 TPU [&#8230;]",
-      "date": "2026-11-09T13:00:40+00:00",
-      "sourceId": "technews",
-      "cats": [
-        "market",
-        "process",
-        "material"
-      ]
-    },
-    {
-      "id": "2005a429eaaa",
-      "title": "旺矽10月營收月增9.0%",
-      "link": "https://finance.technews.tw/2026/11/09/mpi-6223-202610-financial-report/",
-      "summary": "旺矽（6223）公布 10 月合併營收 22.32 億元，較上（9）月成長 9.0%，與去年同期相比為年增 9 [&#8230;]",
-      "date": "2026-11-09T10:20:08+00:00",
-      "sourceId": "technews",
-      "cats": [
-        "market",
-        "process",
-        "material"
-      ]
-    },
-    {
-      "id": "bdeca8331db4",
-      "title": "輝達董事會調查黃仁勳婚外情間諜案，耶魯學者估保住職銜機率五五波",
-      "link": "https://finance.technews.tw/2026/11/09/is-jensen-huangs-job-on-the-line-yales-jeffrey-sonnenfeld-estimates-its-about-a-50-50/",
-      "summary": "輝達（NVIDIA）董事會針對執行長黃仁勳與疑似中國間諜的關係展開獨立調查，耶魯大學管理學院資深副院長 Jef [&#8230;]",
-      "date": "2026-11-09T10:00:08+00:00",
-      "sourceId": "technews",
-      "cats": [
-        "market",
-        "process",
-        "material"
-      ]
-    },
-    {
-      "id": "6bc71250fbde",
-      "title": "輝達與 SK 電信等韓企簽 MOU，未回應黃仁勳爭議",
-      "link": "https://technews.tw/2026/11/09/nvidia-sk-telecom-korean-companies-mou-no-response-jensen-huang-controversy/",
-      "summary": "輝達（NVIDIA）、SK 電信及 Rebellions 三方今天在首爾簽署 NVLink Fusion 合作 [&#8230;]",
-      "date": "2026-11-09T09:50:52+00:00",
-      "sourceId": "technews",
-      "cats": [
-        "market",
-        "process",
-        "material"
-      ]
-    },
-    {
-      "id": "12b33a9a345e",
-      "title": "光罩10月營收月減7.4%",
-      "link": "https://finance.technews.tw/2026/11/09/tmc-2338-202610-financial-report/",
-      "summary": "光罩（2338）公布 10 月合併營收 4.52 億元，較上（9）月成長 -7.4%，與去年同期相比為年增 4 [&#8230;]",
-      "date": "2026-11-09T09:00:02+00:00",
-      "sourceId": "technews",
-      "cats": [
-        "market",
-        "process",
-        "material"
-      ]
-    },
-    {
-      "id": "7ee36d1a3ee5",
-      "title": "黃仁勳涉遭外國情報機構鎖定公司啟動調查，輝達盤後股價挫跌",
-      "link": "https://finance.technews.tw/2026/11/09/jensen-huang-nvidia-investigation-foreign-intelligence-targeting-stock-drops/",
-      "summary": "美國人工智慧（AI）晶片大廠輝達（Nvidia）對該公司執行長黃仁勳是否成為外國情報機構的目標展開調查，使得黃 [&#8230;]",
-      "date": "2026-11-09T08:30:38+00:00",
-      "sourceId": "technews",
-      "cats": [
-        "market",
-        "process",
-        "material"
       ]
     },
     {
