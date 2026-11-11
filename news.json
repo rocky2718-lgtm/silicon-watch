@@ -1,6 +1,6 @@
 {
-  "updated": "2026-11-11T01:48:35.261637+00:00",
-  "count": 22,
+  "updated": "2026-11-11T09:11:40.940053+00:00",
+  "count": 16,
   "sources": [
     {
       "id": "technews",
@@ -61,11 +61,11 @@
   ],
   "articles": [
     {
-      "id": "30d1c85d0697",
-      "title": "AMD 發表 MEXT 快閃記憶體技術，砍半 DRAM 仍保有近原有效能",
-      "link": "https://technews.tw/2026/11/11/amd-announces-mext-flash-memory-technology/",
-      "summary": "面對當前資料中心嚴峻的記憶體超級週期與供需失衡，超微（AMD）正式發表名為「MEXT」的全新記憶體解決方案。該 [&#8230;]",
-      "date": "2026-11-11T01:45:47+00:00",
+      "id": "bf9d4d2461e2",
+      "title": "共軍背景陸校採購輝達 H200 晶片，名列美黑名單仍得手",
+      "link": "https://technews.tw/2026/11/11/pla-linked-chinese-university-bought-nvidia-h200-chips-despite-us-blacklist/",
+      "summary": "採購紀錄顯示，與中國人民解放軍關係深厚的西北工業大學，儘管已被列入美國出口黑名單，上個月仍購得輝達強大的 H2 [&#8230;]",
+      "date": "2026-11-11T08:40:05+00:00",
       "sourceId": "technews",
       "cats": [
         "market",
@@ -74,11 +74,11 @@
       ]
     },
     {
-      "id": "eba795a62806",
-      "title": "三星電子確立研發計畫，預計 2027 年初完成先進封裝 3D Cube-H 技術開發",
-      "link": "https://technews.tw/2026/11/11/the-development-of-the-advanced-packaging-technology-3d-cube-h-is-expected-to-be-completed-in-early-2027/",
-      "summary": "韓國媒體報導，三星電子已確立研發計畫，預計將於 2027 年初完成先進封裝技術「3D Cube-H」的開發。該 [&#8230;]",
-      "date": "2026-11-11T01:30:49+00:00",
+      "id": "e99b25ce9bae",
+      "title": "黃仁勳外遇恐遭勒索，美共和黨資深議員籲下台",
+      "link": "https://technews.tw/2026/11/11/kevin-cramer-calls-for-jensen-huang-to-resign/",
+      "summary": "美國人工智慧（AI）晶片巨擘輝達執行長黃仁勳爆出與一名中國女商人有婚外情，外傳女方是北京間諜，美國聯邦參議院銀 [&#8230;]",
+      "date": "2026-11-11T07:50:08+00:00",
       "sourceId": "technews",
       "cats": [
         "market",
@@ -87,11 +87,11 @@
       ]
     },
     {
-      "id": "00fed9d5f411",
-      "title": "美媒：黃仁勳婚外情關係，助 75 億美元輝達晶片銷往中國",
-      "link": "https://technews.tw/2026/11/11/us-media-jensen-huang-affair-aided-7-5-billion-nvidia-chip-sales-china/",
-      "summary": "美國科技媒體 The Information 10 日報導，輝達執行長黃仁勳與疑似是中國間諜的中國籍女商人黃樂 [&#8230;]",
-      "date": "2026-11-11T01:20:46+00:00",
+      "id": "66810d3089a2",
+      "title": "整機庫存堆高，部分 PC OEM 調整 2027 年記憶體採購策略",
+      "link": "https://technews.tw/2026/11/11/pc-inventory-piles-high-oems-adjust-2027-memory-procurement-strategy/",
+      "summary": "根據 TrendForce 最新記憶體產業研究，記憶體價格上漲超過一年，消費性電子產業成本壓力與日俱增。其中， [&#8230;]",
+      "date": "2026-11-11T07:25:30+00:00",
       "sourceId": "technews",
       "cats": [
         "market",
@@ -100,11 +100,11 @@
       ]
     },
     {
-      "id": "ae29d771edbd",
-      "title": "黃仁勳摔出富豪前十  輝達本益比崩、木頭姊抄底",
-      "link": "https://finance.technews.tw/2026/11/11/nvidia-ceo-huang-gets-more-bad-news-cathie-wood-keeps-the-faith/",
-      "summary": "輝達（Nvidia）執行長黃仁勳（Jensen Huang）身陷婚外情及疑似中國情報滲透調查風波，不僅讓他身價 [&#8230;]",
-      "date": "2026-11-11T01:10:13+00:00",
+      "id": "c14edc39cb35",
+      "title": "AI 熱潮搶排產能，安世與意法半導體雙雙示警：汽車業恐迎新一波晶片短缺",
+      "link": "https://technews.tw/2026/11/11/ai-boom-sparks-automotive-chip-surge/",
+      "summary": "隨著半導體晶圓代工與封裝產能大量轉向 AI 資料中心，全球汽車產業恐將再次面臨晶片短缺危機。荷蘭安世半導體（N [&#8230;]",
+      "date": "2026-11-11T06:50:06+00:00",
       "sourceId": "technews",
       "cats": [
         "market",
@@ -113,50 +113,11 @@
       ]
     },
     {
-      "id": "7595ea5e4336",
-      "title": "記憶體很少真的壞掉，先讓它退役的往往是效能瓶頸",
-      "link": "https://ccc.technews.tw/2026/11/11/computer-memory-lifespan-upgrade-analysis/",
-      "summary": "隨著電腦零組件不斷推陳出新，加上記憶體價格與市場需求節節攀升，RAM 的「使用壽命」再度成為玩家與一般使用者的 [&#8230;]",
-      "date": "2026-11-11T00:10:35+00:00",
-      "sourceId": "technews",
-      "cats": [
-        "market",
-        "process",
-        "material"
-      ]
-    },
-    {
-      "id": "c1a80d230e82",
-      "title": "AI 資料中心邁向光電融合時代，日本 NTT 布局光學小晶片搶攻下波半導體商機",
-      "link": "https://technews.tw/2026/11/11/accelerating-development-of-mass-production-technologies-for-photonics-electronics-convergence-devices-to-support-next-generation-ai-computing/",
-      "summary": "人工智慧運算需求急速成長，全球資料中心運算量大幅增加，但也讓傳統以銅線傳遞電子訊號的傳輸方式，限制 AI 伺服 [&#8230;]",
-      "date": "2026-11-11T00:00:23+00:00",
-      "sourceId": "technews",
-      "cats": [
-        "market",
-        "process",
-        "material"
-      ]
-    },
-    {
-      "id": "6bed5b5c78b0",
-      "title": "淺談 AMD 營收首次超車英特爾：AI 定勝負",
-      "link": "https://technews.tw/2026/11/11/amd-revenue-surpasses-intel-first-time-ai-determines-outcome/",
-      "summary": "如果 20 年前有人說，AMD 營收有一天會超越英特爾，大概會當成笑話。畢竟過去數十年的 PC 市場，英特爾始 [&#8230;]",
-      "date": "2026-11-10T23:50:01+00:00",
-      "sourceId": "technews",
-      "cats": [
-        "market",
-        "process",
-        "material"
-      ]
-    },
-    {
-      "id": "67361c7bca39",
-      "title": "SpaceX 與高通簽署長期合作協議，採 5G 基地台解決方案",
-      "link": "https://technews.tw/2026/11/11/spacex-qualcomm-5g-base-station/",
-      "summary": "11 月 SpaceX 宣布與高通（Qualcomm）簽署為期數年的供應合約，SpaceX 基地台會大量搭載 [&#8230;]",
-      "date": "2026-11-10T23:00:06+00:00",
+      "id": "d0ede5bfecdf",
+      "title": "坦承婚外情後返辦公室開會，黃仁勳力圖展現一切照常",
+      "link": "https://infosecu.technews.tw/2026/11/11/jensen-huang-returns-office-meetings-after-admitting-affair-strives-show-business-as-usual/",
+      "summary": "輝達（Nvidia）執行長黃仁勳 8 日向員工坦承有婚外情。知情人士說，黃仁勳 9 日走進輝達位於加州聖克拉拉 [&#8230;]",
+      "date": "2026-11-11T06:05:37+00:00",
       "sourceId": "technews",
       "cats": [
         "market",
@@ -175,32 +136,6 @@
         "process",
         "material",
         "equipment"
-      ]
-    },
-    {
-      "id": "5c0b2f633756",
-      "title": "聯發科 10 月營收年增 5.8% 達 550.25 億元，前 10 個月營收年增 5.35%",
-      "link": "https://finance.technews.tw/2026/11/10/mediateks-october-revenue-increased-by-5-8-year-on-year/",
-      "summary": "IC 設計大廠聯發科公告 10 月營收，金額為 550.25 億元，月減 0.7%、年增 5.8%。累計，前 [&#8230;]",
-      "date": "2026-11-10T12:30:09+00:00",
-      "sourceId": "technews",
-      "cats": [
-        "market",
-        "process",
-        "material"
-      ]
-    },
-    {
-      "id": "d1106360f7ae",
-      "title": "台積電賺大錢，決議第三季股利調升到 9 元，另認購 Anthropic 與 OpenAI 股份",
-      "link": "https://finance.technews.tw/2026/11/10/tsmcs-third-quarter-cash-dividend-reached-nt9/",
-      "summary": "台積電召開董事會，會中通過多項重大決議，其中最受市場矚目的焦點為核准配發 2026 年第三季每股現金股利達 9 [&#8230;]",
-      "date": "2026-11-10T12:15:15+00:00",
-      "sourceId": "technews",
-      "cats": [
-        "market",
-        "process",
-        "material"
       ]
     },
     {
@@ -235,19 +170,6 @@
       "link": "https://www.eetimes.com/advancing-integrated-optics-celestica-broadcom-interview-at-ocp-global-summit/",
       "summary": "Celestica and Broadcom explain how integrated optics can cut power and latency for AI data centers—watch the OCP Summit partner interview. The post Advancing Integrated Optics: Celestica &amp; Broadcom Interview at OCP Global Summit appeared first on EE Times.",
       "date": "2026-11-09T14:20:32+00:00",
-      "sourceId": "eetimes",
-      "cats": [
-        "process",
-        "material",
-        "equipment"
-      ]
-    },
-    {
-      "id": "85e78248ab5e",
-      "title": "Powering AI Data Centers: Rethinking Energy Infrastructure for the Next Wave of AI Growth",
-      "link": "https://www.eetimes.com/powering-ai-data-centers-rethinking-energy-infrastructure-for-the-next-wave-of-ai-growth/",
-      "summary": "AI data centers need faster, resilient power; learn how microgrids, storage, and intelligent controls can ease grid constraints in this partner interview. The post Powering AI Data Centers: Rethinking Energy Infrastructure for the Next Wave of AI Growth appeared first on EE Times.",
-      "date": "2026-11-09T14:00:51+00:00",
       "sourceId": "eetimes",
       "cats": [
         "process",
