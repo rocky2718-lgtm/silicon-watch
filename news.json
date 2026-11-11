@@ -1,6 +1,6 @@
 {
-  "updated": "2026-11-11T09:11:40.940053+00:00",
-  "count": 16,
+  "updated": "2026-11-11T17:49:49.082086+00:00",
+  "count": 14,
   "sources": [
     {
       "id": "technews",
@@ -61,6 +61,19 @@
   ],
   "articles": [
     {
+      "id": "07cc81084f68",
+      "title": "Meta 推出輕量級模型 Muse Ember，低成本處理 Agent 重複任務",
+      "link": "https://technews.tw/2026/11/11/muse-introduces-muse-ember/",
+      "summary": "Meta 旗下 Meta 超級智慧實驗室（Meta Superintelligence Labs，MSL）推出 [&#8230;]",
+      "date": "2026-11-11T09:24:26+00:00",
+      "sourceId": "technews",
+      "cats": [
+        "market",
+        "process",
+        "material"
+      ]
+    },
+    {
       "id": "bf9d4d2461e2",
       "title": "共軍背景陸校採購輝達 H200 晶片，名列美黑名單仍得手",
       "link": "https://technews.tw/2026/11/11/pla-linked-chinese-university-bought-nvidia-h200-chips-despite-us-blacklist/",
@@ -113,19 +126,6 @@
       ]
     },
     {
-      "id": "d0ede5bfecdf",
-      "title": "坦承婚外情後返辦公室開會，黃仁勳力圖展現一切照常",
-      "link": "https://infosecu.technews.tw/2026/11/11/jensen-huang-returns-office-meetings-after-admitting-affair-strives-show-business-as-usual/",
-      "summary": "輝達（Nvidia）執行長黃仁勳 8 日向員工坦承有婚外情。知情人士說，黃仁勳 9 日走進輝達位於加州聖克拉拉 [&#8230;]",
-      "date": "2026-11-11T06:05:37+00:00",
-      "sourceId": "technews",
-      "cats": [
-        "market",
-        "process",
-        "material"
-      ]
-    },
-    {
       "id": "c3a83b68b76d",
       "title": "Saskatchewan’s Semiconductor Strength Is Connecting the Pieces",
       "link": "https://www.eetimes.com/saskatchewans-semiconductor-strength-is-connecting-the-pieces/",
@@ -144,32 +144,6 @@
       "link": "https://www.eetimes.com/we-source-chips-others-cannot-secure-2026/",
       "summary": "Chang Ming delivers scarce semiconductors, with rigorous 9-step quality inspection &#038; global supply chain support for European &#038; American electronics buyers. The post We Source Chips Others Cannot Secure, 2026 appeared first on EE Times.",
       "date": "2026-11-10T07:48:14+00:00",
-      "sourceId": "eetimes",
-      "cats": [
-        "process",
-        "material",
-        "equipment"
-      ]
-    },
-    {
-      "id": "facc5100df30",
-      "title": "Can Jensen Keep His Job?",
-      "link": "https://www.eetimes.com/can-jensen-keep-his-job/",
-      "summary": "Nvidia CEO admits to romantic affair with Megaspeed managing director, a known Chinese intelligence asset. The post Can Jensen Keep His Job? appeared first on EE Times.",
-      "date": "2026-11-09T19:59:12+00:00",
-      "sourceId": "eetimes",
-      "cats": [
-        "process",
-        "material",
-        "equipment"
-      ]
-    },
-    {
-      "id": "f941482cbba3",
-      "title": "Advancing Integrated Optics: Celestica & Broadcom Interview at OCP Global Summit",
-      "link": "https://www.eetimes.com/advancing-integrated-optics-celestica-broadcom-interview-at-ocp-global-summit/",
-      "summary": "Celestica and Broadcom explain how integrated optics can cut power and latency for AI data centers—watch the OCP Summit partner interview. The post Advancing Integrated Optics: Celestica &amp; Broadcom Interview at OCP Global Summit appeared first on EE Times.",
-      "date": "2026-11-09T14:20:32+00:00",
       "sourceId": "eetimes",
       "cats": [
         "process",
