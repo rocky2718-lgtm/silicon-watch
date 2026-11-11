@@ -1,6 +1,6 @@
 {
-  "updated": "2026-11-10T21:44:53.729438+00:00",
-  "count": 19,
+  "updated": "2026-11-11T01:48:35.261637+00:00",
+  "count": 22,
   "sources": [
     {
       "id": "technews",
@@ -61,6 +61,110 @@
   ],
   "articles": [
     {
+      "id": "30d1c85d0697",
+      "title": "AMD 發表 MEXT 快閃記憶體技術，砍半 DRAM 仍保有近原有效能",
+      "link": "https://technews.tw/2026/11/11/amd-announces-mext-flash-memory-technology/",
+      "summary": "面對當前資料中心嚴峻的記憶體超級週期與供需失衡，超微（AMD）正式發表名為「MEXT」的全新記憶體解決方案。該 [&#8230;]",
+      "date": "2026-11-11T01:45:47+00:00",
+      "sourceId": "technews",
+      "cats": [
+        "market",
+        "process",
+        "material"
+      ]
+    },
+    {
+      "id": "eba795a62806",
+      "title": "三星電子確立研發計畫，預計 2027 年初完成先進封裝 3D Cube-H 技術開發",
+      "link": "https://technews.tw/2026/11/11/the-development-of-the-advanced-packaging-technology-3d-cube-h-is-expected-to-be-completed-in-early-2027/",
+      "summary": "韓國媒體報導，三星電子已確立研發計畫，預計將於 2027 年初完成先進封裝技術「3D Cube-H」的開發。該 [&#8230;]",
+      "date": "2026-11-11T01:30:49+00:00",
+      "sourceId": "technews",
+      "cats": [
+        "market",
+        "process",
+        "material"
+      ]
+    },
+    {
+      "id": "00fed9d5f411",
+      "title": "美媒：黃仁勳婚外情關係，助 75 億美元輝達晶片銷往中國",
+      "link": "https://technews.tw/2026/11/11/us-media-jensen-huang-affair-aided-7-5-billion-nvidia-chip-sales-china/",
+      "summary": "美國科技媒體 The Information 10 日報導，輝達執行長黃仁勳與疑似是中國間諜的中國籍女商人黃樂 [&#8230;]",
+      "date": "2026-11-11T01:20:46+00:00",
+      "sourceId": "technews",
+      "cats": [
+        "market",
+        "process",
+        "material"
+      ]
+    },
+    {
+      "id": "ae29d771edbd",
+      "title": "黃仁勳摔出富豪前十  輝達本益比崩、木頭姊抄底",
+      "link": "https://finance.technews.tw/2026/11/11/nvidia-ceo-huang-gets-more-bad-news-cathie-wood-keeps-the-faith/",
+      "summary": "輝達（Nvidia）執行長黃仁勳（Jensen Huang）身陷婚外情及疑似中國情報滲透調查風波，不僅讓他身價 [&#8230;]",
+      "date": "2026-11-11T01:10:13+00:00",
+      "sourceId": "technews",
+      "cats": [
+        "market",
+        "process",
+        "material"
+      ]
+    },
+    {
+      "id": "7595ea5e4336",
+      "title": "記憶體很少真的壞掉，先讓它退役的往往是效能瓶頸",
+      "link": "https://ccc.technews.tw/2026/11/11/computer-memory-lifespan-upgrade-analysis/",
+      "summary": "隨著電腦零組件不斷推陳出新，加上記憶體價格與市場需求節節攀升，RAM 的「使用壽命」再度成為玩家與一般使用者的 [&#8230;]",
+      "date": "2026-11-11T00:10:35+00:00",
+      "sourceId": "technews",
+      "cats": [
+        "market",
+        "process",
+        "material"
+      ]
+    },
+    {
+      "id": "c1a80d230e82",
+      "title": "AI 資料中心邁向光電融合時代，日本 NTT 布局光學小晶片搶攻下波半導體商機",
+      "link": "https://technews.tw/2026/11/11/accelerating-development-of-mass-production-technologies-for-photonics-electronics-convergence-devices-to-support-next-generation-ai-computing/",
+      "summary": "人工智慧運算需求急速成長，全球資料中心運算量大幅增加，但也讓傳統以銅線傳遞電子訊號的傳輸方式，限制 AI 伺服 [&#8230;]",
+      "date": "2026-11-11T00:00:23+00:00",
+      "sourceId": "technews",
+      "cats": [
+        "market",
+        "process",
+        "material"
+      ]
+    },
+    {
+      "id": "6bed5b5c78b0",
+      "title": "淺談 AMD 營收首次超車英特爾：AI 定勝負",
+      "link": "https://technews.tw/2026/11/11/amd-revenue-surpasses-intel-first-time-ai-determines-outcome/",
+      "summary": "如果 20 年前有人說，AMD 營收有一天會超越英特爾，大概會當成笑話。畢竟過去數十年的 PC 市場，英特爾始 [&#8230;]",
+      "date": "2026-11-10T23:50:01+00:00",
+      "sourceId": "technews",
+      "cats": [
+        "market",
+        "process",
+        "material"
+      ]
+    },
+    {
+      "id": "67361c7bca39",
+      "title": "SpaceX 與高通簽署長期合作協議，採 5G 基地台解決方案",
+      "link": "https://technews.tw/2026/11/11/spacex-qualcomm-5g-base-station/",
+      "summary": "11 月 SpaceX 宣布與高通（Qualcomm）簽署為期數年的供應合約，SpaceX 基地台會大量搭載 [&#8230;]",
+      "date": "2026-11-10T23:00:06+00:00",
+      "sourceId": "technews",
+      "cats": [
+        "market",
+        "process",
+        "material"
+      ]
+    },
+    {
       "id": "c3a83b68b76d",
       "title": "Saskatchewan’s Semiconductor Strength Is Connecting the Pieces",
       "link": "https://www.eetimes.com/saskatchewans-semiconductor-strength-is-connecting-the-pieces/",
@@ -77,7 +181,7 @@
       "id": "5c0b2f633756",
       "title": "聯發科 10 月營收年增 5.8% 達 550.25 億元，前 10 個月營收年增 5.35%",
       "link": "https://finance.technews.tw/2026/11/10/mediateks-october-revenue-increased-by-5-8-year-on-year/",
-      "summary": "IC設計大廠聯發科公告10月營收，金額為550.25億元，月減0.7%、年增5.8%。累計，前10個月營收5, [&#8230;]",
+      "summary": "IC 設計大廠聯發科公告 10 月營收，金額為 550.25 億元，月減 0.7%、年增 5.8%。累計，前 [&#8230;]",
       "date": "2026-11-10T12:30:09+00:00",
       "sourceId": "technews",
       "cats": [
@@ -90,73 +194,8 @@
       "id": "d1106360f7ae",
       "title": "台積電賺大錢，決議第三季股利調升到 9 元，另認購 Anthropic 與 OpenAI 股份",
       "link": "https://finance.technews.tw/2026/11/10/tsmcs-third-quarter-cash-dividend-reached-nt9/",
-      "summary": "台積電召開董事會，會中通過多項重大決議，其中最受市場矚目的焦點為核准配發2026年第三季每股現金股利達9元，展 [&#8230;]",
+      "summary": "台積電召開董事會，會中通過多項重大決議，其中最受市場矚目的焦點為核准配發 2026 年第三季每股現金股利達 9 [&#8230;]",
       "date": "2026-11-10T12:15:15+00:00",
-      "sourceId": "technews",
-      "cats": [
-        "market",
-        "process",
-        "material"
-      ]
-    },
-    {
-      "id": "b1efc21e1332",
-      "title": "高啟全：台積電不會跨入 DRAM 製造，中國 DRAM 擴廠驚人 2 年時間產能開出",
-      "link": "https://finance.technews.tw/2026/11/10/tsmc-will-not-enter-dram-manufacturing/",
-      "summary": "半導體記憶體產業迎來新一輪技術與地緣角力，兆捷科技董事長高啟全表示，外界傳言台積電擬跨足記憶體製造或開發 3D [&#8230;]",
-      "date": "2026-11-10T09:15:14+00:00",
-      "sourceId": "technews",
-      "cats": [
-        "market",
-        "process",
-        "material"
-      ]
-    },
-    {
-      "id": "10aa73b5a506",
-      "title": "強茂 10 月營收成長年增逾三成，SiC MOSFET 搶攻日本車用市場",
-      "link": "https://technews.tw/2026/11/10/panjit-october-revenue-surges-30-yoy-sic-mosfets-target-japan-automotive-market/",
-      "summary": "功率半導體廠強茂受惠客戶拉貨需求回升，10 月營收達 13.68 億元，年增 33.23%，累計前 10 月營 [&#8230;]",
-      "date": "2026-11-10T09:11:10+00:00",
-      "sourceId": "technews",
-      "cats": [
-        "market",
-        "process",
-        "material"
-      ]
-    },
-    {
-      "id": "399a17fa6def",
-      "title": "聯發科10月營收550.26 億元",
-      "link": "https://finance.technews.tw/2026/11/10/mtk-2454-202610-financial-report/",
-      "summary": "聯發科（2454）今（10）日公布 10 月營收，達 550.26 億元，較 9 月成長 -0.7%，較去年同 [&#8230;]",
-      "date": "2026-11-10T09:10:03+00:00",
-      "sourceId": "technews",
-      "cats": [
-        "market",
-        "process",
-        "material"
-      ]
-    },
-    {
-      "id": "ac494ab15e9e",
-      "title": "中國使用輝達 AI 晶片，走私與租用東南亞資料中心算力成兩大途徑",
-      "link": "https://technews.tw/2026/11/10/china-nvidia-ai-chip-access-smuggling-renting-southeast-asia-data-center-compute-power-methods/",
-      "summary": "輝達執行長黃仁勳近日承認有婚外情，據報對象是一家新加坡公司的中國籍高層。美方懷疑，該公司將輝達人工智慧晶片走私 [&#8230;]",
-      "date": "2026-11-10T08:50:22+00:00",
-      "sourceId": "technews",
-      "cats": [
-        "market",
-        "process",
-        "material"
-      ]
-    },
-    {
-      "id": "99aa373103b0",
-      "title": "黃仁勳婚外情掀國安疑慮，中國學者：美對中 AI 晶片出口恐收緊",
-      "link": "https://technews.tw/2026/11/10/jensen-huang-extramarital-affair-national-security-concerns-china-us-ai-chip-exports-tighten/",
-      "summary": "輝達（Nvidia）執行長黃仁勳坦承與一名疑似中國女間諜有婚外情，引發美國國安疑慮。港媒星島日報引述中國學者分 [&#8230;]",
-      "date": "2026-11-10T08:40:19+00:00",
       "sourceId": "technews",
       "cats": [
         "market",
