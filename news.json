@@ -1,6 +1,6 @@
 {
-  "updated": "2026-11-12T00:27:45.230071+00:00",
-  "count": 18,
+  "updated": "2026-11-12T09:40:02.881566+00:00",
+  "count": 26,
   "sources": [
     {
       "id": "technews",
@@ -61,11 +61,11 @@
   ],
   "articles": [
     {
-      "id": "81ecc192884a",
-      "title": "黃仁勳爭議牽動東南亞晶片供應鏈監管，泰專家：資料中心受考驗",
-      "link": "https://technews.tw/2026/11/12/jensen-huang-controversy-affects-southeast-asia-chip-supply-chain-regulation-thai-experts-warn-data-centers-face-challenges/",
-      "summary": "黃仁勳婚外情讓輝達晶片經東南亞輸入中國的疑雲浮上檯面。泰國 AI 專家表示，美國可能因此加強監控東南亞繪圖處理 [&#8230;]",
-      "date": "2026-11-12T00:20:38+00:00",
+      "id": "adbdf6b31cc5",
+      "title": "美光勞資爭議 》 桃園工會爭取分潤失利退出協商，美光聲明絕無打壓工會",
+      "link": "https://finance.technews.tw/2026/11/12/micron-labor-dispute/",
+      "summary": "美商記憶體大廠美光科技（Micron）在台勞資協商出現重大轉折，美光桃園工會12日發布致會員與社會大眾的公開信 [&#8230;]",
+      "date": "2026-11-12T09:00:45+00:00",
       "sourceId": "technews",
       "cats": [
         "market",
@@ -74,11 +74,24 @@
       ]
     },
     {
-      "id": "5dc6d364bee2",
-      "title": "侯永清提出使用 AI 三心法，以防企業面臨 AI 失控狀態",
-      "link": "https://technews.tw/2026/11/12/use-the-three-core-principles-of-ai-to-prevent-enterprises-from-facing-a-state-of-ai-out-of-control/",
-      "summary": "面對全球人工智慧（AI）浪潮，台積電資深副總經理暨副共同營運長侯永清在工業總會發表演講時指出，AI 發展已是不 [&#8230;]",
-      "date": "2026-11-12T00:00:13+00:00",
+      "id": "d5a0c5caae7f",
+      "title": "Harari Warns Tech Leaders Against Pursuing AI Superintelligence",
+      "link": "https://www.eetimes.com/harari-warns-tech-leaders-against-pursuing-ai-superintelligence/",
+      "summary": "At Gartner IT Symposium/Xpo 2026, philosopher Yuval Noah Harari makes an appeal to delay artificial superintelligence as it threatens to erode human agency and democratic sovereignty. The post Harari Warns Tech Leaders Against Pursuing AI Superintelligence appeared first on EE Times.",
+      "date": "2026-11-12T08:30:00+00:00",
+      "sourceId": "eetimes",
+      "cats": [
+        "process",
+        "material",
+        "equipment"
+      ]
+    },
+    {
+      "id": "d6dede2bb5ea",
+      "title": "郭明錤：輝達宜階段性降對黃仁勳依賴、布局接班計畫",
+      "link": "https://finance.technews.tw/2026/11/12/ming-chi-kuo-jensen-huang/",
+      "summary": "綜合港媒及中媒報導，針對輝達（Nvidia）執行長黃仁勳（Jensen Huang）捲入婚外情風波，天風國際證 [&#8230;]",
+      "date": "2026-11-12T08:15:10+00:00",
       "sourceId": "technews",
       "cats": [
         "market",
@@ -87,11 +100,11 @@
       ]
     },
     {
-      "id": "4a02d7de2e55",
-      "title": "侯永清論台灣半導體布局，技術領先不可妥協、攜手搶攻先進封裝設備",
-      "link": "https://technews.tw/2026/11/12/taiwans-semiconductor-strategy-prioritizes-technological-leadership-and-cannot-be-compromised/",
-      "summary": "在人工智慧（AI）席捲全球之際，半導體產業迎來爆發性成長。台積電資深副總經理暨副共同營運長侯永清日前於全國工業 [&#8230;]",
-      "date": "2026-11-11T23:45:26+00:00",
+      "id": "448c8f6ef03a",
+      "title": "黃仁勳桃色醜聞重擊晶片灰色產業鏈，中國黑市 GB200 晶片暴漲達百萬人民幣",
+      "link": "https://technews.tw/2026/11/12/jensen-huangs-sex-scandal-severely-impacts-the-gray-industry-chain-of-chip-exports/",
+      "summary": "輝達（Nvidia）執行長黃仁勳坦承存在婚外情之後，這起涉及中共國安部情報滲透、東南亞 48 億美元算力走私通 [&#8230;]",
+      "date": "2026-11-12T07:45:57+00:00",
       "sourceId": "technews",
       "cats": [
         "market",
@@ -100,11 +113,11 @@
       ]
     },
     {
-      "id": "23066ece8673",
-      "title": "美國家實驗室攜手新創 Diamond Quanta，以雷射技術突圍「鑽石晶片」量產瓶頸",
-      "link": "https://technews.tw/2026/11/12/us-labs-startups-accelerate-diamond-chip-mass-production/",
-      "summary": "美國勞倫斯利佛摩國家實驗室（LLNL）10 日宣布，已透過一項全新的「合作研究與開發協議」（CRADA），正式 [&#8230;]",
-      "date": "2026-11-11T23:40:18+00:00",
+      "id": "1113a612ad5f",
+      "title": "黃仁勳醜聞引發管制疑慮，中國 AI 業者搶租海外輝達晶片算力",
+      "link": "https://technews.tw/2026/11/12/jensen-huang-scandal-raises-regulatory-concerns-chinese-ai-firms-rush-to-lease-overseas-nvidia-computing-power/",
+      "summary": "知情人士表示，中國 AI 企業正試圖租用中國境外資料中心、採用輝達晶片的算力資源，因為它們擔心輝達執行長黃仁勳 [&#8230;]",
+      "date": "2026-11-12T07:40:50+00:00",
       "sourceId": "technews",
       "cats": [
         "market",
@@ -113,11 +126,11 @@
       ]
     },
     {
-      "id": "a028371863ff",
-      "title": "桃色風暴延燒！美國會多位議員要求黃仁勳請辭並強制出席聽證會",
-      "link": "https://technews.tw/2026/11/12/several-members-of-the-u-s-congress-have-called-for-huang-jen-hsun-to-resign/",
-      "summary": "輝達（Nvidia）創辦人兼執行長黃仁勳日前承認與一名遭指控為中國間諜的女性發生婚外情，引發華府政壇強烈震動與 [&#8230;]",
-      "date": "2026-11-11T23:00:44+00:00",
+      "id": "6ca9c3e798ab",
+      "title": "中國借海外資料中心用輝達晶片？美傳擬封堵 7 國",
+      "link": "https://technews.tw/2026/11/12/us-reportedly-plans-block-7-countries-amid-concerns-china-nvidia-chips-overseas-data-centers/",
+      "summary": "美國政府傳出擬擴大 AI 晶片出口管制，封堵中國企業透過海外資料中心，遠端使用輝達（Nvidia）先進晶片的管 [&#8230;]",
+      "date": "2026-11-12T07:00:30+00:00",
       "sourceId": "technews",
       "cats": [
         "market",
@@ -126,11 +139,128 @@
       ]
     },
     {
-      "id": "9e09f646fb03",
-      "title": "輝達董事會傳聞正在準備撤換執行長黃仁勳，盤後股價應聲重挫 8%",
-      "link": "https://finance.technews.tw/2026/11/12/rumors-suggest-that-nvidias-board-of-directors-is-preparing-to-replace-ceo-jensen-huang/",
-      "summary": "根據華爾街日報的報導，輝達（Nvidia）董事會正準備撤換執行長黃仁勳。消息曝光後，輝達週三盤後交易股價應聲重 [&#8230;]",
-      "date": "2026-11-11T23:00:11+00:00",
+      "id": "3586763f2ee1",
+      "title": "黃仁勳接班人再掀熱議，蘋果前執行長庫克也浮出檯面",
+      "link": "https://finance.technews.tw/2026/11/12/jensen-huang-successor-debate-reignites-apple-ceo-tim-cook-emerges/",
+      "summary": "晶片巨擘輝達（Nvidia）執行長黃仁勳連爆婚外情並捲入中國間諜疑雲，董事會據報今天開會討論他的去留。外界近日 [&#8230;]",
+      "date": "2026-11-12T06:45:13+00:00",
+      "sourceId": "technews",
+      "cats": [
+        "market",
+        "process",
+        "material"
+      ]
+    },
+    {
+      "id": "94917f584c9c",
+      "title": "英飛凌估 2027 營收增逾兩成  資料中心需求旺",
+      "link": "https://finance.technews.tw/2026/11/12/infineon-closes-fy-2026-with-record-quarter/",
+      "summary": "德國半導體大廠英飛凌（Infineon）受惠於資料中心、電力基礎設施及車用晶片需求，預估 2027 會計年度營 [&#8230;]",
+      "date": "2026-11-12T06:40:58+00:00",
+      "sourceId": "technews",
+      "cats": [
+        "market",
+        "process",
+        "material"
+      ]
+    },
+    {
+      "id": "1f524eabfa66",
+      "title": "防堵 AI 晶片走私漏洞，德州農工大學研發「5G CATS」封裝級定位技術",
+      "link": "https://infosecu.technews.tw/2026/11/12/texas-a-m-university-5g-cats-chip-anti-smuggling-technology/",
+      "summary": "為了協助落實 AI 加速器的出口管制，美國德州農工大學（Texas A&#38;M University）研究 [&#8230;]",
+      "date": "2026-11-12T06:30:45+00:00",
+      "sourceId": "technews",
+      "cats": [
+        "market",
+        "process",
+        "material"
+      ]
+    },
+    {
+      "id": "93d3ad3bde0c",
+      "title": "APMIC 模型登頂 AIEC 評測，開發微調工具打造企業大腦",
+      "link": "https://technews.tw/2026/11/12/apmic-ace-3-tops-global-aiec-rankings/",
+      "summary": "台灣新創 APMIC（Accelerate Private Machine Intelligence Comp [&#8230;]",
+      "date": "2026-11-12T06:24:40+00:00",
+      "sourceId": "technews",
+      "cats": [
+        "market",
+        "process",
+        "material"
+      ]
+    },
+    {
+      "id": "04f0aab24390",
+      "title": "彭博：黃仁勳醜聞核心人物黃樂已返中國，現人在北京",
+      "link": "https://infosecu.technews.tw/2026/11/12/alice-huang-now-in-bj/",
+      "summary": "彭博（Bloomberg）引述知情人士報導，輝達公司（Nvidia）執行長黃仁勳醜聞事件的核心人物黃樂（Ali [&#8230;]",
+      "date": "2026-11-12T06:10:08+00:00",
+      "sourceId": "technews",
+      "cats": [
+        "market",
+        "process",
+        "material"
+      ]
+    },
+    {
+      "id": "7e5e24c7fb7a",
+      "title": "韓忠清圈大型投資計畫動工，投資 6 兆韓圜先進封裝廠",
+      "link": "https://technews.tw/2026/11/12/large-investment-project-breaks-ground-south-korea-chungcheong-region-investing-krw-6-trillion-advanced-packaging-plant/",
+      "summary": "韓國總統李在明今天出席忠清圈大型投資計畫動工典禮，他表示，在地方政府的奉獻努力與三星集團的投資與執行下，讓這項 [&#8230;]",
+      "date": "2026-11-12T06:00:42+00:00",
+      "sourceId": "technews",
+      "cats": [
+        "market",
+        "process",
+        "material"
+      ]
+    },
+    {
+      "id": "199c1a96de32",
+      "title": "三星摺疊機 Q3 市占近七成  Q4 可能被蘋果超車？",
+      "link": "https://technews.tw/2026/11/12/samsung-foldable-phones-q3-share-nearly-70-apple-q4-overtake/",
+      "summary": "全球摺疊智慧型手機市場出貨量下滑，但三星電子（Samsung Electronics）憑藉新款 Galaxy [&#8230;]",
+      "date": "2026-11-12T05:50:21+00:00",
+      "sourceId": "technews",
+      "cats": [
+        "market",
+        "process",
+        "material"
+      ]
+    },
+    {
+      "id": "a47cff32fd1d",
+      "title": "部分員工資訊遭置外部網站，台積電：無證據顯示系統遭入侵",
+      "link": "https://infosecu.technews.tw/2026/11/12/tsmc-employee-information-found-external-website-no-evidence-system-intrusion/",
+      "summary": "針對部分現職及離職員工資訊未經授權被置於外部網站，台積電今天表示，目前並無證據顯示公司系統遭到入侵，已陸續通知 [&#8230;]",
+      "date": "2026-11-12T05:40:44+00:00",
+      "sourceId": "technews",
+      "cats": [
+        "market",
+        "process",
+        "material"
+      ]
+    },
+    {
+      "id": "6401e4615db4",
+      "title": "輝達晶片流向中國只是冰山一角，黃仁勳捲入華府政治風暴",
+      "link": "https://technews.tw/2026/11/12/jensen-huang-caught-in-washingtons-political-storm-foreign-media-nvidia-chips-flowing-to-china-are-just-the-tip-of-the-iceberg/",
+      "summary": "AI 晶片龍頭 Nvidia 陷入中國晶片出口爭議。美國做空機構 Culper Research 指出，透過東 [&#8230;]",
+      "date": "2026-11-12T04:35:44+00:00",
+      "sourceId": "technews",
+      "cats": [
+        "market",
+        "process",
+        "material"
+      ]
+    },
+    {
+      "id": "e414add6d165",
+      "title": "延攬黃仁勳？馬斯克稱很榮幸  輝達傳財長暫代 CEO",
+      "link": "https://technews.tw/2026/11/12/jensen-huang-recruitment-musk-honored-nvidia-cfo-interim-ceo/",
+      "summary": "輝達（Nvidia）執行長黃仁勳（Jensen Huang）深陷婚外情風波，傳出董事會考慮將他撤換掉，而就在黃 [&#8230;]",
+      "date": "2026-11-12T04:10:12+00:00",
       "sourceId": "technews",
       "cats": [
         "market",
@@ -175,32 +305,6 @@
         "process",
         "material",
         "equipment"
-      ]
-    },
-    {
-      "id": "07cc81084f68",
-      "title": "Meta 推出輕量級模型 Muse Ember，低成本處理 Agent 重複任務",
-      "link": "https://technews.tw/2026/11/11/muse-introduces-muse-ember/",
-      "summary": "Meta 旗下 Meta 超級智慧實驗室（Meta Superintelligence Labs，MSL）推出 [&#8230;]",
-      "date": "2026-11-11T09:24:26+00:00",
-      "sourceId": "technews",
-      "cats": [
-        "market",
-        "process",
-        "material"
-      ]
-    },
-    {
-      "id": "bf9d4d2461e2",
-      "title": "共軍背景陸校採購輝達 H200 晶片，名列美黑名單仍得手",
-      "link": "https://technews.tw/2026/11/11/pla-linked-chinese-university-bought-nvidia-h200-chips-despite-us-blacklist/",
-      "summary": "採購紀錄顯示，與中國人民解放軍關係深厚的西北工業大學，儘管已被列入美國出口黑名單，上個月仍購得輝達強大的 H2 [&#8230;]",
-      "date": "2026-11-11T08:40:05+00:00",
-      "sourceId": "technews",
-      "cats": [
-        "market",
-        "process",
-        "material"
       ]
     },
     {
