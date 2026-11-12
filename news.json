@@ -1,6 +1,6 @@
 {
-  "updated": "2026-11-11T17:49:49.082086+00:00",
-  "count": 14,
+  "updated": "2026-11-12T00:27:45.230071+00:00",
+  "count": 18,
   "sources": [
     {
       "id": "technews",
@@ -61,6 +61,123 @@
   ],
   "articles": [
     {
+      "id": "81ecc192884a",
+      "title": "黃仁勳爭議牽動東南亞晶片供應鏈監管，泰專家：資料中心受考驗",
+      "link": "https://technews.tw/2026/11/12/jensen-huang-controversy-affects-southeast-asia-chip-supply-chain-regulation-thai-experts-warn-data-centers-face-challenges/",
+      "summary": "黃仁勳婚外情讓輝達晶片經東南亞輸入中國的疑雲浮上檯面。泰國 AI 專家表示，美國可能因此加強監控東南亞繪圖處理 [&#8230;]",
+      "date": "2026-11-12T00:20:38+00:00",
+      "sourceId": "technews",
+      "cats": [
+        "market",
+        "process",
+        "material"
+      ]
+    },
+    {
+      "id": "5dc6d364bee2",
+      "title": "侯永清提出使用 AI 三心法，以防企業面臨 AI 失控狀態",
+      "link": "https://technews.tw/2026/11/12/use-the-three-core-principles-of-ai-to-prevent-enterprises-from-facing-a-state-of-ai-out-of-control/",
+      "summary": "面對全球人工智慧（AI）浪潮，台積電資深副總經理暨副共同營運長侯永清在工業總會發表演講時指出，AI 發展已是不 [&#8230;]",
+      "date": "2026-11-12T00:00:13+00:00",
+      "sourceId": "technews",
+      "cats": [
+        "market",
+        "process",
+        "material"
+      ]
+    },
+    {
+      "id": "4a02d7de2e55",
+      "title": "侯永清論台灣半導體布局，技術領先不可妥協、攜手搶攻先進封裝設備",
+      "link": "https://technews.tw/2026/11/12/taiwans-semiconductor-strategy-prioritizes-technological-leadership-and-cannot-be-compromised/",
+      "summary": "在人工智慧（AI）席捲全球之際，半導體產業迎來爆發性成長。台積電資深副總經理暨副共同營運長侯永清日前於全國工業 [&#8230;]",
+      "date": "2026-11-11T23:45:26+00:00",
+      "sourceId": "technews",
+      "cats": [
+        "market",
+        "process",
+        "material"
+      ]
+    },
+    {
+      "id": "23066ece8673",
+      "title": "美國家實驗室攜手新創 Diamond Quanta，以雷射技術突圍「鑽石晶片」量產瓶頸",
+      "link": "https://technews.tw/2026/11/12/us-labs-startups-accelerate-diamond-chip-mass-production/",
+      "summary": "美國勞倫斯利佛摩國家實驗室（LLNL）10 日宣布，已透過一項全新的「合作研究與開發協議」（CRADA），正式 [&#8230;]",
+      "date": "2026-11-11T23:40:18+00:00",
+      "sourceId": "technews",
+      "cats": [
+        "market",
+        "process",
+        "material"
+      ]
+    },
+    {
+      "id": "a028371863ff",
+      "title": "桃色風暴延燒！美國會多位議員要求黃仁勳請辭並強制出席聽證會",
+      "link": "https://technews.tw/2026/11/12/several-members-of-the-u-s-congress-have-called-for-huang-jen-hsun-to-resign/",
+      "summary": "輝達（Nvidia）創辦人兼執行長黃仁勳日前承認與一名遭指控為中國間諜的女性發生婚外情，引發華府政壇強烈震動與 [&#8230;]",
+      "date": "2026-11-11T23:00:44+00:00",
+      "sourceId": "technews",
+      "cats": [
+        "market",
+        "process",
+        "material"
+      ]
+    },
+    {
+      "id": "9e09f646fb03",
+      "title": "輝達董事會傳聞正在準備撤換執行長黃仁勳，盤後股價應聲重挫 8%",
+      "link": "https://finance.technews.tw/2026/11/12/rumors-suggest-that-nvidias-board-of-directors-is-preparing-to-replace-ceo-jensen-huang/",
+      "summary": "根據華爾街日報的報導，輝達（Nvidia）董事會正準備撤換執行長黃仁勳。消息曝光後，輝達週三盤後交易股價應聲重 [&#8230;]",
+      "date": "2026-11-11T23:00:11+00:00",
+      "sourceId": "technews",
+      "cats": [
+        "market",
+        "process",
+        "material"
+      ]
+    },
+    {
+      "id": "9993a0f4405e",
+      "title": "Chiplets: Revolutionizing Design Velocity with Artificial Chip Intelligence ACI",
+      "link": "https://www.eetimes.com/chiplets-revolutionizing-design-velocity-with-artificial-chip-intelligence-aci/",
+      "summary": "This session introduces Artificial Chip Intelligence (ACI®), a paradigm-shifting technology using a physics-informed foundation model designed to transform chip development from a manual labor-intensive process into a conversational, AI-driven workflow. The post Chiplets: Revolutionizing Design Velo",
+      "date": "2026-11-11T23:00:05+00:00",
+      "sourceId": "eetimes",
+      "cats": [
+        "process",
+        "material",
+        "equipment"
+      ]
+    },
+    {
+      "id": "b4ff6681677a",
+      "title": "Chiplets: Panel Discussion: Scaling Chiplets Without Breaking the System – Where are the Limits?",
+      "link": "https://www.eetimes.com/chiplets-panel-discussion-scaling-chiplets-without-breaking-the-system-where-are-the-limits/",
+      "summary": "As chiplet-based designs grow in scale and complexity, the technical challenges mount up as every layer of the system introduces new constraints. The post Chiplets: Panel Discussion: Scaling Chiplets Without Breaking the System &#8211; Where are the Limits? appeared first on EE Times.",
+      "date": "2026-11-11T22:39:24+00:00",
+      "sourceId": "eetimes",
+      "cats": [
+        "process",
+        "material",
+        "equipment"
+      ]
+    },
+    {
+      "id": "a33bdee4eb93",
+      "title": "Chiplets: Panel Discussion: How Should We Reimagine the Design Flow for Chiplet Scalability",
+      "link": "https://www.eetimes.com/chiplets-panel-discussion-how-should-we-reimagine-the-design-flow-for-chiplet-scalability/",
+      "summary": "This panel discusses whether today’s design flows can scale to support reusable chiplets and multi-vendor integration, or whether more fundamental changes are needed. The post Chiplets: Panel Discussion: How Should We Reimagine the Design Flow for Chiplet Scalability appeared first on EE Times.",
+      "date": "2026-11-11T22:35:01+00:00",
+      "sourceId": "eetimes",
+      "cats": [
+        "process",
+        "material",
+        "equipment"
+      ]
+    },
+    {
       "id": "07cc81084f68",
       "title": "Meta 推出輕量級模型 Muse Ember，低成本處理 Agent 重複任務",
       "link": "https://technews.tw/2026/11/11/muse-introduces-muse-ember/",
@@ -84,71 +201,6 @@
         "market",
         "process",
         "material"
-      ]
-    },
-    {
-      "id": "e99b25ce9bae",
-      "title": "黃仁勳外遇恐遭勒索，美共和黨資深議員籲下台",
-      "link": "https://technews.tw/2026/11/11/kevin-cramer-calls-for-jensen-huang-to-resign/",
-      "summary": "美國人工智慧（AI）晶片巨擘輝達執行長黃仁勳爆出與一名中國女商人有婚外情，外傳女方是北京間諜，美國聯邦參議院銀 [&#8230;]",
-      "date": "2026-11-11T07:50:08+00:00",
-      "sourceId": "technews",
-      "cats": [
-        "market",
-        "process",
-        "material"
-      ]
-    },
-    {
-      "id": "66810d3089a2",
-      "title": "整機庫存堆高，部分 PC OEM 調整 2027 年記憶體採購策略",
-      "link": "https://technews.tw/2026/11/11/pc-inventory-piles-high-oems-adjust-2027-memory-procurement-strategy/",
-      "summary": "根據 TrendForce 最新記憶體產業研究，記憶體價格上漲超過一年，消費性電子產業成本壓力與日俱增。其中， [&#8230;]",
-      "date": "2026-11-11T07:25:30+00:00",
-      "sourceId": "technews",
-      "cats": [
-        "market",
-        "process",
-        "material"
-      ]
-    },
-    {
-      "id": "c14edc39cb35",
-      "title": "AI 熱潮搶排產能，安世與意法半導體雙雙示警：汽車業恐迎新一波晶片短缺",
-      "link": "https://technews.tw/2026/11/11/ai-boom-sparks-automotive-chip-surge/",
-      "summary": "隨著半導體晶圓代工與封裝產能大量轉向 AI 資料中心，全球汽車產業恐將再次面臨晶片短缺危機。荷蘭安世半導體（N [&#8230;]",
-      "date": "2026-11-11T06:50:06+00:00",
-      "sourceId": "technews",
-      "cats": [
-        "market",
-        "process",
-        "material"
-      ]
-    },
-    {
-      "id": "c3a83b68b76d",
-      "title": "Saskatchewan’s Semiconductor Strength Is Connecting the Pieces",
-      "link": "https://www.eetimes.com/saskatchewans-semiconductor-strength-is-connecting-the-pieces/",
-      "summary": "Saskatchewan brings together AI infrastructure, quantum research, chip design talent, and advanced materials expertise to expand its role in Canada’s technology ecosystem. The post Saskatchewan’s Semiconductor Strength Is Connecting the Pieces appeared first on EE Times.",
-      "date": "2026-11-10T20:00:00+00:00",
-      "sourceId": "eetimes",
-      "cats": [
-        "process",
-        "material",
-        "equipment"
-      ]
-    },
-    {
-      "id": "de67af3bf218",
-      "title": "We Source Chips Others Cannot Secure, 2026",
-      "link": "https://www.eetimes.com/we-source-chips-others-cannot-secure-2026/",
-      "summary": "Chang Ming delivers scarce semiconductors, with rigorous 9-step quality inspection &#038; global supply chain support for European &#038; American electronics buyers. The post We Source Chips Others Cannot Secure, 2026 appeared first on EE Times.",
-      "date": "2026-11-10T07:48:14+00:00",
-      "sourceId": "eetimes",
-      "cats": [
-        "process",
-        "material",
-        "equipment"
       ]
     },
     {
