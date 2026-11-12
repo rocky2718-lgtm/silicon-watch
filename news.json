@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-12T09:40:02.881566+00:00",
+  "updated": "2026-11-12T18:05:57.535133+00:00",
   "count": 26,
   "sources": [
     {
@@ -60,6 +60,97 @@
     }
   ],
   "articles": [
+    {
+      "id": "81513bf03d95",
+      "title": "黃仁勳去職，輝達股價大跌為全球科技股投下重量級深水炸彈",
+      "link": "https://finance.technews.tw/2026/11/13/nvidias-stock-price-plunge-sends-a-bombshell-into-global-tech-stocks/",
+      "summary": "輝達（Nvidia）執行長黃仁勳（Jensen Huang）因個人緋聞醜聞持續延燒而正式辭職，重創這家晶片大廠 [&#8230;]",
+      "date": "2026-11-12T17:45:44+00:00",
+      "sourceId": "technews",
+      "cats": [
+        "market",
+        "process",
+        "material"
+      ]
+    },
+    {
+      "id": "b7e43605bac4",
+      "title": "黃仁勳去職後，已答應美國會將於下周出席閉門聽證會",
+      "link": "https://finance.technews.tw/2026/11/13/jensen-huang-has-agreed-to-attend-a-closed-door-hearing-before-the-u-s-congress-next-week/",
+      "summary": "輝達（Nvidia）執行長黃仁勳在確認去職之後，根據外媒報導，已同意前往美國國會作證。美國聯邦眾議院外交委員會 [&#8230;]",
+      "date": "2026-11-12T17:10:09+00:00",
+      "sourceId": "technews",
+      "cats": [
+        "market",
+        "process",
+        "material"
+      ]
+    },
+    {
+      "id": "d99ef795c21f",
+      "title": "黃仁勳確定去職，臨危授命暫代執行長的財務長是甚麼樣來頭？",
+      "link": "https://finance.technews.tw/2026/11/13/the-cfo-was-appointed-to-temporarily-act-as-ceo-during-a-crisis/",
+      "summary": "全球市值最高晶片大廠輝達（Nvidia）創辦人黃仁勳日前突發辭職，在公司任職長達 13 年的財務長柯瑞斯（Co [&#8230;]",
+      "date": "2026-11-12T16:45:30+00:00",
+      "sourceId": "technews",
+      "cats": [
+        "market",
+        "process",
+        "material"
+      ]
+    },
+    {
+      "id": "2602bee4e2ee",
+      "title": "Can Machines See a Sick Plant Before a Farmer Can?",
+      "link": "https://www.eetimes.com/can-machines-see-a-sick-plant-before-a-farmer-can/",
+      "summary": "Soybean disease research shows the promise of hyperspectral imaging, while semiconductor advances could make spectral sensing affordable for farmers. The post Can Machines See a Sick Plant Before a Farmer Can? appeared first on EE Times.",
+      "date": "2026-11-12T13:00:00+00:00",
+      "sourceId": "eetimes",
+      "cats": [
+        "process",
+        "material",
+        "equipment"
+      ]
+    },
+    {
+      "id": "8c9f7c6b7366",
+      "title": "Connecting AI to the Physical World",
+      "link": "https://www.eetimes.com/connecting-ai-to-the-physical-world/",
+      "summary": "Why specialized wireless devices and SDR software IP matter to the next wave of intelligent machines The post Connecting AI to the Physical World appeared first on EE Times.",
+      "date": "2026-11-12T10:20:00+00:00",
+      "sourceId": "eetimes",
+      "cats": [
+        "process",
+        "material",
+        "equipment"
+      ]
+    },
+    {
+      "id": "0579597bc876",
+      "title": "黃仁勳另爆出軌公司女主管，專家：若遭撤換重大打擊 AI 產業",
+      "link": "https://finance.technews.tw/2026/11/12/jensen-huang-reportedly-affair-female-executive-experts-warn-removal-major-blow-ai-industry/",
+      "summary": "輝達（NVIDIA）執行長黃仁勳繼捲入涉諜女子婚外情後，再傳出與公司內部直屬女副總裁有染；專家表示，黃仁勳職務 [&#8230;]",
+      "date": "2026-11-12T09:50:51+00:00",
+      "sourceId": "technews",
+      "cats": [
+        "market",
+        "process",
+        "material"
+      ]
+    },
+    {
+      "id": "c755ba842666",
+      "title": "劉揚偉：鴻海 AI 雲端業績占比拚逾六成，觀察記憶體零組件供應",
+      "link": "https://finance.technews.tw/2026/11/12/honhai-fr-26q3/",
+      "summary": "鴻海董事長劉揚偉下午表示，晶片、記憶體及部分關鍵零組件供應吃緊，是整體產業共同面臨挑戰，2027 年人工智慧 [&#8230;]",
+      "date": "2026-11-12T09:40:02+00:00",
+      "sourceId": "technews",
+      "cats": [
+        "market",
+        "process",
+        "material"
+      ]
+    },
     {
       "id": "adbdf6b31cc5",
       "title": "美光勞資爭議 》 桃園工會爭取分潤失利退出協商，美光聲明絕無打壓工會",
@@ -191,84 +282,6 @@
       ]
     },
     {
-      "id": "04f0aab24390",
-      "title": "彭博：黃仁勳醜聞核心人物黃樂已返中國，現人在北京",
-      "link": "https://infosecu.technews.tw/2026/11/12/alice-huang-now-in-bj/",
-      "summary": "彭博（Bloomberg）引述知情人士報導，輝達公司（Nvidia）執行長黃仁勳醜聞事件的核心人物黃樂（Ali [&#8230;]",
-      "date": "2026-11-12T06:10:08+00:00",
-      "sourceId": "technews",
-      "cats": [
-        "market",
-        "process",
-        "material"
-      ]
-    },
-    {
-      "id": "7e5e24c7fb7a",
-      "title": "韓忠清圈大型投資計畫動工，投資 6 兆韓圜先進封裝廠",
-      "link": "https://technews.tw/2026/11/12/large-investment-project-breaks-ground-south-korea-chungcheong-region-investing-krw-6-trillion-advanced-packaging-plant/",
-      "summary": "韓國總統李在明今天出席忠清圈大型投資計畫動工典禮，他表示，在地方政府的奉獻努力與三星集團的投資與執行下，讓這項 [&#8230;]",
-      "date": "2026-11-12T06:00:42+00:00",
-      "sourceId": "technews",
-      "cats": [
-        "market",
-        "process",
-        "material"
-      ]
-    },
-    {
-      "id": "199c1a96de32",
-      "title": "三星摺疊機 Q3 市占近七成  Q4 可能被蘋果超車？",
-      "link": "https://technews.tw/2026/11/12/samsung-foldable-phones-q3-share-nearly-70-apple-q4-overtake/",
-      "summary": "全球摺疊智慧型手機市場出貨量下滑，但三星電子（Samsung Electronics）憑藉新款 Galaxy [&#8230;]",
-      "date": "2026-11-12T05:50:21+00:00",
-      "sourceId": "technews",
-      "cats": [
-        "market",
-        "process",
-        "material"
-      ]
-    },
-    {
-      "id": "a47cff32fd1d",
-      "title": "部分員工資訊遭置外部網站，台積電：無證據顯示系統遭入侵",
-      "link": "https://infosecu.technews.tw/2026/11/12/tsmc-employee-information-found-external-website-no-evidence-system-intrusion/",
-      "summary": "針對部分現職及離職員工資訊未經授權被置於外部網站，台積電今天表示，目前並無證據顯示公司系統遭到入侵，已陸續通知 [&#8230;]",
-      "date": "2026-11-12T05:40:44+00:00",
-      "sourceId": "technews",
-      "cats": [
-        "market",
-        "process",
-        "material"
-      ]
-    },
-    {
-      "id": "6401e4615db4",
-      "title": "輝達晶片流向中國只是冰山一角，黃仁勳捲入華府政治風暴",
-      "link": "https://technews.tw/2026/11/12/jensen-huang-caught-in-washingtons-political-storm-foreign-media-nvidia-chips-flowing-to-china-are-just-the-tip-of-the-iceberg/",
-      "summary": "AI 晶片龍頭 Nvidia 陷入中國晶片出口爭議。美國做空機構 Culper Research 指出，透過東 [&#8230;]",
-      "date": "2026-11-12T04:35:44+00:00",
-      "sourceId": "technews",
-      "cats": [
-        "market",
-        "process",
-        "material"
-      ]
-    },
-    {
-      "id": "e414add6d165",
-      "title": "延攬黃仁勳？馬斯克稱很榮幸  輝達傳財長暫代 CEO",
-      "link": "https://technews.tw/2026/11/12/jensen-huang-recruitment-musk-honored-nvidia-cfo-interim-ceo/",
-      "summary": "輝達（Nvidia）執行長黃仁勳（Jensen Huang）深陷婚外情風波，傳出董事會考慮將他撤換掉，而就在黃 [&#8230;]",
-      "date": "2026-11-12T04:10:12+00:00",
-      "sourceId": "technews",
-      "cats": [
-        "market",
-        "process",
-        "material"
-      ]
-    },
-    {
       "id": "9993a0f4405e",
       "title": "Chiplets: Revolutionizing Design Velocity with Artificial Chip Intelligence ACI",
       "link": "https://www.eetimes.com/chiplets-revolutionizing-design-velocity-with-artificial-chip-intelligence-aci/",
@@ -287,19 +300,6 @@
       "link": "https://www.eetimes.com/chiplets-panel-discussion-scaling-chiplets-without-breaking-the-system-where-are-the-limits/",
       "summary": "As chiplet-based designs grow in scale and complexity, the technical challenges mount up as every layer of the system introduces new constraints. The post Chiplets: Panel Discussion: Scaling Chiplets Without Breaking the System &#8211; Where are the Limits? appeared first on EE Times.",
       "date": "2026-11-11T22:39:24+00:00",
-      "sourceId": "eetimes",
-      "cats": [
-        "process",
-        "material",
-        "equipment"
-      ]
-    },
-    {
-      "id": "a33bdee4eb93",
-      "title": "Chiplets: Panel Discussion: How Should We Reimagine the Design Flow for Chiplet Scalability",
-      "link": "https://www.eetimes.com/chiplets-panel-discussion-how-should-we-reimagine-the-design-flow-for-chiplet-scalability/",
-      "summary": "This panel discusses whether today’s design flows can scale to support reusable chiplets and multi-vendor integration, or whether more fundamental changes are needed. The post Chiplets: Panel Discussion: How Should We Reimagine the Design Flow for Chiplet Scalability appeared first on EE Times.",
-      "date": "2026-11-11T22:35:01+00:00",
       "sourceId": "eetimes",
       "cats": [
         "process",
