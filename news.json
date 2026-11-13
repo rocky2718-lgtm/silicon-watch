@@ -1,6 +1,6 @@
 {
-  "updated": "2026-11-13T09:24:00.372358+00:00",
-  "count": 23,
+  "updated": "2026-11-13T17:37:00.521551+00:00",
+  "count": 25,
   "sources": [
     {
       "id": "technews",
@@ -60,6 +60,84 @@
     }
   ],
   "articles": [
+    {
+      "id": "f3dcf094d838",
+      "title": "跑起來，別用走的！皮衣黃仁勳再也不上台演講的 AI 時代就這樣跑步來臨",
+      "link": "https://finance.technews.tw/2026/11/13/the-ai-%e2%80%8b%e2%80%8bera-is-rapidly-approaching-with-jensen-huang-no-longer-giving-speeches-on-stage/",
+      "summary": "「跑起來，別用走的！」（Run, don&#8217;t walk!）曾是輝達（NVIDIA）創辦人黃仁勳最撼 [&#8230;]",
+      "date": "2026-11-13T12:45:40+00:00",
+      "sourceId": "technews",
+      "cats": [
+        "market",
+        "process",
+        "material"
+      ]
+    },
+    {
+      "id": "6cf615584280",
+      "title": "黃仁勳傳奇造就身價 8 億研發人才，財務長臨危接棒留才成關鍵課題",
+      "link": "https://finance.technews.tw/2026/11/13/jensen-huangs-legendary-success-has-created-a-net-worth-of-800-million-for-nvidias-rd-talent/",
+      "summary": "全球 AI 運算霸主輝達（NVIDIA）創辦人黃仁勳辭職，為科技產業投下震撼彈。出乎市場意料的是，接任執行長（ [&#8230;]",
+      "date": "2026-11-13T12:00:08+00:00",
+      "sourceId": "technews",
+      "cats": [
+        "market",
+        "process",
+        "material"
+      ]
+    },
+    {
+      "id": "72ae87071410",
+      "title": "How NovoGenius® MCU+ Devices Are Reshaping the Automotive Edge Node",
+      "link": "https://www.eetimes.com/how-novogenius-mcu-devices-are-reshaping-the-automotive-edge-node/",
+      "summary": "NOVOSENSE NovoGenius MCU+ chips integrate analog, power, and drivers, adding intelligence to automotive edge nodes for motor control, sensing and lighting. The post How NovoGenius® MCU+ Devices Are Reshaping the Automotive Edge Node appeared first on EE Times.",
+      "date": "2026-11-13T10:41:03+00:00",
+      "sourceId": "eetimes",
+      "cats": [
+        "process",
+        "material",
+        "equipment"
+      ]
+    },
+    {
+      "id": "7677fa6bf871",
+      "title": "BBC：美國會議員要求黃仁勳 12/3 赴參議院作證",
+      "link": "https://finance.technews.tw/2026/11/13/bbc-us-lawmakers-request-jensen-huang-testify-senate-december-3rd/",
+      "summary": "英國廣播公司（BBC）報導，美國聯邦參議員史考特（Tim Scott）已致函 AI 晶片巨頭輝達前執行長黃仁勳 [&#8230;]",
+      "date": "2026-11-13T10:30:47+00:00",
+      "sourceId": "technews",
+      "cats": [
+        "market",
+        "process",
+        "material"
+      ]
+    },
+    {
+      "id": "469e2e36b409",
+      "title": "輝達財務長克瑞斯臨危受命暫代執行長，曾質疑黃仁勳投資策略",
+      "link": "https://finance.technews.tw/2026/11/13/nvidia-cfo-colette-kress-appointed-acting-ceo-crisis-questioned-jensen-huang-investment-strategy/",
+      "summary": "人工智慧（AI）晶片大廠輝達（Nvidia）共同創辦人黃仁勳陷入多起婚外情風波正式請辭執行長後，59 歲的財務 [&#8230;]",
+      "date": "2026-11-13T09:50:54+00:00",
+      "sourceId": "technews",
+      "cats": [
+        "market",
+        "process",
+        "material"
+      ]
+    },
+    {
+      "id": "f3f7c5829d6d",
+      "title": "黃仁勳請辭引發輝達動盪，美媒：台積電、超微與博通有望受惠",
+      "link": "https://finance.technews.tw/2026/11/13/jensen-huang-resignation-nvidia-turmoil-tsmc-amd-broadcom-benefit/",
+      "summary": "輝達領導危機正為合作夥伴及最大競爭對手創造機會，台積電、超微與博通等企業有望受惠。投資人認為，黃仁勳辭去輝達執 [&#8230;]",
+      "date": "2026-11-13T09:40:22+00:00",
+      "sourceId": "technews",
+      "cats": [
+        "market",
+        "process",
+        "material"
+      ]
+    },
     {
       "id": "536844b3a093",
       "title": "億萬富豪廖凱原堅定支持黃仁勳，宣布停止加碼輝達",
@@ -165,45 +243,6 @@
       ]
     },
     {
-      "id": "383c2463e9f0",
-      "title": "黃仁勳下台一舉落實美國三大國安戰略，18 日聽證將成對中國策略關鍵點",
-      "link": "https://technews.tw/2026/11/13/huang-jen-hsuns-resignation-marks-the-implementation-of-the-three-major-u-s-national-security-strategies/",
-      "summary": "全球 AI 晶片霸主輝達（NVIDIA）投下震撼彈，董事會於 12 日正式發表聲明，宣布創辦人兼執行長黃仁勳已 [&#8230;]",
-      "date": "2026-11-13T07:00:25+00:00",
-      "sourceId": "technews",
-      "cats": [
-        "market",
-        "process",
-        "material"
-      ]
-    },
-    {
-      "id": "d0235c0ef013",
-      "title": "日月光首度進駐科學園區，路竹廠千億布局擴大先進封裝量能",
-      "link": "https://finance.technews.tw/2026/11/13/ase-technology-group-makes-its-first-foray-into-the-science-park/",
-      "summary": "日月光持續擴大在台先進封裝布局，13 日於南部科學園區高雄園區舉行「日月光南科分公司路竹廠一期啟用暨二期動土典 [&#8230;]",
-      "date": "2026-11-13T06:45:26+00:00",
-      "sourceId": "technews",
-      "cats": [
-        "market",
-        "process",
-        "material"
-      ]
-    },
-    {
-      "id": "901d534f9066",
-      "title": "黃仁勳去職，日本政府關注 AI 產業及半導體供應鏈衝擊",
-      "link": "https://technews.tw/2026/11/13/jensen-huang-steps-down-japanese-government-monitors-ai-industry-semiconductor-supply-chain-impact/",
-      "summary": "美國半導體大廠輝達（NVIDIA）執行長黃仁勳辭職，引發全球科技業震撼。日本內閣官房副長官尾崎正直今天表示，輝 [&#8230;]",
-      "date": "2026-11-13T06:40:06+00:00",
-      "sourceId": "technews",
-      "cats": [
-        "market",
-        "process",
-        "material"
-      ]
-    },
-    {
       "id": "605f67f0c8a2",
       "title": "Jensen Resigns Over Second Affair",
       "link": "https://www.eetimes.com/jensen-resigns-over-second-affair/",
@@ -248,19 +287,6 @@
       "link": "https://www.eetimes.com/harari-warns-tech-leaders-against-pursuing-ai-superintelligence/",
       "summary": "At Gartner IT Symposium/Xpo 2026, philosopher Yuval Noah Harari makes an appeal to delay artificial superintelligence as it threatens to erode human agency and democratic sovereignty. The post Harari Warns Tech Leaders Against Pursuing AI Superintelligence appeared first on EE Times.",
       "date": "2026-11-12T08:30:00+00:00",
-      "sourceId": "eetimes",
-      "cats": [
-        "process",
-        "material",
-        "equipment"
-      ]
-    },
-    {
-      "id": "9993a0f4405e",
-      "title": "Chiplets: Revolutionizing Design Velocity with Artificial Chip Intelligence ACI",
-      "link": "https://www.eetimes.com/chiplets-revolutionizing-design-velocity-with-artificial-chip-intelligence-aci/",
-      "summary": "This session introduces Artificial Chip Intelligence (ACI®), a paradigm-shifting technology using a physics-informed foundation model designed to transform chip development from a manual labor-intensive process into a conversational, AI-driven workflow. The post Chiplets: Revolutionizing Design Velo",
-      "date": "2026-11-11T23:00:05+00:00",
       "sourceId": "eetimes",
       "cats": [
         "process",
