@@ -1,6 +1,6 @@
 {
-  "updated": "2026-11-13T17:37:00.521551+00:00",
-  "count": 25,
+  "updated": "2026-11-13T23:27:06.462021+00:00",
+  "count": 24,
   "sources": [
     {
       "id": "technews",
@@ -222,19 +222,6 @@
       "link": "https://technews.tw/2026/11/13/jensen-huang-affair-scandal-malaysia-investigates-alleged-mistress-former-employer-subsidiary/",
       "summary": "美國人工智慧（AI）晶片巨擘輝達（NVIDIA）創辦人黃仁勳婚外情風波延燒，馬來西亞今天表示，他們正調查 Me [&#8230;]",
       "date": "2026-11-13T07:40:47+00:00",
-      "sourceId": "technews",
-      "cats": [
-        "market",
-        "process",
-        "material"
-      ]
-    },
-    {
-      "id": "8d456a38c632",
-      "title": "輝達本益比摜破 12 倍  散戶瘋抄底、分析師仍猶豫",
-      "link": "https://finance.technews.tw/2026/11/13/retail-investors-rush-to-buy-nvidia-shares-as-analysts-remain-cautious/",
-      "summary": "輝達（Nvidia）創辦人黃仁勳（Jensen Huang）突然辭去執行長職務，引發市場對公司未來的疑慮，股價 [&#8230;]",
-      "date": "2026-11-13T07:30:00+00:00",
       "sourceId": "technews",
       "cats": [
         "market",
