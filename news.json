@@ -1,6 +1,6 @@
 {
-  "updated": "2026-11-13T23:27:06.462021+00:00",
-  "count": 24,
+  "updated": "2026-11-14T06:00:56.185174+00:00",
+  "count": 20,
   "sources": [
     {
       "id": "technews",
@@ -60,6 +60,32 @@
     }
   ],
   "articles": [
+    {
+      "id": "172c4f5f5299",
+      "title": "Nvidia 機構投資人聯名信力挺黃仁勳，籲董事會保留回任可能",
+      "link": "https://finance.technews.tw/2026/11/14/nvidia-institutional-investors-issue-joint-letter-in-support-of-jensen-huang/",
+      "summary": "Nvidia 創辦人黃仁勳因私人關係風波辭去執行長職務後，外界對其去留的討論持續延燒。如今支持黃仁勳的聲音也從 [&#8230;]",
+      "date": "2026-11-14T02:55:32+00:00",
+      "sourceId": "technews",
+      "cats": [
+        "market",
+        "process",
+        "material"
+      ]
+    },
+    {
+      "id": "2d694386ac22",
+      "title": "輝達助攻矽品登峰！從 CoWoS 代工邁向 CPO 新藍海，研發老將揭密十年技術布局",
+      "link": "https://finance.technews.tw/2026/11/14/ase-tech-holding-growth-accelerates-nvidia-spil-cowos-cpo-strategic-planning-new-segments/",
+      "summary": "今年以來，封測龍頭日月光投控成長顯著，今年前三季營收再創高峰。 旗下矽品研發大將，在成功大學舉辦的成材論壇上， [&#8230;]",
+      "date": "2026-11-14T00:00:23+00:00",
+      "sourceId": "technews",
+      "cats": [
+        "market",
+        "process",
+        "material"
+      ]
+    },
     {
       "id": "f3dcf094d838",
       "title": "跑起來，別用走的！皮衣黃仁勳再也不上台演講的 AI 時代就這樣跑步來臨",
@@ -144,84 +170,6 @@
       "link": "https://finance.technews.tw/2026/11/13/billionaire-koguan-vows-not-to-buy-nvidia-stock-as-huang-quits/",
       "summary": "輝達（Nvidia）創辦人黃仁勳因醜聞辭去執行長，引發市場震盪。持有大量輝達股份的新加坡億萬富豪廖凱原（Leo [&#8230;]",
       "date": "2026-11-13T09:10:35+00:00",
-      "sourceId": "technews",
-      "cats": [
-        "market",
-        "process",
-        "material"
-      ]
-    },
-    {
-      "id": "56dd1dc457eb",
-      "title": "矽谷仍力挺黃仁勳！輝達員工難接受「晶片之王」下台，AI 產業憂泡沫化風險",
-      "link": "https://technews.tw/2026/11/13/silicon-valley-strongly-supports-nvidia-jensen-huang/",
-      "summary": "根據《WIRED》11 月 12 日的最新報導，輝達（NVIDIA）執行長黃仁勳因桃色與國安風波黯然辭職，消息 [&#8230;]",
-      "date": "2026-11-13T09:00:52+00:00",
-      "sourceId": "technews",
-      "cats": [
-        "market",
-        "process",
-        "material"
-      ]
-    },
-    {
-      "id": "f9056b282a15",
-      "title": "輝達總部外出現鮮花蠟燭，網友：為黃仁勳時代送別",
-      "link": "https://technews.tw/2026/11/13/photos-show-flowers-outside-nvidias-headquarters-following-jensen-huangs-resignation/",
-      "summary": "輝達（Nvidia）創辦人黃仁勳因婚外情醜聞辭去執行長職務，美國加州聖克拉拉總部外於 11 月 12 日出現多 [&#8230;]",
-      "date": "2026-11-13T08:48:57+00:00",
-      "sourceId": "technews",
-      "cats": [
-        "market",
-        "process",
-        "material"
-      ]
-    },
-    {
-      "id": "fead5460529b",
-      "title": "Lex Fridman 發文聲援黃仁勳：我認識的他始終謙遜善良",
-      "link": "https://finance.technews.tw/2026/11/13/lex-fridman-jensen-huang/",
-      "summary": "Nvidia 創辦人黃仁勳因私人風波辭去執行長職務，隨著美國媒體持續追蹤相關爭議，外界對這位 AI 產業指標人 [&#8230;]",
-      "date": "2026-11-13T08:28:27+00:00",
-      "sourceId": "technews",
-      "cats": [
-        "market",
-        "process",
-        "material"
-      ]
-    },
-    {
-      "id": "98f0d90b05fd",
-      "title": "輝達風波涉國安，美商務部長盧特尼克同意赴參院作證",
-      "link": "https://technews.tw/2026/11/13/howard-lutnick-agrees-to-testify-before-senate/",
-      "summary": "美國媒體 12 日報導，商務部長盧特尼克（Howard Lutnick）將赴國會，就輝達（Nvidia）相關爭 [&#8230;]",
-      "date": "2026-11-13T08:10:25+00:00",
-      "sourceId": "technews",
-      "cats": [
-        "market",
-        "process",
-        "material"
-      ]
-    },
-    {
-      "id": "4b158d329d63",
-      "title": "AI 晶片需求旺  應材 Q4 營收飆 53%、本季再戰新高",
-      "link": "https://finance.technews.tw/2026/11/13/applied-materials-q4-revenue-surges-53/",
-      "summary": "全球半導體設備大廠應用材料（Applied Materials）12 日公布最新財報，受惠 AI 晶片與高階記 [&#8230;]",
-      "date": "2026-11-13T07:50:44+00:00",
-      "sourceId": "technews",
-      "cats": [
-        "market",
-        "process",
-        "material"
-      ]
-    },
-    {
-      "id": "9da3105113bb",
-      "title": "黃仁勳外遇風波延燒，馬來西亞查緋聞女方前東家子公司",
-      "link": "https://technews.tw/2026/11/13/jensen-huang-affair-scandal-malaysia-investigates-alleged-mistress-former-employer-subsidiary/",
-      "summary": "美國人工智慧（AI）晶片巨擘輝達（NVIDIA）創辦人黃仁勳婚外情風波延燒，馬來西亞今天表示，他們正調查 Me [&#8230;]",
-      "date": "2026-11-13T07:40:47+00:00",
       "sourceId": "technews",
       "cats": [
         "market",
