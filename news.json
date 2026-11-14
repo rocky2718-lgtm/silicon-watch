@@ -1,6 +1,6 @@
 {
-  "updated": "2026-11-14T14:56:13.329500+00:00",
-  "count": 18,
+  "updated": "2026-11-14T20:33:47.657513+00:00",
+  "count": 17,
   "sources": [
     {
       "id": "technews",
@@ -118,19 +118,6 @@
       "link": "https://finance.technews.tw/2026/11/13/the-ai-%e2%80%8b%e2%80%8bera-is-rapidly-approaching-with-jensen-huang-no-longer-giving-speeches-on-stage/",
       "summary": "「跑起來，別用走的！」（Run, don&#8217;t walk!）曾是輝達（NVIDIA）創辦人黃仁勳最撼 [&#8230;]",
       "date": "2026-11-13T12:45:40+00:00",
-      "sourceId": "technews",
-      "cats": [
-        "market",
-        "process",
-        "material"
-      ]
-    },
-    {
-      "id": "6cf615584280",
-      "title": "黃仁勳傳奇造就身價 8 億研發人才，財務長臨危接棒留才成關鍵課題",
-      "link": "https://finance.technews.tw/2026/11/13/jensen-huangs-legendary-success-has-created-a-net-worth-of-800-million-for-nvidias-rd-talent/",
-      "summary": "全球 AI 運算霸主輝達（NVIDIA）創辦人黃仁勳辭職，為科技產業投下震撼彈。出乎市場意料的是，接任執行長（ [&#8230;]",
-      "date": "2026-11-13T12:00:08+00:00",
       "sourceId": "technews",
       "cats": [
         "market",
