@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-15T01:42:54.578969+00:00",
+  "updated": "2026-11-15T09:07:59.891291+00:00",
   "count": 16,
   "sources": [
     {
@@ -61,50 +61,50 @@
   ],
   "articles": [
     {
+      "id": "c1ab6673f1e6",
+      "title": "從方芳到黃樂，FBI 揭密中國間諜案：日常私交如何淪為情報破口",
+      "link": "https://infosecu.technews.tw/2026/11/15/fbi-reveals-how-personal-relationships-become-espionage-risks/",
+      "summary": "11 月 8 日，有著「AI 教父」之稱的輝達（NVIDIA）執行長黃仁勳（Jensen Huang）透過電子 [&#8230;]",
+      "date": "2026-11-15T08:30:27+00:00",
+      "sourceId": "technews",
+      "cats": [
+        "market",
+        "process",
+        "material"
+      ]
+    },
+    {
+      "id": "3aa710782ae6",
+      "title": "紅杉資本收掉 Scouts 計畫，曾挖到 Uber、Stripe 的創投模式為何喊停",
+      "link": "https://finance.technews.tw/2026/11/15/sequoia-capital-shuts-down-scouts-program/",
+      "summary": "11 月 4 日，矽谷創投紅杉資本（Sequoia Capital）在 X 上發表了一篇文章〈The Sequ [&#8230;]",
+      "date": "2026-11-15T03:00:57+00:00",
+      "sourceId": "technews",
+      "cats": [
+        "market",
+        "process",
+        "material"
+      ]
+    },
+    {
+      "id": "d51f265b0bb9",
+      "title": "AI 加劇記憶體供需失衡！擷發科：短缺是長期結構性問題，AI 只是觸發點",
+      "link": "https://technews.tw/2026/11/15/microip-talk-about-memory/",
+      "summary": "近期 AI 浪潮帶動記憶體需求快速攀升，然而記憶體價格短期內仍未見緩解訊號。擷發科董事長楊健盟認為，記憶體短缺 [&#8230;]",
+      "date": "2026-11-15T02:25:49+00:00",
+      "sourceId": "technews",
+      "cats": [
+        "market",
+        "process",
+        "material"
+      ]
+    },
+    {
       "id": "16ea904b9267",
       "title": "光電整合進入「打群架」時代，聯發科侯上勇：CPO路線未定，良率才是關鍵",
       "link": "https://technews.tw/2026/11/15/cpo-mediatek-hou-shang-yong-optoelectronic-integration-battleground-tech-choices-not-just-cost/",
       "summary": "CPO（共同封裝光學）被視為 AI 突破資料傳輸與功耗瓶頸的重要技術，但未來是否由 CPO 主導，產業界仍有不 [&#8230;]",
       "date": "2026-11-15T01:00:35+00:00",
-      "sourceId": "technews",
-      "cats": [
-        "market",
-        "process",
-        "material"
-      ]
-    },
-    {
-      "id": "28e003890a6f",
-      "title": "Nvidia 接班人傳鎖定 Arm 執行長，昔日收購對象如今成救兵？",
-      "link": "https://finance.technews.tw/2026/11/14/nvidia-arm-rene-haas/",
-      "summary": "Nvidia 創辦人黃仁勳因私人關係風波辭去執行長職務後，董事會正積極尋找接班人選，如今傳出已接觸 Arm 執 [&#8230;]",
-      "date": "2026-11-14T07:21:00+00:00",
-      "sourceId": "technews",
-      "cats": [
-        "market",
-        "process",
-        "material"
-      ]
-    },
-    {
-      "id": "9e6a6d84ad6f",
-      "title": "馬斯克加入聲援黃仁勳行列，表態簽署請願書盼重返 Nvidia",
-      "link": "https://finance.technews.tw/2026/11/14/elon-musk-jensen-huang/",
-      "summary": "Nvidia 創辦人黃仁勳因私人關係風波辭去執行長職務後，科技圈持續出現支持他回任的聲音，如今連特斯拉執行長馬 [&#8230;]",
-      "date": "2026-11-14T07:10:31+00:00",
-      "sourceId": "technews",
-      "cats": [
-        "market",
-        "process",
-        "material"
-      ]
-    },
-    {
-      "id": "172c4f5f5299",
-      "title": "Nvidia 機構投資人聯名信力挺黃仁勳，籲董事會保留回任可能",
-      "link": "https://finance.technews.tw/2026/11/14/nvidia-institutional-investors-issue-joint-letter-in-support-of-jensen-huang/",
-      "summary": "Nvidia 創辦人黃仁勳因私人關係風波辭去執行長職務後，外界對其去留的討論持續延燒。如今支持黃仁勳的聲音也從 [&#8230;]",
-      "date": "2026-11-14T02:55:32+00:00",
       "sourceId": "technews",
       "cats": [
         "market",
