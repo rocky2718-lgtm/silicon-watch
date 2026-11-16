@@ -1,6 +1,6 @@
 {
-  "updated": "2026-11-15T22:42:26.813989+00:00",
-  "count": 16,
+  "updated": "2026-11-16T06:03:59.228619+00:00",
+  "count": 19,
   "sources": [
     {
       "id": "technews",
@@ -61,11 +61,11 @@
   ],
   "articles": [
     {
-      "id": "c1ab6673f1e6",
-      "title": "從方芳到黃樂，FBI 揭密中國間諜案：日常私交如何淪為情報破口",
-      "link": "https://infosecu.technews.tw/2026/11/15/fbi-reveals-how-personal-relationships-become-espionage-risks/",
-      "summary": "11 月 8 日，有著「AI 教父」之稱的輝達（NVIDIA）執行長黃仁勳（Jensen Huang）透過電子 [&#8230;]",
-      "date": "2026-11-15T08:30:27+00:00",
+      "id": "c8558ebe6762",
+      "title": "法人富邦投顧：台廠短線承壓但具高度替代門檻、拉回迎布局良機",
+      "link": "https://finance.technews.tw/2026/11/16/taiwanese-manufacturers-face-short-term-pressure-but-have-a-high-barrier-to-entry-for-substitution/",
+      "summary": "全球人工智慧（AI）晶片龍頭輝達（NVIDIA）驚傳重大人事震盪，輝達董事會於 11 月 12 日宣布，創辦人 [&#8230;]",
+      "date": "2026-11-16T04:40:32+00:00",
       "sourceId": "technews",
       "cats": [
         "market",
@@ -74,11 +74,11 @@
       ]
     },
     {
-      "id": "3aa710782ae6",
-      "title": "紅杉資本收掉 Scouts 計畫，曾挖到 Uber、Stripe 的創投模式為何喊停",
-      "link": "https://finance.technews.tw/2026/11/15/sequoia-capital-shuts-down-scouts-program/",
-      "summary": "11 月 4 日，矽谷創投紅杉資本（Sequoia Capital）在 X 上發表了一篇文章〈The Sequ [&#8230;]",
-      "date": "2026-11-15T03:00:57+00:00",
+      "id": "59313599aade",
+      "title": "SK 海力士計劃建半導體測試中心，助韓中小型廠商提升競爭力",
+      "link": "https://technews.tw/2026/11/16/sk-hynix-chip-testing-hub/",
+      "summary": "SK 海力士計劃與韓國政府合作，於明年設立半導體測試中心，藉此提升韓國中小型半導體設備商的全球競爭力。 根據 [&#8230;]",
+      "date": "2026-11-16T04:30:04+00:00",
       "sourceId": "technews",
       "cats": [
         "market",
@@ -87,11 +87,11 @@
       ]
     },
     {
-      "id": "d51f265b0bb9",
-      "title": "AI 加劇記憶體供需失衡！擷發科：短缺是長期結構性問題，AI 只是觸發點",
-      "link": "https://technews.tw/2026/11/15/microip-talk-about-memory/",
-      "summary": "近期 AI 浪潮帶動記憶體需求快速攀升，然而記憶體價格短期內仍未見緩解訊號。擷發科董事長楊健盟認為，記憶體短缺 [&#8230;]",
-      "date": "2026-11-15T02:25:49+00:00",
+      "id": "88cab9aaa524",
+      "title": "中國情報網猛攻西方矽谷，FBI、MI5 齊聲警告：晶片與 AI 已成國安破口",
+      "link": "https://infosecu.technews.tw/2026/11/16/chinese-ai-espionage-heats-up/",
+      "summary": "根據美國媒體 14 日報導，中國針對西方科技與人工智慧（AI）產業的情報行動正引發國際高度警戒。報導指出，相關 [&#8230;]",
+      "date": "2026-11-16T03:40:24+00:00",
       "sourceId": "technews",
       "cats": [
         "market",
@@ -100,11 +100,50 @@
       ]
     },
     {
-      "id": "16ea904b9267",
-      "title": "光電整合進入「打群架」時代，聯發科侯上勇：CPO路線未定，良率才是關鍵",
-      "link": "https://technews.tw/2026/11/15/cpo-mediatek-hou-shang-yong-optoelectronic-integration-battleground-tech-choices-not-just-cost/",
-      "summary": "CPO（共同封裝光學）被視為 AI 突破資料傳輸與功耗瓶頸的重要技術，但未來是否由 CPO 主導，產業界仍有不 [&#8230;]",
-      "date": "2026-11-15T01:00:35+00:00",
+      "id": "7d6578d12207",
+      "title": "股東控隱瞞 PC 銷售疲弱，英特爾遭集體訴訟",
+      "link": "https://finance.technews.tw/2026/11/16/intel-hit-with-class-action-lawsuit-over-alleged-concealment-of-weak-pc-sales/",
+      "summary": "英特爾（Intel）遭股東提起集體訴訟，原告指控這家美國晶片製造商隱瞞個人電腦（PC）銷售長期放緩及庫存過剩對 [&#8230;]",
+      "date": "2026-11-16T03:25:59+00:00",
+      "sourceId": "technews",
+      "cats": [
+        "market",
+        "process",
+        "material"
+      ]
+    },
+    {
+      "id": "44fb86371b86",
+      "title": "LMSYS 成立 SGLang 聯盟，輝達、AMD、Google、Meta 等八家業者共推開源 AI 推論",
+      "link": "https://technews.tw/2026/11/16/covering-the-fastest-computers-in-the-world-and-the-people-who-run-them-15/",
+      "summary": "非營利組織 LMSYS Org 12 日在舊金山首屆 SGLang Summit 開幕主題演講，宣布成立「SG [&#8230;]",
+      "date": "2026-11-16T03:10:48+00:00",
+      "sourceId": "technews",
+      "cats": [
+        "market",
+        "process",
+        "material"
+      ]
+    },
+    {
+      "id": "af70557401cc",
+      "title": "再生晶圓廠 RS 純益增 2 成、台灣投資計畫不變",
+      "link": "https://finance.technews.tw/2026/11/16/rs-technologies-net-profit-rises-20-investment-plans-unchanged/",
+      "summary": "增產投資、銷量增加，全球再生晶圓大廠 RS Technologies 今年度前三季純益成長近兩成，不過 RS [&#8230;]",
+      "date": "2026-11-16T03:00:46+00:00",
+      "sourceId": "technews",
+      "cats": [
+        "market",
+        "process",
+        "material"
+      ]
+    },
+    {
+      "id": "ea5cbceb8233",
+      "title": "防 AI 晶片轉運，馬來西亞擬要求資料中心申報 GPU 進口與用電量",
+      "link": "https://technews.tw/2026/11/16/malaysia-plans-new-law-using-data-center-power-consumption-to-catch-ai-gpu-smugglers/",
+      "summary": "馬來西亞正研擬新法，要求資料中心業者揭露 AI 加速器進口數量、用電情況、設施位置，以及營運商與大型雲端客戶身 [&#8230;]",
+      "date": "2026-11-16T02:55:49+00:00",
       "sourceId": "technews",
       "cats": [
         "market",
