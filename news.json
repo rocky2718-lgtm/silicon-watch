@@ -1,6 +1,6 @@
 {
-  "updated": "2026-11-16T06:03:59.228619+00:00",
-  "count": 19,
+  "updated": "2026-11-16T18:18:18.091205+00:00",
+  "count": 16,
   "sources": [
     {
       "id": "technews",
@@ -61,11 +61,24 @@
   ],
   "articles": [
     {
-      "id": "c8558ebe6762",
-      "title": "法人富邦投顧：台廠短線承壓但具高度替代門檻、拉回迎布局良機",
-      "link": "https://finance.technews.tw/2026/11/16/taiwanese-manufacturers-face-short-term-pressure-but-have-a-high-barrier-to-entry-for-substitution/",
-      "summary": "全球人工智慧（AI）晶片龍頭輝達（NVIDIA）驚傳重大人事震盪，輝達董事會於 11 月 12 日宣布，創辦人 [&#8230;]",
-      "date": "2026-11-16T04:40:32+00:00",
+      "id": "e84e416934a2",
+      "title": "Technology as a Trojan Horse",
+      "link": "https://www.eetimes.com/technology-as-a-trojan-horse/",
+      "summary": "Jensen Huang is no longer leading Nvidia, but his Trojan horse question remains, for chips and for the rest of the technology stack: sell and try to control, or don’t sell and maybe delay? The post Technology as a Trojan Horse appeared first on EE Times.",
+      "date": "2026-11-16T13:59:50+00:00",
+      "sourceId": "eetimes",
+      "cats": [
+        "process",
+        "material",
+        "equipment"
+      ]
+    },
+    {
+      "id": "d54b74e814a0",
+      "title": "黃仁勳去職，中媒：催化國產晶片自研與替代進程",
+      "link": "https://finance.technews.tw/2026/11/16/jensen-huang-resignation-chinese-media-accelerates-domestic-chip-rd-substitution/",
+      "summary": "輝達（NVIDIA）前執行長黃仁勳近期因個人風波辭職一事，部分外媒預測此舉將嚴重衝擊依賴美國晶片與技術的中國人 [&#8230;]",
+      "date": "2026-11-16T09:30:55+00:00",
       "sourceId": "technews",
       "cats": [
         "market",
@@ -74,11 +87,11 @@
       ]
     },
     {
-      "id": "59313599aade",
-      "title": "SK 海力士計劃建半導體測試中心，助韓中小型廠商提升競爭力",
-      "link": "https://technews.tw/2026/11/16/sk-hynix-chip-testing-hub/",
-      "summary": "SK 海力士計劃與韓國政府合作，於明年設立半導體測試中心，藉此提升韓國中小型半導體設備商的全球競爭力。 根據 [&#8230;]",
-      "date": "2026-11-16T04:30:04+00:00",
+      "id": "21ffbf12b92f",
+      "title": "台灣科技業力挺黃仁勳，台北 101 今晚點燈傳遞支持",
+      "link": "https://finance.technews.tw/2026/11/16/taipei-101-jensen-huang/",
+      "summary": "Nvidia 創辦人黃仁勳日前因個人因素宣布辭去執行長、總裁及董事會職務，消息震撼全球科技產業。由於黃仁勳與台 [&#8230;]",
+      "date": "2026-11-16T09:19:45+00:00",
       "sourceId": "technews",
       "cats": [
         "market",
@@ -87,11 +100,11 @@
       ]
     },
     {
-      "id": "88cab9aaa524",
-      "title": "中國情報網猛攻西方矽谷，FBI、MI5 齊聲警告：晶片與 AI 已成國安破口",
-      "link": "https://infosecu.technews.tw/2026/11/16/chinese-ai-espionage-heats-up/",
-      "summary": "根據美國媒體 14 日報導，中國針對西方科技與人工智慧（AI）產業的情報行動正引發國際高度警戒。報導指出，相關 [&#8230;]",
-      "date": "2026-11-16T03:40:24+00:00",
+      "id": "66e7f20ee1c5",
+      "title": "對輝達晶片輸中「放水」？盧特尼克遭爆料：東南亞資料中心是家族企業客戶",
+      "link": "https://technews.tw/2026/11/16/lutnick-chip-rules-and-family-business/",
+      "summary": "美國商務部長盧特尼克（Howard Lutnick）過去一直反對美國過度擴大晶片出口管制，包括對設於東南亞、向 [&#8230;]",
+      "date": "2026-11-16T09:09:28+00:00",
       "sourceId": "technews",
       "cats": [
         "market",
@@ -100,11 +113,11 @@
       ]
     },
     {
-      "id": "7d6578d12207",
-      "title": "股東控隱瞞 PC 銷售疲弱，英特爾遭集體訴訟",
-      "link": "https://finance.technews.tw/2026/11/16/intel-hit-with-class-action-lawsuit-over-alleged-concealment-of-weak-pc-sales/",
-      "summary": "英特爾（Intel）遭股東提起集體訴訟，原告指控這家美國晶片製造商隱瞞個人電腦（PC）銷售長期放緩及庫存過剩對 [&#8230;]",
-      "date": "2026-11-16T03:25:59+00:00",
+      "id": "537232a2d14d",
+      "title": "黃仁勳醜聞衝擊東南亞，中國取得美國 AI 算力的後門恐將關閉",
+      "link": "https://technews.tw/2026/11/16/how-jensen-huang-built-the-backdoor-route-that-keeps-beijing-in-the-ai-race/",
+      "summary": "隨著輝達（Nvidia）前執行長黃仁勳捲入醜聞，美國針對中國透過東南亞取得先進 AI 運算能力的「後門」，正準 [&#8230;]",
+      "date": "2026-11-16T09:00:10+00:00",
       "sourceId": "technews",
       "cats": [
         "market",
@@ -113,11 +126,11 @@
       ]
     },
     {
-      "id": "44fb86371b86",
-      "title": "LMSYS 成立 SGLang 聯盟，輝達、AMD、Google、Meta 等八家業者共推開源 AI 推論",
-      "link": "https://technews.tw/2026/11/16/covering-the-fastest-computers-in-the-world-and-the-people-who-run-them-15/",
-      "summary": "非營利組織 LMSYS Org 12 日在舊金山首屆 SGLang Summit 開幕主題演講，宣布成立「SG [&#8230;]",
-      "date": "2026-11-16T03:10:48+00:00",
+      "id": "4cbbf7ec4eee",
+      "title": "輝達風波未平仍獲美力挺，傳將列 AI 國家冠軍企業",
+      "link": "https://technews.tw/2026/11/16/trump-still-plans-to-make-nvidia-americas-ai-champion/",
+      "summary": "輝達前執行長黃仁勳陷婚外情風波之際，知情人士透露，川普政府仍打算將輝達（Nvidia）等 20 多家業者列為 [&#8230;]",
+      "date": "2026-11-16T07:50:37+00:00",
       "sourceId": "technews",
       "cats": [
         "market",
@@ -126,11 +139,11 @@
       ]
     },
     {
-      "id": "af70557401cc",
-      "title": "再生晶圓廠 RS 純益增 2 成、台灣投資計畫不變",
-      "link": "https://finance.technews.tw/2026/11/16/rs-technologies-net-profit-rises-20-investment-plans-unchanged/",
-      "summary": "增產投資、銷量增加，全球再生晶圓大廠 RS Technologies 今年度前三季純益成長近兩成，不過 RS [&#8230;]",
-      "date": "2026-11-16T03:00:46+00:00",
+      "id": "7dcac4fe3607",
+      "title": "漢測與德國設備大廠 ficonTEC 深化合作，搶攻矽光子測試商機",
+      "link": "https://technews.tw/2026/11/16/htsi-ficontec-cpo-cooperation/",
+      "summary": "德國光子自動化組裝與測試設備業者 ficonTEC Service GmbH（下稱 ficonTEC）與漢測今 [&#8230;]",
+      "date": "2026-11-16T07:15:56+00:00",
       "sourceId": "technews",
       "cats": [
         "market",
@@ -139,11 +152,11 @@
       ]
     },
     {
-      "id": "ea5cbceb8233",
-      "title": "防 AI 晶片轉運，馬來西亞擬要求資料中心申報 GPU 進口與用電量",
-      "link": "https://technews.tw/2026/11/16/malaysia-plans-new-law-using-data-center-power-consumption-to-catch-ai-gpu-smugglers/",
-      "summary": "馬來西亞正研擬新法，要求資料中心業者揭露 AI 加速器進口數量、用電情況、設施位置，以及營運商與大型雲端客戶身 [&#8230;]",
-      "date": "2026-11-16T02:55:49+00:00",
+      "id": "48c8b883e44f",
+      "title": "台股重挫 2,635.04 點史上第二大跌點，台積電跌 135 元",
+      "link": "https://finance.technews.tw/2026/11/16/taiwan-stock-market-plunges-2635-04-points-second-largest-drop-ever-tsmc-shares-fall-nt135/",
+      "summary": "黃仁勳辭輝達（NVIDIA）執行長後，市場對 AI 前景產生疑慮，美股費城半導體指數重挫，台股今天跌勢更深，收 [&#8230;]",
+      "date": "2026-11-16T06:35:03+00:00",
       "sourceId": "technews",
       "cats": [
         "market",
@@ -157,58 +170,6 @@
       "link": "https://www.eetimes.com/how-novogenius-mcu-devices-are-reshaping-the-automotive-edge-node/",
       "summary": "NOVOSENSE NovoGenius MCU+ chips integrate analog, power, and drivers, adding intelligence to automotive edge nodes for motor control, sensing and lighting. The post How NovoGenius® MCU+ Devices Are Reshaping the Automotive Edge Node appeared first on EE Times.",
       "date": "2026-11-13T10:41:03+00:00",
-      "sourceId": "eetimes",
-      "cats": [
-        "process",
-        "material",
-        "equipment"
-      ]
-    },
-    {
-      "id": "605f67f0c8a2",
-      "title": "Jensen Resigns Over Second Affair",
-      "link": "https://www.eetimes.com/jensen-resigns-over-second-affair/",
-      "summary": "Nvidia CEO’s second affair scandal in a week prompted his resignation, and the board is now searching for a new leader for the company. The post Jensen Resigns Over Second Affair appeared first on EE Times.",
-      "date": "2026-11-12T20:48:35+00:00",
-      "sourceId": "eetimes",
-      "cats": [
-        "process",
-        "material",
-        "equipment"
-      ]
-    },
-    {
-      "id": "2602bee4e2ee",
-      "title": "Can Machines See a Sick Plant Before a Farmer Can?",
-      "link": "https://www.eetimes.com/can-machines-see-a-sick-plant-before-a-farmer-can/",
-      "summary": "Soybean disease research shows the promise of hyperspectral imaging, while semiconductor advances could make spectral sensing affordable for farmers. The post Can Machines See a Sick Plant Before a Farmer Can? appeared first on EE Times.",
-      "date": "2026-11-12T13:00:00+00:00",
-      "sourceId": "eetimes",
-      "cats": [
-        "process",
-        "material",
-        "equipment"
-      ]
-    },
-    {
-      "id": "8c9f7c6b7366",
-      "title": "Connecting AI to the Physical World",
-      "link": "https://www.eetimes.com/connecting-ai-to-the-physical-world/",
-      "summary": "Why specialized wireless devices and SDR software IP matter to the next wave of intelligent machines The post Connecting AI to the Physical World appeared first on EE Times.",
-      "date": "2026-11-12T10:20:00+00:00",
-      "sourceId": "eetimes",
-      "cats": [
-        "process",
-        "material",
-        "equipment"
-      ]
-    },
-    {
-      "id": "d5a0c5caae7f",
-      "title": "Harari Warns Tech Leaders Against Pursuing AI Superintelligence",
-      "link": "https://www.eetimes.com/harari-warns-tech-leaders-against-pursuing-ai-superintelligence/",
-      "summary": "At Gartner IT Symposium/Xpo 2026, philosopher Yuval Noah Harari makes an appeal to delay artificial superintelligence as it threatens to erode human agency and democratic sovereignty. The post Harari Warns Tech Leaders Against Pursuing AI Superintelligence appeared first on EE Times.",
-      "date": "2026-11-12T08:30:00+00:00",
       "sourceId": "eetimes",
       "cats": [
         "process",
