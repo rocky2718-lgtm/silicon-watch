@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-17T02:51:41.427663+00:00",
+  "updated": "2026-11-17T13:01:47.432662+00:00",
   "count": 19,
   "sources": [
     {
@@ -61,11 +61,11 @@
   ],
   "articles": [
     {
-      "id": "ac0b491f40a9",
-      "title": "主打原生 FP64 雙精度，英特爾 D270 GPU 鎖定 HPC 與 AI 推論市場",
-      "link": "https://technews.tw/2026/11/17/the-case-for-intel-gpu-d270-in-high-performance-computing/",
-      "summary": "英特爾（Intel）11 月 16 日首度公開次世代 Crescent Island「D270」GPU 的初步 [&#8230;]",
-      "date": "2026-11-17T02:35:24+00:00",
+      "id": "e9bf3be7d747",
+      "title": "美嚴控先進 AI 晶片出口，集邦：部分訂單可能遞延",
+      "link": "https://finance.technews.tw/2026/11/17/us-tightens-control-advanced-ai-chip-exports-orders-delayed/",
+      "summary": "美國政府公布新規限制晶片出口至海外資料中心，市調機構集邦科技表示，東南亞 AI 資料中心的晶片採購門檻將提高， [&#8230;]",
+      "date": "2026-11-17T10:30:40+00:00",
       "sourceId": "technews",
       "cats": [
         "market",
@@ -74,11 +74,11 @@
       ]
     },
     {
-      "id": "4df0d0e2ffff",
-      "title": "全球最快超級電腦出爐！中國蟬聯、美國緊追，AMD 市占衝破 4 成",
-      "link": "https://technews.tw/2026/11/17/november-2026-top500/",
-      "summary": "根據最新公布的 Top500 超級電腦排行榜，中國靈晟（LineShine）蟬聯全球運算效能最強的超級電腦，接 [&#8230;]",
-      "date": "2026-11-17T02:20:23+00:00",
+      "id": "c5e93e4d6ee8",
+      "title": "美祭 AI 晶片出口新規防轉運，廣達、緯創評估不受影響",
+      "link": "https://finance.technews.tw/2026/11/17/us-ai-chip-export-rules-prevent-transshipment-quanta-wistron-no-impact/",
+      "summary": "川習於深圳會晤前夕，美國公布新規，限制晶片出口至海外資料中心，防止中國經轉運取得先進人工智慧（AI）晶片。台灣 [&#8230;]",
+      "date": "2026-11-17T09:50:48+00:00",
       "sourceId": "technews",
       "cats": [
         "market",
@@ -87,11 +87,11 @@
       ]
     },
     {
-      "id": "9224dc3cd528",
-      "title": "黃仁勳醜聞早有跡象，紐時去年揭黃樂關係企業疑助晶片轉運中國",
-      "link": "https://finance.technews.tw/2026/11/17/jensen-huang-scandal-early-signs-nyt-revealed-affiliated-companies-chip-transshipment-china/",
-      "summary": "輝達前執行長黃仁勳的婚外情牽扯美國國安及公司治理問題，而《紐約時報》早於去年就曾報導，新加坡資料中心公司 Me [&#8230;]",
-      "date": "2026-11-17T02:10:44+00:00",
+      "id": "99a65543e61b",
+      "title": "晶片散熱迎接新解方：科學家將玻璃拉至「單原子寬」，意外解鎖極限熱傳導",
+      "link": "https://technews.tw/2026/11/17/single-atom-glass-revolutionizes-chip-cooling/",
+      "summary": "我們通常直覺認為玻璃是優異的絕緣與隔熱材料，但一項刊登於《Nature Nanotechnology》的最新研 [&#8230;]",
+      "date": "2026-11-17T08:50:33+00:00",
       "sourceId": "technews",
       "cats": [
         "market",
@@ -100,11 +100,11 @@
       ]
     },
     {
-      "id": "7f3352fb1a63",
-      "title": "黃仁勳請辭風暴逢川普送暖，台股大盤力守 43,500 防線，軟體與 ASIC 族群成資金避風港",
-      "link": "https://finance.technews.tw/2026/11/17/jensen-huang-resignation-storm-trump-warmth-taiwan-stock-market-defends-43500-software-asic-capital-havens/",
-      "summary": "台股昨（16）日經歷劇烈震盪，因輝達（NVIDIA）執行長黃仁勳震撼宣布辭職消息，大盤一度重挫逾 1,500 [&#8230;]",
-      "date": "2026-11-17T02:00:27+00:00",
+      "id": "0348726d135f",
+      "title": "從 CAD 跨足高階 CAE！實威憑 SIMULIA 切入 AI 與網通供應鏈商機",
+      "link": "https://finance.technews.tw/2026/11/17/simulia/",
+      "summary": "隨著全球 AI、半導體及高效能運算產業持續擴大投資，帶動企業對產品研發設計、工程模擬分析及智慧製造的需求升溫， [&#8230;]",
+      "date": "2026-11-17T08:42:34+00:00",
       "sourceId": "technews",
       "cats": [
         "market",
@@ -113,11 +113,11 @@
       ]
     },
     {
-      "id": "59788f8d6128",
-      "title": "逾 17 萬人連署，籲恢復黃仁勳輝達執行長職務",
-      "link": "https://finance.technews.tw/2026/11/17/170k-sign-petition-restore-jensen-huang-nvidia-ceo/",
-      "summary": "一份呼籲恢復黃仁勳（Jensen Huang）輝達（Nvidia）執行長職務的公開信，已獲得多位矽谷知名人士連 [&#8230;]",
-      "date": "2026-11-17T01:50:19+00:00",
+      "id": "6dc2f861ba55",
+      "title": "醜聞風暴前夕布局？黃仁勳 3 月就將逾 105 億美元輝達股票轉入家族信託",
+      "link": "https://finance.technews.tw/2026/11/17/jensen-huang-and-wife-transferred-more-than-10-5-billion-to-family-trust-in-march-2026/",
+      "summary": "輝達（NVIDIA）前執行長黃仁勳辭去執行長約八個月前，已與妻子洛莉·黃（Lori Huang）將約 5,89 [&#8230;]",
+      "date": "2026-11-17T08:25:23+00:00",
       "sourceId": "technews",
       "cats": [
         "market",
@@ -126,11 +126,11 @@
       ]
     },
     {
-      "id": "39cf2917b983",
-      "title": "一顆晶片運送托盤，揭開日月光的減碳神話！當 AI 算力飆升，封測龍頭如何用「供應鏈韌性」築起新護城河？",
-      "link": "https://technews.tw/2026/11/17/ase-redefines-supply-chain-resilience-with-circular-chip-trays-in-the-ai-era/",
-      "summary": "談到半導體封測的減碳，多數人想到的是機台節能、再生能源或智慧工廠，但在日月光投控的 2025 年永續報告書裡， [&#8230;]",
-      "date": "2026-11-17T01:30:51+00:00",
+      "id": "0ebbd7cb9a52",
+      "title": "OpenAI 奧特曼談黃仁勳：英雄並不完美，強勁市場需求將支撐 AI 產業發展",
+      "link": "https://technews.tw/2026/11/17/sam-altman-speaks-at-silicon-valley-and-the-world-2/",
+      "summary": "NVIDIA 上週宣布黃仁勳（Jensen Huang）辭去執行長職位，由財務長柯蕾絲（Colette Kre [&#8230;]",
+      "date": "2026-11-17T08:14:47+00:00",
       "sourceId": "technews",
       "cats": [
         "market",
@@ -139,11 +139,11 @@
       ]
     },
     {
-      "id": "2fe030973bbd",
-      "title": "川普：不介意黃仁勳回任輝達執行長、可能會和習近平談間諜事件",
-      "link": "https://technews.tw/2026/11/17/trump-jensen-huang-nvidia-ceo-return-xi-jinping-espionage-talks/",
-      "summary": "輝達創辦人黃仁勳爆出婚外情並引發美國國安疑慮，辭去執行長職務後，近期多位矽谷知名人士連署支持他回歸。美國總統川 [&#8230;]",
-      "date": "2026-11-17T01:30:40+00:00",
+      "id": "a120126d0401",
+      "title": "SpaceX 採高通 5G 晶片方案，有望降低數萬座基地台部署成本",
+      "link": "https://technews.tw/2026/11/17/spacex-qualcomm-5g-chip-tens-thousands-base-station-deployment-cost-reduction/",
+      "summary": "近日 SpaceX 與高通宣布簽訂多年期供應合約，未來 SpaceX 基地台將大量搭載高通 Dragonwin [&#8230;]",
+      "date": "2026-11-17T08:11:50+00:00",
       "sourceId": "technews",
       "cats": [
         "market",
@@ -152,11 +152,11 @@
       ]
     },
     {
-      "id": "c4644187a495",
-      "title": "馬斯克、三星深化合作，傳三星德州廠將為 SpaceX 生產晶片",
-      "link": "https://technews.tw/2026/11/17/elon-musk-samsung-chips/",
-      "summary": "據韓媒報導，韓國半導體大廠三星將在德州廠區替意法半導體（STMicroelectronics）生產晶片，未來將 [&#8230;]",
-      "date": "2026-11-17T01:07:59+00:00",
+      "id": "26cdc7e34a51",
+      "title": "蘋果 AI 進入付費時代？Siri 複雜指令與圖片生成將受「每台裝置」額度管控",
+      "link": "https://technews.tw/2026/11/17/apple-siri-ai-usage-limit/",
+      "summary": "蘋果（Apple）近期正針對 Siri AI 與部分 Apple Intelligence 功能，測試全新的「 [&#8230;]",
+      "date": "2026-11-17T08:10:16+00:00",
       "sourceId": "technews",
       "cats": [
         "market",
@@ -165,11 +165,11 @@
       ]
     },
     {
-      "id": "b708f4f0b3f6",
-      "title": "建興儲存推出工業級  PCIe® Gen4 QLC SSD，瞄準 AI PC 與工業應用",
-      "link": "https://technews.tw/2026/11/17/ssstc-kiocia-qlc-nand-pq2-ssd/",
-      "summary": "建興儲存科技（SSSTC）為鎧俠（Kioxia Corporation）旗下子公司，今日宣布推出 SSSTC [&#8230;]",
-      "date": "2026-11-17T01:00:12+00:00",
+      "id": "08775286edef",
+      "title": "美晶片禁令下另闢蹊徑，中企藉美 AI 模型訓練自家系統",
+      "link": "https://technews.tw/2026/11/17/chinese-firms-use-us-ai-models-to-train-their-own-systems/",
+      "summary": "文件顯示，在美國對中國取得晶片一事收緊限制之際，中國實體正採取日益複雜的手法，利用美國頂尖 AI 模型的輸出結 [&#8230;]",
+      "date": "2026-11-17T07:50:12+00:00",
       "sourceId": "technews",
       "cats": [
         "market",
@@ -178,11 +178,24 @@
       ]
     },
     {
-      "id": "18f6bf500fe1",
-      "title": "《晶片戰爭》作者：輝達挑戰華府對中鷹派，調查不會止於黃仁勳",
-      "link": "https://technews.tw/2026/11/17/chip-war-author-nvidia-challenges-washington-china-hawks-investigation-wont-stop-jensen-huang/",
-      "summary": "暢銷書《晶片戰爭》作者、經濟史學者米勒指出，許多晶片公司往往會基於商業利益，主張自家產品應被允許銷往中國，過去 [&#8230;]",
-      "date": "2026-11-17T00:25:36+00:00",
+      "id": "f6d30fe37766",
+      "title": "美商務部公布晶片出口管制新規，封殺中國繞道海外晶圓代工與封測通路",
+      "link": "https://technews.tw/2026/11/17/the-us-is-blocking-chinas-access-to-overseas-manufacturing-and-packagingtesting-services/",
+      "summary": "美國商務部於 17 日正式公布新一輪先進計算與半導體出口管制暫行最終規則（IFR），市場輿論多聚焦於防堵中國企 [&#8230;]",
+      "date": "2026-11-17T07:10:33+00:00",
+      "sourceId": "technews",
+      "cats": [
+        "market",
+        "process",
+        "material"
+      ]
+    },
+    {
+      "id": "1ca30c912e26",
+      "title": "美嚴控先進 AI 晶片出口，供應鏈：製造流向有既定機制監管",
+      "link": "https://technews.tw/2026/11/17/us-strict-controls-advanced-ai-chip-exports-supply-chain-manufacturing-flows-established-mechanisms-regulate/",
+      "summary": "美國政府發布新規進一步限制晶片出口至海外資料中心，4 位產業人士今天接受記者詢問表示，對半導體上游供應鏈影響有 [&#8230;]",
+      "date": "2026-11-17T06:50:38+00:00",
       "sourceId": "technews",
       "cats": [
         "market",
@@ -196,19 +209,6 @@
       "link": "https://www.eetimes.com/technology-as-a-trojan-horse/",
       "summary": "Jensen Huang is no longer leading Nvidia, but his Trojan horse question remains, for chips and for the rest of the technology stack: sell and try to control, or don’t sell and maybe delay? The post Technology as a Trojan Horse appeared first on EE Times.",
       "date": "2026-11-16T13:59:50+00:00",
-      "sourceId": "eetimes",
-      "cats": [
-        "process",
-        "material",
-        "equipment"
-      ]
-    },
-    {
-      "id": "72ae87071410",
-      "title": "How NovoGenius® MCU+ Devices Are Reshaping the Automotive Edge Node",
-      "link": "https://www.eetimes.com/how-novogenius-mcu-devices-are-reshaping-the-automotive-edge-node/",
-      "summary": "NOVOSENSE NovoGenius MCU+ chips integrate analog, power, and drivers, adding intelligence to automotive edge nodes for motor control, sensing and lighting. The post How NovoGenius® MCU+ Devices Are Reshaping the Automotive Edge Node appeared first on EE Times.",
-      "date": "2026-11-13T10:41:03+00:00",
       "sourceId": "eetimes",
       "cats": [
         "process",
