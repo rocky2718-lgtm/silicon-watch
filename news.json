@@ -1,6 +1,6 @@
 {
-  "updated": "2026-11-16T18:18:18.091205+00:00",
-  "count": 16,
+  "updated": "2026-11-17T02:51:41.427663+00:00",
+  "count": 19,
   "sources": [
     {
       "id": "technews",
@@ -61,6 +61,136 @@
   ],
   "articles": [
     {
+      "id": "ac0b491f40a9",
+      "title": "主打原生 FP64 雙精度，英特爾 D270 GPU 鎖定 HPC 與 AI 推論市場",
+      "link": "https://technews.tw/2026/11/17/the-case-for-intel-gpu-d270-in-high-performance-computing/",
+      "summary": "英特爾（Intel）11 月 16 日首度公開次世代 Crescent Island「D270」GPU 的初步 [&#8230;]",
+      "date": "2026-11-17T02:35:24+00:00",
+      "sourceId": "technews",
+      "cats": [
+        "market",
+        "process",
+        "material"
+      ]
+    },
+    {
+      "id": "4df0d0e2ffff",
+      "title": "全球最快超級電腦出爐！中國蟬聯、美國緊追，AMD 市占衝破 4 成",
+      "link": "https://technews.tw/2026/11/17/november-2026-top500/",
+      "summary": "根據最新公布的 Top500 超級電腦排行榜，中國靈晟（LineShine）蟬聯全球運算效能最強的超級電腦，接 [&#8230;]",
+      "date": "2026-11-17T02:20:23+00:00",
+      "sourceId": "technews",
+      "cats": [
+        "market",
+        "process",
+        "material"
+      ]
+    },
+    {
+      "id": "9224dc3cd528",
+      "title": "黃仁勳醜聞早有跡象，紐時去年揭黃樂關係企業疑助晶片轉運中國",
+      "link": "https://finance.technews.tw/2026/11/17/jensen-huang-scandal-early-signs-nyt-revealed-affiliated-companies-chip-transshipment-china/",
+      "summary": "輝達前執行長黃仁勳的婚外情牽扯美國國安及公司治理問題，而《紐約時報》早於去年就曾報導，新加坡資料中心公司 Me [&#8230;]",
+      "date": "2026-11-17T02:10:44+00:00",
+      "sourceId": "technews",
+      "cats": [
+        "market",
+        "process",
+        "material"
+      ]
+    },
+    {
+      "id": "7f3352fb1a63",
+      "title": "黃仁勳請辭風暴逢川普送暖，台股大盤力守 43,500 防線，軟體與 ASIC 族群成資金避風港",
+      "link": "https://finance.technews.tw/2026/11/17/jensen-huang-resignation-storm-trump-warmth-taiwan-stock-market-defends-43500-software-asic-capital-havens/",
+      "summary": "台股昨（16）日經歷劇烈震盪，因輝達（NVIDIA）執行長黃仁勳震撼宣布辭職消息，大盤一度重挫逾 1,500 [&#8230;]",
+      "date": "2026-11-17T02:00:27+00:00",
+      "sourceId": "technews",
+      "cats": [
+        "market",
+        "process",
+        "material"
+      ]
+    },
+    {
+      "id": "59788f8d6128",
+      "title": "逾 17 萬人連署，籲恢復黃仁勳輝達執行長職務",
+      "link": "https://finance.technews.tw/2026/11/17/170k-sign-petition-restore-jensen-huang-nvidia-ceo/",
+      "summary": "一份呼籲恢復黃仁勳（Jensen Huang）輝達（Nvidia）執行長職務的公開信，已獲得多位矽谷知名人士連 [&#8230;]",
+      "date": "2026-11-17T01:50:19+00:00",
+      "sourceId": "technews",
+      "cats": [
+        "market",
+        "process",
+        "material"
+      ]
+    },
+    {
+      "id": "39cf2917b983",
+      "title": "一顆晶片運送托盤，揭開日月光的減碳神話！當 AI 算力飆升，封測龍頭如何用「供應鏈韌性」築起新護城河？",
+      "link": "https://technews.tw/2026/11/17/ase-redefines-supply-chain-resilience-with-circular-chip-trays-in-the-ai-era/",
+      "summary": "談到半導體封測的減碳，多數人想到的是機台節能、再生能源或智慧工廠，但在日月光投控的 2025 年永續報告書裡， [&#8230;]",
+      "date": "2026-11-17T01:30:51+00:00",
+      "sourceId": "technews",
+      "cats": [
+        "market",
+        "process",
+        "material"
+      ]
+    },
+    {
+      "id": "2fe030973bbd",
+      "title": "川普：不介意黃仁勳回任輝達執行長、可能會和習近平談間諜事件",
+      "link": "https://technews.tw/2026/11/17/trump-jensen-huang-nvidia-ceo-return-xi-jinping-espionage-talks/",
+      "summary": "輝達創辦人黃仁勳爆出婚外情並引發美國國安疑慮，辭去執行長職務後，近期多位矽谷知名人士連署支持他回歸。美國總統川 [&#8230;]",
+      "date": "2026-11-17T01:30:40+00:00",
+      "sourceId": "technews",
+      "cats": [
+        "market",
+        "process",
+        "material"
+      ]
+    },
+    {
+      "id": "c4644187a495",
+      "title": "馬斯克、三星深化合作，傳三星德州廠將為 SpaceX 生產晶片",
+      "link": "https://technews.tw/2026/11/17/elon-musk-samsung-chips/",
+      "summary": "據韓媒報導，韓國半導體大廠三星將在德州廠區替意法半導體（STMicroelectronics）生產晶片，未來將 [&#8230;]",
+      "date": "2026-11-17T01:07:59+00:00",
+      "sourceId": "technews",
+      "cats": [
+        "market",
+        "process",
+        "material"
+      ]
+    },
+    {
+      "id": "b708f4f0b3f6",
+      "title": "建興儲存推出工業級  PCIe® Gen4 QLC SSD，瞄準 AI PC 與工業應用",
+      "link": "https://technews.tw/2026/11/17/ssstc-kiocia-qlc-nand-pq2-ssd/",
+      "summary": "建興儲存科技（SSSTC）為鎧俠（Kioxia Corporation）旗下子公司，今日宣布推出 SSSTC [&#8230;]",
+      "date": "2026-11-17T01:00:12+00:00",
+      "sourceId": "technews",
+      "cats": [
+        "market",
+        "process",
+        "material"
+      ]
+    },
+    {
+      "id": "18f6bf500fe1",
+      "title": "《晶片戰爭》作者：輝達挑戰華府對中鷹派，調查不會止於黃仁勳",
+      "link": "https://technews.tw/2026/11/17/chip-war-author-nvidia-challenges-washington-china-hawks-investigation-wont-stop-jensen-huang/",
+      "summary": "暢銷書《晶片戰爭》作者、經濟史學者米勒指出，許多晶片公司往往會基於商業利益，主張自家產品應被允許銷往中國，過去 [&#8230;]",
+      "date": "2026-11-17T00:25:36+00:00",
+      "sourceId": "technews",
+      "cats": [
+        "market",
+        "process",
+        "material"
+      ]
+    },
+    {
       "id": "e84e416934a2",
       "title": "Technology as a Trojan Horse",
       "link": "https://www.eetimes.com/technology-as-a-trojan-horse/",
@@ -71,97 +201,6 @@
         "process",
         "material",
         "equipment"
-      ]
-    },
-    {
-      "id": "d54b74e814a0",
-      "title": "黃仁勳去職，中媒：催化國產晶片自研與替代進程",
-      "link": "https://finance.technews.tw/2026/11/16/jensen-huang-resignation-chinese-media-accelerates-domestic-chip-rd-substitution/",
-      "summary": "輝達（NVIDIA）前執行長黃仁勳近期因個人風波辭職一事，部分外媒預測此舉將嚴重衝擊依賴美國晶片與技術的中國人 [&#8230;]",
-      "date": "2026-11-16T09:30:55+00:00",
-      "sourceId": "technews",
-      "cats": [
-        "market",
-        "process",
-        "material"
-      ]
-    },
-    {
-      "id": "21ffbf12b92f",
-      "title": "台灣科技業力挺黃仁勳，台北 101 今晚點燈傳遞支持",
-      "link": "https://finance.technews.tw/2026/11/16/taipei-101-jensen-huang/",
-      "summary": "Nvidia 創辦人黃仁勳日前因個人因素宣布辭去執行長、總裁及董事會職務，消息震撼全球科技產業。由於黃仁勳與台 [&#8230;]",
-      "date": "2026-11-16T09:19:45+00:00",
-      "sourceId": "technews",
-      "cats": [
-        "market",
-        "process",
-        "material"
-      ]
-    },
-    {
-      "id": "66e7f20ee1c5",
-      "title": "對輝達晶片輸中「放水」？盧特尼克遭爆料：東南亞資料中心是家族企業客戶",
-      "link": "https://technews.tw/2026/11/16/lutnick-chip-rules-and-family-business/",
-      "summary": "美國商務部長盧特尼克（Howard Lutnick）過去一直反對美國過度擴大晶片出口管制，包括對設於東南亞、向 [&#8230;]",
-      "date": "2026-11-16T09:09:28+00:00",
-      "sourceId": "technews",
-      "cats": [
-        "market",
-        "process",
-        "material"
-      ]
-    },
-    {
-      "id": "537232a2d14d",
-      "title": "黃仁勳醜聞衝擊東南亞，中國取得美國 AI 算力的後門恐將關閉",
-      "link": "https://technews.tw/2026/11/16/how-jensen-huang-built-the-backdoor-route-that-keeps-beijing-in-the-ai-race/",
-      "summary": "隨著輝達（Nvidia）前執行長黃仁勳捲入醜聞，美國針對中國透過東南亞取得先進 AI 運算能力的「後門」，正準 [&#8230;]",
-      "date": "2026-11-16T09:00:10+00:00",
-      "sourceId": "technews",
-      "cats": [
-        "market",
-        "process",
-        "material"
-      ]
-    },
-    {
-      "id": "4cbbf7ec4eee",
-      "title": "輝達風波未平仍獲美力挺，傳將列 AI 國家冠軍企業",
-      "link": "https://technews.tw/2026/11/16/trump-still-plans-to-make-nvidia-americas-ai-champion/",
-      "summary": "輝達前執行長黃仁勳陷婚外情風波之際，知情人士透露，川普政府仍打算將輝達（Nvidia）等 20 多家業者列為 [&#8230;]",
-      "date": "2026-11-16T07:50:37+00:00",
-      "sourceId": "technews",
-      "cats": [
-        "market",
-        "process",
-        "material"
-      ]
-    },
-    {
-      "id": "7dcac4fe3607",
-      "title": "漢測與德國設備大廠 ficonTEC 深化合作，搶攻矽光子測試商機",
-      "link": "https://technews.tw/2026/11/16/htsi-ficontec-cpo-cooperation/",
-      "summary": "德國光子自動化組裝與測試設備業者 ficonTEC Service GmbH（下稱 ficonTEC）與漢測今 [&#8230;]",
-      "date": "2026-11-16T07:15:56+00:00",
-      "sourceId": "technews",
-      "cats": [
-        "market",
-        "process",
-        "material"
-      ]
-    },
-    {
-      "id": "48c8b883e44f",
-      "title": "台股重挫 2,635.04 點史上第二大跌點，台積電跌 135 元",
-      "link": "https://finance.technews.tw/2026/11/16/taiwan-stock-market-plunges-2635-04-points-second-largest-drop-ever-tsmc-shares-fall-nt135/",
-      "summary": "黃仁勳辭輝達（NVIDIA）執行長後，市場對 AI 前景產生疑慮，美股費城半導體指數重挫，台股今天跌勢更深，收 [&#8230;]",
-      "date": "2026-11-16T06:35:03+00:00",
-      "sourceId": "technews",
-      "cats": [
-        "market",
-        "process",
-        "material"
       ]
     },
     {
