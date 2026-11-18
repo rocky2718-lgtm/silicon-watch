@@ -1,6 +1,6 @@
 {
-  "updated": "2026-11-17T22:09:16.057104+00:00",
-  "count": 19,
+  "updated": "2026-11-18T07:03:58.328321+00:00",
+  "count": 18,
   "sources": [
     {
       "id": "technews",
@@ -61,11 +61,24 @@
   ],
   "articles": [
     {
-      "id": "e9bf3be7d747",
-      "title": "美嚴控先進 AI 晶片出口，集邦：部分訂單可能遞延",
-      "link": "https://finance.technews.tw/2026/11/17/us-tightens-control-advanced-ai-chip-exports-orders-delayed/",
-      "summary": "美國政府公布新規限制晶片出口至海外資料中心，市調機構集邦科技表示，東南亞 AI 資料中心的晶片採購門檻將提高， [&#8230;]",
-      "date": "2026-11-17T10:30:40+00:00",
+      "id": "f8f4ee655567",
+      "title": "Edge AI Moves Agricultural Intelligence from the Cloud to the Field",
+      "link": "https://www.eetimes.com/edge-ai-moves-agricultural-intelligence-from-the-cloud-to-the-field/",
+      "summary": "NXP and Nvidia tackle the challenges of delivering computing power, energy efficiency, and safety as agricultural machinery becomes autonomous. The post Edge AI Moves Agricultural Intelligence from the Cloud to the Field appeared first on EE Times.",
+      "date": "2026-11-18T06:59:00+00:00",
+      "sourceId": "eetimes",
+      "cats": [
+        "process",
+        "material",
+        "equipment"
+      ]
+    },
+    {
+      "id": "a17ae437f465",
+      "title": "搶攻無人化晶圓廠，三星、SK 海力士、美光聯手制定機器人充電標準",
+      "link": "https://technews.tw/2026/11/18/samsung-sk-hynix-micron-robot-charging-standard/",
+      "summary": "隨著機器人應用越來越廣泛，市場消息傳出，三星、SK 海力士與美光正攜手制定半導體晶圓廠行動機器人的共同充電標準 [&#8230;]",
+      "date": "2026-11-18T06:52:01+00:00",
       "sourceId": "technews",
       "cats": [
         "market",
@@ -74,11 +87,11 @@
       ]
     },
     {
-      "id": "c5e93e4d6ee8",
-      "title": "美祭 AI 晶片出口新規防轉運，廣達、緯創評估不受影響",
-      "link": "https://finance.technews.tw/2026/11/17/us-ai-chip-export-rules-prevent-transshipment-quanta-wistron-no-impact/",
-      "summary": "川習於深圳會晤前夕，美國公布新規，限制晶片出口至海外資料中心，防止中國經轉運取得先進人工智慧（AI）晶片。台灣 [&#8230;]",
-      "date": "2026-11-17T09:50:48+00:00",
+      "id": "daea286869f6",
+      "title": "傳輝達部分董事力挺黃仁勳、安謀 CEO 憂接手觀感",
+      "link": "https://finance.technews.tw/2026/11/18/some-nvidia-directors-continue-push-to-bring-huang-back/",
+      "summary": "輝達（Nvidia Corp.）新任董事長 Harvey Jones 才公開表態無意讓黃仁勳（Jensen H [&#8230;]",
+      "date": "2026-11-18T06:50:11+00:00",
       "sourceId": "technews",
       "cats": [
         "market",
@@ -87,11 +100,11 @@
       ]
     },
     {
-      "id": "99a65543e61b",
-      "title": "晶片散熱迎接新解方：科學家將玻璃拉至「單原子寬」，意外解鎖極限熱傳導",
-      "link": "https://technews.tw/2026/11/17/single-atom-glass-revolutionizes-chip-cooling/",
-      "summary": "我們通常直覺認為玻璃是優異的絕緣與隔熱材料，但一項刊登於《Nature Nanotechnology》的最新研 [&#8230;]",
-      "date": "2026-11-17T08:50:33+00:00",
+      "id": "0b93e83286ff",
+      "title": "英特爾再傳裁員、全球 IT 部門受波及，陳立武效率改革不停歇",
+      "link": "https://finance.technews.tw/2026/11/18/intel-continues-layoffs/",
+      "summary": "英特爾（Intel）再度裁員，延續公司過去兩年持續進行的重整行動，也顯示執行長陳立武推動的效率改革在接近年底之 [&#8230;]",
+      "date": "2026-11-18T06:40:56+00:00",
       "sourceId": "technews",
       "cats": [
         "market",
@@ -100,11 +113,11 @@
       ]
     },
     {
-      "id": "0348726d135f",
-      "title": "從 CAD 跨足高階 CAE！實威憑 SIMULIA 切入 AI 與網通供應鏈商機",
-      "link": "https://finance.technews.tw/2026/11/17/simulia/",
-      "summary": "隨著全球 AI、半導體及高效能運算產業持續擴大投資，帶動企業對產品研發設計、工程模擬分析及智慧製造的需求升溫， [&#8230;]",
-      "date": "2026-11-17T08:42:34+00:00",
+      "id": "67ae678034fe",
+      "title": "輝達新掌門續挺 AI 融資、僅強調會嚴選  Nebius 嗨",
+      "link": "https://finance.technews.tw/2026/11/18/colette-kress-backs-ai-financing-but-stresses-careful-selection/",
+      "summary": "輝達（Nvidia）財務長兼代理執行長克雷斯（Colette Kress）接掌公司後，市場原先擔心她將縮減對 [&#8230;]",
+      "date": "2026-11-18T06:20:32+00:00",
       "sourceId": "technews",
       "cats": [
         "market",
@@ -113,11 +126,11 @@
       ]
     },
     {
-      "id": "6dc2f861ba55",
-      "title": "醜聞風暴前夕布局？黃仁勳 3 月就將逾 105 億美元輝達股票轉入家族信託",
-      "link": "https://finance.technews.tw/2026/11/17/jensen-huang-and-wife-transferred-more-than-10-5-billion-to-family-trust-in-march-2026/",
-      "summary": "輝達（NVIDIA）前執行長黃仁勳辭去執行長約八個月前，已與妻子洛莉·黃（Lori Huang）將約 5,89 [&#8230;]",
-      "date": "2026-11-17T08:25:23+00:00",
+      "id": "3c2b024de4d6",
+      "title": "台灣 AI 造富潮遇考驗，彭博：半導體富豪榮景能否持續掀憂",
+      "link": "https://finance.technews.tw/2026/11/18/taiwan-ai-wealth-boom-test-bloomberg-semiconductor-billionaire-prosperity-sustainability/",
+      "summary": "彭博（Bloomberg）報導，自 2022 年聊天機器人 ChatGPT 問世以來，短短幾年，台灣企業家打造 [&#8230;]",
+      "date": "2026-11-18T06:00:36+00:00",
       "sourceId": "technews",
       "cats": [
         "market",
@@ -126,11 +139,11 @@
       ]
     },
     {
-      "id": "0ebbd7cb9a52",
-      "title": "OpenAI 奧特曼談黃仁勳：英雄並不完美，強勁市場需求將支撐 AI 產業發展",
-      "link": "https://technews.tw/2026/11/17/sam-altman-speaks-at-silicon-valley-and-the-world-2/",
-      "summary": "NVIDIA 上週宣布黃仁勳（Jensen Huang）辭去執行長職位，由財務長柯蕾絲（Colette Kre [&#8230;]",
-      "date": "2026-11-17T08:14:47+00:00",
+      "id": "e787c32e7c34",
+      "title": "輝達：已停止向中國出貨 Hopper 晶片",
+      "link": "https://technews.tw/2026/11/18/nvidia-stops-shipping-hopper-chips-to-china/",
+      "summary": "綜合港媒引述外媒報導，輝達（Nvidia）代理執行長克雷斯（Colette Kress）於財報電話會議上表示， [&#8230;]",
+      "date": "2026-11-18T05:30:17+00:00",
       "sourceId": "technews",
       "cats": [
         "market",
@@ -139,11 +152,11 @@
       ]
     },
     {
-      "id": "a120126d0401",
-      "title": "SpaceX 採高通 5G 晶片方案，有望降低數萬座基地台部署成本",
-      "link": "https://technews.tw/2026/11/17/spacex-qualcomm-5g-chip-tens-thousands-base-station-deployment-cost-reduction/",
-      "summary": "近日 SpaceX 與高通宣布簽訂多年期供應合約，未來 SpaceX 基地台將大量搭載高通 Dragonwin [&#8230;]",
-      "date": "2026-11-17T08:11:50+00:00",
+      "id": "8ac5eda7160c",
+      "title": "台積電工程師征戰全球必備！大同「晶圓電鍋」奪 2026 金點設計獎",
+      "link": "https://finance.technews.tw/2026/11/18/golden-pin-design-award/",
+      "summary": "大同今日宣布台積電員工禮「11 人份全不鏽鋼電鍋（曜石灰）」，榮獲 2026 年金點設計獎「產品設計類」設計標 [&#8230;]",
+      "date": "2026-11-18T03:42:07+00:00",
       "sourceId": "technews",
       "cats": [
         "market",
@@ -152,11 +165,11 @@
       ]
     },
     {
-      "id": "26cdc7e34a51",
-      "title": "蘋果 AI 進入付費時代？Siri 複雜指令與圖片生成將受「每台裝置」額度管控",
-      "link": "https://technews.tw/2026/11/17/apple-siri-ai-usage-limit/",
-      "summary": "蘋果（Apple）近期正針對 Siri AI 與部分 Apple Intelligence 功能，測試全新的「 [&#8230;]",
-      "date": "2026-11-17T08:10:16+00:00",
+      "id": "26264fccc69e",
+      "title": "輝達發表 Rubin HPC：單顆 GPU 塞進逾 5 萬個 CUDA 核心，2028 年推出",
+      "link": "https://technews.tw/2026/11/18/nvidia-announces-rubin-hpc/",
+      "summary": "輝達（NVIDIA）於 SC26 超級運算大會上宣布推出 Rubin HPC，這款隸屬於 Vera Rubin [&#8230;]",
+      "date": "2026-11-18T03:40:23+00:00",
       "sourceId": "technews",
       "cats": [
         "market",
@@ -165,11 +178,11 @@
       ]
     },
     {
-      "id": "08775286edef",
-      "title": "美晶片禁令下另闢蹊徑，中企藉美 AI 模型訓練自家系統",
-      "link": "https://technews.tw/2026/11/17/chinese-firms-use-us-ai-models-to-train-their-own-systems/",
-      "summary": "文件顯示，在美國對中國取得晶片一事收緊限制之際，中國實體正採取日益複雜的手法，利用美國頂尖 AI 模型的輸出結 [&#8230;]",
-      "date": "2026-11-17T07:50:12+00:00",
+      "id": "8c3215f2ec49",
+      "title": "安葆：各項業務穩步推進，持續擴大海外電力市場",
+      "link": "https://technews.tw/2026/11/18/anbao-steady-business-progress-overseas-power-market-expansion/",
+      "summary": "安葆受惠於半導體、高科技製造及 AI 資料中心電力基礎設施需求成長，帶動國內外大型專案出貨與施工進度加快，10 [&#8230;]",
+      "date": "2026-11-18T03:30:34+00:00",
       "sourceId": "technews",
       "cats": [
         "market",
@@ -178,37 +191,11 @@
       ]
     },
     {
-      "id": "f6d30fe37766",
-      "title": "美商務部公布晶片出口管制新規，封殺中國繞道海外晶圓代工與封測通路",
-      "link": "https://technews.tw/2026/11/17/the-us-is-blocking-chinas-access-to-overseas-manufacturing-and-packagingtesting-services/",
-      "summary": "美國商務部於 17 日正式公布新一輪先進計算與半導體出口管制暫行最終規則（IFR），市場輿論多聚焦於防堵中國企 [&#8230;]",
-      "date": "2026-11-17T07:10:33+00:00",
-      "sourceId": "technews",
-      "cats": [
-        "market",
-        "process",
-        "material"
-      ]
-    },
-    {
-      "id": "1ca30c912e26",
-      "title": "美嚴控先進 AI 晶片出口，供應鏈：製造流向有既定機制監管",
-      "link": "https://technews.tw/2026/11/17/us-strict-controls-advanced-ai-chip-exports-supply-chain-manufacturing-flows-established-mechanisms-regulate/",
-      "summary": "美國政府發布新規進一步限制晶片出口至海外資料中心，4 位產業人士今天接受記者詢問表示，對半導體上游供應鏈影響有 [&#8230;]",
-      "date": "2026-11-17T06:50:38+00:00",
-      "sourceId": "technews",
-      "cats": [
-        "market",
-        "process",
-        "material"
-      ]
-    },
-    {
-      "id": "e84e416934a2",
-      "title": "Technology as a Trojan Horse",
-      "link": "https://www.eetimes.com/technology-as-a-trojan-horse/",
-      "summary": "Jensen Huang is no longer leading Nvidia, but his Trojan horse question remains, for chips and for the rest of the technology stack: sell and try to control, or don’t sell and maybe delay? The post Technology as a Trojan Horse appeared first on EE Times.",
-      "date": "2026-11-16T13:59:50+00:00",
+      "id": "a2b21e003301",
+      "title": "Marc Hijink on ASML’s Culture, Supply Chain, and Geopolitics",
+      "link": "https://www.eetimes.com/marc-hijink-on-asmls-culture-supply-chain-and-geopolitics/",
+      "summary": "Explore how ASML’s partner-driven culture, EUV dominance, and geopolitical pressures reshaped chipmaking in Marc Hijink’s interview. The post Marc Hijink on ASML’s Culture, Supply Chain, and Geopolitics appeared first on EE Times.",
+      "date": "2026-11-17T22:37:22+00:00",
       "sourceId": "eetimes",
       "cats": [
         "process",
