@@ -1,6 +1,6 @@
 {
-  "updated": "2026-11-18T17:08:35.512920+00:00",
-  "count": 15,
+  "updated": "2026-11-19T00:10:57.965785+00:00",
+  "count": 14,
   "sources": [
     {
       "id": "technews",
@@ -60,6 +60,19 @@
     }
   ],
   "articles": [
+    {
+      "id": "4a6ba9270e6d",
+      "title": "美媒：輝達 2022 年牽線阿里巴巴與黃樂，涉助規避美晶片管制",
+      "link": "https://technews.tw/2026/11/19/nvidia-introduced-alibaba-to-alice-huang-for-workaround-on-u-s-export-controls/",
+      "summary": "科技媒體 The Information 引述匿名消息人士報導，2022 年，美國實施先進半導體出口管制前數月 [&#8230;]",
+      "date": "2026-11-19T00:05:33+00:00",
+      "sourceId": "technews",
+      "cats": [
+        "market",
+        "process",
+        "material"
+      ]
+    },
     {
       "id": "df206ef01c76",
       "title": "波士頓動力跨界半導體，人型機器人 Atlas 2027 年進駐格羅方德晶圓廠",
@@ -123,32 +136,6 @@
         "process",
         "material",
         "equipment"
-      ]
-    },
-    {
-      "id": "a17ae437f465",
-      "title": "搶攻無人化晶圓廠，三星、SK 海力士、美光聯手制定機器人充電標準",
-      "link": "https://technews.tw/2026/11/18/samsung-sk-hynix-micron-robot-charging-standard/",
-      "summary": "隨著機器人應用越來越廣泛，市場消息傳出，三星、SK 海力士與美光正攜手制定半導體晶圓廠行動機器人的共同充電標準 [&#8230;]",
-      "date": "2026-11-18T06:52:01+00:00",
-      "sourceId": "technews",
-      "cats": [
-        "market",
-        "process",
-        "material"
-      ]
-    },
-    {
-      "id": "daea286869f6",
-      "title": "傳輝達部分董事力挺黃仁勳、安謀 CEO 憂接手觀感",
-      "link": "https://finance.technews.tw/2026/11/18/some-nvidia-directors-continue-push-to-bring-huang-back/",
-      "summary": "輝達（Nvidia Corp.）新任董事長 Harvey Jones 才公開表態無意讓黃仁勳（Jensen H [&#8230;]",
-      "date": "2026-11-18T06:50:11+00:00",
-      "sourceId": "technews",
-      "cats": [
-        "market",
-        "process",
-        "material"
       ]
     },
     {
