@@ -1,6 +1,6 @@
 {
-  "updated": "2026-11-20T12:42:09.236250+00:00",
-  "count": 15,
+  "updated": "2026-11-20T21:44:41.943625+00:00",
+  "count": 14,
   "sources": [
     {
       "id": "technews",
@@ -131,19 +131,6 @@
       "link": "https://technews.tw/2026/11/20/ai-semiconductor-growth-drives-electricity-demand-taipower-partners-industry-academia-cultivate-power-talent/",
       "summary": "隨著 AI 與半導體產業快速發展，國內用電需求持續增加，電力產業也面臨人才培育與技術傳承挑戰。台灣電力與能源工 [&#8230;]",
       "date": "2026-11-20T06:58:42+00:00",
-      "sourceId": "technews",
-      "cats": [
-        "market",
-        "process",
-        "material"
-      ]
-    },
-    {
-      "id": "b886e6b5cd30",
-      "title": "台積電創逾 7 個月新低價，盤中零股交易衝逾 241 億元",
-      "link": "https://finance.technews.tw/2026/11/20/tsmc-2000-stock-price/",
-      "summary": "晶圓代工廠台積電今天股價開低走低，盤中一度跌破 2,000 元關卡，滑落至 1,970 元，創下 7 個多月來 [&#8230;]",
-      "date": "2026-11-20T06:45:21+00:00",
       "sourceId": "technews",
       "cats": [
         "market",
