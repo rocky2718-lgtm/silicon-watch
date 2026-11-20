@@ -1,6 +1,6 @@
 {
-  "updated": "2026-11-20T02:57:15.257765+00:00",
-  "count": 20,
+  "updated": "2026-11-20T12:42:09.236250+00:00",
+  "count": 15,
   "sources": [
     {
       "id": "technews",
@@ -61,11 +61,24 @@
   ],
   "articles": [
     {
-      "id": "1569c3ae9d00",
-      "title": "路透：台積電暫停中國 16 奈米以下訂單，替代輝達晶片研發受阻",
-      "link": "https://technews.tw/2026/11/20/tsmc-suspends-china-sub-16nm-orders-alternative-nvidia-chip-rd-stalled/",
-      "summary": "美國商務部先進晶片出口管制新規今天生效。路透社今天引述知情人士消息指出，根據台積電指引，受影響中國客戶原則上只 [&#8230;]",
-      "date": "2026-11-20T01:50:51+00:00",
+      "id": "972473900e0e",
+      "title": "Anthropic’s IPO and the B2D Strategy",
+      "link": "https://www.eetimes.com/anthropic-ipo-and-the-b2d-strategy/",
+      "summary": "From Nvidia’s CUDA to Anthropic's Claude Code, developer adoption can drive enterprise sales, but hardware startups show how difficult conversion can be. The post Anthropic&#8217;s IPO and the B2D Strategy appeared first on EE Times.",
+      "date": "2026-11-20T09:43:53+00:00",
+      "sourceId": "eetimes",
+      "cats": [
+        "process",
+        "material",
+        "equipment"
+      ]
+    },
+    {
+      "id": "7e6bba1cca2f",
+      "title": "存貨天數拉長！七大網通廠高價搶記憶體，如今恐陷庫存跌價壓力",
+      "link": "https://technews.tw/2026/11/20/networking-equipment-manufacturer-memory/",
+      "summary": "過去記憶體市場面臨價格暴漲，多家大廠為確保貨源，紛透過簽訂長約提前鎖定供應。近期記憶體漲價行情開始出現分歧，市 [&#8230;]",
+      "date": "2026-11-20T08:12:58+00:00",
       "sourceId": "technews",
       "cats": [
         "market",
@@ -74,11 +87,11 @@
       ]
     },
     {
-      "id": "6104a6b8e859",
-      "title": "美光桃園勞資爭議影響企業全球產能布局，台廠亦重新思考當地設點決策",
-      "link": "https://finance.technews.tw/2026/11/20/labor-dispute-at-microns-taoyuan-facility-impacts-companys-global-production-footprint/",
-      "summary": "美商記憶體大廠美光科技（Micron）在台灣桃園廠的勞資爭議持續延燒，在內部協商不確定性提高之後，後續在台灣的 [&#8230;]",
-      "date": "2026-11-20T01:45:06+00:00",
+      "id": "d7f3a44d01b7",
+      "title": "輝達共同創辦人員工大會哽咽，批黃仁勳「背叛公司核心價值」",
+      "link": "https://technews.tw/2026/11/20/nvidia-co-founder-choked-up-employee-meeting-criticizes-jensen-huang-betraying-core-values/",
+      "summary": "韓國媒體朝鮮日報今天報導，晶片大廠輝達共同創辦人馬拉科夫斯基在全體員工大會上，語帶哽咽公開批評前執行長黃仁勳背 [&#8230;]",
+      "date": "2026-11-20T07:50:50+00:00",
       "sourceId": "technews",
       "cats": [
         "market",
@@ -87,11 +100,11 @@
       ]
     },
     {
-      "id": "163e18d5cbcc",
-      "title": "AI ASIC 與 TPU 動能強勁，大摩喊聯發科目標價 6,188 元",
-      "link": "https://finance.technews.tw/2026/11/20/morgan-stanley-sets-mediatek-price-target-at-nt6188/",
-      "summary": "外資摩根士丹利（Morgan Stanley，大摩）最新研發報告指出，亞太高峰會（Asia Pacific S [&#8230;]",
-      "date": "2026-11-20T01:10:36+00:00",
+      "id": "640c883f0e0f",
+      "title": "輝達洽購擴散語言模型新創 Inception，金額逾 5 億美元",
+      "link": "https://finance.technews.tw/2026/11/20/nvidia-in-talks-to-acquire-inception-for-over-500m/",
+      "summary": "科技媒體 The Information 19 日引述三名知情人士報導，輝達（Nvidia）正與成立僅兩年的 [&#8230;]",
+      "date": "2026-11-20T07:30:53+00:00",
       "sourceId": "technews",
       "cats": [
         "market",
@@ -100,11 +113,11 @@
       ]
     },
     {
-      "id": "aaf2b7f7f115",
-      "title": "AI 硬體撐腰，大摩上修台灣 2027 年 GDP 成長至 8.7%",
-      "link": "https://technews.tw/2026/11/20/morgan-stanley-raises-taiwan-2027-gdp-growth-forecast-8-7-ai-hardware-support/",
-      "summary": "根據摩根士丹利（Morgan Stanley）最新發布的 2027 年經濟展望報告，台灣與韓國在全球半導體供應 [&#8230;]",
-      "date": "2026-11-20T00:50:58+00:00",
+      "id": "b479df056a39",
+      "title": "AI「交棒主義」掀論戰，學者警告人類恐失去未來主導權",
+      "link": "https://infosecu.technews.tw/2026/11/20/the-dangers-of-ai-handoverism/",
+      "summary": "人工智慧（AI）快速躍進，矽谷近期出現新詞彙「交棒主義」（handoverism），引發激烈討論。《金融時報》 [&#8230;]",
+      "date": "2026-11-20T07:10:10+00:00",
       "sourceId": "technews",
       "cats": [
         "market",
@@ -113,11 +126,11 @@
       ]
     },
     {
-      "id": "e617283ee83a",
-      "title": "空頭狙擊引爆監管風暴！AMD 盤中重挫近 9% 深度剖析四大做空核心指控",
-      "link": "https://finance.technews.tw/2026/11/20/amd-plunges-nearly-9-during-trading-an-in-depth-analysis-of-four-key-allegations-from-short-sellers/",
-      "summary": "美商半導體大廠超微半導體（AMD）在美股市場遭遇沉重賣壓，盤中股價一度重挫近 9%。市場震盪的核心導火索，源自 [&#8230;]",
-      "date": "2026-11-20T00:45:07+00:00",
+      "id": "aa490af89a30",
+      "title": "AI、半導體帶動電力需求成長，台電攜手產學界培育電力人才",
+      "link": "https://technews.tw/2026/11/20/ai-semiconductor-growth-drives-electricity-demand-taipower-partners-industry-academia-cultivate-power-talent/",
+      "summary": "隨著 AI 與半導體產業快速發展，國內用電需求持續增加，電力產業也面臨人才培育與技術傳承挑戰。台灣電力與能源工 [&#8230;]",
+      "date": "2026-11-20T06:58:42+00:00",
       "sourceId": "technews",
       "cats": [
         "market",
@@ -126,63 +139,11 @@
       ]
     },
     {
-      "id": "23c98882ed38",
-      "title": "傳美出口管制新規衝擊，台積電、三星暫停部分對中晶片出貨",
-      "link": "https://technews.tw/2026/11/20/tsmc-and-samsung-suspend-some-chip-shipments-to-chinese-customers/",
-      "summary": "英國《金融時報》引述知情人士報導，美國商務部推出一項出口管制新規定後，台積電與三星電子已暫停部分對中國客戶的晶 [&#8230;]",
-      "date": "2026-11-20T00:15:10+00:00",
-      "sourceId": "technews",
-      "cats": [
-        "market",
-        "process",
-        "material"
-      ]
-    },
-    {
-      "id": "25216a844efa",
-      "title": "韓國研發奈米氣凝膠接合材料，碳纖維複材加熱提速近倍、接合強度增三成",
-      "link": "https://technews.tw/2026/11/20/kims-develops-high-efficiency-induction-joining-technology-based-on-nanocomposite-aerogels/",
-      "summary": "結合奈米碳管、磁性氧化鐵與尼龍 6 的氣凝膠夾層，讓感應加熱同時利用電與磁兩種發熱機制，實驗中初始升溫速率最多 [&#8230;]",
-      "date": "2026-11-20T00:10:36+00:00",
-      "sourceId": "technews",
-      "cats": [
-        "market",
-        "process",
-        "material"
-      ]
-    },
-    {
-      "id": "b684c3ba1a92",
-      "title": "別傻了，輝達不能沒有黃仁勳",
-      "link": "https://finance.technews.tw/2026/11/20/nvidia-jensen-huang-indispensable/",
-      "summary": "如果說 30 多年來，全球科技產業有哪位執行長最難取代，NVIDIA 創辦人黃仁勳絕對榜上有名。然而，黃仁勳近 [&#8230;]",
-      "date": "2026-11-20T00:00:00+00:00",
-      "sourceId": "technews",
-      "cats": [
-        "market",
-        "process",
-        "material"
-      ]
-    },
-    {
-      "id": "6a84649c407c",
-      "title": "台積電罕見入股 OpenAI、Anthropic，揭密護國神山「固樁兼獵獨角獸」兩手策略",
-      "link": "https://finance.technews.tw/2026/11/20/tsmc-invests-anthropic-openai-forms-investment-subsidiary/",
-      "summary": "台積電董事會近期公告，將入股美國兩大 AI 公司，並成立新的投資子公司。 在最後一刻宣布入股，台積電要以此穩住 [&#8230;]",
-      "date": "2026-11-19T23:50:49+00:00",
-      "sourceId": "technews",
-      "cats": [
-        "market",
-        "process",
-        "material"
-      ]
-    },
-    {
-      "id": "0f2a56e8faae",
-      "title": "路透：黃仁勳辭職後可提名二董事，仍可左右輝達董事會",
-      "link": "https://finance.technews.tw/2026/11/20/jensen-can-still-nominate-two-directors-after-stepping-down/",
-      "summary": "輝達（Nvidia）共同創辦人黃仁勳雖已辭去執行長職務，但路透社報導，黃仁勳依法符合提名董事候選人的資格，可在 [&#8230;]",
-      "date": "2026-11-19T23:30:19+00:00",
+      "id": "b886e6b5cd30",
+      "title": "台積電創逾 7 個月新低價，盤中零股交易衝逾 241 億元",
+      "link": "https://finance.technews.tw/2026/11/20/tsmc-2000-stock-price/",
+      "summary": "晶圓代工廠台積電今天股價開低走低，盤中一度跌破 2,000 元關卡，滑落至 1,970 元，創下 7 個多月來 [&#8230;]",
+      "date": "2026-11-20T06:45:21+00:00",
       "sourceId": "technews",
       "cats": [
         "market",
@@ -196,32 +157,6 @@
       "link": "https://www.eetimes.com/nvidia-reports-115-8b-in-quarterly-revenue-under-interim-ceo/",
       "summary": "Strong AI infrastructure demand helped Nvidia revenue and profit as the company deals with leadership changes. The post Nvidia Reports $115.8B in Quarterly Revenue Under Interim CEO appeared first on EE Times.",
       "date": "2026-11-19T10:26:18+00:00",
-      "sourceId": "eetimes",
-      "cats": [
-        "process",
-        "material",
-        "equipment"
-      ]
-    },
-    {
-      "id": "f8f4ee655567",
-      "title": "Edge AI Moves Agricultural Intelligence from the Cloud to the Field",
-      "link": "https://www.eetimes.com/edge-ai-moves-agricultural-intelligence-from-the-cloud-to-the-field/",
-      "summary": "NXP and Nvidia tackle the challenges of delivering computing power, energy efficiency, and safety as agricultural machinery becomes autonomous. The post Edge AI Moves Agricultural Intelligence from the Cloud to the Field appeared first on EE Times.",
-      "date": "2026-11-18T06:59:00+00:00",
-      "sourceId": "eetimes",
-      "cats": [
-        "process",
-        "material",
-        "equipment"
-      ]
-    },
-    {
-      "id": "a2b21e003301",
-      "title": "Marc Hijink on ASML’s Culture, Supply Chain, and Geopolitics",
-      "link": "https://www.eetimes.com/marc-hijink-on-asmls-culture-supply-chain-and-geopolitics/",
-      "summary": "Explore how ASML’s partner-driven culture, EUV dominance, and geopolitical pressures reshaped chipmaking in Marc Hijink’s interview. The post Marc Hijink on ASML’s Culture, Supply Chain, and Geopolitics appeared first on EE Times.",
-      "date": "2026-11-17T22:37:22+00:00",
       "sourceId": "eetimes",
       "cats": [
         "process",
