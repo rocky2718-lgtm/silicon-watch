@@ -1,6 +1,6 @@
 {
-  "updated": "2026-11-19T20:25:25.358606+00:00",
-  "count": 11,
+  "updated": "2026-11-20T02:57:15.257765+00:00",
+  "count": 20,
   "sources": [
     {
       "id": "technews",
@@ -61,6 +61,136 @@
   ],
   "articles": [
     {
+      "id": "1569c3ae9d00",
+      "title": "路透：台積電暫停中國 16 奈米以下訂單，替代輝達晶片研發受阻",
+      "link": "https://technews.tw/2026/11/20/tsmc-suspends-china-sub-16nm-orders-alternative-nvidia-chip-rd-stalled/",
+      "summary": "美國商務部先進晶片出口管制新規今天生效。路透社今天引述知情人士消息指出，根據台積電指引，受影響中國客戶原則上只 [&#8230;]",
+      "date": "2026-11-20T01:50:51+00:00",
+      "sourceId": "technews",
+      "cats": [
+        "market",
+        "process",
+        "material"
+      ]
+    },
+    {
+      "id": "6104a6b8e859",
+      "title": "美光桃園勞資爭議影響企業全球產能布局，台廠亦重新思考當地設點決策",
+      "link": "https://finance.technews.tw/2026/11/20/labor-dispute-at-microns-taoyuan-facility-impacts-companys-global-production-footprint/",
+      "summary": "美商記憶體大廠美光科技（Micron）在台灣桃園廠的勞資爭議持續延燒，在內部協商不確定性提高之後，後續在台灣的 [&#8230;]",
+      "date": "2026-11-20T01:45:06+00:00",
+      "sourceId": "technews",
+      "cats": [
+        "market",
+        "process",
+        "material"
+      ]
+    },
+    {
+      "id": "163e18d5cbcc",
+      "title": "AI ASIC 與 TPU 動能強勁，大摩喊聯發科目標價 6,188 元",
+      "link": "https://finance.technews.tw/2026/11/20/morgan-stanley-sets-mediatek-price-target-at-nt6188/",
+      "summary": "外資摩根士丹利（Morgan Stanley，大摩）最新研發報告指出，亞太高峰會（Asia Pacific S [&#8230;]",
+      "date": "2026-11-20T01:10:36+00:00",
+      "sourceId": "technews",
+      "cats": [
+        "market",
+        "process",
+        "material"
+      ]
+    },
+    {
+      "id": "aaf2b7f7f115",
+      "title": "AI 硬體撐腰，大摩上修台灣 2027 年 GDP 成長至 8.7%",
+      "link": "https://technews.tw/2026/11/20/morgan-stanley-raises-taiwan-2027-gdp-growth-forecast-8-7-ai-hardware-support/",
+      "summary": "根據摩根士丹利（Morgan Stanley）最新發布的 2027 年經濟展望報告，台灣與韓國在全球半導體供應 [&#8230;]",
+      "date": "2026-11-20T00:50:58+00:00",
+      "sourceId": "technews",
+      "cats": [
+        "market",
+        "process",
+        "material"
+      ]
+    },
+    {
+      "id": "e617283ee83a",
+      "title": "空頭狙擊引爆監管風暴！AMD 盤中重挫近 9% 深度剖析四大做空核心指控",
+      "link": "https://finance.technews.tw/2026/11/20/amd-plunges-nearly-9-during-trading-an-in-depth-analysis-of-four-key-allegations-from-short-sellers/",
+      "summary": "美商半導體大廠超微半導體（AMD）在美股市場遭遇沉重賣壓，盤中股價一度重挫近 9%。市場震盪的核心導火索，源自 [&#8230;]",
+      "date": "2026-11-20T00:45:07+00:00",
+      "sourceId": "technews",
+      "cats": [
+        "market",
+        "process",
+        "material"
+      ]
+    },
+    {
+      "id": "23c98882ed38",
+      "title": "傳美出口管制新規衝擊，台積電、三星暫停部分對中晶片出貨",
+      "link": "https://technews.tw/2026/11/20/tsmc-and-samsung-suspend-some-chip-shipments-to-chinese-customers/",
+      "summary": "英國《金融時報》引述知情人士報導，美國商務部推出一項出口管制新規定後，台積電與三星電子已暫停部分對中國客戶的晶 [&#8230;]",
+      "date": "2026-11-20T00:15:10+00:00",
+      "sourceId": "technews",
+      "cats": [
+        "market",
+        "process",
+        "material"
+      ]
+    },
+    {
+      "id": "25216a844efa",
+      "title": "韓國研發奈米氣凝膠接合材料，碳纖維複材加熱提速近倍、接合強度增三成",
+      "link": "https://technews.tw/2026/11/20/kims-develops-high-efficiency-induction-joining-technology-based-on-nanocomposite-aerogels/",
+      "summary": "結合奈米碳管、磁性氧化鐵與尼龍 6 的氣凝膠夾層，讓感應加熱同時利用電與磁兩種發熱機制，實驗中初始升溫速率最多 [&#8230;]",
+      "date": "2026-11-20T00:10:36+00:00",
+      "sourceId": "technews",
+      "cats": [
+        "market",
+        "process",
+        "material"
+      ]
+    },
+    {
+      "id": "b684c3ba1a92",
+      "title": "別傻了，輝達不能沒有黃仁勳",
+      "link": "https://finance.technews.tw/2026/11/20/nvidia-jensen-huang-indispensable/",
+      "summary": "如果說 30 多年來，全球科技產業有哪位執行長最難取代，NVIDIA 創辦人黃仁勳絕對榜上有名。然而，黃仁勳近 [&#8230;]",
+      "date": "2026-11-20T00:00:00+00:00",
+      "sourceId": "technews",
+      "cats": [
+        "market",
+        "process",
+        "material"
+      ]
+    },
+    {
+      "id": "6a84649c407c",
+      "title": "台積電罕見入股 OpenAI、Anthropic，揭密護國神山「固樁兼獵獨角獸」兩手策略",
+      "link": "https://finance.technews.tw/2026/11/20/tsmc-invests-anthropic-openai-forms-investment-subsidiary/",
+      "summary": "台積電董事會近期公告，將入股美國兩大 AI 公司，並成立新的投資子公司。 在最後一刻宣布入股，台積電要以此穩住 [&#8230;]",
+      "date": "2026-11-19T23:50:49+00:00",
+      "sourceId": "technews",
+      "cats": [
+        "market",
+        "process",
+        "material"
+      ]
+    },
+    {
+      "id": "0f2a56e8faae",
+      "title": "路透：黃仁勳辭職後可提名二董事，仍可左右輝達董事會",
+      "link": "https://finance.technews.tw/2026/11/20/jensen-can-still-nominate-two-directors-after-stepping-down/",
+      "summary": "輝達（Nvidia）共同創辦人黃仁勳雖已辭去執行長職務，但路透社報導，黃仁勳依法符合提名董事候選人的資格，可在 [&#8230;]",
+      "date": "2026-11-19T23:30:19+00:00",
+      "sourceId": "technews",
+      "cats": [
+        "market",
+        "process",
+        "material"
+      ]
+    },
+    {
       "id": "53718f63ec68",
       "title": "Nvidia Reports $115.8B in Quarterly Revenue Under Interim CEO",
       "link": "https://www.eetimes.com/nvidia-reports-115-8b-in-quarterly-revenue-under-interim-ceo/",
@@ -71,110 +201,6 @@
         "process",
         "material",
         "equipment"
-      ]
-    },
-    {
-      "id": "29b26ee26740",
-      "title": "美光新加坡 HBM 先進封裝廠首部機台進駐，預計 2027 年初進行產出",
-      "link": "https://finance.technews.tw/2026/11/19/micron-singapore-hbm-advanced-packaging-plant-installs-first-machine/",
-      "summary": "美商記憶體大廠美光科技（Micron Technology, Inc.）19日於新加坡的高頻寬記憶體（HBM） [&#8230;]",
-      "date": "2026-11-19T10:00:35+00:00",
-      "sourceId": "technews",
-      "cats": [
-        "market",
-        "process",
-        "material"
-      ]
-    },
-    {
-      "id": "ebbf85565253",
-      "title": "美擴大封殺中國海外算力！傳三星嚴查代工來源，中國 AI 業者壓力山大",
-      "link": "https://technews.tw/2026/11/19/us-china-ai-chip-export/",
-      "summary": "美國近期大幅收緊先進 AI 晶片與半導體出口管制，同步封殺中國繞道海外晶圓代工與封測通路，外界預期將對中國 A [&#8230;]",
-      "date": "2026-11-19T09:45:55+00:00",
-      "sourceId": "technews",
-      "cats": [
-        "market",
-        "process",
-        "material"
-      ]
-    },
-    {
-      "id": "0e7edb570ffd",
-      "title": "中國晶片管制下另闢蹊徑！改利用美國 AI 模型，訓練本土競爭對手",
-      "link": "https://technews.tw/2026/11/19/china-and-us-ai-models/",
-      "summary": "美國持續收緊先進 AI 晶片對中國出口限制，中國 AI 業者正尋求其他方式提升本土模型能力。根據路透社調查發現 [&#8230;]",
-      "date": "2026-11-19T08:41:49+00:00",
-      "sourceId": "technews",
-      "cats": [
-        "market",
-        "process",
-        "material"
-      ]
-    },
-    {
-      "id": "99074fba7aa8",
-      "title": "川普：再等兩三年，或允許輝達 Blackwell 晶片賣中國",
-      "link": "https://technews.tw/2026/11/19/trump-2-3-years-or-allow-nvidia-blackwell-chips-china-sales/",
-      "summary": "彭博（Bloomberg）報導，美國總統川普表示，未來美國可能允許輝達（Nvidia）將市場高度關注的 Bla [&#8230;]",
-      "date": "2026-11-19T07:40:10+00:00",
-      "sourceId": "technews",
-      "cats": [
-        "market",
-        "process",
-        "material"
-      ]
-    },
-    {
-      "id": "66a5457a89fe",
-      "title": "中系 CSP 下修訂單抵銷北美拉貨，2027 年 NAND Flash 供需將反轉走跌",
-      "link": "https://technews.tw/2026/11/19/nand-flash-supply-demand-reverse-decline-2027-chinese-csps-order-cuts-offset-north-america-demand/",
-      "summary": "根據 TrendForce 最新記憶體產業研究，2027 年全球 NAND Flash 產業將迎來供需反轉；在 [&#8230;]",
-      "date": "2026-11-19T07:15:34+00:00",
-      "sourceId": "technews",
-      "cats": [
-        "market",
-        "process",
-        "material"
-      ]
-    },
-    {
-      "id": "4a3f67ad3ed4",
-      "title": "西門子擬收購美商 Breker，拓展系統單晶片驗證產品組合",
-      "link": "https://technews.tw/2026/11/19/siemens-breker-verification-systems/",
-      "summary": "西門子日前已簽署收購 Breker Verification Systems 公司的協議，將進一步拓展西門子的 [&#8230;]",
-      "date": "2026-11-19T06:56:09+00:00",
-      "sourceId": "technews",
-      "cats": [
-        "market",
-        "process",
-        "material"
-      ]
-    },
-    {
-      "id": "f4e1cd2b4ece",
-      "title": "AMD 日本發文「AMD loves gamers」，遭社群註記打臉：資料中心才是真愛",
-      "link": "https://technews.tw/2026/11/19/amds-twitter-brag-that-it-loves-gamers-met-with-savage-community-note/",
-      "summary": "AMD 日本 X 帳號近日發文強調，公司最重視與玩家的互動，並直接寫下「AMD loves gamers」。原 [&#8230;]",
-      "date": "2026-11-19T06:25:04+00:00",
-      "sourceId": "technews",
-      "cats": [
-        "market",
-        "process",
-        "material"
-      ]
-    },
-    {
-      "id": "3598ee76334a",
-      "title": "Anduril 創辦人籲讓黃仁勳復職，稱其下台正合中國之意",
-      "link": "https://technews.tw/2026/11/19/palmer-luckey-thinks-china-is-thrilled-to-have-jensen-out-so-he-wants-the-ousted-nvidia-ceo-reinstated/",
-      "summary": "美國國防科技公司 Anduril（安杜里爾）創辦人拉奇（Palmer Luckey）認為，輝達（Nvidia） [&#8230;]",
-      "date": "2026-11-19T06:10:09+00:00",
-      "sourceId": "technews",
-      "cats": [
-        "market",
-        "process",
-        "material"
       ]
     },
     {
@@ -200,6 +226,97 @@
       "cats": [
         "process",
         "material",
+        "equipment"
+      ]
+    },
+    {
+      "id": "fb91bb3083a8",
+      "title": "Another Giant Leap: The Rubin CPX Specialized Accelerator & Rack",
+      "link": "https://semianalysis.com/2025/09/10/another-giant-leap-the-rubin-cpx-specialized-accelerator-rack/",
+      "summary": "Nvidia announced the Rubin CPX, a solution that is specifically designed to be optimized for the prefill phase, with the single-die Rubin CPX heavily emphasizing compute FLOPS over memory bandwidth. This is a game changer for inference, and its significance is surpassed only by the March 2024 announ",
+      "date": "2025-09-10T19:57:18+00:00",
+      "sourceId": "semianalysis",
+      "cats": [
+        "process",
+        "market",
+        "equipment"
+      ]
+    },
+    {
+      "id": "8fdb407959b5",
+      "title": "Huawei Ascend Production Ramp: Die Banks, TSMC Continued Production, HBM is The Bottleneck",
+      "link": "https://semianalysis.com/2025/09/08/huawei-ascend-production-ramp/",
+      "summary": "Compute is the lifeblood of AI. He who controls the spice controls the universe the compute will control the production of tokens and reap the benefits of AI. Without compute you do not have a seat at the table. The United States technology community is all in on compute and AI as the next platform ",
+      "date": "2025-09-08T09:54:57+00:00",
+      "sourceId": "semianalysis",
+      "cats": [
+        "process",
+        "market",
+        "equipment"
+      ]
+    },
+    {
+      "id": "4d1d636eb5c1",
+      "title": "H100 vs GB200 NVL72 Training Benchmarks – Power, TCO, and Reliability Analysis, Software Improvement Over Time",
+      "link": "https://semianalysis.com/2025/08/20/h100-vs-gb200-nvl72-training-benchmarks/",
+      "summary": "Frontier model training has pushed GPUs and AI systems to their absolute limits, making cost, efficiency, power, performance per TCO, and reliability central to the discussion on effective training. The Hopper vs Blackwell comparisons are not as simple as Nvidia would have you believe. In this repor",
+      "date": "2025-08-20T04:56:35+00:00",
+      "sourceId": "semianalysis",
+      "cats": [
+        "process",
+        "market",
+        "equipment"
+      ]
+    },
+    {
+      "id": "b13ecf27cefb",
+      "title": "Scaling the Memory Wall: The Rise and Roadmap of HBM",
+      "link": "https://semianalysis.com/2025/08/12/scaling-the-memory-wall-the-rise-and-roadmap-of-hbm/",
+      "summary": "The first portion of this report will explain HBM, the manufacturing process, dynamics between vendors, KVCache offload, disaggregated prefill decode, and wide / high-rank EP. The rest of the report will dive deeply into the future of HBM. We will cover the revolutionary change coming to HBM4 with c",
+      "date": "2025-08-12T01:16:06+00:00",
+      "sourceId": "semianalysis",
+      "cats": [
+        "process",
+        "market",
+        "equipment"
+      ]
+    },
+    {
+      "id": "4da2f0c9f207",
+      "title": "Robotics Levels of Autonomy",
+      "link": "https://semianalysis.com/2025/07/30/robotics-levels-of-autonomy/",
+      "summary": "Robots have powered manufacturing for decades, yet they stayed single-purpose and thrived only in perfect settings. Previous attempts at intelligent machines overpromised and underdelivered. But they were too early. Today, modern AI paradigms convert most robot roadblocks into data problems and push",
+      "date": "2025-07-30T17:02:25+00:00",
+      "sourceId": "semianalysis",
+      "cats": [
+        "process",
+        "market",
+        "equipment"
+      ]
+    },
+    {
+      "id": "0409fbe555b7",
+      "title": "Intel 18A Details & Cost, Future of DRAM 4F2 vs 3D, Backside Power Adoption (or Not), China’s FlipFET, Digital Twins from Atoms to Fabs, and More",
+      "link": "https://semianalysis.com/2025/07/21/vlsi2025/",
+      "summary": "Long time readers will recall that SemiAnalysis covers more than just datacenters and AMD. Today we’re back to semiconductors with a tech-focused roundup of the best from this year’s VLSI conference, the premiere design and integration. That includes the latest in chips manufacturing: fab digital tw",
+      "date": "2025-07-21T14:23:37+00:00",
+      "sourceId": "semianalysis",
+      "cats": [
+        "process",
+        "market",
+        "equipment"
+      ]
+    },
+    {
+      "id": "9f42602799fd",
+      "title": "Meta Superintelligence – Leadership Compute, Talent, and Data",
+      "link": "https://semianalysis.com/2025/07/11/meta-superintelligence-leadership-compute-talent-and-data/",
+      "summary": "Meta’s shocking purchase of 49% of Scale AI at a ~$30B valuation shows that money is of no concern for the $100B annual cashflow ad machine. Despite seemingly unlimited resources, Meta has been falling behind foundation labs in model performance.",
+      "date": "2025-07-11T20:12:19+00:00",
+      "sourceId": "semianalysis",
+      "cats": [
+        "process",
+        "market",
         "equipment"
       ]
     }
