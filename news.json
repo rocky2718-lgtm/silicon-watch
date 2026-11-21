@@ -1,6 +1,6 @@
 {
-  "updated": "2026-11-20T21:44:41.943625+00:00",
-  "count": 14,
+  "updated": "2026-11-21T03:03:57.892917+00:00",
+  "count": 11,
   "sources": [
     {
       "id": "technews",
@@ -61,6 +61,32 @@
   ],
   "articles": [
     {
+      "id": "9958c8a3c44c",
+      "title": "輝達再遭政府盯上！路透：美 SEC 正調查輝達會計處理方式",
+      "link": "https://technews.tw/2026/11/21/nvidia-us-sec-investigation/",
+      "summary": "輝達（NVIDIA）近期接連陷入監管風暴，如今再傳出遭美國證券交易委員會（SEC）調查會計處理方式。兩名知情人 [&#8230;]",
+      "date": "2026-11-21T02:06:27+00:00",
+      "sourceId": "technews",
+      "cats": [
+        "market",
+        "process",
+        "material"
+      ]
+    },
+    {
+      "id": "44bc32f7d0dd",
+      "title": "專訪》AI 時代業界拚「搶快」！科林研發營運長揭密：為何要將實驗室搬到客戶身邊？",
+      "link": "https://technews.tw/2026/11/21/lam-research-sesha-varadarajan-interview/",
+      "summary": "半導體設備大廠科林研發（Lam Research）近日在苗栗竹南的全新技術中心舉行動土典禮，該基地面積超過 4 [&#8230;]",
+      "date": "2026-11-20T23:00:05+00:00",
+      "sourceId": "technews",
+      "cats": [
+        "market",
+        "process",
+        "material"
+      ]
+    },
+    {
       "id": "972473900e0e",
       "title": "Anthropic’s IPO and the B2D Strategy",
       "link": "https://www.eetimes.com/anthropic-ipo-and-the-b2d-strategy/",
@@ -71,71 +97,6 @@
         "process",
         "material",
         "equipment"
-      ]
-    },
-    {
-      "id": "7e6bba1cca2f",
-      "title": "存貨天數拉長！七大網通廠高價搶記憶體，如今恐陷庫存跌價壓力",
-      "link": "https://technews.tw/2026/11/20/networking-equipment-manufacturer-memory/",
-      "summary": "過去記憶體市場面臨價格暴漲，多家大廠為確保貨源，紛透過簽訂長約提前鎖定供應。近期記憶體漲價行情開始出現分歧，市 [&#8230;]",
-      "date": "2026-11-20T08:12:58+00:00",
-      "sourceId": "technews",
-      "cats": [
-        "market",
-        "process",
-        "material"
-      ]
-    },
-    {
-      "id": "d7f3a44d01b7",
-      "title": "輝達共同創辦人員工大會哽咽，批黃仁勳「背叛公司核心價值」",
-      "link": "https://technews.tw/2026/11/20/nvidia-co-founder-choked-up-employee-meeting-criticizes-jensen-huang-betraying-core-values/",
-      "summary": "韓國媒體朝鮮日報今天報導，晶片大廠輝達共同創辦人馬拉科夫斯基在全體員工大會上，語帶哽咽公開批評前執行長黃仁勳背 [&#8230;]",
-      "date": "2026-11-20T07:50:50+00:00",
-      "sourceId": "technews",
-      "cats": [
-        "market",
-        "process",
-        "material"
-      ]
-    },
-    {
-      "id": "640c883f0e0f",
-      "title": "輝達洽購擴散語言模型新創 Inception，金額逾 5 億美元",
-      "link": "https://finance.technews.tw/2026/11/20/nvidia-in-talks-to-acquire-inception-for-over-500m/",
-      "summary": "科技媒體 The Information 19 日引述三名知情人士報導，輝達（Nvidia）正與成立僅兩年的 [&#8230;]",
-      "date": "2026-11-20T07:30:53+00:00",
-      "sourceId": "technews",
-      "cats": [
-        "market",
-        "process",
-        "material"
-      ]
-    },
-    {
-      "id": "b479df056a39",
-      "title": "AI「交棒主義」掀論戰，學者警告人類恐失去未來主導權",
-      "link": "https://infosecu.technews.tw/2026/11/20/the-dangers-of-ai-handoverism/",
-      "summary": "人工智慧（AI）快速躍進，矽谷近期出現新詞彙「交棒主義」（handoverism），引發激烈討論。《金融時報》 [&#8230;]",
-      "date": "2026-11-20T07:10:10+00:00",
-      "sourceId": "technews",
-      "cats": [
-        "market",
-        "process",
-        "material"
-      ]
-    },
-    {
-      "id": "aa490af89a30",
-      "title": "AI、半導體帶動電力需求成長，台電攜手產學界培育電力人才",
-      "link": "https://technews.tw/2026/11/20/ai-semiconductor-growth-drives-electricity-demand-taipower-partners-industry-academia-cultivate-power-talent/",
-      "summary": "隨著 AI 與半導體產業快速發展，國內用電需求持續增加，電力產業也面臨人才培育與技術傳承挑戰。台灣電力與能源工 [&#8230;]",
-      "date": "2026-11-20T06:58:42+00:00",
-      "sourceId": "technews",
-      "cats": [
-        "market",
-        "process",
-        "material"
       ]
     },
     {
